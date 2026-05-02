@@ -5,12 +5,17 @@ on:
     - cron: '30 7 * * *'   # 07:30 UTC = 3:30 AM ET (before US open)
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   fetch-and-publish:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: actions/setup-python@v5
         with:
