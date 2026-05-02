@@ -1,0 +1,36 @@
+name: Daily Earnings Recaps
+
+on:
+  schedule:
+    - cron: '30 7 * * *'   # 07:30 UTC = 3:30 AM ET (before US open)
+  workflow_dispatch:
+
+jobs:
+  fetch-and-publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - run: pip install -r requirements.txt
+
+      - name: Fetch earnings + generate commentary
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: python scripts/fetch_earnings.py
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add reports/ index.html
+          git diff --staged --quiet || (
+            git commit -m "Earnings recaps — $(date +'%Y-%m-%d') 🤖" &&
+            git pull --rebase --autostash &&
+            git push
+          )
