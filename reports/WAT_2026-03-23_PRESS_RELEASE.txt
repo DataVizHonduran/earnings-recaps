@@ -1,0 +1,2363 @@
+Company: WATERS CORP /DE/
+Filed: 2026-03-23
+Type: PRESS_RELEASE
+Source: https://www.sec.gov/Archives/edgar/data/1000697/000119312526119753/d70582dex11.htm
+
+EX-1.1
+ 2
+ d70582dex11.htm
+ EX-1.1
+ 
+ 
+ EX-1.1 
+ 
+ 
+
+ 
+ Exhibit 1.1 
+ AUGUSTA SPINCO CORPORATION 
+ $650,000,000 4.321% SENIOR NOTES DUE 2027 
+ $600,000,000 4.398% SENIOR NOTES DUE 2029 
+ $750,000,000 4.656% SENIOR NOTES DUE 2031 
+ $750,000,000 4.945% SENIOR NOTES DUE 2033 
+ $750,000,000 5.245% SENIOR NOTES DUE 2036 
+ UNDERWRITING AGREEMENT 
+ March 17, 2026 B ARCLAYS 
+C APITAL I NC . C ITIGROUP G LOBAL M ARKETS I NC . 
+ J.P. M ORGAN S ECURITIES LLC 
+ B OF A S ECURITIES , I NC . 
+ HSBC S ECURITIES (USA) I NC . As
+Representatives of the several Underwriters named in Schedule I attached hereto, 
+ c/o Barclays Capital Inc. 745 Seventh Avenue 
+ New York, New York 10019 c/o Citigroup Global Markets Inc. 
+ 388 Greenwich Street New York, New York 10013 
+ c/o J.P. Morgan Securities LLC 270 Park Avenue 
+ New York, New York 10017 c/o BofA Securities, Inc. 
+ One Bryant Park New York, New York 10036 
+ c/o HSBC Securities (USA) Inc. 66 Hudson Boulevard 
+ New York, New York 10001 
+ 
+
+ 
+ 
+
+ 
+ Ladies and Gentlemen: 
+ Augusta SpinCo Corporation, a Delaware corporation (the Company ) and a wholly-owned subsidiary of Waters
+Corporation, a Delaware corporation (the Parent Guarantor ), proposes, upon the terms and conditions set forth in this agreement (this Agreement ), to issue and sell to the several underwriters
+named in Schedule I hereto (the Underwriters ), for whom Barclays Capital Inc., Citigroup Global Markets Inc., J.P. Morgan Securities LLC, BofA Securities, Inc. and HSBC Securities (USA) Inc. are acting as representatives
+(in such capacity, the Representatives ), (i) $650,000,000 in aggregate principal amount of the Company s 4.321% Senior Notes due 2027 (the 2027 Notes ), (ii) $600,000,000 in
+aggregate principal amount of the Company s 4.398% Senior Notes due 2029 (the 2029 Notes ), (iii) $750,000,000 in aggregate principal amount of the Company s 4.656% Senior Notes due 2031 (the
+ 2031 Notes ), (iv) $750,000,000 in aggregate principal amount of the Company s 4.945% Senior Notes due 2033 (the 2033 Notes ) and (v) $750,000,000 in aggregate
+principal amount of the Company s 5.245% Senior Notes due 2036 (the 2036 Notes and, together with the 2027 Notes, the 2029 Notes, the 2031 Notes and the 2033 Notes, the Notes ). The Notes
+(i) will have terms and provisions that are summarized in the Pricing Disclosure Package and the Prospectus (each as defined below), and (ii) are to be issued pursuant to an Indenture, to be dated as of the Closing Date (as defined below)
+(the Base Indenture ), to be entered into among the Company, the Parent Guarantor and U.S. Bank Trust Company, National Association, as trustee (the Trustee ), as supplemented by a
+Supplemental Indenture, to be dated as of the Closing Date (the Supplemental Indenture and, together with the Base Indenture, the Indenture ), to be entered into among the Company, the
+Guarantors (as defined below) and the Trustee. The Company s obligations under the Notes, including the due and punctual payment of interest on the Notes, will be irrevocably and unconditionally guaranteed (the
+ Guarantees ) by the Parent Guarantor and the other guarantors listed in Schedule II hereto (together the Guarantors ). As used herein, the term Notes shall include the Guarantees,
+unless the context otherwise requires. This Agreement is to confirm the agreement concerning the purchase of the Notes from the Company by the Underwriters. 
+ 1. Representations, Warranties and Agreements of the Company and the Guarantors . The Company and the Guarantors, jointly and severally,
+represent, warrant and agree that: (a) Registration Statement. An automatic shelf registration
+statement, as defined under Rule 405 under the Securities Act of 1933, as amended (the Securities Act ), on Form S-3 (File
+ No. 333-294314) relating to the Notes (i) has been prepared by the Company and the Guarantors in conformity with the requirements of the Securities Act and the rules and regulations of the
+Securities and Exchange Commission (the Commission ) thereunder; (ii) has been filed with the Commission under the Securities Act; and (iii) is deemed to have become effective under the Securities Act. Copies of
+such registration statement and any amendment thereto have been delivered by the Company to you as the Representatives. The Company shall be deemed to have delivered copies of the Registration Statement to the Representatives if the Company has
+filed such documents with the Commission via the EDGAR filing system (or any successor system). As used in this Agreement: 
+ (i) Applicable Time means 5:00 p.m. (New York City time) on March 17, 2026; 
+ (ii) Base Prospectus means the base prospectus, dated March 16, 2026, relating to certain
+securities of the Company, filed as part of the Registration Statement; 
+ 2 
+
+ 
+
+ 
+ 
+
+ 
+ (iii) Effective Date means the date and time as
+of which such registration statement became, or is deemed to have become, effective in accordance with the rules and regulations under the Securities Act; 
+ (iv) Issuer Free Writing Prospectus means each issuer free writing prospectus (as
+defined in Rule 433 under the Securities Act) prepared by or on behalf of the Company or used or referred to by the Company in connection with the offering of the Notes; 
+ (v) Preliminary Prospectus means the Base Prospectus together with any preliminary prospectus
+supplement relating to the Notes filed with the Commission pursuant to Rule 424(b) under the Securities Act; (vi)
+ Pricing Disclosure Package means, as of the Applicable Time, the most recent Preliminary Prospectus, together with each Issuer Free Writing Prospectus filed or used by the Company at or before the Applicable Time, other
+than a road show that is an Issuer Free Writing Prospectus but is not required to be filed under Rule 433 under the Securities Act; 
+ (vii) Prospectus means the Base Prospectus together with any final prospectus supplement relating
+to the Notes filed with the Commission pursuant to Rule 424(b) under the Securities Act; and (viii)
+ Registration Statement means, collectively, the various parts of the automatic shelf registration statement, as defined under Rule 405 under the Securities Act, on Form
+ S-3 (File No. 333-294314) relating to the Notes, each as amended as of the Effective Date for such part, including any Preliminary Prospectus or the Prospectus, all
+exhibits to such registration statement and including the information deemed by virtue of Rule 430B under the Securities Act to be part of such registration statement as of the Effective Date. 
+ Any reference to any Preliminary Prospectus or the Prospectus shall be deemed to refer to and include any documents incorporated by reference
+therein pursuant to Form S-3 under the Securities Act as of the date of such Preliminary Prospectus or the Prospectus, as the case may be. Any reference to the most recent Preliminary Prospectus 
+shall be deemed to refer to the latest Preliminary Prospectus included in the Registration Statement or filed pursuant to Rule 424(b) under the Securities Act prior to or on the date hereof (including, for purposes hereof, any documents incorporated
+by reference therein prior to or on the date hereof). Any reference to any amendment or supplement to any Preliminary Prospectus or the Prospectus shall be deemed to refer to and include any document filed under the Securities Exchange Act of 1934,
+as amended (the Exchange Act ), after the date of such Preliminary Prospectus or the Prospectus, as the case may be, and incorporated by reference in such Preliminary Prospectus or the Prospectus, as the case may be and
+before the date of such amendment or supplement and incorporated by reference in such Preliminary Prospectus or the Prospectus, as the case may be; and any reference to any amendment to the Registration Statement shall be deemed to include any
+document filed with the Commission pursuant to Section 13(a), 14 or 15(d) of the Exchange Act after the Effective Date and before the date of such amendment that is incorporated by reference in the Registration
+ 
+ 3 
+
+ 
+
+ 
+ 
+
+ 
+ 
+Statement. The Commission has not issued any order preventing or suspending the use of any Preliminary Prospectus or the Prospectus or suspending the effectiveness of the Registration Statement,
+and no proceeding or examination for such purpose or pursuant to Section 8A of the Securities Act has been instituted or threatened by the Commission. The Commission has not notified the Company or any Guarantor of any objection to the use of
+the form of the Registration Statement or any post-effective amendment thereto. (b) Status as Well-Known
+Seasoned Issuer. At the time of initial filing of the Registration Statement, the Parent Guarantor was, and on the date hereof, the Parent Guarantor is, a well-known seasoned issuer (as defined in Rule 405 under the
+Securities Act) eligible to use Form S-3 for the offering of the Notes. The Company was not an ineligible issuer (as defined in Rule 405 under the Securities Act) at the earliest time after the
+time of initial filing of the Registration Statement that the Company made a bona fide offer (within the meaning of Rule 164(h)(2) under the Securities Act) of the Notes. The Registration Statement is an automatic shelf registration
+statement (as defined in Rule 405 under the Securities Act) and was filed not earlier than the date that is three years prior to the Closing Date. 
+ (c) Registration Statement Conforms to Requirements of Securities Act and Exchange Act . The Registration Statement conformed and will
+conform in all material respects on the Effective Date and on the Closing Date, and any amendment to the Registration Statement filed after the date hereof will conform in all material respects when filed, to the requirements of the Securities Act
+and the rules and regulations thereunder. The most recent Preliminary Prospectus conformed, and the Prospectus will conform, in all material respects when filed with the Commission pursuant to Rule 424(b) under the Securities Act and on the Closing
+Date to the requirements of the Securities Act and the rules and regulations thereunder. The documents incorporated by reference in any Preliminary Prospectus or the Prospectus conformed, and any further documents so incorporated will conform, when
+filed with the Commission, in all material respects to the requirements of the Exchange Act or the Securities Act, as applicable, and the rules and regulations of the Commission thereunder. 
+ (d) No Omissions or Material Misstatements in Registration Statement . The Registration Statement did not, as of the Effective Date,
+contain an untrue statement of a material fact or omit to state a material fact required to be stated therein or necessary to make the statements therein not misleading; provided that no representation or warranty is made as to (i) that
+part of the Registration Statement which shall constitute the Statement of Eligibility and Qualification (Form T-1) of the Trustee under the Trust Indenture Act of 1939, as amended (the Trust
+Indenture Act ), or (ii) information contained in or omitted from the Registration Statement in reliance upon and in conformity with written information furnished to the Company and the Guarantors through the Representatives by or
+on behalf of any Underwriter specifically for inclusion therein, which information is specified in Section 8(e) of this Agreement. 
+ (e) No Omissions or Material Misstatements in Prospectus . The Prospectus will not, as of its date or as of the Closing Date, contain an
+untrue statement of a material fact or omit to state a material fact necessary in order to make the statements made therein, in the light of the circumstances under which they were made, not misleading; provided that no representation or
+warranty is made as to information contained in or omitted from the Prospectus in reliance upon and in conformity with written information furnished to the Company and the Guarantors through the Representatives by or on behalf of any Underwriter
+specifically for inclusion therein, which information is specified in Section 8(e) of this Agreement. 
+ 4 
+
+ 
+
+ 
+ 
+
+ 
+ (f) No Omissions or Material Misstatements in Incorporated Documents . The documents
+incorporated by reference in any Preliminary Prospectus or the Prospectus did not, and any further documents filed and incorporated by reference therein will not, when filed with the Commission, contain an untrue statement of a material fact or omit
+to state a material fact necessary in order to make the statements made therein, in the light of the circumstances under which they were made, not misleading. 
+ (g) No Omissions or Material Misstatements in Pricing Disclosure Package . The Pricing Disclosure Package did not, as of the Applicable
+Time, contain an untrue statement of a material fact or omit to state a material fact necessary in order to make the statements made therein, in the light of the circumstances under which they were made, not misleading; provided that no
+representation or warranty is made as to information contained in or omitted from the Pricing Disclosure Package in reliance upon and in conformity with written information furnished to the Company and the Guarantors through the Representatives by
+or on behalf of any Underwriter specifically for inclusion therein, which information is specified in Section 8(e) of this Agreement. 
+ (h) No Omissions or Material Misstatements in Issuer Free Writing Prospectus . Each Issuer Free Writing Prospectus listed in Schedule IV
+hereto, when taken together with the Pricing Disclosure Package, did not, as of the Applicable Time, contain an untrue statement of a material fact or omit to state a material fact necessary in order to make the statements made therein, in the light
+of the circumstances under which they were made, not misleading; provided that no representation or warranty is made as to information contained in or omitted from such Issuer Free Writing Prospectus listed in Schedule IV hereto in reliance
+upon and in conformity with written information furnished to the Company and the Guarantors through the Representatives by or on behalf of any Underwriter specifically for inclusion therein, which information is specified in Section 8(e) of
+this Agreement. (i) Issuer Free Writing Prospectus Conforms to Requirements of the Securities Act . Each Issuer Free Writing
+Prospectus conformed or will conform in all material respects to the requirements of the Securities Act and the rules and regulations thereunder on the date of first use, and the Company has complied with all prospectus delivery and any filing
+requirements applicable to such Issuer Free Writing Prospectus pursuant to the Securities Act and rules and regulations thereunder. The Company and the Guarantors have not made any offer relating to the Notes that would constitute an Issuer Free
+Writing Prospectus except (i) as set forth on Schedule IV and Schedule V hereto or (ii) that which the Representatives have been provided the opportunity to review and to which the Representatives do not reasonably object. The Company has
+retained in accordance with the Securities Act and the rules and regulations thereunder all Issuer Free Writing Prospectuses that were not required to be filed pursuant to the Securities Act and the rules and regulations thereunder. 
+ 5 
+
+ 
+
+ 
+ 
+
+ 
+ (j) Good Standing . Each of the Company, the Guarantors and the significant
+subsidiaries (as defined in Rule 1-02 of Regulation S-X under the Securities Act) of the Parent Guarantor (such significant subsidiaries of the Parent Guarantor, the
+ Significant Subsidiaries ), has been duly organized and is validly existing and in good standing as a corporation, partnership or limited liability company, as applicable, under the laws of their respective jurisdiction of
+organization and is duly qualified to do business and is in good standing as a foreign corporation or other business entity in each jurisdiction in which its ownership or lease of property or the conduct of its businesses requires such
+qualification, except where the failure to be so qualified or be in good standing would not, individually or in the aggregate, reasonably be expected to have a material adverse effect on the financial condition, results of operations or business of
+the Parent Guarantor and its subsidiaries taken as a whole (a Material Adverse Effect ). Each of the Company, the Guarantors and the Significant Subsidiaries has all power and authority necessary to own or hold its
+properties and to conduct the businesses in which it is engaged. (k) Authorized Capital . The Parent Guarantor has an authorized
+capitalization as set forth under the heading Description of Capital Stock in each of the Preliminary Prospectus and the Prospectus as of the date or dates set forth therein, and all of the issued shares of capital stock of the Parent
+Guarantor have been duly authorized and validly issued and are fully paid and non-assessable. All of the issued shares of capital stock, membership interests or other equity interests of each Significant
+Subsidiary have been duly authorized and validly issued, are fully paid (in the case of any Significant Subsidiary that is a limited liability company, to the extent required by such Significant Subsidiary s limited liability company
+agreement, and in the case of any Significant Subsidiary that is a limited partnership, to the extent required by such Significant Subsidiary s limited partnership agreement) and non-assessable (in the
+case of any Significant Subsidiary that is a limited liability company or a limited partnership, except as such non-assessability may be affected by applicable law in such Significant Subsidiary s
+jurisdiction of organization) (other than directors qualifying shares or foreign national qualifying capital stock) and are owned directly or indirectly by the Parent Guarantor, free and clear of all liens, encumbrances, equities or claims
+(collectively, Liens ), except for such Liens as would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect. 
+ (l) Indenture . The Company and each Guarantor have all requisite corporate, partnership or limited liability company power and
+authority, as applicable, to execute, deliver and perform their respective obligations under the Indenture. The Base Indenture has been duly authorized by the Company and the Parent Guarantor, and upon its execution and delivery, assuming due
+authorization, execution and delivery by the Trustee, will constitute the valid and binding agreement of the Company and the Parent Guarantor, enforceable against the Company and the Parent Guarantor in accordance with its terms, except as such
+enforceability may be limited by bankruptcy, fraudulent conveyance, insolvency, reorganization, moratorium, and other laws relating to or affecting creditors rights and remedies generally and by general equitable principles (regardless of
+whether such enforceability is considered in a proceeding in equity or at law) (such limitations, the Enforceability Exceptions ). The Supplemental Indenture has been duly authorized by the Company and the Guarantors, and
+upon its execution and delivery, assuming due authorization, execution and delivery by the Trustee, will constitute the valid and binding agreement of the Company and the Guarantors, enforceable against the Company and the Guarantors in accordance
+with its terms, except as such enforceability may be limited by the Enforceability Exceptions. The Indenture has been duly qualified under the Trust Indenture Act. The Indenture will conform in all material respects to the description thereof in
+each of the Pricing Disclosure Package and the Prospectus. 
+ 6 
+
+ 
+
+ 
+ 
+
+ 
+ (m) Notes . The Company has all requisite corporate power and authority to execute,
+deliver and perform its obligations under the Notes. The Notes have been duly authorized by the Company and, when duly executed by the Company in accordance with the terms of the Indenture and paid for by the Underwriters in accordance with the
+terms of this Agreement (assuming the (i) due authorization, execution and delivery of the Notes by the Trustee and (ii) due authentication and delivery of the Notes by the Trustee, in each case in the manner provided for in the
+Indenture), will constitute valid and binding obligations of the Company entitled to the benefits of the Indenture, enforceable against the Company in accordance with their terms, except as such enforceability may be limited by the Enforceability
+Exceptions. The Notes will conform in all material respects to the description thereof in each of the Pricing Disclosure Package and the Prospectus. 
+ (n) Guarantees . Each Guarantor has all requisite corporate, partnership or limited liability company power and authority, as
+applicable, to execute, deliver and perform its obligations under the Guarantees. The Guarantees have been duly authorized by the Guarantors and, when the Base Indenture and the Supplemental Indenture have been duly executed and delivered by the
+Guarantors in accordance with their respective terms, as applicable, and upon execution, authentication and delivery of the Notes in the manner provided for in the Indenture (assuming the (i) due authorization, execution and delivery of the
+Indenture and the Notes by the Trustee and (ii) due authentication and delivery of the Notes by the Trustee, in each case in the manner provided for in the Indenture), the Guarantees will constitute valid and binding obligations of the
+Guarantors, enforceable against the Guarantors in accordance with their terms, except as such enforceability may be limited by the Enforceability Exceptions. The Guarantees will conform in all material respects to the description thereof in each of
+the Pricing Disclosure Package and the Prospectus. (o) Underwriting Agreement . This Agreement has been duly and validly
+authorized, executed and delivered by the Company and the Guarantors. (p) No Conflicts. The issuance and sale of the Notes, the
+execution, delivery and performance by the Company and the Guarantors of the Notes, the Guarantees, the Indenture, and this Agreement and the consummation of the transactions contemplated hereby and thereby, will not (i) conflict with or result
+in a breach or violation of any of the terms or provisions of, impose any Lien upon any property or assets of the Company, the Guarantors or the Significant Subsidiaries, or constitute a default under, any indenture, mortgage, deed of trust, loan
+agreement, license, lease or other agreement or instrument to which the Company, the Guarantors or any of the Significant Subsidiaries is a party or by which the Company, the Guarantors or any of the Significant Subsidiaries is bound or to which any
+of the property or assets of the Company, the Guarantors or any of the Significant Subsidiaries is subject, (ii) result in any violation of the provisions of the charter or by-laws (or similar
+organizational documents) of the Company or the Guarantors, or (iii) result in any violation of any statute or any judgment, order, decree, rule or regulation of any court or governmental agency or body having jurisdiction over the Company, the
+Guarantors or any of the Significant Subsidiaries or any of their properties or assets, except, with respect to clauses (i) and (iii), conflicts, breaches, violations, defaults or impositions of Liens that would not reasonably be expected to
+have a Material Adverse Effect. 
+ 7 
+
+ 
+
+ 
+ 
+
+ 
+ (q) No Consents . Except for (i) the qualification of the Indenture under the
+Trust Indenture Act, (ii) the registration of the Notes under the Securities Act, (iii) such consents, approvals, authorizations, orders, filings, registrations or qualifications as may be required under the Exchange Act and applicable
+state securities laws in connection with the purchase and sale of the Notes by the Underwriters, and (iv) such other consents, approvals, authorizations, orders, filings, registrations or qualifications as either the Company, the Guarantors or
+any Significant Subsidiary, as applicable, is not required to have obtained or made as of the date hereof, but will have been obtained or made prior to the Closing Date, no consent, approval, authorization or order of, or filing, registration or
+qualification with, any court or governmental agency or body having jurisdiction over the Company, the Guarantors or any of the Significant Subsidiaries, as applicable, is required for the issue and sale of the Notes, the execution, delivery and
+performance by the Company and the Guarantors of the Notes, the Guarantees, the Indenture and this Agreement, the application of the proceeds from the sale of the Notes as described under Use of Proceeds in each of the Pricing
+Disclosure Package and the Prospectus and the consummation of the transactions contemplated hereby and thereby. (r) Historical
+Consolidated Financial Statements . The historical consolidated financial statements (including the related notes and supporting schedules) included or incorporated by reference in the Pricing Disclosure Package and Prospectus comply as to form
+in all material respects with the requirements of Regulation S-X under the Securities Act and present fairly in all material respects the financial condition, results of operations and cash flows of the
+entities purported to be shown thereby at the dates and for the periods indicated and have been prepared in conformity with U.S. generally accepted accounting principles ( GAAP ) applied on a consistent basis throughout the
+periods involved, except as otherwise stated therein. The supporting schedules, if any, present fairly in accordance with GAAP the information required to be stated therein. The summary financial information included in the most recent
+Preliminary Prospectus presents fairly in all material respects the information shown therein and has been compiled on a basis consistent with that of the audited financial statements included therein. All disclosures contained or incorporated by
+reference in the most recent Preliminary Prospectus regarding non-GAAP financial measures (as such term is defined by the rules and regulations of the Commission) comply with Regulation G of the
+Exchange Act and Item 10 of Regulation S-K of the Securities Act, to the extent applicable. The most recent Preliminary Prospectus includes or incorporates by reference all financial statements required to be
+included in the Registration Statement by Regulation S-X under the Securities Act. The interactive data in eXtensible Business Reporting Language included or incorporated by reference in the Pricing Disclosure
+Package and the Prospectus fairly present the information called for in all material respects and have been prepared in accordance with the Commission s rules and guidelines applicable thereto. 
+ (s) Unaudited Pro Forma Financial Information . The unaudited pro forma financial information included or incorporated by reference in
+the Pricing Disclosure Package and the Prospectus include assumptions that provide a reasonable basis for presenting the significant effects directly attributable to the transactions and events described therein, the related pro forma adjustments
+give appropriate effect to those assumptions, and the pro forma adjustments reflect the proper application of those adjustments to the historical financial statement amounts in the pro forma financial statements included or incorporated by reference
+in the Pricing Disclosure Package. The pro forma financial statements included or incorporated by reference in the Pricing Disclosure Package and the Prospectus comply as to form in all material respects with the applicable requirements of
+Regulation S-X under the Securities Act. 
+ 8 
+
+ 
+
+ 
+ 
+
+ 
+ (t) Independent Public Accountants. (i) PricewaterhouseCoopers LLP, who have
+certified certain financial statements of the Parent Guarantor, whose report is incorporated by reference in the Pricing Disclosure Package and the Prospectus and who have delivered the PwC Comfort Letter referred to in Section 7(d) hereof, are
+independent public accountants as required by the Securities Act and the rules and regulations thereunder during the periods covered by the financial statements on which they reported incorporated by reference in the Pricing Disclosure Package and
+the Prospectus; and (ii) Ernst & Young LLP, who have certified certain financial statements of the Biosciences and Diagnostic Solutions Business of Becton, Dickinson and Company, whose report is incorporated by reference in the Pricing
+Disclosure Package and the Prospectus and who have delivered the EY Comfort Letter referred to in Section 7(d) hereof, are independent public accountants as required by the Securities Act and the rules and regulations thereunder during the
+periods covered by the financial statements on which they reported incorporated by reference in the Pricing Disclosure Package and the Prospectus. 
+ (u) Internal Controls . The Parent Guarantor maintains systems of internal control over financial reporting (as such term is defined in
+Rule 13a-15(f) under the Exchange Act) that complies with the requirements of the Exchange Act and that has been designed by, or under the supervision of, its principal executive and principal financial
+officer, or persons performing similar functions, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting
+principles in the United States. The Parent Guarantor maintains internal accounting controls sufficient to provide reasonable assurance that (i) transactions are executed in accordance with management s general or specific authorization,
+(ii) transactions are recorded as necessary to permit preparation of financial statements in conformity with accounting principles generally accepted in the United States and to maintain accountability for its assets, (iii) access to
+assets is permitted only in accordance with management s general or specific authorization and (iv) the recorded accountability for assets is compared with existing assets at reasonable intervals and appropriate action is taken with
+respect to any differences. (v) Disclosure Controls and Procedures . (i) The Parent Guarantor maintains disclosure controls
+and procedures (as such term is defined in Rule 13a-15(e) under the Exchange Act), and (ii) such disclosure controls and procedures are designed to ensure that information required to be disclosed by the
+Parent Guarantor in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the Commission s rules and forms, including disclosure controls and
+procedures designed to ensure that such information is accumulated and communicated to the Parent Guarantor s management, including its principal executive and principal financial officers, or persons performing similar functions, as
+appropriate to allow timely decisions regarding required disclosure. (w) No Material Weaknesses . Since the date of the most recent
+balance sheet of the Parent Guarantor and its consolidated subsidiaries reviewed or audited by PricewaterhouseCoopers LLP, (i) the Parent Guarantor has not been advised of or become aware of any material weaknesses in its internal control over
+financial reporting and (ii) there has been no change in the Parent Guarantor s internal control over financial reporting that has materially affected, or is reasonably likely to materially affect, the Parent Guarantor s internal
+control over financial reporting. 
+ 9 
+
+ 
+
+ 
+ 
+
+ 
+ (x) Compliance with Sarbanes-Oxley Act. There is and has been no failure on the part
+of the Parent Guarantor and any of the Parent Guarantor s directors or officers, in their capacities as such, to comply with any provision of the Sarbanes-Oxley Act of 2002, as amended, and the rules and regulations promulgated in connection
+therewith. (y) No Material Adverse Change . Except as described in each of the Pricing Disclosure Package and the Prospectus
+(exclusive of any amendment or supplement thereto), since the date of the latest audited financial statements included or incorporated by reference in the Pricing Disclosure Package and the Prospectus, (i) the Parent Guarantor and its
+subsidiaries, considered as one entity, have not (a) sustained any loss or interference with its business from fire, explosion, flood or other calamity, whether or not covered by insurance, or from any labor disturbance or dispute or court or
+governmental action, order or decree (whether domestic or foreign) except as would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect or (b) incurred any liability or obligation, direct or
+contingent, that is material to the Parent Guarantor and its subsidiaries taken as a whole, other than liabilities and obligations that were incurred in the ordinary course of business, and (ii) there has not been any material adverse change,
+or any development that would reasonably be expected to result in a material adverse change, in the financial condition, results of operations or business of the Parent Guarantor and its subsidiaries taken as a whole. 
+ (z) Title to Property . Except as would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect,
+each of the Company, the Guarantors and the Significant Subsidiaries has good and marketable title in fee simple to all real property and good and marketable title to all personal property reflected as owned by them, in each case free and clear of
+all Liens, except for such Liens as are described in the Pricing Disclosure Package and the Prospectus or as do not materially affect the value of such property and do not materially interfere with the use made and proposed to be made of such
+property by the Company, the Guarantors or any of the Significant Subsidiaries. Except as would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect, all assets held under lease by the Company, the
+Guarantors or any of the Significant Subsidiaries are held by them under valid, subsisting and enforceable leases, with such exceptions as do not materially interfere with the use made and proposed to be made of such assets by the Company, the
+Guarantors or any of the Significant Subsidiaries. (aa) Possession of Licenses and Permits. Each of the Company, the Guarantors
+and the Significant Subsidiaries are in compliance with and have such permits, licenses, franchises, certificates of need and other approvals or authorizations of governmental or regulatory authorities ( Permits ) as are
+necessary under applicable law to own their properties and conduct their businesses in the manner described in the Pricing Disclosure Package and the Prospectus, except for any of the foregoing that would not, in the aggregate, reasonably be
+expected to have a Material Adverse Effect. Each of the Company, the Guarantors and the Significant Subsidiaries have fulfilled and performed all of their respective obligations with respect to the Permits, and no event has occurred that allows, or
+after notice or lapse of time would allow, revocation or termination thereof or results in any other impairment of the rights of the holder or any such Permits, except 
+ 10 
+
+ 
+
+ 
+ 
+
+ 
+ 
+for any of the foregoing that would not reasonably be expected to have a Material Adverse Effect. Except as would not reasonably be expected to have a Material Adverse Effect, none of the
+Company, the Guarantors or the Significant Subsidiaries has received notice of any revocation or modification of any such Permits, or has any reason to believe that any such Permits will not be renewed in the ordinary course. 
+ (bb) Possession of Intellectual Property. Each of the Company, the Guarantors and the Significant Subsidiaries own or possess adequate
+rights to use all material patents, patent applications, trademarks, service marks, trade names, trademark registrations, service mark registrations, copyrights, domain names (in each case including all registrations and applications to register
+same) and know-how (including trade secrets and other unpatented and/or unpatentable proprietary or confidential information, systems or procedures) ( Intellectual
+Property ) reasonably necessary for the conduct of their respective businesses as now conducted, except as would not reasonably be expected to, individually or in the aggregate, have a Material Adverse Effect. None of the Company, the
+Guarantors and the Significant Subsidiaries have received any written notice of infringement of any such Intellectual Property by any third parties except as would not reasonably be expected to, individually or in the aggregate, have a Material
+Adverse Effect, whether or not arising from transactions in the ordinary course of business. To the Parent Guarantor s knowledge, there is no pending or threatened in writing action, suit, proceeding or claim (other than ordinary course
+proceedings related to the prosecution of any item of Intellectual Property) by any third party challenging any of the Company s, the Guarantors or the Significant Subsidiaries rights in or to any such Intellectual Property and
+there is no pending or threatened in writing action, suit, proceeding or claim by any third party challenging the validity, scope or enforceability of any such Intellectual Property, except as would not reasonably be expected to, individually or in
+the aggregate, have a Material Adverse Effect. (cc) No Legal or Governmental Proceedings . There are no legal or governmental
+proceedings pending to which any of the Company, the Guarantors or any of their subsidiaries is a party or of which any property or assets of any of the Company, the Guarantors or any of their subsidiaries is the subject that would, in the
+aggregate, reasonably be expected to have a Material Adverse Effect or would, in the aggregate, reasonably be expected to have a material adverse effect on the performance of their respective obligations under this Agreement, the Indenture, the
+Notes, the Guarantees or the consummation of any of the transactions contemplated hereby. To the Parent Guarantor s knowledge, no such proceedings are threatened or contemplated by governmental authorities or others. 
+ (dd) Absence of Defaults and Conflicts. Neither the Parent Guarantor nor any of its Significant Subsidiaries (i) is in violation
+of its charter or by-laws (or similar organizational documents), (ii) is in default, and no event has occurred that, with notice or lapse of time or both, would constitute such a default, in the due
+performance or observance of any term, covenant, condition or other obligation contained in any indenture, mortgage, deed of trust, loan agreement, license or other agreement or instrument to which it is a party or by which it is bound or to which
+any of its properties or assets is subject, or (iii) is in violation of any law, statute or any order, rule or regulation of any court or governmental agency or body having jurisdiction over it or its property or assets, except in the case of
+clauses (ii) and (iii), to the extent any such conflict, breach, violation or default would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect. 
+ 11 
+
+ 
+
+ 
+ 
+
+ 
+ (ee) Environmental Laws . (i) There are no proceedings that are pending, or known
+by the Parent Guarantor to be contemplated, against any of the Company, the Guarantors or the Significant Subsidiaries under any laws, regulations, ordinances, rules, orders, judgments, decrees, permits or other legal requirements of any
+governmental authority, including without limitation any international, foreign, national, state, provincial, regional, or local authority, relating to pollution, the protection of human health or safety, the environment, or natural resources, or to
+use, handling, storage, manufacturing, transportation, treatment, discharge, disposal or release of hazardous or toxic substances or wastes, pollutants or contaminants applicable to any of the Company, the Guarantors or the Significant Subsidiaries
+( Environmental Laws ), other than proceedings that are not reasonably expected to have a Material Adverse Effect, (ii) the Company, the Guarantors and the Significant Subsidiaries are not aware of any issues regarding
+compliance with Environmental Laws or liabilities or other obligations under Environmental Laws or concerning hazardous or toxic substances or wastes, pollutants or contaminants that would reasonably be expected to have a Material Adverse Effect,
+and (iii) none of the Company, the Guarantors or their respective subsidiaries anticipates material capital expenditures relating to Environmental Laws. 
+ (ff) Taxes . The Company, the Guarantors and the Significant Subsidiaries have filed all federal, state, local, foreign and other tax
+returns required to be filed by them, which are correct and complete in all material respects, and have paid all federal, state, local, foreign and other taxes due and payable by them (whether imposed directly or indirectly or through withholding)
+or have requested or been automatically granted extensions thereof, including any interest, additions to tax, or penalties applicable thereto, each through the date hereof, except (i) for any such tax, fine, penalty or assessment being
+contested in good faith by the Company, the Guarantors or any of the Significant Subsidiaries, as applicable, or (ii) where failure to file such returns or pay such taxes, assessments, fines or penalties would not, individually or in the
+aggregate, reasonably be expected to have a Material Adverse Effect. (gg) Investment Company Act . Neither the Company nor any of
+the Guarantors is, and as of the Closing Date, after giving effect to the offer and sale of the Notes and the application of the proceeds therefrom as described under Use of Proceeds in the Pricing Disclosure Package and the
+Prospectus, none of them will be, required to be registered as an investment company as defined in the Investment Company Act of 1940, as amended (the Investment Company Act ). 
+ (hh) Absence of Stabilization or Manipulation . The Company and its affiliates have not taken, directly or indirectly, any action
+designed to constitute, or that has constituted, or that would reasonably be expected to cause or result in the stabilization or manipulation of the price of the Notes. 
+ (ii) Distribution of Offering Materials . The Company and the Guarantors have not distributed and, prior to the later to occur of the
+Closing Date and completion of the distribution of the Notes, will not distribute any offering material in connection with the offering and sale of the Notes other than any Preliminary Prospectus, the Prospectus, any Issuer Free Writing Prospectus
+to which the Representatives have consented in accordance with Section 5(a)(iv) and any Issuer Free Writing Prospectus set forth on Schedule IV and Schedule V hereto. 
+ 12 
+
+ 
+
+ 
+ 
+
+ 
+ (jj) Compliance with Anti-Corruption and Anti-Bribery Laws . None of the Parent
+Guarantor or any of its subsidiaries or their respective directors or officers, or, to the knowledge of the Parent Guarantor, any of their respective employees, has in the course of its actions for, or on behalf of, the Parent Guarantor or any of
+its subsidiaries: (i) made any unlawful contribution, gift, or other unlawful expense relating to political activity; (ii) made any direct or indirect bribe, kickback, rebate, payoff, influence payment, or otherwise unlawfully provided
+anything of value, to any foreign official (as defined in the U.S. Foreign Corrupt Practices Act of 1977, as amended (collectively, the FCPA )) or domestic government official; or (iii) violated or is in
+violation of any provision of the FCPA, the Bribery Act 2010 of the United Kingdom, as amended (the Bribery Act 2010 ), or any other applicable anti-corruption or anti-bribery statute or regulation. The Parent Guarantor
+and its subsidiaries have conducted their respective businesses in compliance with the FCPA, the Bribery Act 2010 and all other applicable anti-corruption and anti-bribery statutes or regulations, and have instituted and maintain policies and
+procedures designed to ensure, and which are reasonably expected to ensure, continued compliance therewith. Neither the Parent Guarantor nor any of its subsidiaries will use, directly or indirectly, the proceeds of the offering in furtherance of an
+offer, payment, promise to pay, or authorization of the payment or giving of money, or anything else of value, to any person in violation of any applicable anti-corruption or anti-bribery laws. 
+ (kk) Compliance with Money Laundering Laws . The operations of the Parent Guarantor and each of its subsidiaries are and have been
+conducted in material compliance with applicable financial recordkeeping and reporting requirements of the Currency and Foreign Transactions Reporting Act of 1970, as amended by the USA PATRIOT Act of 2001, and the rules and regulations promulgated
+thereunder, the applicable money laundering and counter-terrorism financing laws, rules, and regulations of the various jurisdictions in which the Parent Guarantor and its subsidiaries conduct business, and any related or similar rules, regulations
+or guidelines, that have been issued, administered or enforced by any governmental agency in any of such jurisdictions (collectively, the Money Laundering Laws ) and no action, suit or proceeding by or before any court or
+governmental agency, authority or body or any arbitrator involving the Parent Guarantor or any of its subsidiaries with respect to the Money Laundering Laws is pending or, to the knowledge of the Parent Guarantor, threatened. 
+ (ll) Compliance with Sanctions . None of the Parent Guarantor or any of its subsidiaries, or any of their respective directors and
+officers, or, to the knowledge of the Parent Guarantor, any of their respective employees is (i) currently the subject or the target of any sanctions administered or enforced by the U.S. Government (including those administered by the Office of
+Foreign Assets Control of the U.S. Treasury Department and the U.S. Department of State), the United Nations Security Council, the European Union and each of its member states, the United Kingdom, or other relevant sanctions authority (collectively,
+ Sanctions ); or (ii) operating from, or located, organized or resident in, a country or territory that is the subject or target of Sanctions (including, without limitation, Cuba, Iran, North Korea, Syria (until
+July 1, 2025), the Crimea region of Ukraine, the so-called Donetsk People s Republic and the so-called Luhansk People s Republic, any other Covered
+Region of Ukraine identified pursuant to Executive Order 14065 and the non-government controlled areas of the Kherson and Zaporizhzhia regions of Ukraine), other than operations that were not in violation of
+such Sanctions; and the Company and the Guarantors will not directly or indirectly use the proceeds of the offering, or lend, contribute or otherwise make available such proceeds, to any subsidiary, joint venture partner or other person or entity
+for the 
+ 13 
+
+ 
+
+ 
+ 
+
+ 
+ 
+purpose of financing or facilitating the activities or business of any person, or in any country or territory, that at the time of such financing or facilitation is the subject or target of
+Sanctions or in any other manner that will result in a violation by any person (including any person participating in the transaction whether as an underwriter, advisor, investor or otherwise) of Sanctions. Each of the Parent Guarantor and its
+subsidiaries is not engaged in, or has, at any time since April 24, 2019, engaged in, any dealings or transactions with any individual or entity, or in any country or territory, that at the time of such dealing or transaction, is or was the
+subject or target of Sanctions, other than dealings or transactions that are or were not in violation of such Sanctions. (mm) No Labor
+Disturbances or Disputes . No labor disturbance by or dispute with the employees of the Company, the Guarantors or the Significant Subsidiaries exists or, to the knowledge of the Parent Guarantor, is imminent that could reasonably be expected to
+have a Material Adverse Effect. (nn) Insurance. The Company, the Guarantors and the Significant Subsidiaries have insurance
+(including self-insurance) covering their respective properties, operations, personnel and businesses, including business interruption insurance, which insurance (including self-insurance) is in amounts and insures against such losses and risks as
+are generally deemed adequate and customary for companies engaged in similar businesses in similar industries; and none of the Company, the Guarantors or any of the Significant Subsidiaries has any reason to believe that it will not be able to renew
+its existing insurance coverage as and when such coverage expires or to obtain similar coverage from similar insurers as may be necessary to conduct its business as now conducted and at a cost that would not reasonably be expected to have a Material
+Adverse Effect. (oo) Statistical, Industry-related and Market-related data . The statistical, industry-related and market-related
+data included in the Pricing Disclosure Package and the Prospectus are based on or derived from sources that the Company and the Guarantors believe to be reliable in all material respects. 
+ (pp) Accuracy of Certain Disclosure . The statements set forth in (A) each of the Pricing Disclosure Package and the Prospectus
+under the captions Description of Notes and Description of Debt Securities, insofar as they purport to summarize the documents referred to therein, are accurate summaries in all material respects, and (B) each of the
+Pricing Disclosure Package and the Prospectus under the caption Certain U.S. Federal Income Tax Considerations, insofar as such statements summarize U.S. federal income tax laws, rules or regulations, are accurate in all material
+respects. (qq) IT Systems and Cybersecurity . Except as would not reasonably be expected to have a Material Adverse Effect,
+(A) the Parent Guarantor and its subsidiaries information technology assets and equipment, computers, systems, hardware, software, and databases (collectively, IT Systems ) are, to the knowledge of the Company,
+free and clear of all material errors, Trojan horses, and other contaminants or effects that disrupt or adversely affect the functionality of the IT Systems, (B) the Parent Guarantor and its subsidiaries take commercially reasonable precautions
+to protect their material confidential information and the integrity, and security of all IT Systems and data (including personal data, personally identifiable information, personal information or any
+similar term by any applicable law and any sensitive, confidential or regulated data ( Personal Data )) stored therein, (C) there have been no failures or other adverse events or
+ 
+ 14 
+
+ 
+
+ 
+ 
+
+ 
+ 
+unauthorized disclosures of, uses of or accesses to any IT System or Personal Data used in the Parent Guarantor s and its Significant Subsidiaries businesses that have caused a
+material disruption to such businesses, and (D) the Parent Guarantor and its subsidiaries are presently in compliance in all material respects with all applicable laws or statutes and all judgments, orders, rules and regulations of any court or
+governmental or regulatory authority, relating to the privacy and security of IT Systems and Personal Data and to the protection of such IT Systems and Personal Data from unauthorized use, access, or disclosure (each a Data Protection
+Requirement ). (rr) Privacy Policies and Data Protection Compliance . Except as would not reasonably be expected to
+have a Material Adverse Effect, the Parent Guarantor and its Significant Subsidiaries have in place, comply with, and take commercially reasonable steps designed to ensure compliance with its privacy policies, notices, and written statements
+regarding Personal Data. Except as would not reasonably be expected to have a Material Adverse Effect, neither the Parent Guarantor nor any of its Significant Subsidiaries has notified or been required to notify any person or received written notice
+in connection with any violation by Parent Guarantor or any of its Significant Subsidiaries of any Data Protection Requirements. Any
+certificate signed by any officer of the Company or the Guarantors and delivered to the Representatives or counsel for the Underwriters pursuant to this Agreement shall be deemed to be a representation and warranty by the Company or such Guarantor,
+jointly and severally, as to matters covered thereby, to each Underwriter. 2. Purchase of the Notes by the Underwriters. The
+Company and the Guarantors, jointly and severally hereby agree, on the basis of the representations, warranties, covenants and agreements of the Underwriters contained herein and subject to all the terms and conditions set forth herein, to issue and
+sell to the Underwriters and, upon the basis of the representations, warranties and agreements of the Company and the Guarantors herein contained and subject to all the terms and conditions set forth herein, the Underwriters agree, severally and not
+jointly, to purchase from the Company, (i) at a purchase price of 99.850% of the principal amount thereof, plus accrued interest from the Closing Date to the date of payment, if any, the principal amount of 2027 Notes set forth opposite the
+name of such Underwriter in Schedule I hereto, (ii) at a purchase price of 99.600% of the principal amount thereof, plus accrued interest from the Closing Date to the date of payment, if any, the principal amount of 2029 Notes set forth
+opposite the name of such Underwriter in Schedule I hereto, (iii) at a purchase price of 99.400% of the principal amount thereof, plus accrued interest from the Closing Date to the date of payment, if any, the principal amount of 2031 Notes set
+forth opposite the name of such Underwriter in Schedule I hereto, (iv) at a purchase price of 99.375% of the principal amount thereof, plus accrued interest from the Closing Date to the date of payment, if any, the principal amount of 2033
+Notes set forth opposite the name of such Underwriter in Schedule I hereto and (v) at a purchase price of 99.350% of the principal amount thereof, plus accrued interest from the Closing Date to the date of payment, if any, the principal amount
+of 2036 Notes set forth opposite the name of such Underwriter in Schedule I hereto. The Company and the Guarantors shall not be obligated to deliver any of the Notes except upon payment for all of the Notes to be purchased as provided herein.
+ 
+ 15 
+
+ 
+
+ 
+ 
+
+ 
+ 3. Offering of Notes by the Underwriters . Upon authorization by the Representatives
+of the release of the Notes, the several Underwriters propose to offer the Notes for sale upon the terms and conditions to be set forth in the Prospectus. 
+ 4. Delivery of the Notes and Payment Therefor . Delivery to the Underwriters of and payment for the Notes shall be made at 10:00 A.M.,
+New York City time, or at such other time as the Representatives and the Company determine, such time being herein referred to as the Closing Date. The place of closing for the Notes and the Closing Date may be varied by agreement
+between the Representatives and the Company. The Notes will be delivered to the Underwriters, or the Trustee as custodian for The
+Depository Trust Company ( DTC ), against payment by or on behalf of the Underwriters of the purchase price therefor by wire transfer in immediately available funds to the order of the Company, by causing DTC to credit the
+Notes to the account of the Underwriters at DTC. Each series of Notes will be evidenced by one or more global securities in definitive form and will be registered in the name of Cede & Co. as nominee of DTC. 
+ 5. Further Agreements of the Company and the Guarantors and the Underwriters . (a) The Company and the Guarantors, jointly and
+severally, agree: (i) To prepare the Prospectus in a form approved by the Representatives (such approval not to be
+unreasonably withheld, conditioned or delayed) and to file such Prospectus pursuant to Rule 424(b) under the Securities Act not later than the Commission s close of business on the second business day following the execution and delivery of
+this Agreement; to make no further amendment or any supplement to the Registration Statement or the Prospectus prior to the Closing Date without the prior approval of the Representatives promptly after reasonable notice thereof (which approval shall
+not be unreasonably withheld, conditioned or delayed) or except as provided herein; to advise the Representatives, promptly after it receives notice thereof, of the time when any amendment or supplement to the Registration Statement or the
+Prospectus has been filed and to furnish the Representatives with copies thereof; to advise the Representatives, promptly after they receive notice thereof, of the issuance by the Commission of any stop order or of any order preventing or suspending
+the use of the Prospectus or any Issuer Free Writing Prospectus, of the suspension of the qualification of the Notes for offering or sale in any jurisdiction, of the initiation or threatening of any proceeding or examination for any such purpose, or
+any notice from the Commission objecting to the use of the form of Registration Statement or any post-effective amendment thereto or of any request by the Commission for the amendment or supplement of the Registration Statement, the Prospectus or
+any Issuer Free Writing Prospectus or for additional information; and, in the event of the issuance of any stop order or of any order preventing or suspending the use of the Prospectus or any Issuer Free Writing Prospectus or suspending any such
+qualification, to use reasonable best efforts to obtain its withdrawal. 
+ 16 
+
+ 
+
+ 
+ 
+
+ 
+ (ii) To deliver promptly to the Representatives such number of the following
+documents as the Representatives shall reasonably request: (A) conformed copies of the Registration Statement as originally filed with the Commission and each amendment thereto (in each case excluding exhibits other than this Agreement), (B)
+each Preliminary Prospectus, the Prospectus and any amended or supplemented Prospectus, (C) each Issuer Free Writing Prospectus, and (D) other than documents available by the Commission s Electronic Data Gathering, Analysis and
+Retrieval (EDGAR) System, any document incorporated by reference in any Preliminary Prospectus or the Prospectus (excluding exhibits thereto); and, if the delivery of a prospectus is required at any time after the date hereof in connection with the
+offering or sale of the Notes or any other securities relating thereto and if at such time any events shall have occurred as a result of which the Prospectus as then amended or supplemented would contain an untrue statement of a material fact or
+omit to state a material fact necessary in order to make the statements made therein, in the light of the circumstances under which they were made, not misleading, or, if for any other reason it shall be necessary to amend or supplement the
+Prospectus or to file under the Exchange Act any document incorporated by reference in the Prospectus in order to comply with the Securities Act or the Exchange Act, to notify the Representatives and, upon their request, to file such document and to
+prepare and furnish without charge to each Underwriter and to any dealer in securities as many copies as the Representatives may from time to time reasonably request of an amended or supplemented Prospectus that will correct such statement or
+omission or effect such compliance. (iii) To file promptly with the Commission any amendment or supplement to the
+Registration Statement or the Prospectus that may, in the reasonable judgment of the Company or the Representatives, be required by the Securities Act or requested by the Commission. 
+ (iv) Not to make any offer relating to the Notes that would constitute an Issuer Free Writing Prospectus without the prior
+written consent of the Representatives, which consent shall not be unreasonably withheld or conditioned and which shall be provided to the Company promptly after having been given notice of the proposed Issuer Free Writing Prospectus. 
+ (v) To comply with all applicable requirements of Rule 433 under the Securities Act with respect to any Issuer Free Writing
+Prospectus. If at any time after the date hereof any events shall have occurred as a result of which any Issuer Free Writing Prospectus, as then amended or supplemented, would conflict with the information in the Registration Statement, the most
+recent Preliminary Prospectus or the Prospectus or would contain an untrue statement of a material fact or omit to state a material fact necessary in order to make the statements made therein, in the light of the circumstances under which they were
+made, not misleading, or, if for any other reason it shall be necessary to amend or supplement any Issuer Free Writing Prospectus, to notify the Representatives and, upon their request, to file such document and to prepare and furnish without charge
+to each Underwriter as many copies as the Representatives may from time to time reasonably request of an amended or supplemented Issuer Free Writing Prospectus that will correct such conflict, statement or omission or effect such compliance. 
+ (vi) As soon as practicable after the Effective Date (it being understood that the Company shall have until at least 410 days
+or, if the fourth quarter following the fiscal quarter that includes the Effective Date is the last fiscal quarter of the Company s fiscal year, 455 days after the end of the Company s current fiscal quarter), to make generally available
+to the Company s security holders and to deliver to the Representatives an earnings statement of the Company and its subsidiaries (which need not be audited) complying with Section 11(a) of the Securities Act and the rules and regulations
+thereunder (including, at the option of the Company, Rule 158). 
+ 17 
+
+ 
+
+ 
+ 
+
+ 
+ (vii) Promptly from time to time to take such action as the Representatives
+may reasonably request to qualify the Notes for offering and sale under the securities laws of such jurisdictions as the Representatives may reasonably request and to comply with such laws so as to permit the continuance of sales and dealings
+therein in such jurisdictions for as long as may be necessary to complete the distribution of the Notes; provided , that in connection therewith, neither the Company nor any Guarantor shall be required to (A) qualify as a foreign
+corporation in any jurisdiction in which it would not otherwise be required to so qualify, (B) file a general consent to service of process in any such jurisdiction, or (C) subject itself to taxation in any jurisdiction in which it would
+not otherwise be subject. (viii) To apply the net proceeds from the sale of the Notes being sold by the Company and the
+Guarantors substantially in accordance with the description as set forth in the Prospectus under the caption Use of Proceeds. 
+ (ix) Not to take, directly or indirectly, any action designed to or that has constituted or that reasonably would be expected
+to cause or result in the stabilization or manipulation of the price of any security of the Company in connection with the offering of the Notes. 
+ (x) For a period commencing on the date hereof and ending on the Closing Date, the Company and the Guarantors agree not to,
+directly or indirectly, (i) offer for sale, sell, or otherwise dispose of (or enter into any transaction or device that is designed to, or would be expected to, result in the disposition by any person at any time in the future of) any debt
+securities of the Company substantially similar to the Notes or securities convertible into or exchangeable for such debt securities of the Company, or sell or grant options, rights or warrants with respect to such debt securities of the Company or
+securities convertible into or exchangeable for such debt securities of the Company, (ii) enter into any swap or other derivatives transaction that transfers to another, in whole or in part, any of the economic benefits or risks of ownership of
+such debt securities of the Company, whether any such transaction described in clause (i) or (ii) above is to be settled by delivery of debt securities of the Company or other securities, in cash or otherwise, (iii) file or cause to be
+filed a registration statement, including any amendments, with respect to the registration of debt securities of the Company substantially similar to the Notes or securities convertible, exercisable or exchangeable into debt securities of the
+Company, or (iv) publicly announce an offering of any debt securities of the Company substantially similar to the Notes or securities convertible or exchangeable into such debt securities, in each case without the prior written consent of the
+Representatives, on behalf of the Underwriters. For the avoidance of doubt, nothing contained in this Section 5(a)(x) shall prohibit or in any way restrict, or be deemed to prohibit or in any way restrict, the issuance of the Notes pursuant to
+this Agreement or the issuance of any additional Notes of the same series in accordance with the terms of the Indenture. 
+ 18 
+
+ 
+
+ 
+ 
+
+ 
+ (xi) The Company will use commercially reasonable efforts to assist the
+Representatives in arranging for the Notes to be eligible for clearance and settlement through DTC. (xii) The Company
+agrees to comply with all agreements set forth in the representation letters of the Company to DTC relating to the approval of the Notes by DTC for book-entry transfer. 
+ (b) Each Underwriter severally agrees that such Underwriter shall not include any issuer information (as defined in Rule 433
+under the Securities Act) in any free writing prospectus (as defined in Rule 405 under the Securities Act) used or referred to by such Underwriter without the prior written consent of the Company (any such issuer information with
+respect to the use of which the Company has given its consent, Permitted Issuer Information ); provided that (i) no such consent shall be required with respect to any such issuer information contained in any
+document filed by the Company with the Commission prior to the use of such free writing prospectus, and (ii) issuer information (as used in this Section 5(b)) shall not be deemed to include information prepared by or on behalf of
+such Underwriter on the basis of or derived from issuer information. The Company and the Guarantors shall not be responsible to any Underwriter for liability arising from any inaccuracy caused by the Underwriters in such free writing prospectus
+referred to in clause (i) or that does not contain any issuer information as compared with the information in the Preliminary Prospectus, the Prospectus or the Pricing Disclosure Package. 
+ 6. Expenses. Whether or not the transactions contemplated by this Agreement are consummated or this Agreement is terminated, the
+Company and the Guarantors, jointly and severally, agree to pay all expenses, costs, fees and taxes incident to and in connection with (a) the authorization, issuance, sale and delivery of the Notes to the Underwriters and any stamp duties or
+other similar taxes payable in that connection; (b) the preparation, printing and filing under the Securities Act of the Registration Statement (including any exhibits thereto), any Preliminary Prospectus, the Prospectus, any Issuer Free
+Writing Prospectus and any amendment or supplement thereto; (c) the distribution of the Registration Statement (including any exhibits thereto), any Preliminary Prospectus, the Prospectus, any Issuer Free Writing Prospectus and any amendment or
+supplement thereto, or any document incorporated by reference therein, all as provided in this Agreement; (d) the production and distribution of this Agreement, any supplemental agreement among Underwriters, and any other related documents in
+connection with the offering, purchase, sale and delivery of the Notes (excluding any fees and disbursements of counsel for the Underwriters relating thereto); (e) the qualification of the Notes under the securities laws of the several jurisdictions
+as provided in Section 5(a)(vii) and the preparation, printing and distribution of any Blue Sky Memorandum (including reasonable and documented fees and expenses of counsel to the Underwriters in connection with the preparation of such Blue Sky
+Memorandum not to exceed $5,000); (f) the approval of the Notes by DTC for book-entry transfer; (g) the rating of the Notes; (h) the obligations of the Trustee, any agent of the Trustee and the counsel for the Trustee in
+connection with the Indenture, the Notes and the Guarantees; (i) the investor presentations on any road show undertaken in connection with the marketing of the Notes, including, without limitation, expenses associated with any
+electronic road show, travel and lodging expenses of the representatives and officers of the Company in connection with the road show; and (j) all other costs and expenses incident to the performance of the obligations of the Company under this
+Agreement. Except as provided in this Section 6, Section 8 and Section 11, the Underwriters shall pay their own costs and expenses, including the fees and disbursements of their counsel and transfer taxes payable on resale of any of
+the Notes by them. 
+ 19 
+
+ 
+
+ 
+ 
+
+ 
+ 7. Conditions of Underwriters Obligations . The respective obligations of the
+Underwriters hereunder are subject to the accuracy, when made and on the Closing Date, of the representations and warranties of the Company and the Guarantors contained herein, to the performance by the Company and the Guarantors of their respective
+obligations hereunder, and to each of the following additional terms and conditions: (a) The Prospectus shall have been timely filed with
+the Commission in accordance with Section 5(a)(i) of this Agreement. The Company shall have complied with all filing requirements applicable to any Issuer Free Writing Prospectus used or referred to after the date hereof; no stop order
+suspending the effectiveness of the Registration Statement or preventing or suspending the use of the Prospectus or any Issuer Free Writing Prospectus shall have been issued and no proceeding or examination for such purpose shall have been initiated
+or threatened by the Commission; and any request of the Commission for inclusion of additional information in the Registration Statement or the Prospectus or otherwise shall have been complied with. 
+ (b) Kirkland & Ellis LLP shall have furnished to the Representatives its written opinion and negative assurance letter, as counsel to
+the Company and the Guarantors, addressed to the Representatives and dated the Closing Date, in form and substance reasonably satisfactory to the Representatives. 
+ (c) The Representatives shall have received from Paul Hastings LLP, counsel for the Underwriters, such opinion or negative assurance letter,
+dated the Closing Date, with respect to the issuance and sale of the Notes, the Registration Statement, the Prospectus and the Pricing Disclosure Package and other related matters as the Representatives may reasonably require, and the Company and
+the Guarantors shall have furnished to such counsel such documents as they reasonably request for the purpose of enabling them to pass upon such matters. 
+ (d) At the time of execution of this Agreement, the Representatives shall have received from PricewaterhouseCoopers LLP a letter (such letter,
+the PwC Comfort Letter ), in form and substance reasonably satisfactory to the Representatives, addressed to the Underwriters and dated the date hereof (i) confirming that they are independent public accountants of
+the Parent Guarantor within the meaning of the Securities Act and are in compliance with the applicable requirements relating to the qualification of accountants under Rule 2-01 of Regulation S-X of the Commission, and (ii) stating, as of the date hereof (or, with respect to matters involving changes or developments since the respective dates as of which specified financial information is given in
+the most recent Preliminary Prospectus, as of a date not more than three days prior to the date hereof), the conclusions and findings of such firm with respect to the financial information and other matters ordinarily covered by accountants 
+ comfort letters to underwriters in connection with registered public offerings. At the time of execution of this Agreement, the Representatives shall have received from Ernst & Young LLP a letter (such letter, the
+ EY Comfort Letter ), in form and substance reasonably satisfactory to the Representatives, addressed to the Underwriters and dated the date hereof (i) confirming that they are independent public accountants of the
+Biosciences and Diagnostic Solutions Business of Becton, Dickinson and Company ( BDS 
+ 20 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ Business ) within the meaning of the Securities Act and are in compliance with the applicable requirements relating to the qualification of accountants under Rule 2-01 of Regulation S-X of the Commission, and (ii) stating, as of the date hereof, the conclusions and findings of such firm with respect to the financial
+information and other matters ordinarily covered by accountants comfort letters to underwriters in connection with registered public offerings. 
+ (e) With respect to the PwC Comfort Letter, the Company and the Guarantors shall have furnished to the Representatives a letter (such letter,
+the PwC Bring-Down Comfort Letter ) from PricewaterhouseCoopers LLP, addressed to the Underwriters and dated the Closing Date, (i) confirming that they are independent public accountants of the Parent Guarantor within
+the meaning of the Securities Act and are in compliance with the applicable requirements relating to the qualification of accountants under Rule 2-01 of Regulation S-X 
+of the Commission, (ii) stating, as of the date of the PwC Bring-Down Comfort Letter (or, with respect to matters involving changes or developments since the respective dates as of which specified financial information is given in the
+Prospectus, as of a date not more than two days prior to the date of the PwC Bring-Down Comfort Letter), the conclusions and findings of such firm with respect to the financial information and other matters covered by the PwC Comfort Letter, and
+(iii) confirming in all material respects the conclusions and findings set forth in the PwC Comfort Letter. With respect to the EY Comfort Letter, the Company and the Guarantors shall have furnished to the Representatives a letter (such letter,
+the EY Bring-Down Comfort Letter ) from Ernst & Young LLP, addressed to the Underwriters and dated the Closing Date, (i) confirming that they are independent public accountants of the BDS Business within the
+meaning of the Securities Act and are in compliance with the applicable requirements relating to the qualification of accountants under Rule 2-01 of Regulation S-X of
+the Commission, (ii) stating, as of the date of the EY Bring-Down Comfort Letter, the conclusions and findings of such firm with respect to the financial information and other matters covered by the EY Comfort Letter, and (iii) confirming
+in all material respects the conclusions and findings set forth in the EY Comfort Letter. (f) The Parent Guarantor shall have furnished
+to the Representatives a certificate, dated the Closing Date, of the Chief Executive Officer and the Chief Financial Officer of the Parent Guarantor as to such matters as the Representatives may reasonably request, including, without limitation, a
+statement: (i) That the representations, warranties and agreements of the Company and the Guarantors in Section 1 of
+this Agreement are true and correct on and as of the Closing Date, and the Company and each of the Guarantors have complied with all its agreements contained herein and satisfied all the conditions on its part to be performed or satisfied hereunder
+at or prior to the Closing Date; (ii) That no stop order suspending the effectiveness of the Registration Statement has
+been issued; and no proceedings or examination for that purpose have been instituted or, to the knowledge of such officers, threatened; and the Commission shall not have notified the Company or any Guarantor of any objection to the use of the form
+of the Registration Statement or any post-effective amendment thereto; and (iii) To the effect of Section 7(g)
+( provided that no representation with respect to the judgment of the Representatives need be made) and Section 7(h). 
+ 21 
+
+ 
+
+ 
+ 
+
+ 
+ (g) Except as described in each of the Pricing Disclosure Package and the Prospectus, since
+the date of the latest audited financial statements included or incorporated by reference in the Pricing Disclosure Package and the Prospectus, there shall have been no material adverse change, or any development that would reasonably be expected to
+result in a material adverse change, in the financial condition, results of operations or business of the Parent Guarantor and its subsidiaries taken as a whole, the effect of which is, individually or in the aggregate, in the judgment of the
+Representatives, so material and adverse as to make it impracticable or inadvisable to proceed with the public offering or the delivery of the Notes being delivered on the Closing Date on the terms and in the manner contemplated in the Prospectus.
+ (h) Subsequent to the execution and delivery of this Agreement (i) no downgrading shall have occurred in the rating accorded the
+Company s or any Guarantors securities by any nationally recognized statistical rating organization (as defined by the Commission in Section 3(a)(62) of the Exchange Act), and (ii) no such organization shall have
+publicly announced that it has under surveillance or review, with possible negative implications, its rating of any of the Company s or any Guarantors securities. 
+ (i) Subsequent to the execution and delivery of this Agreement there shall not have occurred any of the following: (i) (A) trading in
+securities generally on the New York Stock Exchange or the Nasdaq Global Market, or (B) trading in any securities of the Company or any Guarantor on any exchange or in the
+ over-the-counter market, shall have been suspended or materially limited, (ii) a general moratorium on commercial banking activities shall have been declared by
+federal or state authorities, (iii) the United States shall have become engaged in hostilities, there shall have been an escalation in hostilities involving the United States or there shall have been a declaration of a national emergency or war
+by the United States, or (iv) there shall have occurred such a material adverse change in general economic, political or financial conditions, including, without limitation, as a result of terrorist activities after the date hereof (or the
+effect of international conditions on the financial markets in the United States shall be such), or any other calamity or crisis, either within or outside the United States, in each case as to make it, in the judgment of the Representatives,
+impracticable or inadvisable to proceed with the Notes being delivered on the Closing Date on the terms and in the manner contemplated in the Prospectus. 
+ (j) The Notes shall be eligible for clearance and settlement through DTC. 
+ (k) The Company, the Guarantors and the Trustee shall have executed and delivered the Base Indenture and the Supplemental Indenture
+establishing the terms of the Notes, and the Underwriters shall have received copies thereof, duly executed by the Company, the Guarantors and the Trustee. 
+ (l) On or prior to the Closing Date, the Company and the Guarantors shall have furnished to the Underwriters such further certificates and
+documents as the Representatives may reasonably request. 
+ 22 
+
+ 
+
+ 
+ 
+
+ 
+ 8. Indemnification and Contribution. 
+ (a) The Company and each Guarantor hereby agree, jointly and severally, to indemnify and hold harmless each Underwriter, its affiliates,
+directors, officers, employees and each person, if any, who controls any Underwriter within the meaning of Section 15 of the Securities Act or Section 20 of the Exchange Act, from and against any loss, claim, damage or liability, joint or
+several, or any action in respect thereof (including, but not limited to, any loss, claim, damage, liability or action relating to purchases and sales of the Notes), to which that Underwriter, affiliate, director, officer, employee or controlling
+person may become subject, under the Securities Act or otherwise, insofar as such loss, claim, damage, liability or action arises out of, or is based upon, (i) any untrue statement or alleged untrue statement of a material fact contained in
+(A) any Preliminary Prospectus, the Registration Statement, the Prospectus or in any amendment or supplement thereto, (B) any Issuer Free Writing Prospectus or in any amendment or supplement thereto, (C) any Permitted Issuer
+Information used or referred to in any free writing prospectus (as defined in Rule 405 under the Securities Act) used or referred to by any Underwriter or (D) any road show (as defined in Rule 433 under the
+Securities Act) not constituting an Issuer Free Writing Prospectus ( Marketing Materials ), or (ii) the omission or alleged omission to state in any Preliminary Prospectus, the Registration Statement, the Prospectus,
+any Issuer Free Writing Prospectus or in any amendment or supplement thereto or in any Permitted Issuer Information, any material fact required to be stated therein or necessary to make the statements therein not misleading, and shall reimburse each
+Underwriter and each such affiliate, director, officer, employee or controlling person for any legal or other expenses reasonably incurred by that Underwriter, affiliate, director, officer, employee or controlling person in connection with
+investigating or defending or preparing to defend against any such loss, claim, damage, liability or action as such expenses are incurred, provided , however , that (i) in no event shall the Company or the Guarantors be liable for
+fees and expenses of more than one counsel (in addition to one local counsel in each applicable jurisdiction) separate from their own counsel for all indemnified parties in connection with any one action or separate but similar or related actions in
+the same jurisdiction arising out of the same general allegations or circumstances, and (ii) the Company and the Guarantors shall not be liable in any such case to the extent that any such loss, claim, damage, liability or action arises out of,
+or is based upon, any untrue statement or alleged untrue statement or omission or alleged omission made in any Preliminary Prospectus, the Registration Statement, the Prospectus, any Issuer Free Writing Prospectus or in any such amendment or
+supplement thereto or in any Permitted Issuer Information, in reliance upon and in conformity with written information concerning such Underwriter furnished to the Company and the Guarantors through the Representatives by or on behalf of any
+Underwriter specifically for inclusion therein, which information consists solely of the information specified in Section 8(e). The foregoing indemnity agreement is in addition to any liability which the Company or the Guarantors may otherwise
+have to any Underwriter or to any affiliate, director, officer, employee or controlling person of that Underwriter. (b) Each Underwriter,
+severally and not jointly, shall indemnify and hold harmless the Company, each of the Guarantors, their respective affiliates, directors, officers, employees and each person, if any, who controls the Company or such Guarantor within the meaning of
+Section 15 of the Securities Act or Section 20 of the Exchange Act, from and against any loss, claim, damage or liability, joint or several, or any action in respect thereof, to which the Company, such Guarantor or any such affiliate,
+director, officer, employee or controlling person 
+ 23 
+
+ 
+
+ 
+ 
+
+ 
+ 
+may become subject, under the Securities Act or otherwise, insofar as such loss, claim, damage, liability or action arises out of, or is based upon, (i) any untrue statement or alleged
+untrue statement of a material fact contained in any Preliminary Prospectus, the Registration Statement, the Prospectus, any Issuer Free Writing Prospectus or in any amendment or supplement thereto, or (ii) the omission or alleged omission to
+state in any Preliminary Prospectus, the Registration Statement, the Prospectus, any Issuer Free Writing Prospectus or in any amendment or supplement thereto, any material fact required to be stated therein or necessary to make the statements
+therein not misleading, and shall reimburse the Company, each of the Guarantors and each of their respective affiliates, directors, officers, employees and controlling persons for any legal or other expenses reasonably incurred by the Company, such
+Guarantor, affiliate, director, officer, employee or controlling person, as applicable, in connection with investigating or defending or preparing to defend against any such loss, claim, damage, liability or action as such expenses are incurred, but
+in each case only to the extent that the untrue statement or alleged untrue statement or omission or alleged omission was made in reliance upon and in conformity with written information concerning such Underwriter furnished to the Company and the
+Guarantors through the Representatives by or on behalf of that Underwriter specifically for inclusion therein, which information is limited to the information set forth in Section 8(e). The foregoing indemnity agreement is in addition to any
+liability that any Underwriter may otherwise have to the Company, such Guarantor or any such affiliate, director, officer, employee or controlling person. 
+ (c) Promptly after receipt by an indemnified party under this Section 8 of notice of any claim or the commencement of any action, the
+indemnified party shall, if a claim in respect thereof is to be made against the indemnifying party under this Section 8, notify the indemnifying party in writing of the claim or the commencement of that action; provided , however ,
+that the failure to notify the indemnifying party shall not relieve it from any liability which it may have under this Section 8 except to the extent it has been materially prejudiced (through the forfeiture of substantive rights and defenses)
+by such failure and, provided , further , that the failure to notify the indemnifying party shall not relieve it from any liability which it may have to an indemnified party otherwise than under this Section 8. If any such claim or
+action shall be brought against an indemnified party, and it shall notify the indemnifying party thereof, the indemnifying party shall be entitled to participate therein and, to the extent that it wishes, jointly with any other similarly notified
+indemnifying party, to assume the defense thereof with counsel reasonably satisfactory to the indemnified party. After notice from the indemnifying party to the indemnified party of its election to assume the defense of such claim or action, the
+indemnifying party shall not be liable to the indemnified party under this Section 8 for any legal or other expenses subsequently incurred by the indemnified party in connection with the defense thereof other than reasonable costs of
+investigation; provided, however , that the indemnified party shall have the right to employ a single counsel (plus a single local counsel in each applicable jurisdiction) to represent jointly the indemnified party and those other indemnified
+parties and their respective directors, officers, employees and controlling persons who may be subject to liability arising out of any claim in respect of which indemnity may be sought under this Section 8 if (i) the indemnified party and
+the indemnifying party shall have so mutually agreed; (ii) the indemnifying party has failed within a reasonable time to retain counsel reasonably satisfactory to the indemnified party; (iii) the indemnified party and its directors,
+officers, employees and controlling persons shall have reasonably concluded that there may be legal defenses available to them that are different from or in addition to those available to the indemnifying party; or (iv) the named parties in any
+such proceeding (including any impleaded parties) include both the indemnified parties or their 
+ 24 
+
+ 
+
+ 
+ 
+
+ 
+ 
+respective directors, officers, employees or controlling persons, on the one hand, and the indemnifying party, on the other hand, and representation of both sets of parties by the same counsel
+would present a conflict due to actual or potential differing interests between them, and in any such event the fees and expenses of such separate counsel shall be paid by the indemnifying party. No indemnifying party shall (x) without the
+prior written consent of the indemnified parties (which consent shall not be unreasonably withheld or delayed), settle or compromise or consent to the entry of any judgment with respect to any pending or threatened claim, action, suit or proceeding
+in respect of which indemnification or contribution may be sought hereunder (whether or not the indemnified parties are actual or potential parties to such claim or action) unless such settlement, compromise or consent includes an unconditional
+release of each indemnified party from all liability arising out of such claim, action, suit or proceeding and does not include a statement as to, or an admission of fault, culpability or a failure to act by or on behalf of any indemnified party, or
+(y) be liable for any settlement of any such action effected without its written consent (which consent shall not be unreasonably withheld or delayed), but if settled with the consent of the indemnifying party or if there be a final judgment
+for the plaintiff in any such action, the indemnifying party agrees to indemnify and hold harmless any indemnified party from and against any loss or liability by reason of such settlement or judgment. 
+ (d) If the indemnification provided for in this Section 8 shall for any reason be unavailable to or insufficient to hold harmless an
+indemnified party under Section 8(a), 8(b) or 8(c) in respect of any loss, claim, damage or liability, or any action in respect thereof, referred to therein, then each indemnifying party shall, in lieu of indemnifying such indemnified party,
+contribute to the amount paid or payable by such indemnified party as a result of such loss, claim, damage or liability, or action in respect thereof, (i) in such proportion as shall be appropriate to reflect the relative benefits received by
+the Company and the Guarantors, on the one hand, and the Underwriters, on the other hand, from the offering of the Notes, or (ii) if the allocation provided by clause (i) above is not permitted by applicable law, in such proportion as is
+appropriate to reflect not only the relative benefits referred to in clause (i) above but also the relative fault of the Company and the Guarantors, on the one hand, and the Underwriters, on the other hand, with respect to the statements or
+omissions that resulted in such loss, claim, damage or liability, or action in respect thereof, as well as any other relevant equitable considerations. The relative benefits received by the Company and the Guarantors, on the one hand, and the
+Underwriters, on the other hand, with respect to such offering shall be deemed to be in the same proportion as the total net proceeds from the offering of the Notes purchased under this Agreement (before deducting expenses) received by the Company
+and the Guarantors, as set forth in the Prospectus, on the one hand, and the total underwriting discounts and commissions received by the Underwriters with respect to the Notes purchased under this Agreement, as set forth in the Prospectus, on the
+other hand. The relative fault shall be determined by reference to whether the untrue or alleged untrue statement of a material fact or omission or alleged omission to state a material fact relates to information supplied by the Company, the
+Guarantors or the Underwriters, the intent of the parties and their relative knowledge, access to information and opportunity to correct or prevent such statement or omission. For purposes of the preceding two sentences, the net proceeds deemed to
+be received by the Company shall be deemed to be also for the benefit of the Guarantors, and information supplied by the Company shall also be deemed to have been supplied by the Guarantors. The Company, the Guarantors and the Underwriters agree
+that it would not be just and equitable if contributions pursuant to this Section 8(d) were to be determined by pro rata allocation (even if the Underwriters were treated as one entity for such purpose) or by any other method of
+ 
+ 25 
+
+ 
+
+ 
+ 
+
+ 
+ 
+allocation that does not take into account the equitable considerations referred to herein. The amount paid or payable by an indemnified party as a result of the loss, claim, damage or liability,
+or action in respect thereof, referred to above in this Section 8(d) shall be deemed to include, for purposes of this Section 8(d), any legal or other expenses reasonably incurred by such indemnified party in connection with investigating
+or defending any such action or claim. Notwithstanding the provisions of this Section 8(d), in no event shall an Underwriter be required to contribute any amount in excess of the amount by which the total underwriting discounts and commissions
+received by such Underwriter with respect to the offering of the Notes exceeds the amount of any damages that such Underwriter has otherwise been required to pay by reason of such untrue or alleged untrue statement or omission or alleged omission.
+No person guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of the Securities Act) shall be entitled to contribution from any person who was not guilty of such fraudulent misrepresentation. The Underwriters 
+obligations to contribute as provided in this Section 8(d) are several in proportion to their respective underwriting obligations and not joint. 
+ (e) The Underwriters severally confirm and the Company and the Guarantors acknowledge and agree that the statements regarding delivery of
+Notes by the Underwriters set forth on the cover page of, and the concession and reallowance figures and the paragraph relating to stabilization by the Underwriters appearing under the caption Underwriting in, the Pricing Disclosure
+Package and the Prospectus constitute the only information concerning such Underwriters furnished in writing to the Company or any Guarantor by or on behalf of the Underwriters specifically for inclusion in any Preliminary Prospectus, the
+Registration Statement, the Prospectus, any Issuer Free Writing Prospectus or in any amendment or supplement thereto or in any Marketing Materials. 
+ 9. Defaulting Underwriters . 
+ (a) If, on the Closing Date, any Underwriter defaults in its obligations to purchase the Notes that it has agreed to purchase under this
+Agreement, the remaining non-defaulting Underwriters may in their discretion arrange for the purchase of such Notes by the non-defaulting Underwriters or other persons
+satisfactory to the Company on the terms contained in this Agreement. If, within 36 hours after any such default by any Underwriter, the non-defaulting Underwriters do not arrange for the purchase of such
+Notes, then the Company shall be entitled to a further period of 36 hours within which to procure other persons satisfactory to the non-defaulting Underwriters to purchase such Notes on such terms. In the
+event that within the respective prescribed periods, the non-defaulting Underwriters notify the Company that they have so arranged for the purchase of such Notes, or the Company notifies the non-defaulting Underwriters that it has so arranged for the purchase of such Notes, either the non-defaulting Underwriters or the Company may postpone the Closing Date for up
+to seven full business days in order to effect any changes that in the opinion of counsel for the Company or counsel for the Underwriters may be necessary in the Registration Statement, the Prospectus or in any other document or arrangement, and the
+Company agrees to promptly prepare any amendment or supplement to the Registration Statement, the Prospectus or in any such other document or arrangement that effects any such changes. As used in this Agreement, the term Underwriter, 
+unless the context requires otherwise, includes any party not listed in Schedule I hereto that, pursuant to this Section 9, purchases Notes that a defaulting Underwriter agreed but failed to purchase. 
+ 26 
+
+ 
+
+ 
+ 
+
+ 
+ (b) If, after giving effect to any arrangements for the purchase of the Notes of a
+defaulting Underwriter or Underwriters by the non-defaulting Underwriters and the Company as provided in paragraph (a) above, the aggregate principal amount of such Notes that remain unpurchased does not
+exceed one-eleventh of the aggregate principal amount of all the Notes, then the Company shall have the right to require each non-defaulting Underwriter to purchase the
+principal amount of Notes that such Underwriter agreed to purchase hereunder plus such Underwriter s pro rata share (based on the principal amount of Notes that such Underwriter agreed to purchase hereunder) of the Notes of such
+defaulting Underwriter or Underwriters for which such arrangements have not been made; provided that the non-defaulting Underwriters shall not be obligated to purchase more than 110% of the aggregate
+principal of Notes that it agreed to purchase on the Closing Date pursuant to the terms of Section 4. (c) If, after giving effect to
+any arrangements for the purchase of the Notes of a defaulting Underwriter or Underwriters by the non-defaulting Underwriters and the Company as provided in paragraph (a) above, the aggregate principal
+amount of such Notes that remain unpurchased exceeds one-eleventh of the aggregate principal amount of all the Notes, or if the Company shall not exercise the right described in paragraph (b) above, then
+this Agreement shall terminate without liability on the part of the non-defaulting Underwriters. Any termination of this Agreement pursuant to this Section 9 shall be without liability on the part of the
+Company or the Guarantors, except that the Company and each of the Guarantors will continue to be liable for the payment of expenses as set forth in Sections 6 and 11 and except that the provisions of Section 8 shall not terminate and
+shall remain in effect. (d) Nothing contained herein shall relieve a defaulting Underwriter of any liability it may have to the Company,
+the Guarantors or any non-defaulting Underwriter for damages caused by its default. 10.
+ Termination. The obligations of the Underwriters hereunder may be terminated by the Representatives by notice given to and received by the Company prior to delivery of and payment for the Notes if, prior to that time, any of the events
+described in Sections 7(g), 7(h) and 7(i) shall have occurred. 11. Reimbursement of Underwriters Expenses. If this
+Agreement shall be terminated by the Underwriters, or any of them, because of any failure or refusal on the part of the Company or the Guarantors to comply with the terms or to fulfill any of the conditions of this Agreement, or if for any reason
+the Company or the Guarantors shall be unable to perform their respective obligations under this Agreement, in each case other than pursuant to a termination of this Agreement due to the occurrence of any of the events described in Section 7(i)
+of this Agreement (other than Section 7(i)(i)(B)), the Company and the Guarantors will reimburse the Underwriters for all reasonable and documented out-of-pocket 
+expenses (including reasonable and documented fees and disbursements of counsel for the Underwriters) incurred by the Underwriters in connection with this Agreement and the proposed purchase of the Notes, and upon demand the Company and the
+Guarantors shall pay the full amount thereof to the Representatives. Notwithstanding the foregoing, if this Agreement is terminated pursuant to Section 9 by reason of the default of one or more Underwriters, the Company and the Guarantors shall
+not be obligated to reimburse any defaulting Underwriter on account of those expenses. 
+ 27 
+
+ 
+
+ 
+ 
+
+ 
+ 12. Research Analyst Independence. The Company and the Guarantors acknowledge that
+the Underwriters research analysts and research departments are required to be independent from their respective investment banking divisions and are subject to certain regulations and internal policies, and that such Underwriters 
+research analysts may hold views and make statements or investment recommendations and/or publish research reports with respect to the Company and/or the offering that differ from the views of their respective investment banking divisions. The
+Company and the Guarantors hereby waive and release, to the fullest extent permitted by law, any claims that the Company or the Guarantors may have against the Underwriters with respect to any conflict of interest that may arise from the fact that
+the views expressed by their independent research analysts and research departments may be different from or inconsistent with the views or advice communicated to the Company or the Guarantors by such Underwriters investment banking
+divisions. The Company and the Guarantors acknowledge that each of the Underwriters is a full service securities firm and as such from time to time, subject to applicable securities laws, may effect transactions for its own account or the account of
+its customers and hold long or short positions in debt or equity securities of the companies that may be the subject of the transactions contemplated by this Agreement. 
+ 13. No Fiduciary Duty . The Company and the Guarantors acknowledge and agree that in connection with this offering and sale of the Notes
+or any other services the Underwriters may be deemed to be providing hereunder, notwithstanding any preexisting relationship, advisory or otherwise, between the parties or any oral representations or assurances previously or subsequently made by the
+Underwriters: (a) no fiduciary or agency relationship between the Company, the Guarantors and any other person, on the one hand, and the Underwriters, on the other hand, has been created in connection with the purchase, offering and sale of the
+Notes; (b) the Underwriters are not acting as advisors, expert or otherwise, to either the Company or the Guarantors, including, without limitation, with respect to the determination of the offering price of the Notes, and such relationship
+between the Company and the Guarantors, on the one hand, and the Underwriters, on the other hand, is entirely and solely commercial, based on arms-length negotiations; (c) any duties and obligations that the Underwriters may have to the Company
+or Guarantors shall be limited to those duties and obligations specifically stated herein; and (d) the Underwriters and their respective affiliates may have interests that differ from those of the Company and the Guarantors. The Company and the
+Guarantors hereby waive any claims that the Company or the Guarantors may have against the Underwriters with respect to any breach of fiduciary duty in connection with this offering. 
+ 14. Notices, etc. All statements, requests, notices and agreements hereunder shall be in writing, and: 
+ (a) if to the Underwriters, shall be delivered or sent by mail, facsimile or electronic transmission to: Barclays Capital Inc., 745 Seventh
+Avenue, New York, New York 10019, Attention: Syndicate Registration (Fax: [***]), with a copy, in the case of any notice pursuant to Section 8(c), to the Director of Litigation, Office of the General Counsel, Barclays Capital Inc., 745 Seventh
+Avenue, New York, New York 10019; Citigroup Global Markets Inc. at 388 Greenwich Street, New York, New York 10013, Attention: General Counsel, (Fax: [***]); J.P. Morgan Securities LLC, 270 Park Avenue, New York, New York 10017, Attention: Investment
+Grade Syndicate Desk (Fax: [***]); BofA Securities, Inc., 144 West 47th Street, NY8-114-07-01, New York, New York 10036,
+Attention: High Grade Debt Capital Markets Transaction Management/Legal (Fax: [***]); and HSBC Securities (USA) Inc., 66 Hudson Boulevard, New York, New York 10001, Attention: DCM Legal Americas (Email: [***]); 
+ 28 
+
+ 
+
+ 
+ 
+
+ 
+ (b) if to the Company or any Guarantor, shall be delivered or sent by mail or electronic
+transmission to the address of the Company set forth in the Registration Statement, Attention: Keeley A. Aleman, Esq., Senior Vice President, General Counsel and Secretary (Email: [***]), with a copy (which copy shall not constitute constructive
+notice) to Kirkland & Ellis LLP, 601 Lexington Avenue, New York, NY 10022, Attention: Jennifer L. Lee, Zoey Hitzert (Email: jennifer.lee@kirkland.com; zoey.hitzert@kirkland.com). 
+ Any such statements, requests, notices or agreements shall take effect at the time of receipt thereof. The Company and the Guarantors shall be entitled to act
+and rely upon any request, consent, notice or agreement given or made on behalf of the Underwriters by Barclays Capital Inc. on behalf of the Underwriters. 
+ 15. Persons Entitled to Benefit of Agreement . This Agreement shall inure to the benefit of and be binding upon the Underwriters, the
+Company, the Guarantors and their respective successors. This Agreement and the terms and provisions hereof are for the sole benefit of only those persons, except that (a) the representations, warranties, indemnities and agreements of the
+Company and the Guarantors contained in this Agreement shall also be deemed to be for the benefit of the directors and officers of the Underwriters and each person or persons, if any, who control any Underwriter within the meaning of Section 15
+of the Securities Act, and (b) the indemnity agreement of the Underwriters contained in Section 8(b) of this Agreement shall be deemed to be for the benefit of the affiliates, directors and officers of the Company or any Guarantor, and
+each person, if any, who controls the Company or any Guarantor within the meaning of Section 15 of the Securities Act or Section 20 of the Exchange Act. Nothing in this Agreement is intended or shall be construed to give any person, other
+than the persons referred to in this Section 15, any legal or equitable right, remedy or claim under or in respect of this Agreement or any provision contained herein. 
+ 16. Survival. The respective indemnities, rights of contributions, representations, warranties and agreements of the Company, the
+Guarantors and the Underwriters contained in this Agreement or made by or on behalf of them, respectively, pursuant to this Agreement, shall survive the delivery of and payment for the Notes and shall remain in full force and effect, regardless of
+any investigation made by or on behalf of any of them or their respective successors or any person controlling any of them. 17.
+ Definition of the Terms Business Day , Affiliate and Subsidiary . For purposes of this Agreement, (a) business day means each Monday, Tuesday, Wednesday, Thursday or Friday
+that is not a day on which banking institutions in New York are generally authorized or obligated by law or executive order to close, and (b) affiliate and subsidiary have the meanings set
+forth in Rule 405 under the Securities Act. 
+ 29 
+
+ 
+
+ 
+ 
+
+ 
+ 18. Governing Law & Venue . This Agreement and any
+transaction contemplated by this Agreement and any claim, controversy or dispute arising under or related to this Agreement shall be governed by and construed in accordance with the laws of the State of New York without regard to conflict of laws
+principles that would result in the application of any other law than the laws of the State of New York (other than Section 5-1401 of the General Obligations Law). The Company,
+each of the Guarantors and the Underwriters agree that any suit, action or proceeding arising out of or based upon this Agreement or the transactions contemplated hereby may be instituted in any State or U.S. federal court in The City of New York
+and County of New York, and waives any objection that such party may now or hereafter have to the laying of venue of any such proceeding, and irrevocably submits to the exclusive jurisdiction of such courts in any suit, action or proceeding. 
+ 19. Waiver of Jury Trial . The Company, the Guarantors and the Underwriters hereby irrevocably waive, to the fullest extent permitted by
+applicable law, any and all right to trial by jury in any legal proceeding arising out of or relating to this Agreement or the transactions contemplated hereby. 
+ 20. Counterparts. This Agreement may be executed in one or more counterparts and, if executed in more than one counterpart, the
+executed counterparts shall each be deemed to be an original but all such counterparts shall together constitute one and the same instrument. Delivery of an executed Agreement by one party to any other party may be made by facsimile, electronic mail
+(including any electronic signature complying with the New York Electronic Signatures and Records Act (N.Y. State Tech. 301-309), as amended from time to time, or other applicable law) or other
+transmission method, and the parties hereto agree that any counterpart so delivered shall be deemed to have been duly and validly delivered and be valid and effective for all purposes. The words execution, signed, 
+ signature, and words of like import in this Agreement or in any other certificate, agreement or document related to this Agreement shall include images of manually executed signatures transmitted by facsimile or other electronic format
+(including, without limitation, pdf, tif or jpg ) and other electronic signatures (including, without limitation, DocuSign and AdobeSign). The use of electronic signatures and electronic records (including,
+without limitation, any contract or other record created, generated, sent, communicated, received, or stored by electronic means) shall be of the same legal effect, validity and enforceability as a manually executed signature or use of a paper-based
+record-keeping system to the fullest extent permitted by applicable law. 21. Headings. The headings herein are inserted for
+convenience of reference only and are not intended to be part of, or to affect the meaning or interpretation of, this Agreement. 22.
+ Recognition of the U.S. Special Resolution Regimes. (a) In the event that any Underwriter that is a Covered Entity becomes
+subject to a proceeding under a U.S. Special Resolution Regime, the transfer from such Underwriter of this Agreement, and any interest and obligation in or under this Agreement, will be effective to the same extent as the transfer would be effective
+under the U.S. Special Resolution Regime if this Agreement, and any such interest and obligation, were governed by the laws of the United States or a state of the United States. 
+ (b) In the event that any Underwriter that is a Covered Entity or a BHC Act Affiliate of such Underwriter becomes subject to a proceeding
+under a U.S. Special Resolution Regime, Default Rights under this Agreement that may be exercised against such Underwriter are permitted to be exercised to no greater extent than such Default Rights could be exercised under the U.S. Special
+Resolution Regime if this Agreement were governed by the laws of the United States or a state of the United States. 
+ 30 
+
+ 
+
+ 
+ 
+
+ 
+ For the purposes of this Section 22, a BHC Act Affiliate has the meaning
+assigned to the term affiliate in, and shall be interpreted in accordance with, 12 U.S.C. 1841(k). Covered Entity means any of the following: (i) a covered entity as that term is defined in, and
+interpreted in accordance with, 12 C.F.R. 252.82(b); (ii) a covered bank as that term is defined in, and interpreted in accordance with, 12 C.F.R. 47.3(b); or (iii) a covered FSI as that term is defined
+in, and interpreted in accordance with, 12 C.F.R. 382.2(b). Default Right has the meaning assigned to that term in, and shall be interpreted in accordance with, 12 C.F.R. 252.81, 47.2 or 382.1, as applicable.
+ U.S. Special Resolution Regime means each of (i) the Federal Deposit Insurance Act and the regulations promulgated thereunder and (ii) Title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act and the
+regulations promulgated thereunder. 
+ 31 
+
+ 
+
+ 
+ 
+
+ 
+ If the foregoing correctly sets forth the agreement among the Company, the Guarantors and
+the Underwriters, please indicate your acceptance in the space provided for that purpose below. 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ Very truly yours, 
+ 
+ 
+ 
+ A UGUSTA S PIN C O C ORPORATION 
+ 
+ 
+ 
+ 
+ By: 
+ 
+ /s/ Amol Chaubal 
+ 
+ 
+ 
+ Name: Amol Chaubal 
+ 
+ 
+ 
+ Title: Senior Vice President, Chief Financial 
+ Officer and Treasurer 
+ 
+ 
+ 
+ W ATERS C ORPORATION 
+ 
+ 
+ 
+ 
+ By: 
+ 
+ /s/ Amol Chaubal 
+ 
+ 
+ 
+ Name: Amol Chaubal 
+ 
+ 
+ 
+ Title: Senior Vice President and 
+ Chief Financial Officer 
+ 
+ W ATERS T ECHNOLOGIES C ORPORATION 
+ 
+ 
+ 
+ 
+ By: 
+ 
+ /s/ Amol Chaubal 
+ 
+ 
+ 
+ Name: Amol Chaubal 
+ 
+ 
+ 
+ Title: Chief Financial Officer and 
+ Senior Vice President 
+ 
+ 
+ 
+ TA I NSTRUMENTS W ATERS L.L.C. 
+ 
+ 
+ 
+ 
+ By: 
+ 
+ Waters Technologies Corporation, in its capacity 
+ 
+ 
+ 
+ as Managing Member of TA Instruments Waters L.L.C. 
+ 
+ 
+ 
+ 
+ By: 
+ 
+ /s/ Amol Chaubal 
+ 
+ 
+ 
+ Name: Amol Chaubal 
+ 
+ 
+ 
+ Title: Chief Financial Officer and 
+ Senior Vice President 
+ 
+ [ Signature Page to
+Underwriting Agreement ] 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ W ATERS A SIA L IMITED 
+ 
+ 
+ 
+ 
+ By: 
+ 
+ /s/ Amol Chaubal 
+ 
+ 
+ 
+ Name: Amol Chaubal 
+ 
+ 
+ 
+ Title: President 
+ 
+ 
+ 
+ W YATT T ECHNOLOGY , LLC 
+ 
+ 
+ 
+ 
+ By: 
+ 
+ /s/ Amol Chaubal 
+ 
+ 
+ 
+ Name: Amol Chaubal 
+ 
+ 
+ 
+ Title: Chief Executive Officer 
+ 
+ 
+ 
+ P HAR M INGEN 
+ 
+ 
+ 
+ 
+ By: 
+ 
+ /s/ Steven Conly 
+ 
+ 
+ 
+ Name: Steven Conly 
+ 
+ 
+ 
+ Title: President 
+ 
+ 
+ 
+ A CCURI C YTOMETERS , I NC . 
+ 
+ 
+ 
+ 
+ By: 
+ 
+ /s/ Steven Conly 
+ 
+ 
+ 
+ Name: Steven Conly 
+ 
+ 
+ 
+ Title: President 
+ 
+ 
+ 
+ A UGUSTA L IFE S CIENCES US O P C O I LLC 
+ 
+ 
+ 
+ 
+ By: 
+ 
+ /s/ Amol Chaubal 
+ 
+ 
+ 
+ Name: Amol Chaubal 
+ 
+ 
+ 
+ Title: President 
+ 
+ 
+ 
+ A UGUSTA L IFE S CIENCES US O P C O II LLC 
+ 
+ 
+ 
+ 
+ By: 
+ 
+ /s/ Steven Conly 
+ 
+ 
+ 
+ Name: Steven Conly 
+ 
+ 
+ 
+ Title: President 
+ 
+ [ Signature Page to
+Underwriting Agreement ] 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ A UGUSTA L IFE S CIENCES US S PIN C O LLC 
+ 
+ 
+ 
+ 
+ By: 
+ 
+ /s/ Steven Conly 
+ 
+ 
+ 
+ Name: Steven Conly 
+ 
+ 
+ 
+ Title: President 
+ 
+ 
+ 
+ C ELLULAR R ESEARCH , I NC . 
+ 
+ 
+ 
+ 
+ By: 
+ 
+ /s/ Steven Conly 
+ 
+ 
+ 
+ Name: Steven Conly 
+ 
+ 
+ 
+ Title: President 
+ 
+ 
+ 
+ H ANDY L AB , I NC . 
+ 
+ 
+ 
+ 
+ By: 
+ 
+ /s/ Amol Chaubal 
+ 
+ 
+ 
+ Name: Amol Chaubal 
+ 
+ 
+ 
+ Title: President 
+ 
+ [ Signature Page to
+Underwriting Agreement ] 
+
+ 
+
+ 
+ 
+
+ 
+ Accepted: 
+ B ARCLAYS C APITAL I NC . 
+ C ITIGROUP G LOBAL M ARKETS I NC . 
+ B OF A S ECURITIES , I NC . 
+ HSBC S ECURITIES (USA) I NC . J.P.
+M ORGAN S ECURITIES LLC For themselves and as Representatives 
+ of the several Underwriters named in Schedule I hereto 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ By B ARCLAYS C APITAL I NC . 
+ 
+ 
+ 
+ 
+ By: 
+ 
+ /s/ James Gutow 
+ 
+ Name: 
+ 
+ James Gutow 
+ 
+ Title: 
+ 
+ Managing Director 
+ 
+ 
+ 
+ By C ITIGROUP G LOBAL M ARKETS I NC . 
+ 
+ 
+ 
+ 
+ By: 
+ 
+ /s/ Adam D. Bordner 
+ 
+ Name: 
+ 
+ Adam D. Bordner 
+ 
+ Title: 
+ 
+ Managing Director 
+ 
+ 
+ 
+ By B OF A S ECURITIES , I NC . 
+ 
+ 
+ 
+ 
+ By: 
+ 
+ /s/ Douglas Muller 
+ 
+ Name: 
+ 
+ Douglas Muller 
+ 
+ Title: 
+ 
+ Managing Director 
+ 
+ 
+ 
+ By HSBC S ECURITIES (USA) I NC . 
+ 
+ 
+ 
+ 
+ By: 
+ 
+ /s/ Patrice Altongy 
+ 
+ Name: 
+ 
+ Patrice Altongy 
+ 
+ Title: 
+ 
+ Managing Director 
+ 
+ 
+ 
+ By J.P. M ORGAN S ECURITIES LLC 
+ 
+ 
+ 
+ 
+ By: 
+ 
+ /s/ Som Bhattacharyya 
+ 
+ Name: 
+ 
+ Som Bhattacharyya 
+ 
+ Title: 
+ 
+ Executive Director 
+ 
+ [ Signature Page to
+Underwriting Agreement ] 
+
+ 
+
+ 
+ 
+
+ 
+ SCHEDULE I 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Underwriters 
+ 
+ Principal Amount of 2027 Notes to be Purchased 
+ 
+ 
+ Principal Amount of 2029 Notes to be Purchased 
+ 
+ 
+ Principal Amount of 2031 Notes to be Purchased 
+ 
+ 
+ Principal Amount of 2033 Notes to be Purchased 
+ 
+ 
+ Principal Amount of 2036 Notes to be Purchased 
+ 
+
+ 
+ Barclays Capital Inc. 
+ 
+ $ 
+ 164,385,000 
+ 
+ 
+ $ 
+ 151,740,000 
+ 
+ 
+ $ 
+ 189,675,000 
+ 
+ 
+ $ 
+ 189,675,000 
+ 
+ 
+ $ 
+ 189,675,000 
+ 
+ 
+ Citigroup Global Markets Inc. 
+ 
+ $ 
+ 164,385,000 
+ 
+ 
+ $ 
+ 151,740,000 
+ 
+ 
+ $ 
+ 189,675,000 
+ 
+ 
+ $ 
+ 189,675,000 
+ 
+ 
+ $ 
+ 189,675,000 
+ 
+ 
+ J.P. Morgan Securities LLC 
+ 
+ $ 
+ 42,705,000 
+ 
+ 
+ $ 
+ 39,420,000 
+ 
+ 
+ $ 
+ 49,275,000 
+ 
+ 
+ $ 
+ 49,275,000 
+ 
+ 
+ $ 
+ 49,275,000 
+ 
+ 
+ BofA Securities, Inc. 
+ 
+ $ 
+ 32,695,000 
+ 
+ 
+ $ 
+ 30,180,000 
+ 
+ 
+ $ 
+ 37,725,000 
+ 
+ 
+ $ 
+ 37,725,000 
+ 
+ 
+ $ 
+ 37,725,000 
+ 
+ 
+ HSBC Securities (USA) Inc. 
+ 
+ $ 
+ 32,695,000 
+ 
+ 
+ $ 
+ 30,180,000 
+ 
+ 
+ $ 
+ 37,725,000 
+ 
+ 
+ $ 
+ 37,725,000 
+ 
+ 
+ $ 
+ 37,725,000 
+ 
+ 
+ Citizens JMP Securities, LLC 
+ 
+ $ 
+ 32,695,000 
+ 
+ 
+ $ 
+ 30,180,000 
+ 
+ 
+ $ 
+ 37,725,000 
+ 
+ 
+ $ 
+ 37,725,000 
+ 
+ 
+ $ 
+ 37,725,000 
+ 
+ 
+ PNC Capital Markets LLC 
+ 
+ $ 
+ 32,695,000 
+ 
+ 
+ $ 
+ 30,180,000 
+ 
+ 
+ $ 
+ 37,725,000 
+ 
+ 
+ $ 
+ 37,725,000 
+ 
+ 
+ $ 
+ 37,725,000 
+ 
+ 
+ Truist Securities, Inc. 
+ 
+ $ 
+ 32,695,000 
+ 
+ 
+ $ 
+ 30,180,000 
+ 
+ 
+ $ 
+ 37,725,000 
+ 
+ 
+ $ 
+ 37,725,000 
+ 
+ 
+ $ 
+ 37,725,000 
+ 
+ 
+ DNB Carnegie, Inc. 
+ 
+ $ 
+ 23,010,000 
+ 
+ 
+ $ 
+ 21,240,000 
+ 
+ 
+ $ 
+ 26,550,000 
+ 
+ 
+ $ 
+ 26,550,000 
+ 
+ 
+ $ 
+ 26,550,000 
+ 
+ 
+ Guggenheim Securities, LLC 
+ 
+ $ 
+ 23,010,000 
+ 
+ 
+ $ 
+ 21,240,000 
+ 
+ 
+ $ 
+ 26,550,000 
+ 
+ 
+ $ 
+ 26,550,000 
+ 
+ 
+ $ 
+ 26,550,000 
+ 
+ 
+ KeyBanc Capital Markets Inc. 
+ 
+ $ 
+ 23,010,000 
+ 
+ 
+ $ 
+ 21,240,000 
+ 
+ 
+ $ 
+ 26,550,000 
+ 
+ 
+ $ 
+ 26,550,000 
+ 
+ 
+ $ 
+ 26,550,000 
+ 
+ 
+ TD Securities (USA) LLC 
+ 
+ $ 
+ 23,010,000 
+ 
+ 
+ $ 
+ 21,240,000 
+ 
+ 
+ $ 
+ 26,550,000 
+ 
+ 
+ $ 
+ 26,550,000 
+ 
+ 
+ $ 
+ 26,550,000 
+ 
+ 
+ U.S. Bancorp Investments, Inc. 
+ 
+ $ 
+ 23,010,000 
+ 
+ 
+ $ 
+ 21,240,000 
+ 
+ 
+ $ 
+ 26,550,000 
+ 
+ 
+ $ 
+ 26,550,000 
+ 
+ 
+ $ 
+ 26,550,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ $ 
+ 650,000,000 
+ 
+ 
+ $ 
+ 600,000,000 
+ 
+ 
+ $ 
+ 750,000,000 
+ 
+ 
+ $ 
+ 750,000,000 
+ 
+ 
+ $ 
+ 750,000,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ SCHEDULE II 
+ LIST OF GUARANTORS 
+ 
+
+ 
+
+ 
+
+ 
+ Waters Corporation 
+ 
+ 
+ 
+ Waters Technologies Corporation 
+ 
+ 
+ 
+ TA Instruments Waters L.L.C. 
+ 
+ 
+ 
+ Waters Asia Limited 
+ 
+ 
+ 
+ Wyatt Technology, LLC 
+ 
+ 
+ 
+ Accuri Cytometers, Inc. 
+ 
+ 
+ 
+ Augusta Life Sciences US OpCo I LLC 
+ 
+ 
+ 
+ Augusta Life Sciences US OpCo II LLC 
+ 
+ 
+ 
+ Augusta Life Sciences US SpinCo LLC 
+ 
+ 
+ 
+ Cellular Research, Inc. 
+ 
+ 
+ 
+ HandyLab, Inc. 
+ 
+ 
+ 
+ PharMingen 
+ 
+ 
+
+ 
+ 
+
+ 
+ SCHEDULE III 
+ PRICING TERM SHEET 
+ Augusta SpinCo Corporation (the Company ) 
+ March 17, 2026 
+ $650,000,000 4.321% Senior Notes due 2027 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ Issuer: 
+ 
+ Augusta SpinCo Corporation 
+ 
+ Offering Format: 
+ 
+ SEC Registered 
+ 
+ Ratings*: 
+ 
+ [***] 
+ 
+ Principal Amount: 
+ 
+ $650,000,000 
+ 
+ Offering Price: 
+ 
+ 100.000% of principal amount 
+ 
+ Trade Date: 
+ 
+ March 17, 2026 
+ 
+ Settlement Date**: 
+ 
+ March 23, 2026 (T+4) 
+ 
+ Maturity Date: 
+ 
+ September 23, 2027 
+ 
+ Coupon: 
+ 
+ 4.321% 
+ 
+ Benchmark Treasury: 
+ 
+ 3.375% due February 29, 2028 
+ 
+ Spread to Benchmark Treasury: 
+ 
+ +65 basis points 
+ 
+ Benchmark Treasury Price and Yield: 
+ 
+ 99-14 1 4 / 3.671% 
+ 
+ Yield to Maturity: 
+ 
+ 4.321% 
+ 
+ Interest Payment Dates: 
+ 
+ Semi-annually on March 23 and September 23, commencing on September 23, 2026 
+ 
+ Regular Record Dates: 
+ 
+ March 8 and September 8 
+ 
+ Redemption Provisions: 
+ 
+ The 2027 Notes will not be redeemable prior to their maturity. 
+ 
+ Denominations: 
+ 
+ $2,000 x $1,000 
+ 
+ CUSIP: 
+ 
+ 051473 AB2 
+ 
+ ISIN: 
+ 
+ US051473AB24 
+ 
+ 
+ 
+ $600,000,000 4.398% Senior Notes due 2029 
+ 
+ 
+ 
+ 
+ Issuer: 
+ 
+ Augusta SpinCo Corporation 
+ 
+ Offering Format: 
+ 
+ SEC Registered 
+ 
+ Ratings*: 
+ 
+ [***] 
+ 
+ Principal Amount: 
+ 
+ $600,000,000 
+ 
+ Offering Price: 
+ 
+ 100.000% of principal amount 
+ 
+ Trade Date: 
+ 
+ March 17, 2026 
+ 
+ Settlement Date**: 
+ 
+ March 23, 2026 (T+4) 
+ 
+ Maturity Date: 
+ 
+ March 23, 2029 
+ 
+ Coupon: 
+ 
+ 4.398% 
+ 
+ Benchmark Treasury: 
+ 
+ 3.500% due March 15, 2029 
+ 
+ Spread to Benchmark Treasury: 
+ 
+ +72 basis points 
+ 
+ Benchmark Treasury Price and Yield: 
+ 
+ 99-16 / 3.678% 
+ 
+ Yield to Maturity: 
+ 
+ 4.398% 
+ 
+ Interest Payment Dates: 
+ 
+ Semi-annually on March 23 and September 23, commencing on September 23, 2026 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ Regular Record Dates: 
+ 
+ March 8 and September 8 
+ 
+ Redemption Provisions: 
+ 
+ 
+ 
+ Par call: 
+ 
+ At any time on or after February 23, 2029 (one month prior to the maturity date), the Company may redeem the 2029 Notes, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the
+principal amount of the 2029 Notes to be redeemed, plus accrued and unpaid interest thereon to, but excluding, the redemption date. 
+ 
+ Make-whole call: 
+ 
+ At any time and from time to time prior to February 23, 2029 (one month prior to the maturity date), the Company may, at its option, redeem the 2029 Notes, in whole or in part, at a redemption price equal to the greater of (1)
+100% of the principal amount of the 2029 Notes to be redeemed; and (2)(a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 15 basis points less (b) interest accrued to the date of redemption, plus accrued and unpaid
+interest thereon to, but excluding, the redemption date. 
+ 
+ Denominations: 
+ 
+ $2,000 x $1,000 
+ 
+ CUSIP: 
+ 
+ 051473 AC0 
+ 
+ ISIN: 
+ 
+ US051473AC07 
+ 
+ 
+ 
+ $750,000,000 4.656% Senior Notes due 2031 
+ 
+ 
+ 
+ 
+ Issuer: 
+ 
+ Augusta SpinCo Corporation 
+ 
+ Offering Format: 
+ 
+ SEC Registered 
+ 
+ Ratings*: 
+ 
+ [***] 
+ 
+ Principal Amount: 
+ 
+ $750,000,000 
+ 
+ Offering Price: 
+ 
+ 100.000% of principal amount 
+ 
+ Trade Date: 
+ 
+ March 17, 2026 
+ 
+ Settlement Date**: 
+ 
+ March 23, 2026 (T+4) 
+ 
+ Maturity Date: 
+ 
+ March 23, 2031 
+ 
+ Coupon: 
+ 
+ 4.656% 
+ 
+ Benchmark Treasury: 
+ 
+ 3.500% due February 28, 2031 
+ 
+ Spread to Benchmark Treasury: 
+ 
+ +87 basis points 
+ 
+ Benchmark Treasury Price and Yield: 
+ 
+ 98-23 / 3.786% 
+ 
+ Yield to Maturity: 
+ 
+ 4.656% 
+ 
+ Interest Payment Dates: 
+ 
+ Semi-annually on March 23 and September 23, commencing on September 23, 2026 
+ 
+ Regular Record Dates: 
+ 
+ March 8 and September 8 
+ 
+ Redemption Provisions: 
+ 
+ 
+ 
+ Par call: 
+ 
+ At any time on or after February 23, 2031 (one month prior to the maturity date), the Company may redeem the 2031 Notes, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the
+principal amount of the 2031 Notes to be redeemed, plus accrued and unpaid interest thereon to, but excluding, the redemption date. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ Make-whole call: 
+ 
+ At any time and from time to time prior to February 23, 2031 (one month prior to the maturity date), the Company may, at its option, redeem the 2031 Notes, in whole or in part, at a redemption price equal to the greater of (1)
+100% of the principal amount of the 2031 Notes to be redeemed; and (2)(a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 15 basis points less (b) interest accrued to the date of redemption, plus accrued and unpaid
+interest thereon to, but excluding, the redemption date. 
+ 
+ Denominations: 
+ 
+ $2,000 x $1,000 
+ 
+ CUSIP: 
+ 
+ 051473 AD8 
+ 
+ ISIN: 
+ 
+ US051473AD89 
+ 
+ 
+ 
+ $750,000,000 4.945% Senior Notes due 2033 
+ 
+ 
+ 
+ 
+ Issuer: 
+ 
+ Augusta SpinCo Corporation 
+ 
+ Offering Format: 
+ 
+ SEC Registered 
+ 
+ Ratings*: 
+ 
+ [***] 
+ 
+ Principal Amount: 
+ 
+ $750,000,000 
+ 
+ Offering Price: 
+ 
+ 100.000% of principal amount 
+ 
+ Trade Date: 
+ 
+ March 17, 2026 
+ 
+ Settlement Date**: 
+ 
+ March 23, 2026 (T+4) 
+ 
+ Maturity Date: 
+ 
+ March 23, 2033 
+ 
+ Coupon: 
+ 
+ 4.945% 
+ 
+ Benchmark Treasury: 
+ 
+ 3.750% due February 28, 2033 
+ 
+ Spread to Benchmark Treasury: 
+ 
+ +97 basis points 
+ 
+ Benchmark Treasury Price and Yield: 
+ 
+ 98-20+ / 3.975% 
+ 
+ Yield to Maturity: 
+ 
+ 4.945% 
+ 
+ Interest Payment Dates: 
+ 
+ Semi-annually on March 23 and September 23, commencing on September 23, 2026 
+ 
+ Regular Record Dates: 
+ 
+ March 8 and September 8 
+ 
+ Redemption Provisions: 
+ 
+ 
+ 
+ Par call: 
+ 
+ At any time on or after January 23, 2033 (two months prior to the maturity date), the Company may redeem the 2033 Notes, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the
+principal amount of the 2033 Notes to be redeemed, plus accrued and unpaid interest thereon to, but excluding, the redemption date. 
+ 
+ Make-whole call: 
+ 
+ At any time and from time to time prior to January 23, 2033 (two months prior to the maturity date), the Company may, at its option, redeem the 2033 Notes, in whole or in part, at a redemption price equal to the greater of (1)
+100% of the principal amount of the 2033 Notes to be redeemed; and (2)(a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 15 basis points less (b) interest accrued to the date of redemption, plus accrued and unpaid
+interest thereon to, but excluding, the redemption date. 
+ 
+ Denominations: 
+ 
+ $2,000 x $1,000 
+ 
+ CUSIP: 
+ 
+ 051473 AE6 
+ 
+ ISIN: 
+ 
+ US051473AE62 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ $750,000,000 5.245% Senior Notes due 2036 
+ 
+ 
+ 
+ 
+ Issuer: 
+ 
+ Augusta SpinCo Corporation 
+ 
+ Offering Format: 
+ 
+ SEC Registered 
+ 
+ Ratings*: 
+ 
+ [***] 
+ 
+ Principal Amount: 
+ 
+ $750,000,000 
+ 
+ Offering Price: 
+ 
+ 100.000% of principal amount 
+ 
+ Trade Date: 
+ 
+ March 17, 2026 
+ 
+ Settlement Date**: 
+ 
+ March 23, 2026 (T+4) 
+ 
+ Maturity Date: 
+ 
+ March 23, 2036 
+ 
+ Coupon: 
+ 
+ 5.245% 
+ 
+ Benchmark Treasury: 
+ 
+ 4.125% due February 15, 2036 
+ 
+ Spread to Benchmark Treasury: 
+ 
+ +105 basis points 
+ 
+ Benchmark Treasury Price and Yield: 
+ 
+ 99-14 / 4.195% 
+ 
+ Yield to Maturity: 
+ 
+ 5.245% 
+ 
+ Interest Payment Dates: 
+ 
+ Semi-annually on March 23 and September 23, commencing on September 23, 2026 
+ 
+ Regular Record Dates: 
+ 
+ March 8 and September 8 
+ 
+ Redemption Provisions: 
+ 
+ 
+ 
+ Par call: 
+ 
+ At any time on or after December 23, 2035 (three months prior to the maturity date), the Company may redeem the 2036 Notes, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the
+principal amount of the 2036 Notes to be redeemed, plus accrued and unpaid interest thereon to, but excluding, the redemption date. 
+ 
+ Make-whole call: 
+ 
+ At any time and from time to time prior to December 23, 2035 (three months prior to the maturity date), the Company may, at its option, redeem the 2036 Notes, in whole or in part, at a redemption price equal to the greater of
+(1) 100% of the principal amount of the 2036 Notes to be redeemed; and (2)(a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 20 basis points less (b) interest accrued to the date of redemption, plus accrued and unpaid
+interest thereon to, but excluding, the redemption date. 
+ 
+ Denominations: 
+ 
+ $2,000 x $1,000 
+ 
+ CUSIP: 
+ 
+ 051473 AF3 
+ 
+ ISIN: 
+ 
+ US051473AF38 
+ 
+ 
+ 
+ * * * * * 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ Joint Book-Running Managers: 
+ 
+ Barclays Capital Inc. Citigroup Global Markets
+Inc. J.P. Morgan Securities LLC BofA Securities, Inc. 
+ HSBC Securities (USA) Inc. Citizens JMP Securities, LLC 
+ PNC Capital Markets LLC Truist Securities, Inc. 
+ 
+ Co-Managers: 
+ 
+ DNB Carnegie, Inc. Guggenheim Securities,
+LLC KeyBanc Capital Markets Inc. TD Securities (USA) LLC 
+ U.S. Bancorp Investments, Inc. 
+ 
+ 
+ 
+ * 
+ Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to
+revision or withdrawal at any time. 
+ 
+ 
+ ** 
+ Under Rule 15c6-1 under the Securities Exchange Act of 1934, as
+amended, purchases or sales of securities in the secondary market generally are required to settle in one business day (T+1), unless the parties to any such transactions expressly agree otherwise. Accordingly, purchasers of the notes who wish to
+trade the notes prior to the business day preceding their date of delivery will be required, because the notes initially will settle in T+4, to specify an alternative settlement cycle at the time of any such trade to prevent a failed settlement.
+Purchasers of the notes who wish to trade the notes before the first business day prior to such settlement date should consult their own advisor. 
+ 
+ This pricing term sheet is not an offer to sell the securities and it is not a solicitation of an offer to buy the securities in any jurisdiction to any
+person to whom it is unlawful to make such offer or solicitation in such jurisdiction. The issuer has filed a registration statement (including a
+prospectus) with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement and other documents the issuer has filed with the SEC for more complete information about
+the issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC Web site at www.sec.gov. Alternatively, you may obtain a copy of the prospectus by calling Barclays Capital Inc. at 1-888-603-5847, Citigroup Global Markets Inc. at
+ 1-800-831-9146, J.P. Morgan Securities LLC at 1-212-834-6081, BofA Securities, Inc. at 1-800-294-1322 or HSBC Securities (USA)
+Inc. at 1-866-811-8049. 
+ Any disclaimers or notices that may appear on this pricing term sheet below the text of this legend are not applicable to this pricing term sheet and
+should be disregarded. Such disclaimers may have been electronically generated as a result of this pricing term sheet having been sent via, or posted on, Bloomberg or another electronic mail system. 
+ 
+
+ 
+ 
+
+ 
+ SCHEDULE IV 
+ ISSUER FREE WRITING PROSPECTUSES ROAD SHOW MATERIALS 
+ Investor Presentation dated March 16, 2026 
+ 
+
+ 
+ 
+
+ 
+ SCHEDULE V 
+ ISSUER FREE WRITING PROSPECTUS 
+ 
+ 
+ 1. 
+ Pricing term sheet substantially in the form attached hereto as Schedule III

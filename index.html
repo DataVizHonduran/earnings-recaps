@@ -2,14 +2,363 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Earnings Recaps</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Earnings Recaps — S&P 500</title>
 <style>
-  body { font-family: sans-serif; background:#f5f7fa; display:flex;
-         align-items:center; justify-content:center; height:100vh; margin:0; }
-  p { color:#666; font-size:1.1em; }
+  body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
+          background:#f5f7fa; margin:0; padding:0; color:#333; }
+  .header { background:#1a1a2e; color:white; padding:28px 32px; }
+  .header h1 { margin:0; font-size:1.8em; }
+  .header .sub { color:#aaa; font-size:.9em; margin-top:6px; }
+  .container { max-width:1200px; margin:0 auto; padding:32px 20px 60px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(220px,1fr)); gap:18px; }
+  .report-card { background:white; border-radius:10px;
+                  box-shadow:0 2px 6px rgba(0,0,0,.08); padding:20px;
+                  display:flex; flex-direction:column; gap:6px;
+                  transition:transform .15s,box-shadow .15s; }
+  .report-card:hover { transform:translateY(-3px); box-shadow:0 6px 14px rgba(0,0,0,.12); }
+  .ticker { font-size:1.6em; font-weight:700; color:#1a1a2e; }
+  .company { font-size:.82em; color:#666; }
+  .date { font-size:.85em; color:#888; margin-top:2px; }
+  .badge { display:inline-block; padding:2px 9px; border-radius:12px;
+            font-size:.75em; font-weight:600; margin-top:4px; }
+  .view-link { margin-top:auto; padding-top:12px; color:#007bff; text-decoration:none;
+                font-weight:600; font-size:.9em; border-top:1px solid #f0f0f0; }
+  .view-link:hover { text-decoration:underline; }
+  .meta { color:#999; font-size:.83em; margin-bottom:20px; }
 </style>
 </head>
 <body>
-<p>📊 Earnings Recaps — first run pending. Check back after 07:30 UTC.</p>
+<div class="header">
+  <h1>📊 Earnings Recaps</h1>
+  <div class="sub">S&P 500 · Daily EDGAR fetch + Gemma AI commentary · Updated 2026-05-02 23:44 UTC</div>
+</div>
+<div class="container">
+  <p class="meta">46 report(s) · 10 tracked tickers · Source: SEC EDGAR 8-K filings</p>
+  <div class="grid">
+    <article class="report-card">
+      <div class="ticker">RVTY</div>
+      <div class="company">REVVITY, INC.</div>
+      <div class="date">2026-05-01</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/RVTY_2026-05-01.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">XOM</div>
+      <div class="company">EXXON MOBIL CORP</div>
+      <div class="date">2026-05-01</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/XOM_2026-05-01.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">IP</div>
+      <div class="company">INTERNATIONAL PAPER CO /NEW/</div>
+      <div class="date">2026-04-30</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/IP_2026-04-30.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">INTC</div>
+      <div class="company">INTEL CORP</div>
+      <div class="date">2026-04-30</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/INTC_2026-04-30.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">TAP</div>
+      <div class="company">MOLSON COORS BEVERAGE CO</div>
+      <div class="date">2026-04-30</div>
+      <span class="badge" style="background:#28a74520;color:#28a745">TRANSCRIPT</span>
+      <a class="view-link" href="reports/TAP_2026-04-30.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">MHK</div>
+      <div class="company">MOHAWK INDUSTRIES INC</div>
+      <div class="date">2026-04-30</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/MHK_2026-04-30.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">ITW</div>
+      <div class="company">ILLINOIS TOOL WORKS INC</div>
+      <div class="date">2026-04-30</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/ITW_2026-04-30.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">TFX</div>
+      <div class="company">TELEFLEX INC</div>
+      <div class="date">2026-04-30</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/TFX_2026-04-30.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">BR</div>
+      <div class="company">BROADRIDGE FINANCIAL SOLUTIONS, INC.</div>
+      <div class="date">2026-04-30</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/BR_2026-04-30.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">WELL</div>
+      <div class="company">WELLTOWER INC.</div>
+      <div class="date">2026-04-29</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/WELL_2026-04-29.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">MAA</div>
+      <div class="company">MID AMERICA APARTMENT COMMUNITIES INC.</div>
+      <div class="date">2026-04-29</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/MAA_2026-04-29.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">PSX</div>
+      <div class="company">Phillips 66</div>
+      <div class="date">2026-04-29</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/PSX_2026-04-29.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">GNRC</div>
+      <div class="company">GENERAC HOLDINGS INC.</div>
+      <div class="date">2026-04-29</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/GNRC_2026-04-29.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">CTSH</div>
+      <div class="company">COGNIZANT TECHNOLOGY SOLUTIONS CORP</div>
+      <div class="date">2026-04-29</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/CTSH_2026-04-29.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">ADP</div>
+      <div class="company">AUTOMATIC DATA PROCESSING INC</div>
+      <div class="date">2026-04-29</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/ADP_2026-04-29.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">TMUS</div>
+      <div class="company">T-Mobile US, Inc.</div>
+      <div class="date">2026-04-28</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/TMUS_2026-04-28.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">BEN</div>
+      <div class="company">FRANKLIN RESOURCES INC</div>
+      <div class="date">2026-04-28</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/BEN_2026-04-28.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">MCK</div>
+      <div class="company">MCKESSON CORP</div>
+      <div class="date">2026-04-28</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/MCK_2026-04-28.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">VTR</div>
+      <div class="company">Ventas, Inc.</div>
+      <div class="date">2026-04-27</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/VTR_2026-04-27.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">UAL</div>
+      <div class="company">United Airlines Holdings, Inc.</div>
+      <div class="date">2026-04-27</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/UAL_2026-04-27.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">KDP</div>
+      <div class="company">Keurig Dr Pepper Inc.</div>
+      <div class="date">2026-04-23</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/KDP_2026-04-23.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">RJF</div>
+      <div class="company">RAYMOND JAMES FINANCIAL INC</div>
+      <div class="date">2026-04-22</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/RJF_2026-04-22.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">MOH</div>
+      <div class="company">MOLINA HEALTHCARE, INC.</div>
+      <div class="date">2026-04-22</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/MOH_2026-04-22.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">GE</div>
+      <div class="company">GENERAL ELECTRIC CO</div>
+      <div class="date">2026-04-21</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/GE_2026-04-21.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">ADBE</div>
+      <div class="company">ADOBE INC.</div>
+      <div class="date">2026-04-21</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/ADBE_2026-04-21.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">HPQ</div>
+      <div class="company">HP INC</div>
+      <div class="date">2026-04-21</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/HPQ_2026-04-21.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">ALK</div>
+      <div class="company">ALASKA AIR GROUP, INC.</div>
+      <div class="date">2026-04-20</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/ALK_2026-04-20.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">CAG</div>
+      <div class="company">CONAGRA BRANDS INC.</div>
+      <div class="date">2026-04-13</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/CAG_2026-04-13.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">RH</div>
+      <div class="company">RH</div>
+      <div class="date">2026-03-31</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/RH_2026-03-31.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">DLTR</div>
+      <div class="company">DOLLAR TREE, INC.</div>
+      <div class="date">2026-03-23</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/DLTR_2026-03-23.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">WAT</div>
+      <div class="company">WATERS CORP /DE/</div>
+      <div class="date">2026-03-23</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/WAT_2026-03-23.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">SRE</div>
+      <div class="company">SEMPRA</div>
+      <div class="date">2026-03-20</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/SRE_2026-03-20.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">DD</div>
+      <div class="company">DuPont de Nemours, Inc.</div>
+      <div class="date">2026-03-18</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/DD_2026-03-18.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">ADI</div>
+      <div class="company">ANALOG DEVICES INC</div>
+      <div class="date">2026-03-12</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/ADI_2026-03-12.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">FIS</div>
+      <div class="company">Fidelity National Information Services, Inc.</div>
+      <div class="date">2026-03-10</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/FIS_2026-03-10.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">AEE</div>
+      <div class="company">AMEREN CORP</div>
+      <div class="date">2026-03-04</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/AEE_2026-03-04.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">AZO</div>
+      <div class="company">AUTOZONE INC</div>
+      <div class="date">2026-03-03</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/AZO_2026-03-03.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">CTRA</div>
+      <div class="company">Coterra Energy Inc.</div>
+      <div class="date">2026-02-26</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/CTRA_2026-02-26.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">HSIC</div>
+      <div class="company">HENRY SCHEIN INC</div>
+      <div class="date">2026-02-24</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/HSIC_2026-02-24.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">USFD</div>
+      <div class="company">US Foods Holding Corp.</div>
+      <div class="date">2026-02-12</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/USFD_2026-02-12.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">VRTX</div>
+      <div class="company">VERTEX PHARMACEUTICALS INC / MA</div>
+      <div class="date">2026-02-12</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/VRTX_2026-02-12.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">CSCO</div>
+      <div class="company">CISCO SYSTEMS, INC.</div>
+      <div class="date">2026-02-11</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/CSCO_2026-02-11.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">MCD</div>
+      <div class="company">MCDONALDS CORP</div>
+      <div class="date">2026-02-11</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/MCD_2026-02-11.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">TECH</div>
+      <div class="company">BIO-TECHNE Corp</div>
+      <div class="date">2026-02-11</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/TECH_2026-02-11.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">HII</div>
+      <div class="company">HUNTINGTON INGALLS INDUSTRIES, INC.</div>
+      <div class="date">2026-02-05</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/HII_2026-02-05.html">View Recap →</a>
+    </article>
+    <article class="report-card">
+      <div class="ticker">FOX</div>
+      <div class="company">Fox Corp</div>
+      <div class="date">2026-02-04</div>
+      <span class="badge" style="background:#007bff20;color:#007bff">PRESS_RELEASE</span>
+      <a class="view-link" href="reports/FOX_2026-02-04.html">View Recap →</a>
+    </article>
+  </div>
+</div>
 </body>
 </html>

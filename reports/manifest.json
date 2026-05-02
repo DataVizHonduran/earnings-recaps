@@ -1,0 +1,278 @@
+[
+  {
+    "ticker": "USFD",
+    "company": "US Foods Holding Corp.",
+    "date": "2026-02-12",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "WELL",
+    "company": "WELLTOWER INC.",
+    "date": "2026-04-29",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "CAG",
+    "company": "CONAGRA BRANDS INC.",
+    "date": "2026-04-13",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "GE",
+    "company": "GENERAL ELECTRIC CO",
+    "date": "2026-04-21",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "MAA",
+    "company": "MID AMERICA APARTMENT COMMUNITIES INC.",
+    "date": "2026-04-29",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "PSX",
+    "company": "Phillips 66",
+    "date": "2026-04-29",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "VTR",
+    "company": "Ventas, Inc.",
+    "date": "2026-04-27",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "TMUS",
+    "company": "T-Mobile US, Inc.",
+    "date": "2026-04-28",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "DD",
+    "company": "DuPont de Nemours, Inc.",
+    "date": "2026-03-18",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "CSCO",
+    "company": "CISCO SYSTEMS, INC.",
+    "date": "2026-02-11",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "IP",
+    "company": "INTERNATIONAL PAPER CO /NEW/",
+    "date": "2026-04-30",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "INTC",
+    "company": "INTEL CORP",
+    "date": "2026-04-30",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "RVTY",
+    "company": "REVVITY, INC.",
+    "date": "2026-05-01",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "RJF",
+    "company": "RAYMOND JAMES FINANCIAL INC",
+    "date": "2026-04-22",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "FOX",
+    "company": "Fox Corp",
+    "date": "2026-02-04",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "TAP",
+    "company": "MOLSON COORS BEVERAGE CO",
+    "date": "2026-04-30",
+    "label": "TRANSCRIPT"
+  },
+  {
+    "ticker": "XOM",
+    "company": "EXXON MOBIL CORP",
+    "date": "2026-05-01",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "MHK",
+    "company": "MOHAWK INDUSTRIES INC",
+    "date": "2026-04-30",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "MCD",
+    "company": "MCDONALDS CORP",
+    "date": "2026-02-11",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "BEN",
+    "company": "FRANKLIN RESOURCES INC",
+    "date": "2026-04-28",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "ADBE",
+    "company": "ADOBE INC.",
+    "date": "2026-04-21",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "SRE",
+    "company": "SEMPRA",
+    "date": "2026-03-20",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "ITW",
+    "company": "ILLINOIS TOOL WORKS INC",
+    "date": "2026-04-30",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "VRTX",
+    "company": "VERTEX PHARMACEUTICALS INC / MA",
+    "date": "2026-02-12",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "GNRC",
+    "company": "GENERAC HOLDINGS INC.",
+    "date": "2026-04-29",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "DLTR",
+    "company": "DOLLAR TREE, INC.",
+    "date": "2026-03-23",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "FIS",
+    "company": "Fidelity National Information Services, Inc.",
+    "date": "2026-03-10",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "MCK",
+    "company": "MCKESSON CORP",
+    "date": "2026-04-28",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "TECH",
+    "company": "BIO-TECHNE Corp",
+    "date": "2026-02-11",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "HPQ",
+    "company": "HP INC",
+    "date": "2026-04-21",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "HSIC",
+    "company": "HENRY SCHEIN INC",
+    "date": "2026-02-24",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "ALK",
+    "company": "ALASKA AIR GROUP, INC.",
+    "date": "2026-04-20",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "RH",
+    "company": "RH",
+    "date": "2026-03-31",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "TFX",
+    "company": "TELEFLEX INC",
+    "date": "2026-04-30",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "AZO",
+    "company": "AUTOZONE INC",
+    "date": "2026-03-03",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "AEE",
+    "company": "AMEREN CORP",
+    "date": "2026-03-04",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "KDP",
+    "company": "Keurig Dr Pepper Inc.",
+    "date": "2026-04-23",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "ADI",
+    "company": "ANALOG DEVICES INC",
+    "date": "2026-03-12",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "CTRA",
+    "company": "Coterra Energy Inc.",
+    "date": "2026-02-26",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "BR",
+    "company": "BROADRIDGE FINANCIAL SOLUTIONS, INC.",
+    "date": "2026-04-30",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "UAL",
+    "company": "United Airlines Holdings, Inc.",
+    "date": "2026-04-27",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "HII",
+    "company": "HUNTINGTON INGALLS INDUSTRIES, INC.",
+    "date": "2026-02-05",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "CTSH",
+    "company": "COGNIZANT TECHNOLOGY SOLUTIONS CORP",
+    "date": "2026-04-29",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "ADP",
+    "company": "AUTOMATIC DATA PROCESSING INC",
+    "date": "2026-04-29",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "WAT",
+    "company": "WATERS CORP /DE/",
+    "date": "2026-03-23",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "MOH",
+    "company": "MOLINA HEALTHCARE, INC.",
+    "date": "2026-04-22",
+    "label": "PRESS_RELEASE"
+  }
+]
