@@ -1,8 +1,10 @@
 """
-Daily earnings recap: fetch SEC 8-K exhibits for 10 S&P 500 tickers,
+Daily earnings recap: fetch SEC 8-K exhibits for 50 S&P 500 tickers per day,
 generate Gemma commentary, and write HTML reports + index.html.
+
+Queue rotates through all ~500 tickers over 10 days, then reshuffles.
 """
-import os, re, time, json, textwrap
+import os, re, time, json, textwrap, random
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -11,8 +13,7 @@ import markdown as md_lib
 from huggingface_hub import InferenceClient
 
 # ── config ────────────────────────────────────────────────────────────────────
-TICKERS = ["AAPL", "MSFT", "AMZN", "GOOGL", "META",
-           "NVDA", "JPM", "JNJ", "XOM", "LOW"]
+BATCH_SIZE    = 50
 
 HEADERS       = {"User-Agent": "ResearchBot jeannealbertoreading@gmail.com"}
 TICKERS_URL   = "https://www.sec.gov/files/company_tickers.json"
@@ -23,6 +24,8 @@ HF_TOKEN      = os.environ.get("HF_TOKEN", "")
 REPO_ROOT     = Path(__file__).resolve().parent.parent
 REPORTS_DIR   = REPO_ROOT / "reports"
 INDEX_HTML    = REPO_ROOT / "index.html"
+SP500_JSON    = REPO_ROOT / "sp500.json"
+QUEUE_FILE    = REPO_ROOT / "queue.json"
 
 TRANSCRIPT_MARKERS = [
     "Operator:", "OPERATOR:", "Question-and-Answer", "Q&A SESSION",
@@ -263,9 +266,19 @@ def build_report_html(exhibit: dict, commentary_md: str, generated_at: str) -> s
 
 def save_report(exhibit: dict, commentary_md: str) -> Path:
     generated_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
+    base = f"{exhibit['ticker']}_{exhibit['date']}_{exhibit['label']}"
+
+    # raw EDGAR text (mirrors original skill output)
+    raw_out = REPORTS_DIR / f"{base}.txt"
+    raw_out.write_text(
+        f"Company: {exhibit['company']}\nFiled: {exhibit['date']}\n"
+        f"Type: {exhibit['label']}\nSource: {exhibit['url']}\n\n"
+        + exhibit["text"],
+        encoding="utf-8",
+    )
+
     html = build_report_html(exhibit, commentary_md, generated_at)
-    fname = f"{exhibit['ticker']}_{exhibit['date']}.html"
-    out = REPORTS_DIR / fname
+    out = REPORTS_DIR / f"{exhibit['ticker']}_{exhibit['date']}.html"
     out.write_text(html, encoding="utf-8")
     return out
 
@@ -330,6 +343,24 @@ def build_index(reports: list[dict]) -> str:
 </html>"""
 
 
+# ── queue ─────────────────────────────────────────────────────────────────────
+def load_sp500() -> list[str]:
+    return json.loads(SP500_JSON.read_text())
+
+def load_queue() -> list[str]:
+    if QUEUE_FILE.exists():
+        q = json.loads(QUEUE_FILE.read_text())
+        if q:
+            return q
+    # Empty or missing — build a fresh shuffled queue from the full list
+    tickers = load_sp500()
+    random.shuffle(tickers)
+    return tickers
+
+def save_queue(queue: list[str]) -> None:
+    QUEUE_FILE.write_text(json.dumps(queue, indent=2))
+
+
 # ── manifest ──────────────────────────────────────────────────────────────────
 MANIFEST = REPORTS_DIR / "manifest.json"
 
@@ -349,7 +380,18 @@ def main():
     existing = {(r["ticker"], r["date"]) for r in manifest}
     new_records = []
 
-    for ticker in TICKERS:
+    queue = load_queue()
+    todays_batch, remaining = queue[:BATCH_SIZE], queue[BATCH_SIZE:]
+    # Refill for next cycle if we just drained the last batch
+    if not remaining:
+        remaining = load_sp500()
+        random.shuffle(remaining)
+        print(f"Queue exhausted — reshuffled {len(remaining)} tickers for next cycle.")
+    save_queue(remaining)
+    print(f"Today's batch: {todays_batch}")
+    print(f"Queue remaining after today: {len(remaining)}\n")
+
+    for ticker in todays_batch:
         print(f"\n── {ticker} ──────────────────────────────────")
         try:
             exhibit = fetch_earnings_exhibit(ticker)
