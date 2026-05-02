@@ -161,20 +161,38 @@ def call_gemma(messages: list[dict], max_tokens: int = 800) -> str:
 
 def generate_commentary(exhibit: dict) -> str:
     data = exhibit["text"][:8000]
+    ticker = exhibit["ticker"]
+    date   = exhibit["date"]
     prompt = textwrap.dedent(f"""
-        [ROLE]: Senior equity research analyst
-        [TASK]: Analyze this earnings {exhibit['label'].lower().replace('_', ' ')} and produce a structured brief with:
-          ## Headline Results
-          ## Revenue & Margin Drivers
-          ## Guidance & Outlook
-          ## Key Risks
-          ## Verdict (one sentence: Beat / In-Line / Miss and why)
-        [FORMAT]: Markdown with ## headers and bullet points. Under 500 words. No fluff.
+        [ROLE]: Senior Financial Analyst specializing in qualitative macro insights from equity reports.
+
+        [TASK]: Analyze the earnings report below and extract macro-level insights. Rules:
+        - Only use information present in the document. If data is older than 45 days from {date}, note it and stop analysis for that point.
+        - Every insight MUST be cited as ({ticker}, {date}).
+        - Use "" only for verbatim strings copied exactly from the text.
+        - Do not fabricate figures or infer beyond what is stated.
+
+        [OUTPUT FORMAT]:
+        ## Exec Summary
+        Synthesis of the macro picture in 3-5 sentences.
+
+        ## Consensus vs Outliers
+        What the report confirms vs. where it deviates from the broader narrative.
+
+        ## Key Findings
+        Bullet points, each ending with ({ticker}, {date}).
+
+        ## Voice of the Market
+        3-4 high-impact verbatim quotes with context. Format: > "quote" — context
+
+        ## Data Limitations
+        Sample size, blind spots, or gaps in this filing.
+
         [DATA]:
         {data}
     """).strip()
     print(f"  Calling Gemma for {exhibit['ticker']}...")
-    return call_gemma([{"role": "user", "content": prompt}])
+    return call_gemma([{"role": "user", "content": prompt}], max_tokens=1200)
 
 
 # ── HTML generation ───────────────────────────────────────────────────────────
