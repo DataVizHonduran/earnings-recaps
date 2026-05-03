@@ -1,0 +1,1600 @@
+Ticker: OGN
+Company: Organon & Co.
+Filed: 2026-04-30
+Type: PRESS_RELEASE
+Source: https://www.sec.gov/Archives/edgar/data/1821825/000110465926052165/tm2613165d1_ex99-1.htm
+
+EX-99.1
+ 2
+ tm2613165d1_ex99-1.htm
+ EXHIBIT 99.1
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ Exhibit 99.1 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Media
+Contacts: 
+ Felicia
+Bisaro 
+ Investor
+Contacts: 
+ Jennifer
+Halchak 
+ 
+ 
+ (646)
+703-1807 
+ 
+ (201) 275-2711 
+ 
+ 
+ Kate
+Vossen 
+ 
+ Renee
+McKnight 
+ 
+ 
+ (732)
+675-8448 
+ 
+ (551)
+204-6129 
+ 
+ 
+
+ 
+
+ Organon Reports Results for the First Quarter
+Ended March 31, 2026 
+
+ 
+
+ 
+ &middot; First quarter 2026
+ revenue of $1.460 billion, down 4% as-reported and down 9% excluding the impact of foreign
+ currency. 
+
+ 
+
+ 
+ &middot; First quarter 2026
+ diluted earnings per share of $0.55 and non-GAAP Adjusted diluted earnings per share of $0.71. 
+
+ 
+
+ 
+ &middot; First
+ quarter 2026 net income of $146 million and Adjusted EBITDA (non-GAAP) of $415 million,
+ representing an Adjusted EBITDA margin of 28.4%. 
+
+ 
+
+ 
+ &middot; On April 26,
+ 2026, the company announced its pending merger into Sun Pharmaceutical Industries Limited
+ (together with its subsidiaries and/or associated companies, &ldquo;Sun Pharma&rdquo;) in
+ an all-cash transaction (the &ldquo;merger&rdquo;). The merger is expected to close in early
+ 2027, subject to customary closing conditions, including receipt of required regulatory approvals
+ and approval by Organon stockholders. 
+
+ 
+
+ 
+ &middot; In light of the pending
+ merger, Organon will not be providing financial guidance or hosting quarterly earnings calls. 
+
+ 
+
+ Jersey City, N.J., April 30, 2026 &ndash; Organon (NYSE: OGN)
+today announced its results for the first quarter ended March 31, 2026. 
+
+ 
+
+ 
+
+ 
+ 1 
+ 
+ 
+
+ 
+
+ First Quarter 2026 Revenue 
+
+ 
+
+ 
+ 
+ in $ millions 
+ Q1 2026 
+ Q1 2025 
+ VPY 
+ VPY ex-FX 
+ 
+ Women&rsquo;s Health 
+ $ 389 
+ $ 463 
+ (16 )% 
+ (19 )% 
+ 
+ General Medicines 
+ 
+ 
+ 
+ 
+ 
+ Biosimilars 
+ 173 
+ 141 
+ 23 % 
+ 21 % 
+ 
+ Established Brands 
+ 880 
+ 887 
+ (1 )% 
+ (7 )% 
+ 
+ Other
+ (1) 
+ 18 
+ 22 
+ (15 )% 
+ (21 )% 
+ 
+ Revenue 
+ $ 1,460 
+ $ 1,513 
+ (4 )% 
+ (9 )% 
+ 
+
+ 
+
+ Totals may not foot due to rounding and percentages
+are computed using unrounded amounts. 
+
+ 
+
+ (1) Other includes manufacturing sales to third parties. 
+
+ 
+
+ For the first quarter of 2026, total revenue was $1.460 billion, down
+4% on an as-reported basis and down 9% excluding the impact of foreign currency (ex-FX), compared with the first quarter of 2025. 
+
+ 
+
+ Women&rsquo;s Health revenue declined 16% as-reported and declined
+19% ex-FX in the first quarter of 2026, compared with the first quarter of 2025. 
+
+ 
+
+ 
+ &ndash; Sales of Nexplanon&reg;
+ (etonogestrel implant) decreased 21% ex-FX in the first quarter compared with the first
+ quarter of 2025. In the U.S., sales of Nexplanon declined 28% primarily due to both
+ decreased physician demand following the five-year label approval which as expected, has
+ delayed reinsertions; and continued uncertainty around federal funding. Outside of the U.S.,
+ Nexplanon sales declined 4% ex-FX, due to the timing of shipments in selective emerging
+ markets, partially offset by increased demand and access in Brazil. 
+
+ 
+
+ 
+ &ndash; Sales of oral contraceptives Marvelon TM (desogestrel
+ and ethinyl estradiol pill) and Mercilon TM (desogestrel and ethinyl estradiol
+ pill) declined 36% ex-FX in the first quarter of 2026 primarily due to decreased demand and
+ market contraction in China and the timing of shipments in Asia Pacific. 
+
+ 
+
+ 
+ &ndash; Global Fertility revenue was down 9% ex-FX as a result of competition-driven
+ price reductions in the U.S. partially offset by modest market growth in China. 
+
+ 
+
+ 
+ &ndash; In January of 2026 the company completed the sale of the
+ Jada&reg; system to Laborie. 
+
+ 
+
+ 
+
+ 
+ 2 
+ 
+ 
+
+ 
+
+ Biosimilars revenue increased
+ 23% as-reported and 21% ex-FX in the first quarter of 2026, compared with the first quarter
+of 2025 , primarily due to the strong performance of Hadlima&reg; (adalimumab-bwwd) 
+associated with stronger demand in the U.S., and increased demand in Puerto Rico. Biosimilars also benefitted from contribution from
+new assets, Bildyos&reg; (denosumab-nxxp) and Bilprevda&reg; (denosumab-nxxp) which were approved by the U.S. Food and
+Drug Administration (&ldquo;FDA&rdquo;) in the third quarter of 2025, and Tofidence&reg; (tocilizumab-bavi), which the company
+acquired in the second quarter of 2025. 
+
+ 
+
+ Established Brands revenue declined
+ 1% as-reported and declined 7% ex-FX in the
+first quarter of 2026. Revenue contribution from Emgality&reg; (1) (galcanezumab-gnlm) partially offset
+a decline in the respiratory portfolio, which was driven by pricing pressure, as well as volume declines related to the adoption of revised
+medical guidelines that deprioritize the use of montelukast, including Singulair&reg; (montelukast sodium) , in various
+international markets, most recently, in China. Global sales of Dulera&reg; (mometasone furoate and formoterol fumarate dihydrate)
+also declined in the first quarter of 2026 primarily due to pricing pressure and decreased demand in the U.S. VTAMA &reg; (tapinarof)
+grew modestly in the first quarter of 2026 compared with the first quarter of 2025. 
+
+ 
+
+ (1) Organon acquired certain European licensing and distribution
+rights to Emgality from Eli Lilly and Company (&ldquo;Eli Lilly&rdquo;) beginning in early 2024. Emgality is a registered
+trademark of Eli Lilly in the European Union and other countries (used under license). 
+
+ 
+
+ 
+
+ 
+ 3 
+ 
+ 
+
+ 
+
+ First Quarter 2026 Profitability 
+
+ 
+
+ 
+ 
+ in $ millions, except per share amounts 
+ Q1 2026 
+ Q1 2025 
+ VPY 
+ 
+ Revenues 
+ $ 1,460 
+ $ 1,513 
+ (4 )% 
+ 
+ Cost of sales 
+ 677 
+ 672 
+ 1 % 
+ 
+ Gross profit 
+ 783 
+ 841 
+ (7 )% 
+ 
+ Non-GAAP
+ Adjusted gross profit (1) 
+ 861 
+ 934 
+ (8 )% 
+ 
+ Net income 
+ 146 
+ 87 
+ 68 % 
+ 
+ Non-GAAP
+ Adjusted net income (1) 
+ 188 
+ 265 
+ (29 )% 
+ 
+ Diluted Earnings per Share (EPS) 
+ 0.55 
+ 0.33 
+ 67 % 
+ 
+ Non-GAAP
+ Adjusted diluted EPS (1) 
+ 0.71 
+ 1.02 
+ (30 )% 
+ 
+ Acquired in-process research & development (IPR&D)
+ and milestones 
+ &mdash; 
+ 6 
+ NM 
+ 
+ Adjusted
+ EBITDA (Non-GAAP) (1) 
+ 415 
+ 484 
+ (14 )% 
+ 
+
+ 
+
+ 
+ 
+ 
+ Q1
+ 2026 
+ Q1
+ 2025 
+ 
+ 
+ Gross margin 
+ 53.6 % 
+ 55.6 % 
+ 
+ 
+ Non-GAAP
+ Adjusted gross margin (1) 
+ 59.0 % 
+ 61.7 % 
+ 
+ 
+ Adjusted
+ EBITDA margin (Non-GAAP) (1, 2) 
+ 28.4 % 
+ 32.0 % 
+ 
+ 
+
+ 
+
+ 
+ (1) See Tables 4 and 5 for reconciliations of GAAP to non-GAAP financial
+ measures. 
+
+ 
+
+ Reported gross margin in the first quarter of 2026 was 53.6% compared
+with 55.6% in the prior year period. Non-GAAP Adjusted gross margin was 59.0% in the first quarter of 2026, compared to 61.7% in the
+first quarter of 2025. Unfavorable pricing and product mix as well as foreign exchange rates were notable drivers in the decline of both
+reported gross margin and non-GAAP Adjusted gross margin. 
+
+ 
+
+ Net income for the first quarter of 2026 was $146 million, or $0.55
+per diluted share, compared with net income of $87 million, or $0.33 per diluted share, in the first quarter of 2025. For the first quarter
+of 2026, non-GAAP Adjusted net income was $188 million, or $0.71 per diluted share, compared with $265 million, or $1.02 per diluted
+share, for the first quarter of 2025. 
+
+ 
+
+ 
+
+ 
+ 4 
+ 
+ 
+
+ 
+
+ Non-GAAP Adjusted EBITDA margin was 28.4% in the first quarter of
+2026 compared with 32.0% in the first quarter of 2025. The year-over-year decline was primarily driven by a decrease in Adjusted Gross
+Margin. 
+
+ 
+
+ Capital Allocation 
+
+ 
+
+ Today, Organon&rsquo;s Board of Directors declared a quarterly dividend
+of $0.02 for each issued and outstanding share of the company's common stock. The dividend is payable on June 11, 2026, to
+stockholders of record at the close of business on May 11, 2026. 
+
+ 
+
+ As of March 31, 2026, cash and cash equivalents were $1.12 billion,
+and debt was $8.57 billion. 
+
+ 
+
+ Webcast Information 
+
+ 
+
+ As is customary during the pendency of an acquisition, Organon has
+suspended its quarterly earnings calls and will not host a conference call in conjunction with today&rsquo;s first quarter earnings release. 
+
+ 
+
+ About Organon 
+
+ 
+
+ Organon (NYSE: OGN) is a global healthcare company with a mission
+to deliver impactful medicines and solutions for a healthier every day. With a portfolio of over 70 products across Women&rsquo;s Health
+and General Medicines, which includes biosimilars, Organon focuses on addressing health needs that uniquely, disproportionately or differently
+affect women, while expanding access to essential treatments in over 140 markets. 
+
+ 
+
+ Headquartered in Jersey City, New Jersey, Organon is committed to
+advancing access, affordability, and innovation in healthcare. Learn more at http://www.organon.com and follow us on LinkedIn, Instagram,
+X,YouTube, TikTok and Facebook. 
+
+ 
+
+ 
+
+ 
+ 5 
+ 
+ 
+
+ 
+
+ Cautionary Note Regarding Non-GAAP Financial Measures 
+
+ 
+
+ This press release contains &ldquo;non-GAAP financial measures,&rdquo;
+which are financial measures that either exclude or include amounts that are correspondingly not excluded or included in the most directly
+comparable measures calculated and presented in accordance with U.S. generally accepted accounting principles (&ldquo;GAAP&rdquo;). Specifically,
+the company makes use of the non-GAAP financial measures Adjusted EBITDA, Adjusted EBITDA margin, Adjusted gross margin, Adjusted gross
+profit, Adjusted net income, Adjusted EPS, and Adjusted diluted EPS, which are not recognized terms under GAAP and are presented only
+as a supplement to the company&rsquo;s GAAP financial statements. This press release also provides certain measures that exclude the
+impact of foreign exchange. We calculate foreign exchange by converting our current-period local currency financial results using the
+prior period average currency rates and comparing these adjusted amounts to our current-period results. The company believes that these
+non-GAAP financial measures help to enhance an understanding of the company&rsquo;s financial performance. However, the presentation
+of these measures has limitations as an analytical tool and should not be considered in isolation, or as a substitute for the company&rsquo;s
+results as reported under GAAP. Because not all companies use identical calculations, the presentations of these non-GAAP measures may
+not be comparable to other similarly titled measures of other companies. Please refer to Table 4 and Table 5 of this press release for
+additional information, including relevant definitions and reconciliations of non-GAAP financial measures contained herein to the most
+directly comparable GAAP measures. 
+
+ 
+
+ The company&rsquo;s management uses the non-GAAP financial measures
+described above to evaluate the company&rsquo;s performance and to guide operational and financial decision making. Further, the company&rsquo;s
+management believes that these non-GAAP financial measures, which exclude certain items, help to enhance its ability to meaningfully
+communicate its underlying business performance, financial condition and results of operations. 
+
+ 
+
+ Cautionary Note Regarding Forward-Looking Statements 
+
+ 
+
+ Except for historical information, this press release includes &ldquo;forward-looking
+statements&rdquo; within the meaning of the safe harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995, including,
+but not limited to, statements relating to the merger, including the anticipated timing of completion thereof. Forward-looking statements
+may be identified by words such as &ldquo;proposed,&rdquo; &ldquo;will,&rdquo; &ldquo;continue,&rdquo; &ldquo;expects,&rdquo; &ldquo;believes,&rdquo;
+ &ldquo;estimates,&rdquo; &ldquo;opportunity,&rdquo; &ldquo;pursue,&rdquo; &ldquo;anticipate,&rdquo; &ldquo;be able to,&rdquo; &ldquo;intend,&rdquo;
+or words of similar meaning. These statements are based upon the current beliefs and expectations of the company&rsquo;s management and
+are subject to significant risks and uncertainties. If underlying assumptions prove inaccurate, or risks or uncertainties materialize,
+actual results may differ materially from those set forth in the forward-looking statements. 
+
+ 
+
+ 
+
+ 
+ 6 
+ 
+ 
+
+ 
+
+ Risks and uncertainties include, but are not limited to uncertainties
+as to the timing of the merger; the risk that the merger may not be completed on the anticipated terms in a timely manner or at all;
+the failure to satisfy any of the conditions to the consummation of the merger, including receiving, on a timely basis or otherwise,
+the minimum vote required by Organon&rsquo;s stockholders to approve the merger; the possibility that competing offers or acquisition
+proposals for Organon will be made; the possibility that any or all of the various conditions to the consummation of the merger may not
+be satisfied or waived, including the failure to receive any required regulatory approvals from any applicable governmental entities
+(or any conditions, limitations or restrictions placed on such approvals); the occurrence of any event, change or other circumstance
+that could give rise to the termination of the definitive agreement, including in circumstances which would require Organon to pay a
+termination fee; the effect of the announcement or pendency of the merger on Organon&rsquo;s ability to retain and hire key personnel,
+its ability to maintain relationships with its customers, suppliers and others with whom it does business, or its operating results and
+business generally; risks related to diverting management&rsquo;s attention from Organon&rsquo;s ongoing business operations; the risk
+that stockholder litigation in connection with the merger may result in significant costs of defense, indemnification and liability;
+certain restrictions during the pendency of the merger that may impact Organon&rsquo;s ability to pursue certain business opportunities
+or strategic transactions; the risk that any announcements relating to the merger could have adverse effects on the market price of Organon&rsquo;s
+common stock, including if the merger is not consummated; risks that the benefits of the merger are not realized when and as expected;
+and legislative, regulatory and economic developments. 
+
+ 
+
+ The company undertakes no obligation to publicly update any forward-looking
+statement, whether as a result of new information, future events or otherwise. Additional factors that could cause results to differ
+materially from those described in the forward-looking statements can be found in the company&rsquo;s filings with the SEC, including
+the company&rsquo;s most recent Annual Report on Form 10-K, Current Report on Form 8-K, filed by the company on April 27,
+2026, and other SEC filings, available at the SEC&rsquo;s Internet site (www.sec.gov). 
+
+ 
+
+ 
+
+ 
+ 7 
+ 
+ 
+
+ 
+
+ Additional Information and Where to Find It 
+
+ 
+
+ This press release may be deemed to be solicitation material in respect
+of the proposed merger. In connection with the merger, Organon intends to file relevant materials with the SEC, including Organon&rsquo;s
+proxy statement in preliminary and definitive form on Schedule 14A (the &ldquo;Merger Proxy Statement&rdquo;). Organon will mail the
+Merger Proxy Statement and a proxy card to its stockholders in connection with the merger. 
+
+ 
+
+ INVESTORS AND STOCKHOLDERS OF ORGANON ARE URGED TO READ ALL RELEVANT
+DOCUMENTS FILED WITH THE SEC, INCLUDING THE MERGER PROXY STATEMENT (WHEN THEY ARE AVAILABLE), BECAUSE THEY CONTAIN OR WILL CONTAIN
+IMPORTANT INFORMATION ABOUT ORGANON, SUN PHARMA AND THE MERGER AND RELATED MATTERS. Investors and stockholders of Organon are or will
+be able to obtain these documents (when they are available) free of charge from the SEC&rsquo;s website at www.sec.gov , or through
+the investor relations section of Organon&rsquo;s website, https://www.organon.com . 
+
+ 
+
+ Participants in the Solicitation 
+
+ 
+
+ Organon and its directors, executive officers and other members of
+management and employees, under SEC rules, may be deemed to be &ldquo;participants&rdquo; in the solicitation of proxies from stockholders
+of Organon in favor of the proposed acquisition. Information about Organon&rsquo;s directors and executive officers is set forth in the
+2026 Annual Meeting Proxy Statement, filed with the SEC on April 24, 2026, and which is available at https://www.sec.gov/ix?doc=/Archives/edgar/data/0001821825/000119312526177411/ogn-20260423.htm .
+To the extent holdings of Organon&rsquo;s securities by its directors or executive officers have changed since the amounts set forth
+in the 2026 Annual Meeting Proxy Statement, such changes have been or will be reflected on Initial Statements of Beneficial Ownership
+on Form 3 or Statements of Change in Ownership on Form 4 filed with the SEC, which are available at https://www.sec.gov/edgar/browse/?CIK=1821825 .
+Additional information concerning the interests of Organon&rsquo;s participants in the solicitation, which may, in some cases, be different
+than those of Organon&rsquo;s stockholders generally, will be set forth in the Merger Proxy Statement when it becomes available. 
+
+ 
+
+ 
+
+ 
+ 8 
+ 
+ 
+
+ 
+
+ TABLE 1 
+
+ 
+
+ Organon & Co. 
+
+ Condensed Consolidated Statement of Income 
+
+ (Unaudited, $ in millions except shares in thousands
+and per share amounts) 
+
+ 
+
+ 
+ 
+ 
+ Three Months
+ Ended March 31, 
+ 
+ 
+ 2026 
+ 2025 
+ 
+ Revenues 
+ $ 1,460 
+ $ 1,513 
+ 
+ Cost of sales 
+ 677 
+ 672 
+ 
+ Gross Profit 
+ 783 
+ 841 
+ 
+ 
+ 
+ 
+ 
+ Selling, general and administrative 
+ 424 
+ 420 
+ 
+ Research and development 
+ 93 
+ 96 
+ 
+ Acquired in-process research and development and milestones 
+ &mdash; 
+ 6 
+ 
+ Restructuring costs 
+ 31 
+ 86 
+ 
+ Interest expense 
+ 111 
+ 124 
+ 
+ Exchange losses (gains) 
+ 7 
+ (4 ) 
+ 
+ Other (income) expense, net 
+ (96 ) 
+ 12 
+ 
+ Income before income taxes 
+ 213 
+ 101 
+ 
+ Income tax expense 
+ 67 
+ 14 
+ 
+ Net income 
+ $ 146 
+ $ 87 
+ 
+ 
+ 
+ 
+ 
+ Earnings per share: 
+ 
+ 
+ 
+ Basic 
+ $ 0.56 
+ $ 0.34 
+ 
+ Diluted 
+ $ 0.55 
+ $ 0.33 
+ 
+ 
+ 
+ 
+ 
+ Weighted average shares outstanding: 
+ 
+ 
+ 
+ Basic 
+ 260,370 
+ 257,862 
+ 
+ Diluted 
+ 262,896 
+ 261,001 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ TABLE 2 
+
+ 
+
+ Organon & Co. 
+
+ Sales by top products 
+
+ (Unaudited, $ in millions) 
+
+ 
+
+ 
+ 
+ 
+ Three Months
+ Ended March 31, 
+ 
+ 
+ 2026 
+ 2025 
+ 
+ ($ in millions) 
+ U.S. 
+ Int&rsquo;l 
+ Total 
+ U.S. 
+ Int&rsquo;l 
+ Total 
+ 
+ Women&rsquo;s Health 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Nexplanon/Implanon
+ NXT 
+ $ 127 
+ $ 74 
+ $ 201 
+ $ 176 
+ $ 72 
+ $ 248 
+ 
+ Follistim AQ 
+ 21 
+ 39 
+ 61 
+ 35 
+ 34 
+ 69 
+ 
+ NuvaRing 
+ 6 
+ 18 
+ 24 
+ 6 
+ 16 
+ 22 
+ 
+ Ganirelix Acetate Injection 
+ 2 
+ 24 
+ 26 
+ 5 
+ 23 
+ 27 
+ 
+ Marvelon/Mercilon 
+ &mdash; 
+ 26 
+ 26 
+ &mdash; 
+ 39 
+ 39 
+ 
+ Jada 
+ 5 
+ &mdash; 
+ 5 
+ 15 
+ &mdash; 
+ 15 
+ 
+ Other
+ Women&rsquo;s Health ( 1) 
+ 17 
+ 30 
+ 46 
+ 15 
+ 27 
+ 43 
+ 
+ General Medicines 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Biosimilars 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renflexis 
+ 42 
+ 15 
+ 57 
+ 44 
+ 12 
+ 57 
+ 
+ Hadlima 
+ 51 
+ 16 
+ 67 
+ 33 
+ 14 
+ 47 
+ 
+ Ontruzant 
+ 4 
+ 1 
+ 5 
+ 4 
+ 14 
+ 18 
+ 
+ Brenzys 
+ &mdash; 
+ 20 
+ 20 
+ &mdash; 
+ 14 
+ 14 
+ 
+ Other
+ Biosimilars (1) 
+ 11 
+ 13 
+ 24 
+ &mdash; 
+ 5 
+ 5 
+ 
+ Established
+ Brands 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cardiovascular 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Atozet 
+ &mdash; 
+ 85 
+ 85 
+ &mdash; 
+ 77 
+ 77 
+ 
+ Zetia 
+ 1 
+ 86 
+ 87 
+ 1 
+ 84 
+ 85 
+ 
+ Cozaar/Hyzaar 
+ 2 
+ 55 
+ 57 
+ 2 
+ 53 
+ 55 
+ 
+ Vytorin 
+ 1 
+ 20 
+ 21 
+ 1 
+ 22 
+ 23 
+ 
+ Rosuzet 
+ &mdash; 
+ 6 
+ 6 
+ &mdash; 
+ 4 
+ 4 
+ 
+ Other
+ Cardiovascular (1) 
+ 1 
+ 27 
+ 28 
+ &mdash; 
+ 30 
+ 30 
+ 
+ Respiratory 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Singulair 
+ 2 
+ 38 
+ 40 
+ 2 
+ 72 
+ 74 
+ 
+ Nasonex 
+ &mdash; 
+ 65 
+ 65 
+ &mdash; 
+ 71 
+ 72 
+ 
+ Dulera 
+ 23 
+ 12 
+ 35 
+ 34 
+ 10 
+ 43 
+ 
+ Clarinex 
+ 1 
+ 30 
+ 31 
+ &mdash; 
+ 34 
+ 34 
+ 
+ Other
+ Respiratory (1) 
+ 11 
+ 1 
+ 12 
+ 10 
+ 3 
+ 13 
+ 
+ Non-Opioid Pain, Bone and Dermatology 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Arcoxia 
+ &mdash; 
+ 59 
+ 59 
+ &mdash; 
+ 62 
+ 62 
+ 
+ Fosamax 
+ &mdash; 
+ 29 
+ 29 
+ 1 
+ 32 
+ 33 
+ 
+ Diprospan 
+ &mdash; 
+ 35 
+ 35 
+ &mdash; 
+ 30 
+ 30 
+ 
+ Vtama 
+ 23 
+ 2 
+ 25 
+ 20 
+ 4 
+ 24 
+ 
+ Other
+ Non-Opioid Pain, Bone and Dermatology (1) 
+ 3 
+ 65 
+ 68 
+ 4 
+ 65 
+ 68 
+ 
+ Other 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Propecia 
+ 1 
+ 28 
+ 30 
+ 1 
+ 24 
+ 26 
+ 
+ Emgality 
+ &mdash; 
+ 54 
+ 54 
+ &mdash; 
+ 32 
+ 32 
+ 
+ Proscar 
+ &mdash; 
+ 26 
+ 26 
+ &mdash; 
+ 24 
+ 24 
+ 
+ Other
+ (1) 
+ 3 
+ 85 
+ 87 
+ 3 
+ 76 
+ 78 
+ 
+ Other
+ (2) 
+ &mdash; 
+ 18 
+ 18 
+ &mdash; 
+ 22 
+ 22 
+ 
+ Revenues 
+ $ 358 
+ $ 1,102 
+ $ 1,460 
+ $ 412 
+ $ 1,101 
+ $ 1,513 
+ 
+
+ 
+
+ Totals may not foot due to rounding. Trademarks
+appearing above in italics are trademarks of, or are used under license by, the Organon group of companies. 
+
+ 
+
+ (1) Includes sales of products
+not listed separately. 
+
+ (2) Other
+includes manufacturing sales to third parties. 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ TABLE 3 
+
+ 
+
+ Organon & Co. 
+
+ Sales by geographic area 
+
+ (Unaudited, $ in millions) 
+
+ 
+
+ 
+ 
+ 
+ Three Months
+ Ended March 31, 
+ 
+ 
+ 2026 
+ 2025 
+ 
+ Europe and Canada 
+ $ 412 
+ $ 376 
+ 
+ United States 
+ 358 
+ 412 
+ 
+ Asia Pacific and Japan 
+ 226 
+ 251 
+ 
+ China 
+ 194 
+ 204 
+ 
+ Latin America, Middle East, Russia, and Africa 
+ 247 
+ 240 
+ 
+ Other
+ (1) 
+ 23 
+ 30 
+ 
+ Revenues 
+ $ 1,460 
+ $ 1,513 
+ 
+
+ 
+
+ (1) Other
+includes manufacturing sales to third parties. 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ TABLE 4 
+
+ 
+
+ Organon &
+Co. 
+
+ Reconciliation
+of GAAP Reported to Non-GAAP Adjusted Metrics 
+
+ (Unaudited,
+$ in millions) 
+
+ 
+
+ 
+ 
+ 
+ Three Months
+ Ended March 31, 
+ 
+ 
+ 2026 
+ 2025 
+ 
+ GAAP Gross Profit 
+ $ 783 
+ $ 841 
+ 
+ Adjusted for: 
+ 
+ 
+ 
+ Manufacturing
+ network costs (1) 
+ 21 
+ 29 
+ 
+ Stock-based compensation 
+ 3 
+ 4 
+ 
+ Amortization 
+ 47 
+ 50 
+ 
+ Acquisition-related
+ costs (2) 
+ 7 
+ 9 
+ 
+ Other 
+ &mdash; 
+ 1 
+ 
+ Adjusted Non-GAAP Gross Profit 
+ $ 861 
+ $ 934 
+ 
+
+ 
+
+ 
+
+ (1) Manufacturing network related costs
+include costs from exiting manufacturing and supply agreements with Merck & Co., Inc., Rahway NJ, US. For additional details
+refer to Table 5. (2) Acquisition-related costs relate to costs from the acquisition of Dermavant. For additional details refer
+to Table 5. 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ Three Months
+ Ended March 31, 
+ 
+ 
+ 2026 
+ 2025 
+ 
+ GAAP Gross Margin 
+ 53.6 % 
+ 55.6 % 
+ 
+ Total impact of Non-GAAP adjustments 
+ 5.4 % 
+ 6.1 % 
+ 
+ Adjusted Non-GAAP Gross Margin 
+ 59.0 % 
+ 61.7 % 
+ 
+
+ 
+
+ 
+ 
+ 
+ Three Months
+ Ended March 31, 
+ 
+ 
+ 2026 
+ 2025 
+ 
+ GAAP Selling, general
+ and administrative expenses 
+ $ 424 
+ $ 420 
+ 
+ Adjusted for: 
+ 
+ 
+ 
+ Stock-based compensation 
+ (13 ) 
+ (16 ) 
+ 
+ Restructuring related charges 
+ &mdash; 
+ (6 ) 
+ 
+ Other 
+ (13 ) 
+ (3 ) 
+ 
+ Adjusted Non-GAAP Selling, general and
+ administrative expenses 
+ $ 398 
+ $ 395 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ TABLE 4 
+
+ 
+
+ Organon &
+Co. 
+
+ Reconciliation
+of GAAP Reported to Non-GAAP Adjusted Metrics (Continued) 
+
+ (Unaudited,
+$ in millions except per share amounts) 
+
+ 
+
+ 
+ 
+ 
+ Three Months
+ Ended March 31, 
+ 
+ 
+ 2026 
+ 2025 
+ 
+ GAAP Research and
+ development expenses 
+ $ 93 
+ $ 96 
+ 
+ Adjusted for: 
+ 
+ 
+ 
+ Manufacturing
+ network costs (1) 
+ (3 ) 
+ (3 ) 
+ 
+ Stock-based compensation 
+ (3 ) 
+ (4 ) 
+ 
+ Other 
+ (1 ) 
+ (1 ) 
+ 
+ Adjusted Non-GAAP Research and development
+ expenses 
+ $ 86 
+ $ 88 
+ 
+
+ 
+
+ 
+
+ (1) Manufacturing
+network related costs include costs from exiting manufacturing and supply agreements with Merck & Co., Inc., Rahway NJ,
+US. For additional details refer to Table 5. 
+
+ 
+
+ 
+ 
+ 
+ Three Months
+ Ended March 31, 
+ 
+ 
+ 2026 
+ 2025 
+ 
+ GAAP Reported Net
+ Income 
+ $ 146 
+ $ 87 
+ 
+ Adjusted for: 
+ 
+ 
+ 
+ Cost of sales adjustments 
+ 78 
+ 93 
+ 
+ Selling, general and administrative
+ adjustments 
+ 26 
+ 25 
+ 
+ Research and development adjustments 
+ 7 
+ 8 
+ 
+ Jada divestiture 
+ (81 ) 
+ &mdash; 
+ 
+ Restructuring 
+ 31 
+ 86 
+ 
+ Change in fair value of contingent
+ consideration 
+ (5 ) 
+ 11 
+ 
+ Other (gain) expense, net 
+ (3 ) 
+ 4 
+ 
+ Tax
+ impact on adjustments above (1) 
+ (11 ) 
+ (49 ) 
+ 
+ Non-GAAP Adjusted Net Income 
+ $ 188 
+ $ 265 
+ 
+
+ 
+
+ 
+
+ (1) For
+the three months ended March 31, 2026 and 2025, the GAAP income tax rates were 31.4% and 13.4%, respectively, and the non-GAAP income
+tax rates were 29.3% and 19.2%, respectively. These adjustments represent the estimated tax impacts on the reconciling items by applying
+the statutory rate and applicable law of the originating territory of the non-GAAP adjustments. 
+
+ 
+
+ 
+ 
+ 
+ Three Months
+ Ended March 31, 
+ 
+ 
+ 2026 
+ 2025 
+ 
+ GAAP Diluted Earnings per Share 
+ $ 0.55 
+ $ 0.33 
+ 
+ Total impact of Non-GAAP adjustments 
+ 0.16 
+ 0.69 
+ 
+ Non-GAAP Adjusted Diluted Earnings
+ per Share 
+ $ 0.71 
+ $ 1.02 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ TABLE 5 
+
+ 
+
+ Organon & Co. 
+
+ Reconciliation of GAAP Net (Loss) Income to
+Non-GAAP Adjusted EBITDA 
+
+ (Unaudited, $ in millions) 
+
+ 
+
+ 
+ 
+ 
+ Three Months
+ Ended March 31, 
+ 
+ 
+ 2026 
+ 2025 
+ 
+ GAAP Reported Net Income 
+ $ 146 
+ $ 87 
+ 
+ Depreciation
+ (1) 
+ 38 
+ 32 
+ 
+ Amortization 
+ 47 
+ 50 
+ 
+ Interest expense 
+ 111 
+ 124 
+ 
+ Income tax expense
+ (benefit) 
+ 67 
+ 14 
+ 
+ EBITDA (Non-GAAP) 
+ $ 409 
+ $ 307 
+ 
+ Restructuring and related charges 
+ 31 
+ 92 
+ 
+ Manufacturing
+ network related (2) 
+ 27 
+ 36 
+ 
+ Acquisition-related
+ costs (3) 
+ 7 
+ 9 
+ 
+ Change in contingent consideration 
+ (5 ) 
+ 11 
+ 
+ Jada divestiture 
+ (81 ) 
+ &mdash; 
+ 
+ Other costs 
+ 8 
+ 5 
+ 
+ Stock-based compensation 
+ 19 
+ 24 
+ 
+ Adjusted EBITDA (Non-GAAP) 
+ $ 415 
+ $ 484 
+ 
+ Adjusted EBITDA margin (Non-GAAP) 
+ 28.4 % 
+ 32.0 % 
+ 
+
+ 
+
+ 
+
+ (1) Excludes
+accelerated depreciation included in one-time costs. 
+
+ (2) Manufacturing
+network related costs, including exiting of temporary manufacturing and supply agreements with Merck & Co., Inc., Rahway,
+NJ, US, reflect accelerated depreciation, exit premiums, technology transfer costs, stability and qualification batch costs, and third-party
+contractor costs. 
+
+ (3) Acquisition
+related costs for the three months ended March 31, 2026 and 2025, reflect the amortization pertaining to the fair value inventory
+purchase accounting adjustment for the Dermavant transaction. 
+
+ 
+
+ 
+
+ As
+the costs described in (1) through (3) above are directly related to the separation of Organon and acquisition related activities
+and therefore arise from a one-time event outside of the ordinary course of the company&rsquo;s operations, the adjustment of these items
+provides meaningful, supplemental, information that the company believes will enhance an investor's understanding of the company's ongoing
+operating performance.
