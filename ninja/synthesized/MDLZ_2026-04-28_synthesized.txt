@@ -1,0 +1,30 @@
+Ticker: MDLZ
+Source: MDLZ_2026-04-28.txt
+Generated: 2026-05-03 23:34 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Mondelez International (MDLZ)**
+
+**1. Demand & Activity**
+Demand is mixed and bifurcated by geography. Activity in Emerging Markets remains robust, while Developed Markets are showing modest signs of recovery. Overall volume mix is softening slightly, acting as a drag on organic growth.
+*   **Emerging Markets:** Robust growth ("strong top-line growth in our Emerging Markets").
+*   **Developed Markets:** Modest improvement ("Developed Market growth showed signs of improvement").
+*   **Overall Volume:** Slight decline ("Volume Mix -0.5%").
+
+**2. Labor & Wages**
+The report does not provide specific data on wage inflation or headcount changes, though it notes general "supply, commodity, labor and transportation constraints" as potential risk factors.
+
+**3. Pricing Power & Inflation**
+The company continues to exercise moderate pricing power to offset persistent input cost pressures. While pricing is driving revenue growth, it is being countered by significant commodity inflation.
+*   **Pricing:** Moderate increases ("Organic Net Revenue growth was driven by higher net pricing").
+*   **Input Costs:** Persistent pressure ("Adjusted Gross Profit margin decreased 270 basis points... driven primarily by higher input cost inflation").
+*   **Mitigants:** Modest relief from internal efficiencies ("lower manufacturing costs driven by productivity").
+
+**4. Supply Chain & Inventory**
+The report does not specify current inventory levels or lead times, but management highlights ongoing "macro volatility" and "geopolitical, trade and regulatory uncertainty" as primary headwinds to the supply chain.
+
+**5. Capital Spending (Capex)**
+Investment is focused on digital transformation and brand scaling rather than physical plant expansion.
+*   **Technology:** Active investment in systems ("costs incurred for the ERP System Implementation program").
+*   **Brand/Growth:** Continued commitment to marketing ("increased investments behind our brands and growth platforms").

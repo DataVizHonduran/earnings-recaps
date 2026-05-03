@@ -1,0 +1,22 @@
+Ticker: MGM
+Source: MGM_2026-04-29.txt
+Generated: 2026-05-03 23:34 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: MGM Resorts International (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is showing moderate growth overall, though performance varies by geography. Las Vegas Strip Resorts saw a slight recovery, reporting top-line growth for the first time in over a year ("delivered comparable period quarterly top line growth for the first time in over a year"). Demand is expected to remain robust in the near term due to "solid convention bookings" and new promotions. MGM China experienced robust growth, with casino revenue increasing 9% ("Casino revenue $ 977 [million]... an increase of 9%"). Digital demand is growing rapidly, with MGM Digital revenues increasing 43% ("Net revenues of $183 million... an increase of 43%").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring difficulty, turnover, wage increases, or headcount reductions.
+
+**3. Pricing Power & Inflation**
+Pricing power appears stable to flat in the Las Vegas hotel segment, as the Average Daily Rate (ADR) remained unchanged year-over-year ("Average daily rate (ADR) $ 257 $ 257"). There is no specific commentary regarding input cost relief or persistent inflationary pressures on commodities or energy.
+
+**4. Supply Chain & Inventory**
+The provided text contains no mentions of supply chain lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+The company is investing in facility refreshments to drive demand, specifically noting "recently refreshed rooms at the MGM Grand Las Vegas." Additionally, the company has increased its liquidity through the sale of MGM Northfield Park for $546 million, providing "incremental liquidity to be deployed in line with our priorities of maintaining a strong balance sheet."

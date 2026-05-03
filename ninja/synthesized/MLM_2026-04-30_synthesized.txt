@@ -1,0 +1,22 @@
+Ticker: MLM
+Source: MLM_2026-04-30.txt
+Generated: 2026-05-03 23:35 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided press release for Martin Marietta Materials Inc. (MLM), the economic signals are as follows:
+
+**1. Demand & Activity**
+Demand is robust, with significant growth in revenues and continued positive momentum into the second quarter. The company explicitly cites "strong underlying demand" as the basis for reaffirming its full-year 2026 guidance ("Revenues Increased 17% with Momentum Continuing in April"; "Reaffirmed Full-Year 2026 Guidance Based on Strong Underlying Demand").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, wage increases, or headcount reductions.
+
+**3. Pricing Power & Inflation**
+The provided text does not explicitly detail pricing actions or specific input cost pressures (commodities, freight, or energy).
+
+**4. Supply Chain & Inventory**
+The provided text contains no mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+The company is actively expanding its capacity and footprint through strategic acquisitions and asset exchanges, indicating a moderate to robust investment in growth ("Completed Asset Exchange with QUIKRETE"; "Entered into a Definitive Agreement to Acquire New Frontier Materials").

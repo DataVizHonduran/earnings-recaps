@@ -1,0 +1,22 @@
+Ticker: MHK
+Source: MHK_2026-04-30.txt
+Generated: 2026-05-03 23:35 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Mohawk Industries (MHK)**
+
+**1. Demand & Activity**
+Demand is softening, characterized by a stark divergence between sectors. The commercial sector remains "solid" and continues to "outperform residential" ("Across our regions, the commercial sector continued to outperform residential"). Conversely, residential activity is weak, as "new home construction remained soft" and consumers are deferring remodeling due to "economic uncertainty" ("consumers continued to defer home purchases and remodeling projects"). Higher-end products are showing relative resilience ("Our higher-end offering is performing better in the market").
+
+**2. Labor & Wages**
+Not explicitly detailed; however, the company is focused on "productivity actions" and "restructuring projects" to enhance results ("We are implementing productivity actions and executing our previously announced restructuring projects").
+
+**3. Pricing Power & Inflation**
+The company is experiencing moderate to robust inflationary pressure, primarily driven by energy volatility following Middle East conflict ("Higher gasoline and diesel prices... are contributing to a more cautious consumer outlook"). This has led to increased costs for raw materials and derivatives ("Energy prices as well as the cost of oil and natural gas derivatives are increasing"). In response, MHK is exercising pricing power by "implementing price increases across many product categories and geographies" ("we have announced price increases across much of our portfolio due to inflation").
+
+**4. Supply Chain & Inventory**
+Inventory levels appear stable, though the company is actively managing them to mitigate rising input costs ("We are focused on the controllable parts of our business, including... inventory levels"). The company notes a lag in cost flow-through, stating the impact of higher raw material costs will be "greater in the second half of the year due to our flow through of inventory."
+
+**5. Capital Spending (Capex)**
+Capital investment is currently being constrained to preserve flexibility amidst market volatility ("Presently, we are... limiting capital expenditures").

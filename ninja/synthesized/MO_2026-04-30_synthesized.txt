@@ -1,0 +1,22 @@
+Ticker: MO
+Source: MO_2026-04-30.txt
+Generated: 2026-05-03 23:36 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Altria Group (MO)**
+
+**Demand & Activity**
+Demand for smokeable products is softening, with domestic cigarette shipment volumes decreasing 2.4% ("domestic cigarette shipment volume decreased 2.4%"). This decline is attributed to broader industry trends and "continued discretionary income pressures on ANCs" (Adult Nicotine Consumers). There is a notable shift in product mix toward lower-cost options, as the discount retail share increased by 2.4 share points ("cigarette industry discount retail share was 33.3%, an increase of 2.4 share points versus the prior year"). Conversely, the oral tobacco segment remains competitive, with the *on!* brand performing "well in a highly competitive marketplace."
+
+**Labor & Wages**
+The provided text contains no mentions of hiring, turnover, or wage adjustments.
+
+**Pricing Power & Inflation**
+The company demonstrates robust pricing power, which served as the primary driver for revenue growth despite falling volumes ("Net revenues increased 2.9%, primarily driven by higher pricing"). However, the company is facing moderate inflationary pressure on the production side, noting that adjusted OCI was "partially offset by... higher manufacturing costs."
+
+**Supply Chain & Inventory**
+Inventory levels appear stable, though the company noted that shipment volumes were "partially offset by trade inventory movements." There are no mentions of lead-time disruptions or bloated inventories.
+
+**Capital Spending (Capex)**
+Altria is pursuing moderate targeted investments in capacity and technology. Specifically, the company has "planned investments in support of our contract manufacturing capabilities" and ongoing "planned investments in support of our Vision." Additionally, the company is reinvesting cost savings derived from its "Optimize Accelerate initiative."

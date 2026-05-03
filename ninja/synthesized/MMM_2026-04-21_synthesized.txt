@@ -1,0 +1,22 @@
+Ticker: MMM
+Source: MMM_2026-04-21.txt
+Generated: 2026-05-03 23:36 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: 3M (MMM)**
+
+**1. Demand & Activity**
+Demand appears **stable to modestly growing** on an adjusted basis, though GAAP organic sales showed a **slight softening**. The company reported adjusted organic sales growth of 1.2% year-over-year ("adjusted organic sales up 1.2% year-on-year") and reiterated a full-year outlook of modest growth ("Adjusted total sales growth 1 of 4 percent"). Management noted they are operating in a "volatile environment" ("despite operating in a volatile environment").
+
+**2. Labor & Wages**
+The provided text contains no specific updates on current hiring, turnover, or wage trends. However, the company lists "increased demand and wages" as a general risk factor regarding the "availability and cost of purchased components" ("The most important risks... include... the availability and cost of purchased components... due to shortages, increased demand and wages").
+
+**3. Pricing Power & Inflation**
+The company is seeing **moderate** margin expansion, with adjusted operating margins increasing by 30 basis points ("Adjusted operating income margin of 23.8%, an increase of 30 basis points year-on-year"). While specific pricing actions were not detailed, the company is focused on "driving operational performance" to achieve "stronger margin performance" ("These actions will drive structurally higher growth and stronger margin performance").
+
+**4. Supply Chain & Inventory**
+Inventory levels remain **stable**, with Q1 2026 inventories at $3.69 billion compared to $3.66 billion at year-end 2025 ("Inventories $3,690 [vs] $3,661"). The company continues to monitor risks related to "supply chain interruptions" and the "cost of purchased components, compounds, raw materials and energy" ("The most important risks... include... supply chain interruptions").
+
+**5. Capital Spending (Capex)**
+Capital investment in facilities remains **stable**. The company spent $225 million on property, plant, and equipment during the first quarter, a level consistent with the prior year's quarterly spend of $236 million ("Purchases of property, plant and equipment (225) [vs] (236)"). Management remains committed to "investing in growth" as part of its long-term strategy ("staying committed to our long-term strategy - investing in growth").

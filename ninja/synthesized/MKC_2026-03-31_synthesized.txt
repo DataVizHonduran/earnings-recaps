@@ -1,0 +1,22 @@
+Ticker: MKC
+Source: MKC_2026-03-31.txt
+Generated: 2026-05-03 23:35 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: McCormick & Co (MKC)**
+
+**1. Demand & Activity**
+Demand is currently **stable to softening**, with organic sales growth remaining modest at 1.2% ("Organic sales growth was 1.2%"). Volume trends are currently flat, though management expects a **moderate** sequential improvement ("total volumes were in line with our expectations, and we anticipate sequential improvement with growth building throughout the year"). Geographic variance is noted, with the Consumer segment in the Americas seeing a slight volume decline (-1.6%) while APAC showed modest growth (2.1%).
+
+**2. Labor & Wages**
+The report does not specify hiring or turnover rates, but indicates a focus on organizational restructuring and compensation ("build back of incentive compensation") and a commitment to a "future-ready organization" ("strengthening our Power of People culture").
+
+**3. Pricing Power & Inflation**
+The company maintains **robust** pricing power, which is the primary driver of organic growth ("Organic sales increased 1%, driven primarily by price"). However, this is being partially offset by **moderate** inflationary pressure in raw materials ("expansion was... partially offset by higher commodity costs"). Management expects continued "increased pricing benefits relative to the prior year" to offset these commodity headwinds.
+
+**4. Supply Chain & Inventory**
+No specific mentions of lead times or bloated inventory levels were provided. The report notes a non-cash adjustment related to the "fair value adjustment of inventories" following the McCormick de Mexico acquisition, but provides no signal on broader supply chain health.
+
+**5. Capital Spending (Capex)**
+Investment is focused on **moderate** technology and brand upgrades rather than physical capacity. The company is prioritizing "digital transformation" and "increased technology investments" ("SG&A expenses impacted by cost headwinds including digital transformation"). Future growth is being funded through a "Comprehensive Continuous Improvement (CCI) program" designed to fuel "growth investments" while expanding margins.

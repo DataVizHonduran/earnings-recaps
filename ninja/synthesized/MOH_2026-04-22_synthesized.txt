@@ -1,0 +1,22 @@
+Ticker: MOH
+Source: MOH_2026-04-22.txt
+Generated: 2026-05-03 23:36 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Molina Healthcare (MOH)**
+
+**1. Demand & Activity:**
+Demand is softening. Premium revenue decreased 4% year-over-year, driven by a "general market contraction" in Medicaid membership and the expiration of a contract in Virginia ("lower Medicaid membership due to general market contraction and the expiration of our Medicaid contract in Virginia"). Additionally, Marketplace membership declined due to strategic shifts in "product and pricing strategy."
+
+**2. Labor & Wages:**
+Not addressed. The report contains no specific mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation:**
+The company is utilizing pricing adjustments to manage margins. Medicare results reflected "pricing and benefit adjustments implemented for 2026." Regarding medical inflation, the company reports that medical cost trends were "modestly favorable to our expectations" (CEO statement) and "moderately favorable" specifically within the Medicaid segment.
+
+**4. Supply Chain & Inventory:**
+Not applicable. As a healthcare services provider, the company does not maintain physical inventory. However, claims payable timing was noted as "lower than typical due to the timing of payments at the end of the quarter."
+
+**5. Capital Spending (Capex):**
+The company is reducing its footprint in specific product lines, evidenced by a "planned exit of the Medicare Advantage-Part D product for 2027," which resulted in a $93 million impairment of intangible assets. No new capacity or facility investments were disclosed.
