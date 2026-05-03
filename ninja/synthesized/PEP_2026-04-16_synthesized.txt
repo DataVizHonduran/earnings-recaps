@@ -1,0 +1,22 @@
+Ticker: PEP
+Source: PEP_2026-04-16.txt
+Generated: 2026-05-03 23:46 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: PepsiCo Inc. (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is showing modest growth, characterized by a sequential acceleration in organic revenue. Activity is particularly robust in International markets, while North America is seeing a gradual recovery. There is a notable improvement in "convenient foods organic volume" ("notable improvement in convenient foods organic volume"), with growth supported by "innovation and affordability initiatives" ("PepsiCo Foods delivered volume growth as innovation and affordability initiatives began to take hold").
+
+**2. Labor & Wages**
+The report does not provide specific details on hiring, turnover, or wage levels. However, it notes that core operating profit was "partially offset by certain operating cost increases" ("partially offset by certain operating cost increases"), suggesting some persistent upward pressure on operational expenses.
+
+**3. Pricing Power & Inflation**
+The company maintains moderate pricing power, as organic revenue growth was "aided by effective net pricing" ("Organic revenue growth reflects the benefits associated with effective net pricing"). Regarding input costs, the company reported "favorable impact of net mark-to-market gains on commodity derivatives" ("favorable impact of net mark-to-market gains on commodity derivatives"), indicating some relief or successful hedging of commodity inflation.
+
+**4. Supply Chain & Inventory**
+The provided data does not explicitly mention lead times or inventory "bloat." However, the cash flow statement shows a decrease in inventories of $315 million compared to $238 million in the prior year period ("Inventories (315) (238)"), suggesting a lean approach to inventory management.
+
+**5. Capital Spending (Capex)**
+Capital investment remains stable and disciplined. The company expects future capital spending to be "below 5 percent of net revenue" ("Capital spending to be below 5 percent of net revenue"). Management intends to "tightly manage costs to help fund investments to accelerate growth" ("tightly manage costs to help fund investments to accelerate growth").
