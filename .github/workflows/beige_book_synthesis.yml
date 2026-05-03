@@ -1,0 +1,41 @@
+name: Beige Book Synthesis
+
+on:
+  schedule:
+    - cron: '0 14 * * *'   # 14:00 UTC — fires after ninja_screener (12:00 UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  synthesize:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - run: pip install huggingface_hub
+
+      - name: Run Beige Book synthesis
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: python scripts/beige_book_synthesis.py
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add ninja/synthesized/
+          git diff --staged --quiet || (
+            git commit -m "Beige Book synthesis — $(date +'%Y-%m-%d') 🤖" &&
+            git pull --rebase --autostash &&
+            git push
+          )
