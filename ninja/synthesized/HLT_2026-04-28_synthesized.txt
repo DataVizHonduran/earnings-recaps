@@ -1,0 +1,22 @@
+Ticker: HLT
+Source: HLT_2026-04-28.txt
+Generated: 2026-05-03 23:21 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Hilton Worldwide Holdings Inc. (HLT)**
+
+**1. Demand & Activity:**
+Demand is showing robust growth, characterized by "strengthening demand trends" since late 2025, particularly supported by "macroeconomic tailwinds most evident in the U.S." ("continuation of strengthening demand trends... most evident in the U.S."). System-wide comparable RevPAR increased 3.6% in Q1 2026, driven by increases in both occupancy and average daily rate (ADR) ("due to increases in both occupancy and ADR"). However, a moderate softening is anticipated in specific regions, specifically "anticipated lower Middle East RevPAR" for the second quarter.
+
+**2. Labor & Wages:**
+The provided text contains no specific updates on current wage levels or hiring activity, though the company lists "challenges due to labor shortages or disputes" as a general risk factor in its forward-looking statements.
+
+**3. Pricing Power & Inflation:**
+The company demonstrates moderate pricing power, as RevPAR growth was supported by increases in ADR ("due to increases in both occupancy and ADR"). While inflation is noted as a general macroeconomic risk, there are no specific mentions of current input cost relief or persistent pressure on margins in the Q1 results.
+
+**4. Supply Chain & Inventory:**
+The report does not provide specific data on current lead times or inventory levels, though "supply chain disruptions" are listed as a general risk factor.
+
+**5. Capital Spending (Capex):**
+Investment in capacity is robust. Hilton is aggressively expanding its footprint, achieving the "largest pipeline in our history" with 527,000 rooms ("achieved the largest pipeline in our history"). The company projects net unit growth of 6.0% to 7.0% for 2026 ("confident in our ability to deliver net unit growth of 6.0 percent to 7.0 percent"). Planned capital expenditures and contract acquisition costs for the full year are projected to be approximately $300 million ("projected to be approximately $300 million").

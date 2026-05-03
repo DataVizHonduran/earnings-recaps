@@ -1,0 +1,25 @@
+Ticker: HON
+Source: HON_2026-04-23.txt
+Generated: 2026-05-03 23:22 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Honeywell (HON)**
+
+**1. Demand & Activity**
+Demand is generally **robust**, with organic orders growing 7% ("fueled by strong demand in Building and Industrial Automation"). 
+*   **Aerospace:** Remains in an "elevated demand environment," specifically noting "expanding global demand" in defense and space due to geopolitical conflict.
+*   **Building Automation:** Showing moderate growth, led by "data center and hospitality verticals."
+*   **Process Automation:** Experiencing a "slowdown in activity in the Middle East" due to regional conflict, causing a "transitory impact on revenue."
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is exercising moderate pricing power to offset persistent inflationary pressures. Sales growth was "driven primarily by pricing actions" and segment margins expanded despite being "partially offset by cost inflation" (mentioned across all four business segments). Management explicitly noted the need to overcome the "impacts of rising inflation."
+
+**4. Supply Chain & Inventory**
+Supply chain conditions are mixed. While some areas are stabilizing, "temporary mechanical supply chain disruptions pressured output growth" within the Aerospace segment, specifically limiting sales in engines, power systems, and control systems. Backlog remains substantial at $38.3 billion.
+
+**5. Capital Spending (Capex)**
+The company is focused on portfolio restructuring rather than capacity expansion. Significant activity is centered on divestitures and spin-offs, including the sale of "Warehouse and Workflow Solutions" and "Productivity Solutions and Services," and the planned spin-off of Honeywell Aerospace on June 29, 2026.
