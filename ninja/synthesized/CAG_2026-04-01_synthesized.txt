@@ -1,0 +1,22 @@
+Ticker: CAG
+Source: CAG_2026-04-01.txt
+Generated: 2026-05-03 22:55 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Conagra Brands (CAG)**
+
+**Demand & Activity:**
+Demand is showing a modest recovery, with organic net sales increasing 2.4% ("returned the business to organic net sales growth"). Activity is bifurcated by product line: robust growth in Refrigerated & Frozen, driven by a 3.9% volume increase ("reflecting a recovery in market share"), while Grocery & Snacks saw a volume decrease of 2.2% ("corresponding elasticity impacts in the company’s canned products portfolio"). International demand is softening, with organic net sales decreasing 1.2%.
+
+**Labor & Wages:**
+Not explicitly detailed; however, the company noted a slight increase in adjusted corporate expenses driven by "lapping lower incentive compensation expense in the prior year period."
+
+**Pricing Power & Inflation:**
+Pricing power remains moderate but varies by segment. The company achieved a 1.9% total price/mix increase, with stronger pricing in Grocery & Snacks (4.0% increase) and Foodservice (3.7% increase). However, input cost pressures remain persistent; the company reported that "higher organic net sales and productivity were more than offset by the negative impact of cost of goods sold inflation." Looking ahead, the company expects COGS inflation to remain "at an elevated level in fiscal 2026 of approximately 7%."
+
+**Supply Chain & Inventory:**
+Supply chain conditions appear to have stabilized, as the recent volume growth in the Refrigerated & Frozen segment is specifically attributed to "lapping last year’s supply constraints." No specific mentions of current inventory bloating or lead-time delays.
+
+**Capital Spending (Capex):**
+Capital spending remains stable. Year-to-date capital expenditures were $314 million, a slight increase over the $304 million spent in the prior year period. The company indicated that guidance for capital expenditures remains "unchanged from what was provided in the company’s second quarter fiscal 2026 earnings materials."

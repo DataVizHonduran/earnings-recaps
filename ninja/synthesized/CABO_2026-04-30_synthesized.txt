@@ -1,0 +1,22 @@
+Ticker: CABO
+Source: CABO_2026-04-30.txt
+Generated: 2026-05-03 22:55 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Cable One (CABO)**
+
+**1. Demand & Activity: Softening**
+Demand is declining across all primary segments. Residential data revenues saw a moderate decrease of 5.1% year-over-year ("due primarily to a decrease in residential data subscribers"), while residential video revenues experienced a robust decline of 19.8% ("due primarily to a decrease in residential video subscribers"). Business data demand is also softening, with revenues decreasing 1.8% year-over-year ("Business data revenues decreased $1.0 million, or 1.8%").
+
+**2. Labor & Wages: Not Addressed**
+The provided text contains no specific mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation: Stable to Modest**
+The company demonstrates modest pricing power in residential segments to offset volume losses. Residential data saw a slight increase in average revenue per unit ("partially offset by a 0.8% increase in average revenue per unit (ARPU)"), and residential video losses were mitigated by "rate adjustments enacted during 2025." There were no specific mentions of input cost inflation or relief.
+
+**4. Supply Chain & Inventory: Not Addressed**
+The report does not provide data on lead times or inventory levels.
+
+**5. Capital Spending (Capex): Stable**
+Capital expenditures remained relatively stable, with a slight decrease from $71.1 million to $68.4 million year-over-year. Spending is distributed across several categories, with the highest allocations going toward "Support capital" ($20.1 million) and "Customer premise equipment" ($19.6 million). Investment in "Line extensions" remained flat at approximately $14.3 million.

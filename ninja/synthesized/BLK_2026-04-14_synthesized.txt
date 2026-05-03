@@ -1,0 +1,22 @@
+Ticker: BLK
+Source: BLK_2026-04-14.txt
+Generated: 2026-05-03 22:53 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: BlackRock (BLK)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by strong capital inflows and organic growth. The company reported "quarterly total net inflows" of $130 billion, highlighted by a "record first quarter for iShares® ETFs" and continued momentum in "private markets, ETFs, and systematic active strategies." Additionally, there is strong demand for financial technology, evidenced by "continued momentum in Aladdin®" and a 22% year-over-year increase in "technology services and subscription revenue."
+
+**2. Labor & Wages**
+Not addressed in the provided text.
+
+**3. Pricing Power & Inflation**
+The company is experiencing moderate to robust growth in fee-based revenue, noting "10% organic base fee growth over the last twelve months." Revenue increases were further supported by "higher technology services and subscription revenue." There were no mentions of input cost pressures or inflationary headwinds.
+
+**4. Supply Chain & Inventory**
+Not applicable to this business model.
+
+**5. Capital Spending (Capex)**
+While specific facility spending was not detailed, the company is investing in capacity and capability through strategic acquisitions, specifically citing the "impact of the Preqin Transaction" and "fees related to the HPS Transaction."
