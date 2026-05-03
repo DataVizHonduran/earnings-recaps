@@ -1,0 +1,27 @@
+Ticker: CTAS
+Source: CTAS_2026-03-25.txt
+Generated: 2026-05-03 23:04 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Cintas Corp (CTAS)**
+
+**1. Demand & Activity**
+Demand remains robust, characterized by record revenues and strong organic growth. Activity is broad-based across the company's primary service lines, with the firm raising its full-year revenue guidance.
+*   **Signal:** Robust growth ("Our 8.2% organic growth and all-time high gross margins in each of our three route-based businesses").
+
+**2. Labor & Wages**
+The report does not detail specific wage inflation or hiring headwinds, but attributes current performance to investments in human capital.
+*   **Signal:** Stable/Positive ("clear impact of our investments in... talent").
+
+**3. Pricing Power & Inflation**
+The company demonstrates strong pricing power, achieving record gross margins despite a general risk environment that includes potential inflationary pressures.
+*   **Signal:** Robust pricing power ("Gross margin as a percent of revenue was 51.0%... an all-time high").
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific updates on current lead times or inventory levels, though it lists "supply chain constraints" as a general risk factor.
+*   **Signal:** Not explicitly addressed in current period results.
+
+**5. Capital Spending (Capex)**
+Investment activity is moderate to robust, focusing on scaling operational capacity and digital transformation to support growth.
+*   **Signal:** Continued investment ("clear impact of our investments in technology, capacity and talent").

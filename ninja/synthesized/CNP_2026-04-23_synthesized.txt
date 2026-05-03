@@ -1,0 +1,22 @@
+Ticker: CNP
+Source: CNP_2026-04-23.txt
+Generated: 2026-05-03 23:02 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: CenterPoint Energy (CNP)**
+
+**Demand & Activity:**
+Demand is experiencing robust growth, specifically within the industrial and technology sectors in the Greater Houston area. The company reports "incremental and accelerating growth" ("incremental and accelerating growth we see in Greater Houston alone"), highlighted by 12.2 gigawatts of "firmly committed industrial load" ("12.2 gigawatts of firmly committed industrial load"). Data center demand is particularly strong, with 8 gigawatts expected to be energized by 2029 ("expecting 8 gigawatts of data center load to be energized by 2029").
+
+**Labor & Wages:**
+Not mentioned.
+
+**Pricing Power & Inflation:**
+The company is seeing moderate favorability from regulatory recoveries, though this is being offset by persistent financial pressures. Specifically, there was "unfavorability from increased interest expense" ("$0.04 of unfavorability from increased interest expense").
+
+**Supply Chain & Inventory:**
+Not mentioned.
+
+**Capital Spending (Capex):**
+Capex activity is robust and focused on capacity expansion and grid resilience. The company is executing "customer-focused capital plans" ("execute our customer-focused capital plans") to facilitate large-scale electric load connections, with 3.5 gigawatts of data center projects "already under construction" ("3.5 gigawatts already under construction"). Management emphasizes these are "right investments to produce safer, more reliable, and more resilient outcomes" ("making the right investments to produce safer, more reliable, and more resilient outcomes").

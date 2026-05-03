@@ -1,0 +1,22 @@
+Ticker: COF
+Source: COF_2026-04-21.txt
+Generated: 2026-05-03 23:02 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Capital One Financial Corp (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is mixed across product lines. Credit card activity is softening, with period-end loans decreasing 3% ("Credit Card period-end loans decreased $9.0 billion, or 3 percent"). Conversely, there is modest growth in other lending sectors, specifically in Auto loans, which increased 3% ("Auto period-end loans increased $2.1 billion, or 3 percent"), and Commercial Banking, which grew 1% ("Commercial Banking period-end loans increased $1.1 billion, or 1 percent"). Overall top-line growth is characterized as "solid" ("Our results in the first quarter reflect solid top line growth").
+
+**2. Labor & Wages**
+Not addressed. The transcript contains no specific mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is experiencing moderate pressure on interest margins, with the net interest margin decreasing by 39 basis points ("Net interest margin of 7.87 percent, a decrease of 39 basis points"). There is evidence of a reduction in the cost of funds, as the rate paid on interest-bearing deposits decreased 16 basis points ("Interest-bearing deposits rate paid decreased 16 basis points to 3.00 percent").
+
+**4. Supply Chain & Inventory**
+Not applicable. (Financial services entity).
+
+**5. Capital Spending (Capex)**
+Investment is currently focused on integration and technology. The company is incurring significant costs to integrate the Discover acquisition ("Discover integration expenses $415 [million]"). Additionally, the firm continues to leverage its position as a "technology-based financial services company" having previously migrated "entirely to the public cloud."
