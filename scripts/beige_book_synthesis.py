@@ -125,6 +125,11 @@ def main():
             out_path.write_text(header + result, encoding="utf-8")
             print(f"[{i}/{total}] {ticker} — done → {out_path.name}")
             done += 1
+            if done % 10 == 0:
+                subprocess.run(["git", "-C", str(REPO_ROOT), "add", "ninja/synthesized/"], check=True)
+                subprocess.run(["git", "-C", str(REPO_ROOT), "commit", "-m", f"Beige Book partial — {done} done"], check=True)
+                subprocess.run(["git", "-C", str(REPO_ROOT), "push"], check=True)
+                print(f"  ↳ committed + pushed ({done} total)", flush=True)
         except Exception as e:
             print(f"[{i}/{total}] {ticker} — FAILED: {e}")
             failed += 1
