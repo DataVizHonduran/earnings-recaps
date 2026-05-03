@@ -1,0 +1,17 @@
+Ticker: DHI
+Source: DHI_2026-04-21.txt
+Generated: 2026-05-03 23:06 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: D.R. Horton (DHI)**
+
+**1. Demand & Activity:** Mixed. While net sales orders showed robust growth, increasing 11% year-over-year ("Net sales orders increased 11% to 24,992 homes"), overall demand is being tempered by softening consumer confidence and affordability issues ("Affordability constraints and cautious consumer sentiment continue to impact new home demand").
+
+**2. Labor & Wages:** Not addressed. The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation:** Softening. The company is relying on increased incentives rather than price hikes to drive volume, suggesting limited pricing power in the current environment ("We expect our sales incentives to remain elevated in fiscal 2026"). Pre-tax profit margins for homebuilding decreased to 10.7% ("Homebuilding pre-tax income decreased 19%... pre-tax profit margin was 10.7%").
+
+**4. Supply Chain & Inventory:** Stable to lean. The company has successfully reduced its backlog of finished goods, with unsold completed homes dropping significantly ("reducing unsold completed homes by 35% from a year ago"). Total inventory stands at 38,200 homes, with a controlled approach to land ("controlled lot supply provide significant financial and operational flexibility").
+
+**5. Capital Spending (Capex):** Stable. No specific new facility or technology investments were detailed; however, the company emphasizes a "balanced approach to capital allocation" and maintains strong liquidity to support ongoing operations ("Total liquidity at quarter end was $6.0 billion").

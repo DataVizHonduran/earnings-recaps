@@ -1,0 +1,22 @@
+Ticker: CZR
+Source: CZR_2026-04-28.txt
+Generated: 2026-05-03 23:05 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Caesars Entertainment (CZR)**
+
+**1. Demand & Activity**
+Demand is generally stable to moderate. The Las Vegas segment shows "continued sequential improvement in trends," specifically within the hospitality vertical where occupancy reached 95.3% ("significant improvement in the hospitality vertical with occupancy of 95.3%"). The Regional segment remains stable, though growth was compared against a high baseline from the prior year ("Regional segment delivered improved adjusted EBITDA... after excluding the benefits of Super Bowl LX"). Demand for digital services is robust, achieving "record first quarter results" ("Caesars Digital revenue of $374 million and Adjusted EBITDA of $69 million achieved record first quarter results").
+
+**2. Labor & Wages**
+Not addressed. The provided text contains no specific mentions of hiring, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company demonstrates modest pricing power in its core hospitality markets, reporting "year over year growth in Average Daily Rate" within the Las Vegas segment. There is no specific commentary on input cost relief or persistent inflationary pressures on commodities or energy.
+
+**4. Supply Chain & Inventory**
+Not addressed. The provided text contains no mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+The company is shifting toward a more conservative investment posture. Management expects to deliver strong free cash flow in 2026, partially driven by "lower capex" ("expect to deliver strong free cash flow in 2026 as a result of... lower capex"). However, the company continues to pursue strategic expansion via acquisitions, as evidenced by the recent $54 million acquisition of Caesars Windsor ("Caesars acquired the operations of Caesars Windsor for approximately $54 million").

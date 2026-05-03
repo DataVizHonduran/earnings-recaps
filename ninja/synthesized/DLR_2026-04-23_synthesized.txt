@@ -1,0 +1,22 @@
+Ticker: DLR
+Source: DLR_2026-04-23.txt
+Generated: 2026-05-03 23:06 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Digital Realty (DLR)**
+
+**1. Demand & Activity**
+Demand is **robust**, characterized by steady growth in capacity utilization. Occupied megawatts increased to 2,725 MW from 2,457 MW year-over-year ("Occupied MWs... 2,725 [vs] 2,457"). Overall occupancy remains **stable** and high at 90.1% ("Occupancy at end of quarter... 90.1%").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+Pricing power appears **stable to positive**, as evidenced by a moderate increase in total operating revenues, which rose to $1.635 billion from $1.408 billion year-over-year ("Total operating revenues $1,635,173 [vs] $1,407,637"). There is no specific commentary on input cost relief or persistent inflationary pressures.
+
+**4. Supply Chain & Inventory**
+The provided text does not detail specific lead times or inventory levels for hardware/equipment.
+
+**5. Capital Spending (Capex)**
+Investment in capacity is **robust**. The company maintains a significant pipeline of future development, with approximately 6.3 gigawatts of buildable IT capacity currently under active development or held for future use ("approximately 6.3 gigawatts of buildable IT capacity under active development and held for future development"). Total investments in real estate (before depreciation) grew to $40.75 billion from $35.69 billion over the past year ("Investments in real estate... $40,751,409 [vs] $35,693,166").
