@@ -39,25 +39,42 @@ def within_window(year: int, quarter: int) -> bool:
     return estimated_report_date(year, quarter) >= cutoff
 
 
+# ── Recent quarters to probe (most recent first) ──────────────────────────────
+def recent_quarters(n: int = 4) -> list[tuple[int, int]]:
+    today = date.today()
+    q = (today.month - 1) // 3 + 1
+    y = today.year
+    result = []
+    for _ in range(n):
+        result.append((y, q))
+        q -= 1
+        if q == 0:
+            q, y = 4, y - 1
+    return result
+
+
 # ── API ───────────────────────────────────────────────────────────────────────
 def fetch_transcript(ticker: str) -> dict | None:
-    try:
-        r = requests.get(
-            "https://api.api-ninjas.com/v1/earningstranscript",
-            params={"ticker": ticker},
-            headers={"X-Api-Key": API_KEY},
-            timeout=15,
-        )
-        if r.status_code == 404:
-            return None
-        r.raise_for_status()
-        data = r.json()
-        if isinstance(data, list):
-            return data[0] if data else None
-        return data or None
-    except Exception as e:
-        print(f"  [{ticker}] error: {e}")
-        return None
+    for year, quarter in recent_quarters():
+        time.sleep(SLEEP_SEC)
+        try:
+            r = requests.get(
+                "https://api.api-ninjas.com/v1/earningstranscript",
+                params={"ticker": ticker, "year": year, "quarter": quarter},
+                headers={"X-Api-Key": API_KEY},
+                timeout=15,
+            )
+            if r.status_code in (400, 404):
+                continue
+            r.raise_for_status()
+            data = r.json()
+            if isinstance(data, list):
+                data = data[0] if data else None
+            if data and data.get("transcript"):
+                return data
+        except Exception as e:
+            print(f"  [{ticker}] {year} Q{quarter} error: {e}")
+    return None
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
@@ -75,7 +92,6 @@ def main():
     print(f"\n{today} — screening {SAMPLE_SIZE} random SP500 tickers via api-ninjas\n")
 
     for ticker in batch:
-        time.sleep(SLEEP_SEC)
         data = fetch_transcript(ticker)
 
         if not data:
