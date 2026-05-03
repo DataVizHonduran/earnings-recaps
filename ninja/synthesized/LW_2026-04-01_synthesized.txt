@@ -1,0 +1,22 @@
+Ticker: LW
+Source: LW_2026-04-01.txt
+Generated: 2026-05-03 23:32 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Lamb Weston (LW)**
+
+**1. Demand & Activity**
+Demand is mixed and diverging by geography. North American activity is robust, with volume increasing 12% driven by "customer contract wins, share gains and growth." Conversely, international demand is softening, particularly in EMEA, with constant currency net sales declining 9% due to "softer demand in key international markets" and "increased competitive industry dynamics." There is a noted consumer shift toward "value-oriented channels and brands," increasing sales to lower-priced chain customers.
+
+**2. Labor & Wages**
+The report does not detail hiring or turnover; however, it notes that Adjusted SG&A was impacted by "normalized compensation and benefit accruals tied to performance achievement."
+
+**3. Pricing Power & Inflation**
+Pricing power is softening. The company reported a 7% decline in price mix, reflecting "continued price and trade support for customers" and a shift toward lower-priced private-label products. Inflationary pressures remain persistent, with total manufacturing costs increasing due to "inflationary pressures across key input categories globally."
+
+**4. Supply Chain & Inventory**
+Inventory levels are being actively managed to align with softening global demand. The company experienced "underutilized international production facilities" and took a $32.5 million charge for the "write-off of excess raw potatoes" in the International segment. To address this imbalance, the company closed its Munro, Argentina plant and "temporarily curtailed a production line in the Netherlands." North American inventories are reported as "lower."
+
+**5. Capital Spending (Capex)**
+Capex is declining as the company shifts toward "structural capital intensity" reductions. Full-year 2026 guidance was reduced from approximately $500 million to "approximately $400 million," reflecting the "completion of major growth initiatives."

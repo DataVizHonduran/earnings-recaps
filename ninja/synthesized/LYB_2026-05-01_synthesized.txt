@@ -1,0 +1,22 @@
+Ticker: LYB
+Source: LYB_2026-05-01.txt
+Generated: 2026-05-03 23:32 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: LyondellBasell (LYB)**
+
+**Demand & Activity:**
+Demand is showing moderate growth and recovery, driven by geopolitical disruptions. Global demand for essential products is increasing as the company seeks to "fill the gap in global supply" ("increase production to help fill the gap in global supply"). Specifically, Europe is seeing "improved seasonal demand" and higher volumes, while North America expects "increased export demand" in the second quarter. Conversely, oxyfuels volumes were softened by unplanned downtime ("volumes were impacted by an outage").
+
+**Labor & Wages:**
+Not mentioned.
+
+**Pricing Power & Inflation:**
+The company is exercising robust pricing power to offset input inflation. LYB is "passing through higher raw material costs in Europe" and benefiting from "accelerating product prices" in the Americas. While the "global cost curve for petrochemicals has materially steepened" due to conflict in the Middle East, the company is leveraging "cost-advantaged production" to maintain margins.
+
+**Supply Chain & Inventory:**
+Supply conditions are tightening globally, leading to "supply dislocations and price volatility." Inventory levels are currently stable, though the company noted a "relatively modest, but typical, first quarter working capital build" to support higher volumes and prices. The company anticipates that global "capacity rationalizations" may accelerate to balance supply and demand.
+
+**Capital Spending (Capex):**
+Capex remains disciplined and focused on portfolio optimization rather than aggressive expansion. The company is "maintaining discipline in capital spending" and recently completed the "sale of four European sites to right-size and enhance the future footprint." Current spending is balanced between maintenance/optimization and shareholder returns.

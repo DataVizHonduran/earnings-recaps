@@ -1,0 +1,22 @@
+Ticker: LMT
+Source: LMT_2026-04-23.txt
+Generated: 2026-05-03 23:31 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Lockheed Martin (LMT)**
+
+**1. Demand & Activity**
+Demand is robust for missile defense and munitions, though mixed across other segments. The company reports "high level of demand" for layered missile defense architecture, leading to new framework agreements to "accelerate and scale munitions production" for Patriot, THAAD, and PrSM. Conversely, activity is softening in Aeronautics (lower volume on classified and F-16 programs) and Rotary and Mission Systems (lower volume on radar and Sikorsky helicopter programs).
+
+**2. Labor & Wages**
+The company is focused on expanding its human capital to meet increased production targets. Management intends to "enhance our workforce to increase production rates of these critical systems by 3-4 times current rates" ("enhance our workforce to increase production rates").
+
+**3. Pricing Power & Inflation**
+The provided text does not explicitly mention price hikes or commodity-specific inflation. However, the company is facing "diminishing manufacturing source integration challenges" on the C-130 program, which has contributed to "delivery delays" and unfavorable profit adjustments.
+
+**4. Supply Chain & Inventory**
+Supply chain conditions remain a strategic priority. The company is leveraging new multi-year government commitments to "bolster our supply chain" ("bolster our supply chain") to support a significant ramp-up in munitions output.
+
+**5. Capital Spending (Capex)**
+Capex is increasing to support capacity expansion. Q1 2026 capital expenditures were $511 million, compared to $454 million in Q1 2025. Future spending is directed toward "strategic investments in production infrastructure" ("support strategic investments in production infrastructure") to facilitate the 3-4x increase in production rates. Full-year 2026 Capex is projected between $2.5 billion and $2.8 billion.

@@ -1,0 +1,30 @@
+Ticker: MAS
+Source: MAS_2026-04-22.txt
+Generated: 2026-05-03 23:33 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Masco Corp (MAS)**
+
+**Demand & Activity**
+Demand is growing modestly, with a notable variance between product lines. Plumbing Products saw robust growth, while Decorative Architectural Products remained flat. Geographically, North American demand is growing modestly, while international activity is stable.
+*   Plumbing: "net sales increased 9 percent in local currency"
+*   Decorative Architectural: "net sales were in line with prior year"
+*   North America: "sales increased 5 percent"
+*   International: "sales increased 1 percent"
+
+**Labor & Wages**
+The report does not provide specific data on wage increases or headcount changes, though the company identifies the ability to "attract, develop and retain a talented workforce" as a general operational risk.
+
+**Pricing Power & Inflation**
+Pricing and input costs appear stable, as gross margins remained flat year-over-year. The company continues to monitor persistent risks related to "the cost and availability of materials" and the potential "impact on demand, pricing and product costs resulting from tariffs."
+*   Margins: "Gross margin was in line with the prior year at 35.8 percent"
+
+**Supply Chain & Inventory**
+Inventory levels are stable, with a slight increase in absolute terms but remaining consistent relative to sales.
+*   Inventory Levels: "Inventories 1,068 [million]" (up from 1,046 million)
+*   Inventory Days: "83" (compared to 82 days in 2025)
+
+**Capital Spending (Capex)**
+Specific new project announcements were absent; however, the company maintains a focus on "strategic initiatives" and an "acquisition strategy" to drive long-term value. Net property and equipment remained stable.
+*   Fixed Assets: "Property and equipment, net 1,183 [million]" (down slightly from 1,195 million)
