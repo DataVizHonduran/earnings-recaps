@@ -1,0 +1,28 @@
+Ticker: OGN
+Source: OGN_2026-04-30.txt
+Generated: 2026-05-03 23:43 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Organon & Co. (Q1 2026)**
+
+**Demand & Activity**
+Demand is softening across several key segments, though biosimilars show robust growth. 
+*   **Women’s Health:** Demand is declining, specifically for Nexplanon in the U.S. due to "decreased physician demand following the five-year label approval" and "uncertainty around federal funding." Oral contraceptives saw a significant drop due to "decreased demand and market contraction in China."
+*   **Biosimilars:** Activity is robust, driven by "stronger demand in the U.S., and increased demand in Puerto Rico" for Hadlima.
+*   **Established Brands:** Demand is softening for respiratory products due to "volume declines related to the adoption of revised medical guidelines" in international markets, including China. VTAMA grew "modestly."
+
+**Labor & Wages**
+Not addressed. The report contains no mentions of hiring, turnover, or wage trends.
+
+**Pricing Power & Inflation**
+Pricing power is weakening, with persistent downward pressure across multiple portfolios.
+*   **Pricing Pressure:** The company is experiencing "competition-driven price reductions in the U.S." within Global Fertility and "pricing pressure" in the respiratory portfolio and for Dulera in the U.S.
+*   **Margins:** Gross margins declined, cited as being driven by "unfavorable pricing and product mix."
+
+**Supply Chain & Inventory**
+Supply chain activity is stable, though timing issues persist in specific regions.
+*   **Shipments:** Revenue fluctuations in emerging markets and Asia Pacific were attributed to the "timing of shipments."
+
+**Capital Spending (Capex)**
+No specific future Capex plans for facilities or technology were disclosed. The company is currently focused on a pending "merger into Sun Pharmaceutical Industries Limited," expected to close in early 2027.

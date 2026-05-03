@@ -1,0 +1,15 @@
+Ticker: ODFL
+Source: ODFL_2026-04-29.txt
+Generated: 2026-05-03 23:42 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided press release for Old Dominion Freight Line (ODFL), the document contains only high-level financial results (Earnings Per Share of $1.14) and contact information. It does not include a management discussion, earnings call transcript, or operational commentary.
+
+Consequently, there are no "Ground Truth" economic signals available in the provided text for the requested categories:
+
+*   **Demand & Activity:** Not mentioned.
+*   **Labor & Wages:** Not mentioned.
+*   **Pricing Power & Inflation:** Not mentioned.
+*   **Supply Chain & Inventory:** Not mentioned.
+*   **Capital Spending (Capex):** Not mentioned.

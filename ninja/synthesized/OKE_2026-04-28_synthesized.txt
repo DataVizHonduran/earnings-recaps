@@ -1,0 +1,22 @@
+Ticker: OKE
+Source: OKE_2026-04-28.txt
+Generated: 2026-05-03 23:43 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: ONEOK (OKE)**
+
+**Demand & Activity:**
+Demand is robust, characterized by year-over-year volume growth across all primary business segments. NGL raw feed throughput grew by 15%, with significant regional variance: robust growth in the Gulf Coast/Permian (+31%) and moderate growth in the Rocky Mountain (+11%) and Mid-Continent (+4%) regions. Natural gas processing volumes saw modest growth, specifically in the Mid-Continent (+7%) and Permian (+4%) regions. Refined products volumes also grew by 12%. Management notes a "more constructive market environment" beginning late in Q1.
+
+**Labor & Wages:**
+Not addressed in the provided text.
+
+**Pricing Power & Inflation:**
+Pricing signals are mixed. The company experienced "lower average fee rates" in the Gulf Coast/Permian and Mid-Continent regions. Additionally, the Gathering and Processing segment saw a decrease in EBITDA due to "lower realized prices, primarily NGL and natural gas prices." However, some input cost relief was noted via a "decrease in operating costs" resulting from "methane fees no longer incurred in 2026 due to regulatory changes."
+
+**Supply Chain & Inventory:**
+Not explicitly addressed; however, the company is actively managing inventory for profit, noting "higher earnings on sales of purity NGLs held in inventory."
+
+**Capital Spending (Capex):**
+Investment remains stable. Total 2026 capital expenditure guidance is "unchanged at approximately $2.7 billion to $3.2 billion." Recent activity includes the strategic relocation of a "150 million cubic feet per day (MMcf/d) processing plant to the Permian Basin from North Texas."
