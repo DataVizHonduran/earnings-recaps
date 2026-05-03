@@ -1,0 +1,22 @@
+Ticker: NDAQ
+Source: NDAQ_2026-04-23.txt
+Generated: 2026-05-03 23:39 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Nasdaq, Inc. (1Q26)**
+
+**1. Demand & Activity: Robust**
+Demand is growing strongly across all business segments. Financial Technology saw "strong revenue and ARR growth" with ACV bookings increasing "more than 50% compared to the prior year period." Demand is specifically driven by a "shift towards Always-On markets" and "infrastructure modernization." Market Services achieved "record quarterly net revenues" supported by "record U.S. cash equities and U.S equity options volumes."
+
+**2. Labor & Wages: Moderate Pressure**
+The company is experiencing upward pressure on labor costs. GAAP operating expenses increased 9% year-over-year, "primarily due to higher compensation and benefits costs." Non-GAAP expenses also rose, reflecting "increased investments in people... to drive long-term growth."
+
+**3. Pricing Power & Inflation: Stable**
+While specific inflationary pressures were not detailed, the company maintains stable pricing discipline. New index license partnerships for the Nasdaq-100 will have "pricing terms... consistent with that of Invesco QQQ."
+
+**4. Supply Chain & Inventory: Not Applicable**
+As a financial technology and exchange operator, the company does not report physical supply chain or inventory metrics.
+
+**5. Capital Spending (Capex): Moderate**
+Investment is focused on technology and human capital rather than physical capacity. The company is "investing for long-term growth" through "increased investments in people and technology" and the integration of "AI to drive greater efficiency in their operations."

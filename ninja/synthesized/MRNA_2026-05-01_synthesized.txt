@@ -1,0 +1,22 @@
+Ticker: MRNA
+Source: MRNA_2026-05-01.txt
+Generated: 2026-05-03 23:37 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Moderna, Inc. (Q1 2026)**
+
+**Demand & Activity:**
+Demand is showing robust growth, particularly in international markets, driven by government partnerships and new product approvals. The company expects a return to sales growth for the full year ("excited to return to sales growth in 2026"). Activity is heavily skewed toward international markets, which accounted for approximately 80% of Q1 revenue ("approximately 80% of revenue from international markets"). Growth is supported by the expansion of the infectious disease portfolio, including the first flu plus COVID combination vaccine ("received regulatory approval in Europe for... mCOMBRIAX").
+
+**Labor & Wages:**
+The company is seeing a moderate reduction in labor-related costs as part of a broader discipline initiative. SG&A expenses declined by 18%, attributed specifically to a decrease in personnel spending ("primarily driven by lower employee-related expenses").
+
+**Pricing Power & Inflation:**
+There is no explicit mention of price increases; however, the company is experiencing significant cost relief in its operational base. Excluding a one-time litigation charge, the cost of sales decreased due to improved operational efficiencies ("primarily due to lower unutilized manufacturing capacity costs").
+
+**Supply Chain & Inventory:**
+Inventory levels appear to be undergoing correction, as evidenced by modest write-downs. The company reported "inventory write-downs of $38 million" during the first quarter. There are no mentions of lead-time delays or systemic supply chain bottlenecks.
+
+**Capital Spending (Capex):**
+Capital investment remains stable and targeted. The company has projected a modest level of investment in its facilities and technology for the remainder of the year ("Capital expenditures for 2026 are expected to be $0.2 to $0.3 billion").

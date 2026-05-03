@@ -1,0 +1,22 @@
+Ticker: MSCI
+Source: MSCI_2026-04-21.txt
+Generated: 2026-05-03 23:38 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: MSCI Inc. (Q1 2026)**
+
+**1. Demand & Activity:**
+Demand is **robust** and expanding across all major product lines and geographies. The company reported "strong financial and operating metrics," highlighted by the "best Q1 of recurring net-new subscription sales since 2022" ("In first quarter MSCI delivered strong financial and operating metrics... our best Q1 of recurring net-new subscription sales since 2022"). Growth is broad-based, with "sales momentum we have achieved cuts across regions, product lines, client segments and asset classes" ("The sales momentum we have achieved cuts across regions..."). Specific strength was noted in Index and Analytics, as well as among hedge funds, banks, and broker-dealers ("record levels of Q1 recurring sales in both Index and Analytics... best-ever Q1 recurring net-new sales with hedge funds and with banks and broker-dealers").
+
+**2. Labor & Wages:**
+Labor costs are seeing **moderate** upward pressure. Headcount increased by 2.2% to 6,319 employees ("we had 6,319 employees, reflecting a 2.2% increase"). This growth in personnel contributed to higher operating expenses, specifically "higher compensation and benefits costs as a result of increased headcount costs" ("Adjusted EBITDA expenses were $346.1 million, up 8.1%, primarily reflecting higher compensation and benefits costs").
+
+**3. Pricing Power & Inflation:**
+While specific price-hike percentages are not disclosed, the company demonstrates **robust** pricing power through organic recurring subscription Run Rate growth of 8.2% ("Organic recurring subscription Run Rate growth was 8.2%"). Input costs are seeing **slight** pressure from non-compensation items, specifically "higher professional fees, market data costs and information technology costs" ("The increase was also driven by non-compensation costs...").
+
+**4. Supply Chain & Inventory:**
+Not applicable. As a provider of "decision support tools and services" ("a leading provider of critical decision support tools and services"), the company does not maintain physical inventories or traditional supply chains.
+
+**5. Capital Spending (Capex):**
+Investment in technology remains **stable**, with a focus on AI-driven development. The company is pursuing "relentless, AI-fueled product innovation" ("we are building on it through relentless, AI-fueled product innovation"). Reported Capex for the quarter was $28.8 million ("Capex was $28.8 million").
