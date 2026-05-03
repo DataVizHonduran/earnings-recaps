@@ -139,27 +139,6 @@ def main():
 
     print(f"\nDone: {done} written, {skipped} skipped, {failed} failed")
 
-    if done > 0:
-        print("\nCommitting to git ...")
-        subprocess.run(
-            ["git", "-C", str(REPO_ROOT), "add", "ninja/synthesized/"],
-            check=True,
-        )
-        msg = f"Add Beige Book synthesis for {done} transcripts — {datetime.now(timezone.utc).strftime('%Y-%m-%d')}"
-        subprocess.run(
-            ["git", "-C", str(REPO_ROOT), "commit", "-m", msg],
-            check=True,
-        )
-        subprocess.run(
-            ["git", "-C", str(REPO_ROOT), "pull", "--rebase"],
-            check=True,
-        )
-        subprocess.run(
-            ["git", "-C", str(REPO_ROOT), "push"],
-            check=True,
-        )
-        print("Pushed.")
-
 
 if __name__ == "__main__":
     main()
