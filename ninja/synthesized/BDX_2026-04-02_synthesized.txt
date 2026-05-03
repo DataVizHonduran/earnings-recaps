@@ -1,0 +1,22 @@
+Ticker: BDX
+Source: BDX_2026-04-02.txt
+Generated: 2026-05-03 22:51 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided financial statements, the following economic signals are identified:
+
+**1. Demand & Activity**
+Demand appears **moderate** to **stable**. Quarterly revenues show a slight upward trend through the 2025 fiscal year, peaking at $5,005 million in the quarter ended September 30, 2025, before a modest softening to $4,486 million in the quarter ended December 31, 2025 ("REVENUES $ 4,486... $ 5,005").
+
+**2. Labor & Wages**
+The report does not explicitly detail wage growth or hiring difficulty; however, there is evidence of **moderate** restructuring activity. The company consistently incurred "Restructuring costs" across all reported quarters, ranging from $57 million to $84 million ("Restructuring costs (B) ... 84"). Additionally, the company noted specific labor costs associated with regulatory compliance ("These expenses relate to establishing initial compliance... include the cost of labor").
+
+**3. Pricing Power & Inflation**
+The company maintains **robust** gross margins on an adjusted basis. Adjusted gross margins remained strong, moving from $2,387 million (Dec 2024) to $2,436 million (Dec 2025), suggesting an ability to maintain pricing or manage input costs effectively ("Adjusted (Non-GAAP) ... Gross margin ... 2,436").
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific commentary regarding lead times, freight, or inventory levels.
+
+**5. Capital Spending (Capex)**
+While specific facility spend is not listed, there is **stable** investment in technology and regulatory infrastructure. The company is investing in "processes and systems to establish initial compliance with the European Union Medical Device Regulation" ("costs incurred to develop processes and systems to establish initial compliance"). Research and development spending remains consistent, averaging approximately $230–$260 million per quarter ("Research and development expense ... 235").

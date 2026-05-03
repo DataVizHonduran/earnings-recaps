@@ -1,0 +1,22 @@
+Ticker: BKR
+Source: BKR_2026-04-23.txt
+Generated: 2026-05-03 22:53 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Baker Hughes (BKR)**
+
+**1. Demand & Activity**
+Demand is **robust**, characterized by strong momentum in energy infrastructure and industrial technology. IET orders reached record levels ("record orders of $4.9 billion"), driven by power systems, LNG, and CCS. While the company notes "significant disruptions in the Middle East," overall business fundamentals remain stable. There is a noted structural shift toward energy security, which is "expected to support structural growth in upstream and global energy infrastructure spending."
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price hikes or specific input cost pressures. However, the company reports "higher margins" and "stronger free cash flow" attributed to the "Baker Hughes Business System," suggesting effective operational discipline and cost management.
+
+**4. Supply Chain & Inventory**
+Lead times and inventory levels are not explicitly detailed; however, the company is managing a "record backlog of $33.1 billion" in IET, indicating a high volume of committed future work.
+
+**5. Capital Spending (Capex)**
+The company is focused on "portfolio management strategy" and strategic divestitures to strengthen the balance sheet, including the sale of Waygate Technologies and other transactions "expected to generate gross proceeds of approximately $3 billion in 2026." Investment is being directed toward high-growth technology and collaborations, such as "AI-enabled power optimization" with Google Cloud and geothermal projects in New Mexico.

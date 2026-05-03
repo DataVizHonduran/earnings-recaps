@@ -1,0 +1,22 @@
+Ticker: BAC
+Source: BAC_2026-04-15.txt
+Generated: 2026-05-03 22:50 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Bank of America (1Q26)**
+
+**1. Demand & Activity**
+Demand is robust across multiple segments. Consumer spending remains solid, with combined credit/debit card spend increasing 7% ("Combined credit / debit card spend of $245 billion, up 7%"). Loan demand is growing moderately across the board, with total average loans and leases up 9% ("growth across every business segment"). Specific strength is noted in small business lending ("Average Small Business loans grew 5%") and investment banking fees, which saw a robust increase of 21% ("investment banking fees... up 21%").
+
+**2. Labor & Wages**
+The report does not specify hiring difficulties or turnover rates, but indicates continued investment in human capital. Noninterest expenses rose 4%, partially attributed to spending on staff ("driven by... investments in people and technology").
+
+**3. Pricing Power & Inflation**
+The bank is experiencing positive revenue momentum, though it is navigating a mixed interest rate environment. Net Interest Income (NII) grew 9% ("NII of $15.7 billion... up 9%"), driven by fixed-rate asset repricing and higher balances, though this was "partially offset by the impact of lower interest rates." Treasury service charges also saw a moderate improvement of 10% ("10% improvement in treasury service charges").
+
+**4. Supply Chain & Inventory**
+Not applicable. (No mentions of physical supply chains or inventories).
+
+**5. Capital Spending (Capex)**
+Investment is focused on digital transformation and technological capacity. The bank continues to prioritize "investments in people and technology" as a driver of its noninterest expense growth. This is reflected in the high volume of digital engagement, with 71% of total sales now being "digitally-enabled."
