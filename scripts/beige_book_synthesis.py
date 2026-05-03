@@ -128,6 +128,7 @@ def main():
             if done % 10 == 0:
                 subprocess.run(["git", "-C", str(REPO_ROOT), "add", "ninja/synthesized/"], check=True)
                 subprocess.run(["git", "-C", str(REPO_ROOT), "commit", "-m", f"Beige Book partial — {done} done"], check=True)
+                subprocess.run(["git", "-C", str(REPO_ROOT), "pull", "--rebase", "--autostash"], check=True)
                 subprocess.run(["git", "-C", str(REPO_ROOT), "push"], check=True)
                 print(f"  ↳ committed + pushed ({done} total)", flush=True)
         except Exception as e:
