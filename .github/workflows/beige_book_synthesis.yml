@@ -31,8 +31,8 @@ jobs:
 
       - name: Commit and push
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "alberto.boquin@gmail.com"
+          git config --local user.name "Alberto Jose Boquin"
           git add ninja/synthesized/
           git diff --staged --quiet || (
             git commit -m "Beige Book synthesis — $(date +'%Y-%m-%d') 🤖" &&
