@@ -172,11 +172,7 @@ def main():
             continue
 
         label = "TRANSCRIPT" if is_transcript(text) else "PRESS_RELEASE"
-        if label != "TRANSCRIPT":
-            print(f"  {ticker:6s}  {filing['date']}  {label}  skipped")
-            continue
-
-        print(f"  {ticker:6s}  {filing['date']}  TRANSCRIPT  {len(text):,} chars  → ninja/{fname}")
+        print(f"  {ticker:6s}  {filing['date']}  {label}  {len(text):,} chars  → ninja/{fname}")
 
         fpath.write_text(
             f"Ticker: {ticker}\nCompany: {company}\nFiled: {filing['date']}\n"
