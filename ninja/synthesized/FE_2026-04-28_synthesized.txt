@@ -1,0 +1,22 @@
+Ticker: FE
+Source: FE_2026-04-28.txt
+Generated: 2026-05-03 23:14 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: FirstEnergy Corp (FE)**
+
+**1. Demand & Activity**
+Demand appears moderate to robust, specifically within the Integrated segment, where activity contributed positively to earnings ("Earnings also benefited from stronger customer demand").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is experiencing modest positive impacts from pricing adjustments, with earnings growth in the Distribution segment attributed "primarily due to higher rates." However, there is persistent pressure from financing costs, as results in the Corporate Other segment "decreased slightly due to higher interest expense" and the Integrated segment saw offsets from "increased financing costs to fund investments."
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on current lead times or inventory levels, though it lists "supply chain disruptions" as a general forward-looking risk.
+
+**5. Capital Spending (Capex)**
+Capex is robust and expanding. The company invested nearly $1.4 billion in Q1 2026, a "33% increase compared to the first quarter of 2025." Future investment is aggressive, with a planned $6 billion for 2026 and a long-term "2026 through 2030 capital investment plan of $36 billion" focused on "distribution infrastructure renewal, grid modernization and significant reliability and resiliency enhancements."

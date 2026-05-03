@@ -1,0 +1,22 @@
+Ticker: FDS
+Source: FDS_2026-03-31.txt
+Generated: 2026-05-03 23:13 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: FactSet Research Systems (FDS)**
+
+**1. Demand & Activity:**
+Demand is growing moderately, with "accelerating growth" noted by leadership ("FactSet delivered another quarter of accelerating growth"). Activity is robust among institutional buy-side and wealth management clients ("driven by institutional buy-side and wealth management clients"). Geographically, growth is uneven: Asia Pacific is seeing robust expansion (Organic ASV up 10.0%), the Americas are growing moderately (Organic ASV up 7.0%), and EMEA is experiencing modest growth (Organic ASV up 4.3%).
+
+**2. Labor & Wages:**
+Labor costs are exerting moderate upward pressure on margins. The company reports a slight increase in total headcount, up 1.9% over the last 12 months ("Employee headcount was 12,840... up 1.9%"), with growth concentrated in technical roles ("increase primarily in the content and technology groups"). Higher employee compensation is cited as a primary driver for the decline in operating margins ("primarily due to higher employee compensation costs").
+
+**3. Pricing Power & Inflation:**
+The company demonstrates stable pricing power, evidenced by an increase in Organic Annual Subscription Value (ASV) of 6.7% year-over-year. While specific price-hike percentages are not detailed, the "continued momentum" and raised growth outlook suggest an ability to maintain or increase pricing. No specific mentions of commodity or freight inflation were noted.
+
+**4. Supply Chain & Inventory:**
+Not applicable. As a digital platform provider, the company does not report physical inventory or traditional supply chain lead times.
+
+**5. Capital Spending (Capex):**
+Investment is focused on technology and AI integration. The company is making "targeted investments" to expand its platform ("focused on disciplined execution and targeted investments"). Specific spending is directed toward AI capabilities, including the appointment of a Chief AI Officer and the launch of "AI Doc Ingest for Cobalt" to automate data extraction.

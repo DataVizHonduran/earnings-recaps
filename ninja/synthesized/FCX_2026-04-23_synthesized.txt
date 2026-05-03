@@ -1,0 +1,22 @@
+Ticker: FCX
+Source: FCX_2026-04-23.txt
+Generated: 2026-05-03 23:13 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Freeport-McMoRan (FCX)**
+
+**1. Demand & Activity**
+Demand remains robust, with the company positioning itself to "support a growing market" ("...pipeline of near-, medium- and long-term growth options to support a growing market"). While Q1 sales volumes were lower year-over-year, this was attributed to operational disruptions rather than demand softening ("reflecting lower operating rates at PTFI following the September 2025 mud rush incident").
+
+**2. Labor & Wages**
+No specific mentions of hiring, turnover, or wage pressures were provided in the text.
+
+**3. Pricing Power & Inflation**
+The company is benefiting from robust realized prices for copper ($5.78/lb), gold ($4,889/oz), and molybdenum ($25.21/lb). However, input cost pressures are emerging due to geopolitical instability. Following military conflict in the Middle East, costs for "petroleum-based energy products, sulfur and sulfuric acid, and other consumables have risen significantly," with diesel and sulfuric acid prices described as "highly volatile with significant regional dislocation."
+
+**4. Supply Chain & Inventory**
+Inventory levels are moderately elevated at specific sites due to processing bottlenecks, with "deferrals of approximately 100 million pounds of copper and 50 thousand ounces of gold associated with inventory held at PTFI’s smelting operations."
+
+**5. Capital Spending (Capex)**
+Capex is robust and focused on capacity expansion. Total 2026 expenditures are expected to approximate $4.3 billion, with $3.0 billion dedicated to "major mining projects." Key investments include the "phased ramp-up of the Grasberg Block Cave underground mine," a "potential major expansion at El Abra in Chile," and "brownfield expansions in Arizona."
