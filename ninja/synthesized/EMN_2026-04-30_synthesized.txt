@@ -1,0 +1,22 @@
+Ticker: EMN
+Source: EMN_2026-04-30.txt
+Generated: 2026-05-03 23:10 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Eastman Chemical Co. (EMN)**
+
+**Demand & Activity:**
+Demand is mixed and fragmented. While there was a robust sequential increase in sales volume mix of 10% ("Sales volume mix increased 10 percent sequentially"), year-over-year activity remains soft. Weakness is noted in consumer discretionary markets ("continued weak underlying demand for consumer discretionary end markets"), the automotive aftermarket ("soft automotive aftermarket"), and building/construction ("lower demand for coatings additives in the building and construction end market"). Outlook for consumer discretionary is stable, though automotive is expected to decline by low-single-digits.
+
+**Labor & Wages:**
+Not mentioned.
+
+**Pricing Power & Inflation:**
+The company is exercising moderate pricing power to combat substantial inflationary pressures. EMN is implementing $500 million in price increases ("Implementing $500 million of price increases across the portfolio to offset substantial raw material and distribution inflation"). While some segments saw lower selling prices due to raw material declines, the current outlook focuses on raising prices to "keep pace with higher raw material and distribution costs." Energy costs have seen recent pressure due to weather events ("increased energy costs... resulting from Winter Storm Fern").
+
+**Supply Chain & Inventory:**
+Inventory levels have been volatile. The company experienced a period of customer destocking, particularly in acetate tow ("driven by customer inventory destocking in the acetate tow product line"). However, EMN is currently building inventory to prepare for upcoming maintenance ("Inventory increased to prepare for large, planned shutdowns"). Supply chain conditions are currently "dynamic" due to geopolitical conflict in the Middle East, which has tightened market conditions for olefins and derivatives.
+
+**Capital Spending (Capex):**
+Capex remains disciplined with a focus on high-growth technology and capacity. The company is spending approximately $400 million this year ("maintaining disciplined capital expenditures by spending approximately $400 million this year"). Key investments include the commercial ramp-up of the Kingsport methanolysis facility, which is expected to drive "meaningful growth" via the Renew product lines.

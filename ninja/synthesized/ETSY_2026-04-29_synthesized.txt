@@ -1,0 +1,22 @@
+Ticker: ETSY
+Source: ETSY_2026-04-29.txt
+Generated: 2026-05-03 23:12 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Etsy Inc. (Q1 2026)**
+
+**1. Demand & Activity:**
+Demand is showing signs of a modest recovery, though it remains soft compared to prior year levels. Active buyers grew sequentially for the first time in two years, but are "still down from the prior year" ("active buyers grew sequentially for the first time in two years, though still down from the prior year"). Growth is bifurcated by platform, with mobile app activity showing robust momentum and "continuing to outpace non-app GMS growth" ("app GMS growth continuing to outpace non-app GMS growth").
+
+**2. Labor & Wages:**
+The provided text contains no mentions of hiring, turnover, wage pressures, or headcount reductions.
+
+**3. Pricing Power & Inflation:**
+The company is maintaining a stable take rate of 25.7%. There is no explicit mention of price hikes or input cost relief; however, the company is focusing on "relevance over volume" in its marketing spend to drive efficiency ("focusing on relevance over volume, helping deepen direct relationships with buyers").
+
+**4. Supply Chain & Inventory:**
+Inventory levels are not discussed in terms of physical stockpiles (as Etsy is a marketplace). However, the company is attempting to improve the "inventory offering" by using AI to reduce friction for sellers in the listing process ("using AI to simplify this work... so sellers can spend less time managing their shops").
+
+**5. Capital Spending (Capex):**
+Investment is focused heavily on technology and AI integration rather than physical capacity. The company is making "coordinated investments" in machine learning and personalization to drive conversion ("coordinated investments are already driving meaningful impact"). Specific focus areas include "agentic commerce" partnerships with OpenAI, Microsoft, and Google to drive incremental traffic ("leaning into that opportunity through our partnerships with OpenAI, Microsoft, and Google").

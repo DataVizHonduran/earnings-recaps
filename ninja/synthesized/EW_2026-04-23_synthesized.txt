@@ -1,0 +1,22 @@
+Ticker: EW
+Source: EW_2026-04-23.txt
+Generated: 2026-05-03 23:12 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Edwards Lifesciences (EW)**
+
+**Demand & Activity:**
+Demand is robust and growing across all primary product lines. TAVR sales grew 14.4% ("TAVR sales of $1.2 billion, which grew 14.4%"), with healthy U.S. growth and even faster expansion internationally. Activity is being driven by a "shift toward proactive disease management" and "sustained physician demand" in Europe. TMTT activity is also strong, with global mitral and tricuspid procedures growing in the "estimated double digits."
+
+**Labor & Wages:**
+Not explicitly discussed. The report mentions "continued funding of resources" to support patient care, but provides no specific data on hiring, turnover, or wage inflation.
+
+**Pricing Power & Inflation:**
+Pricing remains stable ("Average selling prices were stable globally"). The company is not reporting active price hikes to offset inflation. Gross margins saw a slight compression to 78.0% from 78.7%, attributed to a "weakening dollar" and "additional manufacturing expenses related to the expansion of new therapies."
+
+**Supply Chain & Inventory:**
+Not explicitly discussed. There are no mentions of lead times, logistics bottlenecks, or inventory imbalances.
+
+**Capital Spending (Capex):**
+Investment is focused on technology and capacity expansion. The company is maintaining a "strategic prioritization of investments in its expanding structural heart portfolio," specifically noting "additional manufacturing expenses related to the expansion of new therapies." R&D spending remains a priority, expected to be "approximately 17% [of sales] in 2026."

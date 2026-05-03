@@ -1,0 +1,22 @@
+Ticker: ENPH
+Source: ENPH_2026-04-28.txt
+Generated: 2026-05-03 23:10 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Enphase Energy (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is softening significantly in the U.S. but showing moderate growth in Europe. U.S. sell-through demand decreased 48% sequentially ("sell-through demand for our products in the United States also decreased 48% in the first quarter of 2026, compared to the fourth quarter of 2025"), driven by seasonality and the expiration of federal residential tax credits ("due to the expiration of the federal residential clean energy tax credit under Section 25D"). Conversely, European revenue increased approximately 36% sequentially ("Our revenue in Europe for the first quarter increased approximately 36%, compared to the fourth quarter").
+
+**2. Labor & Wages**
+No specific mentions of wage inflation or hiring difficulties. The company is allocating significant human capital toward new technology, with a dedicated team for AI data center infrastructure ("more than 80 engineers working on the program").
+
+**3. Pricing Power & Inflation**
+The company is facing persistent margin pressure from trade policy. Reciprocal tariffs had a negative impact of 4.3 percentage points on non-GAAP gross margins ("The reciprocal tariffs had a negative impact of 4.3 percentage points on margins in the first quarter"). There is no mention of price increases to offset these costs.
+
+**4. Supply Chain & Inventory**
+Inventory levels are not explicitly detailed, but the company is actively shifting production to domestic facilities to leverage tax credits, shipping 1.39 million microinverters from U.S. plants ("shipped approximately 1.39 million microinverters from our U.S. manufacturing facilities").
+
+**5. Capital Spending (Capex)**
+Capex increased moderately this quarter, doubling compared to the previous period ("Our capital expenditures were $19.9 million in the first quarter, compared to $9.7 million in the fourth quarter"). Investment is focused on expanding the product pipeline into commercial and AI sectors, specifically the development of a solid-state transformer for AI data centers ("announced today the development of IQ SST, a distributed solid state transformer (SST) platform purpose-built for AI data centers").
