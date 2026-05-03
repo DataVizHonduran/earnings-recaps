@@ -1,0 +1,22 @@
+Ticker: LKQ
+Source: LKQ_2026-04-30.txt
+Generated: 2026-05-03 23:30 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: LKQ Corp (Q1 2026)**
+
+**Demand & Activity:**
+Demand is mixed but showing signs of modest recovery. North American activity remains robust with "above market growth" ("In North America, our business held up well in the quarter with above market growth"). European demand is softening but stabilizing, with "continual improvements through the quarter" ("In Europe, we saw continual improvements through the quarter"). Overall organic revenue for parts and services saw a slight decline of 1.6% ("a 1.6% decrease in parts and services organic revenue").
+
+**Labor & Wages:**
+Not explicitly detailed; however, the company is pursuing "productivity and restructuring initiatives" to manage costs ("continuing to implement productivity and restructuring initiatives intended to help mitigate the impact of ongoing macroeconomic and cost pressures").
+
+**Pricing Power & Inflation:**
+The company is facing persistent macroeconomic and cost pressures, including new trade headwinds. Management specifically noted the impact of "U.S. and retaliatory tariffs in effect as of April 1, 2026" ("Outlook includes estimated impacts from the U.S. and retaliatory tariffs"). There is no specific mention of recent price hikes, but a focus remains on "deliberate actions to reduce costs" ("taking deliberate actions to reduce costs, streamline operations").
+
+**Supply Chain & Inventory:**
+No specific data provided on lead times or inventory volume levels.
+
+**Capital Spending (Capex):**
+Investment is currently focused on operational technology and efficiency rather than physical capacity. The company recently completed a "large step forward with an ERP migration in a major market" ("took a large step forward with an ERP migration in a major market that is part of our overall operational improvement initiatives").

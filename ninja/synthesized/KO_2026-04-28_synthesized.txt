@@ -1,0 +1,22 @@
+Ticker: KO
+Source: KO_2026-04-28.txt
+Generated: 2026-05-03 23:29 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Coca-Cola (KO) Q1 2026**
+
+**1. Demand & Activity**
+Demand is growing modestly on a consolidated basis, with global unit case volume increasing 3% ("Unit case volume grew 3%"). Activity is robust in North America (+4%) and Asia Pacific (+5%), while Latin America remains stable (+1%). Product-line demand is mixed: Coca-Cola Zero Sugar showed robust growth (+13%), and water grew modestly (+5%), while juice and plant-based beverages saw a slight decline (-1%).
+
+**2. Labor & Wages**
+The provided transcript contains no mentions of hiring, turnover, wage increases, or headcount reductions.
+
+**3. Pricing Power & Inflation**
+The company maintains moderate pricing power, with a consolidated price mix increase of 2% ("Price mix grew 2%, primarily driven by pricing actions in the marketplace"). However, this is offset by persistent inflationary pressure on the cost side, as operating margin expansion was "partially offset by higher input costs" (Consolidated). In Asia Pacific, pricing power has softened due to "affordability initiatives" and unfavorable mix, leading to a 6% decline in price mix.
+
+**4. Supply Chain & Inventory**
+The transcript does not provide specific data on lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for Capex are not listed, the company is investing in technology and sustainable packaging to drive volume. This includes the expansion of "ultra lightweight bottles" in South Africa and India and the deployment of "AI enabled campaign[s]" in China.

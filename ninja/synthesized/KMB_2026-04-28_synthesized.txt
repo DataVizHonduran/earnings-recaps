@@ -1,0 +1,22 @@
+Ticker: KMB
+Source: KMB_2026-04-28.txt
+Generated: 2026-05-03 23:28 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Kimberly-Clark (KMB)**
+
+**1. Demand & Activity**
+Demand is showing moderate growth, characterized by "resilient consumer demand" and "solid volume-plus-mix performance." Growth is broad-based, with North America seeing "broad-based volume growth" (Organic sales +1.8%) and International Personal Care experiencing "strong volume-led growth of 4.1%."
+
+**2. Labor & Wages**
+The report contains no specific mentions of hiring difficulties, turnover, or wage inflation. However, the company notes "lower marketing, research and general expenses reflecting overhead savings" as a driver of operating profit.
+
+**3. Pricing Power & Inflation**
+Pricing power is softening as the company intentionally lowers prices to stimulate demand. Organic sales were "partially offset by lower pricing of 0.5 percent to drive trial of new products." In International Personal Care, results were "partially offset by price investments of 1.5%," leading to "negative pricing net of cost inflation." These moves are described as "planned investments to... improve price value tiers across the portfolio."
+
+**4. Supply Chain & Inventory**
+The report does not provide specific lead-time data or inventory volume levels, but it notes that adjusted gross margins were impacted by "supply chain related investments."
+
+**5. Capital Spending (Capex)**
+Capital investment is increasing robustly. Year-to-date capital spending was "$424 million compared to $204 million last year." The company is also positioning for a "generational value creation opportunity" via the acquisition of Kenvue.

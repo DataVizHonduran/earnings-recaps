@@ -1,0 +1,22 @@
+Ticker: KMX
+Source: KMX_2026-04-14.txt
+Generated: 2026-05-03 23:29 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: CarMax Inc. (KMX)**
+
+**Demand & Activity**
+Retail demand is softening, with retail used unit sales decreasing 0.8% and comparable store sales declining 1.9% ("comparable store used unit sales declined 1.9%"). Conversely, wholesale activity showed modest growth, with unit sales increasing 3.0% ("Total wholesale vehicle unit sales increased 3.0%").
+
+**Labor & Wages**
+The company is actively pursuing headcount reductions to drive efficiency. Management has increased its target for SG&A reductions to $200 million in exit rate savings by FY2027 ("increased targeted SG A reductions to $200 million... up from the prior goal of $150 million") and recently implemented a "reduction in our corporate workforce."
+
+**Pricing Power & Inflation**
+Pricing power is declining as the company implements price cuts to stimulate demand. Average retail selling prices decreased by approximately $110 per unit ("decrease in average retail selling price of approximately $110 per unit"), and retail gross profit per unit fell by $207, which management attributed to "pricing actions implemented to drive an improved sales trend." Wholesale pricing also saw a moderate decline of 3.3% per unit.
+
+**Supply Chain & Inventory**
+Vehicle acquisition remains stable, with total purchases from consumers and dealers up 0.4% ("Bought 270,000 vehicles... an increase of 0.4%"). There is a notable shift in sourcing, with consumer purchases increasing 2.5% while dealer-sourced vehicles declined 9.5%.
+
+**Capital Spending (Capex)**
+Planned investment remains robust, with projected FY2027 capital expenditures of approximately $400 million ("expect capital expenditures of approximately $400 million in fiscal 2027"). This spending is targeted toward capacity expansion, specifically four new stores, two stand-alone reconditioning auction centers, and two stand-alone auction facilities.
