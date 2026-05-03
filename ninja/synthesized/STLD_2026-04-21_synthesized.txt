@@ -1,0 +1,15 @@
+Ticker: STLD
+Source: STLD_2026-04-21.txt
+Generated: 2026-05-03 23:56 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Robust. Underlying steel demand "strengthened during the first quarter 2026" ("Underlying steel demand strengthened during the first quarter 2026"), highlighted by record steel shipments. Demand is particularly strong for long products, specifically "structural steel and railroad rail" ("Long product steel demand remains very strong"). Growth is driven by the energy, non-residential construction, automotive, and industrial sectors, as well as "manufacturing onshoring" and "infrastructure program funding" ("supported by domestic trade actions, manufacturing onshoring, infrastructure program funding"). Aluminum demand in consumer sectors also "remains strong" ("Demand for aluminum flat rolled products across the company’s consumer sectors remains strong").
+
+**Labor & Wages:** Not mentioned.
+
+**Pricing Power & Inflation:** Moderate to robust pricing power. Steel prices "continued to improve" ("Steel prices continued to improve"), with average external selling prices increasing $86 sequentially. The company is seeing metal spread expansion because "steel pricing increased more than ferrous scrap costs" ("steel pricing increased more than ferrous scrap costs"). However, the fabrication segment experienced "metal spread compression" due to "increased steel raw material input costs" ("offset by metal spread compression primarily related to increased steel raw material input costs").
+
+**Supply Chain & Inventory:** Stable to tightening. Lead times have "extended" ("lead times extended") and are currently at "strong levels" ("steel producer lead times are at strong levels"). The aluminum segment noted a "growing" supply deficit ("with the supply deficit growing").
+
+**Capital Spending (Capex):** Robust. The company invested $138 million in capital investments during Q1 ("invested $138 million in capital investments"). Significant ongoing investment is directed toward the "commissioning and startup" of aluminum operations in Mississippi and Mexico ("continuing with the successful commissioning and startup of our Columbus, Mississippi aluminum flat rolled products mill"). Future capacity additions include a third cold mill and a second CASH line, both scheduled to commission in the third quarter of 2026 ("second CASH line is also expected to commission in the third quarter 2026").

@@ -1,0 +1,25 @@
+Ticker: SHW
+Source: SHW_2026-04-28.txt
+Generated: 2026-05-03 23:54 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Sherwin-Williams (Q1 2026)**
+
+**Demand & Activity**
+Demand is generally softening across most end markets, with the company expecting "little to no recovery in most end markets this year" ("continue to expect little to no recovery in most end markets this year"). Activity is mixed by segment:
+*   **Professional:** Modest growth in residential repaint and commercial, and robust growth in protective and marine ("double-digit percentage increase in protective and marine"), though new residential is softening ("decreased by a low-single digit percentage").
+*   **Consumer/DIY:** Softening in North America ("soft DIY demand in North America, which decreased Net Sales by a low-single digit percentage").
+*   **Industrial:** Robust growth in Automotive Refinish ("increased by a double-digit percentage") and moderate growth in General Industrial and Packaging.
+
+**Labor & Wages**
+The company is seeing moderate increases in labor costs, primarily driven by strategic headcount additions to support growth and new acquisitions ("increase in employee-related and marketing costs to support higher Net Sales," "investment in additional sales reps").
+
+**Pricing Power & Inflation**
+The company maintains moderate pricing power, implementing "targeted price increases by end market and geography" to offset costs. While there were "moderating raw material costs" in Q1, the outlook remains cautious due to "continued volatility in the raw material environment" and potential inflation in "raw materials, energy, logistics and packaging."
+
+**Supply Chain & Inventory**
+The company reports moderate gains in operational efficiency, specifically noting "global supply chain efficiencies" as a contributor to segment profit in the Consumer Brands Group. No specific mentions of lead time volatility or bloated inventory were noted.
+
+**Capital Spending (Capex)**
+Investment remains focused on infrastructure and capacity. The company noted ongoing costs related to the "new global headquarters and technology center" and "costs associated with new store openings."

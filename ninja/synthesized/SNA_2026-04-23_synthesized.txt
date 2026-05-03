@@ -1,0 +1,22 @@
+Ticker: SNA
+Source: SNA_2026-04-23.txt
+Generated: 2026-05-03 23:55 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Snap-on Inc. (SNA)**
+
+**1. Demand & Activity**
+Demand is showing moderate growth overall, though it is bifurcated by customer segment. Activity is robust among "customers in critical industries" and the "specialty torque business" ("led by improved activity with customers in critical industries and in the specialty torque business"). There is modest improvement in the U.S. Tools Group ("improved activity in the U.S. Tools Group"), though this is tempered by "broad uncertainty among our technician customer base in the U.S." In the Repair Systems segment, demand from independent repair shops grew, but was offset by "lower activity with OEM dealerships" ("increased sales... to independent repair shop owners and managers were offset by lower activity with OEM dealerships").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company maintains stable pricing power, as organic sales growth—which includes "pricing changes"—contributed to a 3.4% organic sales gain ("organic sales growth... primarily reflects growth from... pricing changes"). However, margins were slightly pressured by "unfavorable currency effects" ("including 40 basis points of unfavorable currency effects").
+
+**4. Supply Chain & Inventory**
+Supply chain conditions remain unstable. Management explicitly cited "international supply chain disruptions" as a meaningful headwind ("meaningful headwinds persist, including... international supply chain disruptions"). There were no specific mentions of inventory levels (lean vs. bloated).
+
+**5. Capital Spending (Capex)**
+Capex plans are stable and targeted toward capacity and market expansion. The company projects 2026 capital expenditures to "approximate $100 million" ("we project that capital expenditures in 2026 will approximate $100 million"), with $21.2 million already incurred in Q1. These investments are aimed at expanding the professional customer base in "adjacent markets" and "additional geographies" ("developing and expanding its professional customer base... in adjacent markets, additional geographies").
