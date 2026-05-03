@@ -1,0 +1,22 @@
+Ticker: CFG
+Source: CFG_2026-04-16.txt
+Generated: 2026-05-03 22:59 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Citizens Financial Group (1Q26)**
+
+**1. Demand & Activity**
+Loan demand is showing modest growth, increasing 1% sequentially ("Loans up 1% QoQ on a spot and average basis"). Activity is specifically robust within the Commercial and Private Bank segments ("growth led by Commercial and Private Bank"). While the quarter is noted as "seasonally soft," the Private Bank continues to "grow nicely," and Capital Markets fees reached a "record first quarter" despite "heightened geopolitical tensions and uncertainty in the macro environment."
+
+**2. Labor & Wages**
+Labor costs are increasing moderately, with salaries and employee benefits up 9% year-over-year ("Salaries and employee benefits increased $62 million"). This growth is driven by strategic headcount expansion rather than general inflation, specifically "hiring related to the Private Bank and Private Wealth buildout."
+
+**3. Pricing Power & Inflation**
+The company is experiencing improved funding dynamics, with a modest decline in the cost of deposits ("Interest-bearing deposit costs decreased 16 basis points"). Net Interest Margin (NIM) expanded by 7 bps sequentially, supported by "fixed-rate asset repricing and improved funding costs." Credit quality remains stable with "favorable credit trends" and a decrease in net charge-offs ("net charge-offs of 39 bps, down 4 bps QoQ").
+
+**4. Supply Chain & Inventory**
+Not applicable. (Financial services entity).
+
+**5. Capital Spending (Capex)**
+Investment in technology and operational transformation is ongoing. The company is incurring higher "technology-related costs" and expenses to implement its "Reimagine the Bank program." Additionally, there are continued "technology investments" reflected in equipment and software spending.

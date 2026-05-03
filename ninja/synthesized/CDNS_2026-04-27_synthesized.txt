@@ -1,0 +1,22 @@
+Ticker: CDNS
+Source: CDNS_2026-04-27.txt
+Generated: 2026-05-03 22:58 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Cadence Design Systems (CDNS)**
+
+**1. Demand & Activity**
+Demand is robust and accelerating, particularly driven by AI infrastructure. The company reports "broad-based strength across all our businesses" ("broad-based strength across all our businesses") and a "record backlog of $8.0 billion" ("record backlog of $8.0 billion"). Specific growth is noted in Core EDA (up 18%), IP business (up 22%), and System Design and Analysis (up 18%). Activity is strong among "AI infrastructure and semiconductor customers" ("leading AI infrastructure and semiconductor customers") as well as "automotive and robotics markets" ("growing adoption in automotive and robotics markets").
+
+**2. Labor & Wages**
+No specific mentions of hiring difficulties, turnover, or wage pressures were provided in the text.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price increases or input cost relief. However, the company is raising its full-year revenue outlook to 17% growth ("raising our 2026 revenue outlook to 17% year-over-year growth"), suggesting strong market absorption of its AI-driven portfolio.
+
+**4. Supply Chain & Inventory**
+No specific data on lead times or inventory levels was provided. The company notes general risks regarding "supply constraints that could result in delays" ("changes in customer demands or supply constraints"), but no current disruptions were highlighted.
+
+**5. Capital Spending (Capex)**
+The company is investing in technology and capacity expansion through strategic acquisitions, specifically the "close of the Hexagon D E acquisition" ("With the close of the Hexagon D E acquisition") to capitalize on "Physical AI opportunity" ("well positioned to capitalize on the emerging Physical AI opportunity"). General "capital expenditure requirements" are listed as a standard risk factor, but no specific dollar amounts for future facilities were disclosed.

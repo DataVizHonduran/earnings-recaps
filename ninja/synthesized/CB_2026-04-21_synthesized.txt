@@ -1,0 +1,22 @@
+Ticker: CB
+Source: CB_2026-04-21.txt
+Generated: 2026-05-03 22:57 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Chubb Ltd (CB)**
+
+**1. Demand & Activity**
+Demand is robust overall, though diverging by segment and geography. Consolidated net premiums grew 10.7% ("consolidated net premiums up 10.7% to $14 billion"). Growth is particularly strong in global consumer businesses ("21% growth in our global consumer businesses, both P&C and Life") and overseas markets, with Latin America, Europe, and Asia seeing growth of 17.8%, 15.8%, and 12.1%, respectively. However, activity in large account property is softening, leading the company to intentionally reduce exposure ("reduce exposures in our Major Accounts and E&S divisions by non-renewing a substantial percentage of our shared and layered property business").
+
+**2. Labor & Wages**
+Not addressed in the provided text.
+
+**3. Pricing Power & Inflation**
+Pricing power is softening in specific commercial lines. The company reports that property and financial lines market conditions are "soft or softening," with some property segments declining "at a rapid pace." This has resulted in "inadequate price levels," prompting a strategic shift away from certain high-exposure property business. On a macro level, the company notes that geopolitical tensions in the Middle East raise the "specter globally of higher inflation and slower economic growth."
+
+**4. Supply Chain & Inventory**
+Not applicable to this business model.
+
+**5. Capital Spending (Capex)**
+Specific facility or technology spending was not detailed; however, the company is actively managing its risk capital by "purchasing additional reinsurance" to offset the reduction in shared and layered property business.

@@ -1,0 +1,22 @@
+Ticker: CAH
+Source: CAH_2026-04-30.txt
+Generated: 2026-05-03 22:56 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Cardinal Health (CAH)**
+
+**1. Demand & Activity**
+Demand is robust in pharmaceutical and specialty sectors, while medical product distribution is softening. Pharmaceutical and Specialty Solutions saw revenue increase 11%, driven by "brand and specialty pharmaceutical sales growth from existing customers." Conversely, Global Medical Products and Distribution revenue was "generally flat," reflecting "lower distribution volumes" that were only offset by internal brand growth. Growth in "Other" segments (At-Home, Nuclear, and Logistics) remains robust, with revenue increasing 31%.
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is experiencing moderate pressure from trade policy. Global Medical Products and Distribution profit decreased 36%, "primarily due to the adverse net impact of tariffs." Management noted a risk that they may "not be able to offset increased costs" or could lose customers if they raise prices to counter tariffs while competitors do not.
+
+**4. Supply Chain & Inventory**
+Supply chain conditions appear stable, though management remains cautious regarding geopolitical risks. They noted that "geopolitical events, including the recent conflict with Iran, may impact costs... or may cause supply delays or shortages." No specific data on inventory levels (lean vs. bloated) was provided.
+
+**5. Capital Spending (Capex)**
+Investment in specialized capacity is expanding. The company announced a "significant expansion of its Actinium-225 (Ac-225) production capabilities" at its Indianapolis center to "substantially [increase] supply for use in investigational therapeutic drug products and future commercial manufacturing."
