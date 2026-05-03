@@ -1,0 +1,22 @@
+Ticker: AMP
+Source: AMP_2026-04-23.txt
+Generated: 2026-05-03 22:38 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Ameriprise Financial (AMP)**
+
+**1. Demand & Activity:**
+Demand for financial advice and wealth management is robust, evidenced by a 12% increase in total client assets to $1.1 trillion ("Assets under management, administration and advisement grew to $1.7 trillion, up 12 percent"). Activity in the Retirement Protection segment is also strong, with sales increasing 10% to $1.3 billion, specifically for structured variable annuities and universal life insurance ("continued strong client demand for structured variable annuities"). However, net flows in the Asset Management segment remain negative, though they are softening/improving ("Net outflows were $5.9 billion, reflecting an improvement in both retail and institutional channels").
+
+**2. Labor & Wages:**
+The company is experiencing moderate growth in its advisor workforce, adding 61 experienced advisors this quarter ("The company added 61 experienced advisors in the quarter"). There is evidence of some turnover/attrition within the advisor network ("partially offset by elevated advisor departures").
+
+**3. Pricing Power & Inflation:**
+Pricing power appears stable, with the company reporting a new high in advisor productivity ("Adjusted operating net revenue per advisor... reached a new high of $1.2 million, up 10 percent"). In the Asset Management segment, fee rates remain stable ("The underlying fee rate remained stable"). There are no specific mentions of commodity or freight inflation, though general administrative expenses saw a slight increase due to volume and foreign exchange impacts ("General and administrative expenses increased 4 percent driven by volume-related expenses and an unfavorable foreign exchange impact").
+
+**4. Supply Chain & Inventory:**
+Not applicable to this service-based financial entity.
+
+**5. Capital Spending (Capex):**
+Investment is focused on technology and digital transformation to enhance client experience ("We continue to invest across the business... further enhancing our strong client experience, solutions, technology and AI capabilities"). General and administrative spending reflects ongoing investments for growth ("General and administrative expenses increased $15 million... primarily driven by volume-related expenses and investments for growth").

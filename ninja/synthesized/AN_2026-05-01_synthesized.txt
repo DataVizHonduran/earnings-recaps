@@ -1,0 +1,22 @@
+Ticker: AN
+Source: AN_2026-05-01.txt
+Generated: 2026-05-03 22:39 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: AutoNation (AN)**
+
+**1. Demand & Activity**
+Vehicle demand is softening, characterized by moderate declines in unit sales. Same-store new vehicle retail unit sales decreased by 9% and used vehicle retail unit sales decreased by 5% year-over-year ("expected year over year declines in unit sales"). Conversely, demand for maintenance and repair services remains robust, with record growth in After-Sales gross profit ("Record Q1 After-Sales gross profit total store growth of 5%").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is experiencing modest improvements in per-unit profitability for both new and used vehicles, which has helped offset lower sales volumes ("Sequential improvements in new and used vehicle unit profitability"). There is no specific mention of input cost relief or persistent inflationary pressures on expenses.
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory bloat; however, the company notes a "dynamic operating environment" and continues to manage its "flexible cost structure."
+
+**5. Capital Spending (Capex)**
+Capital investment remains stable, with $56 million in capital expenditures for the first quarter ("capital expenditures were $56 million"). The company is also scaling its financing arm, growing the AN Finance portfolio to $2.4 billion ("AutoNation Finance continued to scale, growing its portfolio to $2.4 billion").

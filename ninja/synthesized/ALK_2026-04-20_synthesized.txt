@@ -1,0 +1,22 @@
+Ticker: ALK
+Source: ALK_2026-04-20.txt
+Generated: 2026-05-03 22:37 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Alaska Air Group (ALK)**
+
+**1. Demand & Activity**
+Demand is generally robust, though experiencing localized softening. International long-haul demand is strong, with Seattle-Tokyo and Seoul routes seeing load factors exceeding 90% ("international long-haul expansion continues to perform strongly"). Premium and managed corporate travel are growing moderately to robustly, with corporate revenue up 19% year-over-year ("Managed corporate travel increased 19% year-over-year"). However, activity was dampened by "localized demand disruptions" due to weather in Hawaii and unrest in Puerto Vallarta.
+
+**2. Labor & Wages**
+Labor costs are seeing moderate upward pressure. The company is completing the "normalization" of a 2025 flight attendant contract ("reflecting the final quarter of normalization for Alaska's 2025 flight attendant contract"). Additionally, the company is incurring transitory costs for "crew training" to support international widebody expansion and one-time "employee recognition expense" related to systems integration.
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate pricing power, with unit revenues trending up "high single digits" for Q2, with a potential path to 10% growth ("assuming demand strength and yield trends sustain"). However, this is offset by significant inflationary pressure from energy. Fuel costs increased "materially" due to crude and refining prices, creating a substantial headwind ("April fuel is expected to be approximately $4.75 per gallon").
+
+**4. Supply Chain & Inventory**
+Not explicitly detailed regarding parts or raw materials, but fleet modernization is progressing ahead of schedule. The company has completed over 90% of Boeing 737 cabin retrofits ("over 90% of premium fleet retrofits completed ahead of peak summer travel season").
+
+**5. Capital Spending (Capex)**
+Investment is focused on technology and passenger experience. The company is executing a fleet-wide rollout of Starlink high-speed Wi-Fi, with completion expected by 2027 ("fleetwide completion expected by the end of 2027"). There is also ongoing investment in the "Alaska Accelerate" plan to build scale and a "higher quality, more durable revenue mix."
