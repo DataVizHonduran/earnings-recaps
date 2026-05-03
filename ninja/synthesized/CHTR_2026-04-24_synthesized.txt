@@ -1,0 +1,22 @@
+Ticker: CHTR
+Source: CHTR_2026-04-24.txt
+Generated: 2026-05-03 22:59 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Charter Communications (CHTR)**
+
+**1. Demand & Activity: Softening**
+Overall demand for core connectivity is softening, characterized by a moderate decline in total customer relationships (down 1.5% YoY). Residential Internet demand is weakening, with a quarterly loss of 120,000 customers ("First quarter Spectrum Internet customers declined by 120,000"). Conversely, mobile demand remains robust, with 368,000 net additions in Q1 ("First quarter Spectrum Mobile TM lines increased by 368,000"). Demand for traditional video and voice continues to decline, though the pace of video losses has moderated ("Total video customers decreased by 60,000... compared to a decline of 181,000 during the first quarter of 2025").
+
+**2. Labor & Wages: Not Addressed**
+The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation: Stable to Softening**
+Pricing power is mixed. Residential ARPU has seen a slight decline of 1.4% ("Monthly Residential Revenue per Residential Customer... $118.44, a decrease of 1.4%"), driven by a shift toward lower-priced video packages. However, the company is utilizing "promotional rate step-ups" and "rate adjustments" to offset some of these losses. Small business pricing remains stable with a modest increase of 0.9% in monthly revenue per customer.
+
+**4. Supply Chain & Inventory: Not Addressed**
+The provided text contains no specific data regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex): Robust**
+Capex is increasing significantly to support network modernization and expansion. First quarter expenditures grew 19% year-over-year to $2.9 billion ("First quarter capital expenditures totaled $2.9 billion"), with a substantial portion dedicated to line extensions ($812 million). The company is aggressively investing in its "network evolution initiative," which aims to provide symmetrical and multi-gigabit speeds across its footprint by 2027 ("Spectrum expects to complete its network evolution initiative in 2027").

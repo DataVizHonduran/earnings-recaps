@@ -1,0 +1,22 @@
+Ticker: CHD
+Source: CHD_2026-05-01.txt
+Generated: 2026-05-03 22:59 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided press release for Church & Dwight (CHD), the economic signals are as follows:
+
+**1. Demand & Activity**
+Demand appears **moderate** to **robust**, with organic sales growing by 5.0%. Growth is broad-based, though slightly stronger in the domestic market than internationally ("Organic Sales +5.0%: Domestic +5.4% | Int’l +3.7% | SPD +3.1%").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, wage increases, or headcount adjustments.
+
+**3. Pricing Power & Inflation**
+The document does not explicitly detail current pricing actions or specific input cost relief; however, the company reports that "Gross Margin and Adjusted EPS Exceed Outlook," suggesting a stable or improving cost environment relative to revenue.
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+The provided text contains no specific mentions of future capital expenditures or facility investments.
