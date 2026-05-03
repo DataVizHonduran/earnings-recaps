@@ -24,6 +24,11 @@ jobs:
 
       - run: pip install huggingface_hub
 
+      - name: Configure git
+        run: |
+          git config --local user.email "alberto.boquin@gmail.com"
+          git config --local user.name "Alberto Jose Boquin"
+
       - name: Run Beige Book synthesis
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
