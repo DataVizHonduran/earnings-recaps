@@ -274,5 +274,299 @@
     "company": "MOLINA HEALTHCARE, INC.",
     "date": "2026-04-22",
     "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "MSFT",
+    "company": "MICROSOFT CORP",
+    "date": "2026-04-29",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "IFF",
+    "company": "INTERNATIONAL FLAVORS & FRAGRANCES INC",
+    "date": "2026-02-11",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "HST",
+    "company": "HOST HOTELS & RESORTS, INC.",
+    "date": "2026-02-18",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "CF",
+    "company": "CF Industries Holdings, Inc.",
+    "date": "2026-02-18",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "VMC",
+    "company": "Vulcan Materials CO",
+    "date": "2026-04-29",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "AMAT",
+    "company": "APPLIED MATERIALS INC /DE",
+    "date": "2026-02-12",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "TRGP",
+    "company": "Targa Resources Corp.",
+    "date": "2026-03-02",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "date": "2026-04-22",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "DTE",
+    "company": "DTE ENERGY CO",
+    "date": "2026-05-01",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "GOOGL",
+    "company": "Alphabet Inc.",
+    "date": "2026-04-29",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "EMR",
+    "company": "EMERSON ELECTRIC CO",
+    "date": "2026-02-13",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "LH",
+    "company": "LABCORP HOLDINGS INC.",
+    "date": "2026-04-30",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "MMM",
+    "company": "3M CO",
+    "date": "2026-04-21",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "WY",
+    "company": "WEYERHAEUSER CO",
+    "date": "2026-04-30",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "DIS",
+    "company": "Walt Disney Co",
+    "date": "2026-03-03",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "USB",
+    "company": "US BANCORP DE",
+    "date": "2026-04-16",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "NUE",
+    "company": "NUCOR CORP",
+    "date": "2026-04-27",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "SWKS",
+    "company": "SKYWORKS SOLUTIONS, INC.",
+    "date": "2026-02-03",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "MAR",
+    "company": "MARRIOTT INTERNATIONAL INC /MD/",
+    "date": "2026-02-20",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "AEP",
+    "company": "AMERICAN ELECTRIC POWER CO INC",
+    "date": "2026-04-29",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "VICI",
+    "company": "VICI PROPERTIES INC.",
+    "date": "2026-04-29",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "PFGC",
+    "company": "Performance Food Group Co",
+    "date": "2026-02-19",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "TT",
+    "company": "Trane Technologies plc",
+    "date": "2026-04-30",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "KR",
+    "company": "KROGER CO",
+    "date": "2026-03-05",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "WDC",
+    "company": "WESTERN DIGITAL CORP",
+    "date": "2026-04-30",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "SYY",
+    "company": "SYSCO CORP",
+    "date": "2026-04-28",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "AMGN",
+    "company": "AMGEN INC",
+    "date": "2026-04-30",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "LOW",
+    "company": "LOWES COMPANIES INC",
+    "date": "2026-02-25",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "KLAC",
+    "company": "KLA CORP",
+    "date": "2026-04-29",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "AN",
+    "company": "AUTONATION, INC.",
+    "date": "2026-05-01",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "LMT",
+    "company": "LOCKHEED MARTIN CORP",
+    "date": "2026-04-23",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "HON",
+    "company": "HONEYWELL INTERNATIONAL INC",
+    "date": "2026-04-23",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "XRAY",
+    "company": "DENTSPLY SIRONA Inc.",
+    "date": "2026-02-26",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "VTRS",
+    "company": "Viatris Inc",
+    "date": "2026-02-26",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "ELV",
+    "company": "Elevance Health, Inc.",
+    "date": "2026-04-22",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "INTU",
+    "company": "INTUIT INC.",
+    "date": "2026-02-26",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "DG",
+    "company": "DOLLAR GENERAL CORP",
+    "date": "2026-03-24",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "FICO",
+    "company": "FAIR ISAAC CORP",
+    "date": "2026-04-28",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "MET",
+    "company": "METLIFE INC",
+    "date": "2026-03-05",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "LNT",
+    "company": "ALLIANT ENERGY CORP",
+    "date": "2026-05-01",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "AVB",
+    "company": "AVALONBAY COMMUNITIES INC",
+    "date": "2026-04-28",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "FSLR",
+    "company": "FIRST SOLAR, INC.",
+    "date": "2026-04-30",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "CRM",
+    "company": "Salesforce, Inc.",
+    "date": "2026-03-16",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "HPE",
+    "company": "Hewlett Packard Enterprise Co",
+    "date": "2026-04-03",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "MTCH",
+    "company": "Match Group, Inc.",
+    "date": "2026-02-17",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "LW",
+    "company": "Lamb Weston Holdings, Inc.",
+    "date": "2026-04-01",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "CMI",
+    "company": "CUMMINS INC",
+    "date": "2026-02-05",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "CB",
+    "company": "Chubb Ltd",
+    "date": "2026-04-21",
+    "label": "PRESS_RELEASE"
+  },
+  {
+    "ticker": "EOG",
+    "company": "EOG RESOURCES INC",
+    "date": "2026-02-24",
+    "label": "PRESS_RELEASE"
   }
 ]

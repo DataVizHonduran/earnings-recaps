@@ -1,0 +1,14 @@
+Company: HONEYWELL INTERNATIONAL INC
+Filed: 2026-04-23
+Type: PRESS_RELEASE
+Source: https://www.sec.gov/Archives/edgar/data/773840/000077384026000058/exhibit23112312025aprconse.htm
+
+EX-23.1
+ 2
+ exhibit23112312025aprconse.htm
+ EX-23.1
+ 
+ 
+ 
+ 
+ Document EXHIBIT 23.1 CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM We consent to the incorporation by reference in Registration Statement Nos. 033-55425, 333-22355, 333-101455, and 333-282810 on Form S-3 and Registration Statement Nos. 333-49280, 333-136083, 333-146932, 333-148995, 333-175260, 333-195331, 333-210889, 333-210899 and 333-228733 on Form S-8 of our report dated February 17, 2026 (April 23, 2026, as to the change in segment reporting disclosed in Notes 2, 3, 4, 8 and 22), relating to the consolidated financial statements of Honeywell International Inc. and subsidiaries and the effectiveness of the Honeywell International Inc. and subsidiaries internal control over financial reporting appearing in this Current Report on Form 8-K of Honeywell International Inc. dated April 23, 2026. s Deloitte Touche LLP Charlotte, North Carolina April 23, 2026
