@@ -1,0 +1,6523 @@
+Ticker: SBAC
+Company: SBA COMMUNICATIONS CORP
+Filed: 2026-04-29
+Type: PRESS_RELEASE
+Source: https://www.sec.gov/Archives/edgar/data/1034054/000119312526191545/d49075dex991.htm
+
+EX-99.1
+ 2
+ d49075dex991.htm
+ EX-99.1
+ 
+ 
+ EX-99.1 
+ 
+ 
+
+ 
+ Exhibit 99.1 
+ 
+
+ 
+ FOR IMMEDIATE RELEASE 
+ SBA Communications Corporation Reports First Quarter 2026 Results; 
+ Updates Full Year 2026 Outlook; and Declares Quarterly Cash Dividend 
+ Boca Raton, Florida, April 29, 2026 (BUSINESS NEWSWIRE) — SBA Communications Corporation (Nasdaq: SBAC) ( SBA or the
+ Company ) today reported results for the quarter ended March 31, 2026. Highlights of the first quarter include: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income attributable to SBA of $184.8 million or $1.74 per share 
+ 
+ 
+ 
+ 
+ 
+ 
+ Industry-leading AFFO per share of $3.03 
+ 
+ 
+ 
+ 
+ 
+ 
+ Increased full year 2026 outlook across all key metrics 
+ 
+ 
+ 
+ 
+ 
+ 
+ Company-wide Tower Cash Flow margin of approximately 80% 
+ In addition, the Company announced today that its Board of Directors has declared a quarterly cash dividend of $1.25 per share of the Company s
+Class A Common Stock. The distribution is payable June 17, 2026 to the shareholders of record at the close of business on May 22, 2026. 
+ We had a solid start to 2026, with positive first quarter financial and operating results, commented Brendan Cavanagh, President and Chief
+Executive Officer. Carrier activity remained steady globally, as our customers continued to focus on expanding and densifying their networks, as well as upgrading sites with new spectrum bands and technologies. In addition, our domestic
+leasing backlogs increased during the quarter. These favorable results and positive movement in foreign exchange rates have allowed us to increase our full year outlook for each of our key financial metrics from the levels we provided in late
+February. During the quarter, we also continued to invest in expanding our portfolio through new tower builds across our markets, with increasing production particularly under our Central America build to suit agreement with Millicom International.
+We anticipate seeing this production grow steadily throughout 2026. Our balance sheet also remains strong as we ended the quarter with net debt to Adjusted EBITDA of 6.6x, in the middle of our target range of 6.0x to 7.0x, notwithstanding the full
+removal of all EchoStar revenue from our reported results as of the beginning of the year. Our solid operating results and strong balance sheet have allowed us to continue growing our dividend at the highest pace in the industry. Our declared second
+quarter dividend still only represents approximately 41% of AFFO in our 2026 outlook, leaving us with significant capital available for additional investment into the business. Our company continues to perform well, and we are excited about the rest
+of 2026. 
+ 1 
+
+ 
+
+ 
+ 
+
+ 
+ Operating Results 
+ The table below details select financial results for the three months ended March 31, 2026 and comparisons to the prior year period. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q1 2026 
+ 
+ 
+ Q1 2025 
+ 
+ 
+ $ Change 
+ 
+ 
+ % Change 
+ 
+ 
+ % Change excluding FX (1) 
+ 
+ 
+ Consolidated 
+ 
+ ($ in millions, except per share amounts) 
+ 
+
+ 
+ Site leasing revenue 
+ 
+ $ 
+ 656.1 
+ 
+ 
+ $ 
+ 616.2 
+ 
+ 
+ $ 
+ 39.9 
+ 
+ 
+ 
+ 6.5 
+ % 
+ 
+ 
+ 4.5 
+ % 
+ 
+ Site development revenue 
+ 
+ 
+ 47.3 
+ 
+ 
+ 
+ 48.0 
+ 
+ 
+ 
+ (0.7 
+ ) 
+ 
+ 
+ (1.6 
+ %) 
+ 
+ 
+ (1.6 
+ %) 
+ 
+ Site leasing segment operating profit
+ (1) 
+ 
+ 
+ 524.2 
+ 
+ 
+ 
+ 500.7 
+ 
+ 
+ 
+ 23.5 
+ 
+ 
+ 
+ 4.7 
+ % 
+ 
+ 
+ 3.1 
+ % 
+ 
+ Tower cash flow (2) 
+ 
+ 
+ 519.0 
+ 
+ 
+ 
+ 497.8 
+ 
+ 
+ 
+ 21.2 
+ 
+ 
+ 
+ 4.3 
+ % 
+ 
+ 
+ 2.5 
+ % 
+ 
+ Net cash interest expense 
+ 
+ 
+ 123.3 
+ 
+ 
+ 
+ 93.4 
+ 
+ 
+ 
+ 29.9 
+ 
+ 
+ 
+ 32.1 
+ % 
+ 
+ 
+ 32.3 
+ % 
+ 
+ Net income (3) 
+ 
+ 
+ 184.9 
+ 
+ 
+ 
+ 217.9 
+ 
+ 
+ 
+ (33.0 
+ ) 
+ 
+ 
+ (15.1 
+ %) 
+ 
+ 
+ (6.7 
+ %) 
+ 
+ Earnings per share — diluted 
+ 
+ 
+ 1.74 
+ 
+ 
+ 
+ 2.04 
+ 
+ 
+ 
+ (0.30 
+ ) 
+ 
+ 
+ (14.7 
+ %) 
+ 
+ 
+ (4.7 
+ %) 
+ 
+ Adjusted EBITDA (2) 
+ 
+ 
+ 475.4 
+ 
+ 
+ 
+ 457.3 
+ 
+ 
+ 
+ 18.1 
+ 
+ 
+ 
+ 4.0 
+ % 
+ 
+ 
+ 2.3 
+ % 
+ 
+ AFFO (2) 
+ 
+ 
+ 321.7 
+ 
+ 
+ 
+ 343.9 
+ 
+ 
+ 
+ (22.2 
+ ) 
+ 
+ 
+ (6.5 
+ %) 
+ 
+ 
+ (8.6 
+ %) 
+ 
+ AFFO per share (2) 
+ 
+ 
+ 3.03 
+ 
+ 
+ 
+ 3.18 
+ 
+ 
+ 
+ (0.15 
+ ) 
+ 
+ 
+ (4.7 
+ %) 
+ 
+ 
+ (6.9 
+ %) 
+ 
+ 
+ 
+ (1) 
+ Site leasing contributed 98.5% and 98.1% of the Company s total operating profit in the first quarter of
+2026 and 2025, respectively. 
+ 
+ 
+ (2) 
+ See the reconciliations and other disclosures under Non-GAAP 
+Financial Measures later in this press release. 
+ 
+ 
+ (3) 
+ Net income includes a $10.1 million gain and $36.0 million gain, net of taxes, on the
+currency-related remeasurement of intercompany loans with foreign subsidiaries which are denominated in a currency other than the subsidiaries functional currencies for the first quarter of 2026 and 2025, respectively. 
+ The table below details select financial results by segment for the three months ended March 31, 2026 and comparisons to the prior year period. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q1 2026 
+ 
+ 
+ Q1 2025 
+ 
+ 
+ $ Change 
+ 
+ 
+ % Change 
+ 
+ 
+ % Change excluding FX 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+
+ 
+ Domestic site leasing revenue 
+ 
+ $ 
+ 450.3 
+ 
+ 
+ $ 
+ 461.0 
+ 
+ 
+ $ 
+ (10.7 
+ ) 
+ 
+ 
+ (2.3 
+ %) 
+ 
+ 
+ (2.3 
+ %) 
+ 
+ Domestic cash site leasing revenue 
+(1) 
+ 
+ 
+ 448.7 
+ 
+ 
+ 
+ 459.9 
+ 
+ 
+ 
+ (11.2 
+ ) 
+ 
+ 
+ (2.4 
+ %) 
+ 
+ 
+ (2.4 
+ %) 
+ 
+ Domestic site leasing segment operating profit 
+ 
+ 
+ 379.7 
+ 
+ 
+ 
+ 392.7 
+ 
+ 
+ 
+ (13.0 
+ ) 
+ 
+ 
+ (3.3 
+ %) 
+ 
+ 
+ (3.3 
+ %) 
+ 
+ Domestic site leasing tower cash flow 
+(1) 
+ 
+ 
+ 376.5 
+ 
+ 
+ 
+ 389.5 
+ 
+ 
+ 
+ (13.0 
+ ) 
+ 
+ 
+ (3.3 
+ %) 
+ 
+ 
+ (3.3 
+ %) 
+ 
+ Int l site leasing revenue 
+ 
+ 
+ 205.8 
+ 
+ 
+ 
+ 155.2 
+ 
+ 
+ 
+ 50.6 
+ 
+ 
+ 
+ 32.6 
+ % 
+ 
+ 
+ 24.8 
+ % 
+ 
+ Int l cash site leasing revenue 
+(1) 
+ 
+ 
+ 202.0 
+ 
+ 
+ 
+ 155.0 
+ 
+ 
+ 
+ 47.0 
+ 
+ 
+ 
+ 30.3 
+ % 
+ 
+ 
+ 22.2 
+ % 
+ 
+ Int l site leasing segment operating profit 
+ 
+ 
+ 144.5 
+ 
+ 
+ 
+ 108.0 
+ 
+ 
+ 
+ 36.5 
+ 
+ 
+ 
+ 33.8 
+ % 
+ 
+ 
+ 26.2 
+ % 
+ 
+ Int l site leasing tower cash flow 
+(1) 
+ 
+ 
+ 142.5 
+ 
+ 
+ 
+ 108.3 
+ 
+ 
+ 
+ 34.2 
+ 
+ 
+ 
+ 31.6 
+ % 
+ 
+ 
+ 23.7 
+ % 
+ 
+ 
+ 
+ (1) 
+ See the reconciliations and other disclosures under Non-GAAP 
+Financial Measures later in this press release. 
+ 2 
+
+ 
+
+ 
+ 
+
+ 
+ The table below details key margins for the three months ended March 31, 2026 and comparisons to the
+prior year period. 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q1 2026 
+ 
+ 
+ Q1 2025 
+ 
+
+ 
+ Tower Cash Flow Margin (1) 
+ 
+ 
+ 79.8 
+ % 
+ 
+ 
+ 80.9 
+ % 
+ 
+ Adjusted EBITDA Margin (1) 
+ 
+ 
+ 68.1 
+ % 
+ 
+ 
+ 69.0 
+ % 
+ 
+ 
+ 
+ (1) 
+ See the reconciliations and other disclosures under Non-GAAP 
+Financial Measures later in this press release. Investing Activities 
+ During the first quarter of 2026, SBA acquired 10 communication sites, as well as the rights to land underneath approximately 3,900 communication sites in
+Guatemala, for total cash consideration of $133.0 million. SBA also built 80 towers during the first quarter of 2026. As of March 31, 2026, SBA owned or operated 46,358 communication sites, 17,378 of which are located in the United States
+and its territories and 28,980 of which are located internationally. In addition, the Company spent $10.4 million to purchase land and easements and to extend lease terms. Total cash capital expenditures for the first quarter of 2026 were
+$191.9 million, consisting of $12.7 million of non-discretionary cash capital expenditures (tower maintenance and general corporate) and $179.2 million of discretionary cash capital expenditures
+(new tower builds, tower augmentations, acquisitions, and purchasing land and easements). As of the date of this press release, the Company, subsequent
+to quarter end, purchased or is under contract to purchase 56 communication sites for an aggregate consideration of $36.9 million in cash, which it expects to close by the end of the third quarter of 2026. 
+ Financing Activities and Liquidity SBA ended the first
+quarter of 2026 with $13.0 billion of total debt, $10.0 billion of total secured debt, $0.4 billion of cash and cash equivalents, short-term restricted cash, and
+ short-term investments, and $12.6 billion of Net Debt. SBA s Net Debt and Net Secured Debt to Annualized Adjusted EBITDA Leverage Ratios were 6.6x and 5.0x, respectively. 
+ On January 9, 2026, the Company, using borrowings from the Revolving Credit Facility, repaid the aggregate principal amount of the 2020-1C Tower Securities ($750.0 million). As of the date of this press release, the Company had $1.1 billion
+outstanding under its $2.0 billion Revolving Credit Facility. As of the date of this press release, the Company had $1.1 billion of
+authorization remaining under its stock repurchase plan. In the first quarter of 2026, the Company declared and paid a cash dividend of
+$135.2 million. Outlook The Company is
+updating its full year 2026 Outlook for anticipated results. The 2026 Outlook provided is based on a number of assumptions that the Company believes are reasonable at the time of this press release. Information regarding potential risks that could
+cause the actual results to differ from these forward-looking statements is set forth below and in the Company s filings with the Securities and Exchange Commission. 
+ 3 
+
+ 
+
+ 
+ 
+
+ 
+ The Company s full year 2026 Outlook assumes the acquisitions of only those communication sites under
+contract which are expected to close in 2026 at the time of this press release. The Company may spend additional capital in 2026 on acquiring revenue producing assets not yet identified or under contract, the impact of which is not reflected in the
+2026 Outlook. The 2026 Outlook also does not contemplate any additional repurchases of the Company s stock or new debt financings during 2026 (other than the refinancing of the 2021-1C Tower Securities
+as discussed below), although the Company may ultimately spend capital to repurchase stock or issue new debt during the remainder of the year. The
+Company s 2026 Outlook assumes an average foreign currency exchange rate of 5.05 Brazilian Reais to 1.0 U.S. Dollar, 2,560 Tanzanian Shillings to 1.0 U.S. Dollar, and 16.40 South African Rand to 1.0 U.S. Dollar throughout the
+last three quarters of 2026. 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ (in millions, except per share amounts) 
+ 
+ Full Year 2026 
+ 
+ 
+ Change from February 26, 2026 Outlook (7) 
+ 
+ 
+ Change from February 26, 2026 Outlook Excluding FX (7) 
+ 
+
+ 
+ Site leasing revenue 
+ 
+ $ 
+ 2,649.0 
+ 
+ 
+ 
+ to 
+ 
+ 
+ $ 
+ 2,674.0 
+ 
+ 
+ $ 
+ 24.0 
+ 
+ 
+ $ 
+ 18.0 
+ 
+ 
+ Site development revenue 
+ 
+ $ 
+ 190.0 
+ 
+ 
+ 
+ to 
+ 
+ 
+ $ 
+ 210.0 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ Total revenues 
+ 
+ $ 
+ 2,839.0 
+ 
+ 
+ 
+ to 
+ 
+ 
+ $ 
+ 2,884.0 
+ 
+ 
+ $ 
+ 24.0 
+ 
+ 
+ $ 
+ 18.0 
+ 
+ 
+ Tower Cash Flow (1) 
+ 
+ $ 
+ 2,092.0 
+ 
+ 
+ 
+ to 
+ 
+ 
+ $ 
+ 2,112.0 
+ 
+ 
+ $ 
+ 10.0 
+ 
+ 
+ $ 
+ 5.0 
+ 
+ 
+ Adjusted EBITDA (1) 
+ 
+ $ 
+ 1,921.0 
+ 
+ 
+ 
+ to 
+ 
+ 
+ $ 
+ 1,941.0 
+ 
+ 
+ $ 
+ 9.0 
+ 
+ 
+ $ 
+ 5.0 
+ 
+ 
+ Net cash interest expense (2)(3) 
+ 
+ $ 
+ 492.0 
+ 
+ 
+ 
+ to 
+ 
+ 
+ $ 
+ 500.0 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ Non-discretionary cash capital expenditures (4) 
+ 
+ $ 
+ 67.0 
+ 
+ 
+ 
+ to 
+ 
+ 
+ $ 
+ 77.0 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ AFFO (1) 
+ 
+ $ 
+ 1,269.0 
+ 
+ 
+ 
+ to 
+ 
+ 
+ $ 
+ 1,317.0 
+ 
+ 
+ $ 
+ 9.0 
+ 
+ 
+ $ 
+ 5.0 
+ 
+ 
+ AFFO per share (1) (5) 
+ 
+ $ 
+ 11.93 
+ 
+ 
+ 
+ to 
+ 
+ 
+ $ 
+ 12.38 
+ 
+ 
+ $ 
+ 0.09 
+ 
+ 
+ $ 
+ 0.05 
+ 
+ 
+ Discretionary cash capital expenditures
+ (6) 
+ 
+ $ 
+ 430.0 
+ 
+ 
+ 
+ to 
+ 
+ 
+ $ 
+ 450.0 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ 
+ 
+ (1) 
+ See the reconciliation of this non-GAAP financial measure presented
+below under Non-GAAP Financial Measures. 
+ 
+ 
+ (2) 
+ Net cash interest expense is defined as interest expense less interest income. Net cash interest expense does
+not include amortization of deferred financing fees or non-cash interest expense. 
+ 
+ 
+ (3) 
+ For purposes of the Outlook, the Company has assumed that the $1,165.0 million 2021-1C Tower Securities (which have an anticipated repayment date of November 9, 2026) would be refinanced prior to the fourth quarter at a fixed rate of 5.25%; however, the Company does not currently have any
+specific refinancing plans and the actual date and rate of any refinancing is subject to market conditions. 
+ 
+ 
+ (4) 
+ Consists of tower maintenance and general corporate capital expenditures. 
+ 
+ 
+ (5) 
+ Outlook for AFFO per share is calculated by dividing the Company s outlook for AFFO by an assumed
+weighted average number of diluted common shares of 106.4 million. Outlook does not include the impact of any potential future repurchases of the Company s stock during 2026. 
+ 
+ 
+ (6) 
+ Consists of new tower builds, tower augmentations, communication site acquisitions and ground lease purchases.
+Does not include easements or payments to extend lease terms and expenditures for acquisitions of revenue producing assets not under contract at the date of this press release. 
+ 
+ 
+ (7) 
+ Changes from prior outlook are measured based on the midpoint of outlook ranges provided.
+ 
+ 4 
+
+ 
+
+ 
+ 
+
+ 
+ Bridge of 2025 Total Site Leasing Revenue to 2026 Outlook 
+ The table below presents a bridge of the Company s 2025 Site Leasing Revenue to the Company s 2026 Outlook for 2026 Site Leasing Revenue by
+reportable segment. 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ Consolidated 
+ 
+ 
+ Domestic 
+ 
+ 
+ International 
+ 
+
+ 
+ 2025 Total Site Leasing Revenue 
+ 
+ 
+ $2,571 
+ 
+ 
+ 
+ $1,866 
+ 
+ 
+ 
+ $705 
+ 
+ 
+ (+) New Leases and Amendments 
+ 
+ 
+ 52 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 58 
+ 
+ 
+ 
+ 33 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 37 
+ 
+ 
+ 
+ 19 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 21 
+ 
+ 
+ (+) Escalations 
+ 
+ 
+ 71 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 74 
+ 
+ 
+ 
+ 51 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 52 
+ 
+ 
+ 
+ 20 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 22 
+ 
+ 
+ (-) Sprint Consolidation Churn 
+ 
+ 
+ (56 
+ ) 
+ 
+ 
+ to 
+ 
+ 
+ 
+ (55 
+ ) 
+ 
+ 
+ (56 
+ ) 
+ 
+ 
+ to 
+ 
+ 
+ 
+ (55 
+ ) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ — 
+ 
+ 
+ (-) EchoStar Churn 
+ 
+ 
+ (56 
+ ) 
+ 
+ 
+ to 
+ 
+ 
+ 
+ (56 
+ ) 
+ 
+ 
+ (56 
+ ) 
+ 
+ 
+ to 
+ 
+ 
+ 
+ (56 
+ ) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ — 
+ 
+ 
+ (-) Regular Churn 
+ 
+ 
+ (64 
+ ) 
+ 
+ 
+ to 
+ 
+ 
+ 
+ (57 
+ ) 
+ 
+ 
+ (24 
+ ) 
+ 
+ 
+ to 
+ 
+ 
+ 
+ (21 
+ ) 
+ 
+ 
+ (40 
+ ) 
+ 
+ 
+ to 
+ 
+ 
+ 
+ (36 
+ ) 
+ 
+ (+) Non-Organic Revenue (1) 
+ 
+ 
+ 86 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 86 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 82 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 82 
+ 
+ 
+ (+ / -) Straight-line Revenue 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ (7 
+ ) 
+ 
+ 
+ to 
+ 
+ 
+ 
+ (4 
+ ) 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ (+ / -) FX 
+ 
+ 
+ 40 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 40 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 40 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 40 
+ 
+ 
+ (+ / -) Other (2) 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ (7 
+ ) 
+ 
+ 
+ to 
+ 
+ 
+ 
+ (5 
+ ) 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 Total Site Leasing Revenue 
+ 
+ $ 
+ 2,649 
+ 
+ 
+ 
+ to 
+ 
+ 
+ $ 
+ 2,674 
+ 
+ 
+ $ 
+ 1,804 
+ 
+ 
+ 
+ to 
+ 
+ 
+ $ 
+ 1,818 
+ 
+ 
+ $ 
+ 845 
+ 
+ 
+ 
+ to 
+ 
+ 
+ $ 
+ 856 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ Includes contributions from acquisitions and new infrastructure builds. 
+ 
+ 
+ (2) 
+ Includes pass-through reimbursable expenses, amortization of capital contributions for tower augmentations,
+managed and non-macro business and other miscellaneous items. Conference Call Information
+ SBA Communications Corporation will host a conference call on Wednesday, April 29, 2026 at 5:00 PM (EDT) to discuss the quarterly results. The
+call may be accessed as follows: 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ When: 
+ 
+ Wednesday, April 29, 2026 at 5:00 PM (EDT) 
+ 
+ Dial-in Number: 
+ 
+ (202) 735-3323 
+ 
+ Access Code: 
+ 
+ 7690149 
+ 
+ Conference Name: 
+ 
+ SBA First quarter 2026 results 
+ 
+ Replay Available: 
+ 
+ April 30, 2026 at 12:01 AM to May 29, 2026 at 12:00 AM (TZ: Eastern) 
+ 
+ Replay Number: 
+ 
+ (833) 370-9994 
+ 
+ Internet Access: 
+ 
+ www.sbasite.com 
+ Information Concerning Forward-Looking Statements 
+ This press release and the Company s earnings call include forward-looking statements, including statements regarding the Company s expectations or
+beliefs regarding (i) its outlook for financial and operational performance in 2026, the assumptions it made and the drivers contributing to its full year 2026 Outlook, (ii) the drivers of growth for wireless antennae in the U.S. and in
+each of our international markets, the ability of the Company to capitalize on such growth and the impact on the Company s future financial and operational outlook, (iii) the ability to execute its growth strategies and the impacts to its
+financial performance, (iv) the timing of closing for currently pending acquisitions, (v) tower portfolio growth and its long-term growth potential, including the drivers of its organic growth, (vi) its capital allocation policy, including
+the use of capital for portfolio growth, share repurchases, and dividends, (vii) the strength of its balance sheet and ability to generate significant free cash flow, (viii) its customers ongoing network investments and new spectrum and
+future auctions, (ix) domestic and international churn in 2026 and future years, (x) its potential investment grade bond issuance and the benefits of being an investment grade issuer, (xi) mobile edge as a revenue driver, (xii) its leading
+position in Central America, and (xiii) backlogs and carrier activity for the remainder of 2026. 
+ 5 
+
+ 
+
+ 
+ 
+
+ 
+ The Company wishes to caution readers that these forward-looking statements may be affected by the risks and
+uncertainties in the Company s business as well as other important factors that may have affected and could in the future affect the Company s actual results and could cause the Company s actual results for subsequent periods to
+differ materially from those expressed in any forward-looking statement made by or on behalf of the Company. With respect to the Company s expectations regarding all of these statements, including its financial and operational guidance, such
+risk factors include, but are not limited to: (1) the impact of macro-economic conditions, including high interest rates, unemployment rates, tariffs, inflation, consumer confidence and financial market volatility on (a) the ability and
+willingness of wireless service providers to maintain or increase their capital expenditures, (b) the Company s business and results of operations, and on foreign currency exchange rates and (c) consumer discretionary income and
+demand for wireless services, (2) the Company s ability to recognize anticipated revenues, tower cash flows and other anticipated benefits from its acquisitions, (3) the economic climate for the wireless communications industry in
+general and the wireless communications infrastructure providers in the United States and in the Company s other international markets; (4) the Company s ability to accurately identify and manage any risks associated with its
+acquired sites, to effectively integrate such sites into its business and to achieve the anticipated financial results; (5) the Company s ability to secure and retain as many site leasing tenants as planned at anticipated lease rates;
+(6) the Company s ability to manage expenses and cash capital expenditures at anticipated levels; (7) the impact of continued consolidation among wireless service providers in the U.S. and internationally, on the Company s
+leasing revenue, including churn; (8) the Company s ability to successfully manage the risks associated with international operations, including risks associated with foreign currency exchange rates; (9) the Company s ability
+to secure and deliver anticipated services business at contemplated margins; (10) the Company s ability to acquire land underneath towers on terms that are accretive; (11) the Company s ability to obtain future financing at
+commercially reasonable rates or at all; (12) the Company s ability to achieve the new builds targets included in its anticipated annual portfolio growth goals, which will depend, among other things, on obtaining zoning and regulatory
+approvals, availability and cost of labor and supplies, and other factors beyond the Company s control that could affect the Company s ability to build additional towers in 2026; (13) whether technology upgrades, spectrum auctions,
+consumer demand for fixed wireless and other developments will drive demand in the US and in the Company s other international markets for wireless services, wireless antennas and towers as anticipated; (14) the ability of our customers
+to perform under their financial and contractual obligations; and (15) the Company s ability to meet its total portfolio growth, which will depend, in addition to the new build risks, on the Company s ability to identify and acquire
+sites at prices and upon terms that will provide accretive portfolio growth, competition from third parties for such acquisitions and our ability to negotiate the terms of, and acquire, these potential tower portfolios on terms that meet our
+internal return criteria. With respect to its expectations regarding the ability to close, and realize the benefits of, pending acquisitions, these
+factors also include each party satisfactorily completing due diligence, the ability to receive required regulatory approval, the ability and willingness of each party to fulfill their respective closing conditions and their contractual obligations
+and, with respect to the Company s acquisitions, the amount and quality of due diligence that the Company is able to complete prior to closing of any acquisition and the availability of cash on hand or borrowing capacity under the Revolving
+Credit Facility to fund the consideration, its ability to accurately anticipate the future performance of the acquired towers and any challenges or costs associated with the integration of such towers. With respect to the repurchases under the
+Company s stock repurchase program, the amount of shares repurchased, if any, and the timing of such repurchases will depend on, among other things, the trading price of the Company s common stock, which may be positively or negatively
+impacted by the repurchase program, market and business conditions, the availability of stock, the Company s financial performance or determinations following the date of this announcement in order to use the Company s funds for other
+purposes. Furthermore, the Company s forward-looking statements and its 2026 outlook assumes that the Company continues to qualify for treatment as a REIT for U.S. federal income tax purposes and that the Company s business is currently
+operated in a manner that complies with the REIT rules and that it will be able to continue to comply with and conduct its business in accordance with such rules. In addition, these forward-looking statements and the information in this press
+release is qualified in its entirety by cautionary statements and risk factor disclosures contained in the Company s Securities and Exchange Commission filings, including the Company s most recently filed Annual Report on Form 10-K. 
+ 6 
+
+ 
+
+ 
+ 
+
+ 
+ This press release contains non-GAAP financial measures.
+Reconciliation of each of these non-GAAP financial measures and the other Regulation G information is presented below under Non-GAAP Financial Measures. 
+ This press release will be available on our website at www.sbasite.com . 
+ About SBA Communications Corporation SBA Communications
+Corporation is a leading independent owner and operator of wireless communications infrastructure including towers, buildings, rooftops, distributed antenna systems (DAS) and small cells. With a portfolio of more than 46,000 communications sites
+throughout the Americas and in Africa, SBA is listed on NASDAQ under the symbol SBAC. Our organization is part of the S&P 500 and one of the top Real Estate Investment Trusts (REITs) by market capitalization. For more information, please visit:
+ www.sbasite.com . Contacts Louis Friend, CFA
+ VP, Finance & Capital Markets 561-322-7850 Maria Alexandra Velez 
+ VP, Corporate Affairs 561-981-7352 
+ 7 
+
+ 
+
+ 
+ 
+
+ 
+ CONSOLIDATED STATEMENTS OF OPERATIONS 
+ (unaudited) (in thousands, except per share amounts) 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the three months ended March 31, 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+
+ 
+ Revenues: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Site leasing 
+ 
+ $ 
+ 656,149 
+ 
+ 
+ $ 
+ 616,209 
+ 
+ 
+ Site development 
+ 
+ 
+ 47,289 
+ 
+ 
+ 
+ 48,039 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total revenues 
+ 
+ 
+ 703,438 
+ 
+ 
+ 
+ 664,248 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of revenues (exclusive of depreciation, accretion, and amortization shown below): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of site leasing 
+ 
+ 
+ 131,912 
+ 
+ 
+ 
+ 115,478 
+ 
+ 
+ Cost of site development 
+ 
+ 
+ 39,424 
+ 
+ 
+ 
+ 38,188 
+ 
+ 
+ Selling, general, and administrative expenses
+ (1) 
+ 
+ 
+ 70,548 
+ 
+ 
+ 
+ 66,219 
+ 
+ 
+ Acquisition and new business initiatives related adjustments and expenses 
+ 
+ 
+ 8,090 
+ 
+ 
+ 
+ 7,379 
+ 
+ 
+ Asset impairment and decommission costs 
+ 
+ 
+ 29,300 
+ 
+ 
+ 
+ 37,026 
+ 
+ 
+ Depreciation, accretion, and amortization 
+ 
+ 
+ 81,316 
+ 
+ 
+ 
+ 65,048 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total operating expenses 
+ 
+ 
+ 360,590 
+ 
+ 
+ 
+ 329,338 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income 
+ 
+ 
+ 342,848 
+ 
+ 
+ 
+ 334,910 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other income (expense): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest income 
+ 
+ 
+ 5,207 
+ 
+ 
+ 
+ 10,780 
+ 
+ 
+ Interest expense 
+ 
+ 
+ (128,529 
+ ) 
+ 
+ 
+ (104,148 
+ ) 
+ 
+ Non-cash interest expense 
+ 
+ 
+ (772 
+ ) 
+ 
+ 
+ (8,348 
+ ) 
+ 
+ Amortization of deferred financing fees 
+ 
+ 
+ (5,259 
+ ) 
+ 
+ 
+ (5,434 
+ ) 
+ 
+ Other income, net 
+ 
+ 
+ 22,519 
+ 
+ 
+ 
+ 32,165 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total other expense, net 
+ 
+ 
+ (106,834 
+ ) 
+ 
+ 
+ (74,985 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income before income taxes 
+ 
+ 
+ 236,014 
+ 
+ 
+ 
+ 259,925 
+ 
+ 
+ Provision for income taxes 
+ 
+ 
+ (51,112 
+ ) 
+ 
+ 
+ (42,019 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income 
+ 
+ 
+ 184,902 
+ 
+ 
+ 
+ 217,906 
+ 
+ 
+ Net (gain) loss attributable to noncontrolling interests 
+ 
+ 
+ (72 
+ ) 
+ 
+ 
+ 2,826 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income attributable to SBA Communications Corporation 
+ 
+ $ 
+ 184,830 
+ 
+ 
+ $ 
+ 220,732 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income per common share attributable to SBA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Communications Corporation: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Basic 
+ 
+ $ 
+ 1.75 
+ 
+ 
+ $ 
+ 2.05 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted 
+ 
+ $ 
+ 1.74 
+ 
+ 
+ $ 
+ 2.04 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Weighted-average number of common shares 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Basic 
+ 
+ 
+ 105,815 
+ 
+ 
+ 
+ 107,744 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted 
+ 
+ 
+ 106,111 
+ 
+ 
+ 
+ 108,140 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ Includes non-cash compensation of $18,286 and $15,075 for the three
+months ended March 31, 2026 and 2025, respectively. 
+ 8 
+
+ 
+
+ 
+ 
+
+ 
+ CONDENSED CONSOLIDATED BALANCE SHEETS 
+ (in thousands, except par values) 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ March 31, 2026 
+ 
+ 
+ December 31, 2025 
+ 
+ 
+ ASSETS 
+ 
+ (unaudited) 
+ 
+ 
+ 
+ 
+
+ 
+ Current assets: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash and cash equivalents 
+ 
+ $ 
+ 269,064 
+ 
+ 
+ $ 
+ 264,568 
+ 
+ 
+ Restricted cash 
+ 
+ 
+ 58,773 
+ 
+ 
+ 
+ 167,804 
+ 
+ 
+ Accounts receivable, net 
+ 
+ 
+ 161,474 
+ 
+ 
+ 
+ 171,256 
+ 
+ 
+ Costs and estimated earnings in excess of billings on uncompleted contracts 
+ 
+ 
+ 23,326 
+ 
+ 
+ 
+ 28,152 
+ 
+ 
+ Prepaid expenses and other current assets 
+ 
+ 
+ 254,856 
+ 
+ 
+ 
+ 141,651 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total current assets 
+ 
+ 
+ 767,493 
+ 
+ 
+ 
+ 773,431 
+ 
+ 
+ Property and equipment, net 
+ 
+ 
+ 3,415,936 
+ 
+ 
+ 
+ 3,401,799 
+ 
+ 
+ Intangible assets, net 
+ 
+ 
+ 2,880,040 
+ 
+ 
+ 
+ 2,882,117 
+ 
+ 
+ Operating lease
+ right-of-use assets, net 
+ 
+ 
+ 2,678,715 
+ 
+ 
+ 
+ 2,540,229 
+ 
+ 
+ Acquired and other
+ right-of-use assets, net 
+ 
+ 
+ 1,332,453 
+ 
+ 
+ 
+ 1,325,443 
+ 
+ 
+ Other assets 
+ 
+ 
+ 646,207 
+ 
+ 
+ 
+ 651,993 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total assets 
+ 
+ $ 
+ 11,720,844 
+ 
+ 
+ $ 
+ 11,575,012 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LIABILITIES, REDEEMABLE NONCONTROLLING INTERESTS, AND SHAREHOLDERS DEFICIT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Current Liabilities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Accounts payable 
+ 
+ $ 
+ 63,549 
+ 
+ 
+ $ 
+ 73,034 
+ 
+ 
+ Accrued expenses 
+ 
+ 
+ 85,444 
+ 
+ 
+ 
+ 93,502 
+ 
+ 
+ Current maturities of long-term debt 
+ 
+ 
+ 2,683,531 
+ 
+ 
+ 
+ 1,935,802 
+ 
+ 
+ Deferred revenue 
+ 
+ 
+ 103,650 
+ 
+ 
+ 
+ 117,309 
+ 
+ 
+ Accrued interest 
+ 
+ 
+ 38,753 
+ 
+ 
+ 
+ 65,036 
+ 
+ 
+ Current lease liabilities 
+ 
+ 
+ 304,960 
+ 
+ 
+ 
+ 299,604 
+ 
+ 
+ Other current liabilities 
+ 
+ 
+ 65,803 
+ 
+ 
+ 
+ 94,014 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total current liabilities 
+ 
+ 
+ 3,345,690 
+ 
+ 
+ 
+ 2,678,301 
+ 
+ 
+ Long-term liabilities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Long-term debt, net 
+ 
+ 
+ 10,276,200 
+ 
+ 
+ 
+ 10,964,466 
+ 
+ 
+ Long-term lease liabilities 
+ 
+ 
+ 2,151,367 
+ 
+ 
+ 
+ 2,119,258 
+ 
+ 
+ Other long-term liabilities 
+ 
+ 
+ 613,488 
+ 
+ 
+ 
+ 588,244 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total long-term liabilities 
+ 
+ 
+ 13,041,055 
+ 
+ 
+ 
+ 13,671,968 
+ 
+ 
+ Redeemable noncontrolling interests 
+ 
+ 
+ 85,744 
+ 
+ 
+ 
+ 78,262 
+ 
+ 
+ Shareholders deficit: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Preferred stock - par value $0.01, 30,000 shares authorized, no shares issued or
+outstanding 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ Common stock - Class A, par value $0.01, 400,000 shares authorized, 106,063 shares and
+105,666 shares issued and outstanding at March 31, 2026 and December 31, 2025, respectively 
+ 
+ 
+ 1,061 
+ 
+ 
+ 
+ 1,057 
+ 
+ 
+ Additional paid-in capital 
+ 
+ 
+ 3,084,883 
+ 
+ 
+ 
+ 3,059,427 
+ 
+ 
+ Accumulated deficit 
+ 
+ 
+ (7,200,856 
+ ) 
+ 
+ 
+ (7,249,905 
+ ) 
+ 
+ Accumulated other comprehensive loss, net 
+ 
+ 
+ (636,733 
+ ) 
+ 
+ 
+ (664,098 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total shareholders deficit 
+ 
+ 
+ (4,751,645 
+ ) 
+ 
+ 
+ (4,853,519 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total liabilities, redeemable noncontrolling interests, and shareholders deficit 
+ 
+ $ 
+ 11,720,844 
+ 
+ 
+ $ 
+ 11,575,012 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9 
+
+ 
+
+ 
+ 
+
+ 
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (unaudited) (in thousands) 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the three months ended March 31, 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+
+ 
+ CASH FLOWS FROM OPERATING ACTIVITIES: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income 
+ 
+ $ 
+ 184,902 
+ 
+ 
+ $ 
+ 217,906 
+ 
+ 
+ Adjustments to reconcile net income to net cash provided by operating activities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Depreciation, accretion, and amortization 
+ 
+ 
+ 81,316 
+ 
+ 
+ 
+ 65,048 
+ 
+ 
+ Gain on remeasurement of U.S. denominated intercompany loans 
+ 
+ 
+ (16,260 
+ ) 
+ 
+ 
+ (54,641 
+ ) 
+ 
+ Non-cash compensation expense 
+ 
+ 
+ 18,936 
+ 
+ 
+ 
+ 15,713 
+ 
+ 
+ Non-cash asset impairment and decommission costs 
+ 
+ 
+ 26,934 
+ 
+ 
+ 
+ 35,726 
+ 
+ 
+ Deferred and non-cash income tax provision 
+ 
+ 
+ 25,445 
+ 
+ 
+ 
+ 35,682 
+ 
+ 
+ Loss on sale of assets 
+ 
+ 
+ 38 
+ 
+ 
+ 
+ 18,785 
+ 
+ 
+ Other non-cash items reflected in the Statements of
+Operations 
+ 
+ 
+ 13,957 
+ 
+ 
+ 
+ 19,998 
+ 
+ 
+ Changes in operating assets and liabilities, net of acquisitions: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Accounts receivable and costs and estimated earnings in excess of billings on uncompleted
+contracts, net 
+ 
+ 
+ 15,958 
+ 
+ 
+ 
+ 10,399 
+ 
+ 
+ Prepaid expenses and other assets 
+ 
+ 
+ (740 
+ ) 
+ 
+ 
+ (4,642 
+ ) 
+ 
+ Operating lease
+ right-of-use assets, net 
+ 
+ 
+ 39,053 
+ 
+ 
+ 
+ 33,080 
+ 
+ 
+ Accounts payable and accrued expenses 
+ 
+ 
+ (13,056 
+ ) 
+ 
+ 
+ (8,537 
+ ) 
+ 
+ Accrued interest 
+ 
+ 
+ (25,701 
+ ) 
+ 
+ 
+ (26,941 
+ ) 
+ 
+ Long-term lease liabilities 
+ 
+ 
+ (35,053 
+ ) 
+ 
+ 
+ (32,787 
+ ) 
+ 
+ Other liabilities 
+ 
+ 
+ (60,644 
+ ) 
+ 
+ 
+ (23,614 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net cash provided by operating activities 
+ 
+ 
+ 255,085 
+ 
+ 
+ 
+ 301,175 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CASH FLOWS FROM INVESTING ACTIVITIES: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Acquisitions 
+ 
+ 
+ (143,496 
+ ) 
+ 
+ 
+ (63,388 
+ ) 
+ 
+ Capital expenditures 
+ 
+ 
+ (48,397 
+ ) 
+ 
+ 
+ (46,173 
+ ) 
+ 
+ Proceeds from sale of assets 
+ 
+ 
+ 2,176 
+ 
+ 
+ 
+ 40,428 
+ 
+ 
+ (Purchase) proceeds from sale of investments, net 
+ 
+ 
+ (107,129 
+ ) 
+ 
+ 
+ 187,464 
+ 
+ 
+ Repayment of loan from unconsolidated joint venture 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 115,000 
+ 
+ 
+ Other investing activities 
+ 
+ 
+ 75 
+ 
+ 
+ 
+ 4,935 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net cash (used in) provided by investing activities 
+ 
+ 
+ (296,771 
+ ) 
+ 
+ 
+ 238,266 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CASH FLOWS FROM FINANCING ACTIVITIES: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net borrowings under Revolving Credit Facility 
+ 
+ 
+ 810,000 
+ 
+ 
+ 
+ — 
+ 
+ 
+ Repayment of Tower Securities 
+ 
+ 
+ (750,000 
+ ) 
+ 
+ 
+ (1,165,000 
+ ) 
+ 
+ Payment of dividends on common stock 
+ 
+ 
+ (135,195 
+ ) 
+ 
+ 
+ (122,275 
+ ) 
+ 
+ Other financing activities 
+ 
+ 
+ 5,581 
+ 
+ 
+ 
+ 5,140 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net cash used in financing activities 
+ 
+ 
+ (69,614 
+ ) 
+ 
+ 
+ (1,282,135 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Effect of exchange rate changes on cash, cash equivalents, and restricted cash 
+ 
+ 
+ 6,791 
+ 
+ 
+ 
+ 6,143 
+ 
+ 
+ NET CHANGE IN CASH, CASH EQUIVALENTS, AND RESTRICTED CASH 
+ 
+ 
+ (104,509 
+ ) 
+ 
+ 
+ (736,551 
+ ) 
+ 
+ CASH, CASH EQUIVALENTS, AND RESTRICTED CASH: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Beginning of period 
+ 
+ 
+ 437,021 
+ 
+ 
+ 
+ 1,400,657 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ End of period 
+ 
+ $ 
+ 332,512 
+ 
+ 
+ $ 
+ 664,106 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10 
+
+ 
+
+ 
+ 
+
+ 
+ Selected Capital Expenditure Detail 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the three months ended March 31, 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ (in thousands) 
+ 
+
+ 
+ Construction and related costs 
+ 
+ $ 
+ 25,533 
+ 
+ 
+ $ 
+ 19,775 
+ 
+ 
+ Augmentation and tower upgrades 
+ 
+ 
+ 10,141 
+ 
+ 
+ 
+ 12,165 
+ 
+ 
+ Non-discretionary capital expenditures: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tower maintenance 
+ 
+ 
+ 11,254 
+ 
+ 
+ 
+ 12,340 
+ 
+ 
+ General corporate 
+ 
+ 
+ 1,469 
+ 
+ 
+ 
+ 1,893 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total non-discretionary capital expenditures 
+ 
+ 
+ 12,723 
+ 
+ 
+ 
+ 14,233 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total capital expenditures 
+ 
+ $ 
+ 48,397 
+ 
+ 
+ $ 
+ 46,173 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Communication Site Portfolio Summary 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Domestic 
+ 
+ 
+ International 
+ 
+ 
+ Total 
+ 
+
+ 
+ Sites owned at December 31, 2025 
+ 
+ 
+ 17,394 
+ 
+ 
+ 
+ 28,934 
+ 
+ 
+ 
+ 46,328 
+ 
+ 
+ Sites acquired during the first quarter 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ Sites built during the first quarter 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 75 
+ 
+ 
+ 
+ 80 
+ 
+ 
+ Sites decommissioned/reclassified/sold during the first quarter 
+ 
+ 
+ (31 
+ ) 
+ 
+ 
+ (29 
+ ) 
+ 
+ 
+ (60 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sites owned at March 31, 2026 
+ 
+ 
+ 17,378 
+ 
+ 
+ 
+ 28,980 
+ 
+ 
+ 
+ 46,358 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Segment Operating Profit and Segment Operating Profit Margin 
+ Domestic site leasing and International site leasing are the two segments within our site leasing business. Segment operating profit is a key business metric
+and one of our two measures of segment profitability. The calculation of Segment operating profit for each of our segments is set forth below. 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Domestic Site Leasing 
+ 
+ 
+ Int l Site Leasing 
+ 
+ 
+ Site Development 
+ 
+ 
+ 
+ 
+ For the three months ended March 31, 
+ 
+ 
+ For the three months ended March 31, 
+ 
+ 
+ For the three months ended March 31, 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ (in thousands) 
+ 
+
+ 
+ Segment revenue 
+ 
+ $ 
+ 450,301 
+ 
+ 
+ $ 
+ 460,994 
+ 
+ 
+ $ 
+ 205,848 
+ 
+ 
+ $ 
+ 155,215 
+ 
+ 
+ $ 
+ 47,289 
+ 
+ 
+ $ 
+ 48,039 
+ 
+ 
+ Segment cost of revenues (excluding depreciation, accretion, and amort.) 
+ 
+ 
+ (70,621 
+ ) 
+ 
+ 
+ (68,272 
+ ) 
+ 
+ 
+ (61,291 
+ ) 
+ 
+ 
+ (47,206 
+ ) 
+ 
+ 
+ (39,424 
+ ) 
+ 
+ 
+ (38,188 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Segment operating profit 
+ 
+ $ 
+ 379,680 
+ 
+ 
+ $ 
+ 392,722 
+ 
+ 
+ $ 
+ 144,557 
+ 
+ 
+ $ 
+ 108,009 
+ 
+ 
+ $ 
+ 7,865 
+ 
+ 
+ $ 
+ 9,851 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Segment operating profit margin 
+ 
+ 
+ 84.3 
+ % 
+ 
+ 
+ 85.2 
+ % 
+ 
+ 
+ 70.2 
+ % 
+ 
+ 
+ 69.6 
+ % 
+ 
+ 
+ 16.6 
+ % 
+ 
+ 
+ 20.5 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Non-GAAP Financial Measures 
+ The press release contains non-GAAP financial measures including (i) Cash Site Leasing Revenue, Tower Cash Flow,
+and Tower Cash Flow Margin; (ii) Adjusted EBITDA, Annualized Adjusted EBITDA, and Adjusted EBITDA Margin; (iii) Funds from Operations ( FFO ), Adjusted Funds from Operations ( AFFO ), and AFFO per share;
+(iv) Net Debt, Net Secured Debt, Leverage Ratio, and Secured Leverage Ratio (collectively, our Non-GAAP Debt Measures ); and (v) certain financial metrics after eliminating the impact of
+changes in foreign currency exchange rates (collectively, our Constant Currency Measures ). We have included these non-GAAP financial measures because we believe that they provide investors additional tools in understanding our financial performance and condition. 
+ 11 
+
+ 
+
+ 
+ 
+
+ 
+ Specifically, we believe that: 
+ (1) Cash Site Leasing Revenue and Tower Cash Flow are useful indicators of the performance of our site leasing operations; 
+ (2) Adjusted EBITDA is useful to investors or other interested parties in evaluating our financial performance. Adjusted EBITDA is the primary measure used by
+management (1) to evaluate the economic productivity of our operations and (2) for purposes of making decisions about allocating resources to, and assessing the performance of, our operations. Management believes that Adjusted EBITDA helps
+investors or other interested parties meaningfully evaluate and compare the results of our operations (1) from period to period and (2) to our competitors, by excluding the impact of our capital structure (primarily interest charges from
+our outstanding debt) and asset base (primarily depreciation, amortization and accretion) from our financial results. Management also believes Adjusted EBITDA is frequently used by investors or other interested parties in the evaluation of REITs. In
+addition, Adjusted EBITDA is similar to the measure of current financial performance generally used in our debt covenant calculations. Adjusted EBITDA should be considered only as a supplement to net income computed in accordance with GAAP as a
+measure of our performance; (3) FFO, AFFO and AFFO per share, which are metrics used by our public company peers in the communication site industry,
+provide investors useful indicators of the financial performance of our business and permit investors an additional tool to evaluate the performance of our business against those of our two principal competitors. FFO, AFFO, and AFFO per share are
+also used to address questions we receive from analysts and investors who routinely assess our operating performance on the basis of these performance measures, which are considered industry standards. We believe that FFO helps investors or other
+interested parties meaningfully evaluate financial performance by excluding the impact of our asset base (primarily depreciation, amortization and accretion and asset impairment and decommission costs). We believe that AFFO and AFFO per share help
+investors or other interested parties meaningfully evaluate our financial performance as they include (1) the impact of our capital structure (primarily interest expense on our outstanding debt) and (2) sustaining capital expenditures and
+exclude the impact of (1) our asset base (primarily depreciation, amortization and accretion and asset impairment and decommission costs) and (2) certain non-cash items, including straight-lined
+revenues and expenses related to fixed escalations and rent free periods and the non-cash portion of our reported tax provision. GAAP requires rental revenues and expenses related to leases that contain
+specified rental increases over the life of the lease to be recognized evenly over the life of the lease. In accordance with GAAP, if payment terms call for fixed escalations, or rent free periods, the revenue or expense is recognized on a
+straight-lined basis over the fixed, non-cancelable term of the contract. We only use AFFO as a performance measure. AFFO should be considered only as a supplement to net income computed in accordance with
+GAAP as a measure of our performance and should not be considered as an alternative to cash flows from operations or as residual cash flow available for discretionary investment. We believe our definition of FFO is consistent with how that term is
+defined by the National Association of Real Estate Investment Trusts ( NAREIT ) and that our definition and use of AFFO and AFFO per share is consistent with those reported by the other communication site companies; 
+ (4) Our Non-GAAP Debt Measures provide investors a more complete understanding of our net debt and leverage position
+as they include the full principal amount of our debt which will be due at maturity and, to the extent that such measures are calculated on Net Debt are net of our cash and cash equivalents, short-term restricted cash, and short-term investments;
+and (5) Our Constant Currency Measures provide management and investors the ability to evaluate the performance of the business without the impact of
+foreign currency exchange rate fluctuations. In addition, Tower Cash Flow, Adjusted EBITDA, and our Non-GAAP Debt
+Measures are components of the calculations used by our lenders to determine compliance with certain covenants under our Senior Credit Agreement and indentures relating to our 2020 Senior Notes and 2021 Senior Notes. These non-GAAP financial measures are not intended to be an alternative to any of the financial measures provided in our results of operations or our balance sheet as determined in accordance with GAAP. 
+ 12 
+
+ 
+
+ 
+ 
+
+ 
+ Financial Metrics after Eliminating the Impact of Changes In Foreign Currency Exchange Rates 
+ We eliminate the impact of changes in foreign currency exchange rates for each of the financial metrics listed in the table below by dividing the current
+period s financial results by the average monthly exchange rates of the prior year period, and by eliminating the impact of the remeasurement of our intercompany loans. The table below provides the reconciliation of the reported year-over-year
+change of each of such measures to the change after eliminating the impact of changes in foreign currency exchange rates to such measure. 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ First quarter 2026 year over year change 
+ 
+ 
+ Foreign currency impact 
+ 
+ 
+ Change excluding foreign currency impact 
+ 
+
+ 
+ Total site leasing revenue 
+ 
+ 
+ 6.5 
+ % 
+ 
+ 
+ 2.0 
+ % 
+ 
+ 
+ 4.5 
+ % 
+ 
+ Total cash site leasing revenue 
+ 
+ 
+ 5.8 
+ % 
+ 
+ 
+ 2.0 
+ % 
+ 
+ 
+ 3.8 
+ % 
+ 
+ Int l cash site leasing revenue 
+ 
+ 
+ 30.3 
+ % 
+ 
+ 
+ 8.1 
+ % 
+ 
+ 
+ 22.2 
+ % 
+ 
+ Total site leasing segment operating profit 
+ 
+ 
+ 4.7 
+ % 
+ 
+ 
+ 1.6 
+ % 
+ 
+ 
+ 3.1 
+ % 
+ 
+ Int l site leasing segment operating profit 
+ 
+ 
+ 33.8 
+ % 
+ 
+ 
+ 7.6 
+ % 
+ 
+ 
+ 26.2 
+ % 
+ 
+ Total site leasing tower cash flow 
+ 
+ 
+ 4.3 
+ % 
+ 
+ 
+ 1.8 
+ % 
+ 
+ 
+ 2.5 
+ % 
+ 
+ Int l site leasing tower cash flow 
+ 
+ 
+ 31.6 
+ % 
+ 
+ 
+ 7.9 
+ % 
+ 
+ 
+ 23.7 
+ % 
+ 
+ Net cash interest expense 
+ 
+ 
+ 32.1 
+ % 
+ 
+ 
+ (0.2 
+ %) 
+ 
+ 
+ 32.3 
+ % 
+ 
+ Net income 
+ 
+ 
+ (15.1 
+ %) 
+ 
+ 
+ (8.4 
+ %) 
+ 
+ 
+ (6.7 
+ %) 
+ 
+ Earnings per share — diluted 
+ 
+ 
+ (14.7 
+ %) 
+ 
+ 
+ (10.0 
+ %) 
+ 
+ 
+ (4.7 
+ %) 
+ 
+ Adjusted EBITDA 
+ 
+ 
+ 4.0 
+ % 
+ 
+ 
+ 1.7 
+ % 
+ 
+ 
+ 2.3 
+ % 
+ 
+ AFFO 
+ 
+ 
+ (6.5 
+ %) 
+ 
+ 
+ 2.1 
+ % 
+ 
+ 
+ (8.6 
+ %) 
+ 
+ AFFO per share 
+ 
+ 
+ (4.7 
+ %) 
+ 
+ 
+ 2.2 
+ % 
+ 
+ 
+ (6.9 
+ %) 
+ Cash Site Leasing Revenue, Tower Cash Flow, and Tower Cash Flow Margin 
+ The table below sets forth the reconciliation of Cash Site Leasing Revenue and Tower Cash Flow to their most comparable GAAP measurement and Tower Cash Flow
+Margin, which is calculated by dividing Tower Cash Flow by Cash Site Leasing Revenue. 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Domestic Site Leasing 
+ 
+ 
+ Int l Site Leasing 
+ 
+ 
+ Total Site Leasing 
+ 
+ 
+ 
+ 
+ For the three months ended March 31, 
+ 
+ 
+ For the three months ended March 31, 
+ 
+ 
+ For the three months ended March 31, 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ (in thousands) 
+ 
+
+ 
+ Site leasing revenue 
+ 
+ $ 
+ 450,301 
+ 
+ 
+ $ 
+ 460,994 
+ 
+ 
+ $ 
+ 205,848 
+ 
+ 
+ $ 
+ 155,215 
+ 
+ 
+ $ 
+ 656,149 
+ 
+ 
+ $ 
+ 616,209 
+ 
+ 
+ Non-cash straight-line leasing revenue 
+ 
+ 
+ (1,640 
+ ) 
+ 
+ 
+ (1,050 
+ ) 
+ 
+ 
+ (3,875 
+ ) 
+ 
+ 
+ (231 
+ ) 
+ 
+ 
+ (5,515 
+ ) 
+ 
+ 
+ (1,281 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash site leasing revenue 
+ 
+ 
+ 448,661 
+ 
+ 
+ 
+ 459,944 
+ 
+ 
+ 
+ 201,973 
+ 
+ 
+ 
+ 154,984 
+ 
+ 
+ 
+ 650,634 
+ 
+ 
+ 
+ 614,928 
+ 
+ 
+ Site leasing cost of revenues (excluding depreciation, accretion, and amortization) 
+ 
+ 
+ (70,621 
+ ) 
+ 
+ 
+ (68,272 
+ ) 
+ 
+ 
+ (61,291 
+ ) 
+ 
+ 
+ (47,206 
+ ) 
+ 
+ 
+ (131,912 
+ ) 
+ 
+ 
+ (115,478 
+ ) 
+ 
+ Non-cash straight-line ground lease expense 
+ 
+ 
+ (1,566 
+ ) 
+ 
+ 
+ (2,182 
+ ) 
+ 
+ 
+ 1,823 
+ 
+ 
+ 
+ 514 
+ 
+ 
+ 
+ 257 
+ 
+ 
+ 
+ (1,668 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tower Cash Flow 
+ 
+ $ 
+ 376,474 
+ 
+ 
+ $ 
+ 389,490 
+ 
+ 
+ $ 
+ 142,505 
+ 
+ 
+ $ 
+ 108,292 
+ 
+ 
+ $ 
+ 518,979 
+ 
+ 
+ $ 
+ 497,782 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tower Cash Flow Margin 
+ 
+ 
+ 83.9 
+ % 
+ 
+ 
+ 84.7 
+ % 
+ 
+ 
+ 70.6 
+ % 
+ 
+ 
+ 69.9 
+ % 
+ 
+ 
+ 79.8 
+ % 
+ 
+ 
+ 80.9 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13 
+
+ 
+
+ 
+ 
+
+ 
+ Forecasted Tower Cash Flow for Full Year 2026 
+ The table below sets forth the reconciliation of forecasted Tower Cash Flow set forth in the Outlook section to its most comparable GAAP measurement for the
+full year 2026: 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Full Year 2026 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+
+ 
+ Site leasing revenue 
+ 
+ $ 
+ 2,649.0 
+ 
+ 
+ 
+ to 
+ 
+ 
+ $ 
+ 2,674.0 
+ 
+ 
+ Non-cash straight-line leasing revenue 
+ 
+ 
+ (13.5 
+ ) 
+ 
+ 
+ to 
+ 
+ 
+ 
+ (8.5 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash site leasing revenue 
+ 
+ 
+ 2,635.5 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 2,665.5 
+ 
+ 
+ Site leasing cost of revenues (excluding depreciation, accretion, and amortization) 
+ 
+ 
+ (536.0 
+ ) 
+ 
+ 
+ to 
+ 
+ 
+ 
+ (551.0 
+ ) 
+ 
+ Non-cash straight-line ground lease expense 
+ 
+ 
+ (7.5 
+ ) 
+ 
+ 
+ to 
+ 
+ 
+ 
+ (2.5 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tower Cash Flow 
+ 
+ $ 
+ 2,092.0 
+ 
+ 
+ 
+ to 
+ 
+ 
+ $ 
+ 2,112.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjusted EBITDA, Annualized Adjusted EBITDA, and Adjusted EBITDA Margin 
+ The table below sets forth the reconciliation of Adjusted EBITDA to its most comparable GAAP measurement. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the three months ended March 31, 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ (in thousands) 
+ 
+
+ 
+ Net income 
+ 
+ $ 
+ 184,902 
+ 
+ 
+ $ 
+ 217,906 
+ 
+ 
+ Non-cash straight-line leasing revenue 
+ 
+ 
+ (5,515 
+ ) 
+ 
+ 
+ (1,281 
+ ) 
+ 
+ Non-cash straight-line ground lease expense 
+ 
+ 
+ 257 
+ 
+ 
+ 
+ (1,668 
+ ) 
+ 
+ Non-cash compensation 
+ 
+ 
+ 18,936 
+ 
+ 
+ 
+ 15,713 
+ 
+ 
+ Other income, net 
+ 
+ 
+ (22,519 
+ ) 
+ 
+ 
+ (32,165 
+ ) 
+ 
+ Acquisition and new business initiatives related adjustments and expenses 
+ 
+ 
+ 8,090 
+ 
+ 
+ 
+ 7,379 
+ 
+ 
+ Asset impairment and decommission costs 
+ 
+ 
+ 29,300 
+ 
+ 
+ 
+ 37,026 
+ 
+ 
+ Interest income 
+ 
+ 
+ (5,207 
+ ) 
+ 
+ 
+ (10,780 
+ ) 
+ 
+ Total interest expense (1) 
+ 
+ 
+ 134,560 
+ 
+ 
+ 
+ 117,930 
+ 
+ 
+ Depreciation, accretion, and amortization 
+ 
+ 
+ 81,316 
+ 
+ 
+ 
+ 65,048 
+ 
+ 
+ Provision for taxes (2) 
+ 
+ 
+ 51,268 
+ 
+ 
+ 
+ 42,183 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjusted EBITDA 
+ 
+ $ 
+ 475,388 
+ 
+ 
+ $ 
+ 457,291 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Annualized Adjusted EBITDA (3) 
+ 
+ $ 
+ 1,901,552 
+ 
+ 
+ $ 
+ 1,829,164 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ Total interest expense includes interest expense, non-cash interest
+expense, and amortization of deferred financing fees. 
+ 
+ 
+ (2) 
+ Includes franchise and gross receipts taxes reflected in the Statements of Operations in selling, general and
+administrative expenses. 
+ 
+ 
+ (3) 
+ Annualized Adjusted EBITDA is calculated as Adjusted EBITDA for the most recent quarter multiplied by four.
+ The calculation of Adjusted EBITDA Margin is as follows: 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the three months ended March 31, 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ (in thousands) 
+ 
+
+ 
+ Total revenues 
+ 
+ $ 
+ 703,438 
+ 
+ 
+ $ 
+ 664,248 
+ 
+ 
+ Non-cash straight-line leasing revenue 
+ 
+ 
+ (5,515 
+ ) 
+ 
+ 
+ (1,281 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total revenues minus non-cash straight-line leasing
+revenue 
+ 
+ $ 
+ 697,923 
+ 
+ 
+ $ 
+ 662,967 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjusted EBITDA 
+ 
+ $ 
+ 475,388 
+ 
+ 
+ $ 
+ 457,291 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjusted EBITDA Margin 
+ 
+ 
+ 68.1 
+ % 
+ 
+ 
+ 69.0 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 14 
+
+ 
+
+ 
+ 
+
+ 
+ Forecasted Adjusted EBITDA for Full Year 2026 
+ The table below sets forth the reconciliation of the forecasted Adjusted EBITDA set forth in the Outlook section to its most comparable GAAP measurement for
+the full year 2026: 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Full Year 2026 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+
+ 
+ Net income 
+ 
+ $ 
+ 771.0 
+ 
+ 
+ 
+ to 
+ 
+ 
+ $ 
+ 824.0 
+ 
+ 
+ Non-cash straight-line leasing revenue 
+ 
+ 
+ (13.5 
+ ) 
+ 
+ 
+ to 
+ 
+ 
+ 
+ (8.5 
+ ) 
+ 
+ Non-cash straight-line ground lease expense 
+ 
+ 
+ (7.5 
+ ) 
+ 
+ 
+ to 
+ 
+ 
+ 
+ (2.5 
+ ) 
+ 
+ Non-cash compensation 
+ 
+ 
+ 86.0 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 81.0 
+ 
+ 
+ Other income, net 
+ 
+ 
+ (57.0 
+ ) 
+ 
+ 
+ to 
+ 
+ 
+ 
+ (57.0 
+ ) 
+ 
+ Acquisition and new business initiatives related adjustments and expenses 
+ 
+ 
+ 27.0 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 22.0 
+ 
+ 
+ Asset impairment and decommission costs 
+ 
+ 
+ 149.5 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 144.5 
+ 
+ 
+ Interest income 
+ 
+ 
+ (23.0 
+ ) 
+ 
+ 
+ to 
+ 
+ 
+ 
+ (13.0 
+ ) 
+ 
+ Total interest expense (1) 
+ 
+ 
+ 545.5 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 527.5 
+ 
+ 
+ Depreciation, accretion, and amortization 
+ 
+ 
+ 331.0 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 321.0 
+ 
+ 
+ Provision for taxes (2) 
+ 
+ 
+ 112.0 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 102.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjusted EBITDA 
+ 
+ $ 
+ 1,921.0 
+ 
+ 
+ 
+ to 
+ 
+ 
+ $ 
+ 1,941.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ Total interest expense includes interest expense, non-cash interest
+expense, and amortization of deferred financing fees. 
+ 
+ 
+ (2) 
+ Includes projections for franchise taxes and gross receipts taxes, which will be reflected in the Statement of
+Operations in Selling, general, and administrative expenses. 
+ 15 
+
+ 
+
+ 
+ 
+
+ 
+ Funds from Operations ( FFO ), Adjusted Funds from Operations
+( AFFO ), and AFFO per share The tables below set forth the reconciliations of FFO, AFFO, and AFFO per share
+to their most comparable GAAP measurement. 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the three months 
+ 
+ 
+ 
+ 
+ ended March 31, 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ (in thousands) 
+ 
+ 
+ ($ per share) 
+ 
+ 
+ (in thousands) 
+ 
+ 
+ ($ per share) 
+ 
+
+ 
+ Net income 
+ 
+ $ 
+ 184,902 
+ 
+ 
+ $ 
+ 1.74 
+ 
+ 
+ $ 
+ 217,906 
+ 
+ 
+ $ 
+ 2.02 
+ 
+ 
+ Real estate related depreciation, amortization, and accretion 
+ 
+ 
+ 79,541 
+ 
+ 
+ 
+ 0.75 
+ 
+ 
+ 
+ 63,853 
+ 
+ 
+ 
+ 0.59 
+ 
+ 
+ Asset impairment and decommission costs 
+ 
+ 
+ 29,300 
+ 
+ 
+ 
+ 0.28 
+ 
+ 
+ 
+ 37,026 
+ 
+ 
+ 
+ 0.34 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FFO 
+ 
+ $ 
+ 293,743 
+ 
+ 
+ $ 
+ 2.77 
+ 
+ 
+ $ 
+ 318,785 
+ 
+ 
+ $ 
+ 2.95 
+ 
+ 
+ Adjustments to FFO: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Non-cash straight-line leasing revenue 
+ 
+ 
+ (5,515 
+ ) 
+ 
+ 
+ (0.05 
+ ) 
+ 
+ 
+ (1,281 
+ ) 
+ 
+ 
+ (0.01 
+ ) 
+ 
+ Non-cash straight-line ground lease expense 
+ 
+ 
+ 257 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (1,668 
+ ) 
+ 
+ 
+ (0.02 
+ ) 
+ 
+ Non-cash compensation 
+ 
+ 
+ 18,936 
+ 
+ 
+ 
+ 0.18 
+ 
+ 
+ 
+ 15,713 
+ 
+ 
+ 
+ 0.15 
+ 
+ 
+ Adjustment for non-cash portion of tax provision and other
+tax adjustments (1) 
+ 
+ 
+ 33,640 
+ 
+ 
+ 
+ 0.32 
+ 
+ 
+ 
+ 36,409 
+ 
+ 
+ 
+ 0.34 
+ 
+ 
+ Non-real estate related depreciation, amortization, and
+accretion 
+ 
+ 
+ 1,775 
+ 
+ 
+ 
+ 0.02 
+ 
+ 
+ 
+ 1,195 
+ 
+ 
+ 
+ 0.01 
+ 
+ 
+ Amortization of deferred financing costs and debt discounts and
+ non-cash interest expense 
+ 
+ 
+ 6,031 
+ 
+ 
+ 
+ 0.06 
+ 
+ 
+ 
+ 13,782 
+ 
+ 
+ 
+ 0.13 
+ 
+ 
+ Other income, net 
+ 
+ 
+ (22,519 
+ ) 
+ 
+ 
+ (0.23 
+ ) 
+ 
+ 
+ (32,165 
+ ) 
+ 
+ 
+ (0.31 
+ ) 
+ 
+ Acquisition and new business initiatives related adjustments and expenses 
+ 
+ 
+ 8,090 
+ 
+ 
+ 
+ 0.08 
+ 
+ 
+ 
+ 7,379 
+ 
+ 
+ 
+ 0.07 
+ 
+ 
+ Non-discretionary cash capital expenditures 
+ 
+ 
+ (12,723 
+ ) 
+ 
+ 
+ (0.12 
+ ) 
+ 
+ 
+ (14,233 
+ ) 
+ 
+ 
+ (0.13 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AFFO 
+ 
+ $ 
+ 321,715 
+ 
+ 
+ $ 
+ 3.03 
+ 
+ 
+ $ 
+ 343,916 
+ 
+ 
+ $ 
+ 3.18 
+ 
+ 
+ Adjustments for joint venture partner interest 
+ 
+ 
+ (2,151 
+ ) 
+ 
+ 
+ (0.02 
+ ) 
+ 
+ 
+ (1,727 
+ ) 
+ 
+ 
+ (0.02 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AFFO attributable to SBA Communications Corporation 
+ 
+ $ 
+ 319,564 
+ 
+ 
+ $ 
+ 3.01 
+ 
+ 
+ $ 
+ 342,189 
+ 
+ 
+ $ 
+ 3.16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted weighted average number of common shares 
+ 
+ 
+ 
+ 
+ 
+ 
+ 106,111 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 108,140 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ The three months ended March 31, 2026 includes $5.8 million in taxes related to the sale of
+substantially all of our operations in Canada. We believe that these tax payments are nonrecurring, and do not believe these are an indication of our operating performance. Accordingly, we believe it is more meaningful to present AFFO and AFFO
+attributable to SBA Communications Corporation excluding these amounts. 
+ 16 
+
+ 
+
+ 
+ 
+
+ 
+ Forecasted AFFO for the Full Year 2026 
+ The tables below set forth the reconciliations of the forecasted AFFO and AFFO per share set forth in the Outlook section to their most comparable GAAP
+measurements for the full year 2026: 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ (in millions, except per share amounts) 
+ 
+ Full Year 2026 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ ($ per share) 
+ 
+
+ 
+ Net income 
+ 
+ $ 
+ 771.0 
+ 
+ 
+ 
+ to 
+ 
+ 
+ $ 
+ 824.0 
+ 
+ 
+ $ 
+ 7.25 
+ 
+ 
+ 
+ to 
+ 
+ 
+ $ 
+ 7.74 
+ 
+ 
+ Real estate related depreciation, amortization, and accretion 
+ 
+ 
+ 319.5 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 314.5 
+ 
+ 
+ 
+ 3.00 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 2.96 
+ 
+ 
+ Asset impairment and decommission costs 
+ 
+ 
+ 149.5 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 144.5 
+ 
+ 
+ 
+ 1.41 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 1.36 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FFO 
+ 
+ $ 
+ 1,240.0 
+ 
+ 
+ 
+ to 
+ 
+ 
+ $ 
+ 1,283.0 
+ 
+ 
+ $ 
+ 11.66 
+ 
+ 
+ 
+ to 
+ 
+ 
+ $ 
+ 12.06 
+ 
+ 
+ Adjustments to FFO: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Non-cash straight-line leasing revenue 
+ 
+ 
+ (13.5 
+ ) 
+ 
+ 
+ to 
+ 
+ 
+ 
+ (8.5 
+ ) 
+ 
+ 
+ (0.13 
+ ) 
+ 
+ 
+ to 
+ 
+ 
+ 
+ (0.08 
+ ) 
+ 
+ Non-cash straight-line ground lease expense 
+ 
+ 
+ (7.5 
+ ) 
+ 
+ 
+ to 
+ 
+ 
+ 
+ (2.5 
+ ) 
+ 
+ 
+ (0.07 
+ ) 
+ 
+ 
+ to 
+ 
+ 
+ 
+ (0.02 
+ ) 
+ 
+ Non-cash compensation 
+ 
+ 
+ 86.0 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 81.0 
+ 
+ 
+ 
+ 0.81 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 0.76 
+ 
+ 
+ Adjustment for non-cash portion of tax provision and other
+tax adjustments (1) 
+ 
+ 
+ 37.0 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 37.0 
+ 
+ 
+ 
+ 0.35 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 0.35 
+ 
+ 
+ Non-real estate related depreciation, amortization, and
+accretion 
+ 
+ 
+ 11.5 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 6.5 
+ 
+ 
+ 
+ 0.11 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 0.06 
+ 
+ 
+ Amortization of deferred financing costs and debt discounts and
+ non-cash interest expense 
+ 
+ 
+ 22.5 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 22.5 
+ 
+ 
+ 
+ 0.21 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 0.21 
+ 
+ 
+ Other income, net 
+ 
+ 
+ (57.0 
+ ) 
+ 
+ 
+ to 
+ 
+ 
+ 
+ (57.0 
+ ) 
+ 
+ 
+ (0.54 
+ ) 
+ 
+ 
+ to 
+ 
+ 
+ 
+ (0.54 
+ ) 
+ 
+ Acquisition and new business initiatives related adjustments and expenses 
+ 
+ 
+ 27.0 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 22.0 
+ 
+ 
+ 
+ 0.25 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 0.21 
+ 
+ 
+ Non-discretionary cash capital expenditures 
+ 
+ 
+ (77.0 
+ ) 
+ 
+ 
+ to 
+ 
+ 
+ 
+ (67.0 
+ ) 
+ 
+ 
+ (0.72 
+ ) 
+ 
+ 
+ to 
+ 
+ 
+ 
+ (0.63 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AFFO 
+ 
+ $ 
+ 1,269.0 
+ 
+ 
+ 
+ to 
+ 
+ 
+ $ 
+ 1,317.0 
+ 
+ 
+ $ 
+ 11.93 
+ 
+ 
+ 
+ to 
+ 
+ 
+ $ 
+ 12.38 
+ 
+ 
+ Adjustments for joint venture partner interest 
+ 
+ 
+ (4.0 
+ ) 
+ 
+ 
+ to 
+ 
+ 
+ 
+ (4.0 
+ ) 
+ 
+ 
+ (0.04 
+ ) 
+ 
+ 
+ to 
+ 
+ 
+ 
+ (0.04 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AFFO attributable to SBA Communications Corporation 
+ 
+ $ 
+ 1,265.0 
+ 
+ 
+ 
+ to 
+ 
+ 
+ $ 
+ 1,313.0 
+ 
+ 
+ $ 
+ 11.89 
+ 
+ 
+ 
+ to 
+ 
+ 
+ $ 
+ 12.34 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted weighted average number of common shares
+ (2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 106.4 
+ 
+ 
+ 
+ to 
+ 
+ 
+ 
+ 106.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ Includes $9.0 million in taxes related to the sale of substantially all of our operations in Canada. We
+believe that these tax payments are nonrecurring, and do not believe these are an indication of our operating performance. Accordingly, we believe it is more meaningful to present AFFO and AFFO attributable to SBA Communications Corporation
+excluding these amounts. 
+ 
+ 
+ (2) 
+ Weighted average number of common shares does not contemplate any additional repurchases of the Company s
+stock during 2026. 
+ 17 
+
+ 
+
+ 
+ 
+
+ 
+ Net Debt, Net Secured Debt, Leverage Ratio, and Secured Leverage Ratio 
+ Net Debt is calculated using the notional principal amount of outstanding debt. Under GAAP policies, the notional principal amount of the Company s
+outstanding debt is not necessarily reflected on the face of the Company s financial statements. The Net Debt and Leverage calculations are as
+follows: 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ March 31, 2026 
+ 
+ 
+ 
+ 
+ (in thousands) 
+ 
+
+ 
+ 2020-2C Tower Securities 
+ 
+ $ 
+ 600,000 
+ 
+ 
+ 2021-1C Tower Securities 
+ 
+ 
+ 1,165,000 
+ 
+ 
+ 2021-2C Tower Securities 
+ 
+ 
+ 895,000 
+ 
+ 
+ 2021-3C Tower Securities 
+ 
+ 
+ 895,000 
+ 
+ 
+ 2022-1C Tower Securities 
+ 
+ 
+ 850,000 
+ 
+ 
+ 2024-1C Tower Securities 
+ 
+ 
+ 1,450,000 
+ 
+ 
+ 2024-2C Tower Securities 
+ 
+ 
+ 620,000 
+ 
+ 
+ Revolving Credit Facility 
+ 
+ 
+ 1,285,000 
+ 
+ 
+ 2024 Term Loan 
+ 
+ 
+ 2,254,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total secured debt 
+ 
+ 
+ 10,014,000 
+ 
+ 
+ 2020 Senior Notes 
+ 
+ 
+ 1,500,000 
+ 
+ 
+ 2021 Senior Notes 
+ 
+ 
+ 1,500,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total unsecured debt 
+ 
+ 
+ 3,000,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total debt 
+ 
+ $ 
+ 13,014,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Leverage Ratio 
+ 
+ 
+ 
+ 
+ 
+ Total debt 
+ 
+ $ 
+ 13,014,000 
+ 
+ 
+ Less: Cash and cash equivalents, short-term restricted cash and short-term investments 
+ 
+ 
+ (439,898 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net debt 
+ 
+ $ 
+ 12,574,102 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Divided by: Annualized Adjusted EBITDA 
+ 
+ $ 
+ 1,901,552 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Leverage Ratio 
+ 
+ 
+ 6.6x 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Secured Leverage Ratio 
+ 
+ 
+ 
+ 
+ 
+ Total secured debt 
+ 
+ $ 
+ 10,014,000 
+ 
+ 
+ Less: Cash and cash equivalents, short-term restricted cash and short-term investments 
+ 
+ 
+ (439,898 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Secured Debt 
+ 
+ $ 
+ 9,574,102 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Divided by: Annualized Adjusted EBITDA 
+ 
+ $ 
+ 1,901,552 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Secured Leverage Ratio 
+ 
+ 
+ 5.0x 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18

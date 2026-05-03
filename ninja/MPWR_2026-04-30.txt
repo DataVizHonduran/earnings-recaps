@@ -1,0 +1,3410 @@
+Ticker: MPWR
+Company: MONOLITHIC POWER SYSTEMS INC
+Filed: 2026-04-30
+Type: PRESS_RELEASE
+Source: https://www.sec.gov/Archives/edgar/data/1280452/000143774926014182/ex_929254.htm
+
+EX-99.1
+ 2
+ ex_929254.htm
+ EXHIBIT 99.1
+ 
+ 
+ ex_929254.htm 
+
+ 
+
+ 
+ 
+ Exhibit 99.1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Monolithic Power Systems 
+
+ 
+
+ Q1 26 Earnings Commentary 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ The highest quality power solutions for 
+
+ Industrial Applications, Telecom Infrastructures, 
+
+ Cloud Computing, Automotive, and Consumer Applications 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ Monolithic Power Systems Reports First Quarter Results on April 30, 2026 
+
+ 
+
+ Monolithic Power Systems, Inc. ( MPS ) reported its results after market close on April 30, 2026 and will host a question-and-answer webinar at 2:00 p.m. PT / 5:00 p.m. ET. The webinar can be accessed from the Investor Relations section of the MPS website at www.monolithicpower.com . 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ Q1 2026 Financial Summary 
+ (Unaudited) 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ GAAP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q1'26 
+ 
+ 
+ 
+ Q4'25 
+ 
+ 
+ 
+ Q1'25 
+ 
+ 
+ 
+ 
+ QoQ Change 
+ 
+ 
+ 
+ YoY Change 
+ 
+ 
+ 
+ 
+ 
+ Revenue ($M) 
+ 
+ 
+ $804.2 
+ 
+ $751.2 
+ 
+ $637.6 
+ 
+ 
+ 7.1 
+ % 
+ 
+ 26.1 
+ % 
+ 
+ 
+ 
+ 
+ Gross Margin 
+ 
+ 
+ 55.3 
+ % 
+ 
+ 55.2 
+ % 
+ 
+ 55.4 
+ % 
+ 
+ 
+ 
+ 0.1 pts 
+ 
+ 
+ 
+ (0.1) pts 
+ 
+ 
+ 
+ 
+ 
+ Opex ($M) 
+ 
+ 
+ $203.9 
+ 
+ $214.3 
+ 
+ $184.5 
+ 
+ 
+ (4.9 
+ %) 
+ 
+ 10.5 
+ % 
+ 
+ 
+ 
+ 
+ Operating Margin 
+ 
+ 
+ 30.0 
+ % 
+ 
+ 26.6 
+ % 
+ 
+ 26.5 
+ % 
+ 
+ 
+ 
+ 3.4 pts 
+ 
+ 
+ 
+ 3.5 pts 
+ 
+ 
+ 
+ 
+ 
+ Net income ($M) 
+ 
+ 
+ $193.2 
+ 
+ $171.7 
+ 
+ $135.1 
+ 
+ 
+ 12.6 
+ % 
+ 
+ 43.1 
+ % 
+ 
+ 
+ 
+ 
+ Diluted EPS 
+ 
+ 
+ $3.92 
+ 
+ $3.49 
+ 
+ $2.81 
+ 
+ 
+ 12.3 
+ % 
+ 
+ 39.5 
+ % 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ Non-GAAP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q1'26 
+ 
+ 
+ Q4'25 
+ 
+ 
+ 
+ Q1'25 
+ 
+ 
+ 
+ 
+ QoQ Change 
+ 
+ 
+ 
+ YoY Change 
+ 
+ 
+ 
+ 
+ 
+ Revenue ($M) 
+ 
+ 
+ $804.2 
+ 
+ $751.2 
+ 
+ $637.6 
+ 
+ 
+ 7.1 
+ % 
+ 
+ 26.1 
+ % 
+ 
+ 
+ 
+ 
+ Gross Margin 
+ 
+ 
+ 55.5 
+ % 
+ 
+ 55.5 
+ % 
+ 
+ 55.7 
+ % 
+ 
+ 
+ 
+ Flat 
+ 
+ 
+ 
+ (0.2) pts 
+ 
+ 
+ 
+ 
+ 
+ Opex ($M) 
+ 
+ 
+ $158.3 
+ 
+ $148.1 
+ 
+ $133.5 
+ 
+ 
+ 7.0 
+ % 
+ 
+ 18.6 
+ % 
+ 
+ 
+ 
+ 
+ Operating Margin 
+ 
+ 
+ 35.8 
+ % 
+ 
+ 35.8 
+ % 
+ 
+ 34.7 
+ % 
+ 
+ 
+ 
+ Flat 
+ 
+ 
+ 
+ 1.1 pts 
+ 
+ 
+ 
+ 
+ 
+ Net income ($M) 
+ 
+ 
+ $251.3 
+ 
+ $235.3 
+ 
+ $193.8 
+ 
+ 
+ 6.8 
+ % 
+ 
+ 29.7 
+ % 
+ 
+ 
+ 
+ 
+ Diluted EPS 
+ 
+ 
+ $5.10 
+ 
+ $4.79 
+ 
+ $4.04 
+ 
+ 
+ 6.5 
+ % 
+ 
+ 26.2 
+ % 
+ 
+ 
+ 
+ 
+ Tax Rate 
+ 
+ 
+ 15.0 
+ % 
+ 
+ 15.0 
+ % 
+ 
+ 15.0 
+ % 
+ 
+ 
+ 
+ Flat 
+ 
+ 
+ 
+ Flat 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ Revenue by End Market 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenue 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ % of Revenue 
+ 
+ 
+ 
+ 
+ 
+ End Market ($M) 
+ 
+ 
+ 
+ Q1'26 
+ 
+ 
+ 
+ 
+ Q4'25 
+ 
+ 
+ 
+ 
+ Q1'25 
+ 
+ 
+ 
+ 
+ QoQ 
+ 
+ 
+ 
+ 
+ YoY 
+ 
+ 
+ 
+ 
+ Q1'26 
+ 
+ 
+ 
+ 
+ Q4'25 
+ 
+ 
+ 
+ 
+ 
+ 
+ Enterprise Data 
+ 
+ 
+ $262.8 
+ 
+ 
+ $233.5 
+ 
+ 
+ $132.9 
+ 
+ 
+ 12.6 
+ % 
+ 
+ 97.7 
+ % 
+ 
+ 32.7 
+ % 
+ 
+ 31.1 
+ % 
+ 
+ 
+ 
+ 
+ Storage & Computing 
+ 
+ 
+ 174.4 
+ 
+ 
+ 162.1 
+ 
+ 
+ 188.5 
+ 
+ 
+ 7.6 
+ % 
+ 
+ (7.5 
+ %) 
+ 
+ 21.7 
+ 
+ 
+ 21.6 
+ 
+ 
+ 
+ 
+ 
+ Automotive 
+ 
+ 
+ 152.4 
+ 
+ 
+ 151.0 
+ 
+ 
+ 144.9 
+ 
+ 
+ 0.9 
+ % 
+ 
+ 5.1 
+ % 
+ 
+ 18.9 
+ 
+ 
+ 20.1 
+ 
+ 
+ 
+ 
+ 
+ Communications 
+ 
+ 
+ 111.5 
+ 
+ 
+ 83.7 
+ 
+ 
+ 71.8 
+ 
+ 
+ 33.1 
+ % 
+ 
+ 55.5 
+ % 
+ 
+ 13.9 
+ 
+ 
+ 11.1 
+ 
+ 
+ 
+ 
+ 
+ Consumer 
+ 
+ 
+ 54.5 
+ 
+ 
+ 66.2 
+ 
+ 
+ 56.9 
+ 
+ 
+ (17.5 
+ %) 
+ 
+ (4.2 
+ %) 
+ 
+ 6.8 
+ 
+ 
+ 8.8 
+ 
+ 
+ 
+ 
+ 
+ Industrial 
+ 
+ 
+ 48.6 
+ 
+ 
+ 54.7 
+ 
+ 
+ 42.6 
+ 
+ 
+ (11.2 
+ %) 
+ 
+ 14.2 
+ % 
+ 
+ 6.0 
+ 
+ 
+ 7.3 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ $804.2 
+ 
+ 
+ $751.2 
+ 
+ 
+ $637.6 
+ 
+ 
+ 7.1 
+ % 
+ 
+ 26.1 
+ % 
+ 
+ 100 
+ % 
+ 
+ 100 
+ % 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 2 
+
+ 
+ 
+ 
+
+ 
+
+ Ongoing Business Conditions 
+
+ 
+
+ In the first quarter of 2026 , MPS achieved record quarterly revenue of $804.2 million, 7.1% higher than the fourth quarter of 2025 and 26.1% higher than revenue in the first quarter of 2025 . 
+
+ 
+
+ Our quarterly performance was the result of our continued innovation, our consistent execution and the resilience of our diversified market strategy. 
+
+ 
+
+ Q1 2026 highlights include: 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Our Communications end market grew 33% sequentially on the strength of our power solutions for optical modules and switches. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ The pipeline for our Automotive and Enterprise Data end markets, including server, continued to accelerate as we won multiple new projects across customers and regions. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ We sampled our first high speed interface products for DDR5 at major customers. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ MPS continued to grow our capacity past our original $4B plan, with a new goal of reaching $6B in the near future. 
+ 
+
+ 
+
+ 
+
+ We continue to adjust to the fluid geopolitical and macro-economic environment, but our diversified market strategy remains unchanged: 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ MPS focuses on innovation and solving our customers most challenging problems. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ We consistently invest in new technologies that allow us to expand into new end markets and applications. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ We continue to expand and diversify our global supply chain allowing us to capture future growth opportunities, maintain supply stability, and rapidly adapt to market changes as they occur. 
+ 
+
+ 
+
+ 
+
+ Our results demonstrate the strength of our diversified model and our continued success in transforming from a chip-only, semiconductor supplier to a full service, silicon-based solutions provider, said Michael Hsing, CEO and founder of MPS. 
+
+ 
+
+ Q1 2026 Revenue Results 
+
+ 
+
+ MPS reported first quarter revenue of $804.2 million, 7.1% higher than the fourth quarter of 2025 and 26.1% higher than the first quarter of 2025 . Compared with the fourth quarter of 2025 , sales in Communications, Enterprise Data, Storage and Computing and Automotive improved sequentially. 
+
+ 
+
+ 
+ 
+ 
+ 3 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ First quarter 2026 Communications revenue of $ 111.5 million was up 33.1% from the fourth quarter of 2025 primarily as a result of higher sales of power solutions for optical modules and switches. First quarter 2026 Communications revenue was up 55.5% year over year. Communications sales represented 13.9 % of our total first quarter 2026 revenue compared with 11.1 % the fourth quarter of 2025 . 
+
+ 
+
+ In our Enterprise Data market, first quarter 2026 revenue of $262.8 million increased 12.6% from the fourth quarter of 2025 . The sequential increase was driven by higher sales of our power management solutions for AI and server applications. First quarter 2026 Enterprise Data revenue was up 97.7% year over year. Enterprise Data revenue represented 32.7% of our total first quarter 2026 revenue compared with 31.1% in the fourth quarter of 2025 . 
+
+ 
+
+ First quarter 2026 Storage and Computing revenue of $ 174.4 million increased 7.6% from the fourth quarter of 2025 primarily on higher sales for storage power management solutions. First quarter 2026 Storage and Computing revenue was down 7.5% year over year. Storage and Computing revenue represented 21.7 % of MPS s first quarter 2026 revenue compared with 21.6 % in the fourth quarter of 2025 . 
+
+ 
+
+ First quarter Automotive revenue of $ 152.4 million increased 0.9% from the fourth quarter of 2025 as higher sales for ADAS power solutions were partially offset by lower sales of USB solutions. First quarter 2026 Automotive revenue was up 5.1% year over year. Automotive revenue represented 18.9 % of MPS s first quarter 2026 revenue compared with 20.1 % in the fourth quarter of 2025 . 
+
+ 
+
+ First quarter 2026 Industrial revenue of $ 48.6 million decreased 11.2% from the fourth quarter of 2025 . First quarter 2026 Industrial revenue was up 14.2% year over year. Industrial revenue represented 6.0 % of our total first quarter 2026 revenue compared with 7.3 % in the fourth quarter of 2025 . 
+
+ 
+
+ First quarter 2026 Consumer revenue of $ 54.5 million decreased 17.5% from the fourth quarter of 2025 . First quarter 2026 Consumer revenue was down 4.2% year over year. Consumer revenue represented 6.8 % of our total first quarter 2026 revenue compared with 8.8 % in the fourth quarter of 2025 . 
+
+ 
+
+ Q1 2026 Gross Margin & Operating Income 
+
+ 
+
+ GAAP gross margin was 55.3% , 0.1 percentage points higher than the fourth quarter of 2025 . Our GAAP operating income was $241.2 million compared to $199.9 million reported in the fourth quarter of 2025 . 
+
+ 
+
+ Non-GAAP gross margin for the first quarter of 2026 was 55.5% , flat to the fourth quarter of 2025 . Our non-GAAP operating income was $288.0 million compared to $269.0 million reported in the fourth quarter of 2025 . 
+
+ 
+
+ 
+ 
+ 
+ 4 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ Q1 2026 Operating Expenses 
+
+ 
+
+ Our GAAP operating expenses were $203.9 million in the first quarter of 2026 compared with $214.3 million in the fourth quarter of 2025 . Our Non-GAAP operating expenses were $158.3 million, up from $148.1 million in the fourth quarter of 2025 . 
+
+ 
+
+ The differences between non-GAAP operating expenses and GAAP operating expenses for the quarters discussed here are primarily stock-based compensation and related expenses and deferred compensation plan income. 
+
+ 
+
+ Total stock-based compensation and related expenses, including approximately $1.7 million charged to cost of goods sold, was $48.5 million compared with $66.9 million recorded in the fourth quarter of 2025 . 
+
+ 
+
+ The Bottom Line 
+
+ 
+
+ First quarter 2026 GAAP net income was $193.2 million or $3.92 per fully diluted share, compared with $171.7 million or $3.49 per fully diluted share in the fourth quarter of 2025 . 
+
+ 
+
+ First quarter 2026 non-GAAP net income was $251.3 million or $5.10 per fully diluted share, compared with $235.3 million or $4.79 per fully diluted share in the fourth quarter of 2025 . 
+
+ 
+
+ First quarter 2026 non-GAAP tax rate of 15% was flat to the fourth quarter of 2025 . 
+
+ 
+
+ There were 49.2 million fully diluted shares outstanding at the end of the first quarter of 2026 . 
+
+ 
+
+ Balance Sheet and Cash Flow 
+
+ 
+
+ Cash, cash equivalents and short-term investments were $1,367.1 million at the end of the first quarter of 2026 compared to $1,256.5 million at the end of the fourth quarter of 2025 . For the first quarter of 2026 , MPS generated operating cash flow of $250.3 million compared with fourth quarter of 2025 operating cash flow of $104.9 million. 
+
+ 
+
+ Accounts receivable at the end of the first quarter of 2026 were $302.1 million, representing 34 days of sales outstanding, which was 3 days higher than the 31 days reported at the end of the fourth quarter of 2025. 
+
+ 
+
+ Our internal inventories at the end of the first quarter of 2026 were $619.2 million, up from $564.6 million at the end of the fourth quarter of 2025. Days of inventory of 157 days at the end of the first quarter of 2026 was 4 days higher than at the end of the fourth quarter of 2025. 
+
+ 
+
+ Comparing current inventory levels using next quarter s projected revenue, days of inventory at the end of the first quarter of 140 days was 3 days lower than at the end of the fourth quarter of 2025. 
+
+ 
+
+ 
+ 
+ 
+ 5 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ Selected Balance Sheet and Inventory Data 
+ 
+ 
+ 
+ 
+ (Unaudited) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q1'26 
+ 
+ 
+ 
+ 
+ Q4'25 
+ 
+ 
+ 
+ 
+ Q1'25 
+ 
+ 
+ 
+ 
+ 
+ Cash, Cash Equivalents, and Short-Term Investments 
+ 
+ 
+ $ 1,367.1 M 
+ 
+ 
+ $ 1,256.5 M 
+ 
+ 
+ $ 1,026.7 M 
+ 
+ 
+ 
+ 
+ Operating Cash Flow 
+ 
+ 
+ $ 250.3 M 
+ 
+ 
+ $ 104.9 M 
+ 
+ 
+ $ 256.4 M 
+ 
+ 
+ 
+ 
+ Accounts Receivable 
+ 
+ 
+ $ 302.1 M 
+ 
+ 
+ $ 255.6 M 
+ 
+ 
+ $ 214.9 M 
+ 
+ 
+ 
+ 
+ Days of Sales Outstanding 
+ 
+ 
+ 
+ 34 Days 
+ 
+ 
+ 
+ 
+ 31 Days 
+ 
+ 
+ 
+ 
+ 31 Days 
+ 
+ 
+ 
+ 
+ 
+ Internal Inventories 
+ 
+ 
+ $ 619.2 M 
+ 
+ 
+ $ 564.6 M 
+ 
+ 
+ $ 454.8 M 
+ 
+ 
+ 
+ 
+ Days of Inventory (current quarter revenue) 
+ 
+ 
+ 
+ 157 Days 
+ 
+ 
+ 
+ 
+ 153 Days 
+ 
+ 
+ 
+ 
+ 146 Days 
+ 
+ 
+ 
+ 
+ 
+ Days of Inventory (next quarter revenue) 
+ 
+ 
+ 
+ 140 Days 
+ 
+ 
+ 
+ 
+ 143 Days 
+ 
+ 
+ 
+ 
+ 139 Days 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ Q2 2026 Business Outlook 
+
+ 
+
+ For the second quarter of 2026 ending June 30, we are forecasting: 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Revenue in the range of $890 million to $910 million. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ GAAP gross margin in the range of 55.1% to 55.7% . 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Non-GAAP gross margin in the range of 55.3% to 55.9% , which excludes the impact from stock-based compensation and related expenses as well as the impact from amortization of acquisition-related intangible assets. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Total stock-based compensation and related expenses in the range of $53.8 million to $55.8 million including approximately $1.7 million that would be charged to cost of goods sold. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ GAAP operating expenses between $219.1 million and $225.1 million. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Non-GAAP operating expenses in the range of $167.0 million to $171.0 million. This estimate excludes stock-based compensation and related expenses in the range of $52.1 million to $54.1 million. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Interest and other income in the range from $7.4 million to $7.8 million before foreign exchange gains or losses. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Non-GAAP tax rate of 15% for 2026 . 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Fully diluted shares outstanding in the range of 49.1 to 49.5 million shares. 
+ 
+
+ 
+
+ 
+
+ 
+
+ For further information, contact: 
+
+ Tony Balow 
+
+ Vice President, Finance 
+
+ Monolithic Power Systems, Inc. 
+
+ MPSInvestor.Relations@monolithicpower.com 
+
+ 
+
+ 
+ 
+ 
+ 6 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ Safe Harbor Statement 
+
+ 
+
+ This earnings commentary contains, and statements that will be made during the accompanying webinar will contain, forward-looking statements, as that term is defined in the Private Securities Litigation Reform Act of 1995, that should not be unduly relied upon, including under the Q2 26 Business Outlook section herein, our statement regarding our business focus, our statement regarding our capacity growth goal, our statement regarding our prospects for Automotive and Enterprise Data end markets, our statement regarding the expansion and diversification of our supply chain to allow us to capture future growth opportunities, maintain supply stability and swiftly adapt to market changes as they occur, and our statement regarding the major customer sampling of our first high speed interface products for DDR5, including, among other things, (i) projected revenue, GAAP and non-GAAP gross margin, GAAP and non-GAAP operating expenses, stock-based compensation and related expenses, amortization of acquisition-related intangible assets, other income before foreign exchange gains or losses, and fully diluted shares outstanding, (ii) our outlook for the second quarter of fiscal year 2026 and the near-term, medium-term and long-term prospects of MPS, including our ability to adapt to changing market conditions, performance against our business plan, our ability to grow despite the various challenges facing our business, our industry and the global economic environment, potential new business segments, our continued investment in research and development ( R&D ), expected revenue growth, customers acceptance of our new product offerings, the prospects of our new product development, our expectations regarding market and industry trends and prospects, and our goal to expand our capacity and the impact it may have on our business, (iii) our ability to penetrate new markets and expand our market share, (iv) our ability to reduce our expenses, and (vi) statements regarding the assumptions underlying or relating to any statement described above. These forward-looking statements are not historical facts or guarantees of future performance or events, are based on current expectations, estimates, beliefs, assumptions, goals, and objectives, and involve significant known and unknown risks, uncertainties and other factors that may cause actual results to be materially different from the results expressed by these statements. Readers of this earnings commentary and listeners to the accompanying conference call are cautioned not to place undue reliance on any forward-looking statements, which speak only as of the date hereof. Factors that could cause actual results to differ include, but are not limited to, continued uncertainties in the global economy, including due to current and potential global conflicts, global tariffs, export controls and retaliatory measures and announcements regarding same, inflation, consumer sentiment and other factors; adverse events arising from orders or regulations of governmental entities, including such orders or regulations that impact our customers or suppliers, and adoption of new or amended accounting standards; adverse changes in laws and government regulations such as tariffs on imports of foreign goods, export regulations and export classifications, and tax laws or the interpretation of same, including in foreign countries where MPS has offices or operations; the effect of export controls, trade and economic sanctions regulations and other regulatory or contractual limitations on our ability to sell or develop our products in certain foreign markets, particularly in China; our ability to obtain governmental licenses and approvals for international trading activities or technology transfers, including export licenses; acceptance of, or demand for, our products, in particular the new products launched recently, being different than expected; our ability to increase market share in our targeted markets; difficulty in predicting or budgeting for future customer demand and channel inventories, expenses and financial contingencies (including as a result of any impact from current and potential global conflicts); our ability to efficiently and effectively develop new products and receive a return on our R&D expense investment; our ability to attract new customers and retain existing customers; our ability to meet customer demand for our products due to constraints on our third-party suppliers ability to manufacture sufficient quantities of our products or otherwise; our ability to expand manufacturing capacity to support future growth; adverse changes in production and testing efficiency of our products; any political, cultural, military, regulatory, economic, foreign exchange and operational changes in China, where a significant portion of our manufacturing capacity comes from; any market disruptions or interruptions in our schedule of new product development releases; our ability to manage our inventory levels; adequate supply of our products from our third-party manufacturing partners; adverse changes or developments in the semiconductor industry generally, which is cyclical in nature, and our ability to adjust our operations to address such changes or developments; the ongoing consolidation of companies in the semiconductor industry; competition generally and the increasingly competitive nature of our industry; our ability to realize the anticipated benefits of companies and products that MPS acquires, and our ability to effectively and efficiently integrate these acquired companies and products into our operations; the risks, uncertainties and costs of litigation in which MPS is involved; the outcome of any upcoming trials, hearings, motions and appeals; the adverse impact on our financial performance if its tax and litigation provisions are inadequate; our ability to effectively manage our growth and attract and retain qualified personnel; the effect of epidemics and pandemics on the global economy and on our business; the risks associated with the financial market, economy, global tariffs, export controls and retaliatory measures and announcements regarding same, and geopolitical uncertainties, including current and potential global conflicts; the Company s ability to timely and adequately remediate its material weakness; and other important risk factors identified under the caption Risk Factors and elsewhere in our Securities and Exchange Commission ( SEC ) filings, including, but not limited to, our Annual Report on Form 10-K filed with the SEC on February 27, 2026. MPS assumes no obligation to update the information in this earnings commentary or in the accompanying webinar. 
+
+ 
+
+ 
+ 
+ 
+ 7 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ Non-GAAP Financial Measures 
+
+ 
+
+ This earnings commentary contains references to certain non-GAAP financial measures. Non-GAAP net income, non-GAAP net income per share, non-GAAP gross margin, non-GAAP operating expenses, non-GAAP operating income, non-GAAP other income, net, and non-GAAP income before income taxes differ from net income, net income per share, gross margin, operating expenses, operating income, other income, net, and income before income taxes determined in accordance with U.S. Generally Accepted Accounting Principles ( GAAP ). Non-GAAP net income and non-GAAP net income per share exclude the effect of stock-based compensation and related expenses, which include stock-based compensation expense and employer payroll taxes in relation to the stock-based compensation, amortization of acquisition-related intangible assets, net deferred compensation plan income, and related tax effects. Non-GAAP gross margin excludes the effect of stock-based compensation and related expenses, amortization of acquisition-related intangible assets and deferred compensation plan income. 
+
+ 
+
+ 
+ 
+ 
+ 8 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ Non-GAAP operating expenses exclude the effect of stock-based compensation and related expenses, amortization of acquisition-related intangible assets and deferred compensation plan income. Non-GAAP operating income excludes the effect of stock-based compensation and related expenses, amortization of acquisition-related intangible assets and deferred compensation plan income. Non-GAAP other income, net excludes the effect of deferred compensation plan expense. Non-GAAP income before income taxes excludes the effect of stock-based compensation and related expenses, amortization of acquisition-related intangible assets and net deferred compensation plan income. Projected non-GAAP gross margin excludes the effect of stock-based compensation and related expenses, and amortization of acquisition-related intangible assets. Projected non-GAAP operating expenses exclude the effect of stock-based compensation and related expenses. These non-GAAP financial measures are not prepared in accordance with GAAP and should not be considered as a substitute for, or superior to, measures of financial performance prepared in accordance with GAAP. A schedule reconciling non-GAAP financial measures is included at the end of this press release. MPS utilizes both GAAP and non-GAAP financial measures to assess what it believes to be its core operating performance and to evaluate and manage its internal business and assist in making financial operating decisions. MPS believes that the inclusion of non-GAAP financial measures, together with GAAP measures, provides investors with an alternative presentation useful to investors understanding of MPS s core operating results and trends. Additionally, MPS believes that the inclusion of non-GAAP measures, together with GAAP measures, provides investors with an additional dimension of comparability to similar companies. However, investors should be aware that non-GAAP financial measures utilized by other companies are not likely to be comparable in most cases to the non-GAAP financial measures used by MPS. See the GAAP to Non-GAAP reconciliations in the tables set forth below. 
+
+ 
+
+ About Monolithic Power Systems 
+
+ 
+
+ MPS is a fabless global company that provides high-performance, semiconductor-based power electronics solutions. MPS s mission is to reduce energy and material consumption to improve all aspects of quality of life and create a sustainable future. Founded in 1997 by our CEO Michael Hsing, MPS has three core strengths: deep system-level knowledge, strong semiconductor design expertise, and innovative proprietary technologies in the areas of semiconductor processes, system integration, and packaging. These combined advantages enable MPS to deliver reliable, compact, and monolithic solutions that are highly energy-efficient, cost-effective, and environmentally responsible while providing a consistent return on investment to our stockholders. MPS can be contacted through its website at www.monolithicpower.com or its support offices around the world. 
+
+ 
+
+ Monolithic Power Systems, MPS, and the MPS logo are registered trademarks of Monolithic Power Systems, Inc. in the U.S. and trademarked in certain other countries. 
+
+ 
+
+ 
+ 
+ 
+ 9 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ Monolithic Power Systems, Inc. 
+
+ Condensed Consolidated Balance Sheets 
+
+ (Unaudited, in thousands, except par value) 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ March 31, 
+ 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ ASSETS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Current assets: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash and cash equivalents 
+ 
+ 
+ $ 
+ 1,062,930 
+ 
+ 
+ $ 
+ 1,099,302 
+ 
+ 
+ 
+ 
+ Short-term investments 
+ 
+ 
+ 
+ 304,179 
+ 
+ 
+ 
+ 157,243 
+ 
+ 
+ 
+ 
+ Accounts receivable, net 
+ 
+ 
+ 
+ 302,138 
+ 
+ 
+ 
+ 255,626 
+ 
+ 
+ 
+ 
+ Inventories 
+ 
+ 
+ 
+ 619,159 
+ 
+ 
+ 
+ 564,649 
+ 
+ 
+ 
+ 
+ Other current assets 
+ 
+ 
+ 
+ 42,689 
+ 
+ 
+ 
+ 106,982 
+ 
+ 
+ 
+ 
+ Total current assets 
+ 
+ 
+ 
+ 2,331,095 
+ 
+ 
+ 
+ 2,183,802 
+ 
+ 
+ 
+ 
+ Property and equipment, net 
+ 
+ 
+ 
+ 693,864 
+ 
+ 
+ 
+ 627,689 
+ 
+ 
+ 
+ 
+ Acquisition-related intangible assets, net 
+ 
+ 
+ 
+ 8,503 
+ 
+ 
+ 
+ 8,790 
+ 
+ 
+ 
+ 
+ Goodwill 
+ 
+ 
+ 
+ 25,944 
+ 
+ 
+ 
+ 25,944 
+ 
+ 
+ 
+ 
+ Deferred tax assets, net 
+ 
+ 
+ 
+ 1,182,845 
+ 
+ 
+ 
+ 1,182,883 
+ 
+ 
+ 
+ 
+ Other long-term assets 
+ 
+ 
+ 
+ 206,615 
+ 
+ 
+ 
+ 165,091 
+ 
+ 
+ 
+ 
+ Total assets 
+ 
+ 
+ $ 
+ 4,448,866 
+ 
+ 
+ $ 
+ 4,194,199 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LIABILITIES AND STOCKHOLDERS EQUITY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Current liabilities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Accounts payable 
+ 
+ 
+ $ 
+ 174,499 
+ 
+ 
+ $ 
+ 138,272 
+ 
+ 
+ 
+ 
+ Accrued compensation and related benefits 
+ 
+ 
+ 
+ 98,768 
+ 
+ 
+ 
+ 85,963 
+ 
+ 
+ 
+ 
+ Other accrued liabilities 
+ 
+ 
+ 
+ 213,691 
+ 
+ 
+ 
+ 145,130 
+ 
+ 
+ 
+ 
+ Total current liabilities 
+ 
+ 
+ 
+ 486,958 
+ 
+ 
+ 
+ 369,365 
+ 
+ 
+ 
+ 
+ Income tax liabilities 
+ 
+ 
+ 
+ 75,022 
+ 
+ 
+ 
+ 75,022 
+ 
+ 
+ 
+ 
+ Deferred tax liabilities 
+ 
+ 
+ 
+ 90,316 
+ 
+ 
+ 
+ 90,480 
+ 
+ 
+ 
+ 
+ Other long-term liabilities 
+ 
+ 
+ 
+ 119,160 
+ 
+ 
+ 
+ 127,835 
+ 
+ 
+ 
+ 
+ Total liabilities 
+ 
+ 
+ 
+ 771,456 
+ 
+ 
+ 
+ 662,702 
+ 
+ 
+ 
+ 
+ Commitments and contingencies 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stockholders equity: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Common stock and additional paid-in capital: $0.001 par value; shares authorized: 150,000; shares issued and outstanding: 49,129 and 48,709, respectively 
+ 
+ 
+ 
+ 983,926 
+ 
+ 
+ 
+ 936,998 
+ 
+ 
+ 
+ 
+ Retained earnings 
+ 
+ 
+ 
+ 2,703,596 
+ 
+ 
+ 
+ 2,609,651 
+ 
+ 
+ 
+ 
+ Accumulated other comprehensive loss 
+ 
+ 
+ 
+ (10,112 
+ ) 
+ 
+ 
+ (15,152 
+ ) 
+ 
+ 
+ 
+ Total stockholders equity 
+ 
+ 
+ 
+ 3,677,410 
+ 
+ 
+ 
+ 3,531,497 
+ 
+ 
+ 
+ 
+ Total liabilities and stockholders equity 
+ 
+ 
+ $ 
+ 4,448,866 
+ 
+ 
+ $ 
+ 4,194,199 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 10 
+
+ 
+ 
+ 
+
+ 
+
+ Monolithic Power Systems, Inc. 
+
+ Condensed Consolidated Statements of Operations 
+
+ (Unaudited, in thousands, except per share amounts) 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Three Months Ended March 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ Revenue 
+ 
+ 
+ $ 
+ 804,185 
+ 
+ 
+ $ 
+ 637,554 
+ 
+ 
+ 
+ 
+ Cost of revenue 
+ 
+ 
+ 
+ 359,120 
+ 
+ 
+ 
+ 284,324 
+ 
+ 
+ 
+ 
+ Gross profit 
+ 
+ 
+ 
+ 445,065 
+ 
+ 
+ 
+ 353,230 
+ 
+ 
+ 
+ 
+ Operating expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Research and development 
+ 
+ 
+ 
+ 100,566 
+ 
+ 
+ 
+ 92,227 
+ 
+ 
+ 
+ 
+ Selling, general and administrative 
+ 
+ 
+ 
+ 103,347 
+ 
+ 
+ 
+ 92,244 
+ 
+ 
+ 
+ 
+ Total operating expenses 
+ 
+ 
+ 
+ 203,913 
+ 
+ 
+ 
+ 184,471 
+ 
+ 
+ 
+ 
+ Operating income 
+ 
+ 
+ 
+ 241,152 
+ 
+ 
+ 
+ 168,759 
+ 
+ 
+ 
+ 
+ Other income, net 
+ 
+ 
+ 
+ 6,030 
+ 
+ 
+ 
+ 5,131 
+ 
+ 
+ 
+ 
+ Income before income taxes 
+ 
+ 
+ 
+ 247,182 
+ 
+ 
+ 
+ 173,890 
+ 
+ 
+ 
+ 
+ Income tax expense 
+ 
+ 
+ 
+ 53,956 
+ 
+ 
+ 
+ 38,838 
+ 
+ 
+ 
+ 
+ Net income 
+ 
+ 
+ $ 
+ 193,226 
+ 
+ 
+ $ 
+ 135,052 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income per share: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Basic 
+ 
+ 
+ $ 
+ 3.94 
+ 
+ 
+ $ 
+ 2.82 
+ 
+ 
+ 
+ 
+ Diluted 
+ 
+ 
+ $ 
+ 3.92 
+ 
+ 
+ $ 
+ 2.81 
+ 
+ 
+ 
+ 
+ Weighted-average shares outstanding: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Basic 
+ 
+ 
+ 
+ 49,097 
+ 
+ 
+ 
+ 47,851 
+ 
+ 
+ 
+ 
+ Diluted 
+ 
+ 
+ 
+ 49,242 
+ 
+ 
+ 
+ 48,006 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 11 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ RECONCILIATION OF NET INCOME TO NON-GAAP NET INCOME 
+ 
+ 
+ 
+ 
+ (Unaudited, in thousands, except per share amounts) 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Three Months Ended March 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ Net income 
+ 
+ 
+ $ 
+ 193,226 
+ 
+ 
+ $ 
+ 135,052 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjustments to reconcile net income to non-GAAP net income: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stock-based compensation and related expenses 
+ 
+ 
+ 
+ 48,538 
+ 
+ 
+ 
+ 53,811 
+ 
+ 
+ 
+ 
+ Amortization of acquisition-related intangible assets 
+ 
+ 
+ 
+ 320 
+ 
+ 
+ 
+ 320 
+ 
+ 
+ 
+ 
+ Deferred compensation plan income, net 
+ 
+ 
+ 
+ (378 
+ ) 
+ 
+ 
+ (6 
+ ) 
+ 
+ 
+ 
+ Tax effect 
+ 
+ 
+ 
+ 9,606 
+ 
+ 
+ 
+ 4,636 
+ 
+ 
+ 
+ 
+ Non-GAAP net income 
+ 
+ 
+ $ 
+ 251,312 
+ 
+ 
+ $ 
+ 193,813 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Non-GAAP net income per share: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Basic 
+ 
+ 
+ $ 
+ 5.12 
+ 
+ 
+ $ 
+ 4.05 
+ 
+ 
+ 
+ 
+ Diluted 
+ 
+ 
+ $ 
+ 5.10 
+ 
+ 
+ $ 
+ 4.04 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Shares used in the calculation of non-GAAP net income per share: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Basic 
+ 
+ 
+ 
+ 49,097 
+ 
+ 
+ 
+ 47,851 
+ 
+ 
+ 
+ 
+ Diluted 
+ 
+ 
+ 
+ 49,242 
+ 
+ 
+ 
+ 48,006 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 12 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ RECONCILIATION OF GROSS MARGIN TO NON-GAAP GROSS MARGIN 
+ 
+ 
+ 
+ 
+ (Unaudited, in thousands) 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Three Months Ended March 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ Gross profit 
+ 
+ 
+ $ 
+ 445,065 
+ 
+ 
+ $ 
+ 353,230 
+ 
+ 
+ 
+ 
+ Gross margin 
+ 
+ 
+ 
+ 55.3 
+ % 
+ 
+ 
+ 55.4 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjustments to reconcile gross profit to non-GAAP gross profit: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stock-based compensation and related expenses 
+ 
+ 
+ 
+ 1,682 
+ 
+ 
+ 
+ 1,706 
+ 
+ 
+ 
+ 
+ Amortization of acquisition-related intangible assets 
+ 
+ 
+ 
+ 287 
+ 
+ 
+ 
+ 287 
+ 
+ 
+ 
+ 
+ Deferred compensation plan income 
+ 
+ 
+ 
+ (643 
+ ) 
+ 
+ 
+ (163 
+ ) 
+ 
+ 
+ 
+ Non-GAAP gross profit 
+ 
+ 
+ $ 
+ 446,391 
+ 
+ 
+ $ 
+ 355,060 
+ 
+ 
+ 
+ 
+ Non-GAAP gross margin 
+ 
+ 
+ 
+ 55.5 
+ % 
+ 
+ 
+ 55.7 
+ % 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ RECONCILIATION OF OPERATING EXPENSES TO NON-GAAP OPERATING EXPENSES 
+ 
+ 
+ 
+ 
+ (Unaudited, in thousands) 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Three Months Ended March 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ Total operating expenses 
+ 
+ 
+ $ 
+ 203,913 
+ 
+ 
+ $ 
+ 184,471 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjustments to reconcile total operating expenses to non-GAAP total operating expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stock-based compensation and related expenses 
+ 
+ 
+ 
+ (46,856 
+ ) 
+ 
+ 
+ (52,105 
+ ) 
+ 
+ 
+ 
+ Amortization of acquisition-related intangible assets 
+ 
+ 
+ 
+ (33 
+ ) 
+ 
+ 
+ (33 
+ ) 
+ 
+ 
+ 
+ Deferred compensation plan income 
+ 
+ 
+ 
+ 1,323 
+ 
+ 
+ 
+ 1,193 
+ 
+ 
+ 
+ 
+ Non-GAAP operating expenses 
+ 
+ 
+ $ 
+ 158,347 
+ 
+ 
+ $ 
+ 133,526 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 13 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ RECONCILIATION OF OPERATING INCOME TO NON-GAAP OPERATING INCOME 
+ 
+ 
+ 
+ 
+ (Unaudited, in thousands) 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Three Months Ended March 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ Total operating income 
+ 
+ 
+ $ 
+ 241,152 
+ 
+ 
+ $ 
+ 168,759 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjustments to reconcile total operating income to non-GAAP total operating income: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stock-based compensation and related expenses 
+ 
+ 
+ 
+ 48,538 
+ 
+ 
+ 
+ 53,811 
+ 
+ 
+ 
+ 
+ Amortization of acquisition-related intangible assets 
+ 
+ 
+ 
+ 320 
+ 
+ 
+ 
+ 320 
+ 
+ 
+ 
+ 
+ Deferred compensation plan income 
+ 
+ 
+ 
+ (1,966 
+ ) 
+ 
+ 
+ (1,356 
+ ) 
+ 
+ 
+ 
+ Non-GAAP operating income 
+ 
+ 
+ $ 
+ 288,044 
+ 
+ 
+ $ 
+ 221,534 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ RECONCILIATION OF OTHER INCOME, NET, TO NON-GAAP OTHER INCOME, NET 
+ 
+ 
+ 
+ 
+ (Unaudited, in thousands) 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Three Months Ended March 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ Total other income, net 
+ 
+ 
+ $ 
+ 6,030 
+ 
+ 
+ $ 
+ 5,131 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjustments to reconcile other income, net to non-GAAP other income, net: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Deferred compensation plan expense 
+ 
+ 
+ 
+ 1,588 
+ 
+ 
+ 
+ 1,350 
+ 
+ 
+ 
+ 
+ Non-GAAP other income, net 
+ 
+ 
+ $ 
+ 7,618 
+ 
+ 
+ $ 
+ 6,481 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ RECONCILIATION OF INCOME BEFORE INCOME TAXES TO NON-GAAP INCOME BEFORE INCOME TAXES 
+ 
+ 
+ 
+ 
+ (Unaudited, in thousands) 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Three Months Ended March 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ Total income before income taxes 
+ 
+ 
+ $ 
+ 247,182 
+ 
+ 
+ $ 
+ 173,890 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjustments to reconcile income before income taxes to non-GAAP income before income taxes: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stock-based compensation and related expenses 
+ 
+ 
+ 
+ 48,538 
+ 
+ 
+ 
+ 53,811 
+ 
+ 
+ 
+ 
+ Amortization of acquisition-related intangible assets 
+ 
+ 
+ 
+ 320 
+ 
+ 
+ 
+ 320 
+ 
+ 
+ 
+ 
+ Deferred compensation plan income, net 
+ 
+ 
+ 
+ (378 
+ ) 
+ 
+ 
+ (6 
+ ) 
+ 
+ 
+ 
+ Non-GAAP income before income taxes 
+ 
+ 
+ $ 
+ 295,662 
+ 
+ 
+ $ 
+ 228,015 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 14 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 2026 SECOND QUARTER OUTLOOK 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RECONCILIATION OF GROSS MARGIN TO NON-GAAP GROSS MARGIN 
+ 
+ 
+ 
+ 
+ (Unaudited) 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Three Months Ending 
+ 
+ 
+ 
+ 
+ 
+ 
+ June 30, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ Low 
+ 
+ 
+ 
+ High 
+ 
+ 
+ 
+ 
+ Gross margin 
+ 
+ 
+ 
+ 55.1 
+ % 
+ 
+ 
+ 55.7 
+ % 
+ 
+ 
+ 
+ Adjustment to reconcile gross margin to non-GAAP gross margin: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stock-based compensation and other expenses 
+ 
+ 
+ 
+ 0.2 
+ % 
+ 
+ 
+ 0.2 
+ % 
+ 
+ 
+ 
+ Non-GAAP gross margin 
+ 
+ 
+ 
+ 55.3 
+ % 
+ 
+ 
+ 55.9 
+ % 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ RECONCILIATION OF OPERATING EXPENSES TO NON-GAAP OPERATING EXPENSES 
+ 
+ 
+ 
+ 
+ (Unaudited, in thousands) 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Three Months Ending 
+ 
+ 
+ 
+ 
+ 
+ 
+ June 30, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ Low 
+ 
+ 
+ 
+ High 
+ 
+ 
+ 
+ 
+ Operating expenses 
+ 
+ 
+ $ 
+ 219,100 
+ 
+ 
+ $ 
+ 225,100 
+ 
+ 
+ 
+ 
+ Adjustments to reconcile operating expenses to non-GAAP operating expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stock-based compensation and other expenses 
+ 
+ 
+ 
+ (52,100 
+ ) 
+ 
+ 
+ (54,100 
+ ) 
+ 
+ 
+ 
+ Non-GAAP operating expenses 
+ 
+ 
+ $ 
+ 167,000 
+ 
+ 
+ $ 
+ 171,000 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 15

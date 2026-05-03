@@ -1,0 +1,3764 @@
+Ticker: VRSK
+Company: Verisk Analytics, Inc.
+Filed: 2026-04-29
+Type: PRESS_RELEASE
+Source: https://www.sec.gov/Archives/edgar/data/1442145/000143774926013728/ex_926417.htm
+
+EX-99.1
+ 2
+ ex_926417.htm
+ EXHIBIT 99.1
+ 
+ 
+ ex_926417.htm 
+ 
+ 
+ 
+ 
+
+ Exhibit 99.1 
+
+ 
+
+ 
+
+ Verisk Reports First Quarter 2026 Financial Results 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenue was $783 million, up 3.9% , and up 4.7% on an organic constant currency (OCC) basis, a non-GAAP measure. 
+ 
+ 
+ 
+ 
+ 
+ Net income was $234 million, up 0.8% . 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjusted EBITDA, a non-GAAP measure, was $438 million, up 5.0% , and up 5.9% on an OCC basis. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted GAAP earnings per share (EPS) was $1.73 , up 4.8% . 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted adjusted EPS, a non-GAAP measure, was $1.82 , up 5.2% . 
+ 
+ 
+ 
+ 
+ 
+ Net cash provided by operating activities was $ 390 million, down 12.2% and free cash flow, a non-GAAP measure, was $ 326 million, down 16.5% , due to a tax refund received in the prior year and higher interest payments. 
+ 
+ 
+ 
+ 
+ Paid a cash dividend of 50 cents per share on March 31, 2026. 
+ 
+ 
+ 
+ 
+ Executed a $1.5 billion Accelerated Share Repurchase Program. 
+ 
+
+ 
+
+ 
+
+ JERSEY CITY, N.J., April 29, 2026 — Verisk (Nasdaq: VRSK), a leading strategic data analytics and technology provider to the global insurance industry, today announced results for the first quarter ended March 31, 2026. The earnings release is available on the company s Investor Relations website at investor.verisk.com. 
+
+ 
+
+ 
+
+ 
+
+ Lee Shavel, President and CEO, Verisk: 
+
+ "Verisk started the year by delivering continued growth across the business. We have confidence that our operating momentum will build throughout the year as we continue to deepen client relationships and invest in innovation that addresses the industry's most critical challenges. Our proprietary datasets and distinctive insights are competitive advantages that enable us to introduce new and effective AI solutions into core insurance workflows and decision making. Our powerful economic model will continue to create long-term value for clients and shareholders alike." 
+
+ 
+
+ 
+
+ Elizabeth Mann, CFO, Verisk: 
+
+ "In the first quarter, Verisk delivered organic constant currency revenue growth of 4.7% and OCC adjusted EBITDA growth of 5.9%. During the quarter we executed a $1.5 billion accelerated share repurchase program while continuing to invest back into our business. We have confidence that as we move throughout the year, our growth will return to levels consistent with our long-term targets and as a result, we are reaffirming our financial guidance for 2026." 
+
+ 
+
+ 
+
+ 
+
+ Financial Highlights 
+
+ Summary of Results (GAAP and Non-GAAP) 
+($ in millions, except per share amounts) 
+Note: Adjusted EBITDA, diluted adjusted EPS, and free cash flow are non-GAAP measures. 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Three Months Ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ March 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ Revenues 
+ 
+ 
+ $ 
+ 783 
+ 
+ 
+ $ 
+ 753 
+ 
+ 
+ 
+ 3.9 
+ % 
+ 
+ 
+ 
+ Net income 
+ 
+ 
+ 
+ 234 
+ 
+ 
+ 
+ 232 
+ 
+ 
+ 
+ 0.8 
+ 
+ 
+ 
+ 
+ Adjusted EBITDA 
+ 
+ 
+ 
+ 438 
+ 
+ 
+ 
+ 417 
+ 
+ 
+ 
+ 5.0 
+ 
+ 
+ 
+ 
+ Diluted EPS attributable to Verisk 
+ 
+ 
+ 
+ 1.73 
+ 
+ 
+ 
+ 1.65 
+ 
+ 
+ 
+ 4.8 
+ 
+ 
+ 
+ 
+ Diluted adjusted EPS 
+ 
+ 
+ 
+ 1.82 
+ 
+ 
+ 
+ 1.73 
+ 
+ 
+ 
+ 5.2 
+ 
+ 
+ 
+ 
+ Effective tax rate 
+ 
+ 
+ 
+ 24.1 
+ % 
+ 
+ 
+ 21.6 
+ % 
+ 
+ 
+ 2.5 
+ 
+ 
+ 
+ 
+ Net cash provided by operating activities 
+ 
+ 
+ 
+ 390 
+ 
+ 
+ 
+ 445 
+ 
+ 
+ 
+ (12.2 
+ ) 
+ 
+ 
+ 
+ Free cash flow 
+ 
+ 
+ 
+ 326 
+ 
+ 
+ 
+ 391 
+ 
+ 
+ 
+ (16.5 
+ ) 
+ 
+ 
+ 
+ Dividends per share 
+ 
+ 
+ 
+ 0.50 
+ 
+ 
+ 
+ 0.45 
+ 
+ 
+ 
+ 11.1 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 1 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ Revenue 
+
+ ($ in millions) 
+
+ Note: OCC revenue growth is a non-GAAP measure. See Non-GAAP Reconciliations on pages 11-12 for a reconciliation to the nearest GAAP measure. 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Three Months Ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ March 31, 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ Reported 
+ 
+ 
+ 
+ 
+ OCC 
+ 
+ 
+ 
+ 
+ 
+ Underwriting 
+ 
+ 
+ $ 
+ 552 
+ 
+ 
+ $ 
+ 532 
+ 
+ 
+ 
+ 3.8 
+ % 
+ 
+ 
+ 5.3 
+ % 
+ 
+ 
+ 
+ Claims 
+ 
+ 
+ 
+ 231 
+ 
+ 
+ 
+ 221 
+ 
+ 
+ 
+ 4.3 
+ 
+ 
+ 
+ 3.4 
+ 
+ 
+ 
+ 
+ Insurance 
+ 
+ 
+ $ 
+ 783 
+ 
+ 
+ $ 
+ 753 
+ 
+ 
+ 
+ 3.9 
+ 
+ 
+ 
+ 4.7 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Underwriting revenues incre ased 3.8% in the quarter and 5.3% on an OCC basis, primarily due to price increases derived from continued enhancements to our forms, rules and loss cost solutions. In addition, increased sales to new clients as well as expanded renewals with existing clients drove growth within catastrophe and risk solutions, specialty business solutions, and life solutions . 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Claims revenues increased 4.3 % in the quarter and 3.4 % on an O CC basis, primarily due to improved value realization in our anti-fraud analytics and sales to new customers within casualty solutions. This was offset by modest declines in our property and restoration solutions. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ Net Income, Adjusted EBITDA and Adjusted EBITDA Margin 
+
+ ($ in millions) 
+
+ Note: Adjusted EBITDA is a non-GAAP measure. Margin is calculated as a percentage of revenues. See Non-GAAP Reconciliations on pages 11-12 for a reconciliation to the nearest GAAP measure. 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Net inc ome was $234 million, an increase of 0.8% in the quarter. The increase in net income was mainly driven by operating leverage on the revenue growth and cost discipline, partially offset by increases in the effective tax rate and net interest expense. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Three Months Ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ March 31, 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ Margin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ Reported 
+ 
+ 
+ 
+ 
+ OCC 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ Adjusted EBITDA 
+ 
+ 
+ $ 
+ 438 
+ 
+ 
+ $ 
+ 417 
+ 
+ 
+ 
+ 5.0 
+ % 
+ 
+ 
+ 5.9 
+ % 
+ 
+ 
+ 55.9 
+ % 
+ 
+ 
+ 55.3 
+ % 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjusted EBITDA increased 5.9% in the quarter on an OCC basis, primarily due to operating leverage on the revenue growth and cost discipline. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 2 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ Diluted EPS 
+
+ Note: Diluted adjusted EPS is a non-GAAP measure. See Non-GAAP Reconciliations on pages 11-12 for a reconciliation to the nearest GAAP measure. 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Three Months Ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ March 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ Diluted EPS attributable to Verisk 
+ 
+ 
+ $ 
+ 1.73 
+ 
+ 
+ $ 
+ 1.65 
+ 
+ 
+ 
+ 4.8 
+ % 
+ 
+ 
+ 
+ Diluted adjusted EPS 
+ 
+ 
+ $ 
+ 1.82 
+ 
+ 
+ $ 
+ 1.73 
+ 
+ 
+ 
+ 5.2 
+ % 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted EPS and diluted adjusted EPS increased 4.8% and 5.2% in the quarter, respectively, both reflecting strong operational performance and a lower average share count, partially offset by increased net interest expense and a higher effective tax rate. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Cash Flow and Capital Return 
+
+ ($ in millions) 
+
+ Note: Free cash flow is a non-GAAP measure. 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Three Months Ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ March 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ Net cash provided by operating activities 
+ 
+ 
+ $ 
+ 390.4 
+ 
+ 
+ $ 
+ 444.7 
+ 
+ 
+ 
+ (12.2 
+ )% 
+ 
+ 
+ 
+ Capital expenditures 
+ 
+ 
+ 
+ (64.0 
+ ) 
+ 
+ 
+ (53.7 
+ ) 
+ 
+ 
+ 19.2 
+ 
+ 
+ 
+ 
+ Free cash flow 
+ 
+ 
+ $ 
+ 326.4 
+ 
+ 
+ $ 
+ 391.0 
+ 
+ 
+ 
+ (16.5 
+ ) 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Net cash provided by operating activ ities decreased 12.2% in the quarter, while free cash flow decreased 16.5% in the quarter. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ The decrease in net cash provided by operating activities and free cash flow was primarily driven by a tax refund received in the prior year that did not recur in the current year, as well as higher interest payments. The increase in interest payments was the result of higher debt balances in the quarter offset in part by higher interest income earned on cash. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ O n March 31, 2026, we paid a cash dividend of 50 c ents per share of common stock issued and outstanding to the holders of record as of March 13, 2026. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ In the first quarter of 2026, we entered into a $1.5 billion Accelerated Share Repurchase program and received an initial delivery of 6,986,302 shares of our common stock at an initial price of $182.50, representing approximately 85 percent of the aggregate purchase price. Additionally, we repurchased $126.1 million of our common stock through open market repurchases, and received 583,042 shares at an average price per share of $216.24. As of March 31, 2026, we had $1.0 billion remaining under our share repurchase authorization. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 3 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ Full Year 2026 Outlook 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Full Year 2026 Guidance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions, except per share amounts) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Low 
+ 
+ 
+ 
+ 
+ High 
+ 
+ 
+ 
+ 
+ 
+ Total revenue 
+ 
+ 
+ $ 
+ 3,190 
+ 
+ 
+ $ 
+ 3,240 
+ 
+ 
+ 
+ 
+ Adjusted EBITDA 
+ 
+ 
+ $ 
+ 1,790 
+ 
+ 
+ $ 
+ 1,830 
+ 
+ 
+ 
+ 
+ Adjusted EBITDA margin 
+ 
+ 
+ 
+ 56.0 
+ % 
+ 
+ 
+ 56.5 
+ % 
+ 
+ 
+ 
+ Diluted adjusted EPS 
+ 
+ 
+ $ 
+ 7.45 
+ 
+ 
+ $ 
+ 7.75 
+ 
+ 
+ 
+ 
+ Tax rate 
+ 
+ 
+ 
+ 23.0 
+ % 
+ 
+ 
+ 26.0 
+ % 
+ 
+ 
+ 
+ Capital expenditures 
+ 
+ 
+ $ 
+ 260 
+ 
+ 
+ $ 
+ 280 
+ 
+ 
+ 
+ 
+ Fixed asset depreciation & amortization 
+ 
+ 
+ $ 
+ 270 
+ 
+ 
+ $ 
+ 290 
+ 
+ 
+ 
+ 
+ Intangible amortization 
+ 
+ 
+ $ 
+ 60 
+ 
+ 
+ $ 
+ 60 
+ 
+ 
+ 
+ 
+ Interest expense 
+ 
+ 
+ $ 
+ 190 
+ 
+ 
+ $ 
+ 200 
+ 
+ 
+ 
+ 
+ Dividend per share 
+ 
+ 
+ $ 
+ 2.00 
+ 
+ 
+ $ 
+ 2.00 
+ 
+ 
+
+ 
+
+ 
+
+ Subsequent Events 
+
+ 
+
+ On April 27, 2026, our Board of Directors approved a cash dividend of 50 cents per share of common stock issued and outstanding, payable on June 30, 2026, to holders of record as of June 15, 2026. 
+
+ 
+
+ Conference Call 
+
+ 
+
+ Our management team will host a live audio webcast to discuss the financial results and business highlights on Wednesday, April 29, 2026, at 8:30 a.m. EDT (5:30 a.m. PDT, 12:30 p.m. GMT). All interested parties are invited to listen to the live event via webcast on our investor website at http://investor.verisk.com . The discussion will also be available throu gh dial-in number 1-833-461-5787 for U.S. participants, 1-365-657-4048 for Canada participants, or 1-44-808-196-8935 for U.K. participants. 
+
+ 
+
+ A replay of the webcast will be available for up to 1 year on our investor website. 
+
+ 
+
+ About Verisk 
+
+ 
+
+ Verisk (Nasdaq: VRSK) is a leading strategic data analytics and technology partner to the global insurance industry. It empowers clients to strengthen operating efficiency, improve underwriting and claims outcomes, combat fraud and make informed decisions about global risks, including climate change, catastrophic events, sustainability and political issues. Through advanced data analytics, software, scientific research and deep industry knowledge, Verisk helps build global resilience for individuals, communities and businesses. With teams across more than 20 countries, Verisk consistently earns certification by Great Place to Work. 
+
+ 
+
+ Verisk is traded on the Nasdaq exchange and is a part of the S&P 500 Index and the Nasdaq-100 Index. 
+
+ 
+
+ For more information, please visit www.verisk.com . 
+
+ 
+
+ Contact: 
+
+ 
+
+ Investor Relations 
+Stacey Brodbar 
+Head of Investor Relations 
+Verisk 
+201-469-4327 
+ IR@verisk.com 
+
+ 
+
+ Media 
+
+ Alberto Canal 
+
+ Verisk Public Relations 
+
+ 201-469-2618 
+
+ Alberto.Canal@verisk.com 
+
+ 
+
+ 
+ 
+ 
+ 4 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ Forward-Looking Statements 
+
+ 
+
+ This release contains forward-looking statements, including those related to our Full Year 2026 Outlook and financial guidance. These statements relate to future events or to future financial performance and involve known and unknown risks, uncertainties, and other factors that may cause our actual results, levels of activity, performance, or achievements to be materially different from any future results, levels of activity, performance, or achievements expressed or implied by these forward-looking statements. This includes, but is not limited to, our expectation and ability to pay a cash dividend on our common stock in the future, subject to the determination by our Board of Directors and based on an evaluation of our earnings, financial condition and requirements, business conditions, capital allocation determinations, and other factors, risks, and uncertainties. In some cases, you can identify forward-looking statements by the use of words such as may, could, expect, intend, plan, target, seek, anticipate, believe, estimate, predict, potential, or continue or the negative of these terms or other comparable terminology. You should not place undue reliance on forward-looking statements, because they involve known and unknown risks, uncertainties, and other factors that are, in some cases, beyond our control and that could materially affect actual results, levels of activity, performance or achievements. 
+
+ 
+
+ Other factors that could materially affect actual results, levels of activity, performance, or achievements can be found in our quarterly reports on Form 10-Q, annual reports on Form 10-K, and current reports on Form 8-K filed with the Securities and Exchange Commission. If any of these risks or uncertainties materialize or if our underlying assumptions prove to be incorrect, actual results may vary significantly from what we projected. Any forward-looking statement in this release reflects our current views with respect to future events and is subject to these and other risks, uncertainties, and assumptions relating to our operations, results of operations, growth strategy, and liquidity. We assume no obligation to publicly update or revise these forward-looking statements for any reason, whether as a result of new information, future events, or otherwise except as required by law. 
+
+ 
+
+ Notes Regarding the Use of Non-GAAP Financial Measures 
+
+ 
+
+ We have provided certain non-GAAP financial information as supplemental information regarding our operating results. These measures are not in accordance with, or an alternative for, U.S. GAAP and may be different from non-GAAP measures reported by other companies. We believe that our presentation of non-GAAP measures provides useful information to management and investors regarding certain financial and business trends relating to our financial condition and results of operations. In addition, our management uses these measures for reviewing our financial results, for budgeting and planning purposes, and for evaluating the performance of senior management. 
+
+ 
+
+ EBITDA, Adjusted EBITDA, and Adjusted EBITDA Expenses: EBITDA represents GAAP net income adjusted for (i) depreciation and amortization of fixed assets; (ii) amortization of intangible assets; (iii) interest expense, net; and (iv) provision for income taxes. Adjusted EBITDA represents EBITDA adjusted for acquisition-related adjustments (earn-outs), gain/loss from dispositions (which includes businesses held for sale), and nonrecurring gain/loss. Adjusted EBITDA expenses represent adjusted EBITDA net of revenues. We believe these measures are useful and meaningful because they help us allocate resources, make business decisions, allow for greater transparency regarding our operating performance, and facilitate period-to-period comparison. 
+
+ 
+
+ Adjusted Net Income and Diluted Adjusted EPS: Adjusted net income represents GAAP net income adjusted for (i) amortization of intangible assets, net of tax; (ii) acquisition-related adjustments (earn-outs), net of tax; (iii) gain/loss from dispositions (which includes businesses held for sale), net of tax; and (iv) nonrecurring gain/loss, net of tax. Diluted adjusted EPS represents adjusted net income divided by weighted-average diluted shares. We believe these measures are useful and meaningful because they allow evaluation of the after-tax profitability of our results excluding the after-tax effect of acquisition-related costs and nonrecurring items. 
+
+ 
+
+ Free Cash Flow: Free cash flow represents net cash provided by operating activities determined in accordance with GAAP minus payments for capital expenditures. We believe free cash flow is an important measure of the recurring cash generated by our operations that may be available to repay debt obligations, repurchase our stock, invest in future growth through new business development activities, or make acquisitions. 
+
+ 
+
+ Organic: Organic is defined as operating results excluding the effect of recent acquisitions and dispositions (which include businesses held for sale), and nonrecurring gain/loss associated with cost-based and equity-method investments that have occurred over the past year. An acquisition is included as organic at the beginning of the calendar quarter that occurs subsequent to the one-year anniversary of the acquisition date. Once an acquisition is included in its current-period organic base, its comparable prior-year-period operating results are also included to calculate organic growth. A disposition (which includes a business held for sale) is excluded from organic at the beginning of the calendar quarter in which the disposition occurs (or when a business meets the held-for-sale criteria under U.S. GAAP). Once a disposition is excluded from its current-period organic base, its comparable prior-year-period operating results are also excluded to calculate organic growth. We believe the organic presentation enables investors to assess the growth of the business without the impact of recent acquisitions for which there is no prior-year comparison and the impact of recent dispositions, for which results are removed from all prior periods presented to allow for comparability. 
+
+ 
+
+ 
+ 
+ 
+ 5 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ Organic Constant Currency (OCC) Growth Rate: Our operating results, such as, but not limited to, revenue and adjusted EBITDA, reported in U.S. dollars are affected by foreign currency exchange rate fluctuations because the underlying foreign currencies in which we transact changes in value over time compared with the U.S. dollar. Accordingly, we present certain constant currency financial information to assess how we performed excluding the impact of foreign currency exchange rate fluctuations. We calculate constant currency by translating comparable prior-year-period results at the currency exchange rates used in the current period. We believe organic constant currency is a useful and meaningful measure to enhance investors understanding of the continuing operating performance of our business and to facilitate the comparison of period-to-period performance because it excludes the impact of foreign exchange rate movements, acquisitions, and dispositions. 
+
+ 
+
+ See page 3 for a reconciliation of net cash provided by operating activities to free cash flow. See page 11 for reconciliations of organic revenues, adjusted EBITDA, and adjusted EBITDA margin. See page 12 for reconciliations of adjusted EBITDA expenses and diluted adjusted EPS. 
+
+ 
+
+ We are not able to provide reconciliations of Full Year 2026 Outlook for Adjusted EBITDA, Adjusted EBITDA margin, and Diluted adjusted EPS to the most directly comparable expected GAAP results because of the unreasonable effort and high unpredictability of estimating certain items that are excluded from non-GAAP Adjusted EBITDA, Adjusted EBITDA margin, and Diluted adjusted EPS, including, for example, tax consequences, acquisition-related costs, gain/loss from dispositions and other non-recurring expenses, the effect of which may be significant. 
+
+ 
+
+ Attached Financial Statements 
+
+ 
+
+ Please refer to the Form 10-Q filing for the complete financial statements and related notes. 
+
+ 
+
+ 
+ 
+ 
+ 6 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ VERISK ANALYTICS, INC. 
+
+ CONDENSED CONSOLIDATED BALANCE SHEETS 
+
+ As of March 31, 2026 and December 31, 2025 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ (Unaudited) 
+ 
+ 
+ (Audited) 
+ 
+ 
+ 
+ 
+ 
+ 
+ March 31, 2026 
+ 
+ 
+ 
+ 
+ December 31, 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions, except for share and per share data) 
+ 
+ 
+ 
+ 
+ 
+ ASSETS: 
+ 
+ 
+ 
+ 
+ 
+ Current assets: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash and cash equivalents 
+ 
+ 
+ $ 
+ 524.5 
+ 
+ 
+ $ 
+ 2,178.2 
+ 
+ 
+ 
+ 
+ Accounts receivable, net of allowance for doubtful accounts of $35.7 and $33.2, respectively 
+ 
+ 
+ 
+ 554.3 
+ 
+ 
+ 
+ 422.2 
+ 
+ 
+ 
+ 
+ Prepaid expenses 
+ 
+ 
+ 
+ 83.2 
+ 
+ 
+ 
+ 86.4 
+ 
+ 
+ 
+ 
+ Income taxes receivable 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 48.6 
+ 
+ 
+ 
+ 
+ Other current assets 
+ 
+ 
+ 
+ 39.9 
+ 
+ 
+ 
+ 30.0 
+ 
+ 
+ 
+ 
+ Total current assets 
+ 
+ 
+ 
+ 1,201.9 
+ 
+ 
+ 
+ 2,765.4 
+ 
+ 
+ 
+ 
+ Noncurrent assets: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fixed assets, net 
+ 
+ 
+ 
+ 578.2 
+ 
+ 
+ 
+ 582.8 
+ 
+ 
+ 
+ 
+ Operating lease right-of-use assets, net 
+ 
+ 
+ 
+ 132.7 
+ 
+ 
+ 
+ 138.9 
+ 
+ 
+ 
+ 
+ Intangible assets, net 
+ 
+ 
+ 
+ 329.0 
+ 
+ 
+ 
+ 346.6 
+ 
+ 
+ 
+ 
+ Goodwill 
+ 
+ 
+ 
+ 1,863.1 
+ 
+ 
+ 
+ 1,878.2 
+ 
+ 
+ 
+ 
+ Deferred income tax assets 
+ 
+ 
+ 
+ 36.1 
+ 
+ 
+ 
+ 36.6 
+ 
+ 
+ 
+ 
+ Other noncurrent assets 
+ 
+ 
+ 
+ 457.4 
+ 
+ 
+ 
+ 447.0 
+ 
+ 
+ 
+ 
+ Total assets 
+ 
+ 
+ $ 
+ 4,598.4 
+ 
+ 
+ $ 
+ 6,195.5 
+ 
+ 
+ 
+ 
+ LIABILITIES AND STOCKHOLDERS (DEFICIT) EQUITY: 
+ 
+ 
+ 
+ 
+ 
+ Current liabilities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Accounts payable and accrued liabilities 
+ 
+ 
+ $ 
+ 199.0 
+ 
+ 
+ $ 
+ 319.1 
+ 
+ 
+ 
+ 
+ Short-term debt and current portion of long-term debt 
+ 
+ 
+ 
+ 258.4 
+ 
+ 
+ 
+ 1,508.9 
+ 
+ 
+ 
+ 
+ Deferred revenues 
+ 
+ 
+ 
+ 681.2 
+ 
+ 
+ 
+ 444.2 
+ 
+ 
+ 
+ 
+ Operating lease liabilities 
+ 
+ 
+ 
+ 24.9 
+ 
+ 
+ 
+ 26.3 
+ 
+ 
+ 
+ 
+ Income taxes payable 
+ 
+ 
+ 
+ 17.2 
+ 
+ 
+ 
+ 1.8 
+ 
+ 
+ 
+ 
+ Total current liabilities 
+ 
+ 
+ 
+ 1,180.7 
+ 
+ 
+ 
+ 2,300.3 
+ 
+ 
+ 
+ 
+ Noncurrent liabilities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Long-term debt 
+ 
+ 
+ 
+ 4,217.2 
+ 
+ 
+ 
+ 3,228.3 
+ 
+ 
+ 
+ 
+ Deferred income tax liabilities 
+ 
+ 
+ 
+ 196.9 
+ 
+ 
+ 
+ 193.4 
+ 
+ 
+ 
+ 
+ Operating lease liabilities 
+ 
+ 
+ 
+ 124.7 
+ 
+ 
+ 
+ 136.9 
+ 
+ 
+ 
+ 
+ Other noncurrent liabilities 
+ 
+ 
+ 
+ 45.8 
+ 
+ 
+ 
+ 26.8 
+ 
+ 
+ 
+ 
+ Total liabilities 
+ 
+ 
+ 
+ 5,765.3 
+ 
+ 
+ 
+ 5,885.7 
+ 
+ 
+ 
+ 
+ Commitments and contingencies 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stockholders (deficit) equity: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Common stock, $.001 par value; 2,000,000,000 shares authorized; 544,003,038 shares issued; 131,016,125 and 138,397,709 shares outstanding, respectively 
+ 
+ 
+ 
+ 0.1 
+ 
+ 
+ 
+ 0.1 
+ 
+ 
+ 
+ 
+ Additional paid-in capital 
+ 
+ 
+ 
+ 2,898.3 
+ 
+ 
+ 
+ 3,113.2 
+ 
+ 
+ 
+ 
+ Treasury stock, at cost, 412,986,913 and 405,605,329 shares, respectively 
+ 
+ 
+ 
+ (12,132.0 
+ ) 
+ 
+ 
+ (10,721.8 
+ ) 
+ 
+ 
+ 
+ Retained earnings 
+ 
+ 
+ 
+ 7,979.7 
+ 
+ 
+ 
+ 7,810.5 
+ 
+ 
+ 
+ 
+ Accumulated other comprehensive income 
+ 
+ 
+ 
+ 86.2 
+ 
+ 
+ 
+ 107.0 
+ 
+ 
+ 
+ 
+ Total Verisk stockholders' (deficit) equity 
+ 
+ 
+ 
+ (1,167.7 
+ ) 
+ 
+ 
+ 309.0 
+ 
+ 
+ 
+ 
+ Noncontrolling interests 
+ 
+ 
+ 
+ 0.8 
+ 
+ 
+ 
+ 0.8 
+ 
+ 
+ 
+ 
+ Total stockholders (deficit) equity 
+ 
+ 
+ 
+ (1,166.9 
+ ) 
+ 
+ 
+ 309.8 
+ 
+ 
+ 
+ 
+ Total liabilities and stockholders (deficit) equity 
+ 
+ 
+ $ 
+ 4,598.4 
+ 
+ 
+ $ 
+ 6,195.5 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 7 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ VERISK ANALYTICS, INC. 
+
+ CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (UNAUDITED) 
+
+ For the Three Months Ended March 31, 2026 and 2025 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Three Months Ended March 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions, except for share and per share data) 
+ 
+ 
+ 
+ 
+ 
+ Revenues 
+ 
+ 
+ $ 
+ 782.6 
+ 
+ 
+ $ 
+ 753.0 
+ 
+ 
+ 
+ 
+ Operating expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of revenues (exclusive of items shown separately below) 
+ 
+ 
+ 
+ 236.6 
+ 
+ 
+ 
+ 230.8 
+ 
+ 
+ 
+ 
+ Selling, general and administrative 
+ 
+ 
+ 
+ 109.5 
+ 
+ 
+ 
+ 108.9 
+ 
+ 
+ 
+ 
+ Depreciation and amortization of fixed assets 
+ 
+ 
+ 
+ 69.9 
+ 
+ 
+ 
+ 67.4 
+ 
+ 
+ 
+ 
+ Amortization of intangible assets 
+ 
+ 
+ 
+ 14.4 
+ 
+ 
+ 
+ 15.8 
+ 
+ 
+ 
+ 
+ Total operating expenses, net 
+ 
+ 
+ 
+ 430.4 
+ 
+ 
+ 
+ 422.9 
+ 
+ 
+ 
+ 
+ Operating income 
+ 
+ 
+ 
+ 352.2 
+ 
+ 
+ 
+ 330.1 
+ 
+ 
+ 
+ 
+ Other expense: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Investment (loss) gain 
+ 
+ 
+ 
+ (0.5 
+ ) 
+ 
+ 
+ 2.6 
+ 
+ 
+ 
+ 
+ Interest expense, net 
+ 
+ 
+ 
+ (43.2 
+ ) 
+ 
+ 
+ (36.3 
+ ) 
+ 
+ 
+ 
+ Total other expense, net 
+ 
+ 
+ 
+ (43.7 
+ ) 
+ 
+ 
+ (33.7 
+ ) 
+ 
+ 
+ 
+ Income before income taxes 
+ 
+ 
+ 
+ 308.5 
+ 
+ 
+ 
+ 296.4 
+ 
+ 
+ 
+ 
+ Provision for income taxes 
+ 
+ 
+ 
+ (74.3 
+ ) 
+ 
+ 
+ (64.1 
+ ) 
+ 
+ 
+ 
+ Net income 
+ 
+ 
+ $ 
+ 234.2 
+ 
+ 
+ $ 
+ 232.3 
+ 
+ 
+ 
+ 
+ Basic net income per share attributable to Verisk: 
+ 
+ 
+ $ 
+ 1.73 
+ 
+ 
+ $ 
+ 1.66 
+ 
+ 
+ 
+ 
+ Diluted net income per share attributable to Verisk: 
+ 
+ 
+ $ 
+ 1.73 
+ 
+ 
+ $ 
+ 1.65 
+ 
+ 
+ 
+ 
+ Weighted-average shares outstanding: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Basic 
+ 
+ 
+ 
+ 135,020,391 
+ 
+ 
+ 
+ 140,294,117 
+ 
+ 
+ 
+ 
+ Diluted 
+ 
+ 
+ 
+ 135,222,570 
+ 
+ 
+ 
+ 140,939,555 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 8 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ VERISK ANALYTICS, INC. 
+
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED) 
+
+ For the Three Months Ended March 31, 2026 and 2025 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Three Months Ended March 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 
+ 
+ Cash flows from operating activities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income 
+ 
+ 
+ $ 
+ 234.2 
+ 
+ 
+ $ 
+ 232.3 
+ 
+ 
+ 
+ 
+ Adjustments to reconcile net income to net cash provided by operating activities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Depreciation and amortization of fixed assets 
+ 
+ 
+ 
+ 69.9 
+ 
+ 
+ 
+ 67.4 
+ 
+ 
+ 
+ 
+ Amortization of intangible assets 
+ 
+ 
+ 
+ 14.4 
+ 
+ 
+ 
+ 15.8 
+ 
+ 
+ 
+ 
+ Amortization of debt issuance costs and original issue discount, net of original issue premium 
+ 
+ 
+ 
+ 0.8 
+ 
+ 
+ 
+ 0.6 
+ 
+ 
+ 
+ 
+ Provision for doubtful accounts 
+ 
+ 
+ 
+ 4.8 
+ 
+ 
+ 
+ 5.3 
+ 
+ 
+ 
+ 
+ Stock-based compensation expense 
+ 
+ 
+ 
+ 18.4 
+ 
+ 
+ 
+ 15.6 
+ 
+ 
+ 
+ 
+ Deferred income taxes 
+ 
+ 
+ 
+ 4.0 
+ 
+ 
+ 
+ (9.7 
+ ) 
+ 
+ 
+ 
+ Acquisition related liability adjustment 
+ 
+ 
+ 
+ 1.1 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Other operating 
+ 
+ 
+ 
+ 0.2 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Changes in assets and liabilities, net of effects from acquisitions: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Accounts receivable 
+ 
+ 
+ 
+ (138.6 
+ ) 
+ 
+ 
+ (133.6 
+ ) 
+ 
+ 
+ 
+ Prepaid expenses and other assets 
+ 
+ 
+ 
+ (16.2 
+ ) 
+ 
+ 
+ 11.1 
+ 
+ 
+ 
+ 
+ Operating lease right-of-use assets, net 
+ 
+ 
+ 
+ 1.8 
+ 
+ 
+ 
+ 5.6 
+ 
+ 
+ 
+ 
+ Income taxes 
+ 
+ 
+ 
+ 64.0 
+ 
+ 
+ 
+ 141.1 
+ 
+ 
+ 
+ 
+ Accounts payable and accrued liabilities 
+ 
+ 
+ 
+ (117.2 
+ ) 
+ 
+ 
+ (44.5 
+ ) 
+ 
+ 
+ 
+ Deferred revenues 
+ 
+ 
+ 
+ 238.1 
+ 
+ 
+ 
+ 136.7 
+ 
+ 
+ 
+ 
+ Operating lease liabilities 
+ 
+ 
+ 
+ (8.7 
+ ) 
+ 
+ 
+ (3.7 
+ ) 
+ 
+ 
+ 
+ Other liabilities 
+ 
+ 
+ 
+ 19.4 
+ 
+ 
+ 
+ 4.7 
+ 
+ 
+ 
+ 
+ Net cash provided by operating activities 
+ 
+ 
+ 
+ 390.4 
+ 
+ 
+ 
+ 444.7 
+ 
+ 
+ 
+ 
+ Cash flows from investing activities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Acquisitions and purchase of additional controlling interest, net of cash acquired of $0.0 and $0.0, respectively 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (4.1 
+ ) 
+ 
+ 
+ 
+ Investments in non-public companies, net 
+ 
+ 
+ 
+ (0.9 
+ ) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Capital expenditures 
+ 
+ 
+ 
+ (64.0 
+ ) 
+ 
+ 
+ (53.7 
+ ) 
+ 
+ 
+ 
+ Escrow release associated with acquisitions 
+ 
+ 
+ 
+ 0.5 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Net cash used in investing activities 
+ 
+ 
+ 
+ (64.4 
+ ) 
+ 
+ 
+ (57.8 
+ ) 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 9 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Three Months Ended March 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 
+ 
+ Cash flows from financing activities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Proceeds from issuance of long-term debt, net of original discount 
+ 
+ 
+ 
+ 999.0 
+ 
+ 
+ 
+ 698.3 
+ 
+ 
+ 
+ 
+ Proceeds from Syndicated Revolving Credit Facility 
+ 
+ 
+ 
+ 750.0 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Repayment of Syndicated Revolving Credit Facility 
+ 
+ 
+ 
+ (750.0 
+ ) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Proceeds from Term Loan Facility 
+ 
+ 
+ 
+ 500.0 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Repayment of Term Loan Facility 
+ 
+ 
+ 
+ (250.0 
+ ) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Repayment of short-term debt, inclusive of special mandatory redemption fee 
+ 
+ 
+ 
+ (1,515.0 
+ ) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Payment of debt issuance costs 
+ 
+ 
+ 
+ (8.9 
+ ) 
+ 
+ 
+ (6.2 
+ ) 
+ 
+ 
+ 
+ Repurchases of common stock 
+ 
+ 
+ 
+ (1,401.8 
+ ) 
+ 
+ 
+ (170.1 
+ ) 
+ 
+ 
+ 
+ Common stock repurchases not yet settled 
+ 
+ 
+ 
+ (225.1 
+ ) 
+ 
+ 
+ (30.0 
+ ) 
+ 
+ 
+ 
+ Proceeds from stock options exercised 
+ 
+ 
+ 
+ 10.6 
+ 
+ 
+ 
+ 24.7 
+ 
+ 
+ 
+ 
+ Net share settlement of taxes from restricted stock and performance share awards 
+ 
+ 
+ 
+ (14.3 
+ ) 
+ 
+ 
+ (17.9 
+ ) 
+ 
+ 
+ 
+ Dividends paid 
+ 
+ 
+ 
+ (65.5 
+ ) 
+ 
+ 
+ (63.0 
+ ) 
+ 
+ 
+ 
+ Other financing activities, net 
+ 
+ 
+ 
+ (6.9 
+ ) 
+ 
+ 
+ (2.5 
+ ) 
+ 
+ 
+ 
+ Net cash (used in) provided by financing activities 
+ 
+ 
+ 
+ (1,977.9 
+ ) 
+ 
+ 
+ 433.3 
+ 
+ 
+ 
+ 
+ Effect of exchange rate changes 
+ 
+ 
+ 
+ (1.8 
+ ) 
+ 
+ 
+ 0.7 
+ 
+ 
+ 
+ 
+ Net (decrease) increase in cash and cash equivalents 
+ 
+ 
+ 
+ (1,653.7 
+ ) 
+ 
+ 
+ 820.9 
+ 
+ 
+ 
+ 
+ Cash and cash equivalents, beginning of period 
+ 
+ 
+ 
+ 2,178.2 
+ 
+ 
+ 
+ 291.2 
+ 
+ 
+ 
+ 
+ Cash and cash equivalents, end of period 
+ 
+ 
+ $ 
+ 524.5 
+ 
+ 
+ $ 
+ 1,112.1 
+ 
+ 
+ 
+ 
+ Supplemental disclosures: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income taxes paid (received) 
+ 
+ 
+ $ 
+ 6.1 
+ 
+ 
+ $ 
+ (67.4 
+ ) 
+ 
+ 
+ 
+ Interest paid 
+ 
+ 
+ $ 
+ 60.0 
+ 
+ 
+ $ 
+ 10.4 
+ 
+ 
+ 
+ 
+ Noncash investing and financing activities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Finance lease additions 
+ 
+ 
+ $ 
+ 4.4 
+ 
+ 
+ $ 
+ 1.2 
+ 
+ 
+ 
+ 
+ Operating lease (terminations) additions, net 
+ 
+ 
+ $ 
+ (3.7 
+ ) 
+ 
+ $ 
+ 0.6 
+ 
+ 
+ 
+ 
+ Fixed assets included in accounts payable and accrued liabilities 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 0.1 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 10 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ Non-GAAP Reconciliations 
+
+ 
+
+ Organic Revenues Reconciliation 
+
+ ($ in millions) 
+
+ Note: Organic revenues are a non-GAAP measure. 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Three Months Ended March 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ Revenues 
+ 
+ 
+ $ 
+ 782.6 
+ 
+ 
+ $ 
+ 753.0 
+ 
+ 
+ 
+ 
+ Less: Revenues from acquisitions and disposition 
+ 
+ 
+ 
+ (6.4 
+ ) 
+ 
+ 
+ (17.3 
+ ) 
+ 
+ 
+ 
+ Organic revenues 
+ 
+ 
+ $ 
+ 776.2 
+ 
+ 
+ $ 
+ 735.7 
+ 
+ 
+
+ 
+
+ 
+
+ Consolidated EBITDA, Adjusted EBITDA, Adjusted EBITDA Margin, and Organic Adjusted EBITDA Reconciliation 
+
+ ($ in millions) 
+
+ Note: EBITDA, adjusted EBITDA, adjusted EBITDA margin, and organic adjusted EBITDA are non-GAAP measures. Margin is calculated as a percentage of revenues. 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Three Months Ended March 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ 
+ Margin 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ 
+ Margin 
+ 
+ 
+ 
+ 
+ 
+ Net income 
+ 
+ 
+ $ 
+ 234.2 
+ 
+ 
+ 
+ 29.9 
+ % 
+ 
+ $ 
+ 232.3 
+ 
+ 
+ 
+ 30.8 
+ % 
+ 
+ 
+ 
+ Depreciation and amortization of fixed assets 
+ 
+ 
+ 
+ 69.9 
+ 
+ 
+ 
+ 8.9 
+ 
+ 
+ 
+ 67.4 
+ 
+ 
+ 
+ 9.0 
+ 
+ 
+ 
+ 
+ Amortization of intangible assets 
+ 
+ 
+ 
+ 14.4 
+ 
+ 
+ 
+ 1.9 
+ 
+ 
+ 
+ 15.8 
+ 
+ 
+ 
+ 2.1 
+ 
+ 
+ 
+ 
+ Interest expense, net 
+ 
+ 
+ 
+ 43.2 
+ 
+ 
+ 
+ 5.5 
+ 
+ 
+ 
+ 36.3 
+ 
+ 
+ 
+ 4.8 
+ 
+ 
+ 
+ 
+ Provision for income taxes 
+ 
+ 
+ 
+ 74.3 
+ 
+ 
+ 
+ 9.5 
+ 
+ 
+ 
+ 64.1 
+ 
+ 
+ 
+ 8.5 
+ 
+ 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 
+ 436.0 
+ 
+ 
+ 
+ 55.7 
+ 
+ 
+ 
+ 415.9 
+ 
+ 
+ 
+ 55.2 
+ 
+ 
+ 
+ 
+ Acquisition-related earn-outs, net 
+ 
+ 
+ 
+ 1.0 
+ 
+ 
+ 
+ 0.1 
+ 
+ 
+ 
+ 0.7 
+ 
+ 
+ 
+ 0.1 
+ 
+ 
+ 
+ 
+ Acquisition-related fees 
+ 
+ 
+ 
+ 0.5 
+ 
+ 
+ 
+ 0.1 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Adjusted EBITDA 
+ 
+ 
+ 
+ 437.5 
+ 
+ 
+ 
+ 55.9 
+ 
+ 
+ 
+ 416.6 
+ 
+ 
+ 
+ 55.3 
+ 
+ 
+ 
+ 
+ Adjusted EBITDA from acquisitions and disposition 
+ 
+ 
+ 
+ (3.9 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ (5.2 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Organic adjusted EBITDA 
+ 
+ 
+ $ 
+ 433.6 
+ 
+ 
+ 
+ 55.9 
+ 
+ 
+ $ 
+ 411.4 
+ 
+ 
+ 
+ 55.9 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 11 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ Consolidated Adjusted EBITDA Expense Reconciliation 
+
+ ($ in millions) 
+
+ Note: Adjusted EBITDA expenses are a non-GAAP measure. 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Three Months Ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ March 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ Operating expenses 
+ 
+ 
+ $ 
+ 430.4 
+ 
+ 
+ $ 
+ 422.9 
+ 
+ 
+ 
+ 
+ Less: Depreciation and amortization of fixed assets 
+ 
+ 
+ 
+ (69.9 
+ ) 
+ 
+ 
+ (67.4 
+ ) 
+ 
+ 
+ 
+ Less: Amortization of intangible assets 
+ 
+ 
+ 
+ (14.4 
+ ) 
+ 
+ 
+ (15.8 
+ ) 
+ 
+ 
+ 
+ Less: Investment loss (gain) 
+ 
+ 
+ 
+ 0.5 
+ 
+ 
+ 
+ (2.6 
+ ) 
+ 
+ 
+ 
+ Less: Acquisition-related earn-outs, net 
+ 
+ 
+ 
+ (1.0 
+ ) 
+ 
+ 
+ (0.7 
+ ) 
+ 
+ 
+ 
+ Less: Acquisition-related fees 
+ 
+ 
+ 
+ (0.5 
+ ) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Adjusted EBITDA expenses 
+ 
+ 
+ $ 
+ 345.1 
+ 
+ 
+ $ 
+ 336.4 
+ 
+ 
+
+ 
+
+ 
+
+ Adjusted Net Income and Diluted Adjusted EPS Reconciliation 
+
+ ($ in millions, except per share amounts) 
+
+ Note: Diluted adjusted EPS is a non-GAAP measure. 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Three Months Ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ March 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ Net income 
+ 
+ 
+ $ 
+ 234.2 
+ 
+ 
+ $ 
+ 232.3 
+ 
+ 
+ 
+ 
+ Plus: Amortization of intangibles 
+ 
+ 
+ 
+ 14.4 
+ 
+ 
+ 
+ 15.8 
+ 
+ 
+ 
+ 
+ Less: Income tax effect on amortization of intangibles 
+ 
+ 
+ 
+ (3.8 
+ ) 
+ 
+ 
+ (4.1 
+ ) 
+ 
+ 
+ 
+ Plus: Acquisition-related earn-outs, net 
+ 
+ 
+ 
+ 1.0 
+ 
+ 
+ 
+ 0.7 
+ 
+ 
+ 
+ 
+ Less: Income tax effect on acquisition-related earn-outs, net 
+ 
+ 
+ 
+ (0.2 
+ ) 
+ 
+ 
+ (0.2 
+ ) 
+ 
+ 
+ 
+ Plus: Acquisition-related fees 
+ 
+ 
+ 
+ 0.5 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Less: Income tax effect on acquisition-related fees 
+ 
+ 
+ 
+ (0.1 
+ ) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Adjusted net income 
+ 
+ 
+ $ 
+ 246.0 
+ 
+ 
+ $ 
+ 244.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted EPS attributable to Verisk 
+ 
+ 
+ $ 
+ 1.73 
+ 
+ 
+ $ 
+ 1.65 
+ 
+ 
+ 
+ 
+ Diluted adjusted EPS 
+ 
+ 
+ $ 
+ 1.82 
+ 
+ 
+ $ 
+ 1.73 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Weighted-average diluted shares outstanding 
+ 
+ 
+ 
+ 135.2 
+ 
+ 
+ 
+ 140.9 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 12

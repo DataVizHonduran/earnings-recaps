@@ -1,0 +1,3678 @@
+Ticker: PWR
+Company: QUANTA SERVICES, INC.
+Filed: 2026-04-30
+Type: PRESS_RELEASE
+Source: https://www.sec.gov/Archives/edgar/data/1050915/000119312526193918/d107542dex991.htm
+
+EX-99.1
+ 2
+ d107542dex991.htm
+ EX-99.1
+ 
+ 
+ EX-99.1 
+ 
+ 
+
+ 
+ Exhibit 99.1 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ PRESS RELEASE 
+ 
+ FOR IMMEDIATE RELEASE 
+ 26-08 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ Contacts: 
+ 
+ Jayshree Desai, CFO 
+ 
+ Media Mili Gosar 
+ 
+ 
+ 
+ Kip Rupp, CFA, IRC - Investors 
+ 
+ FGS Global 
+ 
+ 
+ 
+ Quanta Services, Inc. 
+ 
+ (832) 640-7570 
+ 
+ 
+ 
+ (713) 629-7600 
+ 
+ 
+ QUANTA SERVICES REPORTS FIRST QUARTER 2026 RESULTS 
+ First Quarter Consolidated Revenues of $7.9 Billion* 
+ First Quarter GAAP Diluted EPS of $1.45* and Adjusted Diluted EPS of $2.68* 
+ Net Income Attributable to Common Stock of $220.6 Million* 
+ Adjusted EBITDA of $686.4 Million* 
+ Cash Flow From Operations of $391.7 Million* and Free Cash Flow of $184.4 Million* 
+ Remaining Performance Obligations (RPO) of $26.2 Billion* and Total Backlog of $48.5 Billion* 
+ Increasing Substantially All 2026 Financial Expectations 
+ * = Record quarterly or record first quarter result 
+ HOUSTON April 30, 2026 - Quanta Services, Inc. (NYSE: PWR) today announced results for the three months ended March 31,
+2026. Revenues in the first quarter of 2026 were $7.87 billion compared to revenues of $6.23 billion in the first quarter of 2025, and net income attributable to common stock was $220.6 million, or $1.45 per diluted share, in the
+first quarter of 2026 compared to net income attributable to common stock of $144.3 million, or $0.96 per diluted share, in the first quarter of 2025. Adjusted diluted earnings per share attributable to common stock was $2.68 for the first
+quarter of 2026 compared to $1.78 for the first quarter of 2025. Quanta delivered an exceptional first quarter, reflected by strong double-digit
+growth in revenue, adjusted EBITDA and adjusted earnings per share, along with record backlog of $48.5 billion. In particular, revenue growth and margin performance exceeded our expectations across both segments, demonstrating the power of our
+differentiated, solutions-based operating model and the execution certainty our craft-skilled workforce delivers for our customers every day. Based on this strong start to the year and improved visibility, we are increasing our full-year 2026
+financial expectations and remain on track to deliver another year of double-digit earnings per share growth, said Duke Austin, President and Chief Executive Officer of Quanta Services. 
+ -MORE- 
+
+ 
+
+ 
+ 
+
+ 
+ At our Investor Day last month, we outlined a clear path to more than doubling our adjusted EPS by
+2030, driven by our Compounding Model and our unique positioning at the center of converging utility, generation and large-load markets — which we believe together represent a total addressable market of $2.4 trillion through 2030. The
+accelerating convergence of these markets continues to create significant opportunities, and Quanta s craft-labor platform, integrated solutions and supply chain investments position us as the trusted partner our customers turn to when
+certainty matters most. I want to recognize the dedication and absolute performance mindset of our Quanta family, whose commitment to safety, quality and performance continues to drive our success and support the strength of our long-term
+outlook. Certain items that impacted Quanta s results for the three months ended March 31, 2026 and 2025 are reflected as adjustments
+in the calculation of Quanta s Adjusted net income attributable to common stock, Adjusted diluted earnings per share attributable to common stock and Adjusted EBITDA (non-GAAP financial measures). These
+items are described in the accompanying tables reconciling Adjusted net income attributable to common stock, EBITDA and Adjusted EBITDA to net income attributable to common stock and Adjusted diluted earnings per share attributable to common stock
+to diluted earnings per share attributable to common stock. Quanta completed eight acquisitions during the full year 2025, and the results of the acquired businesses are included in Quanta s consolidated results from the respective acquisition
+dates. For further information on the items that impacted comparability of 2026 and 2025, see the footnotes in the accompanying tables presenting Supplemental Segment Data and reconciliations of EBITDA, Adjusted EBITDA, Adjusted net income
+attributable to common stock and Adjusted diluted earnings per share attributable to common stock (non-GAAP financial measures) to their comparable GAAP financial measures. 
+ FULL-YEAR 2026 OUTLOOK Prior to the Company s
+conference call, management will post a summary of Quanta s updated 2026 guidance expectations with additional commentary in the News and Events and Financial Info areas of the Investor Relations section of
+Quanta s website at http://investors.quantaservices.com . The long-term outlook for Quanta s business is positive. However, weather,
+regulatory, permitting, supply chain challenges and other factors affecting project timing and execution have impacted, and may impact in the future, Quanta s financial results. Additionally, we continue to consider future uncertainty
+associated with overall challenges to the domestic and global economy, including inflation, interest rates and potential recessionary economic conditions. Quanta s financial outlook for revenues, margins and earnings reflects
+management s effort to align these uncertainties with the backlog the Company is executing on and the opportunities expected to materialize during the remainder of 2026. 
+ -MORE- 
+
+ 
+
+ 
+ 
+
+ 
+ The following forward-looking statements are based on current expectations, and actual results may differ
+materially, as described below in Cautionary Statement About Forward-Looking Statements and Information . For the full year ending December 31, 2026, Quanta now expects revenues to range between $34.7 billion and $35.2 billion
+and net income attributable to common stock to range between $1.40 billion and $1.50 billion. Quanta also now expects diluted earnings per share attributable to common stock to range between $9.17 and $9.87 and adjusted diluted earnings
+per share attributable to common stock to range between $13.55 and $14.25. Quanta now expects EBITDA to range between $3.20 billion and $3.36 billion and adjusted EBITDA to range between $3.49 billion and $3.65 billion.
+Additionally, for the full year ending December 31, 2026, Quanta continues to expect net cash provided by operating activities to range between $2.35 billion and $2.85 billion and free cash flow (a
+ non-GAAP financial measure) to range between $1.55 billion and $2.05 billion. NON-GAAP FINANCIAL MEASURES The financial measures not prepared in conformity with generally accepted accounting
+principles in the United States (GAAP) that are utilized in this press release are provided to enable investors, analysts and management to evaluate Quanta s performance excluding the effects of certain items that management believes impact
+the comparability of operating results between reporting periods. In addition, management believes these measures are useful in comparing Quanta s operating results with those of its competitors. These measures should be used in addition to,
+and not in lieu of, financial measures prepared in conformity with GAAP. Please see the accompanying tables for reconciliations of the following non-GAAP financial measures for Quanta s current and historical results and full-year 2026 expectations (as applicable): adjusted diluted earnings per share attributable to common stock to diluted earnings per
+share attributable to common stock; adjusted net income attributable to common stock, EBITDA and adjusted EBITDA to net income attributable to common stock; free cash flow to net cash provided by operating activities; and backlog to remaining
+performance obligations. EARNINGS WEBCAST AND SUPPLEMENTAL MATERIALS INFORMATION 
+ Quanta Services has scheduled a webcast and conference call for 9:00 a.m. Eastern Time today, April 30, 2026. This event will be facilitated through web-based audio using a Zoom Webinar. To register for and access the event, please log in to the webinar through the Investor Relations section of Quanta s website ( http://investors.quantaservices.com ).
+Once registered, if you prefer to access the call by phone, dial-in details will be provided on the event access page upon registration and when prompted, please enter the unique Participant ID provided to
+join the call. Please allow at least 15 minutes to register and download and install any necessary audio software. For those who cannot participate live, shortly following the webcast a digital recording will be available on the Company s
+website. 
+ -MORE- 
+
+ 
+
+ 
+ 
+
+ 
+ Additionally, Quanta has posted its First Quarter 2026 Operational and Financial Commentary, as well as all
+other supplemental earnings call materials, in the Investor Relations section of the Quanta Services website. While management intends to make brief introductory remarks during the earnings call, the Operational and Financial Commentary is
+intended to largely replace management s prepared remarks, allowing additional time for questions from the institutional investment community. For more information, please contact Kip Rupp, Vice President - Investor Relations or Sean Eastman,
+Director - Investor Relations at Quanta Services, at 713-629-7600 or investors@quantaservices.com. 
+ FOLLOW QUANTA IR ON SOCIAL MEDIA Investors and others
+should note that while Quanta announces material financial information and makes other public disclosures of information regarding Quanta through U.S. Securities and Exchange Commission (SEC) filings, press releases and public conference calls, it
+also utilizes social media to communicate this information. It is possible that the information Quanta posts on social media could be deemed material. Accordingly, Quanta encourages investors, the media and others interested in our company to follow
+Quanta, and review the information it posts, on the social media channels listed in the Investor Relations section of the Quanta Services website. 
+ ABOUT QUANTA SERVICES Quanta Services is an industry
+leader in providing specialized infrastructure solutions to the utility, power generation, load center, communications, pipeline, and energy industries. Quanta s comprehensive services include designing, installing, repairing and maintaining
+energy, load center and communications infrastructure. With operations throughout the United States, Canada, Australia and select other international markets, Quanta has the manpower, resources and expertise to safely complete projects that are
+local, regional, national or international in scope. For more information, visit www.quantaservices.com . 
+ -MORE- 
+
+ 
+
+ 
+ 
+
+ 
+ Cautionary Statement About Forward-Looking Statements and Information 
+ This press release (and oral statements regarding the subject matter of this press release, including those made on the conference call and webcast announced
+herein) contains forward-looking statements intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995. Forward-looking statements include, but are not limited to,
+statements relating to projected revenues, net income, earnings per share, margins, cash flows, liquidity, weighted average shares outstanding, capital expenditures, interest rates and tax rates, as well as other projections of operating results and
+GAAP and non-GAAP financial results, including EBITDA, Adjusted EBITDA and backlog; expectations regarding Quanta s business or financial outlook; expectations regarding opportunities, technological
+developments, competitive positioning, future economic and regulatory conditions and other trends in particular markets or industries; expectations regarding Quanta s plans and strategies, including with respect to supply chain solutions and
+expanded or new services offerings; the business plans or financial condition of Quanta s customers; the potential benefits from, and future financial and operational performance of, acquired businesses and investments; the expected value of
+contracts or intended contracts with customers, as well as the expected timing, scope, services, term or results of any awarded or expected projects; possible recovery of pending or contemplated insurance claims, change orders and claims asserted
+against customers or third parties, as well as the collectability of receivables; the development of and opportunities with respect to future projects, including projects involving renewable energy and other power generation, electrical grid
+modernization, upgrade and hardening projects, data centers and other technology infrastructure, advanced manufacturing facilities and larger transmission and pipeline infrastructure; expectations regarding the future availability and price of
+materials and equipment necessary for the performance of Quanta s business; the expected impact of global and domestic economic or political conditions on Quanta s business, financial condition, results of operations, cash flows,
+liquidity and demand for Quanta s services, including inflation, interest rates, tariffs and recessionary economic conditions and commodity prices and production volumes; the expected impact of changes or potential changes in climate and the
+physical and transition risks associated with changes in climate; future capital allocation initiatives, including the amount and timing of, and strategies with respect to, any future acquisitions, investments, cash dividends, repurchases of
+Quanta s equity or debt securities or repayments of other outstanding debt; the expected impact of existing or potential legislation or regulation; potential opportunities that may be indicated by bidding activity or similar discussions with
+customers; the future demand for, availability of and costs related to labor resources in the industries Quanta serves; the expected recognition and realization of Quanta s remaining performance obligations and backlog; expectations regarding
+the outcome of pending or threatened legal proceedings; and expectations regarding Quanta s ability to maintain its current credit ratings; as well as statements reflecting expectations, intentions, assumptions or beliefs about future events,
+and other statements that do not relate strictly to historical or current facts. These forward-looking statements are not guarantees of future performance; rather they involve or rely on a number of risks, uncertainties, and assumptions that are
+difficult to predict or are beyond our control, and reflect management s beliefs and assumptions based on information available at the time the statements are made. We caution you that actual outcomes and results may differ materially from
+what is expressed, implied or forecasted by our forward-looking statements and that any or all of our forward-looking statements may turn out to be inaccurate or incorrect. Forward-looking statements can be affected by inaccurate assumptions and by
+known or unknown risks and uncertainties including, among others, market, industry, economic, financial or political conditions that are outside of the control of Quanta, including economic, energy, infrastructure and environmental policies and
+plans that are adopted or proposed by the U.S. federal and state governments or other governments in territories or countries in which Quanta operates, inflation, interest rates, recessionary economic conditions, deterioration of global or specific
+trade relationships and geopolitical conflicts and political unrest; quarterly variations in operating and financial results, liquidity, financial condition, cash flows, capital requirements and reinvestment opportunities; trends and growth
+opportunities in relevant markets, including Quanta s ability to obtain future project awards; delays, deferrals, reductions in scope or cancellations of anticipated, pending or existing projects as a result of, among other things, supply
+chain or production disruptions and other logistical challenges, weather, regulatory or permitting issues, right of way acquisition, environmental processes, project performance issues, claimed force majeure events, protests or other political
+activity, legal challenges, inflationary pressure, reductions or eliminations in governmental funding or customer capital constraints; the effect of commodity prices and production volumes, which have been and may continue to be affected by
+inflationary pressure and geopolitical conditions, on Quanta s operations and growth opportunities and on customers capital programs and demand for Quanta s services; the successful negotiation, execution, performance and
+completion of anticipated, pending and existing contracts; events arising from operational hazards, including, among others, wildfires and explosions, that can arise due to the nature of Quanta s services and certain of Quanta s product
+solutions, as well as the conditions in which Quanta operates and can be due to the failure of infrastructure on which Quanta has performed services and result in significant liabilities that may be exacerbated in certain geographies and locations;
+unexpected costs, liabilities, fines or penalties that may arise from legal proceedings, indemnity obligations, reimbursement obligations associated with letters of credit or bonds, multiemployer pension plans or other claims or actions asserted
+against Quanta, including amounts not covered by, or in excess of the coverage under, third-party insurance; potential unavailability or cancellation of third-party insurance coverage, as well as the exclusion of coverage for certain losses,
+potential increases in premiums and deductibles for coverage deemed beneficial to Quanta, increases in amounts or retention amounts or the unavailability of coverage deemed beneficial to Quanta at reasonable and competitive rates (e.g., coverage for
+wildfire events); damage to Quanta s brand or reputation, as well as potential costs, liabilities, fines and penalties, arising as a result of cybersecurity breaches, environmental and occupational health and safety matters, corporate scandal,
+failure to successfully perform or negative publicity regarding a high-profile or large-scale infrastructure project, involvement in a catastrophic event (e.g., fire, explosion) or other negative incidents; disruptions in, or failure to adequately
+protect, Quanta s information technology systems; Quanta s dependence on suppliers, subcontractors, equipment manufacturers and other third-parties, and the impact of, among other things, inflationary pressure, regulatory, supply chain
+and logistical challenges on these third parties; estimates and assumptions relating to financial results, remaining performance obligations and backlog; Quanta s inability to attract, the potential shortage of and increased costs with respect
+to skilled employees, as well as Quanta s inability to retain or attract key personnel and qualified employees; Quanta s dependence on fixed price contracts and the potential to incur losses with respect to these contracts; cancellation
+provisions within contracts and the risk that contracts expire and are not renewed or are replaced on less favorable terms; Quanta s inability or failure to comply with the terms of its contracts, which may result in additional costs,
+unexcused delays, warranty claims, failure to meet performance guarantees, damages or contract terminations; adverse weather conditions, natural disasters and other emergencies, including wildfires, pandemics, hurricanes, tropical storms, floods,
+debris flows, earthquakes and other geological- and weather-related hazards; the impact of changes in climate; Quanta s ability to generate internal growth; competition in Quanta s business, including the ability to effectively compete
+for new projects and market share, as well as technological advancements and market developments that could reduce demand for Quanta s services; the failure of existing or potential legislative actions and initiatives to result in increased
+demand for Quanta s services or budgetary or other constraints that may reduce or eliminate tax incentives or government funding for projects, which may result in project delays or cancellations; unavailability of, or increased prices for,
+materials, equipment and consumables (such as fuel) used in Quanta s or its customers businesses, including as a result of inflationary pressure, supply chain or production disruptions, governmental regulations on sourcing, the
+imposition of tariffs, duties, taxes or other assessments, and other changes in U.S. trade relationships with foreign countries; loss of or deterioration of relationships with customers with whom Quanta has long-standing or significant
+relationships; the potential that participation in joint ventures or similar structures exposes Quanta to liability or harm to its reputation as a result of acts or omissions by partners; the inability or refusal of customers or third-party
+contractors to pay for services, which could result in the inability to collect our outstanding receivables, failure to recover amounts billed to, or avoidance of certain payments received from, customers in bankruptcy or failure to recover on
+change orders or contract claims; risks associated with operating in international markets and U.S. territories, including instability of governments, significant currency exchange fluctuations, and compliance with unfamiliar legal and labor systems
+and cultural practices, the U.S. Foreign Corrupt Practices Act and other applicable anti-bribery and anti-corruption laws, and complex U.S. and foreign tax regulations and international treaties; inability to successfully identify, complete,
+integrate and realize synergies from acquisitions, including the inability to retain key personnel from acquired businesses; the potential adverse impact of acquisitions and investments, including the potential increase in risks already existing in
+Quanta s operations, poor performance or decline in value of acquired businesses or investments and unexpected costs or liabilities that may arise from acquisitions or investments; the adverse impact of impairments of goodwill, other
+intangible assets, receivables, long-lived assets or investments; the impact of the unionized portion of Quanta s workforce on its operations; inability to access sufficient funding to finance desired growth and operations, including the
+ability to access capital markets on favorable terms, as well as fluctuations in the price and trading volume of Quanta s common stock, debt covenant compliance, interest rate fluctuations, a downgrade in our credit ratings and other factors
+affecting financing and investing activities; the ability to obtain bonds, letters of credit and other project security; new or changed tax laws, treaties or regulations or the inability to realize deferred tax assets; and other risks and
+uncertainties detailed in Quanta s Annual Report on Form 10-K for the year ended December 31, 2025, Quanta s Quarterly Report on Form 10-Q for the
+quarter ended March 31, 2026 (when filed) and any other documents that Quanta files with the SEC. For a discussion of these risks, uncertainties and assumptions, investors are urged to refer to Quanta s documents filed with the SEC that
+are available through Quanta s website at www.quantaservices.com or through the SEC s Electronic Data Gathering and Analysis Retrieval System (EDGAR) at www.sec.gov . Should one or more of these risks materialize, or should
+underlying assumptions prove incorrect, actual results may vary materially from those expressed or implied in any forward-looking statements. Investors are cautioned not to place undue reliance on these forward-looking statements, which are current
+only as of this date. Quanta does not undertake and expressly disclaims any obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise. Quanta further expressly disclaims any
+written or oral statements made by any third party regarding the subject matter of this press release. 
+ -MORE- 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Quanta Services, Inc. and Subsidiaries 
+ Condensed Consolidated Statements of Operations 
+ For the Three Months Ended 
+ March 31, 2026 and 2025 
+ (In thousands, except per share information) 
+ (Unaudited) 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended 
+ 
+ 
+ 
+ 
+ March 31, 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+
+ 
+ Revenues 
+ 
+ $ 
+ 7,874,787 
+ 
+ 
+ $ 
+ 6,233,334 
+ 
+ 
+ Cost of services 
+ 
+ 
+ 6,767,458 
+ 
+ 
+ 
+ 5,399,297 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gross profit 
+ 
+ 
+ 1,107,329 
+ 
+ 
+ 
+ 834,037 
+ 
+ 
+ Equity in earnings of integral unconsolidated affiliates 
+ 
+ 
+ 14,469 
+ 
+ 
+ 
+ 12,929 
+ 
+ 
+ Selling, general and administrative expenses 
+ 
+ 
+ (620,726 
+ ) 
+ 
+ 
+ (493,966 
+ ) 
+ 
+ Amortization of intangible assets 
+ 
+ 
+ (152,381 
+ ) 
+ 
+ 
+ (109,562 
+ ) 
+ 
+ Increase in fair value of contingent consideration liabilities 
+ 
+ 
+ (9,912 
+ ) 
+ 
+ 
+ (4,357 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income 
+ 
+ 
+ 338,779 
+ 
+ 
+ 
+ 239,081 
+ 
+ 
+ Interest and other financing expenses 
+ 
+ 
+ (73,267 
+ ) 
+ 
+ 
+ (54,312 
+ ) 
+ 
+ Interest income 
+ 
+ 
+ 2,908 
+ 
+ 
+ 
+ 3,841 
+ 
+ 
+ Other (expense) income, net 
+ 
+ 
+ (12,064 
+ ) 
+ 
+ 
+ 239 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income before income taxes 
+ 
+ 
+ 256,356 
+ 
+ 
+ 
+ 188,849 
+ 
+ 
+ Provision for income taxes 
+ 
+ 
+ 24,925 
+ 
+ 
+ 
+ 39,880 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income 
+ 
+ 
+ 231,431 
+ 
+ 
+ 
+ 148,969 
+ 
+ 
+ Less: Net income attributable to non-controlling 
+interests 
+ 
+ 
+ 10,806 
+ 
+ 
+ 
+ 4,711 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income attributable to common stock 
+ 
+ $ 
+ 220,625 
+ 
+ 
+ $ 
+ 144,258 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Earnings per share attributable to common stock: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Basic 
+ 
+ $ 
+ 1.47 
+ 
+ 
+ $ 
+ 0.97 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted 
+ 
+ $ 
+ 1.45 
+ 
+ 
+ $ 
+ 0.96 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Shares used in computing earnings per share: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Weighted average basic shares outstanding 
+ 
+ 
+ 149,779 
+ 
+ 
+ 
+ 148,274 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Weighted average diluted shares outstanding 
+ 
+ 
+ 152,086 
+ 
+ 
+ 
+ 150,964 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ -MORE- 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Quanta Services, Inc. and Subsidiaries 
+ Condensed Consolidated Balance Sheets 
+ (In thousands) 
+ (Unaudited) 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ March 31, 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+
+ 
+ ASSETS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CURRENT ASSETS: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash and cash equivalents 
+ 
+ $ 
+ 364,761 
+ 
+ 
+ $ 
+ 439,508 
+ 
+ 
+ Accounts receivable, net 
+ 
+ 
+ 7,597,966 
+ 
+ 
+ 
+ 6,847,091 
+ 
+ 
+ Contract assets 
+ 
+ 
+ 1,609,786 
+ 
+ 
+ 
+ 1,522,186 
+ 
+ 
+ Inventories 
+ 
+ 
+ 446,891 
+ 
+ 
+ 
+ 370,372 
+ 
+ 
+ Prepaid expenses and other current assets 
+ 
+ 
+ 633,233 
+ 
+ 
+ 
+ 724,260 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total current assets 
+ 
+ 
+ 10,652,637 
+ 
+ 
+ 
+ 9,903,417 
+ 
+ 
+ PROPERTY AND EQUIPMENT, net 
+ 
+ 
+ 3,513,445 
+ 
+ 
+ 
+ 3,455,204 
+ 
+ 
+ OPERATING LEASE
+ RIGHT-OF-USE ASSETS 
+ 
+ 
+ 404,455 
+ 
+ 
+ 
+ 400,814 
+ 
+ 
+ OTHER ASSETS, net 
+ 
+ 
+ 1,046,511 
+ 
+ 
+ 
+ 944,050 
+ 
+ 
+ OTHER INTANGIBLE ASSETS, net 
+ 
+ 
+ 2,724,223 
+ 
+ 
+ 
+ 2,906,188 
+ 
+ 
+ GOODWILL 
+ 
+ 
+ 7,405,347 
+ 
+ 
+ 
+ 7,317,228 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total assets 
+ 
+ $ 
+ 25,746,618 
+ 
+ 
+ $ 
+ 24,926,901 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LIABILITIES AND EQUITY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CURRENT LIABILITIES: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Current maturities of long-term debt 
+ 
+ $ 
+ 689,694 
+ 
+ 
+ $ 
+ 763,898 
+ 
+ 
+ Current portion of operating lease liabilities 
+ 
+ 
+ 115,812 
+ 
+ 
+ 
+ 114,377 
+ 
+ 
+ Accounts payable and accrued expenses 
+ 
+ 
+ 4,738,241 
+ 
+ 
+ 
+ 4,579,458 
+ 
+ 
+ Contract liabilities 
+ 
+ 
+ 3,840,282 
+ 
+ 
+ 
+ 3,258,465 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total current liabilities 
+ 
+ 
+ 9,384,029 
+ 
+ 
+ 
+ 8,716,198 
+ 
+ 
+ LONG-TERM DEBT, net of current maturities 
+ 
+ 
+ 5,201,920 
+ 
+ 
+ 
+ 5,231,008 
+ 
+ 
+ OPERATING LEASE LIABILITIES, net of current portion 
+ 
+ 
+ 312,247 
+ 
+ 
+ 
+ 309,671 
+ 
+ 
+ DEFERRED INCOME TAXES 
+ 
+ 
+ 514,859 
+ 
+ 
+ 
+ 502,626 
+ 
+ 
+ INSURANCE AND OTHER NON-CURRENT LIABILITIES 
+ 
+ 
+ 1,190,646 
+ 
+ 
+ 
+ 1,139,524 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total liabilities 
+ 
+ 
+ 16,603,701 
+ 
+ 
+ 
+ 15,899,027 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TOTAL STOCKHOLDERS EQUITY 
+ 
+ 
+ 9,044,569 
+ 
+ 
+ 
+ 8,938,249 
+ 
+ 
+ NON-CONTROLLING INTERESTS 
+ 
+ 
+ 98,348 
+ 
+ 
+ 
+ 89,625 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TOTAL EQUITY 
+ 
+ 
+ 9,142,917 
+ 
+ 
+ 
+ 9,027,874 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total liabilities and equity 
+ 
+ $ 
+ 25,746,618 
+ 
+ 
+ $ 
+ 24,926,901 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ -MORE- 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Quanta Services, Inc. and Subsidiaries 
+ Supplemental Segment Data 
+ For the Three Months Ended 
+ March 31, 2026 and 2025 
+ (In thousands, except percentages) 
+ (Unaudited) 
+ 
+ 
+ Segment Results The
+following table sets forth segment revenues, segment operating income and operating margins for the periods indicated. Operating margins are calculated by dividing operating income by revenues. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended March 31, 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+
+ 
+ Revenues : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Electric 
+ 
+ $ 
+ 6,468,657 
+ 
+ 
+ 
+ 82.1 
+ % 
+ 
+ $ 
+ 4,944,391 
+ 
+ 
+ 
+ 79.3 
+ % 
+ 
+ Underground and Infrastructure 
+ 
+ 
+ 1,406,130 
+ 
+ 
+ 
+ 17.9 
+ 
+ 
+ 
+ 1,288,943 
+ 
+ 
+ 
+ 20.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Consolidated revenues 
+ 
+ $ 
+ 7,874,787 
+ 
+ 
+ 
+ 100.0 
+ % 
+ 
+ $ 
+ 6,233,334 
+ 
+ 
+ 
+ 100.0 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income (loss) : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Electric (a) 
+ 
+ $ 
+ 561,082 
+ 
+ 
+ 
+ 8.7 
+ % 
+ 
+ $ 
+ 408,164 
+ 
+ 
+ 
+ 8.3 
+ % 
+ 
+ Underground and Infrastructure 
+ 
+ 
+ 105,617 
+ 
+ 
+ 
+ 7.5 
+ % 
+ 
+ 
+ 76,867 
+ 
+ 
+ 
+ 6.0 
+ % 
+ 
+ Corporate and Non-Allocated Costs (b) 
+ 
+ 
+ (327,920 
+ ) 
+ 
+ 
+ (4.2 
+ )% 
+ 
+ 
+ (245,950 
+ ) 
+ 
+ 
+ (3.9 
+ )% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Consolidated operating income 
+ 
+ $ 
+ 338,779 
+ 
+ 
+ 
+ 4.3 
+ % 
+ 
+ $ 
+ 239,081 
+ 
+ 
+ 
+ 3.8 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) 
+ Included in operating income for the Electric segment was equity in earnings of integral unconsolidated
+affiliates of $14.5 million and $12.9 million for the three months ended March 31, 2026 and 2025. 
+ 
+ 
+ (b) 
+ Included in corporate and non-allocated costs was, among other things,
+amortization expense of $152.4 million and $109.6 million and non-cash stock-based compensation of $62.6 million and $38.2 million for the three months ended March 31, 2026 and 2025.
+ 
+ -MORE- 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Quanta Services, Inc. and Subsidiaries 
+ Supplemental Data (In
+thousands) (Unaudited) 
+ 
+ 
+ Remaining Performance Obligations and Backlog (a non-GAAP financial measure)
+ Quanta s remaining performance obligations represent management s estimate of consolidated revenues that are expected to be realized from
+the remaining portion of firm orders under fixed price contracts not yet completed or for which work has not yet begun as of such dates and, to a lesser extent, from certain unit-priced contracts with more than an insignificant amount of partially
+completed units. For purposes of calculating remaining performance obligations, Quanta includes all estimated revenues attributable to consolidated joint ventures and variable interest entities, revenues from funded and unfunded portions of
+government contracts to the extent they are reasonably expected to be realized, and revenues from change orders and claims to the extent management believes additional contract revenues will be earned and are deemed probable of collection. 
+ Quanta has also historically disclosed its backlog, a measure commonly used in its industry but not recognized under GAAP. Quanta believes this measure
+enables management to more effectively forecast its future capital needs and results and better identify future operating trends that may not otherwise be apparent. Quanta believes this measure is also useful for investors in forecasting
+Quanta s future results and comparing Quanta to its competitors. Quanta s remaining performance obligations, as described above, are a component of its backlog calculation, which also includes estimated orders under master service
+agreements (MSAs), including estimated renewals, and certain non-fixed price contracts. Quanta s methodology for determining backlog may not be comparable to the methodologies used by other companies.
+ Estimates of the timing of revenue recognition of remaining performance obligations are subject to change based on, among other things, project
+accelerations; project cancellations or delays, including but not limited to those caused by commercial issues, regulatory requirements, natural disasters, emergencies and adverse weather conditions; and final acceptance of change orders by
+customers. These factors can cause revenues to be realized in periods and at levels that are different than originally projected. The following table
+reconciles total remaining performance obligations to Quanta s backlog (a non-GAAP financial measure) by reportable segment along with estimates of amounts expected to be realized within 12 months. The
+following table shows dollars in thousands. 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ March 31, 2026 
+ 
+ 
+ December 31, 2025 
+ 
+ 
+ March 31, 2025 
+ 
+ 
+ 
+ 
+ 12 Month 
+ 
+ 
+ Total 
+ 
+ 
+ 12 Month 
+ 
+ 
+ Total 
+ 
+ 
+ 12 Month 
+ 
+ 
+ Total 
+ 
+
+ 
+ Electric 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Remaining performance obligations 
+ 
+ $ 
+ 15,941,008 
+ 
+ 
+ $ 
+ 23,409,080 
+ 
+ 
+ $ 
+ 14,188,737 
+ 
+ 
+ $ 
+ 21,638,080 
+ 
+ 
+ $ 
+ 10,866,398 
+ 
+ 
+ $ 
+ 16,488,853 
+ 
+ 
+ Estimated orders under MSAs and short-term, non-fixed 
+price contracts 
+ 
+ 
+ 7,949,356 
+ 
+ 
+ 
+ 16,697,001 
+ 
+ 
+ 
+ 7,755,355 
+ 
+ 
+ 
+ 14,528,626 
+ 
+ 
+ 
+ 5,507,795 
+ 
+ 
+ 
+ 13,208,260 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Backlog 
+ 
+ $ 
+ 23,890,364 
+ 
+ 
+ $ 
+ 40,106,081 
+ 
+ 
+ $ 
+ 21,944,092 
+ 
+ 
+ $ 
+ 36,166,706 
+ 
+ 
+ $ 
+ 16,374,193 
+ 
+ 
+ $ 
+ 29,697,113 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Underground and Infrastructure 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Remaining performance obligations 
+ 
+ $ 
+ 2,063,430 
+ 
+ 
+ $ 
+ 2,833,397 
+ 
+ 
+ $ 
+ 1,518,060 
+ 
+ 
+ $ 
+ 2,124,934 
+ 
+ 
+ $ 
+ 1,031,637 
+ 
+ 
+ $ 
+ 1,160,996 
+ 
+ 
+ Estimated orders under MSAs and short-term, non-fixed 
+price contracts 
+ 
+ 
+ 2,278,905 
+ 
+ 
+ 
+ 5,531,911 
+ 
+ 
+ 
+ 2,404,135 
+ 
+ 
+ 
+ 5,684,768 
+ 
+ 
+ 
+ 2,014,429 
+ 
+ 
+ 
+ 4,393,411 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Backlog 
+ 
+ $ 
+ 4,342,335 
+ 
+ 
+ $ 
+ 8,365,308 
+ 
+ 
+ $ 
+ 3,922,195 
+ 
+ 
+ $ 
+ 7,809,702 
+ 
+ 
+ $ 
+ 3,046,066 
+ 
+ 
+ $ 
+ 5,554,407 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Remaining performance obligations 
+ 
+ $ 
+ 18,004,438 
+ 
+ 
+ $ 
+ 26,242,477 
+ 
+ 
+ $ 
+ 15,706,797 
+ 
+ 
+ $ 
+ 23,763,014 
+ 
+ 
+ $ 
+ 11,898,035 
+ 
+ 
+ $ 
+ 17,649,849 
+ 
+ 
+ Estimated orders under MSAs and short-term, non-fixed 
+price contracts 
+ 
+ 
+ 10,228,261 
+ 
+ 
+ 
+ 22,228,912 
+ 
+ 
+ 
+ 10,159,490 
+ 
+ 
+ 
+ 20,213,394 
+ 
+ 
+ 
+ 7,522,224 
+ 
+ 
+ 
+ 17,601,671 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Backlog 
+ 
+ $ 
+ 28,232,699 
+ 
+ 
+ $ 
+ 48,471,389 
+ 
+ 
+ $ 
+ 25,866,287 
+ 
+ 
+ $ 
+ 43,976,408 
+ 
+ 
+ $ 
+ 19,420,259 
+ 
+ 
+ $ 
+ 35,251,520 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ -MORE- 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Quanta Services, Inc. and Subsidiaries Reconciliation of Non-GAAP 
+Financial Measures Adjusted Net Income and Adjusted Diluted Earnings Per Share Attributable to Common Stock For the Three
+Months Ended March 31, 2026 and 2025 (In thousands, except per share
+information) (Unaudited) 
+ 
+ 
+ The following table presents the reconciliations of the non-GAAP financial measures of
+Adjusted net income attributable to common stock to net income attributable to common stock and Adjusted diluted earnings per share attributable to common stock to diluted earnings per share attributable to common stock for the three months ended
+March 31, 2026 and 2025. These reconciliations are intended to provide useful information to investors and analysts as they evaluate Quanta s performance. Management believes that the exclusion of certain items from net income
+attributable to common stock and diluted earnings per share attributable to common stock enables Quanta and its investors to more effectively evaluate Quanta s operations period over period and better identify operating trends that may not
+otherwise be apparent due to, among other reasons, the variable nature of these items period over period. In addition, management believes these measures may be useful for investors in comparing Quanta s operating results with other companies
+that may be viewed as our peers. However, these non-GAAP measures should not be considered as alternatives to net income attributable to common stock and diluted earnings per share attributable to common stock
+or other measures of performance that are derived in accordance with GAAP. As to certain of the items in the table:
+ (i) non-cash stock-based compensation expense varies from period to period due to acquisition activity, changes in the estimated fair value of performance-based awards, forfeiture rates, accelerated
+vesting and amounts granted; (ii) amortization of intangible assets and amortization included in equity in earnings are impacted by Quanta s acquisition activities and investments in integral unconsolidated affiliates, and therefore can
+vary from period to period; (iii) acquisition and integration costs vary from period to period depending on the level and complexity of Quanta s acquisition activity; (iv) change in fair value of contingent consideration liabilities
+varies from period to period depending on, among other things, the performance in post-acquisition periods of certain acquired businesses and the effect of present value accretion on fair value calculations; (v) equity in losses and earnings of
+ non-integral unconsolidated affiliates varies from period to period depending on the activity and financial performance of such affiliates, the operations of which are not operationally integral to Quanta; and
+(vi) change in fair value of non-marketable equity securities varies from period to period based on various factors, including changes in the financial performance of the investee, the investee s
+operating environment and general market conditions. Because Adjusted net income attributable to common stock and Adjusted diluted earnings per share
+attributable to common stock, as defined, exclude some, but not all, items that affect net income attributable to common stock and diluted earnings per share attributable to common stock, they may not be comparable to similarly titled measures of
+other companies. The most comparable GAAP financial measures, net income attributable to common stock and diluted earnings per share attributable to common stock, and information reconciling the GAAP and
+ non-GAAP financial measures, are included in the table to follow. 
+ -MORE- 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Quanta Services, Inc. and Subsidiaries Reconciliation of Non-GAAP 
+Financial Measures Adjusted Net Income and Adjusted Diluted Earnings Per Share Attributable to Common Stock For the Three
+Months Ended March 31, 2026 and 2025 (In thousands, except per share
+information) (Unaudited) 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended 
+ 
+ 
+ 
+ 
+ March 31, 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+
+ 
+ Reconciliation of Adjusted net income attributable to common stock: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income attributable to common stock (GAAP as reported) 
+ 
+ $ 
+ 220,625 
+ 
+ 
+ $ 
+ 144,258 
+ 
+ 
+ Acquisition and integration costs (a) 
+ 
+ 
+ 11,229 
+ 
+ 
+ 
+ 13,775 
+ 
+ 
+ Increase in fair value of contingent consideration liabilities 
+ 
+ 
+ 9,912 
+ 
+ 
+ 
+ 4,357 
+ 
+ 
+ Equity in losses (earnings) of non-integral unconsolidated
+affiliates 
+ 
+ 
+ 2,271 
+ 
+ 
+ 
+ (82 
+ ) 
+ 
+ Change in fair value of non-marketable equity security
+investments 
+ 
+ 
+ 10,380 
+ 
+ 
+ 
+ — 
+ 
+ 
+ Income tax impact of adjustments (b) 
+ 
+ 
+ (7,934 
+ ) 
+ 
+ 
+ (3,513 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjusted net income attributable to common stock before certain
+ non-cash adjustments 
+ 
+ 
+ 246,483 
+ 
+ 
+ 
+ 158,795 
+ 
+ 
+ Non-cash stock-based compensation 
+ 
+ 
+ 62,634 
+ 
+ 
+ 
+ 38,151 
+ 
+ 
+ Amortization of intangible assets 
+ 
+ 
+ 152,381 
+ 
+ 
+ 
+ 109,562 
+ 
+ 
+ Amortization included in equity in earnings of integral unconsolidated affiliates 
+ 
+ 
+ 2,708 
+ 
+ 
+ 
+ 719 
+ 
+ 
+ Income tax impact of non-cash adjustments (b) 
+ 
+ 
+ (56,634 
+ ) 
+ 
+ 
+ (38,616 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjusted net income attributable to common stock 
+ 
+ $ 
+ 407,572 
+ 
+ 
+ $ 
+ 268,611 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reconciliation of Adjusted diluted earnings per share: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted earnings per share attributable to common stock (GAAP as reported) 
+ 
+ $ 
+ 1.45 
+ 
+ 
+ $ 
+ 0.96 
+ 
+ 
+ Acquisition and integration costs (a) 
+ 
+ 
+ 0.07 
+ 
+ 
+ 
+ 0.09 
+ 
+ 
+ Increase in fair value of contingent consideration liabilities 
+ 
+ 
+ 0.07 
+ 
+ 
+ 
+ 0.03 
+ 
+ 
+ Equity in losses (earnings) of non-integral unconsolidated
+affiliates 
+ 
+ 
+ 0.01 
+ 
+ 
+ 
+ — 
+ 
+ 
+ Change in fair value of non-marketable equity security
+investments 
+ 
+ 
+ 0.07 
+ 
+ 
+ 
+ — 
+ 
+ 
+ Income tax impact of adjustments (b) 
+ 
+ 
+ (0.05 
+ ) 
+ 
+ 
+ (0.03 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjusted diluted earnings per share before certain
+ non-cash adjustments 
+ 
+ 
+ 1.62 
+ 
+ 
+ 
+ 1.05 
+ 
+ 
+ Non-cash stock-based compensation 
+ 
+ 
+ 0.41 
+ 
+ 
+ 
+ 0.25 
+ 
+ 
+ Amortization of intangible assets 
+ 
+ 
+ 1.00 
+ 
+ 
+ 
+ 0.73 
+ 
+ 
+ Amortization included in equity in earnings of integral unconsolidated affiliates 
+ 
+ 
+ 0.02 
+ 
+ 
+ 
+ — 
+ 
+ 
+ Income tax impact of non-cash adjustments (b) 
+ 
+ 
+ (0.37 
+ ) 
+ 
+ 
+ (0.25 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjusted diluted earnings per share 
+ 
+ $ 
+ 2.68 
+ 
+ 
+ $ 
+ 1.78 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Weighted average shares outstanding for diluted and Adjusted diluted earnings per share 
+ 
+ 
+ 152,086 
+ 
+ 
+ 
+ 150,964 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) 
+ The amounts for the three months ended March 31, 2026 and 2025 include $2.2 million and
+$4.2 million that, pursuant to acquisition purchase agreements, were or will be withheld from the sellers proceeds, and have or will be paid to certain employees upon satisfaction of post-closing service obligations.
+ 
+ 
+ 
+ (b) 
+ The income tax impact of adjustments that are subject to tax is determined using the incremental statutory tax
+rates of the jurisdictions to which each adjustment relates for the respective periods. 
+ -MORE- 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Quanta Services, Inc. and Subsidiaries 
+ Reconciliation of Non-GAAP Financial Measures 
+ EBITDA and Adjusted EBITDA 
+ For the Three Months Ended 
+ March 31, 2026 and 2025 
+ (In thousands) 
+ (Unaudited) 
+ 
+ 
+ The following table presents reconciliations of the non-GAAP financial measures of
+EBITDA and Adjusted EBITDA to net income attributable to common stock for the three months ended March 31, 2026 and 2025. These reconciliations are intended to provide useful information to investors and analysts as they evaluate Quanta s
+performance. EBITDA is defined as earnings before interest and other financing expenses, taxes, depreciation and amortization, and Adjusted EBITDA is defined as EBITDA adjusted for certain other items as described below. These measures should not be
+considered as an alternative to net income attributable to common stock or other financial measures of performance that are derived in accordance with GAAP. Management believes that the exclusion of these items from net income attributable to common
+stock enables Quanta and its investors to more effectively evaluate Quanta s operations period over period and to identify operating trends that might not be apparent due to, among other reasons, the variable nature of these items period over
+period. In addition, management believes these measures may be useful for investors in comparing Quanta s operating results with other companies that may be viewed as its peers. 
+ As to certain of the items below: (i) non-cash stock-based compensation expense varies from period to period due
+to acquisition activity, changes in the estimated fair value of performance-based awards, forfeiture rates, accelerated vesting and amounts granted; (ii) acquisition and integration costs vary from period to period depending on the level and
+complexity of Quanta s acquisition activity; (iii) equity in losses and earnings of non-integral unconsolidated affiliates varies from period to period depending on the activity and financial
+performance of such affiliates, the operations of which are not operationally integral to Quanta; (iv) change in fair value of contingent consideration liabilities varies from period to period depending on, among other things, the performance
+in post-acquisition periods of certain acquired businesses and the effect of present value accretion on fair value calculations; and (v) change in fair value of non-marketable equity securities varies
+from period to period based on various factors, including changes in the financial performance of the investee, the investee s operating environment and general market conditions. Because EBITDA and Adjusted EBITDA, as defined, exclude some,
+but not all, items that affect net income attributable to common stock, such measures may not be comparable to similarly titled measures of other companies. The most comparable GAAP financial measure, net income attributable to common stock, and
+information reconciling the GAAP and non-GAAP financial measures, are included below. 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended 
+ 
+ 
+ 
+ 
+ March 31, 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+
+ 
+ Net income attributable to common stock (GAAP as reported) 
+ 
+ $ 
+ 220,625 
+ 
+ 
+ $ 
+ 144,258 
+ 
+ 
+ Interest and other financing expenses 
+ 
+ 
+ 73,267 
+ 
+ 
+ 
+ 54,312 
+ 
+ 
+ Interest income 
+ 
+ 
+ (2,908 
+ ) 
+ 
+ 
+ (3,841 
+ ) 
+ 
+ Provision for income taxes 
+ 
+ 
+ 24,925 
+ 
+ 
+ 
+ 39,880 
+ 
+ 
+ Depreciation expense 
+ 
+ 
+ 113,294 
+ 
+ 
+ 
+ 98,114 
+ 
+ 
+ Amortization of intangible assets 
+ 
+ 
+ 152,381 
+ 
+ 
+ 
+ 109,562 
+ 
+ 
+ Interest, income taxes, depreciation and amortization included in equity in earnings of integral
+unconsolidated affiliates 
+ 
+ 
+ 8,432 
+ 
+ 
+ 
+ 5,400 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 590,016 
+ 
+ 
+ 
+ 447,685 
+ 
+ 
+ Non-cash stock-based compensation 
+ 
+ 
+ 62,634 
+ 
+ 
+ 
+ 38,151 
+ 
+ 
+ Acquisition and integration costs (a) 
+ 
+ 
+ 11,229 
+ 
+ 
+ 
+ 13,775 
+ 
+ 
+ Equity in losses (earnings) of non-integral unconsolidated
+affiliates 
+ 
+ 
+ 2,271 
+ 
+ 
+ 
+ (82 
+ ) 
+ 
+ Increase in fair value of contingent consideration liabilities 
+ 
+ 
+ 9,912 
+ 
+ 
+ 
+ 4,357 
+ 
+ 
+ Change in fair value of non-marketable equity security
+investments 
+ 
+ 
+ 10,380 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjusted EBITDA 
+ 
+ $ 
+ 686,442 
+ 
+ 
+ $ 
+ 503,886 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) 
+ The amounts for the three months ended March 31, 2026 and 2025 include $2.2 million and
+$4.2 million that, pursuant to acquisition purchase agreements, were or will be withheld from the sellers proceeds, and have or will be paid to certain employees upon satisfaction of post-closing service obligations.
+ 
+ -MORE- 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Quanta Services, Inc. and Subsidiaries 
+ Reconciliation of Non-GAAP Financial Measures 
+ Free Cash Flow For the
+Three Months Ended March 31, 2026 and 2025 
+ (In thousands) 
+ (Unaudited) 
+ 
+ 
+ Reconciliation of Free Cash Flow: 
+ The following table presents a reconciliation of the non-GAAP financial measure of free cash flow to net cash provided
+by operating activities for the three months ended March 31, 2026 and 2025. This reconciliation is intended to provide useful information to investors and analysts as they evaluate Quanta s ability to generate the cash required to
+maintain and potentially expand its business. Free cash flow is defined as net cash provided by operating activities less net capital expenditures. Net capital expenditures is defined as capital expenditures less proceeds from the sale of property
+and equipment and from insurance settlements related to property and equipment. Management believes that free cash flow provides useful information to Quanta s investors because free cash flow is viewed by management as an important indicator
+of how much cash is provided or used by routine business operations, including the impact of net capital expenditures. Management uses this measure for capital allocation purposes as it is viewed as a measure of cash available to fund debt payments,
+acquire businesses, repurchase common stock and debt securities, declare and pay dividends and transact other investing and financing activities. However, this measure should not be considered as an alternative to net cash provided by operating
+activities or other measures of performance that are derived in accordance with GAAP. The most comparable GAAP financial measure, net cash provided by operating activities, and information reconciling the GAAP and
+ non-GAAP financial measures, are included below. The following table shows dollars in thousands. 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended 
+ 
+ 
+ 
+ 
+ March 31, 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+
+ 
+ Net cash provided by operating activities 
+ 
+ $ 
+ 391,744 
+ 
+ 
+ $ 
+ 243,198 
+ 
+ 
+ Less: Net capital expenditures: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capital expenditures 
+ 
+ 
+ (220,093 
+ ) 
+ 
+ 
+ (132,762 
+ ) 
+ 
+ Cash proceeds from sale of property and equipment and related insurance settlements 
+ 
+ 
+ 12,769 
+ 
+ 
+ 
+ 7,316 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net capital expenditures 
+ 
+ 
+ (207,324 
+ ) 
+ 
+ 
+ (125,446 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Free Cash Flow 
+ 
+ $ 
+ 184,420 
+ 
+ 
+ $ 
+ 117,752 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ -MORE- 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Quanta Services, Inc. and Subsidiaries 
+ Reconciliation of Non-GAAP Financial Measures 
+ Estimated Adjusted Net Income and 
+ Adjusted Diluted Earnings Per Share 
+ Attributable to Common Stock 
+ For the Full Year 2026 (In
+thousands, except per share information) (Unaudited) 
+ 
+ 
+ The following table presents reconciliations of the non-GAAP financial measures of
+estimated Adjusted net income attributable to common stock to estimated net income attributable to common stock and estimated Adjusted diluted earnings per share attributable to common stock to estimated diluted earnings per share attributable to
+common stock for the full year ending December 31, 2026. These reconciliations are intended to provide useful information to investors and analysts as they evaluate Quanta s expected future performance. Management believes that the
+exclusion of certain items from net income attributable to common stock and diluted earnings per share attributable to common stock enables Quanta and its investors to more effectively evaluate Quanta s operations period over period and better
+identify operating trends that may not otherwise be apparent due to, among other reasons, the variable nature of these items period over period. In addition, management believes these measures may be useful for investors in comparing Quanta s
+operating results with other companies that may be viewed as its peers. However, these non-GAAP measures should not be considered as alternatives to net income attributable to common stock and diluted earnings
+per share attributable to common stock or other measures of performance that are derived in accordance with GAAP. As to certain of the items below: (i) non-cash stock-based compensation expense may vary from period to period due to acquisition activity, changes in the estimated fair value of performance-based awards, forfeiture rates, accelerated vesting
+and amounts granted; (ii) amortization of intangible assets and amortization included in equity in earnings are impacted by Quanta s acquisition activities and investments in integral unconsolidated affiliates, and therefore can vary from
+period to period; (iii) acquisition and integration costs vary from period to period depending on the level and complexity of Quanta s acquisition activity; (iv) change in fair value of contingent consideration liabilities varies
+from period to period depending on, among other things, the performance in post-acquisition periods of certain acquired businesses and the effect of present value accretion on fair value calculations; (v) equity in losses and earnings of non-integral unconsolidated affiliates varies from period to period depending on the activity and financial performance of such affiliates, the operations of which are not operationally integral to Quanta; and
+(vi) change in fair value of non-marketable equity securities varies from period to period based on various factors, including changes in the financial performance of the investee, the investee s
+operating environment and general market conditions. Because Adjusted net income attributable to common stock and Adjusted diluted earnings per share
+attributable to common stock, as defined, exclude some, but not all, items that affect net income attributable to common stock and diluted earnings per share attributable to common stock, they may not be comparable to similarly titled measures of
+other companies. The most comparable GAAP financial measures, net income attributable to common stock and diluted earnings per share attributable to common stock, and information reconciling the GAAP and
+ non-GAAP financial measures, are included in the table to follow. 
+ -MORE- 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Quanta Services, Inc. and Subsidiaries 
+ Reconciliation of Non-GAAP Financial Measures 
+ Estimated Adjusted Net Income and 
+ Adjusted Diluted Earnings Per Share 
+ Attributable to Common Stock 
+ For the Full Year 2026 (In
+thousands, except per share information) (Unaudited) 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Estimated Range 
+ 
+ 
+ 
+ 
+ Full Year Ending 
+ 
+ 
+ 
+ 
+ December 31, 2026 
+ 
+
+ 
+ Reconciliation of estimated Adjusted net income attributable to common stock: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income attributable to common stock (as defined by GAAP) 
+ 
+ $ 
+ 1,395,000 
+ 
+ 
+ $ 
+ 1,501,500 
+ 
+ 
+ Acquisition and integration costs (a) 
+ 
+ 
+ 18,600 
+ 
+ 
+ 
+ 18,600 
+ 
+ 
+ Increase in fair value of contingent consideration liabilities 
+ 
+ 
+ 9,900 
+ 
+ 
+ 
+ 9,900 
+ 
+ 
+ Equity in losses of non-integral unconsolidated
+affiliates 
+ 
+ 
+ 4,800 
+ 
+ 
+ 
+ 4,800 
+ 
+ 
+ Change in fair value of non-marketable equity security
+investments 
+ 
+ 
+ 10,400 
+ 
+ 
+ 
+ 10,400 
+ 
+ 
+ Non-cash stock-based compensation 
+ 
+ 
+ 246,300 
+ 
+ 
+ 
+ 246,300 
+ 
+ 
+ Amortization of intangible assets 
+ 
+ 
+ 601,200 
+ 
+ 
+ 
+ 601,200 
+ 
+ 
+ Amortization included in equity in earnings of integral unconsolidated affiliates 
+ 
+ 
+ 9,900 
+ 
+ 
+ 
+ 9,900 
+ 
+ 
+ Income tax impact of adjustments (b) 
+ 
+ 
+ (233,500 
+ ) 
+ 
+ 
+ (233,500 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjusted net income attributable to common stock 
+ 
+ $ 
+ 2,062,600 
+ 
+ 
+ $ 
+ 2,169,100 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reconciliation of Adjusted diluted earnings per share: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted earnings per share attributable to common stock (as defined by GAAP) 
+ 
+ $ 
+ 9.17 
+ 
+ 
+ $ 
+ 9.87 
+ 
+ 
+ Acquisition and integration costs (a) 
+ 
+ 
+ 0.12 
+ 
+ 
+ 
+ 0.12 
+ 
+ 
+ Increase in fair value of contingent consideration liabilities 
+ 
+ 
+ 0.07 
+ 
+ 
+ 
+ 0.07 
+ 
+ 
+ Equity in losses of non-integral unconsolidated
+affiliates 
+ 
+ 
+ 0.03 
+ 
+ 
+ 
+ 0.03 
+ 
+ 
+ Change in fair value of non-marketable equity security
+investments 
+ 
+ 
+ 0.07 
+ 
+ 
+ 
+ 0.07 
+ 
+ 
+ Non-cash stock-based compensation 
+ 
+ 
+ 1.62 
+ 
+ 
+ 
+ 1.62 
+ 
+ 
+ Amortization of intangible assets 
+ 
+ 
+ 3.95 
+ 
+ 
+ 
+ 3.95 
+ 
+ 
+ Amortization included in equity in earnings of integral unconsolidated affiliates 
+ 
+ 
+ 0.07 
+ 
+ 
+ 
+ 0.07 
+ 
+ 
+ Income tax impact of adjustments (b) 
+ 
+ 
+ (1.55 
+ ) 
+ 
+ 
+ (1.55 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjusted diluted earnings per share 
+ 
+ $ 
+ 13.55 
+ 
+ 
+ $ 
+ 14.25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Weighted average shares outstanding for diluted and Adjusted diluted earnings per share
+attributable to common stock 
+ 
+ 
+ 152,200 
+ 
+ 
+ 
+ 152,200 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) 
+ Includes $8.0 million that, pursuant to acquisition purchase agreements, was or will be withheld from the
+sellers proceeds and will be paid to certain employees upon satisfaction of post-closing service obligations. 
+ 
+ 
+ (b) 
+ The income tax impact of adjustments that are subject to tax is determined using the incremental statutory tax
+rates of the jurisdictions to which each adjustment relates for the respective periods. 
+ -MORE- 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Quanta Services, Inc. and Subsidiaries 
+ Reconciliation of Non-GAAP Financial Measures 
+ Estimated EBITDA and Adjusted EBITDA 
+ For the Full Year 2026 (In
+thousands) (Unaudited) 
+ 
+ 
+ The following table presents the reconciliations of the non-GAAP financial measures of
+estimated EBITDA and estimated Adjusted EBITDA to estimated net income attributable to common stock for the full year ending December 31, 2026. These reconciliations are intended to provide useful information to investors and analysts as they
+evaluate Quanta s expected future performance. EBITDA is defined as earnings before interest and other financing expenses, taxes, depreciation and amortization, and Adjusted EBITDA is defined as EBITDA adjusted for certain other items as
+described below. These measures should not be considered as an alternative to net income attributable to common stock or other financial measures of performance that are derived in accordance with GAAP. Management believes that the exclusion of
+these items from net income attributable to common stock enables Quanta and its investors to more effectively evaluate Quanta s operations period over period and to identify operating trends that might not be apparent due to, among other
+reasons, the variable nature of these items period over period. In addition, management believes these measures may be useful for investors in comparing Quanta s operating results with other companies that may be viewed as its peers. 
+ As to certain of the items below: (i) non-cash stock-based compensation expense varies from period to period due
+to acquisition activity, changes in the estimated fair value of performance-based awards, forfeiture rates, accelerated vesting and amounts granted; (ii) acquisition and integration costs vary from period to period depending on the level and
+complexity of Quanta s acquisition activity; (iii) change in fair value of contingent consideration liabilities varies from period to period depending on, among other things, the performance in post-acquisition periods of certain acquired
+businesses and the effect of present value accretion on fair value calculations; (iv) equity in losses and earnings of non-integral unconsolidated affiliates varies from period to period depending on the
+activity and financial performance of such affiliates, the operations of which are not operationally integral to Quanta; and (v) change in fair value of non-marketable equity securities varies from period
+to period based on various factors, including changes in the financial performance of the investee, the investee s operating environment and general market conditions. 
+ Because EBITDA and Adjusted EBITDA, as defined, exclude some, but not all, items that affect net income attributable to common stock, such measures may not be
+comparable to similarly titled measures of other companies. The most comparable GAAP financial measure, net income attributable to common stock, and information reconciling the GAAP and non-GAAP financial
+measures, are included in the table to follow. 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Estimated Range 
+ 
+ 
+ 
+ 
+ Full Year Ending 
+ 
+ 
+ 
+ 
+ December 31, 2026 
+ 
+
+ 
+ Net income attributable to common stock (as defined by GAAP) 
+ 
+ $ 
+ 1,395,000 
+ 
+ 
+ $ 
+ 1,501,500 
+ 
+ 
+ Interest and other financing expenses, net 
+ 
+ 
+ 267,000 
+ 
+ 
+ 
+ 273,000 
+ 
+ 
+ Provision for income taxes 
+ 
+ 
+ 436,500 
+ 
+ 
+ 
+ 483,600 
+ 
+ 
+ Depreciation expense 
+ 
+ 
+ 467,700 
+ 
+ 
+ 
+ 467,700 
+ 
+ 
+ Amortization of intangible assets 
+ 
+ 
+ 601,200 
+ 
+ 
+ 
+ 601,200 
+ 
+ 
+ Interest, income taxes, depreciation and amortization included in equity in earnings of integral
+unconsolidated affiliates 
+ 
+ 
+ 33,300 
+ 
+ 
+ 
+ 33,300 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 3,200,700 
+ 
+ 
+ 
+ 3,360,300 
+ 
+ 
+ Non-cash stock-based compensation 
+ 
+ 
+ 246,300 
+ 
+ 
+ 
+ 246,300 
+ 
+ 
+ Acquisition and integration costs (a) 
+ 
+ 
+ 18,600 
+ 
+ 
+ 
+ 18,600 
+ 
+ 
+ Increase in fair value of contingent consideration liabilities 
+ 
+ 
+ 9,900 
+ 
+ 
+ 
+ 9,900 
+ 
+ 
+ Equity in losses of non-integral unconsolidated
+affiliates 
+ 
+ 
+ 4,800 
+ 
+ 
+ 
+ 4,800 
+ 
+ 
+ Change in fair value of non-marketable equity security
+investments 
+ 
+ 
+ 10,400 
+ 
+ 
+ 
+ 10,400 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjusted EBITDA 
+ 
+ $ 
+ 3,490,700 
+ 
+ 
+ $ 
+ 3,650,300 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) 
+ Includes $8.0 million that, pursuant to acquisition purchase agreements, was or will be withheld from the
+sellers proceeds and will be paid to certain employees upon satisfaction of post-closing service obligations. 
+ -MORE- 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Quanta Services, Inc. and Subsidiaries 
+ Reconciliation of Non-GAAP Financial Measures 
+ Estimated Free Cash Flow 
+ For the Full Year 2026 (In
+thousands) (Unaudited) 
+ 
+ 
+ The following table presents a reconciliation of the non-GAAP financial measure of
+estimated free cash flow to estimated net cash provided by operating activities for the full year ending December 31, 2026. This reconciliation is intended to provide useful information to investors and analysts as they evaluate Quanta s
+expectations regarding its ability to generate the cash required to maintain and potentially expand its business. Free cash flow is defined as net cash provided by operating activities less net capital expenditures. Net capital expenditures is
+defined as capital expenditures less proceeds from the sale of property and equipment and from insurance settlements related to property and equipment. Management believes that free cash flow provides useful information to Quanta s investors
+because free cash flow is viewed by management as an important indicator of how much cash is provided or used by routine business operations, including the impact of net capital expenditures. Management uses this measure for capital allocation
+purposes as it is viewed as a measure of cash available to fund debt payments, acquire businesses, repurchase common stock and debt securities, declare and pay dividends and transact other investing and financing activities. However, this measure
+should not be considered as an alternative to net cash provided by operating activities or other measures of performance that are derived in accordance with GAAP. The most comparable GAAP financial measure, net cash provided by operating activities,
+and information reconciling the GAAP and non-GAAP financial measures, are included below. 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Estimated Range 
+ 
+ 
+ 
+ 
+ Full Year Ending 
+ 
+ 
+ 
+ 
+ December 31, 2026 
+ 
+
+ 
+ Net cash provided by operating activities 
+ 
+ $ 
+ 2,350,000 
+ 
+ 
+ $ 
+ 2,850,000 
+ 
+ 
+ Less: Net capital expenditures 
+ 
+ 
+ (800,000 
+ ) 
+ 
+ 
+ (800,000 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Free Cash Flow 
+ 
+ $ 
+ 1,550,000 
+ 
+ 
+ $ 
+ 2,050,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ###

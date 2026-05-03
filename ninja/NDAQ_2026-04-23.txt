@@ -1,0 +1,4163 @@
+Ticker: NDAQ
+Company: NASDAQ, INC.
+Filed: 2026-04-23
+Type: PRESS_RELEASE
+Source: https://www.sec.gov/Archives/edgar/data/1120193/000119312526171829/d148002dex991.htm
+
+EX-99.1
+ 2
+ d148002dex991.htm
+ EX-99.1
+ 
+ 
+ EX-99.1 
+ 
+ 
+
+ 
+ Exhibit 99.1 
+ Nasdaq Reports First Quarter 2026 Results; Strong Execution Drives Double-Digit Net Revenue Growth Across All Divisions 
+ NEW YORK, April 23, 2026 Nasdaq, Inc. (Nasdaq: NDAQ) today reported financial results for the first quarter of 2026. 
+ 
+ 
+ 
+ 
+ 
+ 
+ First quarter 2026 net revenue 1 was 
+$1.4 billion , an increase of 14% over the first quarter of 2025, or 13% on an organic 2 basis. Solutions
+revenue 3 grew 14% on both a reported and organic basis. 
+ 
+ 
+ 
+ 
+ 
+ Annualized Recurring Revenue (ARR) 3,4 of
+ $3.2 billion increased 13% on a reported basis over the first quarter of 2025, or 12% on an organic basis. Annualized SaaS revenue increased 13% , or 16% on an organic basis, and represented
+ 38% of ARR. 
+ 
+ 
+ 
+ 
+ 
+ Financial Technology revenue was $517 million, an increase of 20% over the first
+quarter of 2025, or 18% on an organic basis. 
+ 
+ 
+ 
+ 
+ 
+ Index revenue of $220 million grew 14% on both a reported and organic basis over
+the first quarter of 2025, with $79 billion of net inflows over the trailing twelve months, including $6 billion in the first quarter of 2026. 
+ 
+ 
+ 
+ 
+ 
+ 
+ GAAP diluted earnings per share in the first quarter of 2026 was $0.91 , an increase of 33% over the
+first quarter of 2025. Non-GAAP 5 diluted earnings per share in the first quarter of 2026 was $0.96 , an increase of 22% over the first quarter
+of 2025, or 21% on an organic basis. 
+ 
+ 
+ 
+ 
+ 
+ In the first quarter of 2026, the company returned $153 million to shareholders through
+dividends and $548 million through repurchases of common stock. First Quarter 2026 Highlights 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ (US$ millions, except per share) 
+ 
+ 1Q26 
+ 
+ 
+ YoY change % 
+ 
+ 
+ Organic YoY change % 
+ 
+
+ 
+ Solutions Revenue 
+ 
+ $ 
+ 1,082 
+ 
+ 
+ 
+ 14 
+ % 
+ 
+ 
+ 14 
+ % 
+ 
+ Market Services net revenue 
+ 
+ $ 
+ 317 
+ 
+ 
+ 
+ 13 
+ % 
+ 
+ 
+ 10 
+ % 
+ 
+ Net revenue 
+ 
+ $ 
+ 1,407 
+ 
+ 
+ 
+ 14 
+ % 
+ 
+ 
+ 13 
+ % 
+ 
+ GAAP operating income 
+ 
+ $ 
+ 657 
+ 
+ 
+ 
+ 20 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Non-GAAP operating income 
+ 
+ $ 
+ 799 
+ 
+ 
+ 
+ 17 
+ % 
+ 
+ 
+ 17 
+ % 
+ 
+ ARR 
+ 
+ $ 
+ 3,188 
+ 
+ 
+ 
+ 13 
+ % 
+ 
+ 
+ 12 
+ % 
+ 
+ GAAP diluted EPS 
+ 
+ $ 
+ 0.91 
+ 
+ 
+ 
+ 33 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Non-GAAP diluted EPS 
+ 
+ $ 
+ 0.96 
+ 
+ 
+ 
+ 22 
+ % 
+ 
+ 
+ 21 
+ % 
+ 
+ 
+
+ 
+ 
+
+ 
+ Adena Friedman, Chair and CEO said, Nasdaq delivered one of the strongest starts to the year
+in our company s history with broad-based growth across all three divisions. Our clients are increasingly turning to Nasdaq as a trusted transformation partner to modernize their core infrastructure, manage risk and increasing complexity,
+adapt to the evolution of capital markets, and integrate AI to drive greater efficiency in their operations. As we execute against our strategic
+priorities of Expand, Evolve, and Transform, we are well positioned to deliver increasing value to our clients and shareholders. Sarah
+Youngwood, Executive Vice President and CFO said, Nasdaq delivered exceptional first quarter performance with double-digit growth across our three divisions and particular strength in Financial Technology. The mission critical nature of
+our solutions combined with our execution excellence is helping Nasdaq deliver operating leverage with strong earnings growth. Nasdaq s robust cash
+flow generation enabled the company to return over $700 million to shareholders in the quarter, including nearly $550 million of share repurchases, while reducing leverage and investing for long-term growth. 
+ FINANCIAL REVIEW 
+ 
+ 
+ 
+ 
+ 
+ First quarter 2026 net revenue was $1.4 billion, reflecting 14% growth versus the prior year period. Organic
+net revenue growth was 13%. 
+ 
+ 
+ 
+ 
+ 
+ Solutions revenue was $1.1 billion in the first quarter of 2026, up 14% on both a reported and organic basis
+versus the prior year period, reflecting strong growth across Financial Technology and Capital Access Platforms. Financial Technology revenue growth was 20% year-over-year, or 18% on an organic basis, and Capital Access Platforms revenue growth was
+11% year-over-year on a reported basis, or 10% on an organic basis. 
+ 
+ 
+ 
+ 
+ 
+ ARR was $3.2 billion as of the first quarter of 2026, growing 13% year-over-year on a reported basis, or 12%
+year-over-year on an organic basis. Financial Technology ARR growth was 18%, or 16% on an organic basis, and Capital Access Platforms ARR growth was 9%, or 7% on an organic basis. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Market Services net revenue was $317 million in the first quarter of 2026, up 13% versus the prior year
+period, or 10% on an organic basis. 
+ 
+ 
+ 
+ 
+ 
+ First quarter 2026 GAAP operating expenses were $750 million, an increase of 9% versus the prior year
+quarter. The increase in the first quarter was primarily due to higher compensation and benefits costs and increased general and administrative expenses, partially offset by lower merger and strategic initiatives expense and regulatory expense.
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ First quarter 2026 non-GAAP operating expenses were $608 million, an
+increase of 10% versus the prior year quarter, or 8% on an organic basis. The organic increase in the quarter reflects higher compensation and benefits costs and increased investments in people and technology to drive long-term growth, partially
+offset by lower regulatory expense. 
+ 
+ 
+ 
+ 
+ 
+ Cash flow from operations was $689 million in the first quarter, enabling the return of capital through
+Nasdaq s efficient capital allocation framework. In the first quarter of 2026, the company returned $153 million to shareholders through dividends and $548 million through repurchases of common stock. As of March 31,
+2026, there was $2.9 billion remaining under the board authorized share repurchase program. 2026 EXPENSE AND TAX GUIDANCE
+UPDATE 6 
+ 
+ 
+ 
+ 
+ 
+ The company is updating its 2026 non-GAAP operating expense guidance to a
+range of $2.485 billion to $2.545 billion. The company is maintaining its 2026 non-GAAP tax rate guidance in the range of 22.5% to 24.5%. 
+ STRATEGIC AND BUSINESS UPDATES 
+ 
+ 
+ 
+ 
+ 
+ Financial Technology delivered strong revenue and ARR growth with record first quarter annualized contract
+value (ACV) bookings. In the first quarter, FinTech revenue increased 20% compared to the prior year period, or 18% on an organic basis, with 16% organic ARR growth. ACV bookings 4 increased
+more than 50% compared to the prior year period with cloud-based solutions accounting for 80% of ACV bookings. FinTech signed 64 new clients, 1 cross-sell, and 85 upsells in the first quarter. First quarter highlights included:
+ 
+ 
+ 
+ 
+ 
+ 
+ Financial Crime Management Technology continued to drive growth with strong sales execution, strategic
+partnerships and AI-driven innovation. Nasdaq Verafin added 58 new small-and-medium bank clients during the quarter,
+representing a 24% increase in new ACV bookings for SMBs over the prior year period. The subdivision had continued momentum with enterprise clients, signing two renewals and one expansion during the quarter, as well as a new Tier 1 cross-sell and an
+expansion signed early in the second quarter. Nasdaq Verafin s Agentic AI Workforce is gaining traction, with more than 500 clients leveraging the first agents in production. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Regulatory Technology had strong sales momentum and launched new AI capabilities in Surveillance. The
+subdivision added 2 new clients and 58 upsells in the first quarter, benefiting from the industry shift towards Always-On markets, and improving regulatory clarity in the U.S. and Europe, and investment in
+infrastructure modernization. AxiomSL had 1 new client and 26 upsells in the quarter, including a Tier 2 bank and a leading digital bank. AxiomSL signings in the quarter represent more than double the total ACV bookings compared to the prior year
+period with approximately 90% of ACV bookings being cloud deployments. Surveillance added 1 new client and 32 upsells in the quarter, reflecting growing demand related to Always-On markets and crypto
+surveillance services. Surveillance is expanding its AI capabilities with the recently announced Calibration Copilot and the planned second quarter release of the GenAI platform extension. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capital Markets Technology delivered an exceptional quarter with 20% organic revenue growth and 18% organic
+ARR growth. In the first quarter, the subdivision signed 5 new clients, including 1 cross-sell, and 26 upsells. Calypso signed 4 new clients, including 1 cross-sell with a large U.S. insurance company for an enterprise-wide derivatives platform,
+and 16 upsells. Calypso signings in the quarter represent more than double the total ACV bookings compared to the prior year period. Market Technology signed a new deal for a cloud hosted trading solution to provide managed services for the trading
+of tokenized receivables. 
+ 
+ 
+ 
+ 
+ 
+ Index had 14% revenue growth, demonstrating its ability to deliver inflows in a volatile market environment.
+ Index had net inflows of $6 billion in the first quarter and $79 billion over the last twelve months. End-of-period ETP AUM was $836 billion and
+average ETP AUM in the first quarter reached a new record of $877 billion. During the quarter, Nasdaq launched 31 new products, including 11 in the institutional insurance annuity space and 12 international products. Product innovation remains
+a key growth driver, with products launched over the past five years accounting for 46% of net inflows over the last twelve months. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Nasdaq is expanding access to the Nasdaq-100 with new partnerships
+with BlackRock and State Street, while maintaining a valuable, longstanding partnership with Invesco. As demand for Nasdaq-100 exposure continues to grow globally, Nasdaq is focused on extending reach and
+deepening institutional access by working with a select set of partners in key markets. Expanding access to the Nasdaq-100 supports investors by improving the efficiency, liquidity, and availability of
+index-linked exposure across markets and product types. Nasdaq s pricing terms related to the index license for these new U.S.-listed Nasdaq-100 exchange-traded funds will be consistent with that of
+Invesco QQQ. 
+ 
+ 
+ 
+ 
+ 
+ Nasdaq is advancing the transparency of private markets with the launch of Nasdaq Private Capital Indexes.
+ This new suite of indexes are designed to enable institutional investors and consultants to benchmark performance, analyze exposure, and navigate private markets. Nasdaq Private Capital Indexes are constructed from more than 14,000 institutional
+private market funds representing over $11.4 trillion of global AUM sourced from eVestment s LP reported data set. 
+ 
+ 
+ 
+ 
+ 
+ Nasdaq extended its listing leadership welcoming 7 of the top 10 largest operating company IPOs in the first
+quarter. In total, 15 operating companies raised over $5 billion in proceeds in the U.S. listings franchise. Nasdaq achieved a 71% win rate across eligible U.S. operating companies, direct listings, and SPAC business combinations. Early in
+the second quarter, the U.S. listings franchise welcomed Arxis and Kailera Therapeutics, two of the largest IPOs of the second quarter to date. 
+ 
+ 
+ 
+ 
+ 
+ Market Services delivered record quarterly net revenues supported by record market volumes and new product
+innovation. Nasdaq achieved record U.S. cash equities and U.S equity options volumes, benefitting from record industry volumes. Index options revenue more than doubled year-over-year and European cash equities growth benefited from elevated
+volumes. Nasdaq s Closing Cross set new first quarter records across revenue, volume, and notional value traded during the February Index rebalancing and March Triple Witching events. Nasdaq continued its product innovation with the launch of
+short-dated single-stock options with Monday and Wednesday expirations for a limited cohort of equities and by filing a proposal with the SEC to list and trade Outcome-Related Options tied to the Nasdaq-100. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Nasdaq continues to advance the modernization of markets through its Always-On market initiative. The SEC
+approved Nasdaq s proposal to enable tokenized equity settlement, designed to enhance market liquidity and collateral mobility while maintaining the trust and investor protections of highly regulated public markets.
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+Nasdaq also progressed its tokenization efforts with an equity token design proposal aimed at strengthening the connection between issuers and investors by modernizing governance, transparency,
+and shareholder engagement. Early in the second quarter, the SEC approved Nasdaq s proposal for 23/5 trading. Nasdaq plans to go live with 23/5 trading on December 6, 2026, broadening global investor access to U.S. equities.
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 1 
+ Represents revenue less transaction-based expenses. 
+ 
+ 
+ 
+ 2 
+ Organic change is calculated by removing the impacts of changes in foreign exchange rates, acquisitions and
+divestitures. 
+ 
+ 
+ 3 
+ Solutions revenue and Annualized Recurring Revenue (ARR) constitutes revenue and ARR from our Capital
+Access Platforms and Financial Technology segments as well as revenue and ARR from our Solovis business which was sold in October 2025. Solovis revenues and ARR were previously included in our Capital Access Platforms segment, and have been
+reclassified into Other for all prior periods presented. 
+ 
+ 
+ 4 
+ ARR for a given period is the current annualized value derived from subscription contracts with a defined
+contract value. This excludes contracts that are not recurring, are one-time in nature or where the contract value fluctuates based on defined metrics. For AxiomSL and Calypso recurring revenue contracts, the
+amount included in ARR is consistent with the amount that we invoice the customer during the current period. Additionally, for AxiomSL and Calypso recurring revenue contracts that include annual values that increase over time, we include in ARR only
+the annualized value of components of the contract that are considered active as of the date of the ARR calculation. We do not include the future committed increases in the contract value as of the date of the ARR calculation. ACV Bookings for our
+Financial Technology segment excluding Financial Crime Management Technology refers to the maximum annualized committed contract value at the time of signature, excluding one-time fees and not accounting for
+initial discounts. For Financial Crime Management Technology, ACV bookings is calculated by averaging the total contract value over the contract term, including fixed increases. ARR and ACV are supplemental metrics to help evaluate the performance
+of the business. These measures are not a replacement for, and should be viewed independently of, U.S. GAAP revenue and deferred revenue as they are performance metrics, and are not intended to be combined with any of these items. ARR and ACV are
+not a forecast, and the active contracts at the end of a reporting period used in calculating these measures may or may not be extended or renewed by our customers. There is no U.S. GAAP measure comparable to ARR or ACV. As these metrics do not have
+any standardized definition they may not be comparable to similarly titled measures presented by other companies and should be viewed independently of revenue and deferred revenue and are not intended to be combined with or to replace either of
+those items. 
+ 
+ 
+ 5 
+ Refer to our reconciliations of U.S. GAAP to non-GAAP net income,
+diluted earnings per share, operating income, operating expenses and organic impacts included in the attached schedules. 
+ 
+ 
+ 6 
+ U.S. GAAP operating expense and tax rate guidance are not provided due to the inherent difficulty in
+quantifying certain amounts due to a variety of factors including the unpredictability in the movement in foreign currency rates, as well as future charges or reversals outside of the normal course of business. 
+ 
+
+ 
+ 
+
+ 
+ ABOUT NASDAQ 
+ Nasdaq (Nasdaq: NDAQ) is a leading technology platform that powers the world s economies. We architect the infrastructure of the world s most
+modern markets, power the innovation economy, and build trust in the financial system. We empower economic opportunity by designing and deploying advanced technology, data, and intelligence solutions that enable our clients to capture opportunities,
+navigate risk, and strengthen resilience. To learn more about the company, technology solutions and career opportunities, visit us on LinkedIn , on X @Nasdaq , or at www.nasdaq.com . 
+ NON-GAAP INFORMATION 
+ In addition to disclosing results determined in accordance with U.S. GAAP, Nasdaq also discloses certain non-GAAP 
+results of operations, including, but not limited to, non-GAAP net income, non-GAAP diluted earnings per share, non-GAAP 
+operating income, and non-GAAP operating expenses, that include certain adjustments or exclude certain charges and gains that are described in the reconciliation tables of U.S. GAAP to non-GAAP information provided at the end of this release. Management uses this non-GAAP information internally, along with U.S. GAAP information, in evaluating our performance
+and in making financial and operational decisions. We believe our presentation of these measures provides investors with greater transparency and supplemental data relating to our financial condition and results of operations. In addition, we
+believe the presentation of these measures is useful to investors for period-to-period comparisons of results as the items described below in the reconciliation tables
+do not reflect ongoing operating performance. These measures are not in accordance with, or an alternative to, U.S. GAAP, and may be different from non-GAAP measures used by other companies. In addition, other companies, including companies in our industry, may calculate such measures differently, which reduces their usefulness as a comparative measure.
+Investors should not rely on any single financial measure when evaluating our business. This information should be considered as supplemental in nature and is not meant as a substitute for our operating results in accordance with U.S. GAAP. We
+recommend investors review the U.S. GAAP financial measures included in this earnings release. When viewed in conjunction with our U.S. GAAP results and the accompanying reconciliations, we believe these
+ non-GAAP measures provide greater transparency and a more complete understanding of factors affecting our business than U.S. GAAP measures alone. 
+ We understand that analysts and investors regularly rely on non-GAAP financial measures, such as those noted above, to
+assess operating performance. We use these measures because they highlight trends more clearly in our business that may not otherwise be apparent when relying solely on U.S. GAAP financial measures, since these measures eliminate from our results
+specific financial items that have less bearing on our ongoing operating performance. Organic revenue and expense growth, organic change and organic
+impact are non-GAAP measures that reflect adjustments for: (i) the impact of period over period changes in foreign currency exchange rates, and (ii) the revenue, expenses and operating income
+associated with acquisitions and divestitures for the twelve month period following the date of the acquisition or divestiture and (iii) the impact of AxiomSL on-premises contracts for ratable recognition
+in comparable periods to align with current period presentation. Reconciliations of these measures are described within the body of this release or in the reconciliation tables at the end of this release. 
+ 
+
+ 
+ 
+
+ 
+ Foreign exchange impact: In countries with currencies other than the U.S. dollar, revenue and
+expenses are translated using monthly average exchange rates. Certain discussions in this release isolate the impact of year-over-year foreign currency fluctuations to better measure the comparability of operating results between periods. Operating
+results excluding the impact of foreign currency fluctuations are calculated by translating the current period s results by the prior period s exchange rates. 
+ Restructuring program : In the fourth quarter of 2023, following the closing of the Adenza acquisition, our management approved, committed to and
+initiated a restructuring program to optimize our efficiencies as a combined organization. We initiated the program upon the acquisition of Adenza and further expanded the program in the fourth quarter of 2024 to accelerate our momentum and further
+optimize our efficiencies (efficiency program). We have incurred costs principally related to employee-related costs, contract terminations, asset impairments and other related costs and expect to incur additional costs in these areas in an effort
+to accelerate efficiencies through location strategy and enhanced AI capabilities. Actions taken as part of this program were completed as of December 31, 2025, while certain costs are being recognized in the first half of 2026. We expect to
+achieve benefits primarily in the form of expense synergies. Costs related to the Adenza restructuring program are recorded as restructuring charges in our condensed consolidated statements of income. We exclude charges associated with
+this program for purposes of calculating non-GAAP measures as they are not reflective of ongoing operating performance or comparisons in Nasdaq s performance between periods. 
+ CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+ Information set forth in this communication contains forward-looking statements that involve a number of risks and uncertainties. Nasdaq cautions readers that
+any forward-looking information is not a guarantee of future performance and that actual results could differ materially from those contained in the forward-looking information. Such forward-looking statements include, but are not limited to
+(i) projections relating to our future financial results, total shareholder returns, growth, dividend program, trading volumes, products and services, ability to transition to new business models, taxes and achievement of synergy targets,
+(ii) statements about the closing or implementation dates and benefits of certain acquisitions, divestitures and other strategic, restructuring, technology, de-leveraging and capital allocation
+initiatives, (iii) statements about our integrations of our recent acquisitions, (iv) statements relating to any litigation or regulatory or government investigation or action to which we are or could become a party, and (v) other
+statements that are not historical facts. Forward-looking statements involve a number of risks, uncertainties or other factors beyond Nasdaq s control. These factors include, but are not limited to, Nasdaq s ability to implement its
+strategic initiatives, economic, political and market conditions and fluctuations, geopolitical instability, government and industry regulation, interest rate risk, and U.S. and global competition. Further information on these and other factors are
+detailed in Nasdaq s filings with the U.S. Securities and Exchange Commission, including its annual reports on Form 10-K and quarterly reports on Form 10-Q, which
+are available on Nasdaq s investor relations website at https://ir.nasdaq.com and the SEC s website at www.sec.gov . Nasdaq undertakes no obligation to publicly update any forward-looking statement, whether as a result of
+new information, future events or otherwise. 
+ 
+
+ 
+ 
+
+ 
+ WEBSITE DISCLOSURE 
+ Nasdaq intends to use its website, ir.nasdaq.com , as a means for disclosing material non-public information and
+for complying with SEC Regulation FD and other disclosure obligations. Media Relations Contact: 
+ David Lurie +1.914.538.0533 
+ David.Lurie@Nasdaq.com Investor Relations
+Contact: Ato Garrett +1.212.401.8737 
+ Ato.Garrett@Nasdaq.com 
+ -NDAQF- 
+
+ 
+
+ 
+ 
+
+ 
+ Nasdaq, Inc. 
+ Condensed Consolidated Statements of Income 
+ (in millions, except per share amounts) 
+ (unaudited) 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended 
+ 
+ 
+ 
+ 
+ March 31, 
+ 
+ 
+ March 31, 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+
+ 
+ Revenues: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capital Access Platforms 
+ 
+ $ 
+ 565 
+ 
+ 
+ $ 
+ 508 
+ 
+ 
+ Financial Technology 
+ 
+ 
+ 517 
+ 
+ 
+ 
+ 432 
+ 
+ 
+ Market Services 
+ 
+ 
+ 1,047 
+ 
+ 
+ 
+ 1,140 
+ 
+ 
+ Other Revenues 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total revenues 
+ 
+ 
+ 2,137 
+ 
+ 
+ 
+ 2,096 
+ 
+ 
+ Transaction-based expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Transaction rebates 
+ 
+ 
+ (724 
+ ) 
+ 
+ 
+ (585 
+ ) 
+ 
+ Brokerage, clearance and exchange fees 
+ 
+ 
+ (6 
+ ) 
+ 
+ 
+ (274 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenues less transaction-based expenses 
+ 
+ 
+ 1,407 
+ 
+ 
+ 
+ 1,237 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating Expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Compensation and benefits 
+ 
+ 
+ 356 
+ 
+ 
+ 
+ 329 
+ 
+ 
+ Professional and contract services 
+ 
+ 
+ 39 
+ 
+ 
+ 
+ 36 
+ 
+ 
+ Technology and communication infrastructure 
+ 
+ 
+ 84 
+ 
+ 
+ 
+ 77 
+ 
+ 
+ Occupancy 
+ 
+ 
+ 33 
+ 
+ 
+ 
+ 28 
+ 
+ 
+ General, administrative and other 
+ 
+ 
+ 29 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ Marketing and advertising 
+ 
+ 
+ 20 
+ 
+ 
+ 
+ 14 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 165 
+ 
+ 
+ 
+ 156 
+ 
+ 
+ Regulatory 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ 15 
+ 
+ 
+ Merger and strategic initiatives 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 24 
+ 
+ 
+ Restructuring charges 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total operating expenses 
+ 
+ 
+ 750 
+ 
+ 
+ 
+ 690 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income 
+ 
+ 
+ 657 
+ 
+ 
+ 
+ 547 
+ 
+ 
+ Interest income 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ Interest expense 
+ 
+ 
+ (87 
+ ) 
+ 
+ 
+ (96 
+ ) 
+ 
+ Net gain on divestitures 
+ 
+ 
+ 89 
+ 
+ 
+ 
+ — 
+ 
+ 
+ Other losses 
+ 
+ 
+ (14 
+ ) 
+ 
+ 
+ (1 
+ ) 
+ 
+ Net income from unconsolidated investees 
+ 
+ 
+ 26 
+ 
+ 
+ 
+ 27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income before income taxes 
+ 
+ 
+ 677 
+ 
+ 
+ 
+ 488 
+ 
+ 
+ Income tax provision 
+ 
+ 
+ 158 
+ 
+ 
+ 
+ 93 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income 
+ 
+ $ 
+ 519 
+ 
+ 
+ $ 
+ 395 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Per share information: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Basic earnings per share 
+ 
+ $ 
+ 0.92 
+ 
+ 
+ $ 
+ 0.69 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted earnings per share 
+ 
+ $ 
+ 0.91 
+ 
+ 
+ $ 
+ 0.68 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash dividends declared per common share 
+ 
+ $ 
+ 0.27 
+ 
+ 
+ $ 
+ 0.24 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Weighted-average common shares outstanding for earnings per share: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Basic 
+ 
+ 
+ 566.8 
+ 
+ 
+ 
+ 575.0 
+ 
+ 
+ Diluted 
+ 
+ 
+ 571.7 
+ 
+ 
+ 
+ 580.0 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ Nasdaq, Inc. 
+ Revenue Detail (in
+millions) (unaudited) 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended 
+ 
+ 
+ 
+ 
+ March 31, 
+ 
+ 
+ March 31, 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+
+ 
+ CAPITAL ACCESS PLATFORMS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Data and Listing Services 
+ 
+ $ 
+ 214 
+ 
+ 
+ $ 
+ 192 
+ 
+ 
+ Index 
+ 
+ 
+ 220 
+ 
+ 
+ 
+ 193 
+ 
+ 
+ Workflow and Insights 
+ 
+ 
+ 131 
+ 
+ 
+ 
+ 123 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Capital Access Platforms revenues 
+ 
+ 
+ 565 
+ 
+ 
+ 
+ 508 
+ 
+ 
+ FINANCIAL TECHNOLOGY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Financial Crime Management Technology 
+ 
+ 
+ 93 
+ 
+ 
+ 
+ 77 
+ 
+ 
+ Regulatory Technology 
+ 
+ 
+ 118 
+ 
+ 
+ 
+ 101 
+ 
+ 
+ Capital Markets Technology 
+ 
+ 
+ 306 
+ 
+ 
+ 
+ 254 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Financial Technology revenues 
+ 
+ 
+ 517 
+ 
+ 
+ 
+ 432 
+ 
+ 
+ MARKET SERVICES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Market Services 
+ 
+ 
+ 1,047 
+ 
+ 
+ 
+ 1,140 
+ 
+ 
+ Transaction-based expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Transaction rebates 
+ 
+ 
+ (724 
+ ) 
+ 
+ 
+ (585 
+ ) 
+ 
+ Brokerage, clearance and exchange fees 
+ 
+ 
+ (6 
+ ) 
+ 
+ 
+ (274 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Market Services revenues, net 
+ 
+ 
+ 317 
+ 
+ 
+ 
+ 281 
+ 
+ 
+ OTHER REVENUES 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REVENUES LESS TRANSACTION-BASED EXPENSES 
+ 
+ $ 
+ 1,407 
+ 
+ 
+ $ 
+ 1,237 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ Nasdaq, Inc. 
+ Condensed Consolidated Balance Sheets 
+ (in millions) 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ March 31, 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ (unaudited) 
+ 
+ 
+ 
+ 
+
+ 
+ Assets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Current assets: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash and cash equivalents 
+ 
+ $ 
+ 515 
+ 
+ 
+ $ 
+ 604 
+ 
+ 
+ Restricted cash and cash equivalents 
+ 
+ 
+ 49 
+ 
+ 
+ 
+ 210 
+ 
+ 
+ Default funds and margin deposits 
+ 
+ 
+ 2,253 
+ 
+ 
+ 
+ 5,842 
+ 
+ 
+ Financial investments 
+ 
+ 
+ 184 
+ 
+ 
+ 
+ 28 
+ 
+ 
+ Receivables, net 
+ 
+ 
+ 985 
+ 
+ 
+ 
+ 943 
+ 
+ 
+ Other current assets 
+ 
+ 
+ 388 
+ 
+ 
+ 
+ 376 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total current assets 
+ 
+ 
+ 4,374 
+ 
+ 
+ 
+ 8,003 
+ 
+ 
+ Property and equipment, net 
+ 
+ 
+ 739 
+ 
+ 
+ 
+ 728 
+ 
+ 
+ Goodwill 
+ 
+ 
+ 14,307 
+ 
+ 
+ 
+ 14,371 
+ 
+ 
+ Intangible assets, net 
+ 
+ 
+ 6,376 
+ 
+ 
+ 
+ 6,511 
+ 
+ 
+ Operating lease assets 
+ 
+ 
+ 485 
+ 
+ 
+ 
+ 447 
+ 
+ 
+ Other non-current assets 
+ 
+ 
+ 1,020 
+ 
+ 
+ 
+ 993 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total assets 
+ 
+ $ 
+ 27,301 
+ 
+ 
+ $ 
+ 31,053 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Liabilities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Current liabilities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Accounts payable and accrued expenses 
+ 
+ $ 
+ 245 
+ 
+ 
+ $ 
+ 280 
+ 
+ 
+ Accrued personnel costs 
+ 
+ 
+ 209 
+ 
+ 
+ 
+ 364 
+ 
+ 
+ Deferred revenue 
+ 
+ 
+ 1,093 
+ 
+ 
+ 
+ 785 
+ 
+ 
+ Other current liabilities 
+ 
+ 
+ 160 
+ 
+ 
+ 
+ 259 
+ 
+ 
+ Default funds and margin deposits 
+ 
+ 
+ 2,253 
+ 
+ 
+ 
+ 5,842 
+ 
+ 
+ Short-term debt 
+ 
+ 
+ 431 
+ 
+ 
+ 
+ 431 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total current liabilities 
+ 
+ 
+ 4,391 
+ 
+ 
+ 
+ 7,961 
+ 
+ 
+ Long-term debt 
+ 
+ 
+ 8,526 
+ 
+ 
+ 
+ 8,573 
+ 
+ 
+ Deferred tax liabilities, net 
+ 
+ 
+ 1,611 
+ 
+ 
+ 
+ 1,584 
+ 
+ 
+ Operating lease liabilities 
+ 
+ 
+ 488 
+ 
+ 
+ 
+ 462 
+ 
+ 
+ Other non-current liabilities 
+ 
+ 
+ 247 
+ 
+ 
+ 
+ 241 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total liabilities 
+ 
+ 
+ 15,263 
+ 
+ 
+ 
+ 18,821 
+ 
+ 
+ Commitments and contingencies 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Equity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Nasdaq stockholders equity: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Common stock 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ Additional paid-in capital 
+ 
+ 
+ 4,627 
+ 
+ 
+ 
+ 5,122 
+ 
+ 
+ Common stock in treasury, at cost 
+ 
+ 
+ (747 
+ ) 
+ 
+ 
+ (716 
+ ) 
+ 
+ Accumulated other comprehensive loss 
+ 
+ 
+ (1,807 
+ ) 
+ 
+ 
+ (1,773 
+ ) 
+ 
+ Retained earnings 
+ 
+ 
+ 9,954 
+ 
+ 
+ 
+ 9,588 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Nasdaq stockholders equity 
+ 
+ 
+ 12,033 
+ 
+ 
+ 
+ 12,227 
+ 
+ 
+ Noncontrolling interests 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total equity 
+ 
+ 
+ 12,038 
+ 
+ 
+ 
+ 12,232 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total liabilities and equity 
+ 
+ $ 
+ 27,301 
+ 
+ 
+ $ 
+ 31,053 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ Nasdaq, Inc. 
+ Reconciliation of U.S. GAAP to Non-GAAP Net Income and Diluted Earnings Per Share 
+ (in millions, except per share amounts) 
+ (unaudited) 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended 
+ 
+ 
+ 
+ 
+ March 31, 
+ 
+ 
+ March 31, 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+
+ 
+ U.S. GAAP net income 
+ 
+ $ 
+ 519 
+ 
+ 
+ $ 
+ 395 
+ 
+ 
+ Non-GAAP adjustments: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amortization expense of acquired intangible assets
+ (1) 
+ 
+ 
+ 121 
+ 
+ 
+ 
+ 122 
+ 
+ 
+ Merger and strategic initiatives expense
+ (2) 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 24 
+ 
+ 
+ Restructuring charges (3) 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ Net gain on divestitures (4) 
+ 
+ 
+ (89 
+ ) 
+ 
+ 
+ — 
+ 
+ 
+ Net income from unconsolidated investees
+ (5) 
+ 
+ 
+ (26 
+ ) 
+ 
+ 
+ (27 
+ ) 
+ 
+ Gain from extinguishment of debt (6) 
+
+ 
+ 
+ — 
+ 
+ 
+ 
+ (19 
+ ) 
+ 
+ Legal and regulatory matters (7) 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ Other losses (8) 
+ 
+ 
+ 15 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total non-GAAP adjustments 
+ 
+ 
+ 42 
+ 
+ 
+ 
+ 108 
+ 
+ 
+ Non-GAAP adjustment to the income tax provision (9) 
+ 
+ 
+ (12 
+ ) 
+ 
+ 
+ (28 
+ ) 
+ 
+ Other tax adjustments (10) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (19 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total non-GAAP adjustments, net of tax 
+ 
+ 
+ 30 
+ 
+ 
+ 
+ 61 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Non-GAAP net income 
+ 
+ $ 
+ 549 
+ 
+ 
+ $ 
+ 456 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ U.S. GAAP diluted earnings per share 
+ 
+ $ 
+ 0.91 
+ 
+ 
+ $ 
+ 0.68 
+ 
+ 
+ Total adjustments from non-GAAP net income above 
+ 
+ 
+ 0.05 
+ 
+ 
+ 
+ 0.11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Non-GAAP diluted earnings per share 
+ 
+ $ 
+ 0.96 
+ 
+ 
+ $ 
+ 0.79 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Weighted-average diluted common shares outstanding for earnings per share: 
+ 
+ 
+ 571.7 
+ 
+ 
+ 
+ 580.0 
+ 
+ 
+ 
+ 
+ (1) 
+ We amortize intangible assets acquired in connection with various acquisitions. Intangible asset amortization
+expense can vary from period to period due to episodic acquisitions completed, rather than from our ongoing business operations. 
+ 
+ 
+ (2) 
+ We have pursued various strategic initiatives and completed acquisitions and divestitures in recent years that
+have resulted in expenses which would not have otherwise been incurred. These expenses generally include integration costs, as well as legal, due diligence and other third-party transaction costs. The frequency and the amount of such expenses vary
+significantly based on the size, timing and complexity of the transaction. For the three months ended March 31, 2026, these costs included amounts associated with various strategic initiative costs. For the three months ended March 31,
+2025, these costs included amounts associated with the transfer of open positions in our Nordic power futures business, Adenza integration costs and other strategic initiative costs. 
+ 
+ 
+ 
+ (3) 
+ For a description of our restructuring program, see Restructuring Program in the Non-GAAP Information section of this earnings release. 
+ 
+ 
+ (4) 
+ For the three months ended March 31, 2026, this primarily includes the recognition of an incremental gain
+on the sale of our Nordic power futures business, net of costs to sell. 
+ 
+ 
+ (5) 
+ We exclude our share of the earnings and losses of our equity method investments. This provides a more
+meaningful analysis of Nasdaq s ongoing operating performance or comparisons in Nasdaq s performance between periods. 
+ 
+ 
+ (6) 
+ For the three months ended March 31, 2025, we recorded a gain on the extinguishment of debt. This gain is
+recorded in general, administrative expense in our Condensed Consolidated Statements of Income. 
+ 
+ 
+ (7) 
+ For the three months ended March 31, 2026 and 2025, this includes accruals relating to certain legal
+matters, which are recorded in professional and contract services in the Condensed Consolidated Statements of Income. 
+ 
+ 
+ (8) 
+ For the three months ended March 31, 2026, other items primarily include losses from strategic investments
+entered into through our corporate venture program, which are included in other losses in our Condensed Consolidated Statements of Income. 
+ 
+ 
+ (9) 
+ For the three months March 31, 2026 and 2025, the non-GAAP 
+adjustment to the income tax provision primarily includes the tax impact of each non-GAAP adjustment. 
+ 
+ 
+ (10) 
+ For the three months ended March 31, 2025, this included the release of the prior years reserves
+following a favorable audit settlement. 
+ 
+
+ 
+ 
+
+ 
+ Nasdaq, Inc. 
+ Reconciliation of U.S. GAAP to Non-GAAP Operating Income and Operating Margin 
+ (in millions) 
+ (unaudited) 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended 
+ 
+ 
+ 
+ 
+ March 31, 2026 
+ 
+ 
+ March 31, 2025 
+ 
+
+ 
+ U.S. GAAP operating income 
+ 
+ $ 
+ 657 
+ 
+ 
+ $ 
+ 547 
+ 
+ 
+ Non-GAAP adjustments: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amortization expense of acquired intangible assets
+ (1) 
+ 
+ 
+ 121 
+ 
+ 
+ 
+ 122 
+ 
+ 
+ Merger and strategic initiatives expense
+ (2) 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 24 
+ 
+ 
+ Restructuring charges (3) 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ Gain from extinguishment of debt (4) 
+
+ 
+ 
+ — 
+ 
+ 
+ 
+ (19 
+ ) 
+ 
+ Legal and regulatory matters (5) 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ Other losses 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total non-GAAP adjustments 
+ 
+ 
+ 142 
+ 
+ 
+ 
+ 135 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Non-GAAP operating income 
+ 
+ $ 
+ 799 
+ 
+ 
+ $ 
+ 682 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenues less transaction-based expenses 
+ 
+ $ 
+ 1,407 
+ 
+ 
+ $ 
+ 1,237 
+ 
+ 
+ U.S. GAAP operating margin
+ (6) 
+ 
+ 
+ 47 
+ % 
+ 
+ 
+ 44 
+ % 
+ 
+ Non-GAAP operating margin (7) 
+ 
+ 
+ 57 
+ % 
+ 
+ 
+ 55 
+ % 
+ Note: The percentages are calculated based on exact dollars, and therefore may not recalculate exactly using rounded numbers
+as presented in US$ millions. 
+ 
+ 
+ (1) 
+ We amortize intangible assets acquired in connection with various acquisitions. Intangible asset amortization
+expense can vary from period to period due to episodic acquisitions completed, rather than from our ongoing business operations. 
+ 
+ 
+ (2) 
+ We have pursued various strategic initiatives and completed acquisitions and divestitures in recent years that
+have resulted in expenses which would not have otherwise been incurred. These expenses generally include integration costs, as well as legal, due diligence and other third-party transaction costs. The frequency and the amount of such expenses vary
+significantly based on the size, timing and complexity of the transaction. For the three months ended March 31, 2026, these costs included amounts associated with various strategic initiative costs. For the three months ended March 31,
+2025, these costs included amounts associated with the transfer of open positions in our Nordic power futures business, Adenza integration costs and other strategic initiative costs. 
+ 
+ 
+ 
+ (3) 
+ For a description of our restructuring program, see Restructuring Program in the Non-GAAP Information section of this earnings release. 
+ 
+ 
+ (4) 
+ For the three months ended March 31, 2025, we recorded a gain on the extinguishment of debt. This gain is
+recorded in general, administrative expense in our Condensed Consolidated Statements of Income. 
+ 
+ 
+ (5) 
+ For the three months ended March 31, 2026 and 2025, this includes accruals relating to certain legal
+matters, which are recorded in professional and contract services in the Condensed Consolidated Statements of Income. 
+ 
+ 
+ (6) 
+ U.S. GAAP operating margin equals U.S. GAAP operating income divided by revenues less transaction-based
+expenses. 
+ 
+ 
+ (7) 
+ Non-GAAP operating margin equals
+ non-GAAP operating income divided by revenues less transaction-based expenses. 
+ 
+
+ 
+ 
+
+ 
+ Nasdaq, Inc. 
+ Reconciliation of U.S. GAAP to Non-GAAP Operating Expenses 
+ (in millions) 
+ (unaudited) 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended 
+ 
+ 
+ 
+ 
+ March 31, 2026 
+ 
+ 
+ March 31, 2025 
+ 
+
+ 
+ U.S. GAAP operating expenses 
+ 
+ $ 
+ 750 
+ 
+ 
+ $ 
+ 690 
+ 
+ 
+ Non-GAAP adjustments: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amortization expense of acquired intangible assets 
+(1) 
+ 
+ 
+ (121 
+ ) 
+ 
+ 
+ (122 
+ ) 
+ 
+ Merger and strategic initiatives expense
+ (2) 
+ 
+ 
+ (4 
+ ) 
+ 
+ 
+ (24 
+ ) 
+ 
+ Restructuring charges (3) 
+ 
+ 
+ (11 
+ ) 
+ 
+ 
+ (5 
+ ) 
+ 
+ Gain on extinguishment of debt (4) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 19 
+ 
+ 
+ Legal and regulatory matters (5) 
+ 
+ 
+ (6 
+ ) 
+ 
+ 
+ (2 
+ ) 
+ 
+ Other losses 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (1 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total non-GAAP adjustments 
+ 
+ 
+ (142 
+ ) 
+ 
+ 
+ (135 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Non-GAAP operating expenses 
+ 
+ $ 
+ 608 
+ 
+ 
+ $ 
+ 555 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ We amortize intangible assets acquired in connection with various acquisitions. Intangible asset amortization
+expense can vary from period to period due to episodic acquisitions completed, rather than from our ongoing business operations. 
+ 
+ 
+ (2) 
+ We have pursued various strategic initiatives and completed acquisitions and divestitures in recent years that
+have resulted in expenses which would not have otherwise been incurred. These expenses generally include integration costs, as well as legal, due diligence and other third-party transaction costs. The frequency and the amount of such expenses vary
+significantly based on the size, timing and complexity of the transaction. For the three months ended March 31, 2026, these costs included amounts associated with various strategic initiative costs. For the three months ended March 31,
+2025, these costs included amounts associated with the transfer of open positions in our Nordic power futures business, Adenza integration costs and other strategic initiative costs. 
+ 
+ 
+ 
+ (3) 
+ For a description of our restructuring program, see Restructuring Program in the Non-GAAP Information section of this earnings release. 
+ 
+ 
+ (4) 
+ For the three months ended March 31, 2025, we recorded a gain on the extinguishment of debt. This gain is
+recorded in general, administrative expense in our Condensed Consolidated Statements of Income. 
+ 
+ 
+ (5) 
+ For the three months ended March 31, 2026 and 2025, this includes accruals relating to certain legal
+matters, which are recorded in professional and contract services in the Condensed Consolidated Statements of Income. 
+ 
+
+ 
+ 
+
+ 
+ Nasdaq, Inc. 
+ Reconciliation of Organic Impacts for Revenues less transaction-based expenses, Non-GAAP Operating
+Expenses, Non-GAAP Operating Income, and Non-GAAP 
+Diluted Earnings Per Share (in millions, except per share amounts) 
+ (unaudited) 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended 
+ 
+ 
+ Total Variance 
+ 
+ 
+ Other Impacts (1) 
+ 
+ 
+ Organic Impact 
+ 
+ 
+ 
+ 
+ March 31, 2026 
+ 
+ 
+ March 31, 2025 
+ 
+ 
+ $ 
+ 
+ 
+ % 
+ 
+ 
+ $ 
+ 
+ 
+ % 
+ 
+ 
+ $ 
+ 
+ 
+ % 
+ 
+
+ 
+ CAPITAL ACCESS PLATFORMS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Data and Listing Services 
+ 
+ $ 
+ 214 
+ 
+ 
+ $ 
+ 192 
+ 
+ 
+ $ 
+ 22 
+ 
+ 
+ 
+ 11 
+ % 
+ 
+ $ 
+ 6 
+ 
+ 
+ 
+ 3 
+ % 
+ 
+ $ 
+ 16 
+ 
+ 
+ 
+ 9 
+ % 
+ 
+ Index 
+ 
+ 
+ 220 
+ 
+ 
+ 
+ 193 
+ 
+ 
+ 
+ 27 
+ 
+ 
+ 
+ 14 
+ % 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ % 
+ 
+ 
+ 27 
+ 
+ 
+ 
+ 14 
+ % 
+ 
+ Workflow and Insights 
+ 
+ 
+ 131 
+ 
+ 
+ 
+ 123 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 7 
+ % 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 1 
+ % 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 6 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Capital Access Platforms revenues 
+ 
+ 
+ 565 
+ 
+ 
+ 
+ 508 
+ 
+ 
+ 
+ 57 
+ 
+ 
+ 
+ 11 
+ % 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 1 
+ % 
+ 
+ 
+ 50 
+ 
+ 
+ 
+ 10 
+ % 
+ 
+ FINANCIAL TECHNOLOGY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Financial Crime Management Technology 
+ 
+ 
+ 93 
+ 
+ 
+ 
+ 77 
+ 
+ 
+ 
+ 16 
+ 
+ 
+ 
+ 21 
+ % 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ % 
+ 
+ 
+ 16 
+ 
+ 
+ 
+ 21 
+ % 
+ 
+ Regulatory Technology 
+ 
+ 
+ 118 
+ 
+ 
+ 
+ 101 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ 16 
+ % 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 5 
+ % 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 12 
+ % 
+ 
+ Capital Markets Technology 
+ 
+ 
+ 306 
+ 
+ 
+ 
+ 254 
+ 
+ 
+ 
+ 52 
+ 
+ 
+ 
+ 21 
+ % 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 1 
+ % 
+ 
+ 
+ 51 
+ 
+ 
+ 
+ 20 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Financial Technology revenues 
+ 
+ 
+ 517 
+ 
+ 
+ 
+ 432 
+ 
+ 
+ 
+ 85 
+ 
+ 
+ 
+ 20 
+ % 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 1 
+ % 
+ 
+ 
+ 79 
+ 
+ 
+ 
+ 18 
+ % 
+ 
+ Market Services net revenues 
+ 
+ 
+ 317 
+ 
+ 
+ 
+ 281 
+ 
+ 
+ 
+ 36 
+ 
+ 
+ 
+ 13 
+ % 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 3 
+ % 
+ 
+ 
+ 29 
+ 
+ 
+ 
+ 10 
+ % 
+ 
+ Other revenues 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 16 
+ 
+ 
+ 
+ (8 
+ ) 
+ 
+ 
+ (51 
+ )% 
+ 
+ 
+ (7 
+ ) 
+ 
+ 
+ (42 
+ )% 
+ 
+ 
+ (1 
+ ) 
+ 
+ 
+ (15 
+ )% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenues less transaction-based expenses 
+ 
+ $ 
+ 1,407 
+ 
+ 
+ $ 
+ 1,237 
+ 
+ 
+ $ 
+ 170 
+ 
+ 
+ 
+ 14 
+ % 
+ 
+ $ 
+ 13 
+ 
+ 
+ 
+ 1 
+ % 
+ 
+ $ 
+ 157 
+ 
+ 
+ 
+ 13 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Solutions revenue (2) 
+ 
+ $ 
+ 1,082 
+ 
+ 
+ $ 
+ 947 
+ 
+ 
+ $ 
+ 135 
+ 
+ 
+ 
+ 14 
+ % 
+ 
+ $ 
+ 6 
+ 
+ 
+ 
+ 1 
+ % 
+ 
+ $ 
+ 129 
+ 
+ 
+ 
+ 14 
+ % 
+ 
+ Non-GAAP Operating Expenses 
+ 
+ $ 
+ 608 
+ 
+ 
+ $ 
+ 555 
+ 
+ 
+ $ 
+ 53 
+ 
+ 
+ 
+ 10 
+ % 
+ 
+ $ 
+ 10 
+ 
+ 
+ 
+ 2 
+ % 
+ 
+ $ 
+ 43 
+ 
+ 
+ 
+ 8 
+ % 
+ 
+ Non-GAAP Operating Income 
+ 
+ $ 
+ 799 
+ 
+ 
+ $ 
+ 682 
+ 
+ 
+ $ 
+ 117 
+ 
+ 
+ 
+ 17 
+ % 
+ 
+ $ 
+ 3 
+ 
+ 
+ 
+ 1 
+ % 
+ 
+ $ 
+ 114 
+ 
+ 
+ 
+ 17 
+ % 
+ 
+ Non-GAAP diluted earnings per share 
+ 
+ $ 
+ 0.96 
+ 
+ 
+ $ 
+ 0.79 
+ 
+ 
+ $ 
+ 0.17 
+ 
+ 
+ 
+ 22 
+ % 
+ 
+ $ 
+ 0.01 
+ 
+ 
+ 
+ 1 
+ % 
+ 
+ $ 
+ 0.17 
+ 
+ 
+ 
+ 21 
+ % 
+ Note: The percentages are calculated based on exact dollars, and therefore may not recalculate exactly using rounded numbers
+as presented in US$ millions. The sum of the percentage changes may not tie to the percentage change in total variance due to rounding. 
+ 
+ 
+ (1) 
+ Primarily reflects the impacts from changes in foreign currency exchange rates, divestitures within Capital
+Markets Technology and Other, and an acquisition. 
+ 
+ 
+ (2) 
+ Includes Capital Access Platforms and Financial Technology revenues as well as $7 million of Other revenue in
+the first quarter of 2025, related to the sale of the Solovis business, which was sold in the fourth quarter of 2025. 
+ 
+
+ 
+ 
+
+ 
+ Nasdaq, Inc. 
+ Key Drivers Detail 
+ (unaudited) 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended 
+ 
+ 
+ 
+ 
+ March 31, 
+ 
+ 
+ March 31, 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+
+ 
+ Capital Access Platforms 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Annualized recurring revenues (in millions)
+ (1) 
+ 
+ $ 
+ 1,366 
+ 
+ 
+ $ 
+ 1,252 
+ 
+ 
+ Initial public offerings 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Nasdaq Stock Market 
+ 
+ 
+ 63 
+ 
+ 
+ 
+ 63 
+ 
+ 
+ Nasdaq operating company IPOs 
+ 
+ 
+ 15 
+ 
+ 
+ 
+ 45 
+ 
+ 
+ SPACs 
+ 
+ 
+ 48 
+ 
+ 
+ 
+ 18 
+ 
+ 
+ Exchanges that comprise Nasdaq Nordic and Nasdaq Baltic 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ Total new listings 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Nasdaq Stock Market 
+ 
+ 
+ 176 
+ 
+ 
+ 
+ 170 
+ 
+ 
+ Exchanges that comprise Nasdaq Nordic and Nasdaq Baltic (2) 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 9 
+ 
+ 
+ Number of listed companies 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Nasdaq Stock Market (3) 
+ 
+ 
+ 4,570 
+ 
+ 
+ 
+ 4,139 
+ 
+ 
+ Exchanges that comprise Nasdaq Nordic and Nasdaq Baltic (4) 
+ 
+ 
+ 1,107 
+ 
+ 
+ 
+ 1,160 
+ 
+ 
+ Index 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Number of licensed exchange traded products 
+ 
+ 
+ 470 
+ 
+ 
+ 
+ 418 
+ 
+ 
+ Period end ETP assets under management (AUM) tracking Nasdaq indexes (in billions) 
+ 
+ $ 
+ 836 
+ 
+ 
+ $ 
+ 622 
+ 
+ 
+ Total average ETP AUM tracking Nasdaq indexes (in billions) 
+ 
+ $ 
+ 877 
+ 
+ 
+ $ 
+ 662 
+ 
+ 
+ TTM (5) net inflows ETP AUM tracking
+Nasdaq indexes (in billions) 
+ 
+ $ 
+ 79 
+ 
+ 
+ $ 
+ 86 
+ 
+ 
+ TTM (5) net appreciation ETP AUM
+tracking Nasdaq indexes (in billions) 
+ 
+ $ 
+ 135 
+ 
+ 
+ $ 
+ 17 
+ 
+ 
+ Financial Technology 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Annualized recurring revenues (in millions)
+ (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Financial Crime Management Technology 
+ 
+ $ 
+ 344 
+ 
+ 
+ $ 
+ 295 
+ 
+ 
+ Regulatory Technology 
+ 
+ 
+ 419 
+ 
+ 
+ 
+ 362 
+ 
+ 
+ Capital Markets Technology 
+ 
+ 
+ 1,059 
+ 
+ 
+ 
+ 893 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Financial Technology 
+ 
+ $ 
+ 1,822 
+ 
+ 
+ $ 
+ 1,550 
+ 
+ 
+ Market Services 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Equity Derivative Trading and Clearing 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ U.S. equity options 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total industry average daily volume (in millions) 
+ 
+ 
+ 62.6 
+ 
+ 
+ 
+ 53.6 
+ 
+ 
+ Nasdaq PHLX matched market share 
+ 
+ 
+ 12.5 
+ % 
+ 
+ 
+ 9.1 
+ % 
+ 
+ The Nasdaq Options Market matched market share 
+ 
+ 
+ 2.6 
+ % 
+ 
+ 
+ 5.1 
+ % 
+ 
+ Nasdaq Texas Options matched market share (formerly Nasdaq BX) 
+ 
+ 
+ 1.3 
+ % 
+ 
+ 
+ 1.7 
+ % 
+ 
+ Nasdaq ISE Options matched market share 
+ 
+ 
+ 6.0 
+ % 
+ 
+ 
+ 6.8 
+ % 
+ 
+ Nasdaq GEMX Options matched market share 
+ 
+ 
+ 3.4 
+ % 
+ 
+ 
+ 3.6 
+ % 
+ 
+ Nasdaq MRX Options matched market share 
+ 
+ 
+ 4.3 
+ % 
+ 
+ 
+ 2.8 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total matched market share executed on Nasdaq s exchanges 
+ 
+ 
+ 30.1 
+ % 
+ 
+ 
+ 29.1 
+ % 
+ 
+ Nasdaq Nordic and Nasdaq Baltic options and futures 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total average daily volume of options and futures contracts 
+ 
+ 
+ 249,645 
+ 
+ 
+ 
+ 256,009 
+ 
+ 
+ Cash Equity Trading 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total U.S.-listed securities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total industry average daily share volume (in billions) 
+ 
+ 
+ 20.0 
+ 
+ 
+ 
+ 15.7 
+ 
+ 
+ Matched share volume (in billions) 
+ 
+ 
+ 183.7 
+ 
+ 
+ 
+ 137.6 
+ 
+ 
+ The Nasdaq Stock Market matched market share 
+ 
+ 
+ 14.7 
+ % 
+ 
+ 
+ 14.2 
+ % 
+ 
+ Nasdaq Texas matched market share (formerly Nasdaq BX) 
+ 
+ 
+ 0.3 
+ % 
+ 
+ 
+ 0.3 
+ % 
+ 
+ Nasdaq PSX matched market share 
+ 
+ 
+ 0.1 
+ % 
+ 
+ 
+ 0.1 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total matched market share executed on Nasdaq s exchanges 
+ 
+ 
+ 15.1 
+ % 
+ 
+ 
+ 14.6 
+ % 
+ 
+ Market share reported to the FINRA/Nasdaq Trade Reporting Facility 
+ 
+ 
+ 45.6 
+ % 
+ 
+ 
+ 48.1 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total market share (6) 
+ 
+ 
+ 60.7 
+ % 
+ 
+ 
+ 62.7 
+ % 
+ 
+ Nasdaq Nordic and Nasdaq Baltic securities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Average daily number of equity trades executed on Nasdaq s exchanges 
+ 
+ 
+ 797,886 
+ 
+ 
+ 
+ 789,103 
+ 
+ 
+ Total average daily value of shares traded (in billions) 
+ 
+ $ 
+ 6.8 
+ 
+ 
+ $ 
+ 5.4 
+ 
+ 
+ Total market share executed on Nasdaq s exchanges (7) 
+ 
+ 
+ 74.3 
+ % 
+ 
+ 
+ 70.5 
+ % 
+ 
+ 
+ 
+ (1) 
+ Annualized Recurring Revenue (ARR) for a given period is the current annualized value derived
+from subscription contracts with a defined contract value. This excludes contracts that are not recurring, are one-time in nature, or where the contract value fluctuates based on defined metrics. ARR is
+currently one of our key performance metrics to assess the health and trajectory of our recurring business. ARR does not have any standardized definition and is therefore unlikely to be comparable to similarly titled measures presented by other
+companies. ARR should be viewed independently of revenue and deferred revenue and is not intended to be combined with or to replace either of those items. For AxiomSL and Calypso recurring revenue contracts, the amount included in ARR is consistent
+with the amount that we invoice the customer during the current period. Additionally, for AxiomSL and Calypso recurring revenue contracts that include annual values that increase over time, we include in ARR only the annualized value of components
+of the contract that are considered active as of the date of the ARR calculation. We do not include the future committed increases in the contract value as of the date of the ARR calculation. ARR is not a forecast and the active contracts at the end
+of a reporting period used in calculating ARR may or may not be extended or renewed by our customers. 
+ 
+ 
+ (2) 
+ New listings include IPOs and represent companies listed on the Nasdaq Nordic and Nasdaq Baltic exchanges and
+companies on the alternative markets of Nasdaq First North. 
+ 
+ 
+ (3) 
+ Number of total listings on The Nasdaq Stock Market as of March 31, 2026 and 2025 included 1,180 and 833
+ETPs, respectively. 
+ 
+ 
+ (4) 
+ Represents companies listed on the Nasdaq Nordic and Nasdaq Baltic exchanges and companies on the alternative
+markets of Nasdaq First North. 
+ 
+ 
+ (5) 
+ Trailing twelve months. 
+ 
+ 
+ 
+ (6) 
+ Includes transactions executed on The Nasdaq Stock Market s, Nasdaq Texas s (formerly Nasdaq BX)
+and Nasdaq PSX s systems plus trades reported through the Financial Industry Regulatory Authority/Nasdaq Trade Reporting Facility. 
+ 
+ 
+ (7) 
+ European cash equities markets include cash equities exchanges of Sweden, Denmark, Finland, and Iceland. Minor
+adjustments to prior periods reflect data from a new consolidated data provider that accurately captures all primary trading venues and Multilateral Trading Facilities, or MTFs.
