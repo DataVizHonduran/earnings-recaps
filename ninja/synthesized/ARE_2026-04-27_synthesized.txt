@@ -1,0 +1,22 @@
+Ticker: ARE
+Source: ARE_2026-04-27.txt
+Generated: 2026-05-03 22:41 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Alexandria Real Estate Equities (ARE)**
+
+**1. Demand & Activity**
+Demand for life science real estate is showing signs of **softening**. The company notes that FDA drug approvals "decelerated slightly in 1Q26 compared to 10-year quarterly average," which serves as a leading indicator for tenant activity. While the company is focused on "steadily improve[ing] occupancy" ("Steadily Improve Occupancy and Increase NOI"), there is a reliance on a backlog of leased space not yet delivered to drive future occupancy gains ("3.2% Future Benefit to Occupancy from 1.1 million RSF of Leased Space Not Yet Delivered").
+
+**2. Labor & Wages**
+Not addressed in the provided text.
+
+**3. Pricing Power & Inflation**
+The company is focused on cost containment rather than aggressive pricing. There is evidence of **moderate** success in reducing internal overhead, reporting "$7.4 million, or 18%, in 1Q26 G&A Savings Compared to 2024 Quarterly Average."
+
+**4. Supply Chain & Inventory**
+Not addressed in the provided text.
+
+**5. Capital Spending (Capex)**
+Capex is **declining** as the company pivots toward capital preservation and liquidity. Management has explicitly stated a goal to "Reduce Capital Spend and Funding Needs" ("Reduce Capital Spend and Funding Needs"). This shift is evidenced by a move toward "Lower-Investment Alternatives at Two Redevelopment Projects" ("242,408 RSF Letters of Intent Executed for Lower-Investment Alternatives") and a robust disposition plan of "$2.33 billion in Process or Pending" to reduce the asset base. Future investment remains "focused on Megacampus™ Investment," which comprises 77% of the current pipeline ("Focused on Megacampus™ Investment").

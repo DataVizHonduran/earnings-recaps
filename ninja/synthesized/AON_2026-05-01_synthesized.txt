@@ -1,0 +1,25 @@
+Ticker: AON
+Source: AON_2026-05-01.txt
+Generated: 2026-05-03 22:40 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Aon plc (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is generally robust, particularly for integrated risk solutions. Organic revenue grew 5%, driven by "rising client demand" ("to meet rising client demand"). 
+*   **Risk Capital:** Strong growth, specifically double-digit growth in North America and "strong growth in EMEA" ("double-digit growth in North America and strong growth in EMEA").
+*   **Human Capital:** Mixed activity. Health Solutions saw "strong growth in core health and benefits" ("strong growth in core health and benefits"), while Talent Solutions experienced "slower discretionary spend" ("partially offset by slower discretionary spend in Talent Solutions").
+*   **Wealth Solutions:** Softening in the U.S. ("continued soft advisory demand in the U.S."), offset by demand in the UK/EMEA due to "regulatory change" ("demand for advisory work in the UK and EMEA related to the ongoing impact of regulatory change").
+
+**2. Labor & Wages**
+Labor costs are increasing moderately. Compensation and benefits expenses rose 6% ("Compensation and benefits expense increased $144 million, or 6%"), attributed to organic growth and "investments in long-term growth" ("investments in long-term growth"). However, the company is seeing some relief from "workforce optimization" ("lower costs related to workforce optimization").
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate pricing power and the ability to expand margins despite cost pressures. Adjusted operating margins expanded by 70 basis points ("Adjusted operating margin (Non-GAAP) 39.1% [vs] 38.4%"). There is no specific mention of commodity or freight inflation, but "foreign currency translation" provided a favorable tailwind to revenue and EPS ("4% favorable impact from foreign currency translation").
+
+**4. Supply Chain & Inventory**
+Not applicable. (No mentions of physical supply chains or inventory levels).
+
+**5. Capital Spending (Capex)**
+Investment in technology remains stable to slightly increasing. Capital expenditures increased by $11 million ("partially offset by an $11 million increase in capital expenditures"). Spending is focused on "analytics, technology, and innovative capital solutions" ("investments in analytics, technology, and innovative capital solutions") and "ongoing technology initiatives" ("Aon Business Services investments in ongoing technology initiatives").
