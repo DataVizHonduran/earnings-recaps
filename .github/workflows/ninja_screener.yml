@@ -1,0 +1,41 @@
+name: Ninja Earnings Screener
+
+on:
+  schedule:
+    - cron: '0 12 * * *'   # 12:00 UTC = 8:00 AM ET (mid-morning, after earnings releases)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  screen-and-save:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - run: pip install requests
+
+      - name: Screen SP500 transcripts
+        env:
+          API_NINJAS_KEY: ${{ secrets.API_NINJAS_KEY }}
+        run: python scripts/ninja_screener.py
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add ninja/
+          git diff --staged --quiet || (
+            git commit -m "ninja: $(date +'%Y-%m-%d') — transcripts added 🤖" &&
+            git pull --rebase --autostash &&
+            git push
+          )
