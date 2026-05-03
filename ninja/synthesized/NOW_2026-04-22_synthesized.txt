@@ -1,0 +1,9 @@
+Ticker: NOW
+Source: NOW_2026-04-22.txt
+Generated: 2026-05-03 23:41 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+I cannot fulfill this request because the provided text is not an earnings transcript. The attached document is a **Term Loan Credit Agreement** (a legal contract for borrowing money), not a financial report or a transcript of management discussing business operations.
+
+As a result, the document contains no data regarding demand, labor/wages, pricing power, supply chain, or operational capital spending. It consists entirely of legal definitions, loan covenants, and repayment terms.

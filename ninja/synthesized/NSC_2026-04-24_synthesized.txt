@@ -1,0 +1,22 @@
+Ticker: NSC
+Source: NSC_2026-04-24.txt
+Generated: 2026-05-03 23:41 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Norfolk Southern (NSC)**
+
+**1. Demand & Activity**
+Demand is softening, characterized by volatile volumes and a slight year-over-year decline ("volume decline of 1% year-over-year"). Management noted a "rapidly shifting macroeconomic environment" and "volatile volumes," though they observed some momentum improving toward the end of the quarter ("captured momentum exiting the quarter").
+
+**2. Labor & Wages**
+Not addressed in the provided text.
+
+**3. Pricing Power & Inflation**
+The company is facing moderate input cost pressure, specifically regarding energy. Management highlighted a "dramatic rise in fuel prices in March." Despite this, railway operating revenues remained stable ("up $5 million, or flat compared to the first quarter 2025"), suggesting that pricing or other revenue streams offset the slight volume decline.
+
+**4. Supply Chain & Inventory**
+Not addressed in the provided text.
+
+**5. Capital Spending (Capex)**
+Not addressed in the provided text.
