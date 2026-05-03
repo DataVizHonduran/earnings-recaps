@@ -1,0 +1,41 @@
+name: Sort Synthesized GICS
+
+on:
+  workflow_run:
+    workflows: ["Beige Book Synthesis"]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sort:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - run: pip install pandas
+
+      - name: Run GICS sorter
+        run: python3 scripts/sort_synthesized_gics.py
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "alberto.boquin@gmail.com"
+          git config --local user.name "Alberto Jose Boquin"
+          git add ninja/synthesized/
+          git diff --staged --quiet || (
+            git commit -m "chore: refresh GICS sorted folders — $(date +'%Y-%m-%d') 🤖" &&
+            git pull --rebase --autostash &&
+            git push
+          )
