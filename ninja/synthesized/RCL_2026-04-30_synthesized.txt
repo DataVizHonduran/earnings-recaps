@@ -1,0 +1,22 @@
+Ticker: RCL
+Source: RCL_2026-04-30.txt
+Generated: 2026-05-03 23:51 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Royal Caribbean Group (RCL)**
+
+**Demand & Activity:**
+Demand remains robust, characterized by a "record WAVE season" and strong close-in booking activity. While activity moderated slightly in March and early April for Mediterranean and West Coast Mexico itineraries due to "geopolitical developments," these segments have since recovered and are running at a "higher pace than the same time last year." Onboard spending continues to exceed prior year levels, driven by "growing demand for onboard and destination experiences."
+
+**Labor & Wages:**
+The report indicates moderate upward pressure on labor-related expenses, specifically noting "elevated crew movement costs" as a contributor to second-quarter cost growth.
+
+**Pricing Power & Inflation:**
+The company demonstrates robust pricing power, with net yield growth driven by "higher pricing across key products" and a booked position enjoying "record prices." However, inflationary pressure is evident in energy costs; the company updated its guidance to reflect "higher than anticipated fuel costs" based on current at-the-pump rates. Non-fuel cruise costs are expected to remain approximately flat in constant currency for the full year.
+
+**Supply Chain & Inventory:**
+Inventory levels for high-yielding Mediterranean itineraries are currently lean, with recent rebounding demand applying to "limited remaining inventory."
+
+**Capital Spending (Capex):**
+Investment in capacity and technology remains aggressive. The company is expanding its "innovation pipeline" and vacation ecosystem through the "upcoming delivery of Legend of the Seas" and "recent orders for Icon VI and Icon VII," as well as the launch of the Royal Beach Club Santorini.

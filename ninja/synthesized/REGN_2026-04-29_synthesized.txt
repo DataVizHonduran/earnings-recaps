@@ -1,0 +1,22 @@
+Ticker: REGN
+Source: REGN_2026-04-29.txt
+Generated: 2026-05-03 23:51 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Regeneron Pharmaceuticals (REGN)**
+
+**1. Demand & Activity**
+Demand is robust for key growth drivers, though mixed across the ophthalmology portfolio. Dupixent continues to see strong global growth ("increase in Dupixent sales"), and EYLEA HD is experiencing "higher sales volumes driven by increased demand." However, legacy EYLEA is softening due to "continued competitive pressures and the continued transition of patients to EYLEA HD."
+
+**2. Labor & Wages**
+Not addressed. The transcript contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+Pricing power is moderate to softening. The company reported a "lower net selling price" for both EYLEA and EYLEA HD. Additionally, Regeneron has entered a government agreement to provide certain products at "prices benchmarked against a defined group of other developed countries (Most-Favored-Nation Pricing)" to lower drug prices for patients.
+
+**4. Supply Chain & Inventory**
+Inventory levels appear lean for certain products, with EYLEA HD sales "negatively impacted by lower wholesaler inventory levels." Supply chain stability for pre-filled syringes (PFS) remains a point of focus, as the company is working with the FDA to resolve "outstanding issues" regarding two contract manufacturers.
+
+**5. Capital Spending (Capex)**
+Investment in capacity is robust. The company is focused on "expanding our R&D and manufacturing footprint to support long-term growth" and continues a "large investment in domestic R&D and manufacturing capacity."

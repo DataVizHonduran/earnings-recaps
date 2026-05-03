@@ -1,0 +1,22 @@
+Ticker: PSA
+Source: PSA_2026-04-27.txt
+Generated: 2026-05-03 23:50 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Public Storage (PSA)**
+
+**1. Demand & Activity:**
+Demand appears stable to modestly growing. Occupancy rates showed a slight increase to 91.5% ("Average Occupancy 91.5%... 0.4% [increase]"), and move-in rates were described as "ahead of expectations" through the first quarter. However, realized rental income per occupied square foot saw a slight decline of 0.3% ("Realized annual rental income per Occupied square foot $22.00 $22.06 (0.3)%").
+
+**2. Labor & Wages:**
+The report does not explicitly detail headcount or wage trends, but indicates a strategic shift toward automation to manage costs, utilizing a "digital transformation" to "mitigate inflationary pressures on our direct cost of operations."
+
+**3. Pricing Power & Inflation:**
+Pricing power is currently limited or softening, as evidenced by the slight dip in realized rents for occupied units. The company is facing "inflationary pressures on our direct cost of operations," though it claims to be offsetting these via its "integrated PS Next Operating Platform" to maintain "superior margins."
+
+**4. Supply Chain & Inventory:**
+Not applicable. (The company reports on real estate capacity rather than physical goods inventory).
+
+**5. Capital Spending (Capex):**
+Capex activity is robust. The company is aggressively expanding capacity through both organic growth and M&A. It expects to add 3.5 million net rentable square feet at an estimated cost of $618.4 million ("primarily over the next 18 to 24 months"). Additionally, the company announced a major pending acquisition of National Storage Affiliates Trust valued at approximately $10.5 billion.
