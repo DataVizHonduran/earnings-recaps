@@ -1,0 +1,17 @@
+Ticker: AAL
+Source: AAL_2026-04-23.txt
+Generated: 2026-05-03 22:33 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: American Airlines (AAL)**
+
+**1. Demand & Activity:** Robust. Demand is growing across all major segments, with record first-quarter revenue and the "nine highest revenue intake weeks in its 100-year history." Growth is broad-based, with positive unit revenue in domestic, Pacific, and Atlantic markets, the latter seeing a significant increase ("Atlantic passenger unit revenue up 16.7%"). Corporate travel is showing moderate recovery, with "managed corporate revenue increasing 13% year over year."
+
+**2. Labor & Wages:** Stable. The report does not explicitly detail hiring difficulties or wage disputes, though it notes a workforce of "130,000 aviation professionals."
+
+**3. Pricing Power & Inflation:** Mixed. The company demonstrates moderate pricing power, particularly in high-margin segments where "Premium unit revenue continued to outperform the Main Cabin." However, it faces significant inflationary pressure from energy costs, noting a "greater than $4 billion increase in expense related to higher prices for jet fuel." Management expects to only "partially recapture elevated fuel prices" through pricing adjustments.
+
+**4. Supply Chain & Inventory:** Not addressed. The transcript contains no specific data regarding lead times or physical inventory levels.
+
+**5. Capital Spending (Capex):** Moderate to Robust. Investment is focused on capacity upgrades and customer experience. This includes "significant investments" in lounge networks at major hubs (ORD, MIA, CLT, DCA, AUS, BNA) and a "multiyear investment in Concourse D in Miami." Additionally, the company is expanding premium capacity through "new deliveries and retrofits," with lie-flat and Premium Economy seats growing "more than twice as fast as Main Cabin seats."

@@ -1,0 +1,22 @@
+Ticker: AFL
+Source: AFL_2026-04-29.txt
+Generated: 2026-05-03 22:35 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Aflac Inc. (1Q26)**
+
+**1. Demand & Activity**
+Demand is moderate to robust, though varied by region. In Japan, new annualized premium sales grew robustly by 25.5% ("primarily reflecting strong sales of Anshin Palette... Miraito... and Tsumitasu"), despite a slight decline in total net earned premiums due to reinsurance and product maturity. In the U.S., demand is growing modestly, with net earned premiums increasing 3.5% ("reflecting improved sales and continued strong persistency"), specifically driven by group products ("primarily benefiting from sales of group products").
+
+**2. Labor & Wages**
+Not addressed. The transcript contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is maintaining stable to improving margins in key segments. In Japan, the pretax adjusted profit margin increased to 35.0% from 31.8% ("primarily driven by favorable benefits"). However, corporate-level costs are seeing moderate pressure, with interest expense increasing 28.9% ("driven by... higher interest expense and operating costs").
+
+**4. Supply Chain & Inventory**
+Not applicable. As a financial services provider, there are no mentions of physical supply chains or inventory levels.
+
+**5. Capital Spending (Capex)**
+The company is maintaining a stable investment posture, focusing on "tactical, opportunistic deployment of capital" and a "balanced approach of investing in growth." Specific facility or technology expenditures were not detailed, though the company continues to launch new product initiatives to drive growth.

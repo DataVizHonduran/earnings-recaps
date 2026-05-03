@@ -1,0 +1,22 @@
+Ticker: ABBV
+Source: ABBV_2026-04-29.txt
+Generated: 2026-05-03 22:34 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: AbbVie Inc. (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is **robust** across key growth drivers, though mixed by portfolio. Immunology and Neuroscience saw **moderate to strong** growth, led by Skyrizi (+29.2% operational) and Rinvoq (+20.2% operational) ("AbbVie’s key growth drivers continue to deliver strong performance"). Aesthetics demand remains **stable to modest**, with Botox Cosmetic growing 17% operationally, while Juvederm saw a **slight** decline (-2.9% operational). Conversely, Oncology activity is **softening**, with operational revenues decreasing 3.0% ("Global net revenues from the oncology portfolio were... a decrease of 3.0 percent on an operational basis").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring difficulty, turnover, wage increases, or headcount reductions.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail pricing actions or input cost pressures. However, the company maintains a **robust** adjusted gross margin of 83.6%, suggesting strong pricing power relative to cost of goods sold.
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory levels. However, the FDA issued a Complete Response Letter regarding a new product (trenibotE) specifically requesting "additional information about manufacturing processes," though no safety or efficacy concerns were noted.
+
+**5. Capital Spending (Capex)**
+Investment in capacity and technology is **robust**. The company is executing significant expansions, including a "$1.4 billion investment to build a 185-acre pharmaceutical manufacturing campus in Durham, North Carolina" and a "$380 million investment to build two new active pharmaceutical ingredient (API) manufacturing facilities" in Illinois. These projects emphasize the integration of "advanced manufacturing and laboratory technologies with artificial intelligence (AI)." Additionally, the company is expanding its training infrastructure via the "opening of the Allergan Medical Institute (AMI) Training Center in Austin, Texas."

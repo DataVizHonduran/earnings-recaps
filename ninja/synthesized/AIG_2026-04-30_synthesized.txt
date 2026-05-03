@@ -1,0 +1,22 @@
+Ticker: AIG
+Source: AIG_2026-04-30.txt
+Generated: 2026-05-03 22:36 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: AIG (Q1 2026)**
+
+**1. Demand & Activity**
+Demand for insurance products is robust, characterized by strong top-line growth. Net premiums written (NPW) increased 18% on a constant dollar basis ("impressive top-line growth"). Activity varies by segment, with North America Commercial showing the most significant expansion at 36% ("North America Commercial increased 36% year-over-year"), followed by International Commercial at 12% and Global Personal at 11% ("all on a constant dollar basis"). Growth is attributed to a mix of strategic acquisitions and "profitable organic growth."
+
+**2. Labor & Wages**
+The report does not provide specific data on wage inflation or hiring difficulties, though management attributes financial success to the "extraordinary effort, commitment and capacity to execute" of their "incredible colleagues around the world."
+
+**3. Pricing Power & Inflation**
+AIG demonstrates moderate to strong pricing power and disciplined underwriting. The company achieved a significant improvement in its combined ratio, dropping 850 basis points to 87.3% ("an 850 basis point improvement year-over-year"). This suggests a favorable pricing environment and disciplined risk selection, allowing the company to navigate an "increasingly complex global risk landscape" while maintaining "profitable growth."
+
+**4. Supply Chain & Inventory**
+Not applicable. (The company operates in financial services; no physical supply chain or inventory mentioned).
+
+**5. Capital Spending (Capex)**
+While specific technology or facility spend is not detailed, the company is investing in capacity and market share through strategic acquisitions, notably completing the "acquisition of a 35% equity interest in Convex Group Limited." Management remains focused on a "disciplined capital management strategy" to support long-term success.

@@ -1,0 +1,22 @@
+Ticker: ADP
+Source: ADP_2026-04-29.txt
+Generated: 2026-05-03 22:35 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: ADP (Q3 FY2026)**
+
+**Demand & Activity**
+Demand remains robust, characterized by moderate growth across core segments. Total revenues increased 7% year-over-year ("revenues increased 7% compared to last year's third quarter"). Activity in the U.S. payroll market is stable, with a slight increase in volume ("U.S. pays per control increased 1%"). PEO services show moderate expansion, with worksite employees increasing 2% to approximately 762,000 ("Average worksite employees paid by PEO Services increased 2%").
+
+**Labor & Wages**
+The report indicates stable labor demand with modest growth in headcount for PEO clients ("Average worksite employee count growth of about 2%"). While specific wage percentage increases were not detailed, the company notes that AI is introducing "new layers of complexity to our clients' work," suggesting a shift in the nature of labor requirements.
+
+**Pricing Power & Inflation**
+ADP demonstrates moderate pricing power and margin expansion, with adjusted EBIT margins increasing 80 basis points to 30.2% ("adjusted EBIT margin increased 80 basis points to 30.2%"). The company is benefiting from a higher interest rate environment via its client funds, with average yields increasing 10 basis points to 3.3% ("average interest yield on client funds increased 10 basis points to 3.3%").
+
+**Supply Chain & Inventory**
+Not applicable. As a service-based HCM provider, the company does not report physical supply chain lead times or inventory levels.
+
+**Capital Spending (Capex)**
+Investment is focused on technology and digital transformation. The company is aggressively investing in artificial intelligence to enhance product delivery and sales ("invest with confidence in AI capabilities across our products, service delivery, and sales organization"). This is reflected in continued R&D expenditure, which totaled $253.9 million for the quarter ("Research and development 253.9").
