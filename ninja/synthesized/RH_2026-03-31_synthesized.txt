@@ -1,0 +1,10 @@
+Ticker: RH
+Source: RH_2026-03-31.txt
+Generated: 2026-05-03 23:52 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Analysis Note:** The provided text is a Press Release announcing the date and time of the earnings call, but it does not contain the actual transcript of the call or the financial data. Consequently, there are no economic signals available to extract.
+
+**Summary:**
+Insufficient data provided. The source text is a scheduling announcement and contains no commentary on demand, labor, pricing, supply chain, or capital spending.

@@ -1,0 +1,22 @@
+Ticker: ROP
+Source: ROP_2026-04-23.txt
+Generated: 2026-05-03 23:53 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Roper Technologies (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is moderate to robust, characterized by "resilient demand for our businesses' mission-critical solutions" ("resilient demand for our businesses' mission-critical solutions"). Organic revenue grew by 6% ("organic revenue was +6%"), with specific growth drivers in the technology sector as the company "continued shipping AI products" ("continued shipping AI products").
+
+**2. Labor & Wages**
+The provided text contains no specific updates on current hiring, turnover, or wage trends, though the company notes general systemic risks related to "labor shortages" ("risks related to labor shortages") in its forward-looking disclosures.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail recent price hikes or specific input cost relief. However, the company identifies "inflation and potential supply chain constraints" as ongoing general risks to the "price for parts and components" ("changes in the supply of, or price for, parts and components, including as a result of inflation").
+
+**4. Supply Chain & Inventory**
+Inventory levels appear stable, with a slight increase from $141.7 million at year-end 2025 to $144.5 million in Q1 2026 (Balance Sheet). No specific commentary was provided regarding lead times.
+
+**5. Capital Spending (Capex)**
+Capital investment remains modest. Q1 capital expenditures were $14 million ("Capital expenditures (14)"), and capitalized software expenditures were $15 million ("Capitalized software expenditures (15)"). The company is prioritizing "deployable capacity" for "attractive acquisitions" ("$5 billion of deployable capacity against attractive acquisitions").

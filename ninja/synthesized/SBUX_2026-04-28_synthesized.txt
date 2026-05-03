@@ -1,0 +1,22 @@
+Ticker: SBUX
+Source: SBUX_2026-04-28.txt
+Generated: 2026-05-03 23:54 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: SBUX (Q2 FY2026)**
+
+**1. Demand & Activity**
+Demand is showing **robust** growth in North America and **modest** growth internationally. Global comparable store sales increased 6.2%, driven by a 3.8% increase in transactions ("primarily driven by a 3.8% increase in comparable transactions"). U.S. demand is particularly strong with a 4.3% increase in transactions ("U.S. comparable store sales increased 7.1%"). Demand in China remains **soft**, with a slight increase in transactions offset by a decline in average ticket ("China comparable store sales increased 0.5%... partially offset by a 1.6% decline in average ticket").
+
+**2. Labor & Wages**
+Labor costs are increasing as the company makes **moderate** investments in personnel to support its strategic turnaround ("partially offset by labor investments largely in support of Back to Starbucks"). The company is also implementing new compensation structures to remain competitive ("announced a new incentive rewards program designed to create more opportunities for hourly coffeehouse partners").
+
+**3. Pricing Power & Inflation**
+The company maintains **modest** pricing power in North America, evidenced by a 2.6% increase in average ticket. However, it is facing **persistent** inflationary pressures on the input side, specifically regarding commodities and trade policy ("inflation led by tariffs and elevated coffee pricing"). International margins were similarly pressured by "elevated coffee pricing."
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment is focused on **moderate** physical expansion and organizational restructuring. The company plans to open "approximately 600 to 650 net new coffeehouses globally" and is expanding its corporate footprint with a "plan to open an additional office in Nashville, Tennessee" to relocate certain support functions.

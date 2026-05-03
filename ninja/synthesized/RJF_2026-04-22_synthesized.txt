@@ -1,0 +1,22 @@
+Ticker: RJF
+Source: RJF_2026-04-22.txt
+Generated: 2026-05-03 23:52 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Raymond James Financial (RJF)**
+
+**1. Demand & Activity: Robust**
+Demand for financial services is growing across multiple segments. Asset management and administrative fees saw moderate growth, increasing 17% year-over-year ("asset management and related administrative fees which increased 17% to over $2.0 billion"). Investment banking activity is expanding, specifically in debt and equity underwriting ("Quarterly investment banking revenues of $272 million, up 31% over the prior year"). Additionally, credit demand is strong, with securities-based loans rising 31% over March 2025 ("driven by continued growth in securities-based and residential mortgage loans").
+
+**2. Labor & Wages: Robust**
+The firm reports strong demand for talent acquisition, specifically regarding the expansion of its advisor network ("financial advisor recruiting activity across all our affiliation options remains robust"). There are no mentions of headcount reductions or wage pressures.
+
+**3. Pricing Power & Inflation: Stable**
+The company is successfully leveraging market appreciation and inflows to drive revenue growth ("mainly due to market appreciation and net inflows into PCG fee-based accounts"). In the banking sector, the firm is benefiting from a favorable interest rate environment, noting "lower funding costs driven by the decline in short-term interest rates."
+
+**4. Supply Chain & Inventory: N/A**
+Not applicable for this service-based financial institution.
+
+**5. Capital Spending (Capex): Moderate**
+Investment is focused on digital transformation and operational efficiency. The firm is prioritizing the integration of artificial intelligence to streamline workflows ("increasing AI integration, to improve efficiency"). Management also noted that some pre-tax income declines were due to "certain costs associated with our continued investments in growth."
