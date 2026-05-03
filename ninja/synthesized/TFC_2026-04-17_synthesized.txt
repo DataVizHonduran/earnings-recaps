@@ -1,0 +1,22 @@
+Ticker: TFC
+Source: TFC_2026-04-17.txt
+Generated: 2026-05-03 23:59 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Truist Financial Corp (TFC)**
+
+**1. Demand & Activity**
+Loan demand is mixed but showing modest growth overall. There is robust activity in the commercial sector, specifically in Commercial and Industrial (C&I) and Commercial Real Estate (CRE) loans. Conversely, consumer demand is softening across all major product lines, including residential mortgages and auto loans. ("continued loan growth in the commercial portfolio, partially offset by a decrease in the consumer portfolio").
+
+**2. Labor & Wages**
+Labor costs are showing moderate upward pressure year-over-year, though they have declined slightly on a sequential basis. The year-over-year increase is attributed to higher compensation for new hires. ("Personnel expense increased primarily due to increased salaries, incentives, and employee benefits related to hiring").
+
+**3. Pricing Power & Inflation**
+The company is experiencing a decline in asset yields, suggesting a softening of pricing power or a shift in portfolio mix. However, there is modest relief in funding costs, as the cost of deposits and short-term borrowings has decreased. ("The yield on the average total loan portfolio was 5.71%, down 16 basis points"; "average cost of total deposits was 1.55%, down nine basis points").
+
+**4. Supply Chain & Inventory**
+Not applicable for this financial services entity.
+
+**5. Capital Spending (Capex)**
+The company is maintaining a steady investment in digital infrastructure to drive operational efficiency. ("continued to invest in scalable technology to better serve our clients and operate more efficiently").

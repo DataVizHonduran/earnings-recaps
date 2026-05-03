@@ -1,0 +1,17 @@
+Ticker: TEL
+Source: TEL_2026-04-22.txt
+Generated: 2026-05-03 23:59 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: TE Connectivity (TEL)**
+
+**Demand & Activity:** Robust. Demand is growing strongly, characterized by "record orders of $5.3 billion, an increase of 25% year over year" with "double-digit order growth in both segments." Growth is being driven by structural trends in "AI, next generation transportation and electric grid modernization" ("strategic positioning in key trends"). Outlook remains positive with expected "double digit sales growth" for the third quarter.
+
+**Labor & Wages:** Not addressed. The transcript provides no specific commentary on hiring, turnover, or wage pressures.
+
+**Pricing Power & Inflation:** Stable to Positive. While specific pricing actions are not detailed, the company reports "strong margin performance" and an expansion of adjusted operating margin by 130 basis points, which management attributes to "resilience we’ve built to mitigate the dynamic environment" ("resilience we’ve built to mitigate the dynamic environment we continue to operate in around the world").
+
+**Supply Chain & Inventory:** Not addressed. There are no mentions of lead times or inventory levels.
+
+**Capital Spending (Capex):** Moderate. The company indicates a commitment to ongoing investment in R&D and technical capacity, stating they "continue to invest in innovative products and technologies that support our global customers and fuel our future growth" ("continue to invest in innovative products and technologies").

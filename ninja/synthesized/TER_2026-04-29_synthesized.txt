@@ -1,0 +1,22 @@
+Ticker: TER
+Source: TER_2026-04-29.txt
+Generated: 2026-05-03 23:59 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Teradyne, Inc. (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by record-breaking revenue growth. This activity is primarily driven by strong AI-related requirements across memory and compute segments ("Record results driven by AI-related demand strength across compute segments and memory").
+
+**2. Labor & Wages**
+No specific mentions of hiring, turnover, or wage pressures were provided in the text.
+
+**3. Pricing Power & Inflation**
+The provided text does not contain data regarding pricing adjustments or input cost inflation.
+
+**4. Supply Chain & Inventory**
+No specific data regarding lead times or inventory levels was provided in the text.
+
+**5. Capital Spending (Capex)**
+No specific plans for future capacity or facility investments were detailed in the provided text.
