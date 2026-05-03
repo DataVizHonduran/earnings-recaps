@@ -1,0 +1,22 @@
+Ticker: ELV
+Source: ELV_2026-04-22.txt
+Generated: 2026-05-03 23:10 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Elevance Health (ELV)**
+
+**1. Demand & Activity:**
+Demand is mixed and shifting. There is modest growth in commercial fee-based membership and CarelonRx product revenue, but activity is softening in government-sponsored and risk-based segments. Specifically, the company noted "anticipated declines in our Medicare Advantage, Medicaid, and Employer Group risk membership" as it takes "disciplined action to reposition these businesses."
+
+**2. Labor & Wages:**
+The report does not explicitly detail wage inflation or hiring difficulties, but it indicates a focus on organizational efficiency. The company recorded a $129 million charge "related to business optimization as we simplify and enhance our organizational structure."
+
+**3. Pricing Power & Inflation:**
+The company demonstrates moderate pricing power through "higher premium yields" in the Health Benefits segment. However, this is being offset by persistent inflationary pressure in healthcare delivery, specifically an "expected elevated medical cost trend in our Medicaid business," which contributed to the benefit expense ratio increasing by 40 basis points.
+
+**4. Supply Chain & Inventory:**
+Not applicable for this service-based entity. However, "Days in Claims Payable" (a proxy for payment timing/liquidity) increased to 46.6 days, an increase of "3.8 days year over year."
+
+**5. Capital Spending (Capex):**
+Investment is focused on digital and operational transformation rather than physical capacity. The company is "prioritizing targeted investments across clinical, operational, and administrative workflows" and continuing "investment in the expansion of risk-based capabilities in our Carelon Services business."

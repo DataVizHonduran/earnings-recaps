@@ -1,0 +1,22 @@
+Ticker: ECL
+Source: ECL_2026-04-28.txt
+Generated: 2026-05-03 23:09 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Ecolab Inc. (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is growing moderately across most segments, with robust acceleration in high-tech and life sciences. Organic sales growth accelerated to 4% ("Organic sales accelerated to +4%"). Specific strengths include Global High-Tech and Ecolab Digital, both growing over 20% ("reflecting strong customer demand for connected, outcome-based solutions"), and Life Sciences, which grew 11% due to bioprocessing ("more than doubled its sales during the quarter"). Demand in core sectors like Food & Beverage and Institutional (hospitality) remains strong, while Heavy Water and Paper have stabilized after previous softness ("headwind from softer sales in Heavy Water and Paper stabilized").
+
+**2. Labor & Wages**
+The report does not provide specific data on hiring, turnover, or wage levels. It notes general "improved productivity" as a driver of margin expansion ("driven by strong value pricing, accelerated volume growth and improved productivity").
+
+**3. Pricing Power & Inflation**
+The company is exercising robust pricing power to combat significant input cost inflation. Management is implementing "strong value pricing" and has introduced a "global energy surcharge to mitigate the dramatic rise in energy prices." This is a response to "sharply rising global energy costs driven by geopolitical developments," with commodity costs expected to increase in the high single digits starting in Q2 ("commodity costs are expected to increase high single digits starting in the second quarter"). Management expects "accelerating pricing to cover the dollar impact" by the second half of the year.
+
+**4. Supply Chain & Inventory**
+Supply chain conditions are generally stable, though the Life Sciences segment experienced "temporary capacity constraints within Life Sciences industrial water purification business." There is evidence of some cost relief in specific areas, as Life Sciences noted "lower supply chain costs" helping to offset other investments.
+
+**5. Capital Spending (Capex)**
+Investment is focused on capacity expansion and technology. The company is making "growth-oriented investments" in pest intelligence and "continued investments in breakthrough innovation, global capabilities, and capacity" within Life Sciences. Additionally, the company is expanding its footprint in data center cooling via the pending acquisition of CoolIT Systems ("strengthening our Global High-Tech growth engine and extending our leadership in high-performance cooling for data centers").

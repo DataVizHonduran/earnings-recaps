@@ -1,0 +1,22 @@
+Ticker: DRI
+Source: DRI_2026-03-19.txt
+Generated: 2026-05-03 23:07 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Darden Restaurants (DRI)**
+
+**Demand & Activity**
+Demand is robust, with the company reporting a moderate increase in blended same-restaurant sales of 4.2% ("blended same-restaurant sales increase of 4.2%"). Growth is varied by brand, with LongHorn Steakhouse showing strong momentum at 7.2% ("LongHorn Steakhouse 7.2%"), while Fine Dining experienced more modest growth at 2.1% ("Fine Dining 2.1%"). The company continues to outperform industry benchmarks ("continue to outperform the industry same-restaurant sales benchmark").
+
+**Labor & Wages**
+Labor conditions appear stable, characterized by historically high retention rates for both staff and management ("seeing historically high team member and manager retention"), which the company credits for consistent operational execution.
+
+**Pricing Power & Inflation**
+The company faces persistent, though quantified, inflationary pressure. Management projects total inflation of approximately 3.5% for the full fiscal year ("Total inflation of approximately 3.5%"). While specific pricing actions were not detailed in the release, the company continues to focus on "manage[ing] costs" to maintain margins.
+
+**Supply Chain & Inventory**
+The provided text contains no specific updates regarding current lead times or inventory levels.
+
+**Capital Spending (Capex)**
+Investment in capacity remains moderate and steady. The company has projected total capital spending between $750 million and $775 million for fiscal 2026 ("Total capital spending of $750 to $775 million"), which includes plans for approximately 70 new restaurant openings ("New restaurant openings of approximately 70").

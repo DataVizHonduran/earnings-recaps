@@ -1,0 +1,22 @@
+Ticker: EIX
+Source: EIX_2026-04-28.txt
+Generated: 2026-05-03 23:09 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Edison International (EIX)**
+
+**1. Demand & Activity**
+Activity appears stable, though the company notes potential risks regarding "lower than expected load growth" ("impact of lower than expected load growth"). Operational focus remains robust regarding "wildfire mitigation and rebuilding efforts" ("steady operational progress to make communities safer and more resilient").
+
+**2. Labor & Wages**
+The company identifies a persistent need to "effectively attract, manage, develop and retain a skilled workforce," including reliance on "contract workers" ("ability of Edison International and SCE to effectively attract, manage, develop and retain a skilled workforce").
+
+**3. Pricing Power & Inflation**
+Pricing is driven by regulatory mechanisms; core earnings increased primarily due to the "adoption of the 2025 GRC final decision" ("primarily due to the adoption of the 2025 GRC final decision"). However, the company cites ongoing pressure from "inflation, and rising interest rates" ("higher operating and capital costs (due to factors such as supply chain constraints, tariffs, inflation, and rising interest rates)").
+
+**4. Supply Chain & Inventory**
+Supply chain conditions are cited as a risk factor contributing to higher operating and capital costs ("due to factors such as supply chain constraints"). There is also noted concern regarding the "availability and cost of spare parts" ("availability and cost of spare parts").
+
+**5. Capital Spending (Capex)**
+Investment remains robust, focused on grid modernization and safety. Future spending is directed toward the "capital investment program," specifically "grid infrastructure to maintain system integrity and reliability, and meet electrification needs" ("ability of SCE to update its grid infrastructure... and meet electrification needs").

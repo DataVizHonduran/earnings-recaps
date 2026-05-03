@@ -1,0 +1,22 @@
+Ticker: DXCM
+Source: DXCM_2026-04-30.txt
+Generated: 2026-05-03 23:08 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Dexcom Inc. (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by strong double-digit growth. Activity is particularly vigorous in international markets, which grew 26% on a reported basis, compared to a moderate 11% increase in the U.S. ("reflecting healthy demand for Dexcom CGM"). Growth is supported by the expanded launch of the G7 15 Day CGM in the U.S. and the introduction of the Stelo platform.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, wage adjustments, or headcount changes.
+
+**3. Pricing Power & Inflation**
+The company is experiencing significant margin expansion, with Non-GAAP gross profit margins increasing from 57.5% to 63.5% year-over-year. This suggests strong pricing power or substantial operational efficiencies ("continued operational improvement"). Management has reiterated a stable outlook for Non-GAAP Gross Profit Margin at 63-64% for the full year.
+
+**4. Supply Chain & Inventory**
+Inventory levels have seen a modest increase, rising from $629.1 million at year-end 2025 to $693.6 million as of March 31, 2026. There are no mentions of lead-time disruptions or bloated stock.
+
+**5. Capital Spending (Capex)**
+Investment in capacity remains a priority. The company maintains a significant cash position of $2.42 billion to support ongoing growth ("as Dexcom continues to expand production capacity and explore new market opportunities").

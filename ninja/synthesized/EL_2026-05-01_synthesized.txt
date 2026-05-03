@@ -1,0 +1,22 @@
+Ticker: EL
+Source: EL_2026-05-01.txt
+Generated: 2026-05-03 23:10 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Estée Lauder (EL)**
+
+**1. Demand & Activity**
+Demand is showing **moderate** recovery and growth. Organic net sales increased 2% ("Organic net sales increased 2%"), with robust performance in Fragrance ("organic sales for Fragrance rose double-digits"). Geographic activity is uneven but generally positive, led by a **robust** recovery in Mainland China ("high single-digit growth in Mainland China where we outperformed prestige beauty to gain share") and growth in three of four regions. The outlook for fiscal 2027 suggests a **modest** acceleration in organic sales growth of 3% to 5%.
+
+**2. Labor & Wages**
+The company is focusing on operational efficiency and cost reduction. While specific hiring/turnover data is absent, the company noted a "more normalized level of employee incentive costs" as part of its Profit Recovery and Growth Plan (PRGP), which aimed to "reduce non-consumer-facing expenses."
+
+**3. Pricing Power & Inflation**
+The company is experiencing **persistent** inflationary pressure and regulatory costs, specifically citing "unfavorable impacts from incremental tariffs and inflation." However, EL is demonstrating **moderate** pricing power and margin resilience, as adjusted gross margins expanded 140 basis points to 76.4%, partially offsetting these cost pressures.
+
+**4. Supply Chain & Inventory**
+The transcript does not provide specific lead-time data or inventory volume metrics. However, the company reported "improved sales leverage" and a focus on "operational efficiencies," suggesting a stabilization of the supply-demand balance compared to prior periods.
+
+**5. Capital Spending (Capex)**
+Capex is **softening** as the company shifts its investment strategy. Capital expenditures decreased to $306 million from $395 million year-over-year ("Capital expenditures decreased to $306 million from $395 million in the prior-year period"). This decline reflects a strategic pivot toward "prioritizing consumer-facing investments to fuel growth while optimizing its overall investments." Technology investments remain a priority, evidenced by a "strategic partnership with Shopify Inc. to modernize its digital technology infrastructure."
