@@ -1,0 +1,22 @@
+Ticker: GEV
+Source: GEV_2026-04-22.txt
+Generated: 2026-05-03 23:17 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**GE Vernova (GEV) Economic Signal Summary**
+
+**Demand & Activity:**
+Demand is robust and accelerating for Power and Electrification solutions ("Demand is accelerating for our Power and Electrification solutions"), particularly driven by data center requirements ("booked $2.4 billion in equipment orders to support data centers"). Electrification shows strong geographic strength in North America and Asia ("strength in North America and Asia"). Conversely, Wind activity remains softening, with revenues declining due to previous order weakness ("primarily driven by equipment at Onshore Wind as a result of soft orders in the first half of 2025").
+
+**Labor & Wages:**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**Pricing Power & Inflation:**
+The company is exercising moderate to robust pricing power, contributing to significant margin expansion ("Margins expanded significantly from price, volume, and productivity"). However, some inflationary pressure persists in the Power segment, acting as a partial offset to gains ("partially offset by the impact of inflation").
+
+**Supply Chain & Inventory:**
+While specific lead times are not detailed, the company is seeing a massive build-up in its equipment backlog, indicating high future delivery obligations ("backlog grew to $163 billion"). The Electrification equipment backlog specifically saw a robust increase ("up $16.6 billion, or 75% year-over-year").
+
+**Capital Spending (Capex):**
+Capex is moderate and targeted toward capacity expansion. The company invested $0.4 billion this quarter ("including to increase production in Power and Electrification") as part of a larger commitment to spend $6 billion from 2025 through 2028. Additionally, there is a stable commitment to technology investment via a $5 billion R&D plan through 2028 ("to advance breakthrough energy transition technologies").

@@ -1,0 +1,22 @@
+Ticker: GOOG
+Source: GOOG_2026-04-29.txt
+Generated: 2026-05-03 23:19 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Alphabet Inc. (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is robust across core and emerging segments. Google Search activity is at an all-time high ("queries at an all time high"), with revenue growing 19%. Google Cloud is experiencing a meaningful acceleration in growth, increasing 63% to $20.0 billion, specifically driven by "enterprise AI Solutions and enterprise AI Infrastructure." Consumer demand for AI is also strong, with paid subscriptions reaching 350 million and Gemini Enterprise seeing "40% quarter on quarter growth in paid monthly active users." Additionally, Waymo activity is expanding, surpassing "500,000 fully autonomous rides a week."
+
+**2. Labor & Wages**
+Headcount has seen a moderate increase. The total number of employees rose from 185,719 in Q1 2025 to 194,668 in Q1 2026. There were no specific mentions of wage inflation or hiring difficulties.
+
+**3. Pricing Power & Inflation**
+The company demonstrates stable to strong pricing power, particularly in its subscription models ("strongest quarter ever for our consumer AI plans"). While specific input cost inflation was not detailed, the company's ability to expand operating margins by 2 percentage points to 36.1% suggests effective cost management or pricing offsets.
+
+**4. Supply Chain & Inventory**
+Not applicable. No specific mentions of lead times or physical inventory levels were provided in the text.
+
+**5. Capital Spending (Capex)**
+Investment in technology and capacity remains robust. The company is aggressively funding its "full stack approach" to AI, with significant spending reflected in "shared AI research and development." This is supported by a substantial increase in property and equipment, which grew from $246.6 billion to $281.0 billion. To fund general corporate purposes and these investments, the company issued $31.1 billion in senior unsecured notes.
