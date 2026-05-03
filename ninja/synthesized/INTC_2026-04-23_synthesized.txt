@@ -1,0 +1,22 @@
+Ticker: INTC
+Source: INTC_2026-04-23.txt
+Generated: 2026-05-03 23:24 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Intel Corp (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is robust, driven primarily by AI infrastructure. There is "unprecedented demand for silicon" ("unprecedented demand for silicon"), with significant growth in the Data Center and AI (DCAI) segment, which rose 22% YoY ("Data Center and AI (DCAI) 5.1 billion up 22%"). Demand for CPUs is described as "growing and essential" ("growing and essential role of the CPU in the AI era"). Client Computing demand remains stable, showing modest growth of 1% ("Client Computing Group (CCG) $7.7 billion up 1%").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price hikes; however, gross margins showed moderate improvement, increasing 2.5 percentage points GAAP YoY ("Gross margin 39.4% 36.9% up 2.5 ppts"), suggesting stable pricing or improved cost efficiencies.
+
+**4. Supply Chain & Inventory**
+Supply chain activity is expanding to meet demand. The company is focused on "maximizing our factory network to improve available supply" ("maximizing our factory network to improve available supply"). To address "rising global demand for packaging solutions," Intel expanded assembly and test capacity in Malaysia to increase "global semiconductor supply chain resilience" ("expanded assembly and test capacity in Penang, Malaysia... increasing global semiconductor supply chain resilience").
+
+**5. Capital Spending (Capex)**
+Investment remains robust, focused on capacity and technology. Intel is making "significant, long-term and inherently risky investments" in R&D and manufacturing facilities ("significant, long-term and inherently risky investments we are making in R D and manufacturing facilities"). Specific activity includes the repurchase of a minority interest in Fab 34 in Ireland to support "business momentum" ("repurchased the 49% minority equity interest in the joint investment entity related to Fab 34 in Ireland").

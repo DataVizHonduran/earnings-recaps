@@ -1,0 +1,22 @@
+Ticker: INCY
+Source: INCY_2026-04-28.txt
+Generated: 2026-05-03 23:23 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Incyte Corp (INCY)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by strong growth across the primary product portfolio. Total net sales increased 20% year-over-year ("Total net sales... were $1.10 billion, an increase of 20% compared to the first quarter of 2025"). Growth is broad-based, driven by increased demand for Jakafi across all indications, as well as growth in Opzelura, Niktimvo, Monjuvi, and Zynyz ("The increase was primarily related to demand for Jakafi... Opzelura... Niktimvo... Monjuvi... and Zynyz").
+
+**2. Labor & Wages**
+The report does not provide specific data on wage inflation or hiring difficulties; however, the company is undergoing moderate leadership restructuring with several new executive appointments in finance, R&D, and commercial operations ("announced the appointment of Suketu (Suky) Upadhyay to Chief Financial Officer... appointments of Pablo J. Cagnoni... Steven Stein... and Mohamed Issa").
+
+**3. Pricing Power & Inflation**
+While specific pricing actions are not detailed, the company is experiencing moderate upward pressure on operational costs. Cost of sales saw a significant increase of 43% to 47% compared to the prior year period ("GAAP and non-GAAP cost of sales... an increase of 43% and 47%, respectively").
+
+**4. Supply Chain & Inventory**
+No specific mentions of lead times, inventory bloat, or supply chain disruptions were provided in the text.
+
+**5. Capital Spending (Capex)**
+Investment in technology and future capacity is robust, focused heavily on R&D and pipeline expansion. The company is aggressively funding late-stage development, with 10 Phase 3 studies currently underway ("late stage pipeline that now includes 10 Phase 3 studies underway"). R&D expenses increased by 18-19% year-over-year ("GAAP and non-GAAP R&D expenses... an increase of 18% and 19%, respectively"). The company is positioning for four anticipated product launches between mid-2026 and early 2027 ("four anticipated product approvals and launches over the next 12 months").
