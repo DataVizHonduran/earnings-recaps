@@ -1,0 +1,22 @@
+Ticker: CMCSA
+Source: CMCSA_2026-04-23.txt
+Generated: 2026-05-03 23:01 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Comcast Corp (CMCSA) – Q1 2026**
+
+**1. Demand & Activity**
+Demand is mixed across product lines. Domestic residential broadband remains in a state of softening, though the rate of decline is moderating ("Domestic Residential Broadband Customer Net Losses Improving by 117,000 Year-over-Year"). Conversely, wireless demand is robust, achieving "record wireless line additions" (435,000 net adds). Business services show moderate growth, with connectivity revenue increasing 5.8% ("primarily due to an increase in revenue from enterprise solutions offerings"). Media demand was robust during the quarter, driven by "record-setting viewership" for the Olympics and Super Bowl.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+Pricing power is bifurcated. The company is experiencing softening pricing in domestic broadband ("Domestic broadband revenue decreased due to lower average rates"). However, it is seeing modest pricing strength in international markets ("increase in broadband revenue from higher average rates"). Input costs for "direct product costs" are increasing, specifically driven by "higher mobile device sales" and "higher marketing and promotion costs."
+
+**4. Supply Chain & Inventory**
+The report does not explicitly detail lead times or inventory levels, though the increase in "Domestic Wireless Equipment" revenue (up 52.9%) suggests active movement of hardware.
+
+**5. Capital Spending (Capex)**
+Overall capital spending is increasing modestly, up 4.4% to $2.4 billion. Investment is shifting toward infrastructure and technology, with Connectivity Platforms capex increasing 13.4% ("reflecting higher spending on customer premise equipment, scalable infrastructure and support capital"). Conversely, spending on physical facilities is softening as major projects conclude, with Content Experiences capex decreasing 20.1% ("reflecting the opening of Epic Universe in May 2025").

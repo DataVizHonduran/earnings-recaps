@@ -1,0 +1,22 @@
+Ticker: TMO
+Source: TMO_2026-04-23.txt
+Generated: 2026-05-03 23:59 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Thermo Fisher Scientific (TMO)**
+
+**1. Demand & Activity**
+Demand appears modest. While total revenue grew 6% to $11.01 billion, organic revenue growth was a more muted 1% ("Organic revenue growth was 1%"). The company reports "excellent performance" and continues to launch high-impact products across structural biology, analytical testing, and cell therapy manufacturing ("launching a range of high-impact, innovative new products during the quarter").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, wage inflation, or headcount adjustments.
+
+**3. Pricing Power & Inflation**
+There is no explicit commentary on price increases or specific input cost relief. However, the cost of revenues as a percentage of total revenue increased slightly from 58.4% to 59.3% ("Cost of revenues... 59.3% [vs] 58.4%"), suggesting a modest increase in the cost of goods sold relative to sales.
+
+**4. Supply Chain & Inventory**
+The transcript does not provide specific data regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment in capacity and technology remains stable. The company continues to invest in property, plant, and equipment, with quarterly spending increasing slightly to $376 million from $362 million ("Purchases of property, plant and equipment (376) (362)"). Additionally, the company is expanding its U.S. drug product manufacturing capabilities through a strategic collaboration with SHL Medical ("advancing our U.S. drug product manufacturing capabilities").

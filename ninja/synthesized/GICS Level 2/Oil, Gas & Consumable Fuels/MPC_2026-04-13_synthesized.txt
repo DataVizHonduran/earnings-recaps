@@ -1,0 +1,18 @@
+Ticker: MPC
+Source: MPC_2026-04-13.txt
+Generated: 2026-05-03 23:36 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Analysis Note:** The provided document is a **Revolving Credit Agreement** (a legal loan contract), not an earnings transcript. It contains no operational data, management commentary, or economic signals regarding demand, labor, pricing, or supply chains.
+
+Consequently, there is no "Ground Truth" economic data available in this text to populate the requested categories.
+
+**Summary of Findings:**
+*   **Demand & Activity:** Not mentioned.
+*   **Labor & Wages:** Not mentioned.
+*   **Pricing Power & Inflation:** Not mentioned.
+*   **Supply Chain & Inventory:** Not mentioned.
+*   **Capital Spending (Capex):** Not mentioned.
+
+**Document Nature:** The text is strictly a financial instrument detailing a $5 billion credit facility between Marathon Petroleum Corporation and a syndicate of lenders (including JPMorgan Chase, Wells Fargo, and others), focusing on interest rate benchmarks (SOFR), repayment terms, and legal covenants.

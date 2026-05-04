@@ -1,0 +1,22 @@
+Ticker: CLX
+Source: CLX_2026-04-30.txt
+Generated: 2026-05-03 23:00 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Clorox (CLX)**
+
+**1. Demand & Activity:**
+Demand is **softening** overall, with organic sales decreasing 1% in Q3 and a projected 9% decline for the full year. Activity is mixed by segment: Household saw modest growth driven by "shipment ahead of consumption in Cat Litter and Grilling," while Lifestyle experienced a moderate decline due to "lower consumption and retail inventory adjustments." International demand remains robust, with organic sales growing 2%. Management notes "slower-than-anticipated market share recovery" in certain areas.
+
+**2. Labor & Wages:**
+Not mentioned.
+
+**3. Pricing Power & Inflation:**
+Pricing power appears limited, with "unfavorable price mix" impacting the Health and Wellness segment. The company is facing persistent cost pressures; gross margins decreased 140 basis points in Q3, "primarily driven by higher manufacturing and logistics costs." Looking ahead, the outlook includes further headwinds "associated with higher energy costs from the Middle East conflict."
+
+**4. Supply Chain & Inventory:**
+Inventory levels are currently undergoing a significant correction. The company is managing a "transitory" inventory draw down as retailers reduce stocks previously built "in advance of its ERP transition." This reversal is expected to create a substantial headwind, reducing fiscal year 2026 sales by approximately 7.5 points.
+
+**5. Capital Spending (Capex):**
+Investment is focused on inorganic growth and digital transformation. The company recently completed the acquisition of GOJO Industries to "expand our innovation pipeline." Additionally, Clorox is maintaining "strategic investments in digital capabilities and productivity enhancements," which are expected to impact selling and administrative expenses by approximately 90 basis points.

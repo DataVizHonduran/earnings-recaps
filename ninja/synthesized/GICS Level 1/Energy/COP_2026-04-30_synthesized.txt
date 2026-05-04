@@ -1,0 +1,22 @@
+Ticker: COP
+Source: COP_2026-04-30.txt
+Generated: 2026-05-03 23:03 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: ConocoPhillips (COP)**
+
+**1. Demand & Activity:**
+Activity is stable to slightly softening. Total production decreased by 80 MBOED year-over-year ("production for the first quarter of 2026 was 2,309 MBOED, a decrease of 80 MBOED from the same period a year ago"). While organic growth in the Lower 48 remains positive, it was offset by geopolitical disruptions ("Organic growth from Lower 48 was more than offset by downtime, which includes the impact of the Middle East conflict on Qatar").
+
+**2. Labor & Wages:**
+No specific mentions of hiring, turnover, or wage trends were provided in the text.
+
+**3. Pricing Power & Inflation:**
+The company is experiencing moderate pricing pressure. Realized prices declined by 6% compared to the prior year ("total average realized price was $50.36 per BOE, 6% lower than the $53.34 per BOE realized in the first quarter of 2025"), driven specifically by "lower gas prices in Permian." However, some input cost relief was noted, as earnings declines were "partially offset by lower costs."
+
+**4. Supply Chain & Inventory:**
+No specific data on lead times or inventory levels was provided.
+
+**5. Capital Spending (Capex):**
+Capex remains robust with a focus on capacity expansion and efficiency. Full-year 2026 spending is projected at $12 to $12.5 billion ("Capital spending for 2026 is expected to be $12 to $12.5 billion"), which includes "incremental Permian activity." The company is also investing in technology to drive efficiency, having "more than doubling percentage of 3-mile plus lateral length wells drilled" and achieving 50% completion on the Willow project.

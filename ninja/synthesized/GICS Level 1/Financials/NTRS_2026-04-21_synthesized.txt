@@ -1,0 +1,22 @@
+Ticker: NTRS
+Source: NTRS_2026-04-21.txt
+Generated: 2026-05-03 23:41 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Northern Trust Corp (NTRS)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by "elevated client activity across our businesses" ("elevated client activity across our businesses"). Growth is driven by "favorable markets and net client inflows" for assets under management and "new business" across Wealth Management regions ("favorable markets and new business"). Trading activity is seeing moderate growth, with foreign exchange and security commissions increasing "primarily due to higher volumes driven by market volatility" ("higher volumes driven by market volatility").
+
+**2. Labor & Wages**
+The company is focused on "disciplined expense management" and "operational efficiency" ("Disciplined expense management and a sustained focus on operational efficiency"). While specific wage data is absent, the prior quarter included "severance-related charges" of $58.8 million, suggesting recent headcount reductions or organizational restructuring ("Noninterest Expense for Q4 2025 included $58.8 million in severance-related charges").
+
+**3. Pricing Power & Inflation**
+Pricing power appears stable, with revenue increasing 14% year-over-year ("Revenue increased 14% year-over-year"). The company is experiencing modest pressure on margins due to "higher funding costs" which caused the Net Interest Margin to decrease sequentially ("Net Interest Margin on an FTE basis decreased sequentially primarily driven by higher funding costs").
+
+**4. Supply Chain & Inventory**
+Not applicable. (Financial services provider; no physical inventory or traditional supply chain reported).
+
+**5. Capital Spending (Capex)**
+The company is prioritizing "strengthening our global franchise" ("strengthening our global franchise") and maintaining a "sustained focus on operational efficiency" ("sustained focus on operational efficiency"), though specific dollar amounts for technology or facility investments were not disclosed in this release.

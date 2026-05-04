@@ -1,0 +1,22 @@
+Ticker: GRMN
+Source: GRMN_2026-04-29.txt
+Generated: 2026-05-03 23:20 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided press release for Garmin Ltd. (GRMN), the economic signals are as follows:
+
+**1. Demand & Activity**
+Demand appears robust, characterized by record-breaking top-line growth. Consolidated revenue increased by 14% year-over-year to approximately $1.75 billion ("Record consolidated revenue of approximately $1.75 billion, a 14% increase compared to the prior year quarter").
+
+**2. Labor & Wages**
+The provided document contains no mentions of hiring, turnover, wage adjustments, or headcount changes.
+
+**3. Pricing Power & Inflation**
+The company is demonstrating strong pricing power or favorable cost management, as evidenced by expanding margins. Both gross and operating margins increased compared to the same period last year ("Gross and operating margins expanded to 59.4% and 24.6% respectively, compared to the prior year quarter").
+
+**4. Supply Chain & Inventory**
+The provided document contains no specific data regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+The provided document contains no mentions of future capital expenditures, capacity investments, or facility expansions.

@@ -1,0 +1,22 @@
+Ticker: ETR
+Source: ETR_2026-04-29.txt
+Generated: 2026-05-03 23:11 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Entergy Corp (ETR)**
+
+**1. Demand & Activity:**
+Demand is showing robust growth, specifically driven by the technology sector. The company reports a "major hyperscale agreement in Louisiana" involving a new 20-year electric service agreement with a subsidiary of Meta Platforms, Inc. ("investments proposed in connection with a new 20-year electric service agreement with Evest LLC, a subsidiary of Meta Platforms, Inc.").
+
+**2. Labor & Wages:**
+No specific mentions of hiring difficulties, turnover, or wage trends were provided in the text.
+
+**3. Pricing Power & Inflation:**
+The company is actively utilizing regulatory channels to adjust rates and recover costs. Pricing actions include an updated "TCRF rate" in Texas and a "GCRR filing to place OCAPS investment in rates." However, the company is facing moderate pressure from "higher interest expense" which acted as a drag on earnings for both the Utility and Parent Other segments.
+
+**4. Supply Chain & Inventory:**
+No data provided regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex):**
+Capital investment remains robust and is expanding. The company has "updated its four-year capital plan" and is investing in capacity and renewables, including the "600 MW Arkansas Cypress Solar with 350 MW of battery storage." The company continues to invest in a "more resilient, cleaner energy system that includes modern natural gas, nuclear and renewable energy generation."

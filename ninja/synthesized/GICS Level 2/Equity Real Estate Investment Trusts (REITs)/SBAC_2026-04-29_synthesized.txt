@@ -1,0 +1,22 @@
+Ticker: SBAC
+Source: SBAC_2026-04-29.txt
+Generated: 2026-05-03 23:54 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: SBA Communications (SBAC)**
+
+**1. Demand & Activity**
+Global carrier activity is stable, with a focus on network densification and technology upgrades ("Carrier activity remained steady globally"). Demand is bifurcated by geography: domestic activity shows slight softening in revenue, though leasing backlogs have increased ("domestic leasing backlogs increased during the quarter"). Conversely, international demand is robust, driven by significant growth in site leasing revenue ("Int l site leasing revenue... $205.8 [million] vs $155.2 [million]").
+
+**2. Labor & Wages**
+No specific mentions of hiring, turnover, or wage pressures were provided in the report.
+
+**3. Pricing Power & Inflation**
+The company maintains strong margins, with Tower Cash Flow margins remaining stable at approximately 80% ("Company-wide Tower Cash Flow margin of approximately 80%"). There are no explicit mentions of input cost inflation or pricing adjustments, though the company noted positive movement in foreign exchange rates as a contributor to their increased outlook.
+
+**4. Supply Chain & Inventory**
+Not applicable. The company does not report traditional physical inventory or lead-time constraints.
+
+**5. Capital Spending (Capex)**
+Investment in capacity is moderate and expanding. The company is actively growing its portfolio through new tower builds and acquisitions, with a specific focus on Central America ("increasing production particularly under our Central America build to suit agreement with Millicom International"). Discretionary capex for 2026 is projected between $430 million and $450 million, covering new builds, augmentations, and land acquisitions.

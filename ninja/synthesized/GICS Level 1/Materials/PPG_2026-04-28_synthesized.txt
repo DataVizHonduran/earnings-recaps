@@ -1,0 +1,15 @@
+Ticker: PPG
+Source: PPG_2026-04-28.txt
+Generated: 2026-05-03 23:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Mixed. Aerospace demand is "robust" with "double-digit percentage organic sales growth" and a $315 million backlog. Protective, marine, and packaging coatings show moderate to strong growth, with packaging volumes up "over 20 percent on a two-year stacked basis." Architectural coatings are strong in Latin America, specifically Mexico where "retail sales were especially strong." Conversely, demand is "soft" in U.S. industrial coatings and "mixed" in Europe. Automotive OEM coatings are outpacing a general industry decline, while U.S. refinish markets show "early signs of demand improvement."
+
+**Labor & Wages:** Not mentioned.
+
+**Pricing Power & Inflation:** Moderate pricing power amid rising costs. The company reports that "costs have risen for raw materials, energy, logistics and packaging," leading PPG to "proactively [announce] price adjustments globally." Management notes an "improved ability to offset inflation by increasing selling prices in step with raw material price increases" compared to previous cycles.
+
+**Supply Chain & Inventory:** Not explicitly detailed, though the company notes a strong "order backlog" in aerospace to support consistent growth.
+
+**Capital Spending (Capex):** Modest growth-related investment. The company noted that segment EBITDA was partially offset by "higher growth-related investment spending in aerospace and protective and marine coatings."

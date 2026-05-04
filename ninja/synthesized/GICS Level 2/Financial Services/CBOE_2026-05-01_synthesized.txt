@@ -1,0 +1,22 @@
+Ticker: CBOE
+Source: CBOE_2026-05-01.txt
+Generated: 2026-05-03 22:56 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Cboe Global Markets (Q1 2026)**
+
+**Demand & Activity:**
+Demand is robust across most business segments. Net revenue grew 29% overall, driven by "strong market activity" ("Our Cash and Spot Markets net revenue rose 34 percent on strong market activity"). Specific growth was noted in Derivatives, which saw "record volumes across our index options products" ("Our Derivatives business was up 32 percent"). Geographic activity was strong in Europe, where European Equities average daily notional value rose 25% ("up 25 percent compared to the first quarter of 2025").
+
+**Labor & Wages:**
+The company is undergoing a significant workforce reduction as part of a strategic realignment, with expectations to "reduce our workforce by approximately 20 percent" ("expected to reduce our workforce by approximately 20 percent"). Despite this, there has been modest upward pressure on wages for remaining staff, with operating expense increases attributed to "an increase in salaries primarily due to merit increases" ("increase in salaries primarily due to merit increases").
+
+**Pricing Power & Inflation:**
+Cboe demonstrates robust pricing power. The company saw a "21 percent increase in multi-listed options revenue per contract (RPC)" ("21 percent increase in multi-listed options revenue per contract (RPC) versus the first quarter of 2025"). Additionally, market data fees rose 31% and access/capacity fees rose 21% year-over-year.
+
+**Supply Chain & Inventory:**
+Not applicable. (No mentions of physical supply chains or inventory levels).
+
+**Capital Spending (Capex):**
+The company is shifting its investment focus toward technology and emerging markets. Management plans to "invest more resources" into "financial and economic event markets, tokenization initiatives," and the expansion of clearing services in the U.S. and Europe ("position us to invest more resources, including adding talent in emerging areas such as financial and economic event markets, tokenization initiatives, scaling and expanding our clearing services").

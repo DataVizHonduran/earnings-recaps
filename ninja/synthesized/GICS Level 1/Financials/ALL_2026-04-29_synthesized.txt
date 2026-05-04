@@ -1,0 +1,22 @@
+Ticker: ALL
+Source: ALL_2026-04-29.txt
+Generated: 2026-05-03 22:37 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Allstate Corp (Q1 2026)**
+
+**Demand & Activity:**
+Demand is growing moderately, characterized by a "record amount of new business" and a 2.5% increase in total policies in force ("Policies in force reached 212 million"). Growth is robust in auto and homeowners insurance, with auto new business increasing by 9.4% ("9.4% increase in new business"). Protection Plans also saw strong domestic and international expansion ("Revenue of $613 million increased... 13.5%").
+
+**Labor & Wages:**
+Not addressed in the provided text.
+
+**Pricing Power & Inflation:**
+The company exhibits moderate pricing power, particularly in homeowners insurance, where average gross written premiums rose 6.8% due to "continued rate increases and higher home replacement costs." However, there is a strategic shift toward "more affordable prices" in the auto segment to capture market share, resulting in "lower average premiums on new insurance policies" to improve affordability.
+
+**Supply Chain & Inventory:**
+Not applicable to this service-based business model.
+
+**Capital Spending (Capex):**
+While specific facility spend is not detailed, the company is investing in "Transformative Growth" through "sophisticated analytics," "new products," and "expanded distribution" to drive performance. Investment portfolio activity is active, with a strategic "lengthening of fixed income duration to 5.7 years."

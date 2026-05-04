@@ -1,0 +1,22 @@
+Ticker: IR
+Source: IR_2026-04-28.txt
+Generated: 2026-05-03 23:25 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Ingersoll Rand (IR)**
+
+**1. Demand & Activity**
+Demand is mixed and varies by segment. The Precision and Science Technologies (PST) segment shows modest growth ("continued momentum in organic order and revenue growth"). Conversely, the Industrial Technologies and Services (ITS) segment is softening, with organic orders and revenues declining ("down 3% organic" and "down 2% organic," respectively). Geographic variance is noted in the Middle East, where orders were lower but are expected to recover ("expects these Middle East orders to be recovered throughout the balance of the year"). Overall organic growth for the year is projected to be stable to modest ("flat to 2%").
+
+**2. Labor & Wages**
+The provided text contains no specific data on current wage increases, headcount reductions, or hiring difficulty, though it lists the "inability to retain and hire key personnel" as a general risk factor.
+
+**3. Pricing Power & Inflation**
+The company demonstrates stable pricing power regarding trade policy, specifically utilizing a pass-through strategy for tariffs ("tariff pricing which offset tariff costs one-for-one"). There are no specific mentions of broader commodity or freight inflation relief.
+
+**4. Supply Chain & Inventory**
+The report does not provide specific commentary on lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capex remains stable and disciplined. The company invested $36 million in the first quarter and maintains a consistent long-term investment strategy ("CAPEX 2% of sales"). Future growth is being driven by a "robust M&A pipeline," including the recent acquisition of Scinomix, Inc. and the pending acquisition of Fox s.r.l.

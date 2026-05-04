@@ -1,0 +1,22 @@
+Ticker: XEL
+Source: XEL_2026-04-30.txt
+Generated: 2026-05-04 00:11 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Xcel Energy (XEL) Q1 2026**
+
+**1. Demand & Activity**
+Electric demand is showing moderate growth, specifically driven by industrial expansion. The company noted "electric sales growth" ("ongoing earnings reflect... electric sales growth") and highlighted a robust new partnership with Google for data center development in the Upper Midwest, which is expected to drive "ongoing community development and investment" ("Our data center agreement in the Upper Midwest with Google... sets a high bar"). Conversely, natural gas revenues saw a slight decline, falling from $1,055 million to $1,030 million year-over-year.
+
+**2. Labor & Wages**
+The company reports persistent challenges in the labor market. Management explicitly identifies "challenging labor market conditions" and notes ongoing risks regarding their "ability to attract and retain a qualified workforce" ("challenging labor market conditions and our ability to attract and retain a qualified workforce").
+
+**3. Pricing Power & Inflation**
+Pricing is largely tied to regulatory recovery. The company is seeing moderate success in recovering costs, citing "increased recovery of electric infrastructure investments" ("ongoing earnings reflect increased recovery of electric infrastructure investments"). However, they face persistent pressure from "higher financing costs" ("partially offset by higher financing costs") and general "inflation rates" listed as a primary risk factor.
+
+**4. Supply Chain & Inventory**
+Supply chain conditions remain a noted risk to operational timelines. The company continues to monitor "supply chain constraints and their impact on capital expenditures" ("supply chain constraints and their impact on capital expenditures"). No specific data on inventory levels was provided.
+
+**5. Capital Spending (Capex)**
+Capex remains robust and focused on modernization and capacity expansion. The company is aggressively investing to "strengthen and modernize the grid, expand our energy sources, and deploy innovative technologies" ("delivering on our plans to strengthen and modernize the grid"). Future spending is tied to "estimated base capital expenditures" and the growth of "large load customers" such as data centers.

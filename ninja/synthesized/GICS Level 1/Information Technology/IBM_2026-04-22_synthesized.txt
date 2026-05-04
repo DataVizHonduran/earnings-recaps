@@ -1,0 +1,22 @@
+Ticker: IBM
+Source: IBM_2026-04-22.txt
+Generated: 2026-05-03 23:23 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: IBM (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by "broad-based revenue growth across our segments" (Revenue of $15.9 billion, up 9 percent). Growth is particularly strong in Infrastructure, which saw a moderate to robust increase ("Infrastructure revenue up 15 percent"), driven by significant demand for IBM Z ("up 51 percent") and Hybrid Infrastructure ("up 28 percent"). Software demand remains robust ("Software revenue up 11 percent"), with AI acting as a persistent "tailwind for our global business." Consulting demand is stable to modest ("Consulting revenue up 4 percent").
+
+**2. Labor & Wages**
+The report does not provide specific data on wage increases or headcount changes. However, the company identifies the "ability to attract and retain key employees and its reliance on critical skills" as a continuing risk factor.
+
+**3. Pricing Power & Inflation**
+The company is experiencing moderate margin expansion, with Gross Profit Margin increasing by 100 basis points ("GAAP 56.2 percent, up 100 basis points"). This growth is attributed to a favorable "portfolio mix and productivity initiatives," suggesting effective pricing or cost management. No specific mentions of input cost relief or inflationary pressures were noted.
+
+**4. Supply Chain & Inventory**
+Inventory levels have increased modestly, rising from $1.22 billion at year-end 2025 to $1.476 billion as of March 31, 2026. There are no mentions of lead-time volatility or supply chain constraints.
+
+**5. Capital Spending (Capex)**
+IBM is actively investing in technology and growth through acquisitions, specifically noting that it "invested in the acquisition of Confluent." The company maintains "financial flexibility needed to both invest in our business and return value to shareholders." R&D spending has increased moderately, rising to $2.17 billion from $1.95 billion year-over-year.

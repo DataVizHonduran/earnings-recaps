@@ -1,0 +1,22 @@
+Ticker: VLO
+Source: VLO_2026-04-30.txt
+Generated: 2026-05-04 00:06 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Valero Energy Corp (Q1 2026)**
+
+**1. Demand & Activity**
+Activity appears stable to robust across core segments. Refining throughput averaged 2.9 million barrels per day ("Refining throughput volumes averaged 2.9 million barrels per day"), while Renewable Diesel and Ethanol production remained steady at 3.0 million and 4.6 million gallons per day, respectively ("Segment sales volumes averaged 3.0 million gallons per day"; "Ethanol production volumes averaged 4.6 million gallons per day").
+
+**2. Labor & Wages**
+The report contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is experiencing a favorable margin environment despite volatility in commodity markets ("well-positioned to benefit from the current margin environment"). However, there is evidence of modest inflationary pressure on overhead, as general and administrative expenses rose from $261 million to $285 million year-over-year ("General and administrative expenses were $285 million in the first quarter of 2026, compared to $261 million in the first quarter of 2025").
+
+**4. Supply Chain & Inventory**
+The report does not explicitly detail lead times or inventory levels, though it notes "considerable disruption in commodity markets" ("In a period marked with considerable disruption in commodity markets, our operations... executed well").
+
+**5. Capital Spending (Capex)**
+Capital investment remains moderate and focused on maintenance and strategic capacity enhancement. Total Q1 investments were $448 million, with the vast majority dedicated to sustaining existing operations ("$404 million was for sustaining the business, including costs for turnarounds, catalysts and regulatory compliance"). Additionally, the company is executing a $230 million optimization project at the St. Charles Refinery to increase the production of high-value products, expected to be operational in Q3 2026 ("This $230 million project is expected to be completed and begin operations in the third quarter of 2026").

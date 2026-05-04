@@ -1,0 +1,22 @@
+Ticker: OTIS
+Source: OTIS_2026-04-22.txt
+Generated: 2026-05-03 23:44 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Otis Worldwide Corp (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is mixed but generally stable. Service demand is robust, particularly in repair ("Repair net sales up 16%"), and modernization orders are growing strongly ("Modernization orders were up 11%"). However, New Equipment demand is softening significantly in Asia, specifically China ("greater than 20% decline in China"), which offset modest growth in the Americas and EMEA. Overall underlying demand is characterized as "solid" ("underlying demand remains solid as reflected in our order activity").
+
+**2. Labor & Wages**
+The company is experiencing moderate upward pressure on labor costs, which is currently offsetting gains from higher volumes and pricing in the Service segment ("favorable pricing being more than offset by higher labor and material cost").
+
+**3. Pricing Power & Inflation**
+Otis is actively utilizing pricing power to combat cost headwinds ("taking decisive actions focused on... pricing"). While the Service segment saw "favorable pricing," the New Equipment segment faced "unfavorable price" impacts. Persistent inflationary pressures remain evident via "cost headwinds" and "material cost" increases.
+
+**4. Supply Chain & Inventory**
+Supply chain stability is being disrupted by geopolitical volatility, leading to moderate shipment delays ("shipment delays in New Equipment and modernization related to the geopolitical situation in the Middle East"). Backlogs are expanding significantly, particularly in modernization ("backlog up 32%"), suggesting a disconnect between strong order intake and delivery capacity.
+
+**5. Capital Spending (Capex)**
+Investment is focused on digital transformation and capacity to support growth. The company is making strategic investments in AI-enabled service capabilities ("majority investment in WeMaintain, a digitally native and AI enabled elevator service provider") and accelerating investments to support repair and modernization momentum ("continued Service investments... accelerated this year").

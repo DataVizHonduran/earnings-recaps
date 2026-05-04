@@ -1,0 +1,22 @@
+Ticker: SYY
+Source: SYY_2026-04-28.txt
+Generated: 2026-05-03 23:58 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Sysco Corp (SYY)**
+
+**1. Demand & Activity**
+Demand is showing moderate growth, characterized by a notable acceleration in the U.S. local market. U.S. Foodservice volume increased 2.3%, with local case volume growing 3.3%, marking the "highest quarterly rate in over three years." International activity remains robust, with "robust local volume gains" and a 12.4% increase in sales (5.2% on a constant currency basis).
+
+**2. Labor & Wages**
+The company is experiencing moderate upward pressure on operating expenses due to workforce expansion. Management cited "higher incentive compensation" and "planned investments in sales headcount" as primary drivers for the 10.1% increase in operating expenses.
+
+**3. Pricing Power & Inflation**
+Sysco is seeing modest product cost inflation, which measured 2.8% at the enterprise level, specifically within "dairy, meat, and seafood categories." However, the company maintains stable pricing power and efficiency, reporting "gross margin expansion" and "effective management of product cost inflation," resulting in a 31 basis point increase in overall gross margin.
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific commentary regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment in capacity is ongoing and moderate. The company reported $330 million in capital expenditures (net of proceeds) for the first 39 weeks of fiscal 2026, noting that operating expenses were partially driven by "capacity investments." Additionally, the company is pursuing a significant strategic expansion via the "pending Jetro Restaurant Depot combination" to deepen its reach with independent restaurants.

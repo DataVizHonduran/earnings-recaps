@@ -1,0 +1,22 @@
+Ticker: EFX
+Source: EFX_2026-04-21.txt
+Generated: 2026-05-03 23:09 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: EFX**
+
+**1. Demand & Activity**
+Demand was robust in Q1 but is now softening. U.S. Mortgage activity saw a strong surge early in the quarter ("very strong U.S. Mortgage revenue growth of 38% principally in January and February") but declined subsequently due to rising interest rates linked to geopolitical instability ("reduction in U.S. mortgage activity from higher rates since the Iran conflict 1 began"). Demand in Workforce Solutions remains moderate to strong, particularly within government sectors ("Verification Services revenue up 14% led by strong mid double digit Government growth"). International demand is stable, with modest growth in Canada ("high single digit revenue growth in Canada").
+
+**2. Labor & Wages**
+Not addressed. The transcript provides no specific commentary on hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company does not explicitly mention price hikes, but notes that macroeconomic volatility and inflation are creating headwinds for the broader outlook ("uncertainty in the global macroeconomic environment and direction of U.S. inflation and interest rates").
+
+**4. Supply Chain & Inventory**
+Not applicable. As a data and analytics provider, the company reports no physical supply chain or inventory constraints.
+
+**5. Capital Spending (Capex)**
+Investment is focused heavily on digital transformation and AI infrastructure. The company is leveraging a significant historical investment to drive new product development ("leveraging our nearly $3 billion Cloud technology investment and patented EFX.AI products"). Future spending is directed toward expanding "Agentic AI capabilities" to improve scoring and modeling.

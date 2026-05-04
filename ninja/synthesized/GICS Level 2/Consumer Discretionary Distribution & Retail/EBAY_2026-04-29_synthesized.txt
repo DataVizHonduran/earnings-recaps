@@ -1,0 +1,22 @@
+Ticker: EBAY
+Source: EBAY_2026-04-29.txt
+Generated: 2026-05-03 23:09 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: eBay Inc. (Q1 2026)**
+
+**1. Demand & Activity:**
+Demand is robust, characterized by accelerated growth in Gross Merchandise Volume (GMV), which rose 18% as-reported ("accelerated GMV growth and delivered performance ahead of expectations"). Activity is particularly strong in "Focus Categories," C2C, and recommerce ("driving broad-based momentum"). High-end collectibles showed significant strength, with Goldin achieving an "all-time quarterly GMV record." Geographic expansion of interactive shopping is underway in France, Italy, and Canada ("growing seller reach and deepening buyer engagement").
+
+**2. Labor & Wages:**
+The provided text contains no mentions of hiring difficulty, turnover, wage increases, or headcount reductions.
+
+**3. Pricing Power & Inflation:**
+The company is seeing strong monetization through its advertising business, with first-party advertising revenue increasing 33% as-reported ("delivered $555 million of revenue... up 33%"). There are no specific mentions of input cost pressures or general price hikes for consumers.
+
+**4. Supply Chain & Inventory:**
+The report does not detail traditional supply chain lead times or inventory levels, as the company operates primarily as a marketplace. However, it notes a strategic move to expand its "unique inventory" in collectibles, fashion, and sports memorabilia through targeted activations.
+
+**5. Capital Spending (Capex):**
+Investment is focused on strategic acquisitions and technology. The company has entered a definitive agreement to acquire Depop for approximately $1.2 billion in cash ("deepen eBay’s reach with younger, fashion-forward consumers"). Additionally, the company is investing in AI-driven technology, specifically an "AI-powered card scanning feature" that has surpassed 30 million scans.

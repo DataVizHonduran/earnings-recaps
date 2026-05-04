@@ -1,0 +1,22 @@
+Ticker: LNT
+Source: LNT_2026-05-01.txt
+Generated: 2026-05-03 23:31 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Alliant Energy (LNT)**
+
+**1. Demand & Activity**
+Demand is bifurcated. Industrial demand from data centers is seeing **robust** growth, specifically in Iowa, with total contracted demand reaching approximately 3.4 GW ("continued momentum in data center growth, including the signing of a new electric service agreement in Iowa"). Conversely, retail electric and gas sales experienced a **slight** decline due to weather volatility ("Retail electric and gas sales decreased... due to impacts of temperatures on customer demand").
+
+**2. Labor & Wages**
+The report does not provide specific data on current wage levels or headcount; however, the company identifies "labor issues" as a potential risk factor that could impact the completion of construction projects ("ability to complete construction... within the cost targets... due to... labor issues").
+
+**3. Pricing Power & Inflation**
+The company is experiencing **moderate** upward pressure on operating costs, driven by planned maintenance and the integration of new resources ("higher... operating and maintenance expense primarily due to increased electric distribution and generation costs"). While the company relies on regulatory "authorized rates of return" for pricing, it notes ongoing risks from "inflation" and "cost increases of and access to materials, equipment and commodities" (Forward-Looking Statements).
+
+**4. Supply Chain & Inventory**
+Supply chain conditions are characterized as a persistent risk rather than a current crisis, with a focus on the availability of specialized equipment ("supply chain disruptions which may result from geopolitical issues" and "access to materials, equipment and commodities").
+
+**5. Capital Spending (Capex)**
+Capex activity remains **robust**, focused on expanding the rate base through generation, energy storage, and infrastructure to support large-load customers ("investments in generation and energy storage" and "Execution of capital expenditure plans"). These investments are driving higher revenue requirements for the utility subsidiaries.

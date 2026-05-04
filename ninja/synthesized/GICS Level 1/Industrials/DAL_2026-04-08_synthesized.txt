@@ -1,0 +1,22 @@
+Ticker: DAL
+Source: DAL_2026-04-08.txt
+Generated: 2026-05-03 23:05 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Delta Air Lines (DAL)**
+
+**1. Demand & Activity: Robust**
+Demand is characterized by broad strength across all customer segments and geographies ("broad demand strength across corporate and leisure"). Corporate travel is seeing a significant recovery, with double-digit revenue growth led by Banking, Aerospace Defense, and Tech ("Corporate sales increased double-digits year-over-year"). International demand remains strong, particularly in the Transatlantic market ("International unit revenue grew 5 percent led by Transatlantic"). Management expects this momentum to persist into the June quarter.
+
+**2. Labor & Wages: Moderate Pressure**
+While the company maintains a strong culture of employee retention through significant profit-sharing payouts ("celebrated $1.3 billion in profit sharing payouts"), there is evidence of persistent upward pressure on labor costs. Management explicitly noted a "continuation of higher crew costs" as a driver for projected non-fuel unit cost growth in the upcoming quarter.
+
+**3. Pricing Power & Inflation: Moderate/Mixed**
+Delta is demonstrating strong pricing power, particularly in premium and loyalty segments ("Premium revenue grew 14 percent"). The company is actively utilizing "fuel recapture" mechanisms to pass through sudden spikes in energy costs to customers. However, input cost inflation remains a headwind; non-fuel unit costs grew 6% year-over-year, and the company is facing a "sharp run up in March fuel prices."
+
+**4. Supply Chain & Inventory: Stable/Rationalized**
+The company is intentionally managing capacity to maintain pricing discipline, implementing "meaningful capacity reductions" and a "downward bias" on growth until fuel costs stabilize. Fleet renewal is ongoing, with a strategic shift toward a higher premium seat mix ("investment in fleet renewal drove premium seat mix higher").
+
+**5. Capital Spending (Capex): Robust**
+Investment in capacity and technology remains aggressive. The company is advancing fleet modernization with "95 new aircraft orders" (Airbus and Boeing). Additionally, Delta is investing in digital infrastructure, including a commitment to install Amazon Leo satellite technology on 500 aircraft beginning in 2028 ("faster, more personalized digital experiences"). Gross capital expenditures for the March quarter were $1.2 billion.

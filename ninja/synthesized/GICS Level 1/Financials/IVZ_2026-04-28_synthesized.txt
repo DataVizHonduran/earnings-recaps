@@ -1,0 +1,22 @@
+Ticker: IVZ
+Source: IVZ_2026-04-28.txt
+Generated: 2026-05-03 23:26 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Invesco Ltd. (IVZ)**
+
+**1. Demand & Activity**
+Demand is robust and broad-based, characterized by 11 consecutive quarters of positive organic growth ("delivered our 11th consecutive quarter of positive organic growth"). Net long-term inflows were moderate to strong at $21.8 billion, with significant geographic strength in Asia Pacific ($13.2 billion) and EMEA ($7.6 billion), while the Americas saw modest inflows ($1.0 billion). Product-line demand is diversified, with strong activity in ETFs, Index, and the China JV, though offset by outflows in QQQ and Fundamental Equities.
+
+**2. Labor & Wages**
+Headcount is softening, with a slight decline of 1.0% sequentially (7,421 vs 7,499) and a moderate decrease of 12.6% year-over-year. Employee compensation expenses saw a slight sequential increase, though this was driven by technical accounting for retirement-eligible awards and seasonal tax costs rather than broad wage inflation, partially offset by a "decrease in variable compensation costs."
+
+**3. Pricing Power & Inflation**
+The company is demonstrating moderate pricing power and revenue growth, reporting a 14% increase in net revenue year-over-year. This was driven by "new management fees for QQQ" and "higher average AUM." There is no specific mention of commodity or energy inflation; however, the company is achieving "meaningful operating leverage" through "well-managed expenses."
+
+**4. Supply Chain & Inventory**
+Not applicable. (Financial services provider; no physical inventory or traditional supply chain reported).
+
+**5. Capital Spending (Capex)**
+Investment is focused on technology and product innovation rather than physical capacity. The company is "launching several innovative products" to stay ahead of demand and reported a slight decrease in "property, office and technology costs" year-over-year. Capital deployment is currently prioritized toward "returning more to shareholders through increased common share repurchases and dividends."

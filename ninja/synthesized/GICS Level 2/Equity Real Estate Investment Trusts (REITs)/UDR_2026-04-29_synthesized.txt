@@ -1,0 +1,22 @@
+Ticker: UDR
+Source: UDR_2026-04-29.txt
+Generated: 2026-05-04 00:03 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: UDR, Inc. (1Q 2026)**
+
+**1. Demand & Activity**
+Demand is softening, characterized by a modest decline in weighted average same-store physical occupancy, which fell 0.6% year-over-year to 96.6% ("Physical Occupancy... YOY Change in Occupancy... (0.6)%"). Geographic variance is evident: the West and Northeast regions showed modest revenue growth (2.7% and 2.1% respectively), while the Southeast and Southwest experienced moderate declines in revenue (-1.8% and -1.7% respectively). Management noted "all-time Company high levels of resident retention" despite these headwinds.
+
+**2. Labor & Wages**
+No specific mentions of hiring difficulties, turnover, or wage increases were provided in the text. The company noted it was named a "Top Workplace by USA Today for the second consecutive year."
+
+**3. Pricing Power & Inflation**
+Pricing power is mixed and appears to be stabilizing or softening. Same-store revenue grew a slight 0.9% year-over-year but declined sequentially by 0.4% ("SS Growth / (Decline)... Sequential: 1Q 2026 vs. 4Q 2025 Revenue... (0.4)%"). Inflationary pressure remains persistent in operating costs, with same-store expenses increasing a moderate 4.4% year-over-year and a robust 5.7% sequentially ("SS Expense... YOY: 4.4%... Sequential: 5.7%").
+
+**4. Supply Chain & Inventory**
+Not applicable. No mentions of lead times or commodity inventories.
+
+**5. Capital Spending (Capex)**
+The company is maintaining a disciplined approach to capacity, focusing on selective acquisitions and dispositions. Recent activity includes the sale of four communities totaling 1,159 homes ("completed the sales of four apartment communities... for gross proceeds totaling $362.0 million") and the acquisition of a 232-apartment community in Portland, OR ("Acquired a 232-apartment home community located in Portland, OR"). Future investment is guided by "capital allocation heatmaps" to maximize shareholder value.

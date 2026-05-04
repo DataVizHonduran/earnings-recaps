@@ -1,0 +1,22 @@
+Ticker: BR
+Source: BR_2026-04-30.txt
+Generated: 2026-05-03 22:54 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Broadridge Financial Solutions (BR)**
+
+**Demand & Activity:**
+Demand is moderate to robust, characterized by strong growth in equity and fund positions and higher trading volumes ("powered by strong equity and fund position growth and higher trading volumes"). Recurring revenue grew 7% (constant currency), with specific strength in Regulatory (9%) and Equity revenue position growth (11%). However, new business momentum is softening, as evidenced by a decline in closed sales, which fell 19% for the quarter ("Closed sales $58 $71 (19 %)").
+
+**Labor & Wages:**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage adjustments.
+
+**Pricing Power & Inflation:**
+The company is experiencing significant input cost pressure from postage, though it is passing these costs through. Distribution revenues increased 7% primarily due to a "postage rate increase of approximately $34 million." Additionally, the company is seeing some relief in financing costs, noting a decrease in interest expense "primarily due to lower average borrowings and lower borrowing costs."
+
+**Supply Chain & Inventory:**
+Not applicable. As a financial technology and services provider, the company does not report physical inventory or traditional supply chain lead times.
+
+**Capital Spending (Capex):**
+Investment is focused on technology and digital transformation. The company is actively investing in "tokenization, driving the digitization of communications, and scaling AI." There is a noted increase in "higher technology costs" within the corporate segment, reflecting ongoing investment in these capabilities.

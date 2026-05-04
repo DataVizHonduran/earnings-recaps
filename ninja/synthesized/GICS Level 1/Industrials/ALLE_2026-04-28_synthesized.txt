@@ -1,0 +1,22 @@
+Ticker: ALLE
+Source: ALLE_2026-04-28.txt
+Generated: 2026-05-03 22:37 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Allegion plc (ALLE)**
+
+**Demand & Activity:**
+Demand is mixed and softening in specific segments. Organic revenue growth was modest at 2.6%, driven primarily by pricing rather than volume. In the Americas, non-residential demand grew at a moderate pace ("up mid-single digits organically"), while residential demand was flat as "price realization [offset] volume declines." International demand is softening, with organic revenues down 5.3%, largely due to internal operational disruptions ("volume declines related to disruptions from an ERP implementation").
+
+**Labor & Wages:**
+No specific mentions of wage inflation, hiring difficulties, or headcount reductions. The company noted a positive internal culture, citing its "third Gallup Exceptional Workplace Award."
+
+**Pricing Power & Inflation:**
+The company maintains robust pricing power, using price increases to offset volume declines across multiple segments ("organic revenue increase was driven by price realization partially offset by volume declines"). However, inflation continues to exert moderate pressure on margins, as evidenced by "headwinds from... price and productivity net of inflation and investment (PPII)."
+
+**Supply Chain & Inventory:**
+Supply chain activity was hampered in the International segment by a technical failure, though recovery is underway. The company expects to resolve "the ERP production related shortfall over the remainder of 2026," noting that this recovery is "supported by existing orders and backlog."
+
+**Capital Spending (Capex):**
+While specific dollar amounts for facilities were not disclosed, the company is actively investing in growth through acquisitions, including the "recent DCI acquisition," and is incurring costs for "restructuring and M&A."

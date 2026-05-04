@@ -1,0 +1,22 @@
+Ticker: JBHT
+Source: JBHT_2026-04-15.txt
+Generated: 2026-05-03 23:26 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: J.B. Hunt (Q1 2026)**
+
+**Demand & Activity:**
+Demand is generally robust, characterized by "elevated demand across the business." Intermodal (JBI) saw strong growth, achieving the "highest first quarter volume in our company’s history," with notable strength in the eastern network ("eastern network loads increased 7%"). Truckload (JBT) activity grew moderately, with a "19% increase in load volume." Conversely, Final Mile Services (FMS) experienced softening, with revenue declining 6% due to "lost business as well as a stabilization of demand... at lower levels than the prior year."
+
+**Labor & Wages:**
+Labor costs remain a point of pressure in specific segments. Dedicated Contract Services (DCS) reported "higher personnel-related expense," while Final Mile Services saw "lower personnel-related expense" as a driver of operating income growth. No specific mentions of hiring difficulty or turnover were noted.
+
+**Pricing Power & Inflation:**
+Pricing power is mixed across modes. ICS and JBT saw moderate increases in "revenue per load," and DCS benefited from "contracted indexed-based price escalators." However, Intermodal revenue per load (excluding fuel) was "down 2% year-over-year." Input costs are volatile; the company noted "higher purchased transportation expense" in ICS and JBT as "market capacity dynamics changed meaningfully," and reported "higher fuel expense as a percentage of gross revenue."
+
+**Supply Chain & Inventory:**
+The report does not explicitly detail customer inventory levels or lead times. However, internal operational efficiency improved, with a "more efficient network" resulting in "fewer empty container moves and lower container storage expense."
+
+**Capital Spending (Capex):**
+Capital expenditures have declined sharply, with Q1 2026 net capex approximating "$70.7 million compared to $225.0 million" in the prior year. The company continues to focus on "investments in our People, Technology, and Capacity" to drive long-term value.

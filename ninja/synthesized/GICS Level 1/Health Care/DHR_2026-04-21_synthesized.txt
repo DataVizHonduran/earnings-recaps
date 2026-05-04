@@ -1,0 +1,22 @@
+Ticker: DHR
+Source: DHR_2026-04-21.txt
+Generated: 2026-05-03 23:06 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Danaher Corp (DHR)**
+
+**1. Demand & Activity**
+Demand is on a modest recovery path, though performance is bifurcated by product line. Bioprocessing and Life Sciences showed strength and "better-than-expected performance," which helped offset softening demand in diagnostics due to a "lighter-than-typical Q1 respiratory season at Cepheid." Overall core revenue growth remains stable, with a full-year outlook of a 3% to 6% increase ("non-GAAP core revenue will increase in the 3% to 6% range year-over-year").
+
+**2. Labor & Wages**
+The report does not provide specific data on current wage trends or headcount changes, though it lists "labor matters and our ability to recruit, retain and motivate talented employees" as a general risk factor.
+
+**3. Pricing Power & Inflation**
+The company does not explicitly mention current price hikes or specific commodity relief. However, it continues to monitor "fluctuations in the cost and availability of the supplies we use (including commodities)" and the general impact of "inflation" as ongoing risk factors.
+
+**4. Supply Chain & Inventory**
+There are no specific mentions of current lead times or inventory levels (bloated or lean) in this release.
+
+**5. Capital Spending (Capex)**
+Capital deployment is focused on inorganic growth and technology expansion. The company announced a robust commitment to expand its acute care capabilities through the "intention to acquire Masimo Corporation." Management indicated that strong free cash flow provides "additional capacity for value-creating capital deployment."

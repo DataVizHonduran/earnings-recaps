@@ -1,0 +1,22 @@
+Ticker: ALGN
+Source: ALGN_2026-04-29.txt
+Generated: 2026-05-03 22:36 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Align Technology (ALGN)**
+
+**1. Demand & Activity**
+Demand for clear aligners is growing moderately, with total shipments increasing 6.7% year-over-year ("Record Clear Aligner shipments... increased 6.7% year-over-year"). Growth is robust in international markets but stable in North America ("reflecting double digit growth across our international business, with continued stability in North America"). Demand is diversifying across demographics, with modest gains in teen and adult segments ("Invisalign teen kid patients increased 4.8%... adult patients increased 7.8%"). However, management notes potential softening in consumer sentiment and patient traffic due to geopolitical instability in the Middle East ("potential for adverse impacts on patient traffic, consumer demand... resulting from the ongoing military action in the Middle East").
+
+**2. Labor & Wages**
+Not addressed in the provided text.
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate pricing power, as recent revenue growth was supported by higher average selling prices ("driven primarily by higher Clear Aligner volumes and increased ASPs"). Regarding input costs, the company is navigating a shift in trade policy; while some tariffs were ruled unlawful, new temporary tariffs have been implemented, though they are not expected to be material ("subject to new, temporary tariffs... We do not expect this change to have a material impact").
+
+**4. Supply Chain & Inventory**
+The company identifies potential risks to logistics stemming from geopolitical conflict ("potential for adverse impacts on... shipping freight resulting from the ongoing military action in the Middle East"). No specific data on inventory levels or lead times was provided.
+
+**5. Capital Spending (Capex)**
+The company is maintaining a strategy of disciplined investment in technology and capacity to scale its digital ecosystem ("strategically invest in innovation and growth opportunities, including... scaling our iTero Lumina ecosystem"). Specific fiscal 2026 capital expenditure guidance was initiated but the provided text cuts off before the final figure.

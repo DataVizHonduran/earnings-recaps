@@ -1,0 +1,22 @@
+Ticker: ACN
+Source: ACN_2026-03-19.txt
+Generated: 2026-05-03 22:35 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Accenture (ACN)**
+
+**1. Demand & Activity**
+Demand is growing modestly overall, with robust momentum in AI-driven initiatives. New bookings reached a record $22.1 billion ("record second quarter bookings of $22.1 billion"), signaling strong future activity. Growth is uneven across sectors: robust in Communications, Media & Technology and Financial Services (both +10% and +7% in local currency, respectively), but softening in Health & Public Service, which saw a slight decline ("Health Public Service... (1)%"). Geographically, demand is robust in Asia Pacific (+10% local currency) and modest in the Americas (+3% local currency).
+
+**2. Labor & Wages**
+The report does not provide specific details on wage inflation or hiring difficulties, though it notes a total workforce of "approximately 786,000 people." The company mentions "business optimization costs" in recent quarters, which often correlate with workforce adjustments, though specific headcount reductions were not detailed.
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate pricing power or efficiency gains, as evidenced by an expansion in operating margin to 13.8% ("expansion of 30 basis points"). There is no explicit mention of input cost relief or commodity pressure, as the business model is primarily service-based.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a professional services firm, ACN does not maintain physical inventories. However, "Days services outstanding" (DSOs) have improved slightly, suggesting stable collections ("DSOs, were 46 days... compared with 48 days at February 28, 2025").
+
+**5. Capital Spending (Capex)**
+Capex remains stable and lean relative to total revenue. Property and equipment additions for the quarter were $0.15 billion ("Property Equipment Additions $0.15 [billion]"), with a full-year outlook of $0.7 billion to $1.0 billion. Investment focus is directed toward "strategic acquisitions" to expand AI capabilities ("new strategic acquisitions will further strengthen our capabilities").

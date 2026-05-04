@@ -1,0 +1,22 @@
+Ticker: KIM
+Source: KIM_2026-04-30.txt
+Generated: 2026-05-03 23:27 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Kimco Realty (KIM)**
+
+**1. Demand & Activity:**
+Demand for open-air, grocery-anchored retail space remains robust. The company reported strong leasing activity, including the leasing of 4.4 million square feet ("Leased 4.4 Million Square Feet") and a significant pipeline of signed leases awaiting opening ("significant signed-not-opened pipeline set to come online over the coming quarters").
+
+**2. Labor & Wages:**
+Not addressed in the provided text.
+
+**3. Pricing Power & Inflation:**
+The company demonstrates moderate to robust pricing power. New lease spreads were 24% ("New Lease Spreads of 24%"), and blended pro-rata cash rent spreads on comparable leases reached 11.3% ("blended pro-rata cash rent spreads of 11.3% on comparable leases"). Revenue growth was further supported by increases in minimum rents and reimbursement income ("increase of $8.3 million in minimum rents and a $6.5 million increase in reimbursement income").
+
+**4. Supply Chain & Inventory:**
+Not addressed in the provided text.
+
+**5. Capital Spending (Capex):**
+Investment activity is stable and focused on mixed-use development and structured investments. The company recently completed a $106 million multifamily project ("Completed $106 million preferred equity mixed-use development at Coulter Place") and continues to deploy capital into new structured investments ("deployed $37.9 million into new structured investments").

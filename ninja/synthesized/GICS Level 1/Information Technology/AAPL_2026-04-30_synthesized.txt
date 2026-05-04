@@ -1,0 +1,22 @@
+Ticker: AAPL
+Source: AAPL_2026-04-30.txt
+Generated: 2026-05-03 22:33 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: AAPL (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by "double-digit growth across every geographic segment" ("double-digit growth across every geographic segment"). Activity is particularly strong in the iPhone category, which achieved a March quarter revenue record "fueled by such extraordinary demand for the iPhone 17 lineup" ("extraordinary demand for the iPhone 17 lineup"). Services also showed robust growth, reaching a "new all-time high" ("Services achieved yet another all-time record").
+
+**2. Labor & Wages**
+The report provides no specific commentary on wage inflation, hiring difficulties, or headcount reductions. The company maintains a workforce of "more than 150,000 employees" ("more than 150,000 employees are dedicated").
+
+**3. Pricing Power & Inflation**
+While specific price-hike announcements are absent, the company demonstrates strong pricing power through record revenues and a "new all-time high for our installed base of active devices" ("new all-time high for our installed base"). There is no mention of input cost relief or persistent inflationary pressure on commodities or freight.
+
+**4. Supply Chain & Inventory**
+Inventory levels have increased modestly, rising from $5.7 billion in September 2025 to $6.7 billion in March 2026 (Balance Sheet: "Inventories 6,747" vs "5,718"). There is no qualitative commentary regarding lead times or supply chain bottlenecks.
+
+**5. Capital Spending (Capex)**
+Investment in physical capacity appears stable to slightly softening. Payments for the acquisition of property, plant, and equipment were $4.3 billion for the first six months of 2026, compared to $6.0 billion for the same period in 2025 (Cash Flow: "Payments for acquisition of property, plant and equipment (4,344)" vs "(6,011)").

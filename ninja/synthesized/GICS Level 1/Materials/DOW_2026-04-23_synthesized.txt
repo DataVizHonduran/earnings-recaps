@@ -1,0 +1,26 @@
+Ticker: DOW
+Source: DOW_2026-04-23.txt
+Generated: 2026-05-03 23:07 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Dow Inc. (1Q26)**
+
+**1. Demand & Activity:**
+Overall demand is softening, with total volumes decreasing 2% year-over-year ("Volume decreased 2% year-over-year"). Activity is bifurcated by segment:
+*   **Industrial Intermediates & Infrastructure:** Declining, specifically in Polyurethanes and Construction Chemicals, exacerbated by geopolitical instability ("impacted by the Middle East conflict").
+*   **Packaging & Specialty Plastics:** Mixed; higher polyethylene volumes were offset by lower merchant olefins sales ("higher polyethylene volumes... offset by lower merchant olefins sales").
+*   **Performance Materials & Coatings:** Modest growth, driven by electronics and home/personal care ("Volume increased 2% year-over-year... led by growth in downstream silicones").
+*   **Specific Growth Pockets:** Robust demand noted for data center applications ("increased demand for data center applications").
+
+**2. Labor & Wages:**
+No specific mentions of hiring difficulties, turnover, or wage inflation. The company is focused on internal efficiency via a "cost reduction program" ("tailwinds from the Company’s cost reduction program").
+
+**3. Pricing Power & Inflation:**
+Pricing power has been weak, with local prices down 7% overall ("Local price was down 7% versus the year-ago period"). However, management indicates a recent shift toward recovery, noting "rapid positive momentum" from new pricing actions across all regions ("rapid positive momentum from our announced pricing actions in every business and every region"). Margin pressure is beginning to ease due to global supply constraints ("margin backdrop began to positively inflect in March following global supply constraints").
+
+**4. Supply Chain & Inventory:**
+Supply chains remain agile but are navigating geopolitical disruptions ("navigate the conflict in the Middle East"). Inventory/capacity was impacted by the idling of a cracker in EMEAI and planned maintenance in the U.S. Gulf Coast ("idling of a cracker in EMEAI in mid-2025 and planned maintenance activity in the U.S. Gulf Coast").
+
+**5. Capital Spending (Capex):**
+Investment is targeted toward high-growth capacity and modernization. Key projects include a new polyethylene unit in Freeport, Texas ("enabled by our new polyethylene unit in Freeport, Texas"), recent alkoxylation investments ("higher volumes from recent alkoxylation investments"), and a contemplated integrated ethylene cracker and derivatives facility in Alberta, Canada ("completion and success of its integrated ethylene cracker and derivatives facility in Alberta, Canada").

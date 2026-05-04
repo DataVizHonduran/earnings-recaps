@@ -1,0 +1,22 @@
+Ticker: PNR
+Source: PNR_2026-04-28.txt
+Generated: 2026-05-03 23:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Pentair plc (PNR)**
+
+**Demand & Activity**
+Demand is stable to modestly growing overall, with core sales increasing 1% ("core sales grew 1 percent in the first quarter"). Activity is bifurcated by vertical: robust growth in the Flow segment ("Flow sales were up 11 percent"), while the Pool segment remains flat ("Pool sales were up 1 percent"). Management expresses cautious optimism for the near term, noting a lack of recovery in the housing market ("assumes limited to no U.S. residential recovery") but expects continued expansion in "commercial, industrial and municipal verticals."
+
+**Labor & Wages**
+The provided text contains no specific mentions of current hiring trends, wage increases, or headcount reductions.
+
+**Pricing Power & Inflation**
+The company is experiencing moderate margin expansion, driven by productivity initiatives ("delivered strong productivity and margin expansion"). While the report does not detail specific price hikes, it notes that the company is focused on mitigating "the impact of raw material, logistics and labor costs and other inflation volatility" as a general risk factor.
+
+**Supply Chain & Inventory**
+The provided text does not contain specific updates regarding current lead times or inventory levels.
+
+**Capital Spending (Capex)**
+Pentair is maintaining a strategy of modest, targeted investment to support long-term growth ("continue to invest to drive long-term sales and earnings growth") and is focused on "breakthrough innovation" as part of its organic growth strategy.

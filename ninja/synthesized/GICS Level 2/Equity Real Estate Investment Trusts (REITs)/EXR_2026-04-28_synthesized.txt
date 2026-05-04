@@ -1,0 +1,22 @@
+Ticker: EXR
+Source: EXR_2026-04-28.txt
+Generated: 2026-05-03 23:12 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Extra Space Storage (EXR)**
+
+**1. Demand & Activity:**
+Demand is stable to slightly softening. Same-store revenue grew a modest 1.7% ("same-store revenue increased by 1.7%"), though square foot occupancy saw a slight decline to 93.0% from 93.2% ("ending same-store occupancy of 93.0%... compared to 93.2%"). The CEO noted "broad-based improvement" across the portfolio ("Our portfolio is experiencing broad-based improvement").
+
+**2. Labor & Wages:**
+Labor costs are seeing modest upward pressure. Same-store payroll and benefits expenses increased slightly by 1.5% year-over-year ("Payroll and benefits $41,685 $41,072 1.5%").
+
+**3. Pricing Power & Inflation:**
+The company maintains moderate pricing power, achieving gains from both new and existing customers ("positive new and existing customer rate gains"). However, this is being offset by persistent inflationary pressure in operating costs. Notable increases were seen in insurance, which rose robustly by 12.3% ("Insurance $8,902 $7,928 12.3%"), and repairs and maintenance, which increased by 7.9% ("Repairs and maintenance $16,714 $15,494 7.9%"). Property operating expenses also rose moderately by 6.0% ("Property operating expense $24,100 $22,731 6.0%").
+
+**4. Supply Chain & Inventory:**
+Not applicable. (No mentions of lead times or physical inventory).
+
+**5. Capital Spending (Capex):**
+Investment activity remains stable and disciplined. The company is continuing modest expansions through acquisitions and developments, with $26.9 million invested in the first quarter ("Total EXR Investment $26,878"). Future planned investments for 2026 include additional wholly-owned stores and joint venture developments totaling approximately $83 million ("Total EXR Investment... $82,978").

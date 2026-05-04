@@ -1,0 +1,22 @@
+Ticker: BK
+Source: BK_2026-04-16.txt
+Generated: 2026-05-03 22:53 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: BNY (1Q26)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by "strongest quarterly sales performance in our history" and "broad-based growth across our Securities Services and Market and Wealth Services businesses." Activity is bolstered by "higher client activity and net new business," with Assets under Custody/Administration (AUCA) increasing 12% year-over-year ("primarily reflecting net client inflows").
+
+**2. Labor & Wages**
+The company is experiencing moderate upward pressure on labor costs, specifically citing "employee merit increases" as a driver for the 5% increase in noninterest expenses. Management continues to prioritize human capital, noting ongoing investment in "critically our people and culture."
+
+**3. Pricing Power & Inflation**
+The firm demonstrates moderate pricing power and benefit from market conditions, with fee revenue increasing 11% ("primarily reflecting higher client activity... and higher market values"). While the company benefited from "reinvestment of investment securities at higher yields," it is facing "deposit margin compression," suggesting a competitive environment for funding.
+
+**4. Supply Chain & Inventory**
+Not applicable. (Financial services entity).
+
+**5. Capital Spending (Capex)**
+Investment in technology and capacity is robust. The company is actively "investing in new products, capabilities, AI," and reporting "higher investments and revenue-related expenses" within its noninterest expense growth.

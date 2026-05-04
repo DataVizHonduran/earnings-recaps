@@ -1,0 +1,22 @@
+Ticker: CNC
+Source: CNC_2026-04-28.txt
+Generated: 2026-05-03 23:02 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Centene Corp (CNC)**
+
+**1. Demand & Activity**
+Activity is mixed across business lines. Demand is robust in the Medicare Prescription Drug Plan (PDP) segment, characterized by "membership growth in the PDP business" and an 18% increase in Medicare revenues. Conversely, activity is softening in the Commercial and Medicaid segments, with the company noting "lower Marketplace and Medicaid membership" and a 6% decline in Commercial revenues.
+
+**2. Labor & Wages**
+The report does not provide specific data on hiring or wage inflation. However, the company is pursuing "strong cost management" and "overall discipline in Marketplace SG&A," which contributed to a modest decrease in the SG&A expense ratio from 7.9% to 7.6%.
+
+**3. Pricing Power & Inflation**
+The company is demonstrating moderate pricing power through regulatory and contractual channels. Revenue growth was supported by "rate increases to address medical trend in the Medicaid business" and "premium yield" improvements. Medical cost pressures appear stable or slightly improving, with the Medicaid Health Benefits Ratio (HBR) decreasing due to "tangible progress in managing medical costs and moderate flu costs."
+
+**4. Supply Chain & Inventory**
+Not applicable for this service-based entity. However, financial liquidity remains stable with "cash, investments and restricted deposits of $41.8 billion."
+
+**5. Capital Spending (Capex)**
+While specific facility Capex is not detailed, the company is investing in community-based health infrastructure, including the "groundbreaking of the Northeast Winston-Salem Choice Neighborhood Initiative" to rebuild affordable housing and "funding... to purchase equipment to support patients with disabilities."

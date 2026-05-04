@@ -1,0 +1,22 @@
+Ticker: GPC
+Source: GPC_2026-04-21.txt
+Generated: 2026-05-03 23:19 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Genuine Parts Company (GPC)**
+
+**1. Demand & Activity**
+Demand is showing modest growth across all segments. Comparable sales increased by 2.4% overall, with the most robust activity seen in the Industrial segment (3.9% comparable increase) and modest growth in North America Automotive (2.2% comparable increase). International Automotive demand remained essentially flat (0.3% comparable increase). Management describes the overall environment as "dynamic" but notes "solid sales growth" ("driven by solid sales growth and operating discipline").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail current pricing actions; however, the company identifies "persistent inflation" and "elevated fuel and freight expenses" as ongoing risk factors that could impact future results ("including persistent inflation... significant costs, such as elevated fuel and freight expenses").
+
+**4. Supply Chain & Inventory**
+There are no specific mentions of lead times or inventory volume levels in the provided text.
+
+**5. Capital Spending (Capex)**
+Investment in capacity and technology remains steady, with $98 million in capital expenditures for the first quarter ("including $98 million for capital expenditures"). Management notes that "continued investments in the business" are currently outweighing seasonal cash flow from operations ("due to continued investments in the business outweighing cash from operations"). Additionally, the company is incurring significant costs related to a "global restructuring initiative" and the planned separation of its Automotive and Industrial businesses ("costs associated with the company's global restructuring initiative and the planned separation").

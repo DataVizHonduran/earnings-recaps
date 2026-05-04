@@ -1,0 +1,17 @@
+Ticker: VRSN
+Source: VRSN_2026-04-23.txt
+Generated: 2026-05-04 00:07 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Verisign Inc. (Q1 2026)**
+
+**Demand & Activity:** Demand remains robust. The company reported steady growth in domain registrations, with the total .com and .net base increasing 3.7% year-over-year to 176.1 million ("delivered both steady growth in registrations"). New registration activity showed moderate expansion, with 11.5 million new registrations compared to 10.1 million in the prior year period ("processed 11.5 million new domain name registrations... compared with 10.1 million for the first quarter of 2025"). Renewal rates also showed a slight uptick to 75.0% ("final .com and .net renewal rate... was 75.0 percent compared to 74.0 percent").
+
+**Labor & Wages:** Not explicitly detailed in the financial release, though the company notes the general ongoing necessity to "attract, retain and motivate highly skilled employees" as a standard operational risk.
+
+**Pricing Power & Inflation:** Verisign continues to exercise moderate pricing power. The company announced a scheduled increase in the annual registry-level wholesale fee for .com domains from $10.26 to $10.97, effective November 1, 2026 ("will increase the annual registry-level wholesale fee... from $10.26 to $10.97").
+
+**Supply Chain & Inventory:** Not applicable. As a digital infrastructure provider, the company does not report physical inventory or traditional supply chain lead times.
+
+**Capital Spending (Capex):** Capital investment remains stable and modest. Purchases of property and equipment for the quarter were $7.2 million, a slight increase over the $5.8 million spent in the same period last year ("Purchases of property and equipment (7.2) (5.8)").

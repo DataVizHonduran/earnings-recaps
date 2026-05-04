@@ -1,0 +1,22 @@
+Ticker: BLDR
+Source: BLDR_2026-04-30.txt
+Generated: 2026-05-03 22:53 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Builders FirstSource (BLDR)**
+
+**1. Demand & Activity**
+Demand is softening, characterized by a "weak housing market" ("delivered strong strategic share growth in a weak housing market"). Activity levels are declining, with net sales decreasing 10.1% year-over-year, a trend primarily attributed to a "lower starts environment" ("primarily due to a lower starts environment").
+
+**2. Labor & Wages**
+No specific mentions of hiring, turnover, or wage adjustments were provided in the text.
+
+**3. Pricing Power & Inflation**
+The company is experiencing commodity deflation, which has contributed to the decline in net sales ("The decline reflects lower core organic net sales and commodity deflation"). There is no mention of active price increases to offset this deflation; rather, gross profit margins decreased by 220 basis points, driven by the "lower starts environment" ("Gross profit margin percentage decreased 220 basis points... primarily driven by a lower starts environment").
+
+**4. Supply Chain & Inventory**
+No specific data regarding lead times or inventory levels was provided.
+
+**5. Capital Spending (Capex)**
+The company is maintaining a moderate focus on investment in technology and innovation to drive operational excellence ("leveraging technology to accelerate growth and drive operational excellence") and continuing to "invest in innovation and the capabilities that matter most to our customers" ("By continuing to invest in innovation... we are reinforcing our role as a preferred provider").

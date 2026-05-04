@@ -1,0 +1,22 @@
+Ticker: EQT
+Source: EQT_2026-04-21.txt
+Generated: 2026-05-03 23:11 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: EQT Corp (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is growing, characterized by robust domestic power needs and global energy security requirements. Management specifically notes "accelerating power demand growth in the United States particularly in Appalachia" and a global market that is "increasingly prioritize[ing] dependable supply." Sales volumes were robust, exceeding guidance at 618 Bcfe ("above the high-end of guidance due to strong well performance").
+
+**2. Labor & Wages**
+Not addressed. The transcript contains no specific mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+Realized pricing showed moderate growth year-over-year, with average realized prices rising to $5.08 from $3.77. Input costs are mixed; while the company saw "operational efficiency gains" and lower-than-expected SG&A, some specific pressures persist. Lease operating expenses (LOE) increased due to "higher water handling and disposal costs and higher winter maintenance costs."
+
+**4. Supply Chain & Inventory**
+Not addressed. There are no mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capex is stable to moderate, with a planned peak in Q2 2026. Q1 spending was slightly below guidance ($608 million) due to "lower-than-expected infrastructure spending." Future investment is focused on growth and maintenance, with Q2 growth capex projected at $210–$235 million, though overall "capital levels [are] anticipated to decline in the second half of 2026."

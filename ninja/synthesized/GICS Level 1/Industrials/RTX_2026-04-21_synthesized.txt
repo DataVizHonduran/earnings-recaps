@@ -1,0 +1,17 @@
+Ticker: RTX
+Source: RTX_2026-04-21.txt
+Generated: 2026-05-03 23:53 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**RTX Economic Signal Summary**
+
+**Demand & Activity:** Demand is robust across most segments, evidenced by double-digit organic sales growth ("up 10 percent organically"). Defense demand is particularly strong, driving an increase in the full-year outlook ("strength we’re seeing in our defense business"). Specific growth is noted in land and air defense systems, including Patriot and GEM-T, and naval munitions. Commercial activity is mixed but generally positive, with moderate growth in commercial OE for narrowbody and widebody platforms, though Pratt Whitney saw a slight decline in commercial OE due to "lower engine deliveries."
+
+**Labor & Wages:** Not explicitly discussed in the provided text.
+
+**Pricing Power & Inflation:** The company is facing persistent cost pressures from trade policy, specifically noting "higher tariffs across the business" and "higher operational costs, including tariffs." These pressures were partially offset by "improved net productivity" in the Raytheon segment.
+
+**Supply Chain & Inventory:** While specific lead times were not detailed, the company is focused on "delivering our backlog," which remains substantial at $271 billion.
+
+**Capital Spending (Capex):** Investment in capacity is moderate to robust, with Q1 capital expenditures totaling $0.5 billion. Management indicated a strategic focus on expanding output and modernization, stating they are "making significant investments to increase output and accelerate the fielding of new capabilities."

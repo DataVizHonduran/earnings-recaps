@@ -1,0 +1,22 @@
+Ticker: CCI
+Source: CCI_2026-05-01.txt
+Generated: 2026-05-03 22:58 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Crown Castle Inc. (CCI)**
+
+**1. Demand & Activity: Softening**
+Overall activity is experiencing a moderate decline. The company expects a decrease in site rental revenues of approximately $200 million from 2025 to 2026 ("reconciles the components of expected decrease in site rental revenues from 2025 to 2026 of approximately $200 million"). The company has shifted its strategic focus to become a "pure-play tower company" following the divestiture of its Fiber Solutions and Small Cell businesses ("Crown Castle is now the only U.S. focused, large publicly traded pure-play tower company").
+
+**2. Labor & Wages: Not Addressed**
+The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation: Stable/Not Addressed**
+There is no specific commentary on price increases or input cost inflation. The company is focused on "disciplined execution" across its portfolio ("more disciplined execution across our high quality portfolio").
+
+**4. Supply Chain & Inventory: Not Addressed**
+The transcript does not provide data on lead times or inventory levels.
+
+**5. Capital Spending (Capex): Modest**
+Future investment in discretionary capacity remains limited and stable. The company projects discretionary capital expenditures for the full year 2026 to be between $150 million and $250 million ("Discretionary capital expenditures (c) 150 to 250").

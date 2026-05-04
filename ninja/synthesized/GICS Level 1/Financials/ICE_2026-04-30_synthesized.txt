@@ -1,0 +1,25 @@
+Ticker: ICE
+Source: ICE_2026-04-30.txt
+Generated: 2026-05-03 23:23 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Intercontinental Exchange (ICE)**
+
+**1. Demand & Activity:**
+Demand is robust, characterized by record revenues and significant growth in transaction-based activity. This is driven by customers utilizing markets to "navigate complexity and manage risk" amid "macroeconomic and geopolitical uncertainty." 
+*   **Exchanges:** Robust growth, particularly in Energy (+46% y/y) and Financials (+65% y/y).
+*   **Fixed Income & Data:** Moderate growth, with CDS Clearing increasing 19% y/y.
+*   **Mortgage Technology:** Slight growth in overall segment revenues (+6% y/y), though recurring revenues remained stable (+1% y/y).
+
+**2. Labor & Wages:**
+Labor costs show a modest increase. Compensation and benefits expenses rose from $481 million to $505 million year-over-year ("Compensation and benefits $505 [vs] $481"). There are no specific mentions of hiring difficulties or headcount reductions.
+
+**3. Pricing Power & Inflation:**
+The company demonstrates strong pricing power and the ability to scale revenues ahead of costs. Recurring revenues grew by 7% consolidated ("Recurring Revenues $1,320 [vs] $1,236"), suggesting stable pricing for data and subscription services. No specific mentions of input cost relief or inflationary pressures on commodities/freight were provided.
+
+**4. Supply Chain & Inventory:**
+Not applicable. As a financial technology and exchange operator, the company does not report physical supply chain lead times or inventory levels.
+
+**5. Capital Spending (Capex):**
+Investment remains focused on technology and strategic expansion. The company continues "investing in strategic growth initiatives" ("investing in strategic growth initiatives and maintaining leverage"). Technology and communication expenses saw a moderate increase to $238 million from $213 million ("Technology and communication 238 [vs] 213").

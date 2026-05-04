@@ -1,0 +1,22 @@
+Ticker: GOOGL
+Source: GOOGL_2026-04-29.txt
+Generated: 2026-05-03 23:19 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Alphabet Inc. (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is **robust**, characterized by double-digit growth across primary business lines. Search activity is at an all-time high ("queries at an all time high"), with revenue growing 19%. Demand for AI-driven enterprise services is seeing **meaningful acceleration**, specifically within Google Cloud, where revenues increased 63% ("led by an increase in Google Cloud Platform (GCP) across enterprise AI Solutions and enterprise AI Infrastructure"). Consumer demand for AI subscriptions is also strong, with paid subscriptions reaching 350 million ("strongest quarter ever for our consumer AI plans").
+
+**2. Labor & Wages**
+Headcount has seen **moderate** growth. The total number of employees increased from 185,719 in Q1 2025 to 194,668 in Q1 2026. There were no specific mentions of wage inflation or hiring difficulties.
+
+**3. Pricing Power & Inflation**
+The company demonstrates **robust** pricing power, particularly in the subscription model, with Gemini Enterprise seeing "40% quarter on quarter growth in paid monthly active users." There is no mention of input cost relief or persistent inflationary pressure on commodities or freight.
+
+**4. Supply Chain & Inventory**
+Not applicable. The report does not provide data on physical lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment in technology and capacity remains **robust**. The company is aggressively expanding its AI infrastructure, as evidenced by a significant increase in Property and Equipment, net, which rose from $246.6 billion to $281.0 billion. To fund general corporate purposes and these investments, the company issued $31.1 billion in senior unsecured notes ("issued senior unsecured notes for net proceeds of $31.1 billion"). Additionally, the company continues to invest heavily in shared AI research and development ("Alphabet-level activities primarily reflect expenses related to our shared AI research and development").

@@ -1,0 +1,22 @@
+Ticker: FAST
+Source: FAST_2026-04-13.txt
+Generated: 2026-05-03 23:13 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Fastenal Co (FAST)**
+
+**1. Demand & Activity**
+Demand is **robust**, with daily sales increasing 12.4% year-over-year ("Daily sales increased 12.4% year-over-year"). Growth is broad-based, though direct materials (OEM production) slightly outpaced indirect materials (MRO), reflecting "continued strength with manufacturing customers." Notable geographic/sector variances include a **moderate** recovery in non-residential construction, which grew for the fourth consecutive quarter ("non-residential construction end market experienced growth for the fourth time in fourteen consecutive quarters"). Demand is strongest among large contract customers, while non-contract (smaller) customers show more **modest** growth, reflecting broader business trends.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company demonstrates **robust** pricing power, with product pricing contributing an increase of approximately 350 basis points to net sales ("The impact of product pricing on net sales in the first quarter of 2026 was an increase of approximately 350 basis points"). There is no specific mention of input cost relief or persistent commodity pressure.
+
+**4. Supply Chain & Inventory**
+The report indicates **stable** inventory management, citing "disciplined working capital management" as a support for operating cash flow. There are no mentions of bloated inventory or extended lead times.
+
+**5. Capital Spending (Capex)**
+Investment is focused on **moderate** expansion of technology and capacity. The company is aggressively scaling its digital footprint, targeting 28,000 to 30,000 weighted FMI device signings for 2026 ("Our goal for weighted FASTBin and FASTVend device signings in 2026 remains between 28,000 and 30,000 MEUs"). Strategic focus remains on "expansion of technology, and deeper penetration through new customer site growth."

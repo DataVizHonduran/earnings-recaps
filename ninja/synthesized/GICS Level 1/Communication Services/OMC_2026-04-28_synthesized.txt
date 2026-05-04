@@ -1,0 +1,22 @@
+Ticker: OMC
+Source: OMC_2026-04-28.txt
+Generated: 2026-05-03 23:43 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Omnicom Group (OMC)**
+
+**1. Demand & Activity**
+Demand is showing modest growth. Core operations saw organic revenue growth of 3.9% ("increase in organic revenue of $206.7 million, or 3.9%"). Activity is most robust in the Integrated Media discipline, which accounts for 51.5% of core revenue ("$2.9 billion, or 51.5%, for Integrated Media"). Geographically, the U.S. remains the primary driver of activity, representing 61.4% of core operations ("$3.4 billion, or 61.4%, for the United States").
+
+**2. Labor & Wages**
+Labor costs are increasing, though primarily driven by inorganic expansion. Salary and related costs rose by $1.3 billion ("Salary and related costs increased $1.3 billion to $3.1 billion"), attributed largely to the IPG acquisition and revenue growth. The company is actively pursuing headcount-related efficiencies to improve margins ("on track to achieve substantial cost reduction synergies").
+
+**3. Pricing Power & Inflation**
+The report does not explicitly mention price hikes; however, the company is successfully leveraging "cost reduction synergies" to expand Adjusted EBITA margins from 12.4% to 14.8% ("related margin increased to 14.8% from 12.4%, primarily due to cost reduction synergies"). The company notes that global inflation and stagflation remain systemic risks to client revenue levels ("inflation or stagflation... could cause economic uncertainty and volatility").
+
+**4. Supply Chain & Inventory**
+Not applicable. As a professional services firm, OMC does not maintain physical inventory. It notes that supply chain issues affecting its *clients'* ability to distribute products represent a potential risk to demand ("labor and supply chain issues affecting the distribution of our clients products").
+
+**5. Capital Spending (Capex)**
+Investment is focused on digital transformation and AI capabilities rather than physical capacity. The company is utilizing its "AI-powered Omni platform" to manage a "fragmented and complex marketing environment" ("our AI-powered Omni platform in full operation"). Significant capital is being deployed toward inorganic growth and integration following the acquisition of IPG ("primarily due to the acquisition of IPG").

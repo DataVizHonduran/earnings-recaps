@@ -1,0 +1,22 @@
+Ticker: TXN
+Source: TXN_2026-04-22.txt
+Generated: 2026-05-04 00:02 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Texas Instruments (TXN)**
+
+**1. Demand & Activity**
+Demand is growing robustly, with revenue increasing 19% year-over-year ("Revenue increased 9% sequentially and 19% from the same quarter a year ago"). Growth is specifically driven by moderate to robust activity in the industrial and data center sectors ("growth led by industrial and data center").
+
+**2. Labor & Wages**
+The provided text contains no specific data regarding hiring, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly mention price hikes or specific input cost relief; however, the company notes a general risk regarding the "availability and cost of key materials, utilities, manufacturing equipment" in its forward-looking statements.
+
+**4. Supply Chain & Inventory**
+Inventory levels appear stable. Total inventories were $4.695 billion as of March 31, 2026, compared to $4.687 billion in the prior year ("Inventories: 4,695 [vs] 4,687").
+
+**5. Capital Spending (Capex)**
+Capital investment remains robust as the company continues to expand capacity and technology. The company invested $4.1 billion in capital expenditures over the trailing 12 months ("invested $4.1 billion in capital expenditures") and reported $676 million in Capex for the first quarter alone. Investment is further supported by government incentives ("Proceeds from CHIPS Act incentives: 555").

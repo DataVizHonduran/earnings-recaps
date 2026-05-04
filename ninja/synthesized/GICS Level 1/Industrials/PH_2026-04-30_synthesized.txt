@@ -1,0 +1,25 @@
+Ticker: PH
+Source: PH_2026-04-30.txt
+Generated: 2026-05-03 23:47 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Parker-Hannifin (PH)**
+
+**1. Demand & Activity**
+Demand is robust and growing across all reported business lines. Total order rates increased by 9% ("Order rates remain strong at 9%"), with a record backlog of $12.5 billion ("Backlog increased to a record $12.5 billion"). 
+*   **Aerospace:** Strong growth, particularly in commercial OEM (+22%) and aftermarket (+14%) ("Record sales on 22% commercial OEM growth and 14% aftermarket growth").
+*   **Diversified Industrial:** Moderate growth in North America driven by in-plant industrial, off-highway, and energy ("Organic growth of 2.8% driven by in-plant industrial, off-highway and energy").
+*   **International:** Robust activity, led by Asia with 9.6% organic growth ("Record sales led by Asia with 9.6% organic growth"), supported by defense and long-cycle electronics.
+
+**2. Labor & Wages**
+The provided text contains no specific data on current wage increases or headcount changes. However, the company lists "labor shortages" and "supply chain and labor disruptions" as general risk factors ("supply chain and labor disruptions, including as a result of tariffs and labor shortages").
+
+**3. Pricing Power & Inflation**
+The company demonstrates stable to strong pricing power, as evidenced by record adjusted segment operating margins across all divisions ("Record adjusted segment operating margin"). While the company monitors the "availability, cost increases of or other limitations on our access to raw materials" ("availability, cost increases of or other limitations on our access to raw materials, component products and or commodities"), it notes the risk specifically if "associated costs cannot be recovered in product pricing."
+
+**4. Supply Chain & Inventory**
+The report does not provide specific lead-time data or inventory volume metrics. It identifies "supply chain and labor disruptions" as a persistent risk factor ("supply chain and labor disruptions, including as a result of tariffs").
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for facility expansion are not detailed, the company is actively investing in growth through acquisitions, specifically citing the "pending acquisition of Filtration Group Corporation and the integration of Curtis Instruments, Inc." ("uncertainties surrounding timing, successful completion or integration of acquisitions... including the pending acquisition of Filtration Group Corporation").

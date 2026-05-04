@@ -1,0 +1,22 @@
+Ticker: NVR
+Source: NVR_2026-04-22.txt
+Generated: 2026-05-03 23:42 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: NVR Inc. (Q1 2026)**
+
+**1. Demand & Activity**
+Demand for new orders showed modest growth, increasing 7% year-over-year ("New orders in the first quarter of 2026 increased by 7% to 5,738 units"). However, actual settlements declined moderately by 22% ("Settlements in the first quarter of 2026 decreased by 22% to 4,015 units"), primarily due to a lower starting backlog. Activity remained stable in terms of total backlog units ("backlog of homes totaled 10,171 units, which was flat compared to March 31, 2025").
+
+**2. Labor & Wages**
+The provided report does not contain specific data on current hiring, turnover, or wage movements, though "shortages of labor" are listed as a general risk factor.
+
+**3. Pricing Power & Inflation**
+Pricing power is softening. The average sales price for new orders decreased slightly by 2% ("average sales price of new orders... was $440,100, a decrease of 2%"). Gross profit margins declined from 21.9% to 19.6%, driven by "continued pricing pressure and higher lot costs." Average settlement prices remained relatively flat ("average settlement price... was $457,000, which remained relatively flat").
+
+**4. Supply Chain & Inventory**
+Inventory levels for lots controlled have increased moderately ("Lots controlled at end of period 181,700" vs 167,600 in 2025). The company maintains a significant volume of lots and housing units under sales agreements ("Lots and housing units, covered by sales agreements with customers $1,652,220" thousand).
+
+**5. Capital Spending (Capex)**
+There are no specific announcements regarding new capacity or technology investments; however, net property, plant, and equipment decreased slightly ("Property, plant and equipment, net $100,899" thousand vs $103,770 thousand in the prior period).

@@ -1,0 +1,22 @@
+Ticker: AMT
+Source: AMT_2026-04-28.txt
+Generated: 2026-05-03 22:39 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: American Tower Corp (AMT)**
+
+**1. Demand & Activity**
+Demand is **moderate to robust**, driven by structural shifts in data usage. Management notes "rising mobile data consumption, accelerating cloud adoption and the rapid expansion of AI-driven workloads" as primary drivers. Activity varies significantly by geography: growth is **robust** in Africa APAC (12.8% property revenue growth) and Europe (10.9%), while the U.S. Canada segment is **softening** with a projected property revenue decline of 3.0%. Data center demand remains **robust** with a 12.5% growth outlook.
+
+**2. Labor & Wages**
+Not addressed. The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+Pricing power appears **stable to modest**. Total Tenant Billings Growth for Q1 2026 was 2.3%, with Organic Tenant Billings Growth at 1.7%. The company is seeing **robust** pricing growth in Africa APAC (8.5% organic) and Europe (4% organic), but is experiencing **softening** pricing in Latin America, where organic tenant billings are projected to decline by 3%.
+
+**4. Supply Chain & Inventory**
+Not addressed. The provided text contains no mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment in capacity is **increasing**. Total cash capital expenditures for Q1 2026 were $460 million, representing a **robust** 35.3% increase year-over-year. This includes $48 million for "non-discretionary capital improvements and corporate capital expenditures," with the remainder dedicated to discretionary growth projects.

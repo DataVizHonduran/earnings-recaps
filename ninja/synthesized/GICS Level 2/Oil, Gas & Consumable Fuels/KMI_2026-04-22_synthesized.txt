@@ -1,0 +1,22 @@
+Ticker: KMI
+Source: KMI_2026-04-22.txt
+Generated: 2026-05-03 23:28 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Kinder Morgan (KMI)**
+
+**Demand & Activity:**
+Demand for natural gas is **robust**, particularly within the power sector and for LNG exports ("projections for domestic natural gas demand growth, particularly in the power sector, continue to be robust"). Natural gas transport volumes rose 8% and gathering volumes increased 15% year-over-year ("Natural gas transport volumes were up 8%... Natural gas gathering volumes were up 15%"). Conversely, refined products and crude/condensate volumes showed **softening**, declining 2% and 12% respectively ("Total refined products volumes were down 2%... Crude and condensate volumes were down 12%").
+
+**Labor & Wages:**
+No specific mentions of hiring difficulties, turnover, or wage pressures were provided in the transcript.
+
+**Pricing Power & Inflation:**
+The company demonstrates **stable** to positive pricing power through long-term, fee-based contracts ("supported by long term, take or pay, fee based contracts"). There is evidence of successful price adjustments in the products segment ("recovery of retroactive rate increases following a favorable court decision") and higher rates at liquids terminals ("benefited from higher rates and ancillary fees"). Input costs for CO2 operations showed **modest** relief ("lower power costs in our CO 2 operations").
+
+**Supply Chain & Inventory:**
+No specific commentary provided regarding lead times or inventory levels.
+
+**Capital Spending (Capex):**
+Investment in capacity remains **robust**, with a project backlog of $10.1 billion, 92% of which is dedicated to natural gas ("our project backlog at the end of the first quarter of 2026 was $10.1 billion"). Future spending is focused on expansion projects, including the $505 million acquisition of Monument Pipeline ("agreed to acquire Monument Pipeline... for $505 million") and the Amarillo Expansion project ("approximately $200 million project"). The company continues to "internally fund high-quality capital projects."

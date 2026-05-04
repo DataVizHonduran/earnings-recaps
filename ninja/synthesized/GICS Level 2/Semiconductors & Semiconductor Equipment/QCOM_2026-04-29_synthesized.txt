@@ -1,0 +1,22 @@
+Ticker: QCOM
+Source: QCOM_2026-04-29.txt
+Generated: 2026-05-03 23:51 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Qualcomm (QCOM)**
+
+**1. Demand & Activity**
+Demand is mixed, characterized by robust growth in diversification segments but softening in core mobile. Automotive demand is robust ("Record Quarterly QCT Automotive Revenues"), and combined Automotive and IoT revenues grew moderately ("Grew 20% Year-Over-Year"). Conversely, handset demand is softening, with revenues declining 13% year-over-year ("Handsets $6,024 $6,929 (13%)"). Activity in China is expected to remain stable before recovering ("handset revenues from Chinese customers will reach a bottom in the third quarter and return to sequential growth").
+
+**2. Labor & Wages**
+Not addressed. The transcript contains no specific mentions of hiring, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is facing headwinds from input costs in the supply chain, specifically regarding memory. There is evidence of pricing pressure impacting downstream demand ("impact of memory supply constraints and related pricing on demand from several handset OEMs"). No mentions of general price increases or relief in freight/energy costs.
+
+**4. Supply Chain & Inventory**
+Supply chain conditions are currently constrained, specifically regarding memory components ("navigate a challenging memory environment"). These constraints are actively suppressing demand from original equipment manufacturers (OEMs) ("impact of memory supply constraints... on demand from several handset OEMs").
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for facilities are not provided, the company is investing in technology pivots toward AI and infrastructure. This includes a strategic entry into the data center market via a "leading hyperscaler custom silicon engagement" with shipments expected "later this calendar year."

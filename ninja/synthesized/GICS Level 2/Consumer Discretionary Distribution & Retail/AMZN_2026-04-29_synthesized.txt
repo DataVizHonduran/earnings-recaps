@@ -1,0 +1,22 @@
+Ticker: AMZN
+Source: AMZN_2026-04-29.txt
+Generated: 2026-05-03 22:39 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Amazon (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is **robust** across all primary segments. Retail unit growth in Stores reached 15%, the "highest since the tail end of covid lockdowns." AWS is experiencing **strong** acceleration, growing 28% ("our fastest growth in 15 quarters"). Geographic activity is **moderate to strong**, with North America sales increasing 12% and International sales increasing 19% (11% excluding FX).
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price hikes or inflationary pressures. However, the company notes a "favorable impact" from foreign exchange rates ("$2.9 billion favorable impact from year-over-year changes in foreign exchange rates"), suggesting currency tailwinds contributed to top-line growth.
+
+**4. Supply Chain & Inventory**
+Logistics efficiency is **improving**, with a significant expansion in delivery speed. The company reports "more than 1 billion items same-day or overnight in 2026" and is expanding ultra-fast delivery (Amazon Now) to "tens of millions of customers across nine countries." There are no mentions of bloated inventory or lead-time constraints.
+
+**5. Capital Spending (Capex)**
+Capex is **expanding aggressively**, primarily driven by artificial intelligence infrastructure. Purchases of property and equipment increased by $59.3 billion year-over-year ("This increase primarily reflects investments in artificial intelligence"), leading to a significant decrease in trailing twelve-month free cash flow. Future capacity commitments are **substantial**, including securing "two gigawatts (GW)" for OpenAI and "up to five gigawatts (GW)" for Anthropic, alongside the deployment of "one million+ NVIDIA GPUs" starting in 2026.

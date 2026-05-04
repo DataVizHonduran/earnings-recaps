@@ -1,0 +1,22 @@
+Ticker: MS
+Source: MS_2026-04-15.txt
+Generated: 2026-05-03 23:38 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Morgan Stanley (1Q 2026)**
+
+**Demand & Activity:**
+Demand is robust across most business lines. Institutional Securities saw "robust client engagement" ("robust client engagement and strength globally"), specifically in Investment Banking where advisory revenues grew due to "higher completed M&A transactions, particularly in the Americas" ("higher completed M&A transactions, particularly in the Americas"). Wealth Management showed strong momentum with "robust levels of client activity" ("robust levels of client activity") and significant net new assets of $118 billion ("net new assets of $118 billion"). Markets activity was further bolstered by "increased market volatility" ("driven by robust client engagement on increased market volatility").
+
+**Labor & Wages:**
+Compensation expenses increased moderately, primarily driven by "higher revenues and stock-based compensation" ("primarily driven by higher revenues and stock-based compensation expense"). There were no specific mentions of hiring difficulties or headcount reductions.
+
+**Pricing Power & Inflation:**
+The firm is experiencing positive revenue growth through higher fees and interest income. Net interest income increased due to "lending growth and higher average sweep deposits" ("cumulative impact of lending growth and higher average sweep deposits"). While not citing "pricing" in a retail sense, the firm is benefiting from volatility in "energy markets" ("increases in commodities benefitting from volatility in the energy markets").
+
+**Supply Chain & Inventory:**
+Not applicable. (The firm noted a provision for credit losses driven by "individual assessments for certain commercial real estate loans" and "increased macroeconomic uncertainty" ("driven by individual assessments for certain commercial real estate loans in addition to increased macroeconomic uncertainty")).
+
+**Capital Spending (Capex):**
+Investment in technology remains a priority, with non-compensation expenses in Investment Management increasing "primarily driven by technology spend" ("primarily driven by technology spend and distribution expenses"). The firm continues to "invest in our businesses" while maintaining an expense efficiency ratio of 65% ("demonstrating operating leverage while continuing to invest in our businesses").

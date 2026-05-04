@@ -1,0 +1,22 @@
+Ticker: INVH
+Source: INVH_2026-04-29.txt
+Generated: 2026-05-03 23:24 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: INVH (Q1 2026)**
+
+**1. Demand & Activity:**
+Demand is showing signs of a modest recovery. While the quarter saw a slight moderation in average occupancy from 97.2% to 96.3% ("expected moderation in Same Store Average Occupancy"), early indicators for the peak leasing season are positive. Management notes that occupancy is "climbing" and preliminary April data shows a return to positive new lease rent growth ("preliminary April Same Store blended rent growth is approximately 2.3%"). Additionally, there is robust demand for homeownership among renters, as the company is a net seller of homes "many to families purchasing for their own use."
+
+**2. Labor & Wages:**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation:**
+The company maintains moderate pricing power through renewals, though new lease pricing has been soft. Same Store renewal rent grew 3.7%, while new lease rents declined 3.0% ("Same Store renewal rent growth of 3.7% and Same Store new lease rent growth of (3.0)%"). Inflationary pressure remains evident in operating costs, with Same Store Core Operating Expenses increasing 5.7% year-over-year, driven largely by a 12.1% increase in controllable expenses ("attributable to a 12.1% increase in controllable expenses").
+
+**4. Supply Chain & Inventory:**
+Inventory levels for wholly owned homes are being reduced actively, with dispositions "tracking well ahead of expectations" ("totaling $206 million"). There are no mentions of lead time constraints or bloated supply chains.
+
+**5. Capital Spending (Capex):**
+The company is shifting toward vertical integration in capacity expansion. The acquisition of ResiBuilt Homes, LLC, establishes an "in-house development general contractor for new build-to-rent communities" ("acquired ResiBuilt Homes, LLC... an in-house development general contractor"). This strategic investment is intended to be "modestly accretive" to AFFO per share in 2026.

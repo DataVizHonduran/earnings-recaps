@@ -1,0 +1,22 @@
+Ticker: POOL
+Source: POOL_2026-04-23.txt
+Generated: 2026-05-03 23:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Pool Corporation (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is moderate to robust, with net sales increasing 6% ("Net sales increased 6%"). Maintenance demand is described as "resilient," while discretionary categories, including building materials, are seeing a "continued, though still gradual, recovery" ("continued, though still gradual, recovery in discretionary categories").
+
+**2. Labor & Wages**
+The company is experiencing modest upward pressure on labor costs, specifically linked to expansion. Operating expenses rose 5%, partly reflecting "increased facility costs and wages for greenfield locations" ("reflecting increased facility costs and wages for greenfield locations opened after the first quarter of last year").
+
+**3. Pricing Power & Inflation**
+The company demonstrates stable pricing power, noting that current growth "benefited from price increases enacted last year" ("Year-over-year sales growth benefited from price increases enacted last year"). However, some persistent pressure remains in the form of "inflationary cost increases" impacting operating expenses ("technology spend and inflationary cost increases").
+
+**4. Supply Chain & Inventory**
+Supply chain conditions appear stable, with the company actively utilizing "supply chain optimization initiatives" to protect margins ("Benefits from our ongoing pricing and supply chain optimization initiatives partially offset this activity"). There is evidence of strong "early buy" activity from customers, which typically indicates proactive inventory positioning for the season ("driven by increased early buy activity and seasonal mix").
+
+**5. Capital Spending (Capex)**
+Investment remains focused on capacity expansion through "greenfield investments" ("Our greenfield investments are contributing to growth"). The company is also continuing "technology spend" as part of its operational investments ("technology spend and inflationary cost increases").

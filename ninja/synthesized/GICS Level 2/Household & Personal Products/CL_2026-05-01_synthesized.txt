@@ -1,0 +1,22 @@
+Ticker: CL
+Source: CL_2026-05-01.txt
+Generated: 2026-05-03 23:00 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Colgate-Palmolive (CL)**
+
+**1. Demand & Activity**
+Demand is showing modest growth overall, though it is uneven across geographies. Organic sales grew by 2.9% ("Organic sales increased 2.9%"), with a "nice balance of volume and pricing growth." Activity is robust in Latin America and Asia Pacific, while North American demand is softening, characterized by a decline in volume ("North America... Volume -3.2%"). Management expects "slower category growth to continue in 2026" amid "volatile macroeconomic conditions."
+
+**2. Labor & Wages**
+Not explicitly detailed; however, the company is expanding its "Strategic Growth and Productivity Program (the SGPP)" to "align the Company’s operations to drive future growth," with projected annual pretax savings of "$200 million to $300 million."
+
+**3. Pricing Power & Inflation**
+The company maintains moderate pricing power, contributing to a total company pricing increase of 2.2% ("Pricing +2.2%"). However, input cost pressures persist. Management revised its full-year gross profit margin guidance from "up" to "down" ("now expects gross profit margin to be down (versus up previously)"), citing the "estimated impact of tariffs announced and finalized as of April 29, 2026."
+
+**4. Supply Chain & Inventory**
+No specific mentions of lead times or inventory levels were provided in the text.
+
+**5. Capital Spending (Capex)**
+Investment is focused on operational efficiency and strategic realignment. The company expanded its SGPP, increasing estimated cumulative pretax charges to "$350 million to $550 million" (up from $200M–$300M) to support its "2030 strategy." Additionally, the company is increasing its investment in brand equity ("advertising to be up on both a dollar basis and as a percentage of net sales").

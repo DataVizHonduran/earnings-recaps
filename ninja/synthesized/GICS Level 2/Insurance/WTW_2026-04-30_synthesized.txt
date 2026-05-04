@@ -1,0 +1,26 @@
+Ticker: WTW
+Source: WTW_2026-04-30.txt
+Generated: 2026-05-04 00:11 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: WTW (Q1 2026)**
+
+**1. Demand & Activity: Mixed/Softening**
+Overall organic revenue growth was modest at 3%, though management noted a "more challenging global market" creating "near-term headwinds" ("more challenging global market that created near-term headwinds to organic growth"). 
+*   **Growth Areas:** Robust performance in international health markets ("strong performance across international markets") and retirement work globally ("higher levels of retirement work across all regions").
+*   **Declines:** Softening demand in the Career segment as clients deferred discretionary spending due to geopolitical uncertainty in the Middle East and a "moderation in advisory-related demand in North America" ("clients deferred discretionary work amid geopolitical uncertainty... moderation in advisory-related demand in North America").
+
+**2. Labor & Wages: Stable/Disciplined**
+The report does not explicitly mention hiring difficulties or wage inflation. However, it emphasizes "strong operating discipline" and "expense discipline" ("Our ongoing focus on enhancing efficiency drove margin expansion") to offset market headwinds.
+
+**3. Pricing Power & Inflation: Stable**
+There are no direct mentions of price hikes or commodity input pressures. The company is achieving margin expansion primarily through "improved operating leverage" ("increase was primarily driven by improved operating leverage and expense discipline") rather than explicit pricing actions.
+
+**4. Supply Chain & Inventory: Not Applicable**
+As a professional services firm, there are no reports of lead times or physical inventory levels.
+
+**5. Capital Spending (Capex): Moderate/Targeted**
+Investment is focused on digital transformation and inorganic growth.
+*   **Technology:** Continued investment in "talent, AI and innovation" to drive performance ("Our investments in talent, AI and innovation to accelerate performance continue driving client value").
+*   **M&A:** Integration of the Newfront acquisition, which is expected to add approximately $250M in revenue ("Expected 2026 post-close revenue of ~$250M").

@@ -1,0 +1,22 @@
+Ticker: PM
+Source: PM_2026-04-22.txt
+Generated: 2026-05-03 23:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Philip Morris International (PM)**
+
+**1. Demand & Activity**
+Demand is bifurcated. Smoke-free products (SFP) show **robust** growth, particularly IQOS, which is the "primary growth engine" with "double-digit growth in both shipment volume and adjusted IMS" ("IQOS remains the primary growth engine"). Growth is broad-based, with notable strength in Japan, Europe, and new markets like Taiwan. Conversely, combustibles demand is **softening**, with volumes declining 5.1% ("volumes declined (by 5.1%)"). In the U.S., ZYN offtake volumes grew by 10%, though shipments declined due to "normalization of channel inventories" ("anticipated normalization of channel inventories").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company demonstrates **robust** pricing power. Gross margins expanded through "strong pricing" ("expanding gross margin through strong pricing"), with combustibles specifically seeing "strong pricing of 8.5%" ("driven by strong pricing of 8.5%"). Regarding inflation, the company notes "increased energy prices and some disruption in energy supply" due to Middle East conflict ("observed increased energy prices"), and has factored "some increases in transport, energy and other input costs" into its full-year forecast ("factored in some increases in transport, energy and other input costs").
+
+**4. Supply Chain & Inventory**
+Inventory levels in the U.S. are undergoing a **moderate** correction. The decline in U.S. shipment volumes is attributed to "distributor and trade inventory movements" and a "normalization of channel inventories" ("anticipated normalization of channel inventories"). In Japan, there was temporary "consumer pantry-loading" ahead of an excise-driven price increase ("impact of consumer pantry-loading in Japan").
+
+**5. Capital Spending (Capex)**
+Capex plans remain **stable** and focused on technology transition. The company forecasts capital expenditures of "$1.4 to $1.6 billion," noting these investments are "predominantly supporting the smoke-free" portfolio ("Capital expenditures of $1.4 to $1.6 billion, predominantly supporting the smoke-fre").

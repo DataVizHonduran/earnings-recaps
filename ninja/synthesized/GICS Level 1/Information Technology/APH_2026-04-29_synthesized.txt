@@ -1,0 +1,22 @@
+Ticker: APH
+Source: APH_2026-04-29.txt
+Generated: 2026-05-03 22:41 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Amphenol Corp (APH)**
+
+**1. Demand & Activity**
+Demand is robust and growing across most sectors. The company reported record sales and orders, with a book-to-bill ratio of 1.24:1, indicating strong forward momentum. Growth is particularly exceptional in the IT datacom market ("exceptional organic growth in the IT datacom market") and is described as accelerating due to electronics innovation ("revolution in electronics continues to accelerate").
+
+**2. Labor & Wages**
+Not addressed. The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is maintaining strong profitability with an Adjusted Operating Margin of 27.3% ("realized strong profitability during the quarter"). While specific pricing actions were not detailed, the company noted general risks regarding the "increasing cost of certain of the Company’s raw materials and components."
+
+**4. Supply Chain & Inventory**
+Current state is not explicitly detailed; however, the company identifies the "inability to obtain certain raw materials and components" as a continuing risk factor.
+
+**5. Capital Spending (Capex)**
+Investment is focused heavily on inorganic growth and capacity expansion through acquisitions. The company recently completed the acquisition of CommScope’s CCS business ("Completed the acquisition of CommScope s CCS business") and continues to utilize its "financial strength" to expand its high-technology product range through a "successful acquisition program."

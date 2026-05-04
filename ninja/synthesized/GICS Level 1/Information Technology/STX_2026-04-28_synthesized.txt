@@ -1,0 +1,22 @@
+Ticker: STX
+Source: STX_2026-04-28.txt
+Generated: 2026-05-03 23:57 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Seagate Technology (STX)**
+
+**1. Demand & Activity**
+Demand is experiencing robust growth, driven by structural shifts in data creation. Management indicates a transition into a "new era of structural growth" as AI applications amplify the need for mass-capacity storage ("AI applications amplify data creation and support sustained storage demand"). Revenue grew significantly year-over-year, from $2.16 billion to $3.11 billion, with a positive outlook for the following quarter.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments. Accrued employee compensation showed a modest decrease from $352 million to $308 million on the balance sheet.
+
+**3. Pricing Power & Inflation**
+The company is demonstrating strong pricing power or favorable product mix, evidenced by a robust increase in non-GAAP gross margins from 36.2% to 47.0% ("achieving record margin performance"). There is minimal expected impact from external inflationary pressures such as global tariffs or geopolitical conflict ("Minimal expected impact from global tariff policies and or the current conflict in the Middle East").
+
+**4. Supply Chain & Inventory**
+Inventory levels remain stable with a slight increase, rising from $1.44 billion to $1.53 billion. The company reports a strategic focus on "areal density-driven product strategy" to maintain efficiency at scale ("deliver higher-capacity, energy- and capital-efficient storage at scale").
+
+**5. Capital Spending (Capex)**
+Investment in technology remains a priority, specifically regarding the transition to new storage architectures. The company is focusing on the introduction of "HAMR-based Mozaic products" ("anticipated demand and performance of new storage product introductions, including HAMR-based Mozaic products"). Net property, equipment, and leasehold improvements saw a moderate increase from $1.66 billion to $1.85 billion.

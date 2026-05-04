@@ -1,0 +1,15 @@
+Ticker: AXP
+Source: AXP_2026-04-23.txt
+Generated: 2026-05-03 22:42 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Robust. Card Member spending grew 9% FX-adjusted, marking the "highest quarterly growth in three years" ("Card Member spending grew 9 percent FX-adjusted, the highest quarterly growth in three years"). Growth is specifically driven by "strong demand and engagement with our premium products" ("driven by strong demand and engagement with our premium products").
+
+**Labor & Wages:** Stable. No specific mentions of wage inflation or headcount reductions; however, the company noted its ranking as "#4 on Great Place to Work’s 2026 list of the 100 Best Companies to Work For in the U.S."
+
+**Pricing Power & Inflation:** Moderate. The company is seeing "strong card fee growth" ("increase was primarily driven by... strong card fee growth"). While not explicitly citing commodity inflation, the company noted higher "variable customer engagement costs" linked to the "U.S. Platinum Card refresh, and usage of travel- and lifestyle-related benefits" ("increase was primarily driven by higher variable customer engagement costs...").
+
+**Supply Chain & Inventory:** Not Applicable. No mentions of lead times or physical inventory levels.
+
+**Capital Spending (Capex):** Robust. The company is increasing investments in "marketing and technology to capitalize on long-term growth opportunities" ("decided to increase our investments in marketing and technology"). Specific technology investments include "AI innovation" via the "Amex Agentic Commerce Experiences developer kit" ("continued to drive AI innovation with the announcement of the Amex Agentic Commerce Experiences developer kit"). Physical expansion continues via the "Centurion Lounge network," with new spaces in Las Vegas and New Delhi ("continues to expand the Centurion Lounge network, opening new spaces in Las Vegas and New Delhi").

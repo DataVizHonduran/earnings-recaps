@@ -1,0 +1,22 @@
+Ticker: VMC
+Source: VMC_2026-04-29.txt
+Generated: 2026-05-04 00:07 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Vulcan Materials (VMC)**
+
+**1. Demand & Activity**
+Demand is showing moderate growth. Aggregates shipments increased 5% year-over-year, supported by "large projects and continued growth in public construction activity" ("first quarter aggregates shipments increased 5 percent"). Activity was also aided by a return to "more typical weather" compared to severe winter conditions in the prior year. The company reports a "healthy backlog" providing "good momentum heading into the rest of the year."
+
+**2. Labor & Wages**
+The provided text contains no specific data on current hiring, turnover, or wage adjustments, though it lists "labor relations, shortages and constraints" as a general risk factor in its forward-looking statements.
+
+**3. Pricing Power & Inflation**
+The company is exercising robust pricing power. There was "widespread pricing growth across the Company’s footprint," with freight-adjusted selling prices increasing 4% on a mix-adjusted basis ("Price increases effective at the beginning of the year resulted in widespread pricing growth"). This pricing strength is offsetting persistent input cost pressures, as freight-adjusted unit cash cost of sales also increased 4% ("unit cash cost of sales increased 4 percent, or $0.47 per ton").
+
+**4. Supply Chain & Inventory**
+No specific mentions of lead times or inventory levels were provided in the release.
+
+**5. Capital Spending (Capex)**
+Investment in capacity and maintenance remains stable. The company reported $90 million in capital expenditures for "maintenance and growth projects" during the first quarter. Management indicates they remain "well positioned for continued growth" due to a strong balance sheet and liquidity.

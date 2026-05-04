@@ -1,0 +1,24 @@
+Ticker: NEM
+Source: NEM_2026-04-23.txt
+Generated: 2026-05-03 23:40 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Newmont Corp (NEM)**
+
+**1. Demand & Activity**
+Activity remains robust, with the company reporting "strong operational and financial performance" ("strong operational and financial performance in the first quarter"). Production is stable and on track to meet full-year guidance of 5.3 million attributable gold ounces ("On track to meet Newmont's full year 2026 production guidance").
+
+**2. Labor & Wages**
+No specific mentions of hiring, turnover, or wage pressures were provided in the text.
+
+**3. Pricing Power & Inflation**
+The company is experiencing significant positive price momentum for its primary commodities. Realized gold prices have risen sharply to $4,900/oz ("Average realized gold price... $4,900"). Additionally, the company reports "favorable silver and copper sales volume and prices" and the success of "ongoing cost and productivity initiatives" ("benefitting from favorable silver and copper sales volume and prices, ongoing cost and productivity initiatives").
+
+**4. Supply Chain & Inventory**
+No specific data on lead times or inventory levels were provided.
+
+**5. Capital Spending (Capex)**
+Capex is expected to be elevated over the medium term to support infrastructure and capacity.
+*   **Sustaining Capital:** Newmont anticipates "elevated sustaining capital spend over the next few years" to support production capacity at Cadia and Boddington, with 2026 guidance set at $1.95 billion ("These investments will require elevated sustaining capital spend over the next few years").
+*   **Development Capital:** The company is maintaining a "disciplined focus" on high-return projects, with planned development spending of $1.4 billion for 2026 ("Newmont expects to spend $1.4 billion in development capital in 2026").

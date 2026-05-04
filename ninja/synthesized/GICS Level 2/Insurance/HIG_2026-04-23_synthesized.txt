@@ -1,0 +1,22 @@
+Ticker: HIG
+Source: HIG_2026-04-23.txt
+Generated: 2026-05-03 23:21 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: The Hartford (HIG)**
+
+**1. Demand & Activity**
+Demand is moderate to robust in commercial lines but softening in consumer markets. Business Insurance saw moderate growth, with written premiums increasing 6% ("Business Insurance premium growth of 6%"). Employee Benefits showed stable demand with "excellent newness business sales growth" and 3% ongoing premium growth. Conversely, Personal Insurance activity was constrained by a "competitive market" ("growth was impacted by a competitive market").
+
+**2. Labor & Wages**
+The company is experiencing modest upward pressure on labor costs. This is evidenced by an increase in the Employee Benefits expense ratio, which was specifically "driven by higher staffing costs" ("Employee Benefits expense ratio of 26.7 compared with 25.4... driven by higher staffing costs").
+
+**3. Pricing Power & Inflation**
+The company maintains stable pricing power in commercial segments, though it faces a dynamic environment. While specific rate hike percentages aren't detailed, the "underwriting discipline" and "earned premium growth" suggest an ability to maintain margins. Investment income is benefiting from a higher interest rate environment, with gains attributed to "reinvesting at higher rates" ("Investment income remained strong... reinvesting at higher rates").
+
+**4. Supply Chain & Inventory**
+Not applicable. (No mentions of physical supply chains or inventory levels).
+
+**5. Capital Spending (Capex)**
+Investment in technology is robust and ongoing. The company is prioritizing digital transformation to improve operational efficiency and market differentiation ("ongoing investments in innovation and technology continue to strengthen our business processes"). This is further reflected in the Employee Benefits segment, where expenses rose due to "higher technology costs" ("Employee Benefits expense ratio... driven by... higher technology costs").

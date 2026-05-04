@@ -1,0 +1,27 @@
+Ticker: HSY
+Source: HSY_2026-04-30.txt
+Generated: 2026-05-03 23:22 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: HSY (Q1 2026)**
+
+**1. Demand & Activity**
+Overall demand is softening, with organic constant currency volume declining approximately 2 points ("Volume declined approximately 2 points reflecting elasticity impacts"). 
+*   **North America Confectionery:** Softening; volume declined approximately 4 points due to "price elasticity" and shipping schedules. However, core brand demand remains robust, with non-seasonal retail sales lifts for Hershey’s (11%) and Reese’s (10%).
+*   **North America Salty Snacks:** Robust growth; organic volume increased over 5 points, reflecting "strong innovation and velocity gains."
+*   **International:** Softening; volume declined approximately 2 points due to "elasticity impacts."
+
+**2. Labor & Wages**
+The company is prioritizing "talent" as a key investment area to drive growth. There is evidence of modest cost reductions in human capital, as SM&A expenses were partially offset by "lower compensation and benefit costs."
+
+**3. Pricing Power & Inflation**
+The company continues to exercise moderate to robust pricing power to offset input pressures.
+*   **Pricing:** Organic net sales were driven by "net price realization of approximately 10 points."
+*   **Inflation:** Persistent pressure remains from "higher commodity and tariff-related costs," though these were partially mitigated by "supply chain productivity and transformation program net savings."
+
+**4. Supply Chain & Inventory**
+The report does not explicitly detail lead times or inventory bloat, but notes that "supply chain productivity" is actively contributing to margin expansion.
+
+**5. Capital Spending (Capex)**
+Planned investment remains stable and significant. The company projects full-year 2026 capital expenditures "in the range of approximately $425 million to $475 million," with a specific focus on "brand investment, innovation, R&D, technology, and talent."

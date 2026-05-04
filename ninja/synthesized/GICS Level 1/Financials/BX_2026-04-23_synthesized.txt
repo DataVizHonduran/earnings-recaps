@@ -1,0 +1,22 @@
+Ticker: BX
+Source: BX_2026-04-23.txt
+Generated: 2026-05-03 22:55 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Blackstone Inc. (1Q 2026)**
+
+**1. Demand & Activity**
+Demand for alternative asset management remains robust, characterized by strong capital inflows and positive asset appreciation. The firm reported "almost $70 billion of inflows" in the quarter, with "positive appreciation across nearly all of our flagship strategies." Activity levels are high, with $35.6 billion in deployment and $35.9 billion in realizations during the period.
+
+**2. Labor & Wages**
+The firm is experiencing moderate upward pressure on compensation costs. "Compensation and Benefits" expenses rose to $1.74 billion in 1Q 26, compared to $1.43 billion in 1Q 25. Specifically, "Fee Related Compensation" increased by 18% year-over-year.
+
+**3. Pricing Power & Inflation**
+Blackstone demonstrates stable pricing power through its fee structures. "Management and Advisory Fees, Net" grew by 13% year-over-year to $2.15 billion. While the firm operates in a "turbulent environment," it continues to generate significant "Performance Allocations" ($1.39 billion in 1Q 26 vs. $825 million in 1Q 25), suggesting an ability to capture value despite broader economic disruption.
+
+**4. Supply Chain & Inventory**
+Not applicable. (The provided transcript contains no data regarding physical supply chains or inventory levels).
+
+**5. Capital Spending (Capex)**
+The firm is focused on aggressive deployment of capital into its investment strategies rather than internal facilities. It deployed $35.6 billion in the quarter, utilizing its "all-weather model" to "invest where we see the greatest opportunity." There are no specific mentions of technology or facility capex.

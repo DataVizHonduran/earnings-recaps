@@ -1,0 +1,22 @@
+Ticker: META
+Source: META_2026-04-29.txt
+Generated: 2026-05-03 23:34 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Meta Platforms, Inc. (Q1 2026)**
+
+**Demand & Activity:**
+Demand is robust, characterized by strong momentum in advertising. Ad impressions increased 19% year-over-year ("Ad impressions delivered across our Family of Apps increased by 19% year-over-year"). However, user growth is stable to slightly softening in specific regions due to geopolitical disruptions ("slight decline in DAP on a quarter-over-quarter basis was driven by internet disruptions in Iran, as well as a restriction on access to WhatsApp in Russia").
+
+**Labor & Wages:**
+Headcount remains stable with modest growth ("Headcount was 77,986 as of March 31, 2026, an increase of 1% year-over-year"). There are no specific mentions of wage inflation or hiring difficulties.
+
+**Pricing Power & Inflation:**
+The company demonstrates moderate pricing power, as the average cost per advertisement has risen ("Average price per ad increased by 12% year-over-year"). Conversely, the company is experiencing persistent inflationary pressure on the input side, specifically regarding hardware components ("reflects our expectations for higher component pricing this year").
+
+**Supply Chain & Inventory:**
+The report does not provide specific data on lead times or inventory levels.
+
+**Capital Spending (Capex):**
+Capex is expanding robustly to support AI and infrastructure. The full-year 2026 outlook was revised upward to a range of $125-145 billion from a previous range of $115-135 billion ("increased from our prior range of $115-135 billion"). This investment is driven by higher component costs and the need for "additional data center costs to support future year capacity."

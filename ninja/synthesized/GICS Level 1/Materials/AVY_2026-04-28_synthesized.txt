@@ -1,0 +1,22 @@
+Ticker: AVY
+Source: AVY_2026-04-28.txt
+Generated: 2026-05-03 22:42 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Avery Dennison (AVY)**
+
+**1. Demand & Activity**
+Demand is mixed and fragmented by product line. The Materials Group saw modest organic growth, driven by "mid-single digit volume mix growth" in base categories, though this was offset by "high-value categories down low-single digits" and "Graphics and Reflectives down mid-single digits." Conversely, the Solutions Group experienced softening demand, with organic sales down 0.9% as "base categories [were] down mid-single digits," while "overall apparel categories [were] comparable to prior year."
+
+**2. Labor & Wages**
+The company is experiencing moderate upward pressure on labor costs. Operating margins in both the Materials and Solutions groups were negatively impacted by "higher employee-related costs" (Materials Group) and "higher employee-related costs and investments" (Solutions Group).
+
+**3. Pricing Power & Inflation**
+Pricing dynamics are bifurcated. The company is facing "deflation-related price reductions" in certain Materials Group categories. However, management is utilizing a "playbook focused on innovation... and cost management" to "offset inflationary pressures" (CEO statement). There is a noted "net benefit of pricing and raw material costs, including raw material re-engineering" contributing to EBITDA margins in the Materials Group.
+
+**4. Supply Chain & Inventory**
+The company reports stable supply chain conditions, noting that its current operational playbook allows it to maintain "supply continuity" (CEO statement). No specific data on lead times or inventory bloating was provided.
+
+**5. Capital Spending (Capex)**
+The company maintains a disciplined approach to investment, focusing on "long-term capital allocation strategy" and "investment in development activities and new production facilities" (Safe Harbor Statement). Specific dollar amounts for new capacity were not disclosed in the preliminary release.

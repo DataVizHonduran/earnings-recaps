@@ -1,0 +1,17 @@
+Ticker: D
+Source: D_2026-05-01.txt
+Generated: 2026-05-03 23:08 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided press release for Dominion Energy (D), there is a lack of qualitative operational detail. The document is a high-level financial summary rather than a full earnings transcript. Consequently, most "Ground Truth" economic signals are unavailable.
+
+**1. Demand & Activity:** Stable. The company affirmed its "long-term growth guidance" ("Company affirms its... long-term growth guidance"), suggesting a steady outlook for activity.
+
+**2. Labor & Wages:** Not mentioned.
+
+**3. Pricing Power & Inflation:** Not mentioned.
+
+**4. Supply Chain & Inventory:** Not mentioned.
+
+**5. Capital Spending (Capex):** Not explicitly detailed, though the affirmation of "long-term growth guidance" ("Company affirms its... long-term growth guidance") implies continued investment in capacity.

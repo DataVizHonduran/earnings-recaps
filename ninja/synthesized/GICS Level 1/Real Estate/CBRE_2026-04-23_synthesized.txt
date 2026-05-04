@@ -1,0 +1,17 @@
+Ticker: CBRE
+Source: CBRE_2026-04-23.txt
+Generated: 2026-05-03 22:57 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: CBRE (Q1 2026)**
+
+**1. Demand & Activity:** Robust growth across most segments, particularly in infrastructure and specialized assets. Demand for data centers, power, telecom, and transportation is a "source of significant profits and growth spanning all four business segments." Global leasing is strong, with APAC growth "led by Japan" and U.S. leasing driven by "industrial, office and data centers." Property sales saw a robust increase, specifically in the U.S., where "all major property types posted double-digit increases." Project management growth was "underpinned by strong infrastructure activity" and the technology sector.
+
+**2. Labor & Wages:** Not explicitly detailed; however, the company noted an increase in "core corporate operating loss" driven in part by "higher incentive compensation related to the company’s strong performance in 2025."
+
+**3. Pricing Power & Inflation:** Not explicitly discussed in terms of price hikes or input cost relief. The company noted that loan servicing revenue was impacted by "a decline in escrow income tied to lower average interest rates," which masked underlying growth.
+
+**4. Supply Chain & Inventory:** Not applicable/not mentioned.
+
+**5. Capital Spending (Capex):** Modest increase in investment. Capital expenditures rose to $81 million from $64 million year-over-year ("Less Capital expenditures 81 64 26.6%"). The company maintains a significant pipeline of "in-process projects and pipeline" totaling $29.6 billion.

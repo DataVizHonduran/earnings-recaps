@@ -1,0 +1,22 @@
+Ticker: TMUS
+Source: TMUS_2026-04-28.txt
+Generated: 2026-05-04 00:00 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: T-Mobile US (TMUS)**
+
+**1. Demand & Activity:**
+Demand is robust and accelerating. Postpaid net account additions grew 6% year-over-year ("Postpaid net account additions of 217 thousand, grew 6% year-over-year"), with management raising full-year guidance to between 950k and 1.05 million. Growth is driven by network quality perceptions ("record share of recent switchers... made their choice primarily due to network quality") and expansion into Fixed Wireless Home Internet.
+
+**2. Labor & Wages:**
+Not addressed. The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation:**
+The company demonstrates moderate pricing power, evidenced by a steady increase in Average Revenue Per Account ("Postpaid Average Revenue Per Account (ARPA) of $151.93 grew 3.9% year-over-year"). There are no specific mentions of input cost inflation or commodity relief, though net income was impacted by one-time merger-related costs ("included the impact of UScellular merger-related costs... of $476 million").
+
+**4. Supply Chain & Inventory:**
+Not addressed. The provided text contains no data regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex):**
+Investment in technology and infrastructure remains stable and significant. Quarterly capex increased 7% year-over-year ("Cash purchases of property and equipment... increased 7% year-over-year to $2.6 billion"), with full-year spending expected to remain at approximately $10.0 billion ("Continues to expect cash purchases of property and equipment... to be approximately $10.0 billion"). Focus areas include 5G Advanced network deployment to support physical AI ("Figure AI’s F03 humanoid robots... designed to connect to T-Mobile’s 5G Advanced network").

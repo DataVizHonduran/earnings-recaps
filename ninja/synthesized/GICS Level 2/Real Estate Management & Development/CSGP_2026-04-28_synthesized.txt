@@ -1,0 +1,17 @@
+Ticker: CSGP
+Source: CSGP_2026-04-28.txt
+Generated: 2026-05-03 23:04 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: CoStar Group (CSGP)**
+
+**1. Demand & Activity:** Robust. Revenue grew 23% year-over-year to $897 million, with annualized net new bookings increasing 20% ("Net new bookings... an increase of 20% year-over-year"). Activity in the residential sector is accelerating, driven by AI integration, with organic traffic increasing 119% ("transformative Homes.com AI application... contributed to a 119% increase in organic traffic"). Membership growth is strong, with Homes.com members up over 200% ("today have 35,000, up more than 200% from the same period a year ago").
+
+**2. Labor & Wages:** Stable/Not explicitly detailed. The transcript does not provide specific commentary on hiring difficulties or wage inflation, though "Accrued wages and commissions" decreased slightly from $145 million to $126 million year-over-year.
+
+**3. Pricing Power & Inflation:** Moderate to Strong. The company is demonstrating significant pricing power or volume growth, as evidenced by 60 consecutive quarters of double-digit revenue growth ("delivered 60 consecutive quarters of consistent, double-digit revenue growth"). There is no mention of input cost pressures or commodity inflation impacting the business model.
+
+**4. Supply Chain & Inventory:** Not Applicable. As a digital marketplace and analytics provider, the company does not report physical inventory or traditional supply chain lead times.
+
+**5. Capital Spending (Capex):** Modest/Consistent. The company continues to invest in physical infrastructure and technology. Recent spending includes $45 million for new campuses ("Purchases of property, equipment, and other assets for new campuses") and $9 million in general property and equipment. Investment in technology is evident through increased software development spending, which rose to $114 million from $95 million year-over-year ("Software development 114 95").

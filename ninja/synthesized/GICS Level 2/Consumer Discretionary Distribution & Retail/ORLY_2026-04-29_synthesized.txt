@@ -1,0 +1,22 @@
+Ticker: ORLY
+Source: ORLY_2026-04-29.txt
+Generated: 2026-05-03 23:44 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: O'Reilly Automotive (ORLY)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by a "strong start to 2026" ("strong start to 2026"). Comparable store sales grew by 8.1%, with a notable variance between customer segments: the professional business saw "double-digit growth," while DIY demand showed "mid-single digit growth." Management describes the broader industry environment as a "stable demand backdrop" ("encouraged by the stable demand backdrop in our industry").
+
+**2. Labor & Wages**
+The report does not provide specific data on wage inflation or turnover rates, though it acknowledges the ongoing operational risk regarding the "ability to hire and retain qualified employees" ("our ability to hire and retain qualified employees").
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate pricing power or favorable product mix, as gross profit increased 11% to $2.35 billion, with gross profit as a percentage of sales edging up slightly to 51.5% from 51.3% ("Gross profit... increased 11%... or 51.5% of sales"). Management attributes profit growth to "prudent expense management" ("direct result of our Team s focus on prudent expense management").
+
+**4. Supply Chain & Inventory**
+Inventory levels have increased moderately, rising to $5.81 billion from $5.17 billion year-over-year ("Inventory $ 5,810,121 [vs] $ 5,172,436"). While specific lead times were not discussed, the company lists "availability of key products and supply chain disruptions" as a continuing forward-looking risk ("availability of key products and supply chain disruptions").
+
+**5. Capital Spending (Capex)**
+Investment in capacity remains robust. The company plans to open between 225 to 235 net new stores in 2026 ("Net, new store openings 225 to 235"). Total capital expenditures for the full year are projected to be between $1.3 billion and $1.4 billion ("Capital expenditures $1.3 billion to $1.4 billion").

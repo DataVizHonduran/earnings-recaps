@@ -1,0 +1,22 @@
+Ticker: USB
+Source: USB_2026-04-16.txt
+Generated: 2026-05-04 00:05 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: U.S. Bancorp (1Q26)**
+
+**1. Demand & Activity**
+Loan demand is showing robust growth, particularly in priority sectors. Average total loans increased 3.8% year-over-year ("Average total loans increased 3.8% on a year-over-year basis"). Growth is most pronounced in commercial lending, which saw a moderate increase of 11.4% year-over-year ("Total commercial... 11.4% [increase]"), and credit cards, which grew 6.4% ("Credit card... 6.4%"). Conversely, activity in construction and development is softening, declining 8.1% year-over-year ("Construction and development... (8.1%)"). Consumer deposit growth remains stable ("record consumer deposits").
+
+**2. Labor & Wages**
+The company is seeing modest relief in personnel costs on a year-over-year basis, though recent quarterly trends suggest a slight uptick in spending. Year-over-year noninterest expense was partially offset by "lower compensation and employee benefits expense," while the linked quarter saw "higher compensation and employee benefits expense."
+
+**3. Pricing Power & Inflation**
+The bank maintains stable pricing power, evidenced by a modest increase in net interest margin to 2.77% from 2.72% year-over-year ("Net interest margin of 2.77%, an increase of 5 basis points on a year-over-year basis"). This was supported by "fixed asset repricing." Input costs for operations are seeing slight upward pressure, specifically in "higher marketing and business development expense and technology and communications expense."
+
+**4. Supply Chain & Inventory**
+Not applicable. (No mentions of physical supply chains or inventory levels in the provided financial transcript).
+
+**5. Capital Spending (Capex)**
+The company is maintaining moderate investment in technology and growth initiatives. Management noted "ongoing investments for growth" and specifically cited increased spending in "technology and communications expense" as a driver of noninterest expense.

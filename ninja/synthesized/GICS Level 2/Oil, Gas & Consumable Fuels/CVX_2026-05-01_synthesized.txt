@@ -1,0 +1,22 @@
+Ticker: CVX
+Source: CVX_2026-05-01.txt
+Generated: 2026-05-03 23:05 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Chevron Corp (1Q 2026)**
+
+**Demand & Activity**
+Activity is robust in the U.S. and specific international markets. U.S. production increased by 24% ("Worldwide and U.S. production increased by 15 and 24 percent, respectively"), with U.S. refinery throughput reaching a "record in March 2026." International demand for gasoline is growing ("Refined product sales increased 7 percent... due to higher demand for gasoline"), and capacity is being expanded in Israel to "support growing demand and regional energy security."
+
+**Labor & Wages**
+Not explicitly detailed; however, the company noted a focus on the "safety of our workforce" amid geopolitical volatility in the Middle East.
+
+**Pricing Power & Inflation**
+The company is experiencing mixed margin pressures. U.S. downstream earnings benefited from "higher margins on refined product sales," while international downstream earnings were pressured by "lower margins on refined product sales" and "higher operating expenses mainly from higher transportation costs." Commodity price volatility remains a factor, with a "sharp increase in commodity prices in March 2026" impacting working capital.
+
+**Supply Chain & Inventory**
+Inventory levels are impacted by accounting timing and market volatility. The company reported "unfavorable timing effects" related to "LIFO inventory accounting" and "mark to market of financial derivatives." No specific mentions of lead times or bloated/lean physical inventories were provided.
+
+**Capital Spending (Capex)**
+Capex remains stable and "within guidance," though 1Q spending was higher year-over-year ("Capex in the first quarter of 2026 was higher than last year largely due to spend on legacy Hess assets"). The company continues to invest in "advantaged long-lived assets," including a final investment decision on the Aseng gas project and expansions in Venezuela and the Eastern Mediterranean.

@@ -1,0 +1,22 @@
+Ticker: NXPI
+Source: NXPI_2026-04-28.txt
+Generated: 2026-05-03 23:42 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: NXP Semiconductors (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is showing moderate growth, with revenue increasing 12% year-over-year ("up 12% year-on-year"). Activity is characterized by "broad-based improvement across all of our focus end markets," with robust momentum in industrial and automotive processing linked to "software-defined vehicles and physical AI." Management expects this momentum to "accelerate through the remainder of 2026." Segmental variances include strong year-over-year growth in Industrial IoT (+24%) and Mobile (+16%), though Mobile saw a slight sequential decline.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, wage increases, or headcount reductions.
+
+**3. Pricing Power & Inflation**
+The company is seeing modest margin expansion, with non-GAAP gross margin increasing to 57.1% from 56.1% year-over-year. Management explicitly notes a commitment to "margin expansion" and "actions taken to reduce costs with the goal of increasing our gross margin." There are no specific mentions of input cost inflation or commodity relief.
+
+**4. Supply Chain & Inventory**
+Channel inventory levels appear stable but have increased slightly, rising to 11 weeks from 9 weeks year-over-year ("Channel Inventory (weeks) 11... 9"). The cash conversion cycle has remained stable at 140 days compared to 141 days in the prior year.
+
+**5. Capital Spending (Capex)**
+Capital investment remains disciplined. Net capex investments for the quarter were $79 million ("net capex investments of $79 million"). The company emphasizes a strategy of "disciplined investment" to support long-term value.

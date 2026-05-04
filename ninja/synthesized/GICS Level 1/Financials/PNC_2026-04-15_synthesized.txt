@@ -1,0 +1,22 @@
+Ticker: PNC
+Source: PNC_2026-04-15.txt
+Generated: 2026-05-03 23:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: PNC Financial Services (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by strong growth in commercial lending. Average commercial loans increased 7% ("due to growth within the commercial and industrial portfolio, reflecting new production and increased utilization"). Overall client activity is described as "robust across all our geographies" ("Client activity remains robust across all our geographies").
+
+**2. Labor & Wages**
+The report does not provide specific commentary on hiring difficulty, turnover, or wage inflation. Noninterest expense increased 5%, though this was primarily attributed to the FirstBank acquisition ("driven by FirstBank operating and integration expenses").
+
+**3. Pricing Power & Inflation**
+PNC is experiencing modest relief in funding costs, contributing to an expanded net interest margin. The company noted an "18 basis point decline in the rate paid on interest-bearing deposits," which helped drive a 6% increase in net interest income ("reflecting the benefit of FirstBank, lower funding costs and commercial loan growth").
+
+**4. Supply Chain & Inventory**
+Not applicable. (No mentions of physical supply chains or inventories).
+
+**5. Capital Spending (Capex)**
+Investment is currently focused on inorganic growth and integration. The company is incurring significant costs to integrate its recent acquisition, with $98 million spent in Q1 toward an expected total of $325 million ("PNC incurred $98 million, pre-tax, of the expected total integration costs of $325 million").

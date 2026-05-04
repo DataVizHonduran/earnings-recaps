@@ -1,0 +1,9 @@
+Ticker: PCAR
+Source: PCAR_2026-04-28.txt
+Generated: 2026-05-03 23:45 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+The provided document is an incomplete press release fragment containing only the company's contact information and header. It does not contain the earnings transcript, financial results, or management commentary necessary to analyze demand, labor, pricing, supply chain, or capital spending.
+
+As a result, there are no economic signals available in the text to extract for a Beige Book style report.

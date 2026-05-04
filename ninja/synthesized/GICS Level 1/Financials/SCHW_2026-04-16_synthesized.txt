@@ -1,0 +1,22 @@
+Ticker: SCHW
+Source: SCHW_2026-04-16.txt
+Generated: 2026-05-03 23:54 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Charles Schwab (SCHW) 1Q26**
+
+**1. Demand & Activity:**
+Demand is robust across all primary business lines. Client engagement is strong, evidenced by record daily average trading volumes ("record 9.9 million up 34% versus 1Q25") and significant asset inflows. Core net new assets grew moderately to $140 billion, while Managed Investing net flows saw robust growth ("grew 46% year-over-year"). Credit demand is also expanding, with bank loans increasing moderately ("expanded 29% versus 1Q25 to $60.9 billion").
+
+**2. Labor & Wages:**
+The firm is experiencing moderate upward pressure on labor costs. Compensation and benefits expenses increased by 8% year-over-year ("Compensation and benefits $1,812 [million] vs $1,672 [million]"), suggesting stable to increasing wage expenditures to support growth.
+
+**3. Pricing Power & Inflation:**
+The company demonstrates moderate pricing power and revenue growth despite an "increasing uncertain macroeconomic environment." Revenue grew robustly by 16% year-over-year. Asset management and administration fees increased moderately ("grew by 15% year-over-year to $1.8 billion"), and trading revenue rose robustly ("increased 20% versus 1Q25").
+
+**4. Supply Chain & Inventory:**
+Not applicable. (Financial services provider).
+
+**5. Capital Spending (Capex):**
+Investment in technology and capacity is stable, though specific future capex guidance was not detailed. Current spending is reflected in moderate increases in communications and professional services. The firm continues to invest in product expansion, such as the launch of the "Schwab Teen Investor™ Account" and the closing of the "Forge Global acquisition."

@@ -1,0 +1,22 @@
+Ticker: PCG
+Source: PCG_2026-04-23.txt
+Generated: 2026-05-03 23:45 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: PG&E Corp (PCG)**
+
+**1. Demand & Activity**
+Demand is showing robust growth in specific high-load sectors. The company reports significant expansion in data center activity, with "approximately 4.6 gigawatts (GW) now in final engineering" ("Advanced customer data center projects... with approximately 4.6 gigawatts (GW) now in final engineering"). Additionally, there is moderate growth in electrification, having connected "over 3,100 electric customers and over 1,500 new electric vehicle charging ports" ("Connected over 3,100 electric customers and over 1,500 new electric vehicle charging ports to the Utility's grid").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is actively lowering rates for consumers, indicating a lack of upward pricing pressure on the residential side. Bundled electric rates have decreased "23% since January 2024 for PG&E's most vulnerable customers" ("reducing these rates 23% for PG&E's most vulnerable customers served under the CARE program"). On the cost side, the company is pursuing a "2-4% non-fuel operating and maintenance (O&M) cost reduction target" ("On track to meet 2-4% non-fuel operating and maintenance (O&M) cost reduction target").
+
+**4. Supply Chain & Inventory**
+No specific commentary was provided regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capex remains robust, focused on grid resilience and clean energy infrastructure. The company is aggressively investing in wildfire mitigation, with plans to complete "more than 1,900 total miles of undergrounding and more than 2,000 miles of strengthened poles" by the end of 2027 ("By the end of 2027, PG&E plans to complete more than 1,900 total miles of undergrounding"). Investment is also expanding into renewable natural gas, with plans to "connect an additional five RNG facilities by the end of 2027" ("PG&E plans to connect an additional five RNG facilities by the end of 2027").

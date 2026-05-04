@@ -1,0 +1,22 @@
+Ticker: GLW
+Source: GLW_2026-04-28.txt
+Generated: 2026-05-03 23:18 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Corning Inc. (GLW)**
+
+**Demand & Activity**
+Demand is robust, driven primarily by Gen AI infrastructure and renewable energy. Optical Communications saw strong growth ("sales grew 36%"), supported by "large, long-term agreements" with hyperscale customers for AI data centers in the U.S. The Solar segment experienced robust expansion ("Solar sales were up 80% year over year"). Conversely, demand in Glass Innovations and Automotive remained stable to slightly softening ("Glass Innovations... Net Sales $1,420 [vs $1,499 Q4 2025]"; "Automotive... Net Sales $437 [vs $440 Q4 2025]").
+
+**Labor & Wages**
+Not mentioned.
+
+**Pricing Power & Inflation**
+The company is demonstrating moderate pricing power and operational efficiency, as evidenced by expanding margins ("core gross margin expanded 120 basis points"). There is no specific mention of input cost relief or inflationary pressures.
+
+**Supply Chain & Inventory**
+Not explicitly mentioned; however, the company is actively managing production capacity to meet demand.
+
+**Capital Spending (Capex)**
+Investment in capacity and technology remains robust. The company is extending its "Springboard plan through 2030" and is currently investing in its solar wafer facility to "repair, upgrade, and modify production equipment to increase throughput in future quarters." This specific maintenance and upgrade effort is expected to incur an "additional $30 million of expense in Q2."

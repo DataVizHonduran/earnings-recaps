@@ -1,0 +1,22 @@
+Ticker: NFLX
+Source: NFLX_2026-04-16.txt
+Generated: 2026-05-03 23:40 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: NFLX (Q1 2026)**
+
+**1. Demand & Activity**
+Demand remains **robust**, characterized by "continued healthy membership growth" ("driven primarily by membership growth"). Activity is particularly strong in the Japanese market, which was the "largest contributor to member growth in Q1" following the World Baseball Classic. Engagement is also trending upward, with the primary internal quality metric reaching an "all-time high" ("hit an all time high in Q1").
+
+**2. Labor & Wages**
+Not addressed. The transcript contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company demonstrates **moderate to strong** pricing power. Management notes that "recent price changes have gone well," suggesting low consumer elasticity. Additionally, the advertising business is scaling rapidly, with revenue "on track to reach $3B in 2026, up 2x year-over-year."
+
+**4. Supply Chain & Inventory**
+Not applicable. As a digital service, there are no mentions of physical lead times or inventory bloat. However, "content amortization" (the digital equivalent of inventory cost) is expected to be "first-half weighted" due to the timing of title launches.
+
+**5. Capital Spending (Capex)**
+Investment is focused on technology and content expansion. The company is leveraging AI to improve member experience and recently "acquired InterPositive to provide our creators with a broader set of GenAI tools." Future spending is directed toward broadening the entertainment offering via "video podcasts and games," including the launch of a "standalone gaming app for kids."

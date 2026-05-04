@@ -1,0 +1,22 @@
+Ticker: AWK
+Source: AWK_2026-04-29.txt
+Generated: 2026-05-03 22:42 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: American Water Works (AWK)**
+
+**1. Demand & Activity:**
+Demand appears stable, with revenue growth driven primarily by regulatory mechanisms and expansion rather than organic consumption spikes. Growth is characterized as being driven by "the implementation of new rates... from the recovery of capital and acquisition investments" and "incremental revenue from closed acquisitions."
+
+**2. Labor & Wages:**
+No specific mentions of hiring difficulties, turnover, or wage pressures were provided in the report.
+
+**3. Pricing Power & Inflation:**
+The company is exercising moderate pricing power through regulatory channels to offset persistent input cost pressures. Revenue increases were "primarily a result of authorized revenue increases from completed general rate cases and infrastructure proceedings." However, the company is facing moderate inflationary pressure on production, noting that operating expenses were higher "due in part to increased production costs from higher purchased water cost and usage and increased purchased power and chemicals costs."
+
+**4. Supply Chain & Inventory:**
+The provided text contains no mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex):**
+Capital investment remains robust. The company invested $652 million in the first quarter and "plans to invest a total of approximately $3.7 billion across its footprint in 2026, including acquisitions." This aggressive spending is further evidenced by higher depreciation and interest expenses "to support the current capital investment plan."

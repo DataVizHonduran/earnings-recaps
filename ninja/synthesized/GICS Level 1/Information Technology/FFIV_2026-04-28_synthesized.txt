@@ -1,0 +1,22 @@
+Ticker: FFIV
+Source: FFIV_2026-04-28.txt
+Generated: 2026-05-03 23:15 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: F5, Inc. (FFIV)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by strong growth in product and systems revenue. This activity is driven by structural shifts in enterprise technology, specifically hybrid multicloud adoption, cybersecurity needs, and an "inflection in AI inference" ("rising demand for F5 s solutions anchored in structural demand drivers"). Product revenue grew 22% year-over-year, marking the seventh consecutive quarter of double-digit growth ("22% product revenue growth—our seventh straight quarter of double-digit product growth").
+
+**2. Labor & Wages**
+The provided text does not contain specific data on current wage increases or headcount changes. However, the company identifies the "ability to attract, train and retain qualified product development, marketing, sales, professional services and customer support personnel" as a continuing operational risk.
+
+**3. Pricing Power & Inflation**
+The company demonstrates stable to increasing pricing power, evidenced by expanding gross margins (GAAP gross margin rose to 81.4% from 80.7%). While the company notes potential risks regarding "competitive factors, including but to pricing pressures" and "increased sales discounts," current financial results show improving profitability.
+
+**4. Supply Chain & Inventory**
+The report does not provide current lead times or inventory levels. However, it lists "disruptions to the global supply chain resulting in inability to source required parts... or the ability to only do so at greatly increased prices" as a primary risk factor that could impact future revenues and margins.
+
+**5. Capital Spending (Capex)**
+Specific dollar amounts for Capex are not disclosed; however, the company is prioritizing "customer-focused innovation" to support the scaling of "AI-powered applications of the future."

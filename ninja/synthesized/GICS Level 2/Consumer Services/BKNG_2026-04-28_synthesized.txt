@@ -1,0 +1,22 @@
+Ticker: BKNG
+Source: BKNG_2026-04-28.txt
+Generated: 2026-05-03 22:52 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Booking Holdings Inc. (Q1 2026)**
+
+**1. Demand & Activity**
+Demand remains **robust**, though tempered by geopolitical headwinds. Room nights grew 6% year-over-year, with "continued strength in our strategic growth areas, particularly in the U.S." ("continued strength... particularly in the U.S."). However, activity was **softened** by conflict in the Middle East, which negatively impacted room night growth by approximately 2 percentage points ("estimate room night growth was negatively impacted by approximately 2 percentage points by the conflict in the Middle East"). Management expects a "recovery in bookings in the second half of the year" ("planning assumption is that... followed by a recovery in bookings in the second half of the year").
+
+**2. Labor & Wages**
+Labor costs are increasing. Personnel expenses, including stock-based compensation, rose to $893 million from $693 million in the prior year period ("Personnel... $893 [vs] $693"). No specific mentions of hiring difficulty or turnover were provided.
+
+**3. Pricing Power & Inflation**
+Pricing power appears **stable to modest**. Constant currency average daily rates (ADRs) for alternative accommodations increased by approximately 1% ("CC ADRs increased by about 1%"). Management expressed concern regarding potential **moderate** inflationary pressures if geopolitical disruptions persist, specifically citing "fluctuations in jet fuel prices" and "airline capacity reductions" ("sustained disruption could introduce broader inflationary pressures").
+
+**4. Supply Chain & Inventory**
+Not applicable. As a digital platform, the company does not maintain physical inventory or traditional supply chain lead times.
+
+**5. Capital Spending (Capex)**
+Investment in technology remains a priority, though physical asset spending is **stable**. Additions to property and equipment were $107 million, a slight decrease from $121 million in Q1 2025 ("Additions to property and equipment (107) [vs] (121)"). The company continues to invest in digital capacity, specifically "leveraging Generative AI to enhance the value we deliver" ("leveraging Generative AI to enhance the value we deliver to travelers and partners").

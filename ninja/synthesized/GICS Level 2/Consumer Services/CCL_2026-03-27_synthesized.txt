@@ -1,0 +1,17 @@
+Ticker: CCL
+Source: CCL_2026-03-27.txt
+Generated: 2026-05-03 22:58 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Carnival Corp (CCL)**
+
+**1. Demand & Activity:** Robust. Demand is growing strongly, characterized by "record bookings" and "highest level of bookings ever" extending into 2028. Bookings for 2026 are up "double digits," with 85% of the year already booked. This strength is further evidenced by "higher first quarter onboard revenues" and an "acceleration in pre-cruise onboard sales."
+
+**2. Labor & Wages:** Not explicitly detailed. The company references a "focus on... improving productivity" and leveraging "the best team in all of travel and leisure," but provides no specific data on wage inflation or hiring headwinds.
+
+**3. Pricing Power & Inflation:** Moderate to Robust pricing power. The company is achieving "historically high prices" and "record net yields." However, it faces persistent inflationary pressure from energy; the company noted a "$54 million... unfavorable impact from fuel prices" in Q1 and expects a total fuel price impact of "more than $500 million" for the full year.
+
+**4. Supply Chain & Inventory:** Lean. The company reports an "even smaller amount of inventory available compared to this time last year," which management believes positions them for further "yield improvement in the back half of the year."
+
+**5. Capital Spending (Capex):** Stable and targeted. Future investment is focused on "return-generating midlife ship refurbishment programs" and the development of "exclusive differentiated destinations in the Caribbean region and Alaska." The company intends to maintain "disciplined capacity growth" (projected at 0.9% for full year 2026).

@@ -1,0 +1,29 @@
+Ticker: FICO
+Source: FICO_2026-04-28.txt
+Generated: 2026-05-03 23:15 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Fair Isaac Corp (FICO)**
+
+**1. Demand & Activity**
+Demand is robust, particularly within the B2B scoring segment. The company reported a significant increase in mortgage activity, driven by both volume and pricing. Software demand is mixed; while platform-based ARR is growing robustly, non-platform ARR is softening.
+*   **B2B Scores:** Robust growth ("B2B revenue increased 72%, primarily attributable to a higher mortgage origination scores unit price and an increase in volume of mortgage originations").
+*   **B2C Scores:** Modest growth ("B2C revenue increased 5%... due mainly to increased revenue from our indirect channel partners").
+*   **Software:** Moderate overall growth, but divergent by product ("49% increase in platform ARR and an 8% decline in non-platform ARR").
+
+**2. Labor & Wages**
+The provided text contains no specific data on current wage increases or headcount changes. However, the company identifies the ability to "recruit and retain key technical and managerial personnel" as a continuing risk factor.
+
+**3. Pricing Power & Inflation**
+FICO demonstrates strong pricing power, specifically within its core scoring business, which has contributed to a significant upward revision in full-year revenue guidance.
+*   **Pricing:** Robust ("higher mortgage origination scores unit price").
+*   **Outlook:** Positive ("we are raising our full year guidance").
+
+**4. Supply Chain & Inventory**
+Not applicable. As a provider of analytics software and scoring services, the company does not report physical inventory or traditional supply chain lead times.
+
+**5. Capital Spending (Capex)**
+Capital investment remains stable, with a primary focus on internal technology development.
+*   **Technology Investment:** Moderate spending on software development ("Capitalized internal-use software costs" of $17.2 million for the first six months).
+*   **Physical Assets:** Slight investment in property and equipment ("Purchases of property and equipment" of $492k for the first six months).

@@ -1,0 +1,22 @@
+Ticker: UNP
+Source: UNP_2026-04-23.txt
+Generated: 2026-05-04 00:05 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Union Pacific (UNP)**
+
+**1. Demand & Activity:**
+Demand is softening. While freight revenue grew 4%, this was driven by pricing rather than volume, as the company reported "1% fewer carloads" and noted a "muted economic forecast" for the remainder of the year.
+
+**2. Labor & Wages:**
+Workforce productivity is robust, increasing by 7% ("Workforce productivity was 1,163 car miles per employee, a 7% increase"). Compensation and benefits expenses remained stable, increasing by only 1% year-over-year.
+
+**3. Pricing Power & Inflation:**
+The company maintains moderate pricing power, with revenue growth driven by "core pricing gains" and a strategic outlook where "Pricing dollars [are] in excess of inflation dollars." However, some input cost pressure persists, specifically in "Purchased services and materials" (up 7%) and "Fuel" (up 7%).
+
+**4. Supply Chain & Inventory:**
+Operational efficiency and throughput are robust. The company reported its "Best Ever Quarter for Terminal Dwell," with dwell times improving by 11% ("Average terminal dwell was 19.7 hours"), and a 9% increase in freight car velocity.
+
+**5. Capital Spending (Capex):**
+Investment remains stable and targeted, with a defined "Capital plan of $3.3 billion" for the period.

@@ -1,0 +1,22 @@
+Ticker: GS
+Source: GS_2026-04-13.txt
+Generated: 2026-05-03 23:20 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Goldman Sachs (1Q26)**
+
+**1. Demand & Activity**
+Demand for corporate financial services is robust, particularly in strategic transactions. There was a "significant increase in completed mergers and acquisitions volumes" ("reflecting a significant increase in completed mergers and acquisitions volumes") and strong activity in convertible offerings. Debt underwriting saw moderate growth in investment-grade and asset-backed sectors, though this was "partially offset by significantly lower net revenues from leveraged finance activity." In the FICC space, demand was mixed; interest rate and mortgage products softened, while commodities and currencies saw robust growth ("significantly higher net revenues in commodities and currencies"). The investment banking pipeline is stable to slightly softening ("Investment banking fees backlog decreased slightly compared with the end of 2025").
+
+**2. Labor & Wages**
+Labor demand is stable, with headcount remaining flat ("Headcount was essentially unchanged compared with the end of 2025"). However, there is evidence of upward pressure on compensation linked to performance, as operating expenses rose due to "higher compensation and benefits expenses (reflecting improved operating performance)."
+
+**3. Pricing Power & Inflation**
+The firm is experiencing modest pressure on net interest margins within its retail-facing segments, specifically noting "lower deposit spreads related to Marcus deposits." There is no explicit mention of raising fee pricing, but revenue growth is being driven by volume and "higher average assets under supervision."
+
+**4. Supply Chain & Inventory**
+Not applicable. (No mentions of physical supply chains or inventories).
+
+**5. Capital Spending (Capex)**
+The provided text does not disclose specific future capital expenditures for facilities or technology. Current spending is primarily focused on "transaction based expenses" and human capital.

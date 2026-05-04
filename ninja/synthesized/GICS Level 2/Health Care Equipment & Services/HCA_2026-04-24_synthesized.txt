@@ -1,0 +1,22 @@
+Ticker: HCA
+Source: HCA_2026-04-24.txt
+Generated: 2026-05-03 23:21 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: HCA Healthcare (1Q 2026)**
+
+**1. Demand & Activity**
+Demand is growing at a slight pace. Same facility admissions increased by 0.9 percent, while same facility equivalent admissions saw a modest increase of 1.3 percent ("Same facility admissions increased 0.9 percent and same facility equivalent admissions increased 1.3 percent").
+
+**2. Labor & Wages**
+No specific mentions of hiring difficulty, turnover, or wage adjustments were provided in the provided text.
+
+**3. Pricing Power & Inflation**
+The company is experiencing moderate revenue growth, with total revenues increasing 4.3 percent to $19.109 billion ("Revenues increased 4.3 percent to $19.109 billion"). There is no specific commentary on input cost relief or persistent inflationary pressures.
+
+**4. Supply Chain & Inventory**
+No data provided regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+No specific future investment plans for capacity, technology, or facilities were detailed in the provided text.

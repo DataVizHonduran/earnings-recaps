@@ -1,0 +1,22 @@
+Ticker: CSX
+Source: CSX_2026-04-22.txt
+Generated: 2026-05-03 23:04 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: CSX (Q1 2026)**
+
+**Demand & Activity:**
+Demand showed modest growth, with total volume increasing 3% year-over-year ("Total volume of 1.56 million units for the quarter was 3% higher"). Activity was mixed by product line: intermodal volumes grew and domestic coal revenue increased, while export coal revenue declined ("decrease in export coal revenue, including the impact of lower benchmark rates").
+
+**Labor & Wages:**
+The provided text contains no specific mentions of hiring, turnover, or wage adjustments.
+
+**Pricing Power & Inflation:**
+The company demonstrated moderate pricing power, citing "higher merchandise pricing" as a driver of revenue growth. Input costs were partially offset by "increased fuel surcharge revenue," though the company noted a general focus on remaining "disciplined on costs" to improve its "expense profile."
+
+**Supply Chain & Inventory:**
+The report does not provide specific data on lead times or inventory levels, though it notes the company is providing "reliable and efficient service to our customers through changing market conditions."
+
+**Capital Spending (Capex):**
+No specific dollar amounts or new project announcements were detailed in the release, though the company continues to pursue "profitable growth" and "best-in-class performance."

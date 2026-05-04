@@ -1,0 +1,25 @@
+Ticker: BG
+Source: BG_2026-04-29.txt
+Generated: 2026-05-03 22:52 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Bunge Global SA (Q1 2026)**
+
+**1. Demand & Activity**
+Demand remains robust, underpinned by "strong" long-term fundamentals ("The long-term fundamentals underpinning demand for our products and services remain strong"). Activity increased significantly across most segments, primarily driven by the Viterra acquisition and favorable harvests.
+*   **Soybean/Softseed:** Robust growth in processed volumes, particularly in South America ("stronger processing performance in Argentina and Brazil") and North America.
+*   **Grains:** Moderate growth in volumes attributed to "large global grain crops" and an "expanded grain handling footprint."
+*   **Regional Variance:** While South America and North America showed strength, processing results were "lower... in Europe and Asia" for soybeans.
+
+**2. Labor & Wages**
+The report does not explicitly detail wage inflation or hiring difficulties. However, corporate overhead increased moderately, driven by the "addition of Viterra" and "timing of performance-based compensation."
+
+**3. Pricing Power & Inflation**
+The company is navigating a "rapidly changing market environment" with "limited" visibility due to macroeconomic conditions. While specific price hikes aren't detailed, the company is leveraging its "diversified value chains" to capture opportunities amid "geopolitical uncertainty and shifting trade flows." Profitability in the Soybean and Softseed segments improved, reflecting "improved market conditions."
+
+**4. Supply Chain & Inventory**
+Supply chain activity is characterized by expanded origination and handling capabilities. The company reports higher merchandised volumes of soybeans and softseeds, which were "driven by the company's expanded... origination footprint." There is no mention of bloated inventories or critical lead-time delays.
+
+**5. Capital Spending (Capex)**
+Capex plans are robust as the company continues to invest in capacity and integration. Bunge expects full-year 2026 capital expenditures to be in the range of "$1.5 to $1.7 billion." This follows a period of capacity expansion in Argentina, Canada, and Europe ("combined company's increased production capacity").

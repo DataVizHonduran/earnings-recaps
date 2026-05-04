@@ -1,0 +1,22 @@
+Ticker: LUV
+Source: LUV_2026-04-22.txt
+Generated: 2026-05-03 23:31 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Southwest Airlines (LUV)**
+
+**Demand & Activity:**
+Demand is robust, characterized by record first-quarter passenger and unit revenues ("Demand continues to be strong"). Growth is particularly strong in the business segment, which saw its strongest quarterly performance in company history ("Managed business revenue... increasing 16%... year-over-year"). There is significant consumer appetite for premium offerings, with 60% of customers upgrading from base products ("Strong Customer buy up").
+
+**Labor & Wages:**
+The report does not provide specific commentary on hiring, turnover, or wage levels.
+
+**Pricing Power & Inflation:**
+The company demonstrates moderate to strong pricing power through new product initiatives, resulting in double-digit unit revenue growth ("RASM increased 11.2 percent year-over-year"). However, the company is facing persistent inflationary pressure from energy costs, noting "significantly higher fuel costs" and a substantial projected increase in fuel price per gallon for the second quarter ($4.10–$4.15 vs. $2.73 in Q1).
+
+**Supply Chain & Inventory:**
+Fleet modernization is ongoing with a stable delivery pipeline. The company received 10 aircraft in Q1 and expects 66 more deliveries in 2026 ("Expect 66 Boeing 737-8 aircraft deliveries").
+
+**Capital Spending (Capex):**
+Capex remains robust, focused on fleet modernization and technology. First quarter gross expenditures were $630 million, and full-year net capital spending is projected between $3.0 billion and $3.5 billion ("driven primarily by aircraft-related capital spending, as well as technology, facilities, and operational investments"). Specific investments include the deployment of Starlink Wi-Fi and cabin upgrades ("in seat power and larger overhead bins").

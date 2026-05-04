@@ -1,0 +1,22 @@
+Ticker: AMGN
+Source: AMGN_2026-04-30.txt
+Generated: 2026-05-03 22:38 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Amgen Inc. (Q1 2026)**
+
+**Demand & Activity:**
+Demand is generally robust, with total revenues increasing 6% to $8.6 billion and product sales growing 4%, underpinned by "9% volume growth" ("driven by 9% volume growth"). Growth is bifurcated: strong momentum in Rare Disease and Oncology (e.g., Imdelltra sales increased 219% "driven by volume growth"), while demand for established products is softening due to competition. Specifically, Prolia and Xgeva are seeing "accelerated sales erosion driven by increased competition, as multiple biosimilars have launched globally" ("For 2026, we continue to expect accelerated sales erosion").
+
+**Labor & Wages:**
+The provided text contains no specific mentions of hiring, turnover, or wage adjustments.
+
+**Pricing Power & Inflation:**
+Pricing power is mixed and facing regulatory headwinds. While some products saw "higher net selling price" (e.g., Krystexxa, Amjevita), overall product sales were "partially offset by 2% lower net selling price" ("partially offset by 2% lower net selling price"). Significant pricing pressure is noted for Enbrel, where a 15% decline in net selling price reflects "the impact of U.S. Medicare Part D price setting under the Inflation Reduction Act" ("The decline in net selling price reflects the impact of U.S. Medicare Part D price setting").
+
+**Supply Chain & Inventory:**
+Inventory levels appear stable but varied by product line. Some product growth was "partially offset by 2% from lower inventory levels" ("partially offset by 2% from lower inventory levels"), while others, such as Tepezza, saw growth "driven by a 22% impact from higher inventory levels" ("driven by a 22% impact from higher inventory levels").
+
+**Capital Spending (Capex):**
+Capital investment is increasing, as evidenced by free cash flow being "partially offset by higher capital expenditures" ("partially offset by higher capital expenditures"). Additionally, the company is increasing investment in technology and pipeline development, with R&D expenses increasing 16% "driven by higher spend in Later-Stage Clinical Programs" ("driven by higher spend in Later-Stage Clinical Programs").

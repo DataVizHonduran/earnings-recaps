@@ -1,0 +1,22 @@
+Ticker: BMY
+Source: BMY_2026-04-30.txt
+Generated: 2026-05-03 22:54 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Bristol Myers Squibb (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is mixed, characterized by robust growth in new product lines offset by softening in mature portfolios. The "Growth Portfolio" saw robust expansion, increasing 12% ("Growth Portfolio revenues increased 12%"), driven specifically by Camzyos, Breyanzi, and Reblozyl. Conversely, the "Legacy Portfolio" experienced a moderate decline of 6% ("Legacy Portfolio revenues... decreased 6%"), primarily due to "expected continued generic impacts." Geographically, demand is diverging: U.S. revenues saw a slight decrease of 1%, while international revenues grew robustly by 11% ("International revenues... increased 11%").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, wage inflation, or headcount adjustments.
+
+**3. Pricing Power & Inflation**
+The company is facing moderate pressure on margins, though not explicitly linked to raw material inflation. Gross margins decreased by approximately 270-280 basis points ("Gross margin decreased from 72.9% to 70.2%"), which management attributes primarily to "a change in product mix" rather than input cost spikes. There is evidence of strategic pricing adjustments to maintain volume for specific products, such as the launch of a cash-pay option for Eliquis via Cost Plus Drugs ("patients with a prescription will pay a total of $345 for a 30-day supply").
+
+**4. Supply Chain & Inventory**
+The transcript does not provide specific data regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for facilities are not listed, the company is maintaining a stable to increasing investment in technology and pipeline development. Non-GAAP R&D expenses remained "relatively flat" at $2.2 billion, while the company continues to prioritize "Focusing R&D on high-impact, transformational medicines" as a core strategic priority.

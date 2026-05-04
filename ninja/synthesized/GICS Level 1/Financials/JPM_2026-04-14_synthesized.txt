@@ -1,0 +1,22 @@
+Ticker: JPM
+Source: JPM_2026-04-14.txt
+Generated: 2026-05-03 23:26 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: JPMorgan Chase (1Q26)**
+
+**1. Demand & Activity**
+Demand is **robust** across most segments. Consumer spending remains resilient, evidenced by a 9% YoY increase in debit and credit card sales volume ("Debit and credit card sales volume up 9% YoY"). Corporate activity is strengthening, with a 28% YoY increase in investment banking fees driven by "stronger advisory and ECM activity." The U.S. economy is described as "resilient," supported by "increased fiscal stimulus" and "AI-driven capital investment."
+
+**2. Labor & Wages**
+Labor costs are experiencing **moderate** upward pressure. Noninterest expenses rose 14% firmwide, "predominantly driven by higher compensation," which included both "higher revenue-related compensation and growth in the number of front office employees."
+
+**3. Pricing Power & Inflation**
+The firm is seeing **stable to positive** pricing power through fee growth. Noninterest revenue (excluding Markets) rose 14%, driven by "higher asset management fees," "higher Payments fees," and "higher auto operating lease income." While the firm notes "energy price volatility" as a risk, it does not report specific input cost relief or persistent inflationary pressure on its own operations beyond compensation.
+
+**4. Supply Chain & Inventory**
+Not applicable. (No mentions of physical supply chains or inventory levels).
+
+**5. Capital Spending (Capex)**
+Investment is focused on technology and capacity to support the "real economy." Management specifically highlighted "AI-driven capital investment" as a tailwind for the broader economy. The firm maintains a **robust** liquidity position with "$1.5 trillion in cash and marketable securities" to deploy resources.

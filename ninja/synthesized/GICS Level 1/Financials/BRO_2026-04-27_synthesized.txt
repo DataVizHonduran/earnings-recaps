@@ -1,0 +1,22 @@
+Ticker: BRO
+Source: BRO_2026-04-27.txt
+Generated: 2026-05-03 22:54 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Brown & Brown, Inc. (BRO)**
+
+**1. Demand & Activity**
+Demand appears stable to softening. While total revenues grew significantly due to acquisitions, organic growth was flat, and management explicitly characterized the current period as a "challenging growth environment" ("flat Organic Revenue"; "Our teammates continue to deliver for our customers in a challenging growth environment").
+
+**2. Labor & Wages**
+Not addressed. The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+Not addressed. The provided text contains no specific commentary on price increases or input cost pressures.
+
+**4. Supply Chain & Inventory**
+Not addressed. As a professional services/insurance brokerage firm, the report contains no data regarding lead times or physical inventory.
+
+**5. Capital Spending (Capex)**
+Not addressed. The provided text contains no mentions of future investments in capacity, technology, or facilities.

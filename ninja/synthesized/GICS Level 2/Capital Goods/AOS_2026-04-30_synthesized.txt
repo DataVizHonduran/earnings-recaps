@@ -1,0 +1,22 @@
+Ticker: AOS
+Source: AOS_2026-04-30.txt
+Generated: 2026-05-03 22:40 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: A.O. Smith (AOS)**
+
+**Demand & Activity**
+Demand is softening globally. In North America, residential water heater volumes are modesty below expectations ("residential water heater industry demand that was modestly below our expectations"), compounded by temporary weather-related production disruptions. Activity in the "Rest of World" segment is declining, driven by robust weakness in China where sales fell 17% in local currency due to "continued weak consumer demand."
+
+**Labor & Wages**
+The company is pursuing headcount reductions and organizational streamlining in North America. Management has announced a "targeted restructuring plan" within the North America water treatment business to enhance margins and simplify operations.
+
+**Pricing Power & Inflation**
+The company maintains moderate pricing power, utilizing "carryover pricing actions" to offset volume declines in North America. However, there is noted sensitivity to "global inflationary pressures" and "volatility in fuel and other material prices" as potential risks to future performance.
+
+**Supply Chain & Inventory**
+Supply chain conditions appear stable, though the company remains vigilant regarding the "ability... to obtain commodities, components, parts and accessories on a timely basis." Working capital management is described as "diligent," contributing to strong free cash flow.
+
+**Capital Spending (Capex)**
+Capex is focused on strategic inorganic growth and portfolio management. The company recently expanded capacity/offerings through the acquisition of Leonard Valve and indicated a continued intent to "pursue strategic acquisitions to support our focus on portfolio management."

@@ -1,0 +1,22 @@
+Ticker: RMD
+Source: RMD_2026-04-30.txt
+Generated: 2026-05-03 23:52 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: ResMed Inc. (RMD)**
+
+**1. Demand & Activity**
+Demand is robust and growing globally. Revenue increased 8% on a constant currency basis, driven by "increased demand for our portfolio of sleep devices, masks and accessories" ("Revenue grew by 8 percent on a constant currency basis"). Growth was moderate across all regions: 9% in the U.S., Canada, and Latin America, and 7% in Europe, Asia, and other markets ("Revenue in the U.S., Canada, and Latin America... grew by 9 percent").
+
+**2. Labor & Wages**
+The company is experiencing modest upward pressure on labor costs. SG&A expenses rose 11% on a constant currency basis, partly attributed to "employee costs" ("The increase in SG&A expenses was mainly due to... employee costs").
+
+**3. Pricing Power & Inflation**
+The company is seeing significant input cost relief. Gross margins expanded by 290 basis points, a trend "primarily driven by component cost improvements and manufacturing and logistics efficiencies" ("Gross margin increased by 290 basis points primarily driven by component cost improvements").
+
+**4. Supply Chain & Inventory**
+The provided text does not contain specific commentary on current lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment in capacity is expanding. The company announced the construction of a "new distribution center in Greenwood, Indiana, scheduled to begin operations in 2027" to strengthen "distribution capacity to better serve patients and providers across North America" ("Announced expansion of U.S. operations with new distribution center"). Additionally, the company is continuing "marketing and technology investments" ("The increase in SG&A expenses was mainly due to... marketing and technology investments").

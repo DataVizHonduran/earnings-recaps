@@ -1,0 +1,22 @@
+Ticker: XOM
+Source: XOM_2026-05-01.txt
+Generated: 2026-05-04 00:12 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: ExxonMobil (1Q26)**
+
+**1. Demand & Activity**
+Demand signals are mixed but generally stable to robust in energy, while softening in chemicals. The company reports "advantaged volume growth" in Guyana and the Permian, with Guyana achieving a "new quarterly production record" (more than 900 thousand gross barrels of oil per day). U.S. LNG exports saw a modest increase of 5% relative to 2025 following the Golden Pass Train 1 start-up. Conversely, the Chemical Products segment faced "weaker margins driven by lower realizations," though this was partially offset by "volume increases from the China Chemical Complex start-up."
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is experiencing moderate pricing strength in energy but persistent input pressure in chemicals. Upstream results were supported by "higher crude and gas realizations." However, the Chemical Products segment reported "weaker margins driven by... higher feed costs." The company continues to aggressively combat structural inflation through "Structural Cost Savings," having delivered $15.6 billion cumulatively since 2019, with a target of $20 billion by 2030.
+
+**4. Supply Chain & Inventory**
+Supply chains are currently impacted by geopolitical volatility. The company noted "Middle East supply disruptions" which led to losses on financial hedges that were "not offset by the associated physical shipments." There is no specific mention of lead times or bloated inventory, though the company noted the "absence of favorable year-end inventory effects" when comparing 1Q26 to 4Q25.
+
+**5. Capital Spending (Capex)**
+Capex remains robust and consistent with long-term growth strategies. Cash capital expenditures for the quarter totaled $6.2 billion, remaining "consistent with the company's full-year guidance range of $27-$29 billion." This includes $6.5 billion in "additions to property, plant and equipment," reflecting ongoing investment in "advantaged assets" and capacity expansions like the Golden Pass LNG terminal.

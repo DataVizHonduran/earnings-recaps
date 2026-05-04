@@ -1,0 +1,22 @@
+Ticker: CPT
+Source: CPT_2026-04-30.txt
+Generated: 2026-05-03 23:03 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Camden Property Trust (CPT)**
+
+**Demand & Activity**
+Demand appears to be softening. Same-property occupancy declined slightly to 95.1% from 95.4% year-over-year ("Occupancy 95.1% 95.4%"). Revenue growth is essentially flat, with a modest sequential increase of 0.1% and a slight annual decline of 0.2% ("Revenues 0.2% [1Q26 vs 1Q25]").
+
+**Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage adjustments.
+
+**Pricing Power & Inflation**
+Pricing power is weakening, particularly for new leases. Effective new lease rates saw a moderate decline of 5.2% compared to expiring leases ("Effective New Lease Rates (5.2)%"), though renewal rates remain modestly positive at 2.9% ("Effective Renewal Rates 2.9%"). Input costs are seeing persistent pressure, as same-property expenses grew by 1.9% annually and 2.1% sequentially ("Expenses 1.9% [1Q26 vs 1Q25]").
+
+**Supply Chain & Inventory**
+Inventory levels for new capacity are in a state of active lease-up. One project in Raleigh, NC, is 72% leased ("% Leased... 72%"), while three other ongoing developments in Charlotte and Nashville are in early stages with minimal leasing ("% Leased... 2%").
+
+**Capital Spending (Capex)**
+The company maintains a robust investment pipeline. There are three ongoing development projects with an estimated cost of $492 million ("Total [Estimated Cost] $492.0"). Additionally, the company is actively expanding its footprint through acquisitions in Atlanta and Orlando for $171.3 million ("acquired... for a combined $171.3 million"), while simultaneously reducing exposure in California by marketing 11 communities for sale ("began marketing for sale 11 operating communities in California").

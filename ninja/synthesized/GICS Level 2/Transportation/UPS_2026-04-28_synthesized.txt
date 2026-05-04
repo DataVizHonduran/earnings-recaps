@@ -1,0 +1,22 @@
+Ticker: UPS
+Source: UPS_2026-04-28.txt
+Generated: 2026-05-04 00:05 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: UPS (1Q 2026)**
+
+**Demand & Activity**
+Demand is softening, characterized by a decline in volume across key segments. U.S. Domestic revenue declined 2.3% ("primarily driven by an expected decline in volume"), and Supply Chain Solutions revenue fell 6.5% ("primarily due to a decline in volume in the Mail Innovations business"). Conversely, International activity remains modest but positive, with revenue increasing 3.8%. Management expects a return to growth in the second quarter ("expect to return to consolidated revenue and operating profit growth").
+
+**Labor & Wages**
+The provided text contains no specific updates on current wage levels, hiring difficulties, or headcount reductions for the quarter.
+
+**Pricing Power & Inflation**
+The company demonstrates robust pricing power, successfully raising rates to offset volume declines. In the U.S. Domestic segment, "revenue per piece grew by 6.5%," while the International segment saw a more significant "10.7% increase in revenue per piece."
+
+**Supply Chain & Inventory**
+The report does not provide specific data regarding lead times or current inventory levels.
+
+**Capital Spending (Capex)**
+Investment in capacity and technology remains stable. The company reaffirmed its full-year outlook for capital expenditures, confirming "expected capital expenditures of about $3.0 billion."

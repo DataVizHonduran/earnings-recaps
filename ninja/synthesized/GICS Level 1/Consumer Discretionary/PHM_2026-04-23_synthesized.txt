@@ -1,0 +1,22 @@
+Ticker: PHM
+Source: PHM_2026-04-23.txt
+Generated: 2026-05-03 23:47 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: PulteGroup (PHM) – Q1 2026**
+
+**1. Demand & Activity**
+Demand is showing modest growth in new orders, though actual closing activity is softening. Net new orders increased slightly by 3% to 8,034 homes ("net new orders for the first quarter increased 3%"), while closing volumes decreased by 7% ("7% decrease in closing volumes"). Management notes a consumer base with "concerns about affordability and the economy," yet one that remains "desirous of homeownership."
+
+**2. Labor & Wages**
+No specific mentions of hiring, turnover, or wage trends were provided in the report.
+
+**3. Pricing Power & Inflation**
+Pricing power is softening, with average sales prices declining by 5% to $542,000 ("5% decrease in average sales price"). Gross margins contracted from 27.5% to 24.4%, driven by a need to increase buyer incentives to remain competitive ("impact of higher incentives as the Company responded to competitive market dynamics").
+
+**4. Supply Chain & Inventory**
+Inventory levels appear slightly elevated, specifically regarding speculative builds. The company has been actively utilizing incentives to "reduce excess spec inventory." Total house and land inventory rose modestly to $13.3 billion from $12.9 billion at year-end 2025.
+
+**5. Capital Spending (Capex)**
+Investment in capacity and land remains robust. The company invested $1.3 billion into land acquisition and development during the first quarter ("investing $1.3 billion into land acquisition and development"). Additionally, the company expanded its operational footprint, with the average number of active communities increasing by 9% over the prior year.

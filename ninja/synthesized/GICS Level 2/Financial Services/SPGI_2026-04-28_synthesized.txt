@@ -1,0 +1,22 @@
+Ticker: SPGI
+Source: SPGI_2026-04-28.txt
+Generated: 2026-05-03 23:56 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: S&P Global (SPGI)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by strong growth across core business lines. Revenue increased 10% year-over-year, driven primarily by the Ratings and Market Intelligence divisions ("strong growth in Ratings, Indices, and Market Intelligence"). Subscription-based demand remains stable, growing 6% ("Revenue from subscription products increased 6%"). Management notes a heightened sense of urgency from clients amid a "volatile and challenging operating environment," alongside "fast-paced adoption" of AI functionality.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate to strong pricing power, evidenced by significant margin expansion. GAAP operating margins increased by 620 basis points ("GAAP operating margin increased 620 basis points"), and adjusted margins grew by 100 basis points. While specific price hike percentages are not listed, the ability to expand margins during a "challenging operating environment" suggests effective pricing execution.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a provider of financial information and ratings, the company does not maintain physical inventories or traditional supply chains.
+
+**5. Capital Spending (Capex)**
+Capital investment remains stable and targeted. The company has projected GAAP capital expenditures for 2026 in the range of $215 million to $225 million ("Capital expenditures (GAAP) $215 to $225 million"). Investment focus is currently directed toward AI innovation and the strategic separation of the Mobility division.

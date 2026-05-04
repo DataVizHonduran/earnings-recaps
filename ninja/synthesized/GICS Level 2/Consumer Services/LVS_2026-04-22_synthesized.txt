@@ -1,0 +1,22 @@
+Ticker: LVS
+Source: LVS_2026-04-22.txt
+Generated: 2026-05-03 23:32 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Las Vegas Sands (LVS)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by strong growth across primary operating regions. Net revenue increased 25.3% year-over-year, with specific strength noted in both Singapore and Macao ("delivered growth in both Singapore and Macao"). Activity in Macao remains particularly strong, with Sands China Ltd. net revenues increasing 23.6% ("total net revenues for SCL increased 23.6%").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+There is no direct commentary on price increases or input cost inflation. However, the company reports a slight decrease in borrowing costs, with the weighted average borrowing cost moving from 4.9% to 4.6% ("weighted average borrowing cost was 4.6% during the first quarter of 2026, compared to 4.9% during the first quarter of 2025").
+
+**4. Supply Chain & Inventory**
+The provided text contains no mentions of supply chain lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capex remains moderate and focused on facility maintenance and expansion. Total first-quarter expenditures were $194 million, split between Marina Bay Sands ($102 million) and Macao ($89 million) ("Capital expenditures during the first quarter totaled $194 million"). The company maintains significant liquidity for future capacity expansion, specifically citing a delayed draw term loan facility for the "MBS Expansion Project" ("may be used to finance development and construction costs... related to the MBS Expansion Project").

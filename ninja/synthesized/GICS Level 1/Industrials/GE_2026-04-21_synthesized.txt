@@ -1,0 +1,22 @@
+Ticker: GE
+Source: GE_2026-04-21.txt
+Generated: 2026-05-03 23:18 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: GE Aerospace (Q1 2026)**
+
+**Demand & Activity:**
+Demand is robust, characterized by significant growth in both commercial and defense sectors. Total orders increased 87% ("Total orders of $23.0B, +87%"), with commercial equipment orders more than tripling. Commercial services revenue grew 39% ("Commercial Engines Services (CES) services revenue up 39%"), supported by a substantial backlog ("$170 billion commercial services backlog"). Outlook for 2026 assumes "flat to low-single-digit departures" growth.
+
+**Labor & Wages:**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**Pricing Power & Inflation:**
+The company demonstrates moderate pricing power, citing "higher services volume, price" as a driver for profit growth in the CES segment. However, inflationary pressures persist in the defense sector, where margins were slightly impacted by "mix, investments and inflation" ("Margins were down (20) basis points driven by mix, investments and inflation").
+
+**Supply Chain & Inventory:**
+Supply chain conditions are improving, with a notable increase in throughput from key vendors ("Increased material input from priority suppliers by double-digits sequentially"). This improvement contributed directly to the rise in services revenue and a 43% year-over-year increase in total engine deliveries.
+
+**Capital Spending (Capex):**
+Investment in domestic capacity is robust. The company is executing a multi-year plan to "invest $1 billion in U.S. manufacturing sites and supplier base for the second consecutive year" to accelerate deliveries and strengthen the defense industrial base.

@@ -1,0 +1,22 @@
+Ticker: V
+Source: V_2026-04-28.txt
+Generated: 2026-05-04 00:08 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Visa Inc. (Q2 2026)**
+
+**Demand & Activity:**
+Demand remains robust, characterized by resilient consumer spending. Payments volume increased 9% on a constant-dollar basis ("Payments volume... increased 9% over the prior year on a constant-dollar basis"), and processed transactions grew by a similar margin ("Total processed transactions... a 9% increase over the prior year"). Activity in the international sector is strong, particularly in cross-border volume excluding intra-Europe, which rose 11% ("Cross-border volume excluding transactions within Europe... increased 11% on a constant-dollar basis").
+
+**Labor & Wages:**
+The company is experiencing moderate upward pressure on labor costs. While GAAP operating expenses decreased due to legal provisions, non-GAAP operating expenses rose 17%, specifically citing higher spending on staff ("non-GAAP operating expenses increased 17%... primarily driven by increases in personnel and marketing expenses").
+
+**Pricing Power & Inflation:**
+Visa demonstrates strong pricing power and revenue growth, with net revenue increasing 17% ("Net revenue of $11.2B, an increase of 17%"). There is no specific mention of input cost inflation or commodity relief, as the business model is primarily service-based.
+
+**Supply Chain & Inventory:**
+Not applicable. As a digital payments network, the company does not maintain physical inventories or traditional supply chains.
+
+**Capital Spending (Capex):**
+Investment is focused on technology and infrastructure expansion. The company is actively investing in its "Visa as a Service" stack, specifically targeting "agentic and stablecoin capabilities" ("continued to enhance our Visa as a Service stack... to further strengthen our position as the leading hyperscaler of payments"). Additionally, the company is expanding its physical and digital footprint in South America through the acquisition of Prisma and Newpay in Argentina to "modernize financial infrastructure across the country" ("strengthens Visa's commitment to advancing payment innovation and modernizing financial infrastructure").

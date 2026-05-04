@@ -1,0 +1,22 @@
+Ticker: HAL
+Source: HAL_2026-04-21.txt
+Generated: 2026-05-03 23:20 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Halliburton (HAL)**
+
+**1. Demand & Activity**
+Demand is mixed and geographically fragmented. North American activity is softening, though management notes "clear signs that we are in the early innings of a recovery" ("In North America, I see clear signs..."). Specifically, US Land saw "lower stimulation activity and decreased artificial lift activity" ("lower stimulation activity and decreased artificial lift activity in US Land"). Conversely, international demand is robust in Latin America, driven by "higher activity across multiple product service lines in Ecuador, the Caribbean, and Brazil" ("higher activity across multiple product service lines in Ecuador, the Caribbean, and Brazil"). Activity in the Middle East is declining due to geopolitical disruptions ("lower activity across multiple product service lines in Saudi Arabia").
+
+**2. Labor & Wages**
+The report does not provide specific data on current wage trends or headcount changes, though it lists the "availability and cost of highly skilled labor" as a general forward-looking risk factor ("availability and cost of highly skilled labor and raw materials").
+
+**3. Pricing Power & Inflation**
+There is no explicit mention of recent price hikes or specific input cost relief. The company continues to monitor "general economic conditions such as inflation and recession" as potential risks to future operations ("general economic conditions such as inflation and recession").
+
+**4. Supply Chain & Inventory**
+Supply chain conditions appear stable. The company is focusing on technology that simplifies "operations and inventory management" ("simplify operations and inventory management") regarding its new XTR CS injection system. No mentions of bloated inventories or extended lead times were noted.
+
+**5. Capital Spending (Capex)**
+Investment is focused on digital transformation and specialized technology. The company spent $42 million on "SAP S4 migration" ("Spent $42 million on SAP S4 migration"). Additionally, the company is investing in R&D for carbon capture and geothermal energy, including the launch of a "Joint Lab" in Singapore to "accelerate the development and commercialization of advanced well completion technologies" ("accelerate the development and commercialization of advanced well completion technologies").

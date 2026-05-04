@@ -1,0 +1,22 @@
+Ticker: BEN
+Source: BEN_2026-04-28.txt
+Generated: 2026-05-03 22:51 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Franklin Resources Inc. (BEN)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by strong organic growth and positive momentum across diversified platforms. The company reported $17 billion in long-term net inflows across public and private markets, with "positive long-term net flows in every region" ("positive long-term net flows in every region"). Growth is particularly strong in alternatives, with $14.3 billion fundraised in the quarter ("fundraised $14.3 billion in alternatives"), and in ETFs/Canvas, which reached "record AUM" ("ETFs and Canvas reached record AUM").
+
+**2. Labor & Wages**
+Labor costs are stable to slightly increasing. Compensation and benefits expenses rose 5% year-over-year to $964.7 million ("Compensation and benefits 964.7... 5%"). There are no specific mentions of hiring difficulties or headcount reductions, though the company notes it continues to "manage expenses with discipline" ("manage expenses with discipline").
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate pricing power, as evidenced by a 9% year-over-year increase in investment management fees ("Investment management fees $1,819.3... 9%") and a 9% increase in sales and distribution fees ("Sales and distribution fees 396.6... 9%"). There is no specific commentary on commodity or energy inflation, but general operating expenses remained flat year-over-year ("Total operating expenses... 0%").
+
+**4. Supply Chain & Inventory**
+Not applicable. As a financial services provider, the company does not maintain physical inventories or traditional supply chains.
+
+**5. Capital Spending (Capex)**
+Investment in technology and capabilities is stable. Spending on information systems and technology remained flat at $157.6 million ("Information systems and technology 157.6... (1%)"). The company indicates a continued commitment to "invest in areas of opportunity" and "evolve our capabilities" to drive sustainable growth ("invest in areas of opportunity," "continuing to evolve our capabilities").

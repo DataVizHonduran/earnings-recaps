@@ -1,0 +1,22 @@
+Ticker: IEX
+Source: IEX_2026-04-29.txt
+Generated: 2026-05-03 23:23 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: IDEX Corp (IEX)**
+
+**Demand & Activity:**
+Demand is moderate but divergent across segments. Robust growth is evident in Health Science Technologies, driven by "AI-driven demand for data center power and semiconductor markets, as well as strength in space and defense" (HST Segment). Conversely, activity is softening in other areas, with "lower volumes in our chemical and general industrial businesses" (FMT Segment) and "lower volumes within our Dispensing businesses driven by timing of projects" (FSDP Segment). Overall organic orders grew a robust 10%.
+
+**Labor & Wages:**
+The company reports slight upward pressure on labor costs, noting that corporate costs increased "driven by higher employee-related costs" (Corporate Costs). No specific mentions of hiring difficulty or headcount reductions were provided.
+
+**Pricing Power & Inflation:**
+IDEX maintains moderate pricing power, reporting "positive price across our businesses" (Consolidated Financial Results). However, this is being partially offset by "pressured price cost" (Gross margin), suggesting that while the company can raise prices, input cost pressures persist.
+
+**Supply Chain & Inventory:**
+The provided text contains no specific updates regarding current lead times or inventory levels.
+
+**Capital Spending (Capex):**
+Capital investment is increasing, as evidenced by the fact that free cash flow "reflects higher capital expenditures during the current year period" (Cash flows from operating activities). The company is also continuing to "reallocate resources toward opportunities with stronger growth and margin profiles" (CEO Statement).

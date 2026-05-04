@@ -1,0 +1,22 @@
+Ticker: TAP
+Source: TAP_2026-04-30.txt
+Generated: 2026-05-03 23:58 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Molson Coors (TAP)**
+
+**1. Demand & Activity**
+Demand is softening globally. Financial volumes decreased by 2.9% ("Financial volume decreased 2.9%, due to lower shipments in both the Americas and EMEA APAC segments"). In the Americas, brand volume fell 3.0%, with U.S. declines driven by "lower share performance in our core and value segments" and Canada experiencing "industry softness."
+
+**2. Labor & Wages**
+The company is seeing modest reductions in employee-related expenses. Management noted "lower employee-related costs as a result of our restructuring plan impacting the Americas segment announced in October of 2025."
+
+**3. Pricing Power & Inflation**
+Pricing power remains robust, particularly in the Americas, which is offsetting volume declines. Net sales were supported by "increased net pricing in the Americas segment" and "premiumization in both the Americas and EMEA APAC segments." However, input cost pressures persist; COGS per hectoliter increased 3.0% reported, driven by "cost inflation related to material and manufacturing expenses," including a $30 million hit from "Midwest Premium pricing" (aluminum surcharge).
+
+**4. Supply Chain & Inventory**
+Not explicitly detailed; however, the company noted that lower financial volumes were "partly offset by the timing of shipments," suggesting some volatility in distribution timing.
+
+**5. Capital Spending (Capex)**
+Investment is focused on portfolio expansion and digital infrastructure. The company announced the "acquisition of Monaco Cocktails" to close a portfolio gap and is incurring costs for a "global modernization enterprise resource planning (ERP) system implementation project."

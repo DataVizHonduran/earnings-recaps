@@ -1,0 +1,22 @@
+Ticker: FDX
+Source: FDX_2026-03-19.txt
+Generated: 2026-05-03 23:13 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: FedEx Corp (Q3 FY2026)**
+
+**1. Demand & Activity**
+Demand is mixed but generally moderate. U.S. domestic activity is growing, evidenced by "increased U.S. domestic package volume." However, the LTL (Less-than-Truckload) sector is softening, as noted by "lower shipments" within the FedEx Freight segment. Overall revenue growth expectations have been revised upward to a "6.0% to 6.5% revenue growth rate year over year."
+
+**2. Labor & Wages**
+Labor costs remain a persistent pressure. The company reports headwinds from "higher variable incentive compensation expenses and wage rates" in the Federal Express segment and "higher wage rates" specifically impacting the FedEx Freight segment.
+
+**3. Pricing Power & Inflation**
+FedEx is demonstrating robust pricing power, reporting "strength in U.S. domestic and International Priority package yields" and "increased yield" in the Freight segment. These gains are partially offsetting inflationary pressures, though the company notes increased "purchased transportation rates" and the "financial impacts of global trade policy changes."
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on customer inventory levels or lead times. However, it highlights a focus on "network optimization" and "making supply chains smarter" through digital transformation.
+
+**5. Capital Spending (Capex)**
+Capex is being moderated, with the forecast revised downward to "no more than $4.1 billion" (from a previous $4.5 billion). Investment is strategically targeted toward "network optimization and efficiency improvement, including fleet and facility modernization and automation."

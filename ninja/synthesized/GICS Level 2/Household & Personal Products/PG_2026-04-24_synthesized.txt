@@ -1,0 +1,22 @@
+Ticker: PG
+Source: PG_2026-04-24.txt
+Generated: 2026-05-03 23:47 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Procter & Gamble (PG)**
+
+**1. Demand & Activity**
+Demand is showing modest growth, with organic sales increasing 3% ("driven by a two percent increase from volume"). Activity is broad-based across regions, though variances exist: Beauty and Fabric/Home Care saw robust volume gains in North America and Europe, while Health Care and Grooming experienced softening volume, specifically led by Greater China ("volume decline, led by Greater China").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company maintains moderate pricing power, utilizing "innovation-based pricing" to drive a 1% increase in organic sales. However, input cost pressures are persistent. While the company achieved "gross productivity savings of 210 basis points," these were offset by "higher costs from tariffs" (50 bps) and "unfavorable commodity costs" (10 bps). Looking forward, commodity costs and tariffs are expected to be significant headwinds, estimated at $150 million and $400 million after-tax, respectively.
+
+**4. Supply Chain & Inventory**
+Inventory levels appear to be stabilizing following previous corrections. Family Care reported "strong volume growth due to retail inventory reduction in the prior year," suggesting a return to normal replenishment cycles.
+
+**5. Capital Spending (Capex)**
+Capex remains stable, with planned investments estimated in the range of "four to five percent of fiscal 2026 net sales." The company is specifically "increasing investments in innovation and demand creation" to sustain consumer momentum.

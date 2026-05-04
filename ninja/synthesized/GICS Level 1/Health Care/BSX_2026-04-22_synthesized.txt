@@ -1,0 +1,22 @@
+Ticker: BSX
+Source: BSX_2026-04-22.txt
+Generated: 2026-05-03 22:55 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Boston Scientific (BSX)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by solid organic growth of 9.4% ("growing 11.6 percent on a reported basis and 9.4 percent on an operational and organic basis"). Growth is moderate to robust across most geographies, with strong activity in APAC and LACA (both 12.0% operational growth). However, demand in EMEA is softening or stable, showing only modest operational growth ("EMEA... 1.2 percent operational"). Product-line demand is strongest in Cardiovascular (11.2% operational growth) and Neuromodulation (15.4% operational growth), while Urology remains flat ("Urology... 0.5% operational").
+
+**2. Labor & Wages**
+The provided text contains no specific data on current hiring, turnover, or wage expenditures. The company lists "labor shortages and increases in labor costs" only as general forward-looking risk factors.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price increases or specific input cost relief. It notes "cost increases" as a general risk factor but provides no evidence of current inflationary pressure impacting margins in the current period.
+
+**4. Supply Chain & Inventory**
+Current state is not detailed. The company identifies "manufacturing, distribution and supply chain disruptions" as a potential risk, but does not report any active bottlenecks or inventory imbalances.
+
+**5. Capital Spending (Capex)**
+The company is actively investing in growth through strategic acquisitions and pipeline expansion. Recent activity includes the completion of the acquisition of Valencia Technologies Corporation ("Completed the acquisition of Valencia Technologies Corporation") and ongoing investment in clinical trials to advance its "differentiated pipeline." No specific dollar amounts for facility or technology Capex were disclosed.

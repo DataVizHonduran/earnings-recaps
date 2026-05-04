@@ -1,0 +1,22 @@
+Ticker: LLY
+Source: LLY_2026-04-30.txt
+Generated: 2026-05-03 23:30 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Eli Lilly (LLY)**
+
+**1. Demand & Activity**
+Demand is **robust**, characterized by significant volume growth globally. Worldwide revenue increased 56% ("driven by a 65% increase in volume"), with particularly strong momentum in the U.S. ("U.S. volume was driven by Zepbound and Mounjaro") and international markets ("Revenue outside the U.S. increased 81%... driven by a 95% increase in volume").
+
+**2. Labor & Wages**
+Not addressed. The transcript contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+Pricing power is **softening**, as volume growth is being partially offset by declining realized prices. The company reported a 13% decrease in revenue due to "lower realized prices," specifically citing "reductions in cash pay prices" for Zepbound in the U.S. and the addition of Mounjaro to the National Reimbursed Drug List (NRDL) in China ("lower realized prices outside the U.S. were driven primarily by the addition of Mounjaro to the NRDL").
+
+**4. Supply Chain & Inventory**
+Not addressed. The transcript does not provide specific data on lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment in future capacity and technology remains **robust**. The company is aggressively expanding its portfolio through both internal R&D and external acquisitions. R&D expenses increased 28% ("driven by continued investments in the company's early and late-stage portfolio"), and the company recently executed "four acquisitions" including Orna Therapeutics, Centessa Pharmaceuticals, Kelonia Therapeutics, and Ajax Therapeutics ("continued investing in Lilly's future growth through four acquisitions").

@@ -1,0 +1,22 @@
+Ticker: BIIB
+Source: BIIB_2026-04-29.txt
+Generated: 2026-05-03 22:52 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Biogen Inc. (BIIB)**
+
+**1. Demand & Activity**
+Demand is mixed but showing robust growth in new product lines. "Growth products" delivered 12% year-over-year growth, with specific strength in LEQEMBI (up 74%), QALSODY (up 110%), and ZURZUVAE (up 100%), all cited as having "continued demand growth." Conversely, overall activity is softening in legacy areas; total revenue for the full year is expected to "decline by a mid-single digit percentage" due to "further declines in multiple sclerosis product revenue, excluding VUMERITY."
+
+**2. Labor & Wages**
+Not addressed. The transcript contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is experiencing modest cost pressures. Non-GAAP cost of sales increased 5% year-over-year, though management attributes this primarily to "product mix" rather than inflationary input costs. SG&A expenses rose modestly, driven by "investments to support product launches."
+
+**4. Supply Chain & Inventory**
+Inventory dynamics are currently creating volatility in reported sales. ZURZUVAE sequential sales were "impacted by inventory dynamics," and VUMERITY growth was "supported by inventory dynamics in the U.S." Additionally, TYSABRI revenue benefited from "favorable adjustment to discounts and allowances and inventory timing" both in the U.S. and abroad.
+
+**5. Capital Spending (Capex)**
+Investment is focused on technology and pipeline expansion. Q1 capital expenditures were approximately $51 million. The company is aggressively pursuing capacity and portfolio growth through M&A, specifically the "proposed acquisition of Apellis Pharmaceuticals" and the acquisition of exclusive rights to felzartamab in China. R&D spending increased due to "increased investment in late-stage programs."

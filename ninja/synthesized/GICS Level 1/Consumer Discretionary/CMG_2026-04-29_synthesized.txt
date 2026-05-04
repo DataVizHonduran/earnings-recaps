@@ -1,0 +1,22 @@
+Ticker: CMG
+Source: CMG_2026-04-29.txt
+Generated: 2026-05-03 23:01 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Chipotle Mexican Grill (CMG)**
+
+**1. Demand & Activity**
+Demand is stable to slightly growing. Comparable restaurant sales saw a modest increase of 0.5%, driven by a slight uptick in transactions ("higher transactions of 0.6%"), though this was partially offset by a marginal decline in average check ("0.1% decrease in average check"). Outlook for the remainder of the year suggests demand may flatten ("Full year comparable restaurant sales to be about flat").
+
+**2. Labor & Wages**
+Labor costs are experiencing moderate upward pressure. The company reported an increase in labor costs as a percentage of revenue, primarily attributed to "wage inflation" and "higher benefits expense, including performance-based bonuses."
+
+**3. Pricing Power & Inflation**
+The company maintains moderate pricing power, utilizing "the benefit of menu price increases" to partially offset rising costs. However, input cost inflation remains persistent, specifically regarding "beef and freight, and higher produce usage," though these were partially mitigated by "lower dairy and avocado costs."
+
+**4. Supply Chain & Inventory**
+No specific data on lead times or inventory levels was provided; however, the company noted ongoing risks regarding "intermittent supply shortages" and "supply chain disruptions" related to its sourcing philosophy.
+
+**5. Capital Spending (Capex)**
+Investment in capacity remains robust. The company is aggressively expanding its physical footprint with plans for "350 to 370 new restaurant openings" in 2026. There is a strategic focus on high-efficiency infrastructure, with a goal that "around 80% of company-owned restaurants will have a Chipotlane."

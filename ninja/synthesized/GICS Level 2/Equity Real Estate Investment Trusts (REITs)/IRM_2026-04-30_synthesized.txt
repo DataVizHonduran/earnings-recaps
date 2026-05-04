@@ -1,0 +1,22 @@
+Ticker: IRM
+Source: IRM_2026-04-30.txt
+Generated: 2026-05-03 23:24 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Iron Mountain (IRM)**
+
+**1. Demand & Activity**
+Demand is **robust**, characterized by "significant momentum" across the portfolio. Growth is particularly strong in high-tech and lifecycle segments, with data center, digital, and asset lifecycle management (ALM) collectively growing "more than 50% year over year." The legacy physical records storage business continues to show "solid growth." Data center leasing activity is strong, with 32 megawatts already leased through April.
+
+**2. Labor & Wages**
+The provided text contains no specific data on current wage trends or headcount changes, though the company lists the "ability to attract, develop and retain key personnel" as a general risk factor.
+
+**3. Pricing Power & Inflation**
+The company is demonstrating strong pricing power and operational efficiency, reporting "improved operating leverage coming from our continued improvement activities." While "fluctuations in commodity prices" are noted as a general risk, the company's ability to raise full-year guidance suggests that revenue growth is currently outpacing inflationary pressures.
+
+**4. Supply Chain & Inventory**
+Not explicitly addressed in the provided press release.
+
+**5. Capital Spending (Capex)**
+Investment in capacity is **robust**, specifically regarding digital infrastructure. The company is actively "energizing" 400 megawatts of data center capacity to be available over the next 24 months to support its growth trajectory.

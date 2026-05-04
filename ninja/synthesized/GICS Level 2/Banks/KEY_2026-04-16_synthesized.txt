@@ -1,0 +1,22 @@
+Ticker: KEY
+Source: KEY_2026-04-16.txt
+Generated: 2026-05-03 23:27 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided financial statements for KEY (as of March 31, 2026), the following economic signals are identified:
+
+**1. Demand & Activity**
+Loan demand appears **moderate** to growing. Total loans increased to $109.19 billion from $104.81 billion year-over-year ("Loans $ 109,190... 3 31 2025 $ 104,809"). However, deposit activity is **softening**, with total deposits declining from $150.74 billion to $147.82 billion over the same period ("Total deposits 147,815... 3 31 2025 150,737").
+
+**2. Labor & Wages**
+Personnel expenses show a **slight** decline compared to the previous quarter, though they remain elevated compared to the prior year. Personnel costs were $743 million for Q1 2026, down from $790 million in Q4 2025, but up from $680 million in Q1 2025 ("Personnel 743... 12 31 2025 790... 3 31 2025 680").
+
+**3. Pricing Power & Inflation**
+The company is experiencing **moderate** relief in interest expenses, suggesting a decrease in the cost of funding. Total interest expense dropped to $783 million from $974 million year-over-year ("Total interest expense 783... 3 31 2025 974"). This has contributed to a **robust** increase in net interest income, which rose to $1.22 billion from $1.10 billion year-over-year ("Net interest income 1,222... 3 31 2025 1,096").
+
+**4. Supply Chain & Inventory**
+Not applicable. (The provided document is a financial statement for a banking institution and does not contain physical supply chain or inventory data).
+
+**5. Capital Spending (Capex)**
+Investment in physical infrastructure remains **stable**. Spending on premises and equipment showed negligible variance, ending the period at $618 million compared to $602 million a year prior ("Premises and equipment 618... 3 31 2025 602"). Computer processing expenses remained **stable** at $111 million ("Computer processing 111... 3 31 2025 107").

@@ -1,0 +1,22 @@
+Ticker: STZ
+Source: STZ_2026-04-08.txt
+Generated: 2026-05-03 23:57 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Constellation Brands (STZ)**
+
+**1. Demand & Activity**
+Demand is **softening** overall but shows moderate divergence by product line. Full-year beer net sales declined 3% ("Net sales decreased by 3% driven by shipment declines of 3.8%"), though the company maintains a robust competitive position as the "#1 dollar share gainer" in U.S. tracked channels. Recent momentum is **slight**, with Q4 beer depletions growing 0.6% ("Depletions grew 0.6%"). The Wine & Spirits portfolio is seeing a recovery in activity, with Q4 depletion growth exceeding 8% ("delivers over 8% depletion growth during the fourth quarter").
+
+**2. Labor & Wages**
+Not addressed in the provided text.
+
+**3. Pricing Power & Inflation**
+The company possesses **moderate** pricing power, utilizing "favorable pricing net of mix" to partially offset volume declines in the beer segment. However, input cost pressures remain **persistent**, specifically regarding trade policy. Operating margins were pressured by "higher COGS due to aluminum tariffs" and "unfavorable fixed cost absorption."
+
+**4. Supply Chain & Inventory**
+The report does not explicitly detail lead times or inventory bloat, but notes that "unfavorable fixed cost absorption" impacted margins, suggesting production levels may not be fully aligned with current shipment volumes.
+
+**5. Capital Spending (Capex)**
+Investment remains **robust** and targeted toward capacity expansion. The company continues to "invest in modular brewing capacity" to adapt to the "shifting macroeconomic environment." Planned capital expenditures for fiscal 2027 are projected at $800 million ("Capital expenditures $800 million").

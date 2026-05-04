@@ -1,0 +1,22 @@
+Ticker: GM
+Source: GM_2026-04-28.txt
+Generated: 2026-05-03 23:18 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: General Motors (Q1 2026)**
+
+**1. Demand & Activity**
+Demand appears **softening** overall, with total net sales and revenue declining slightly by 0.9% year-over-year ("Total net sales and revenue... $43,624 [vs] $44,020"). However, activity remains **robust** in North America, where EBIT-adjusted grew 11.4% ("GMNA EBIT-adjusted $3,661 [vs] $3,286"), and showed **moderate** improvement in international markets ("GMI EBIT-adjusted $123 [vs] $30").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is experiencing **moderate** relief from input cost pressures specifically related to trade policy. GM raised its full-year guidance due to a "favorable adjustment of approximately $0.5 billion" following a Supreme Court decision on tariffs, reducing expected gross tariff costs to a range of "$2.5 billion to $3.5 billion in 2026" (down from $3.0B–$4.0B).
+
+**4. Supply Chain & Inventory**
+Inventory levels have increased **moderately**, suggesting a slight buildup compared to the prior year ("Inventories $15,593 [vs] $14,472"). Lead times were not explicitly detailed.
+
+**5. Capital Spending (Capex)**
+Investment in capacity and technology remains **stable** and significant. The company maintains a consistent outlook for capital expenditures, projecting spend between "$10.0-12.0 [billion]" for the full year 2026.

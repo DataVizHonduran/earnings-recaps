@@ -1,0 +1,22 @@
+Ticker: MTB
+Source: MTB_2026-04-15.txt
+Generated: 2026-05-03 23:39 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: M&T Bank Corp (1Q26)**
+
+**1. Demand & Activity**
+Loan demand is mixed but showing modest growth overall. Commercial and Industrial (C&I) activity is robust, particularly within the financial and insurance sectors ("higher average commercial and industrial loan balances of $1.5 billion"). Conversely, demand is softening in other areas, with declines noted in commercial real estate and consumer loan balances ("partially offset by lower average balances of commercial real estate and commercial loans").
+
+**2. Labor & Wages**
+The company is experiencing moderate upward pressure on personnel costs, specifically citing "seasonal salaries and employee benefits expense of $115 million" as a driver for increased noninterest expenses. No specific mentions of hiring difficulties or headcount reductions were provided.
+
+**3. Pricing Power & Inflation**
+The bank is seeing a modest improvement in its net interest margin (widened 2 basis points to 3.71%), driven by a decline in funding costs that outpaced the reduction in yields received on earning assets ("reflecting a decline in funding costs that outpaced a reduction in yields received on earning assets").
+
+**4. Supply Chain & Inventory**
+Not applicable. (The entity is a financial institution; no physical supply chain or inventory data provided).
+
+**5. Capital Spending (Capex)**
+Investment is focused on digital infrastructure and operational scaling. The company reported the "successful conversion of our core general ledger platform" and continues to invest in "expanding our operational capabilities in support of our strategic objectives of operational excellence."

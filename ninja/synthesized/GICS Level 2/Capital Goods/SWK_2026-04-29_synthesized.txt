@@ -1,0 +1,22 @@
+Ticker: SWK
+Source: SWK_2026-04-29.txt
+Generated: 2026-05-03 23:57 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Stanley Black & Decker (SWK)**
+
+**1. Demand & Activity**
+Demand is mixed and bifurcated by sector. Retail demand in North America is softening, leading to a modest decline in organic revenue for the Tools & Outdoor segment ("primarily due to lower retail volumes in North America"). Conversely, activity in the Engineered Fastening segment is robust, driven by strong aerospace growth and automotive performance "outperforming the market," though this was partially offset by a decline in industrial volume.
+
+**2. Labor & Wages**
+The report does not explicitly detail wage inflation or hiring difficulties; however, the company is actively pursuing "footprint actions" and "restructuring costs" (including $44.9 million in restructuring charges), suggesting a focus on headcount or facility optimization.
+
+**3. Pricing Power & Inflation**
+The company maintains moderate pricing power, implementing price increases of 3% overall and 4% in Tools & Outdoor. However, these gains are being neutralized by persistent inflationary pressures and regulatory costs, as higher pricing was "largely offset by increased tariff expense, volume deleverage, and other inflation."
+
+**4. Supply Chain & Inventory**
+Specific lead-time data is not provided, but the company continues to manage "costs related to supply chain transformation" as part of its non-GAAP adjustments. There is evidence of seasonal inventory positioning, noted by "increased sell-in ahead of the outdoor product Spring season."
+
+**5. Capital Spending (Capex)**
+The company is prioritizing "targeted, strategic investments" to position for long-term growth. Following the $1.6 billion net proceeds from the sale of the CAM business, the company has focused on debt reduction and is shifting its capital allocation strategy toward "share repurchases" and "strategic growth investments."

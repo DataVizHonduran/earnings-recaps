@@ -1,0 +1,22 @@
+Ticker: IP
+Source: IP_2026-04-30.txt
+Generated: 2026-05-03 23:24 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: International Paper (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is mixed and volatile. North American activity is softening due to "seasonally lower volumes," though the company claims to be "outgrow[ing] the market" via commercial actions. In contrast, EMEA activity showed modest growth, with net sales increasing due to "higher sales volumes." Overall, the macro environment is described as "tougher" ("primary pressures this quarter came from a tougher macro environment").
+
+**2. Labor & Wages**
+The company is actively pursuing headcount reductions and resource realignment. There are ongoing "severance and other costs associated with the Company's strategic approach which includes the realignment of resources" and "mill strategic actions."
+
+**3. Pricing Power & Inflation**
+Pricing power is fragmented. In North America, the company achieved "higher export pricing and a favorable mix," but these gains were offset by volume declines. In EMEA, "sales prices for paper were lower." Inflationary pressures remain persistent, specifically regarding "ongoing inflation" and "higher costs for goods and services." Input costs saw moderate increases, specifically "higher natural gas costs and utility costs driven by the winter storm."
+
+**4. Supply Chain & Inventory**
+Not explicitly detailed; however, operational reliability was hampered by external shocks, specifically "winter storm impacts" and "severe winter storm" disruptions.
+
+**5. Capital Spending (Capex)**
+The company is shifting toward a disciplined, restrictive capital posture. Management emphasized a "strong focus on managing cost and cash flow" and a commitment to "manage capital with rigor." Future activity is centered on the "planned separation" of the EMEA business to allow segments to "operate independently."

@@ -1,0 +1,22 @@
+Ticker: FRT
+Source: FRT_2026-05-01.txt
+Generated: 2026-05-03 23:16 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Federal Realty Investment Trust (FRT)**
+
+**1. Demand & Activity:**
+Demand for retail space is robust, characterized by record-breaking leasing volumes. The company reported a "first quarter volume record" for comparable retail space (signed 101 leases for 649,078 sq. ft.). Management attributes this strength to the "resilience of the higher-income consumer" despite a "volatile macro environment." Occupancy remains stable, ending the quarter at 93.8% ("up 20 basis points year-over-year").
+
+**2. Labor & Wages:**
+No specific mentions of hiring, turnover, or wage pressures were provided in the report.
+
+**3. Pricing Power & Inflation:**
+The company demonstrates strong pricing power with significant rent growth. New comparable leases saw rent increases of 13% on a cash basis and 23% on a straight-line basis ("average rent of $35.79 per square foot, compared to $31.75 under prior leases"). On a trailing twelve-month basis, cash rent spreads were 16%. Management noted potential risks from "inflation, tariffs, and local economic conditions," but current performance reflects "consistency and durability of our earnings growth."
+
+**4. Supply Chain & Inventory:**
+Not applicable for this REIT's primary operations; no mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex):**
+Investment activity is moderate and strategic, focusing on portfolio optimization and geographic deepening. The company is actively acquiring assets in established corridors, such as the $72.3 million acquisition of Congressional North Shopping Center to "deepen Federal’s presence along Rockville Pike." Additionally, the company is executing a strategy of disposing of "peripheral residential and mature retail" assets (approximately $159 million in Q1) to recycle capital into higher-growth opportunities.

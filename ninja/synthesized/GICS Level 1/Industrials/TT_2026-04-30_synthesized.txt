@@ -1,0 +1,26 @@
+Ticker: TT
+Source: TT_2026-04-30.txt
+Generated: 2026-05-04 00:01 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Trane Technologies (TT)**
+
+**1. Demand & Activity**
+Demand is **robust** overall, characterized by "exceptional demand for our sustainable products and services" ("exceptional demand for our sustainable products and services"). Activity is highly divergent by geography:
+*   **Americas:** Strong growth, particularly in Commercial HVAC, which saw bookings increase by "approximately 40 percent" ("Americas Commercial HVAC, up approximately 40 percent"), with applied equipment bookings surging "more than 160 percent" ("applied equipment bookings up more than 160 percent").
+*   **Asia Pacific:** Moderate to strong growth, with organic bookings up 26% ("organic bookings up 26 percent").
+*   **EMEA:** Softening, with organic bookings declining 9% ("organic bookings down 9 percent") and organic revenues down 1% ("Organic revenues were down 1 percent").
+The company reports a record backlog of $10.7 billion, providing "strong visibility for 2026 and beyond" ("strong visibility for 2026 and beyond").
+
+**2. Labor & Wages**
+The transcript contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail current pricing actions or specific input cost relief. However, the company lists "commodity shortages" and "price increases" as general risk factors ("commodity shortages price increases").
+
+**4. Supply Chain & Inventory**
+While specific lead times are not disclosed, the "record backlog" ("Record backlog of $10.7 billion") and a book-to-bill ratio of 135% ("Book-to-bill was 135 percent") suggest demand is significantly outpacing current delivery capacity.
+
+**5. Capital Spending (Capex)**
+The company is actively deploying capital toward growth and inorganic expansion, committing approximately $340 million to M&A year-to-date ("approximately $340 million for M&A"). Future outlook remains positive, with the company raising full-year revenue and EPS guidance ("confident in raising our full-year revenue and EPS guidance").

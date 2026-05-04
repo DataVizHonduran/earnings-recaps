@@ -1,0 +1,25 @@
+Ticker: PLD
+Source: PLD_2026-04-16.txt
+Generated: 2026-05-03 23:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Prologis (PLD)**
+
+**1. Demand & Activity**
+Demand appears **moderate to stable**, though some leading indicators suggest a slight softening in utilization. The U.S. Space Utilization rate averaged 84.0%, down from a previous average of 85.3% ("U.S. SPACE UTILIZATION percent... 84.0% Average 85.3% Average"). Lease proposal activity remains active with 136 million square feet of proposals ("LEASE PROPOSALS... 136").
+
+**2. Labor & Wages**
+The provided data contains no specific mentions of hiring difficulty, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company maintains **moderate** pricing power, with projected growth in rental income. Guidance for 2026 forecasts a "Same store NOI - cash" increase between 6.25% and 7.00% ("Same store NOI - cash - Prologis Share* 6.25% 7.00%"), suggesting a continued ability to raise rents.
+
+**4. Supply Chain & Inventory**
+Not explicitly detailed; however, lease negotiation gestation periods are averaging 59 days, compared to a previous average of 54 days ("NEW LEASE NEGOTIATION GESTATION in days... 59 Average 54"), indicating a slight increase in the time required to finalize contracts.
+
+**5. Capital Spending (Capex)**
+Investment in capacity remains **robust**, with a significant focus on both traditional logistics and new technology infrastructure. 
+* **Development:** 2026 guidance projects development starts between $4.5B and $5.5B ("Development starts $4,500 $5,500").
+* **Technology/Energy:** The company is aggressively expanding its data center capabilities, with a "DATA CENTER POWER PIPELINE 5.6GW secured or in advanced stage."
+* **Acquisitions:** Planned acquisitions for 2026 range from $2.0B to $3.0B ("Acquisitions $2,000 $3,000").

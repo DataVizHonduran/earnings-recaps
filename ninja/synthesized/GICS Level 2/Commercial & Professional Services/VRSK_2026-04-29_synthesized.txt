@@ -1,0 +1,22 @@
+Ticker: VRSK
+Source: VRSK_2026-04-29.txt
+Generated: 2026-05-04 00:07 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Verisk Analytics (VRSK)**
+
+**1. Demand & Activity:**
+Demand is growing moderately, with organic constant currency (OCC) revenue increasing 4.7% ("delivered organic constant currency revenue growth of 4.7%"). Growth is robust in underwriting, driven by new client acquisitions and expanded renewals in catastrophe, risk, specialty, and life solutions ("increased sales to new clients as well as expanded renewals with existing clients"). Claims activity is mixed; while casualty solutions and anti-fraud analytics saw growth, there were "modest declines in our property and restoration solutions."
+
+**2. Labor & Wages:**
+Not mentioned.
+
+**3. Pricing Power & Inflation:**
+The company demonstrates moderate pricing power, specifically within its underwriting segment ("Underwriting revenues increased... primarily due to price increases derived from continued enhancements to our forms, rules and loss cost solutions"). The company reports maintaining "cost discipline" to support margins, though it is facing headwinds from "higher interest payments" due to increased debt balances.
+
+**4. Supply Chain & Inventory:**
+Not applicable (Service/Data provider).
+
+**5. Capital Spending (Capex):**
+Investment in technology is ongoing and increasing. Quarterly capital expenditures rose 19.2% year-over-year to $64 million ("Capital expenditures (64.0) [vs] (53.7)"). Management indicated a commitment to "invest in innovation" and "introduce new and effective AI solutions into core insurance workflows," with full-year 2026 capex projected between $260 million and $280 million.

@@ -1,0 +1,22 @@
+Ticker: MCO
+Source: MCO_2026-04-22.txt
+Generated: 2026-05-03 23:33 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Moody’s Corporation (MCO)**
+
+**1. Demand & Activity**
+Demand is **robust**, characterized by record revenues and strong growth in specific high-tech sectors. Investment Grade issuance saw a significant surge, driven by "strong investor demand and increased AI related financing from hyperscalers" ("Record first quarter Investment Grade issuance... driven by strong investor demand"). Infrastructure Finance experienced its "strongest quarter since 2020," supported by "rising AI and data center related activity" ("Infrastructure Finance posted its strongest quarter since 2020"). Conversely, demand in the leveraged loan market is **softening**, reflecting a "more cautious market environment" ("Leveraged loan revenue declined year-over-year").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage increases.
+
+**3. Pricing Power & Inflation**
+The company is demonstrating **moderate** pricing power and efficiency, evidenced by "powerful operating leverage" ("sustained growth and powerful operating leverage"). While specific price hikes are not detailed, the company is successfully expanding margins through "ongoing cost and efficiency initiatives" ("MA’s adjusted operating margin... reflecting strong revenue growth and ongoing cost and efficiency initiatives").
+
+**4. Supply Chain & Inventory**
+Not applicable. As a financial services provider, the company does not report physical supply chain or inventory metrics.
+
+**5. Capital Spending (Capex)**
+Capital investment remains **stable**, with projected expenditures focused on maintaining and evolving its technology and data capabilities. The company expects capital expenditures to be "approximately $450 million" for the full year 2026 ("Less Capital expenditures Approximately $450 million").

@@ -1,0 +1,30 @@
+Ticker: MRK
+Source: MRK_2026-04-30.txt
+Generated: 2026-05-03 23:37 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Merck & Co. (MRK)**
+
+**1. Demand & Activity**
+Demand is **moderate** overall, with significant divergence across product lines and geographies. Oncology and Animal Health show **robust** growth, while vaccines and diabetes are **softening**.
+*   **Oncology:** Strong growth driven by "higher global demand in metastatic indications" and "strong global uptake in earlier-stage indications" (Keytruda).
+*   **Animal Health:** Growth is **moderate** (13%), with "higher demand for ruminant and poultry products" (Livestock), though partially offset by "lower demand for other products... reflecting a reduction in veterinary visits" (Companion Animal).
+*   **Geographic Variance:** Demand is **softening** in China, specifically for Gardasil ("lower demand in China") and Rotateq ("primarily driven by lower demand in China").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring difficulty, turnover, wage increases, or headcount reductions.
+
+**3. Pricing Power & Inflation**
+The company demonstrates **moderate** pricing power in specific segments, though it faces headwinds in others.
+*   **Pricing Increases:** Animal Health growth was "driven by... price" (Livestock) and "new product launches and price" (Companion Animal). Gardasil saw "higher net pricing" in the U.S.
+*   **Pricing Pressure:** The company is seeing **softening** pricing in the U.S. for Januvia/Janumet due to "lower demand and net pricing in the U.S." and "generic competition."
+
+**4. Supply Chain & Inventory**
+Inventory levels appear **stable**, with some evidence of normalization.
+*   **Wholesaler Activity:** Keytruda sales "benefited from the timing of wholesaler purchases in the U.S."
+*   **Inventory Adjustments:** Capvaxive growth was "partially offset by a reduction in wholesaler inventory."
+
+**5. Capital Spending (Capex)**
+While specific facility spend is not detailed, the company is pursuing **robust** inorganic investment to expand capacity and technology.
+*   **Acquisitions:** The company is "moving with speed to transform our portfolio" through "science-led business development," including the acquisition of Cidara and the planned acquisition of Terns Pharmaceuticals to "expand Hematology Pipeline."

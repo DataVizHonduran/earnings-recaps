@@ -1,0 +1,22 @@
+Ticker: WFC
+Source: WFC_2026-04-14.txt
+Generated: 2026-05-04 00:09 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Wells Fargo (WFC)**
+
+**1. Demand & Activity**
+Demand is **robust** across most segments. Total loans increased 11% year-over-year ("loans increasing 11%"). Specific growth is noted in consumer checking account openings and auto originations ("Auto originations and balances increased"). Commercial Banking saw "higher loan and deposit balances" driven by "strong customer engagement." Investment Banking remains active with a "strong investment banking pipeline" and increased market share in Equity Capital Markets.
+
+**2. Labor & Wages**
+The report indicates **moderate** upward pressure on compensation. Noninterest expense increased 3%, partially driven by "higher revenue-related compensation expense primarily in Wealth and Investment Management." There are no mentions of hiring difficulties or headcount reductions.
+
+**3. Pricing Power & Inflation**
+The company is seeing **stable** to positive pricing trends in fees, though it faces emerging commodity headwinds. Revenue growth was supported by "higher card fees and purchase volume" and "higher deposit-related fees." However, management noted a potential future drag from energy costs, stating "the impact of higher oil prices will likely take some time to materialize."
+
+**4. Supply Chain & Inventory**
+Not applicable. (No mentions of physical supply chains or inventory levels).
+
+**5. Capital Spending (Capex)**
+Investment in technology and infrastructure remains **moderate** and ongoing. Noninterest expenses were pushed higher by "higher technology and equipment expense." Management highlighted "continued positive impacts from the investments we have been making" to drive broad-based revenue growth.

@@ -1,0 +1,24 @@
+Ticker: SLB
+Source: SLB_2026-04-24.txt
+Generated: 2026-05-03 23:55 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: SLB (Q1 2026)**
+
+**1. Demand & Activity**
+Overall demand is mixed, with a modest year-on-year revenue increase of 3% ("Revenue of $8.72 billion increased 3% year on year"), though this was primarily driven by the ChampionX acquisition. Organic demand is softening, as global revenue decreased 7% excluding the acquisition ("Excluding the impact of this acquisition, SLB s first-quarter 2026 global revenue decreased 7% year on year"). 
+*   **Geographic Variance:** Activity in the Middle East is softening due to geopolitical disruptions ("widespread disruptions in the Middle East impacted our business"), while other markets saw growth.
+*   **Product Variance:** Robust growth in Production Systems ("Production Systems revenue increased 23% year on year") and Digital ("Digital revenue increased 9% year on year"), contrasting with declines in Well Construction and Reservoir Performance.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company expects a sustained increase in commodity pricing due to geopolitical risk ("We expect postconflict liquid commodity prices to remain above preconflict levels"). There is no specific mention of input cost inflation or direct pricing actions taken by the company.
+
+**4. Supply Chain & Inventory**
+The company notes that recent geopolitical conflicts have "exposed critical vulnerabilities in the global energy supply chain" ("exposing critical vulnerabilities in the global energy supply chain"). No specific data on lead times or inventory levels was provided.
+
+**5. Capital Spending (Capex)**
+Investment is shifting toward digital infrastructure and modular manufacturing. The company is expanding its AI infrastructure capabilities through a collaboration with NVIDIA ("expansion of our technology collaboration with NVIDIA to design and deploy critical AI infrastructure"). Additionally, the company is leveraging "modular and scalable off-site manufacturing capabilities" to support a "remarkable 45% uplift" in Data Center Solutions.

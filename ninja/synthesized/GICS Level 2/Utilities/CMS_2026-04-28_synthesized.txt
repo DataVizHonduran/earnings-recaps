@@ -1,0 +1,22 @@
+Ticker: CMS
+Source: CMS_2026-04-28.txt
+Generated: 2026-05-03 23:01 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: CMS Energy (Q1 2026)**
+
+**1. Demand & Activity:**
+Operating revenue showed moderate growth, increasing from $2,447 million in Q1 2025 to $2,730 million in Q1 2026. Management reports "building momentum" ("building momentum across our triple bottom line") and "strong execution" ("Strong execution in the first quarter") regarding their operational activity.
+
+**2. Labor & Wages:**
+The provided text contains no specific data on hiring, turnover, or wage trends. However, the company's non-GAAP reconciliation mentions the existence of a "voluntary separation program" as a potential adjustment item, though it is not explicitly quantified as a current driver of Q1 results.
+
+**3. Pricing Power & Inflation:**
+The company is experiencing moderate upward pressure on costs; operating expenses rose from $1,953 million to $2,240 million year-over-year. There is no explicit commentary on price hikes or commodity relief, though the increase in operating revenue suggests some ability to pass through costs or grow the rate base.
+
+**4. Supply Chain & Inventory:**
+No specific mentions of lead times or inventory levels were provided in the release.
+
+**5. Capital Spending (Capex):**
+Investment in capacity and infrastructure remains robust. Net cash used in investing activities increased to $1,073 million (compared to $918 million in Q1 2025), and "Plant, property, and equipment" grew from $30,680 million to $31,533 million over the last quarter. Additionally, the company is investing in technology, specifically "major enterprise resource planning software implementations."

@@ -1,0 +1,22 @@
+Ticker: CAT
+Source: CAT_2026-04-30.txt
+Generated: 2026-05-03 22:56 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Caterpillar Inc. (1Q 2026)**
+
+**Demand & Activity**
+Demand is robust, characterized by "resilient end markets" and "robust order activity." Growth is broad-based across primary segments, with Construction Industries seeing the most significant expansion (+38% sales). Geographic strength is most pronounced in North America (+32% consolidated sales), while Asia Pacific remains modest (+4%). Specific growth drivers include "data center applications" for power generation and "gas compression applications" for oil and gas. A "record backlog" suggests sustained forward momentum.
+
+**Labor & Wages**
+The company is experiencing moderate upward pressure on labor costs. Operating profit was partially offset by higher "selling, general and administrative (SG&A) and research and development (R&D) expenses," which were "primarily driven by higher compensation expenses."
+
+**Pricing Power & Inflation**
+Caterpillar maintains strong pricing power, reporting "favorable price realization of $426 million" contributing to total sales. However, this is being countered by persistent inflationary pressures in the supply chain; the company reported "unfavorable manufacturing costs of $710 million," which "largely reflected the impact of higher tariff costs."
+
+**Supply Chain & Inventory**
+Inventory levels are increasing. Higher sales volume was "mainly driven by the impact from changes in dealer inventories," noting that "dealer inventory increased more during the first quarter of 2026 than during the first quarter of 2025."
+
+**Capital Spending (Capex)**
+The provided text does not specify new facility investments or specific Capex dollar amounts for future capacity; however, it notes a strategic focus on "solving our customers toughest challenges" and continued investment in R&D.

@@ -1,0 +1,22 @@
+Ticker: CTSH
+Source: CTSH_2026-04-29.txt
+Generated: 2026-05-03 23:04 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Cognizant (CTSH)**
+
+**1. Demand & Activity:**
+Demand is showing **moderate** growth, though the environment remains "complex" ("In a complex macroeconomic environment"). Revenue increased 5.8% year-over-year, with **robust** momentum in bookings, which grew 21% in Q1 ("strong bookings growth of 21%"). Activity is particularly strong in the Financial Services sector ("Financial Services again leading performance") and large-scale contracts, with seven deals exceeding $100 million signed in the first quarter ("seven large deals signed in the first quarter 2026").
+
+**2. Labor & Wages:**
+Labor trends are mixed, characterized by a **modest** increase in total headcount alongside a strategic shift toward workforce reduction and re-skilling. Headcount rose by 6,000 since December 2025 ("increase of 6,000 from December 31, 2025"). However, the company is implementing "Project Leap" to ensure the workforce is "properly sized" ("fostering a workforce that is properly sized"), which includes expected employee severance costs of $200 million to $270 million ("$200 million to $270 million of employee severance and other personnel related costs"). Voluntary attrition remains **stable** at 12.3% ("Voluntary Attrition - Tech Services was 12.3%").
+
+**3. Pricing Power & Inflation:**
+The report does not explicitly mention price hikes or commodity inflation. However, the company is focusing on "AI-led efficiencies" to drive margin expansion ("enhance productivity through AI-led efficiencies"), suggesting a shift toward value-based productivity rather than simple price increases to offset costs.
+
+**4. Supply Chain & Inventory:**
+Not applicable. As a technology services provider, the company does not report physical inventory or traditional supply chain lead times.
+
+**5. Capital Spending (Capex):**
+Investment is focused on **robust** technology upgrades and AI infrastructure. The company is funding "continued investments in AI, competitive offerings and the re-skilling of our workforce" ("funding continued investments in AI"). Specific investments include the "Cognizant AI Factory," a partnership with Dell and NVIDIA to scale AI infrastructure ("launch of Cognizant AI Factory... powered by Dell Technologies and NVIDIA AI infrastructure").

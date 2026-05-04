@@ -1,0 +1,17 @@
+Ticker: BA
+Source: BA_2026-04-22.txt
+Generated: 2026-05-03 22:51 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Boeing (BA)**
+
+**Demand & Activity:** Robust. Total company backlog has reached a record $695 billion ("Total company backlog grew to a record $695 billion"). Demand is strong across all segments, with commercial airplane backlog exceeding 6,100 aircraft ("backlog included over 6,100 airplanes valued at a record $576 billion"). Activity is increasing, evidenced by a 14% year-over-year revenue increase ("First Quarter 2026 Revenue increased to $22.2 billion") and higher commercial delivery volumes ("Results primarily reflect higher commercial delivery volume").
+
+**Labor & Wages:** Not mentioned. The provided text contains no specific data regarding hiring, turnover, or wage pressures.
+
+**Pricing Power & Inflation:** Stable. There are no explicit mentions of price hikes or inflationary input cost pressures. The company noted "improved operational performance" and "stabilizing operational performance" in the Defense segment, though specific commodity or freight trends were not disclosed.
+
+**Supply Chain & Inventory:** Moderate improvement. The company is focused on "increasing production to uphold our customer commitments" and is stabilizing specific lines, such as the 787 program ("787 program continued stabilizing production at eight per month"). The 737 program is maintaining a steady output ("737 program continues to produce at a 42 per month rate").
+
+**Capital Spending (Capex):** Robust. Capital expenditures increased significantly year-over-year, rising from $674 million to $1.275 billion ("Additions to property, plant equipment ($1,275) ($674)"). These investments are primarily directed toward expanding physical capacity at key manufacturing hubs ("primarily reflects higher investments in Charleston and Saint Louis sites").

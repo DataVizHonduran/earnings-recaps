@@ -1,0 +1,22 @@
+Ticker: NUE
+Source: NUE_2026-04-27.txt
+Generated: 2026-05-03 23:42 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Nucor Corp (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by strong momentum across key end markets. The steel mills segment achieved a "new quarterly shipment record" ("steel mills segment achieving a new quarterly shipment record"), with growth observed across all product groups. Management expects this activity to persist into Q2, forecasting "stable volumes" for steel mills and "higher volumes" for steel products ("higher volumes on stable pricing").
+
+**2. Labor & Wages**
+Not addressed in the provided text.
+
+**3. Pricing Power & Inflation**
+Nucor is exercising moderate to robust pricing power. Q1 earnings were driven by "higher average selling prices" in both the steel mills and raw materials segments ("experienced higher average selling prices and volumes across all product groups"). This trend is expected to continue into Q2, with projections of "higher realized selling prices" for steel mills and "higher realized pricing" for raw materials ("expected increase is due to higher realized selling prices").
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory levels, though it notes that federal trade policies are effectively "reducing the flood of unfairly traded imports into the United States" ("federal trade policies that continue to reduce the flood of unfairly traded imports").
+
+**5. Capital Spending (Capex)**
+The company is seeing positive returns from ongoing investments, noting "growing contributions from recent capital investments" ("driven by... growing contributions from recent capital investments"). While specific future dollar amounts are not listed, the company remains "committed to executing our growth strategy" ("committed to executing our growth strategy").

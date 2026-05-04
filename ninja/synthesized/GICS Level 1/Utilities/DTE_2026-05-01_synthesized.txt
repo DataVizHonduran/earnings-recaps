@@ -1,0 +1,22 @@
+Ticker: DTE
+Source: DTE_2026-05-01.txt
+Generated: 2026-05-03 23:08 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided financial statements for DTE Gas Company (Q1 2026), the following economic signals are identified:
+
+**1. Demand & Activity**
+Demand appears **moderate** to **growing**. Operating revenues increased from $868 million in Q1 2025 to $923 million in Q1 2026 ("Operating Revenues $ 923 $ 868"). The company continues to serve a stable customer base of approximately 1.4 million customers throughout Michigan ("sale of natural gas to approximately 1.4 million customers throughout Michigan").
+
+**2. Labor & Wages**
+The provided financial statements contain no specific commentary regarding hiring difficulty, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is experiencing **moderate** input cost pressure. The cost of gas rose from $326 million to $373 million year-over-year ("Cost of gas 373 326"). However, the company utilizes a regulatory mechanism to mitigate these costs, specifically a "Gas Cost Recovery mechanism authorized by the MPSC that allows DTE Gas to recover through rates its natural gas costs."
+
+**4. Supply Chain & Inventory**
+Inventory levels for gas appear **lean** compared to the prior year, dropping from $45 million to $11 million ("Inventories Gas 11 45"). Materials and supplies inventory remains **stable** at $39 million versus $38 million ("Materials and supplies 39 38").
+
+**5. Capital Spending (Capex)**
+Investment in infrastructure is **robust** and increasing. Plant and equipment expenditures rose from $125 million in Q1 2025 to $166 million in Q1 2026 ("Plant and equipment expenditures (166) (125)"). This is further supported by an increase in the total net property, plant, and equipment book value to $7.22 billion ("Property, plant, and equipment 9,321... Accumulated depreciation and amortization (2,098) 7,223").

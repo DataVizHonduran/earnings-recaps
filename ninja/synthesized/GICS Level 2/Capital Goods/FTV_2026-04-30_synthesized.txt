@@ -1,0 +1,22 @@
+Ticker: FTV
+Source: FTV_2026-04-30.txt
+Generated: 2026-05-03 23:16 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Fortive Corp (FTV)**
+
+**1. Demand & Activity**
+Demand is moderate to robust, with core revenue growing 5.3% year-over-year. Management attributes this to "underlying strength in demand for our market-leading products." Growth is distributed across both primary segments: Intelligent Operating Solutions (5.2% core growth) and Advanced Healthcare Solutions (5.8% core growth).
+
+**2. Labor & Wages**
+The provided text contains no specific updates on current hiring, turnover, or wage trends. The company maintains a global workforce of "more than 10,000 research and development, manufacturing, sales, distribution, service, and administrative team members."
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail recent price hikes or specific input cost relief. However, the company notes "commodity costs and surcharges" as a general risk factor in its forward-looking statements. Profitability improved, with adjusted EBITDA margins expanding to 29.3% ("up 140 bps").
+
+**4. Supply Chain & Inventory**
+Current inventory levels and lead times are not specifically quantified. The company lists "supply chain constraints" and "reliance on sole sources of supply" as ongoing risk factors that could impact its "ability to adjust purchases and manufacturing capacity to reflect market conditions."
+
+**5. Capital Spending (Capex)**
+The company is focused on "disciplined capital allocation" as part of its "Fortive Accelerated strategy." While specific facility spend is not detailed, the strategy emphasizes "best relative returns" and "profitable organic growth acceleration."

@@ -1,0 +1,22 @@
+Ticker: T
+Source: T_2026-04-22.txt
+Generated: 2026-05-04 00:03 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: AT&T (T)**
+
+**1. Demand & Activity**
+Demand for advanced connectivity is robust, characterized by the "fastest-ever year-over-year organic growth" in convergence rates, with 45% of home internet subscribers also utilizing wireless services. The company reported its "best first quarter ever" for advanced connectivity internet net additions (584,000 total). Conversely, demand for legacy services is softening, with a "decline in Legacy service revenue of 20%+" attributed to the decommissioning of copper-based networks and "lower demand for virtual private network and wholesale services."
+
+**2. Labor & Wages**
+Not addressed in the provided text.
+
+**3. Pricing Power & Inflation**
+The company is seeing moderate revenue growth in wireless and fiber, though wireless service revenue was "partially offset by the amortization of promotional activity." Input costs show mixed signals; operating expenses saw a "slight decline" due to lower depreciation and transformation cost reductions, but were offset by "higher network costs" and increased "bad debt expenses" linked to higher wireless sales volumes.
+
+**4. Supply Chain & Inventory**
+Not explicitly addressed, though higher "wireless device sales volumes" suggest stable equipment availability to meet consumer demand.
+
+**5. Capital Spending (Capex)**
+Capital investment remains aggressive to expand infrastructure. Q1 capital investment was $5.1 billion, reflecting a strategy to "accelerate the pace of its fiber deployment." The company maintains a robust investment outlook, projecting full-year 2026 capital investment in the "$23 billion to $24 billion range" to reach a target of over 40 million fiber locations by year-end.

@@ -1,0 +1,25 @@
+Ticker: APA
+Source: APA_2026-04-14.txt
+Generated: 2026-05-03 22:40 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: APA Corp (Q1 2026)**
+
+**1. Demand & Activity**
+Demand for U.S. natural gas is softening, leading to moderate operational contractions. The company actively reduced output in response to pricing pressures at the Waha hub ("APA curtailed approximately 88 MMcf d of U.S. natural gas production... in response to weak or negative Waha hub prices").
+
+**2. Labor & Wages**
+Not addressed. The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+Pricing is bifurcated by geography. U.S. natural gas pricing is severely depressed, while international oil prices remain robust.
+*   **U.S. Natural Gas:** Negative realized prices ("Natural Gas (Mcf) United States $(0.35)").
+*   **International Oil:** Stronger realized pricing ("International [Oil] $85.70").
+*   **Input Costs:** Dry hole costs are noted at "$11 million," though no trend relative to inflation was provided.
+
+**4. Supply Chain & Inventory**
+Not addressed. The provided text contains no mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Specific expenditure figures were not disclosed in the supplemental guide, though the company references the existence of ongoing "capital plans, drilling plans, [and] production expectations" within its forward-looking statements.

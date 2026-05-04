@@ -1,0 +1,22 @@
+Ticker: DGX
+Source: DGX_2026-04-21.txt
+Generated: 2026-05-03 23:06 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Quest Diagnostics (DGX)**
+
+**1. Demand & Activity:**
+Demand is robust, characterized by strong organic growth. Requisition volume grew by 10.9% ("Requisition volume 10.9%"), with particular strength in the consumer channel ("Grew revenues robustly across the consumer channel") and double-digit growth in Advanced Diagnostics, specifically for Alzheimer’s and cardiometabolic testing ("Generated double-digit revenue growth in several areas of Advanced Diagnostics").
+
+**2. Labor & Wages:**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation:**
+Pricing power appears to be softening slightly, as the company experienced a modest decline in revenue per requisition ("Revenue per requisition (1.3)%"). There is no specific commentary on input cost relief or inflationary pressures on commodities and freight.
+
+**4. Supply Chain & Inventory:**
+Inventory levels have increased moderately, rising from $189 million to $225 million year-over-year ("Inventories 225 [vs] 189"). There are no mentions of lead time volatility or supply chain disruptions.
+
+**5. Capital Spending (Capex):**
+Capital spending remains stable. Quarterly capex was $114 million, a slight decrease from $117 million in the prior year ("Capital expenditures $114 [vs] $117"). Full-year guidance for capex remains unchanged at approximately $550 million ("Capital expenditures Approximately $550 million"). The company is investing in long-term digital transformation via "Project Nova" to overhaul order-to-cash systems ("transform our order-to-cash processes and systems").

@@ -1,0 +1,22 @@
+Ticker: VLTO
+Source: VLTO_2026-04-28.txt
+Generated: 2026-05-04 00:06 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Veralto Corp (VLTO)**
+
+**1. Demand & Activity**
+Demand is modest but showing signs of acceleration. The company reports a "strong start" to the year, supported by the "resilience of our end markets" ("resilience of our end markets"). Core sales grew 1.9% in Q1, with management expecting this growth to "accelerate as the year progresses" ("expect core sales growth to accelerate as the year progresses").
+
+**2. Labor & Wages**
+No specific mentions of wage inflation, hiring difficulties, or headcount reductions. The company maintains a global workforce of "approximately 17,000 associates" ("global team of approximately 17,000 associates").
+
+**3. Pricing Power & Inflation**
+The company is focused on "productivity and innovation" to drive earnings ("invest in commercial execution, productivity and innovation"). While specific pricing actions aren't detailed, the company is aggressively pursuing a "cost optimization program" to "streamline business processes and enhance operating efficiency" ("initiated cost optimization program... to streamline business processes"), suggesting a focus on internal efficiency to protect margins.
+
+**4. Supply Chain & Inventory**
+No specific commentary provided regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment activity is robust, primarily directed toward inorganic growth and operational efficiency. The company has already allocated $1 billion year-to-date, including "strategic acquisitions of In-Situ and GlobalVision" ("Completed strategic acquisitions of In-Situ and GlobalVision... for $620 million"). Additionally, the company is investing in a restructuring effort expected to cost between "$85 to $105 million" ("expect to incur a charge of $85 to $105 million") to yield long-term annual savings.

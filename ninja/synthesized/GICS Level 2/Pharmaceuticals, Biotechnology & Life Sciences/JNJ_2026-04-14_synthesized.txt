@@ -1,0 +1,22 @@
+Ticker: JNJ
+Source: JNJ_2026-04-14.txt
+Generated: 2026-05-03 23:26 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Johnson & Johnson (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is **robust**, characterized by accelerated growth across key segments. Worldwide operational sales grew 6.4% ("operational growth of 6.4%"), with **moderate** growth in MedTech (4.6%) and **stronger** growth in Innovative Medicine (7.4%). Geographically, international demand is **robust** (11.9% reported growth), while U.S. demand remains **stable to moderate** (8.3% reported growth). Growth is primarily driven by oncology and cardiovascular portfolios ("driven primarily by DARZALEX... and Shockwave in Cardiovascular").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, wage pressures, or headcount adjustments.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail pricing actions or input cost inflation. However, the company has raised its full-year 2026 sales guidance to $100.8 billion ("Company increases 2026 guidance"), suggesting confidence in revenue trajectories and pricing stability.
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific commentary regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment in capacity is **robust**, specifically targeting high-tech manufacturing. The company is executing a significant expansion of its domestic footprint via a "more than $1 Billion Investment in Next Generation Cell Therapy Manufacturing Facility in Pennsylvania."

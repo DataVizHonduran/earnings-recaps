@@ -1,0 +1,22 @@
+Ticker: PRU
+Source: PRU_2026-04-21.txt
+Generated: 2026-05-03 23:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Prudential Financial (PRU)**
+
+**1. Demand & Activity**
+Activity in the Japanese life insurance segment is currently suspended. The company has extended a voluntary halt on new sales for an additional 180 days, indicating a significant operational disruption in that specific geographic market ("voluntarily extend the suspension of new sales activity at Prudential of Japan by an additional 180 days"). Demand for existing policies remains stable ("servicing of in-force policies remain unaffected").
+
+**2. Labor & Wages**
+No mentions of general wage inflation or hiring difficulty. However, the company is implementing moderate structural changes to its sales force and incentive structures in Japan to address governance and conduct ("transform the captive Life Planner model to better align incentives and decision-making with customer interests").
+
+**3. Pricing Power & Inflation**
+Not addressed. The provided text focuses on regulatory and operational remediation rather than pricing or input cost pressures.
+
+**4. Supply Chain & Inventory**
+Not applicable.
+
+**5. Capital Spending (Capex)**
+The company is directing resources toward operational and technological modernization of its legacy systems in Japan ("advancement of changes to certain critical aspects of POJ s legacy management system"). While specific dollar amounts are not provided, the parent company is providing "full support and resources" to facilitate these reforms.

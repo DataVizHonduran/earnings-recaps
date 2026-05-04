@@ -1,0 +1,22 @@
+Ticker: PKG
+Source: PKG_2026-04-23.txt
+Generated: 2026-05-03 23:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided document, there is insufficient data to provide a comprehensive economic analysis. The text is a partial press release containing only the introductory financial summary for the first quarter of 2026.
+
+**1. Demand & Activity**
+* **Robust:** Net sales grew from $2.1 billion in Q1 2025 to $2.4 billion in Q1 2026 ("First quarter net sales were $2.4 billion in 2026 and $2.1 billion in 2025").
+
+**2. Labor & Wages**
+* No data provided in the text.
+
+**3. Pricing Power & Inflation**
+* No data provided in the text.
+
+**4. Supply Chain & Inventory**
+* No data provided in the text.
+
+**5. Capital Spending (Capex)**
+* No data provided in the text.

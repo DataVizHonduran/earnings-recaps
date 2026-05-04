@@ -1,0 +1,9 @@
+Ticker: ZBH
+Source: ZBH_2026-04-28.txt
+Generated: 2026-05-04 00:13 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided document, there is insufficient data to perform the requested analysis. The attached text is a **Press Release header/contact page** (Exhibit 99.1) containing only corporate addresses and media/investor contact information.
+
+The document does not contain the earnings transcript, financial results, or management commentary necessary to identify economic signals regarding demand, labor, pricing, supply chain, or capital spending.

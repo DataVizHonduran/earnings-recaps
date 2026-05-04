@@ -1,0 +1,22 @@
+Ticker: AVB
+Source: AVB_2026-04-28.txt
+Generated: 2026-05-03 22:41 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: AvalonBay Communities (AVB)**
+
+**1. Demand & Activity**
+Demand appears stable to modestly growing. Same Store Residential revenue saw a slight increase of 1.6% ("Same Store Residential revenue increased $11,053,000, or 1.6%"). Activity is supported by ongoing expansion in the Southeast, specifically North Carolina, with the completion of a 345-unit project ("completed the development of Avalon Lake Norman, located in Mooresville, NC").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+Pricing power is modest, as revenue growth is being offset by higher operating costs. Same Store Residential operating expenses grew at a faster rate than revenue, increasing by 4.7% ("Same Store Residential operating expenses increased $9,966,000, or 4.7%"). However, there is a signal of softening expense pressure moving into Q2, with management noting "lower than anticipated operating expenses" contributing to favorable variances.
+
+**4. Supply Chain & Inventory**
+Not explicitly discussed in terms of lead times or materials. However, the company continues to bring new supply to market, with 25 communities currently under construction ("the Company had 25 wholly-owned Development communities under construction").
+
+**5. Capital Spending (Capex)**
+Investment in capacity remains robust. The company is actively expanding its footprint with significant capital commitments, including the start of two new projects in New Jersey with an estimated cost of $188 million ("started the construction of two apartment communities... for an estimated Total Capital Cost of $188,000,000"). Total estimated capital costs for the current development pipeline are substantial at $3.39 billion ("Estimated Total Capital Cost for these communities is $3,390,000,000").

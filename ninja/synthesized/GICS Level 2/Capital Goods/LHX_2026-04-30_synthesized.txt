@@ -1,0 +1,22 @@
+Ticker: LHX
+Source: LHX_2026-04-30.txt
+Generated: 2026-05-03 23:29 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: L3Harris Technologies (LHX)**
+
+**1. Demand & Activity**
+Demand is robust and accelerating, driven by a "dynamic global environment" ("demand is accelerating and the future of warfare is driving near-term operational priorities"). Growth is broad-based across all segments, with organic revenue increasing 15% ("driven by growth across all segments reflecting new program ramps and increased international volume"). Specific strength is noted in ISR business for classified/international aircraft, night vision devices, and missile/munition programs prioritized by the Department of War ("higher production volumes across key missile and munition programs").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is seeing moderate margin expansion, though not explicitly linked to price hikes. Operating margins improved by 120 bps, supported by "improved program performance" and "higher monetization of legacy assets." However, some pressure persists from "increased investments in go-to-market activities and research and development."
+
+**4. Supply Chain & Inventory**
+Inventory levels appear stable, with a slight increase from $1.219 billion to $1.234 billion. While the company lists "supply chain disruptions" as a general risk factor in its forward-looking statements, current activity is characterized by "material procurement in support of classified contracts" to meet ramping demand.
+
+**5. Capital Spending (Capex)**
+Capex is moderate but steady. First-quarter capital expenditures were $99 million ("Capital expenditures were ($99) million"), with full-year 2026 expenditures anticipated to be approximately $600 million ("capital expenditures are anticipated to be approximately $600M").

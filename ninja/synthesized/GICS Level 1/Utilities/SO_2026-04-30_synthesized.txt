@@ -1,0 +1,22 @@
+Ticker: SO
+Source: SO_2026-04-30.txt
+Generated: 2026-05-03 23:55 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Southern Company (SO)**
+
+**1. Demand & Activity**
+Demand is characterized by robust long-term growth projections, though short-term activity was tempered by weather. Management notes a specific surge in electricity demand driven by "data centers and other large load customers" ("projected significant growth in electricity demand driven primarily by data centers"). However, first-quarter results were "partially offset by milder than normal weather at the regulated electric utilities."
+
+**2. Labor & Wages**
+The company identifies ongoing risks related to labor availability and cost. Potential headwinds include "challenges which include... changes in labor costs, availability, and productivity" and "shortages, delays, increased costs, or inconsistent quality of... labor."
+
+**3. Pricing Power & Inflation**
+The company is experiencing higher revenues but faces persistent inflationary and financing pressures. While focusing on "keeping rates stable," the company explicitly cites risks from "the impacts of inflation and trade policies (including tariffs)" and "increased financing costs as a result of changes in interest rates."
+
+**4. Supply Chain & Inventory**
+Supply chain conditions remain a point of vulnerability, particularly regarding specialized equipment. The company notes potential for "shortages, delays, increased costs... of equipment [and] materials" as well as "contractor or supplier delay."
+
+**5. Capital Spending (Capex)**
+Capex remains robust as the company invests in capacity to meet regional growth. Management is "re investing in the infrastructure needed to support that growth" ("substantial new generation and transmission investments") to ensure reliability for a growing customer base.

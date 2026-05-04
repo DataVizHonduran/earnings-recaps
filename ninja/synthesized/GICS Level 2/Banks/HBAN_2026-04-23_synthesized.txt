@@ -1,0 +1,22 @@
+Ticker: HBAN
+Source: HBAN_2026-04-23.txt
+Generated: 2026-05-03 23:21 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Huntington Bancshares (HBAN)**
+
+**1. Demand & Activity**
+Demand for credit is robust, though heavily influenced by recent acquisitions. Total loans and leases grew 33% year-over-year ("Average total loans and leases increased... $43.4 billion, or 33%, from the year-ago quarter"). Growth is particularly strong in the commercial sector, with commercial loans increasing 46% year-over-year ("Average commercial loans grew... $34.0 billion, or 46%, from the year-ago quarter"). Management notes that recent partnerships are creating "growth opportunities across Texas and the South." However, the broader environment is characterized by "relative economic uncertainty."
+
+**2. Labor & Wages**
+Not addressed. The transcript does not provide specific data on hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is experiencing modest relief in funding costs, which has bolstered margins. The net interest margin (NIM) increased by 14 basis points year-over-year to 3.24%, a trend "largely reflected a decrease in funding costs" ("The 14 basis point increase in NIM largely reflected a decrease in funding costs"). This suggests a softening of the pressure to raise deposit rates to attract funding.
+
+**4. Supply Chain & Inventory**
+Not applicable. (Financial services provider).
+
+**5. Capital Spending (Capex)**
+Investment is currently focused on technology and systems integration following M&A activity. The company is executing a "systems conversion of Veritex Holdings" and is "on schedule for a Cadence conversion in June." These efforts are aimed at achieving "committed expense and revenue synergies."

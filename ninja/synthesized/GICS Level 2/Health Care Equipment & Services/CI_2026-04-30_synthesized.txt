@@ -1,0 +1,22 @@
+Ticker: CI
+Source: CI_2026-04-30.txt
+Generated: 2026-05-03 23:00 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: The Cigna Group (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is moderate to robust across diversified segments, though mixed by product line. Total revenues grew 5% ("Total revenues for the first quarter 2026 increased 5%"). Growth was driven by "strong specialty volume growth" in Specialty and Care Services and medical customer growth in "Middle, Select, and International markets." Conversely, activity softened in pharmacy services, with total pharmacy customers decreasing 2% due to "expected client transitions and lower membership from health plan clients."
+
+**2. Labor & Wages**
+The report does not explicitly detail hiring or wage trends; however, it notes "improved operating efficiency" contributing to a lower SG&A expense ratio (4.8% vs 5.8% in Q1 2025).
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate pricing power to offset inflationary medical pressures. Revenue growth in Cigna Healthcare (excluding divestitures) was "primarily driven by premium rate increases to cover expected increases in medical costs." Additionally, the company is leveraging "increased generic and biosimilar adoption" to lower costs for clients and patients.
+
+**4. Supply Chain & Inventory**
+Not applicable. (No mentions of lead times or physical inventory levels).
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for Capex are not provided, the company is actively investing in "innovation and technology to make [health care] more personalized, more transparent and easier to navigate."

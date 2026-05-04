@@ -1,0 +1,22 @@
+Ticker: ABT
+Source: ABT_2026-04-16.txt
+Generated: 2026-05-03 22:34 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Abbott Laboratories (1Q26)**
+
+**1. Demand & Activity**
+Demand is mixed across business segments. Medical Devices and Established Pharmaceuticals show **robust** growth, particularly in international markets ("International [Medical Devices] 18.0%," "International [Established Pharmaceuticals] 13.2%"). Diagnostics demand is **stable** overall, though it faces a **softening** in respiratory virus testing due to a "weaker respiratory virus season compared to the prior year." Nutrition demand is **declining**, with a **moderate** contraction in worldwide comparable sales ("Worldwide Nutrition sales decreased... 7.7 percent on a comparable basis").
+
+**2. Labor & Wages**
+No specific mentions of hiring difficulties, turnover, or wage pressures were provided in the report. The company notes a total workforce of "122,000 colleagues."
+
+**3. Pricing Power & Inflation**
+The company is utilizing strategic pricing to stimulate demand in lagging segments. In Nutrition, "strategic pricing actions implemented in the fourth quarter of 2025" are expected to "contribute to improved volume growth over the course of the year." There were no mentions of persistent input cost inflation or commodity relief.
+
+**4. Supply Chain & Inventory**
+The provided text contains no data regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+While specific facility spend is not detailed, the company is investing heavily in growth through M&A and R&D. This includes the "acquisition of Exact Sciences" to enter the oncology diagnostics market and collaborations to develop "next-generation" medical devices, such as the "extravascular implantable cardioverter (EV-ICD) system."

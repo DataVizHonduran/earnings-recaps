@@ -1,0 +1,22 @@
+Ticker: PWR
+Source: PWR_2026-04-30.txt
+Generated: 2026-05-03 23:50 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Quanta Services (PWR)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by "strong double-digit growth in revenue" and a "record backlog of $48.5 billion." Activity is driven by the "accelerating convergence" of utility, generation, and large-load markets, which the company views as a massive long-term opportunity ("total addressable market of $2.4 trillion through 2030").
+
+**2. Labor & Wages**
+The company relies heavily on a "craft-skilled workforce" to provide "execution certainty" for customers. While specific wage figures were not disclosed, the company emphasizes its "craft-labor platform" as a primary competitive advantage in meeting current demand.
+
+**3. Pricing Power & Inflation**
+The company reports strong margin performance, though it remains cautious regarding macroeconomic headwinds. Management continues to monitor "future uncertainty associated with overall challenges to the domestic and global economy, including inflation" and "interest rates."
+
+**4. Supply Chain & Inventory**
+Supply chain conditions remain a point of volatility. Management noted that "supply chain challenges and other factors affecting project timing and execution have impacted, and may impact in the future, Quanta’s financial results." To mitigate these risks, the company has made strategic "supply chain investments."
+
+**5. Capital Spending (Capex)**
+The company is pursuing an aggressive growth strategy through both internal investment and M&A, having "completed eight acquisitions during the full year 2025." Future spending is aligned with a "Compounding Model" intended to more than double adjusted EPS by 2030.

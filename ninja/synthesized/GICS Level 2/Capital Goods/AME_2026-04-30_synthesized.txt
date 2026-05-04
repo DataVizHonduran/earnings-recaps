@@ -1,0 +1,15 @@
+Ticker: AME
+Source: AME_2026-04-30.txt
+Generated: 2026-05-03 22:37 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Demand is robust and broad-based, characterized by "record orders up 23% in the quarter" and a "record backlog." Growth is evident across both primary segments, with the Electronic Instruments Group seeing "double-digit growth" and the Electromechanical Group experiencing "continued robust and broad-based organic sales growth."
+
+**Labor & Wages:** Not addressed.
+
+**Pricing Power & Inflation:** The company is demonstrating strong pricing power or operational efficiency, evidenced by "robust core margin expansion of 160 basis points." While specific commodity price trends were not detailed, the company noted that "disciplined operating performance drove core margins up" in its EIG segment.
+
+**Supply Chain & Inventory:** Inventory levels appear stable, increasing modestly from $1.11 billion to $1.14 billion year-over-year. The company continues to monitor "supply chain disruptions, tariffs, trade disputes" as general risk factors, but current activity is supported by a "record backlog."
+
+**Capital Spending (Capex):** The company is prioritizing inorganic growth, stating that its balance sheet provides "meaningful capital to deploy on strategic acquisitions." There are no specific mentions of new facility expenditures, though the company lists the ability to "open new facilities" as a general operational capability.

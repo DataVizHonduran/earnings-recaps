@@ -1,0 +1,22 @@
+Ticker: PGR
+Source: PGR_2026-04-15.txt
+Generated: 2026-05-03 23:46 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Progressive Corp (PGR)**
+
+**1. Demand & Activity**
+Demand is growing robustly across most segments. Companywide Net Premiums Written (NPW) grew 6% year-to-date and 10% in March. Growth is most pronounced in Personal Lines, specifically Direct Auto, which saw a 12% increase in policies in force ("Direct auto 16,572 [vs] 14,771"). Commercial Lines activity remains stable with modest growth in policies in force ("Commercial Lines 1,196 [vs] 1,162").
+
+**2. Labor & Wages**
+The provided report contains no specific mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate pricing power and improving underwriting efficiency. The companywide combined ratio improved to 86.4% year-to-date from 86.0% in the prior year, with a significant monthly improvement in March to 88.8% compared to 90.9% ("Combined ratio 88.8 90.9 (-2.1) pts"). Loss and Loss Adjustment Expense (LAE) ratios remain stable, suggesting that pricing is keeping pace with inflation.
+
+**4. Supply Chain & Inventory**
+Not applicable. (No mentions of physical supply chain or inventory levels).
+
+**5. Capital Spending (Capex)**
+The report does not detail specific future capital expenditures for facilities or technology. Investment activity is focused on the securities portfolio, with a pretax annualized investment income book yield of 4.2% ("Pretax annualized investment income book yield 4.2%").

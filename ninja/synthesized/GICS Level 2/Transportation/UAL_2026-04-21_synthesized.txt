@@ -1,0 +1,22 @@
+Ticker: UAL
+Source: UAL_2026-04-21.txt
+Generated: 2026-05-04 00:03 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: United Airlines (UAL)**
+
+**1. Demand & Activity**
+Demand remains **robust**, with the company reporting its "highest-revenue first quarter ever" and carrying the "most passengers in a first quarter in its history." Growth is broad-based, with "positive PRASM growth in every region" (Domestic, Atlantic, Pacific, and Latin America). Specific product lines show strong momentum, particularly premium revenue (up 14%) and loyalty revenue (up 13%).
+
+**2. Labor & Wages**
+Labor costs are trending upward following a "tentative agreement with the Association of Flight Attendants," which, if ratified, will provide 30,000 flight attendants with "industry-leading wages" and "better scheduling."
+
+**3. Pricing Power & Inflation**
+The company demonstrates **moderate** pricing power, evidenced by a 6.9% increase in total revenue per available seat mile (TRASM). However, this is being offset by **persistent** inflationary pressure from energy costs. Management cited "escalating fuel expense" and a "$340 million increase in fuel expense compared to the first quarter of 2025," noting that "oil prices remain volatile and elevated."
+
+**4. Supply Chain & Inventory**
+Not explicitly detailed regarding parts/freight, but capacity management is being used as a tactical lever to counter input costs. The company is implementing a "5-point capacity reduction versus its original plan" for the remainder of the year to account for fuel volatility.
+
+**5. Capital Spending (Capex)**
+Investment in capacity and technology remains **robust**. UAL expects to "take delivery of more than 250 new aircraft by April 2028." Additionally, the company is investing in fleet-wide technology upgrades, with "Starlink installations" expected to be complete "by the end of 2027."

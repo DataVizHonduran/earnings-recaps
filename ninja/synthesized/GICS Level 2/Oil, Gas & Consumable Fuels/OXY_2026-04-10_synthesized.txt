@@ -1,0 +1,22 @@
+Ticker: OXY
+Source: OXY_2026-04-10.txt
+Generated: 2026-05-03 23:45 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided earnings considerations document, the available "ground truth" economic signals are limited, as the text consists primarily of a pricing table and standard legal risk disclosures rather than a management discussion.
+
+**1. Demand & Activity**
+Activity levels are not explicitly detailed, though the company notes potential risks from "general economic conditions, including slowdowns and recessions" and "supply and demand considerations" ("general economic conditions, including slowdowns and recessions, domestically or internationally").
+
+**2. Labor & Wages**
+No specific data on current wage trends or headcount was provided; however, the company identifies "supply, transportation and labor constraints" as a general risk factor to its operations ("supply, transportation and labor constraints").
+
+**3. Pricing Power & Inflation**
+Realized prices for the first quarter of 2026 show a moderate gap between realized and index prices. Worldwide oil realized at 97% of WTI and 90% of Brent ("Worldwide oil as a percentage of average WTI 97 %"). Domestic natural gas realized significantly lower than the index at 26% of NYMEX ("Domestic natural gas as a percentage of average NYMEX 26 %"). Inflation is cited as a persistent risk regarding its "impact on markets and economic activity" ("inflation, its impact on markets and economic activity").
+
+**4. Supply Chain & Inventory**
+The report does not provide specific inventory levels or lead times, but it lists "disruptions to, capacity constraints in, or other limitations on the pipeline systems" as a potential operational headwind ("disruptions to, capacity constraints in, or other limitations on the pipeline systems").
+
+**5. Capital Spending (Capex)**
+Specific spending figures are absent, but the company highlights the importance of "levels of capital expenditures" and the ability to "successfully complete... field developments, expansion projects, [and] capital expenditures" to meet its objectives ("levels of capital expenditures and contractual obligations").

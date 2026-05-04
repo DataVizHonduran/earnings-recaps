@@ -1,0 +1,22 @@
+Ticker: CARR
+Source: CARR_2026-04-30.txt
+Generated: 2026-05-03 22:56 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Carrier Global Corp (CARR)**
+
+**1. Demand & Activity**
+Demand is mixed, characterized by robust growth in specialized sectors and softening in residential markets. Data center orders saw an exceptional surge ("up over 500%"), and Commercial HVAC orders grew moderately ("increased 35%"). Conversely, residential demand is softening, particularly in the Americas ("Residential, down about 12%") and China ("continued headwinds in China Residential and Light Commercial"). Transport demand is bifurcated, with robust growth in containers ("38% growth in Container") but a moderate decline in truck and trailer ("down high-single digits").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+Pricing power appears limited in certain segments, as evidenced by the use of "higher promotions" to drive volume in Europe. While the company mentions general "inflationary cost pressures" in its risk disclosures, the primary driver of margin compression in the Americas was not input inflation, but rather "factory under-absorption" resulting from lower residential sales.
+
+**4. Supply Chain & Inventory**
+The report does not provide specific lead-time data; however, the Commercial HVAC segment maintains a robust pipeline, noting a "strong double-digit sequential increase in Commercial HVAC backlog" which is expected to sustain growth through 2026.
+
+**5. Capital Spending (Capex)**
+Capital investment remains stable but significant, with first-quarter expenditures totaling $94 million ("capital expenditures were $94 million"). The company continues to invest in its portfolio transformation and capacity to meet the surge in data center demand.

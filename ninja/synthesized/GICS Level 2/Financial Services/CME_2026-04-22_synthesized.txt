@@ -1,0 +1,22 @@
+Ticker: CME
+Source: CME_2026-04-22.txt
+Generated: 2026-05-03 23:01 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: CME Group (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is **robust**, characterized by record-breaking participation across all asset classes. Average daily volume (ADV) grew by 22% to 36.2 million contracts ("Robust demand for our products drove Q1 average daily volume up 22%"). Growth is particularly strong in non-U.S. markets, with a **moderate to robust** increase in international activity, specifically in APAC (+33%) and EMEA (+29%) ("Non-U.S. ADV was a record 11.4 million contracts, up 30%").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company demonstrates **stable** pricing power, reporting record revenues from clearing, transaction fees, and market data ("Clearing and transaction fees revenue for first-quarter 2026 totaled a record $1.5 billion"). While specific price hike announcements are absent, the average rate per contract is noted at $0.652.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a financial exchange, the company does not maintain physical inventories. However, it notes a reliance on third-party technology providers as a potential risk factor ("disruption at one of our suppliers").
+
+**5. Capital Spending (Capex)**
+Investment is focused on **moderate** technological modernization and product expansion. The company is currently managing a transition to cloud infrastructure ("CME Group’s transition to the Google Cloud") and intends to continue investing in "innovation" and the "range of products and services" to maintain competitiveness.

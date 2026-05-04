@@ -1,0 +1,22 @@
+Ticker: XYL
+Source: XYL_2026-04-28.txt
+Generated: 2026-05-04 00:12 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Xylem Inc. (XYL)**
+
+**Demand & Activity**
+Demand is stable to modest. Organic orders and revenue remained flat during the first quarter ("Orders of $2.2 billion... flat organically"), though management notes "sustained momentum and solid demand across key end markets." The full-year revenue outlook has been slightly revised upward to 2%–3% on a reported basis ("up approximately 2 to 3 percent on a reported basis, versus 1 to 3 percent previously guided").
+
+**Labor & Wages**
+The company is undergoing a "multi-year operating transformation" characterized by "restructuring and realignment costs." While specific wage data is absent, the company identifies "labor shortages" and the "ability to retain, compete for and attract leadership" as ongoing risk factors.
+
+**Pricing Power & Inflation**
+Xylem demonstrates robust pricing power, which is currently offsetting inflationary pressures. Margin expansion was specifically attributed to "strong price realization" and "productivity savings," which "exceeded the impact of inflation, mix, and lower volumes."
+
+**Supply Chain & Inventory**
+Inventory levels appear stable, with current assets showing a slight increase from $983 million to $991 million. However, the company continues to flag potential "lack of availability or delays in receiving parts and raw materials from our supply chain, including semiconductors" as a systemic risk.
+
+**Capital Spending (Capex)**
+The company is focused on "strategic investments for growth, including acquisitions and divestitures" and "operational rigor" as part of its transformation. Net property, plant, and equipment remained stable at approximately $1.15 billion.

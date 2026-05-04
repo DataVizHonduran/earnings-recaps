@@ -1,0 +1,22 @@
+Ticker: GEHC
+Source: GEHC_2026-04-29.txt
+Generated: 2026-05-03 23:17 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**GE HealthCare (GEHC) Economic Signal Summary**
+
+**Demand & Activity:**
+Demand remains robust globally, though growth rates are softening compared to the prior year. Organic revenue grew a modest 2.9%, while organic orders increased by a slight 1.1%, a significant deceleration from the 10.3% growth seen in the year-ago period ("Total orders up 1.1% organically versus 10.3% growth in the year-ago period"). Growth is driven by strong performance in Pharmaceutical Diagnostics (PDx), Imaging, and Advanced Visualization Solutions, with overall strength across the U.S., EMEA, and Rest of World ("driven by Pharmaceutical Diagnostics (PDx), Advanced Visualization Solutions (AVS), and Imaging, with overall strength in U.S., EMEA, and Rest of World"). Conversely, Patient Care Solutions (PCS) experienced a moderate decline ("decline in Patient Care Solutions (PCS)").
+
+**Labor & Wages:**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage trends.
+
+**Pricing Power & Inflation:**
+The company is facing persistent inflationary pressure, specifically regarding components and logistics, leading to a reduced profit outlook ("significant increases in memory chips, oil and freight costs during the first quarter"). GEHC demonstrates moderate pricing power, expecting to mitigate more than half of these headwinds through price adjustments ("expect to offset more than half of the inflation impact with price and cost actions").
+
+**Supply Chain & Inventory:**
+Supply chain stability was briefly disrupted by a discrete supplier issue in the PDx segment, which has since been resolved ("impacted by a discrete PDx supplier issue that has since been resolved"). Inventory levels have increased slightly from $2.23 billion at year-end 2025 to $2.35 billion in Q1 2026 ("Inventories 2,353 [vs] 2,234").
+
+**Capital Spending (Capex):**
+Capex is trending upward as the company prioritizes capacity and technology ("Capital expenditures of $178 million compared to $152 million in the prior year"). Management indicated a continued commitment to "investment in innovation and capacity expansion." This is further evidenced by the $2.3 billion acquisition of Intelerad to accelerate cloud-enabled imaging ("closed the acquisition of Intelerad... expected to advance its cloud-enabled enterprise imaging").

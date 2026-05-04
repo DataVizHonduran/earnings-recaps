@@ -1,0 +1,22 @@
+Ticker: TSLA
+Source: TSLA_2026-04-22.txt
+Generated: 2026-05-04 00:01 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: TSLA Q1 2026**
+
+**Demand & Activity**
+Demand is showing a moderate recovery. The company reports "continued growth" in APAC and South America, alongside a "rebound of demand" in North America and EMEA ("We saw continued growth in demand... in APAC and South America, while also seeing a rebound of demand in both EMEA and North America"). Total deliveries grew 6% YoY, though Model 3/Y growth was modest at 6% compared to a robust 25% increase in "Other models" deliveries.
+
+**Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**Pricing Power & Inflation**
+Tesla is leveraging a strategy of "affordability and utility" to maintain a competitive edge as internal combustion alternatives become more expensive ("Our focus on affordability and utility... continues to be a key competitive advantage, particularly as gas-powered alternatives become more expensive"). There is no mention of direct price hikes; however, the company is pursuing "custom silicon development... in an effort to reduce the cost of training over time."
+
+**Supply Chain & Inventory**
+Inventory levels have softened, with global vehicle inventory increasing to 27 days of supply, up from 22 days YoY ("Global vehicle inventory (days of supply)... 27"). The company is aggressively pursuing regionalization and vertical integration to mitigate geopolitical risks ("announced further regionalization and vertical integration of critical supply chains"). Battery pack capacity remains a "limiting factor" for vehicle production ramps.
+
+**Capital Spending (Capex)**
+Capex remains robust, totaling $2.49B for the quarter. Investment is heavily skewed toward AI infrastructure, battery materials, and new product lines. Key projects include the "ramp of additional AI compute," new battery/material factories, and the build-out of "first large-scale Optimus factory" lines in Fremont and Texas ("commenced ramp of additional AI compute, new factories across battery and battery materials"). The company is also expanding into "semiconductor fabrication" to ensure chip supply resilience.

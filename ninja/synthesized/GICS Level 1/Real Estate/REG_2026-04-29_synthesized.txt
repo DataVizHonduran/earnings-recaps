@@ -1,0 +1,22 @@
+Ticker: REG
+Source: REG_2026-04-29.txt
+Generated: 2026-05-03 23:51 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Regency Centers (REG)**
+
+**1. Demand & Activity:**
+Demand for retail space remains robust. Occupancy is stable, with same-property percent leased remaining "flat year-over-year" at 96.6%, while the percent of commenced space saw a modest increase of 90 basis points to 94.3%. Demand is particularly strong among anchor tenants, with leasing at 98.2% ("Same Property anchor percent leased ended the quarter at 98.2%").
+
+**2. Labor & Wages:**
+No specific mentions of hiring, turnover, or wage pressures were provided in the report.
+
+**3. Pricing Power & Inflation:**
+The company demonstrates robust pricing power. Regency is achieving significant rent growth on new and renewal leases, with blended rent spreads of 12.1% on a cash basis and 24.3% on a straight-lined basis ("blended rent spreads of 12.1% on a cash basis and 24.3% on a straight-lined basis"). This contributed to a moderate increase in Same Property Net Operating Income of 4.4% year-over-year.
+
+**4. Supply Chain & Inventory:**
+Not applicable/No mentions of supply chain constraints or inventory levels.
+
+**5. Capital Spending (Capex):**
+Investment in capacity and facility modernization remains active. The company started $73 million in redevelopment projects and completed $42 million in ground-up and redevelopment work during the quarter ("Started $73 million of redevelopment projects and completed $42 million of ground-up development"). The pipeline remains substantial, with in-process projects estimated at $635 million ("in-process development and redevelopment projects had estimated net project costs of $635 million").

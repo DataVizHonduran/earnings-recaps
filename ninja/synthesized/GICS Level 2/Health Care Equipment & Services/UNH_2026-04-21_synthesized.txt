@@ -1,0 +1,22 @@
+Ticker: UNH
+Source: UNH_2026-04-21.txt
+Generated: 2026-05-04 00:04 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: UnitedHealth Group (Q1 2026)**
+
+**1. Demand & Activity: Softening**
+Overall demand is mixed with notable attrition in key segments. While employer self-funded offerings grew, there was a moderate decline in membership across other lines: Medicare Advantage seniors declined by 965,000 ("Seniors served... declined by 965,000"), and Community & State membership contracted by 220,000 ("primarily due to the early impact of state eligibility changes"). Optum Health also saw a decrease in activity ("reflecting fewer value-based care members").
+
+**2. Labor & Wages: Moderate Pressure**
+The company is actively investing in its workforce and leadership. Operating costs rose due to "investments in its people" ("reflecting investments... as well as investments in its people and the communities it serves"). Additionally, the company is undergoing a significant leadership overhaul, "Refreshing nearly half of the top 100 leadership roles."
+
+**3. Pricing Power & Inflation: Robust / Persistent Pressure**
+The company is utilizing aggressive repricing to combat persistent inflationary pressures in medical costs. Operating margins expanded due to "repricing across all lines of business in response to cost trends that remain elevated" ("repricing across all lines of business in response to cost trends that remain elevated but in line with expectations"). Medical costs remain a headwind, described as "consistently elevated utilization and unit cost trends."
+
+**4. Supply Chain & Inventory: N/A**
+Not applicable for this service-based business model.
+
+**5. Capital Spending (Capex): Robust**
+Investment is focused heavily on digital transformation and technology. The company is making "substantial artificial intelligence and cybersecurity investments" ("Accelerating simplification and modernization, including substantial artificial intelligence and cybersecurity investments"). This is further evidenced by the acquisition of Alegeus Technologies to advance "consumer-centered solutions" and ongoing "investments in people, processes and technology" to drive efficiency.

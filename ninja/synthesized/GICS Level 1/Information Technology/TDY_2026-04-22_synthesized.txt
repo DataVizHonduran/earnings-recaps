@@ -1,0 +1,22 @@
+Ticker: TDY
+Source: TDY_2026-04-22.txt
+Generated: 2026-05-03 23:58 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Teledyne Technologies (TDY)**
+
+**1. Demand & Activity:**
+Demand is robust overall, characterized by record first-quarter sales. Growth is most pronounced in defense-related sectors, specifically infrared detectors, unmanned aerial systems, and defense electronics ("Organic growth was strongest in our Digital Imaging segment... as well as complete unmanned aerial systems"). There is a modest recovery in industrial imaging and X-ray businesses, which "each returned to year-over-year growth." Conversely, activity is softening in engineered products and energy systems, with the Engineered Systems segment seeing a slight decline in net sales ("decrease of 2.6%").
+
+**2. Labor & Wages:**
+The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation:**
+The report does not explicitly detail pricing actions or specific commodity inflation. However, the company achieved a moderate increase in operating margin ("Operating margin was 18.9%... compared with 17.9%"), suggesting that revenue growth is currently outpacing the growth of operating expenses.
+
+**4. Supply Chain & Inventory:**
+Inventory levels appear to be increasing, as evidenced by a reduction in cash flow from operations driven by "higher inventory purchases." There are no specific mentions of lead times or supply chain bottlenecks.
+
+**5. Capital Spending (Capex):**
+Capital investment is increasing moderately. The company reported a significant uptick in spending on property, plant, and equipment, with first-quarter expenditures rising to $29.7 million from $18.0 million in the prior year ("capital expenditures significantly increased").

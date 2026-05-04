@@ -1,0 +1,17 @@
+Ticker: NEE
+Source: NEE_2026-04-23.txt
+Generated: 2026-05-03 23:39 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: NextEra Energy (NEE)**
+
+**1. Demand & Activity:** Robust. Electricity demand continues to increase nationally ("America's electricity demand continues to increase"). In Florida, FPL is seeing steady growth, adding nearly 100,000 customers in Q1 ("FPL added nearly 100,000 customers"). Demand for renewables and storage is particularly strong, with a record quarter for origination adding 4 GW to the backlog ("record quarter for new renewables and storage origination"). Additionally, there is significant activity in large-load data center hubs, specifically in Texas and Pennsylvania ("build 9.5 GW of new gas-fired generation to serve large load").
+
+**2. Labor & Wages:** Not mentioned. The transcript contains no specific data regarding hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation:** Stable. FPL maintains a competitive pricing position, with bills remaining significantly below the national average ("bills are approximately 30% below the national average"). Future price increases are projected to be modest ("projected to grow, on average, about 2% annually through the end of the decade"). There is no specific mention of input cost inflation or commodity relief.
+
+**4. Supply Chain & Inventory:** Stable. While specific lead times are not detailed, the company is actively advancing "procurement" for large-scale gas-fired projects, suggesting functional supply chains for major infrastructure.
+
+**5. Capital Spending (Capex):** Robust. Investment in capacity and infrastructure remains aggressive. FPL’s Q1 expenditures were approximately $3.2 billion, with full-year investments projected between $12 billion and $13 billion ("full-year capital investments are expected to be between $12 billion and $13 billion"). Long-term plans include a massive expansion of the Florida fleet, including 4 GW of gas, 12 GW of solar, and 7 GW of storage over the next decade ("detailing its approach to reliably and cost-effectively meet the growing need for electricity in Florida").

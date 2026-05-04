@@ -1,0 +1,25 @@
+Ticker: NOC
+Source: NOC_2026-04-21.txt
+Generated: 2026-05-03 23:40 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Northrop Grumman (NOC)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by "unprecedented global demand" ("underscoring our ability to deliver in today s unprecedented global demand environment"). Activity is growing moderately overall, with organic sales increasing 5% ("organic sales 1 increase 5 percent"). 
+*   **Aeronautics:** Robust growth (+17% sales) driven by B-21 production expansion and E-130J TACAMO ramp-up ("higher sales on B-21 and other restricted programs as well as increased volume on the E-130J TACAMO program").
+*   **Defense:** Modest growth (+5% sales) supported by Sentinel and tactical rocket motor volume ("higher volume on Sentinel as that program continues to ramp").
+*   **Space:** Softening activity (-3% sales) due to the wind-down of the Next Generation Interceptor (NGI) program ("lower sales at Space Systems due to the wind-down of work on the Next Generation Interceptor (NGI) program").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price hikes or commodity inflation. However, operating margins improved significantly to 10.0% ("Operating margin rate 10.0 percent from 6.1 percent"), though this was largely attributed to the absence of a prior-year loss provision rather than pricing power.
+
+**4. Supply Chain & Inventory**
+Lead times and inventory levels were not explicitly discussed. The company noted that trade working capital increased, which is consistent with "historical timing of operating cash flows" ("reflects increases in trade working capital, consistent with the company s historical timing").
+
+**5. Capital Spending (Capex)**
+Capex spending saw a modest reduction this quarter ("$89 million reduction in capital expenditures"). However, the company is actively investing in capacity expansion for key programs, specifically reaching agreements to "increase B-21 production capacity" ("Reached agreements with the U.S. Air Force to increase B-21 production capacity").

@@ -1,0 +1,9 @@
+Ticker: EQR
+Source: EQR_2026-04-28.txt
+Generated: 2026-05-03 23:11 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided document, there is insufficient data to provide a comprehensive economic analysis. The attached text consists exclusively of a **Table of Contents** and structural HTML markers for a First Quarter 2026 Results press release; the actual financial data, management commentary, and operational details (the "Earnings Release" and "Portfolio Summary" sections) were not included in the provided text.
+
+Consequently, no "Ground Truth" signals regarding demand, labor, pricing, supply chain, or capex can be extracted from this specific snippet.

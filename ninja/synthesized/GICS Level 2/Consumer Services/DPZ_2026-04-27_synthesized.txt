@@ -1,0 +1,22 @@
+Ticker: DPZ
+Source: DPZ_2026-04-27.txt
+Generated: 2026-05-03 23:07 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Domino’s Pizza (DPZ) – Q1 2026**
+
+**1. Demand & Activity**
+Demand is showing mixed results globally. U.S. activity is growing modestly, characterized by positive order counts and market share gains ("Q1 2026 represented another quarter of positive order count and market share growth for Domino’s in the U.S."). Conversely, international demand is softening slightly, with same-store sales declining by 0.4% ("International same store sales decline... of 0.4%"). Overall global retail sales growth remains moderate at 3.4%.
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring difficulty, turnover, wage increases, or headcount adjustments.
+
+**3. Pricing Power & Inflation**
+The company indicates a focus on maintaining value to remain competitive amid a challenging macroeconomic environment ("In an intensifying macro and competitive environment... sustain the value and innovation customers demand"). There are no specific mentions of current price hikes or specific commodity/input cost relief.
+
+**4. Supply Chain & Inventory**
+The provided text contains no mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment in physical capacity remains robust, with significant global expansion. The company added 180 net new stores globally in the first quarter ("Global net store growth of 180, including 19 net store openings in the U.S. and 161 net store openings internationally").

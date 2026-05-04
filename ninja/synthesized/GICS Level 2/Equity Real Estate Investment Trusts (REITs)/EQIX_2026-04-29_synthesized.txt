@@ -1,0 +1,22 @@
+Ticker: EQIX
+Source: EQIX_2026-04-29.txt
+Generated: 2026-05-03 23:11 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Equinix (EQIX)**
+
+**1. Demand & Activity:**
+Demand is robust, characterized by double-digit growth in recurring revenue and record-breaking bookings. Activity is heavily driven by the AI sector, with "approximately 60% of the company’s largest deals" being AI-related. The company reports "robust customer demand for our AI, cloud and networking solutions" and is seeing active expansion from "eight of the top 10 AI model providers."
+
+**2. Labor & Wages:**
+Not mentioned.
+
+**3. Pricing Power & Inflation:**
+The company demonstrates moderate to strong pricing power, evidenced by a "record adjusted EBITDA margin of 51%" and a "2% expansion over the previous year." While specific input cost data is absent, the company is successfully "improving our margins as we capitalise on robust customer demand."
+
+**4. Supply Chain & Inventory:**
+Not mentioned.
+
+**5. Capital Spending (Capex):**
+Investment in capacity remains aggressive. Total capital expenditures for 2026 are expected to be "approximately $4.100 billion," with non-recurring expenditures (excluding xScale) estimated at "$3.800 billion." The company is also expanding its geographic footprint through the acquisition of atNorth to "enhance the company’s position in the Nordics."
