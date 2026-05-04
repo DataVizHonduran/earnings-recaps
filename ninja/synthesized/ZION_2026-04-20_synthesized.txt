@@ -1,0 +1,22 @@
+Ticker: ZION
+Source: ZION_2026-04-20.txt
+Generated: 2026-05-04 00:13 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Zions Bancorporation (1Q26)**
+
+**1. Demand & Activity**
+Loan demand is showing modest growth, with loans and leases up 2% year-over-year ("Loans and leases were $61.3 billion, up 2%"). There is a specific signal of robust activity in the residential mortgage sector, evidenced by a $6 million increase in loan-related fees "largely reflecting higher residential mortgage loan sales activity." Overall credit quality remains strong, with a notable reduction in classified loans ("19% decrease in classified loans over the past year").
+
+**2. Labor & Wages**
+Labor costs are experiencing moderate upward pressure. Salaries and employee benefits increased by $19 million year-over-year ("Salaries and employee benefits expense increased $19 million"). This growth is attributed to both "increased base salaries and benefits costs" and higher incentive compensation tied to profitability.
+
+**3. Pricing Power & Inflation**
+The company is experiencing a declining interest rate environment, which has softened yields on assets but provided relief in funding costs. The yield on average interest-earning assets declined to 4.90% from 5.08% ("reflecting lower interest rates"). Conversely, the cost of deposits has softened significantly, dropping to 1.48% from 1.76% ("reflecting the lower interest rate environment").
+
+**4. Supply Chain & Inventory**
+Not applicable. (Financial services entity).
+
+**5. Capital Spending (Capex)**
+Investment in technology is seeing modest growth, with technology and telecom expenses increasing by $4 million ("mainly due to higher application software, licensing, and maintenance costs"). Additionally, the company is expanding its capacity in the multifamily housing sector through the acquisition of the agency lending business of Basis Multifamily Finance I, LLC, to "offer multifamily housing clients an expanded set of permanent financing solutions."
