@@ -1,24 +1,28 @@
 # Industrials — Sector Chapter | Q1 2026
-*Aggregate Economic Report | Generated: 2026-05-04 00:56 UTC | Model: google/gemma-4-31B-it*
+*Aggregate Economic Report | Generated: 2026-05-04 01:20 UTC | Model: google/gemma-4-31B-it*
 
 ## Sector Consensus
 
-Industrial activity remains generally robust, though growth is uneven across sub-sectors. The aggregate mood is characterized by resilient demand, particularly in electrification, defense, and commercial services. A dominant theme across the majority of reporting firms is the exercise of moderate to robust pricing power, which has been utilized effectively to offset volume declines or rising input costs. While overall activity is stable, there is an emerging trend of divergence in demand, with some segments seeing acceleration while others experience a slight softening.
+Industrial activity is generally robust, though growth is increasingly bifurcated by end-market. A broad consensus of firms, including **Caterpillar**, **Boeing**, **GE Aerospace**, **Parker-Hannifin**, and **United Rentals**, reports record backlogs and strong order activity. This momentum is most pronounced in aerospace, defense, and data center infrastructure, where demand is described as "unprecedented" or "exceptional." Conversely, signals diverge sharply in residential markets; while commercial HVAC and industrial power are surging, residential demand is softening or flat, as noted by **Carrier**, **A.O. Smith**, and **Trane Technologies**. Geographically, North American activity remains stable to robust, while several firms report modest growth or outright declines in China and EMEA.
 
 ## Divergences & Outliers
 
-While the broader sector reports strength, certain firms in [Capital Goods] are seeing a softening of global demand, with some pursuing headcount reductions and organizational streamlining to manage the downturn. Conversely, the [Capital Goods] firms focused on power and electrification are seeing accelerating demand, specifically driven by data center requirements, leading to massive backlog growth. In [Transportation], results are mixed; while passenger and freight volumes show modest to robust growth, pricing power varies significantly by mode.
+Several firms contradict the broader sector's robust growth trend, primarily due to specific end-market exposure:
+*   **Builders FirstSource [Capital Goods]:** Reports softening demand and declining net sales, driven by a "lower starts environment" in a weak housing market.
+*   **UPS [Transportation]:** Signals a decline in volume across U.S. Domestic and Supply Chain Solutions segments, contradicting the record-breaking activity seen in aerospace and heavy machinery.
+*   **A.O. Smith [Capital Goods]:** Reports declining activity in the "Rest of World" segment, specifically citing robust weakness in China due to poor consumer demand.
+*   **Norfolk Southern [Transportation]:** Reports a year-over-year volume decline of 1%, citing a "rapidly shifting macroeconomic environment" and volatile volumes.
 
 ## Key Thematic Headings
 
 **Consumer/Business Demand**
-Demand is generally robust and broad-based, though it is increasingly divergent, with strong growth in electrification and defense contrasting with softening in specific global capital goods segments.
+Business demand is surging for high-tech infrastructure, with **GE Vernova** booking $2.4 billion in data center equipment and **Carrier** seeing data center orders rise over 500%. Aerospace demand is similarly robust, with **GE Aerospace** reporting commercial equipment orders more than tripling. However, consumer-facing residential demand is weak, as **A.O. Smith** reports residential water heater demand below expectations and **Builders FirstSource** cites a weak housing market.
 
 **Labor Markets & Wages**
-Labor demand is largely stable, though some firms report moderate upward pressure on employee-related costs and others are implementing strategic headcount reductions to align with softening demand.
+Labor costs remain a persistent headwind for service-heavy sectors, with **FedEx** reporting higher wage rates in its Freight segment and **Delta Air Lines** noting a "continuation of higher crew costs." Some firms are responding with organizational streamlining, such as **A.O. Smith's** targeted restructuring plan in North America. Conversely, **United Airlines** is navigating upward pressure following a tentative agreement to provide "industry-leading wages" to 30,000 flight attendants.
 
 **Price & Cost Pressures**
-Most firms maintain moderate to robust pricing power to protect margins, although some are facing significant input cost pressures, such as postage or raw materials, which are being passed through to customers.
+Most firms are utilizing moderate to robust pricing power to offset inflation, with **Fastenal** reporting a 350 basis point increase in net sales from product pricing. However, trade policy is creating significant friction; **Caterpillar** reported $710 million in unfavorable manufacturing costs largely due to higher tariffs, and **RTX** cited higher operational costs from tariffs across the business. Energy volatility also remains a risk, with **United Airlines** reporting a $340 million increase in fuel expense.
 
 **Inventory & Logistics**
-Supply chain conditions are generally improving with increased vendor throughput, though some firms report rising inventory levels and significant equipment backlogs.
+Inventory levels are generally stable, though some firms are expanding capacity to meet record backlogs, such as **United Rentals** increasing its fleet cost by 5.7%. Logistics are improving in some areas, with **GE Aerospace** seeing double-digit sequential increases in material input from priority suppliers. However, geopolitical volatility continues to cause disruptions, with **Otis** reporting shipment delays in new equipment and modernization due to the situation in the Middle East.
