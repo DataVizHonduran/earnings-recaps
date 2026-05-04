@@ -11,7 +11,6 @@ Usage:
 """
 
 import os
-import re
 import subprocess
 import sys
 import time
@@ -28,7 +27,7 @@ L1_BASE   = REPO_ROOT / "ninja" / "synthesized" / "GICS Level 1"
 UNIVERSE  = REPO_ROOT / "ninja" / "sp500_universe.csv"
 OUT_DIR   = REPO_ROOT / "industry_reports"
 DATE_TAG  = "05-03-26"
-MAX_CHARS = 14000
+MAX_CHARS = 90000
 FORCE     = os.environ.get("FORCE", "").lower() in ("1", "true", "yes")
 
 SUB_INDUSTRY_TO_GROUP = {
@@ -180,12 +179,6 @@ SUB_INDUSTRY_TO_GROUP = {
     "Real Estate Services": "Real Estate Management & Development",
 }
 
-SECTION_KEYS = {
-    "demand":  re.compile(r"\*\*Demand[^*]*\*\*\s*\n(.+?)(?=\n\n|\*\*|$)", re.S),
-    "labor":   re.compile(r"\*\*Labor[^*]*\*\*\s*\n(.+?)(?=\n\n|\*\*|$)", re.S),
-    "pricing": re.compile(r"\*\*Pricing[^*]*\*\*\s*\n(.+?)(?=\n\n|\*\*|$)", re.S),
-    "supply":  re.compile(r"\*\*Supply[^*]*\*\*\s*\n(.+?)(?=\n\n|\*\*|$)", re.S),
-}
 
 PROMPT_TEMPLATE = """\
 [ROLE]: Federal Reserve economic analyst writing a Beige Book-style sector chapter.
@@ -215,26 +208,10 @@ Neutral, observational, professional tone. Reference specific companies and indu
 {data}"""
 
 
-def extract_signals(text: str, max_chars: int = 250) -> str:
-    text = text.strip().replace("\n", " ")
-    if len(text) <= max_chars:
-        return text
-    # Break at last sentence boundary within max_chars
-    truncated = text[:max_chars]
-    m = re.search(r".*[.!?]", truncated)
-    return m.group(0).strip() if m else truncated.strip()
-
-
-def parse_file(path: Path) -> dict:
+def read_body(path: Path) -> str:
     body = path.read_text(encoding="utf-8", errors="replace")
     sep = body.find("=" * 10)
-    if sep != -1:
-        body = body[sep + 60:]
-    result = {}
-    for key, pat in SECTION_KEYS.items():
-        m = pat.search(body)
-        result[key] = extract_signals(m.group(1)) if m else "—"
-    return result
+    return body[sep + 60:].strip() if sep != -1 else body.strip()
 
 
 def build_data_table(sector_dir: Path, universe: dict) -> str:
@@ -244,15 +221,8 @@ def build_data_table(sector_dir: Path, universe: dict) -> str:
         ticker = f.name.split("_")[0]
         sub = universe.get(ticker, {}).get("sub_industry", "")
         group = SUB_INDUSTRY_TO_GROUP.get(sub, sub or "Other")
-        signals = parse_file(f)
-        row = (
-            f"{ticker} [{group}]\n"
-            f"  Demand: {signals['demand']}\n"
-            f"  Labor: {signals['labor']}\n"
-            f"  Pricing: {signals['pricing']}\n"
-            f"  Supply: {signals['supply']}"
-        )
-        rows.append(row)
+        body = read_body(f)
+        rows.append(f"--- {ticker} [{group}] ---\n{body}")
     table = "\n\n".join(rows)
     return table[:MAX_CHARS]
 
