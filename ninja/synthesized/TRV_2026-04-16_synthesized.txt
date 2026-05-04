@@ -1,0 +1,22 @@
+Ticker: TRV
+Source: TRV_2026-04-16.txt
+Generated: 2026-05-04 00:00 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Travelers Companies, Inc. (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is moderate to robust across commercial lines, though mixed by segment. Business Insurance saw growth in Middle Market (5%) and Select Accounts (3%), with "new business [at] a record $775 million." Bond Specialty Insurance grew 7%, led by a robust 14% increase in Surety. Conversely, Personal Insurance net written premiums declined 9% year-over-year, though the company noted "solid retention" in Auto and Homeowners. Overall net written premiums increased "slightly" when excluding the divestiture of Canadian operations.
+
+**2. Labor & Wages**
+The report contains no specific mentions of hiring difficulties, turnover, or wage inflation. The underwriting expense ratio increased slightly by 0.7 points to 29.0%, which management attributed to "normal quarter-to-quarter variability."
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate pricing power. In Business Insurance, "renewal premium change... was 5.8%," while Management Liability renewal premiums "ticked up sequentially." Personal Insurance also reported "positive renewal premium change in both Auto and Homeowners." Input cost pressure is not explicitly detailed, though the company expects the full-year expense ratio to remain stable at "approximately 28.5%."
+
+**4. Supply Chain & Inventory**
+Not applicable. (No mentions of lead times or physical inventory).
+
+**5. Capital Spending (Capex)**
+No specific mentions of new capacity or facility investments. The company is focused on capital return, returning "more than $2.2 billion of excess capital to our shareholders" via dividends and repurchases.

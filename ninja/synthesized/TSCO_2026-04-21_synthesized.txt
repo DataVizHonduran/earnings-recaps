@@ -1,0 +1,22 @@
+Ticker: TSCO
+Source: TSCO_2026-04-21.txt
+Generated: 2026-05-04 00:01 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Tractor Supply Co. (TSCO)**
+
+**1. Demand & Activity**
+Demand is generally stable, though showing divergence by product line. Overall comparable store sales saw a modest increase of 0.5% ("Comparable Store Sales Increased 0.5%"). Activity remains robust in digital channels ("strong double-digit growth in digital sales") and big-ticket items ("complemented by strength in big ticket items"). However, demand is softening in the companion animal segment ("Companion animal performance was below the Company average, reflecting softer demand trends").
+
+**2. Labor & Wages**
+The company maintains a large workforce of over 52,000 team members. While specific wage growth figures were not disclosed, SG&A expenses increased by 6.1%, partly driven by the "accelerated new store opening cadence," though this was partially offset by an "ongoing focus on productivity and cost discipline."
+
+**3. Pricing Power & Inflation**
+The company is utilizing an "everyday low price strategy" and "disciplined product cost management" to maintain margins. However, pricing power is being tested by persistent external cost pressures, specifically "higher tariffs and delivery-related transportation costs," which offset other margin gains.
+
+**4. Supply Chain & Inventory**
+Inventory levels have increased moderately, rising from $3.21 billion to $3.58 billion year-over-year. The report does not indicate bloated levels, but rather aligns with an "accelerated new store opening cadence" to support growth.
+
+**5. Capital Spending (Capex)**
+Investment in physical capacity remains robust. The company is aggressively expanding its footprint, having opened 40 new stores in the first quarter alone ("The Company opened 40 new Tractor Supply stores"). Future outlook remains focused on "new stores and distribution centers" and "property development plans."

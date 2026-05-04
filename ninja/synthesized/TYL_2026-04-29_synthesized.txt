@@ -1,0 +1,22 @@
+Ticker: TYL
+Source: TYL_2026-04-29.txt
+Generated: 2026-05-04 00:02 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Tyler Technologies (TYL)**
+
+**1. Demand & Activity**
+Demand in the public sector remains robust, characterized by accelerating bookings and strong growth in cloud transitions. SaaS revenues showed robust growth of 23.5% ("exceptional SaaS growth"), contributing to record quarterly recurring and total revenues. Management notes a "healthy public sector demand environment" ("The healthy public sector demand environment was reflected in our strong bookings growth").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is achieving margin expansion, though this is attributed to operational efficiencies and product mix rather than explicit price hikes. Gains were driven by "revenue mix improvement, cloud efficiency gains, and disciplined expense management" ("We drove margin expansion through revenue mix improvement..."). There is no mention of input cost inflation or commodity pressure.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a software-as-a-service (SaaS) provider, the company does not report physical inventory or traditional supply chain lead times.
+
+**5. Capital Spending (Capex)**
+Capital investment remains modest and focused on technology. Full-year 2026 capex is projected between $18 million and $20 million ("Capital expenditures $18 million to $20 million"), with a specific focus on capitalized software development. The company continues to invest in long-term growth through "product development and M&A" ("We continue to invest in innovation and long-term growth through both product development and M A").

@@ -1,0 +1,28 @@
+Ticker: TXT
+Source: TXT_2026-04-30.txt
+Generated: 2026-05-04 00:02 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Textron Inc. (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is **robust** in aerospace and defense, though **softening** in specific commercial and industrial niches. 
+*   **Aviation:** Strong growth driven by "higher Citation jet and commercial turboprop volume" (Textron Aviation revenues up 22%).
+*   **Defense:** Moderate to robust activity in military programs, specifically "higher volume on the MV-75 Cheyenne program" and "Ship-to-Shore Connector program."
+*   **Commercial Helicopters:** Softening demand, with deliveries "down from 29 in last year's first quarter" to 20.
+*   **Industrial:** Stable to slightly declining, with revenues "down 1%" and a strategic move to "separate its Industrial segment" to focus on core aerospace.
+
+**2. Labor & Wages**
+The report does not provide specific wage data or headcount changes, but identifies the "ability of our businesses to hire and retain the highly skilled personnel" as a continuing operational risk.
+
+**3. Pricing Power & Inflation**
+The company is leveraging operational efficiencies to maintain margins. 
+*   **Input Costs:** No specific commodity relief mentioned, but the Industrial segment saw profit growth "primarily due to manufacturing efficiencies" and "cost reductions resulting from prior year restructuring activities."
+*   **Pressures:** The company continues to monitor "inflationary pressures" and "volatility in interest rates or foreign exchange rates" as systemic risks.
+
+**4. Supply Chain & Inventory**
+Specific lead times were not disclosed; however, the company notes ongoing risk regarding "performance issues with key suppliers or subcontractors" and "disruptions to our business and the business of our suppliers."
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for new facilities were not listed, the company is focused on "research and development investments to develop new products" and the "launching of significant new products or programs." The most significant strategic capital shift is the "intent to separate its Industrial segment" via sale or spin-off to "enhance the strategic and operational focus."

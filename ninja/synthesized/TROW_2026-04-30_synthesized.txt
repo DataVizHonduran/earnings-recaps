@@ -1,0 +1,22 @@
+Ticker: TROW
+Source: TROW_2026-04-30.txt
+Generated: 2026-05-04 00:00 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: T. Rowe Price (TROW)**
+
+**1. Demand & Activity: Softening**
+Overall demand is declining, characterized by net client outflows of $13.7 billion ("Net client outflows of $13.7 billion"). Activity is bifurcated by asset class: equity experienced robust outflows of $22.6 billion ("Equity... Net cash flows... (22.6)"), while fixed income and alternatives saw modest inflows ("Fixed income... 3.5", "Alternatives... 1.3").
+
+**2. Labor & Wages: Softening**
+Headcount is declining moderately. The firm's workforce decreased by 7.1% year-over-year ("employed 7,507 associates... a decrease of 7.1% from 8,084 associates as of March 31, 2025"). Compensation costs remained stable to slightly lower year-over-year, driven by reduced salaries and benefits ("primarily due to lower salaries and related benefits").
+
+**3. Pricing Power & Inflation: Softening**
+The firm is experiencing a modest decline in pricing power. The annualized effective fee rate (EFR) decreased to 38.4 basis points from 40.0 basis points in the prior year ("EFR without performance-based fees 38.4 40.0 (-1.6)"). This compression is attributed to a shift in client assets toward lower-fee products ("client flows and transfers drove a mix shift in assets under management toward lower fee products").
+
+**4. Supply Chain & Inventory: N/A**
+Not applicable for this financial services entity.
+
+**5. Capital Spending (Capex): Moderate Investment**
+There is a moderate increase in spending related to technology and infrastructure, specifically through the use of external partners ("outsourcing and expansion of our technology capabilities through trusted vendor partnerships"). Technology, occupancy, and facility costs rose 12.8% year-over-year ("Technology, occupancy, and facility costs... 204.4 181.2 12.8%").
