@@ -28,7 +28,8 @@ L1_BASE   = REPO_ROOT / "ninja" / "synthesized" / "GICS Level 1"
 UNIVERSE  = REPO_ROOT / "ninja" / "sp500_universe.csv"
 OUT_DIR   = REPO_ROOT / "industry_reports"
 DATE_TAG  = "05-03-26"
-MAX_CHARS = 8000
+MAX_CHARS = 14000
+FORCE     = os.environ.get("FORCE", "").lower() in ("1", "true", "yes")
 
 SUB_INDUSTRY_TO_GROUP = {
     "Oil & Gas Equipment & Services": "Energy Equipment & Services",
@@ -190,37 +191,49 @@ PROMPT_TEMPLATE = """\
 [ROLE]: Federal Reserve economic analyst writing a Beige Book-style sector chapter.
 [TASK]: Synthesize the per-company economic signals below into a Sector Chapter for {sector}. \
 Produce exactly 3 sections:
+
 1. Sector Consensus — identify common themes across the majority of firms. Use Beige Book qualifiers \
-(stable, robust, slight, moderate, modest). Focus on the aggregate mood.
-2. Divergences & Outliers — highlight specific companies or industry groups (shown in brackets) \
-seeing results contrary to the broader trend.
-3. Key Thematic Headings — provide a 1–2 sentence summary for each of these four headings:
+(stable, robust, slight, moderate, modest). Name at least 4–5 specific companies as examples. \
+Call out product lines, geographies, or end-markets where signals diverge within the consensus.
+
+2. Divergences & Outliers — name specific companies and their industry groups (shown in brackets) \
+whose signals contradict the broader sector trend. Explain the mechanism, not just the direction \
+(e.g., tariff exposure, end-market mix, customer concentration).
+
+3. Key Thematic Headings — provide 3–4 sentences each for the following four headings. \
+Cite named companies for each heading. Avoid vague generalities — ground every sentence in a \
+specific signal from the data.
    - Consumer/Business Demand
    - Labor Markets & Wages
    - Price & Cost Pressures
    - Inventory & Logistics
-Constraints: Do NOT mention stock prices or financial ratios. Neutral, observational, professional tone.
-[FORMAT]: Markdown with ## section headers. ~500 words total.
+
+Constraints: Do NOT mention stock prices, EPS, PE ratios, or any financial metric. \
+Neutral, observational, professional tone. Reference specific companies and industry groups by name throughout.
+[FORMAT]: Markdown with ## section headers. ~700 words total.
 [DATA]:
 {data}"""
 
 
-def first_sentence(text: str) -> str:
+def extract_signals(text: str, max_chars: int = 250) -> str:
     text = text.strip().replace("\n", " ")
-    m = re.search(r"[.!?]", text)
-    return text[:m.end()].strip() if m else text[:120].strip()
+    if len(text) <= max_chars:
+        return text
+    # Break at last sentence boundary within max_chars
+    truncated = text[:max_chars]
+    m = re.search(r".*[.!?]", truncated)
+    return m.group(0).strip() if m else truncated.strip()
 
 
 def parse_file(path: Path) -> dict:
     body = path.read_text(encoding="utf-8", errors="replace")
-    # Strip header block above the ===== line
     sep = body.find("=" * 10)
     if sep != -1:
         body = body[sep + 60:]
     result = {}
     for key, pat in SECTION_KEYS.items():
         m = pat.search(body)
-        result[key] = first_sentence(m.group(1)) if m else "—"
+        result[key] = extract_signals(m.group(1)) if m else "—"
     return result
 
 
@@ -252,7 +265,7 @@ def call_gemma(sector: str, data: str) -> str:
             stream = client.chat.completions.create(
                 messages=messages,
                 temperature=0.2,
-                max_tokens=1500,
+                max_tokens=2200,
                 stream=True,
             )
             parts = []
@@ -293,7 +306,7 @@ def main():
 
     for i, sector in enumerate(sectors, 1):
         out_path = OUT_DIR / f"{sector}_{DATE_TAG}.md"
-        if out_path.exists():
+        if out_path.exists() and not FORCE:
             print(f"[{i}/{len(sectors)}] {sector} — skipped (exists)")
             continue
 

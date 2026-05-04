@@ -2,6 +2,11 @@ name: Sector Chapters
 
 on:
   workflow_dispatch:
+    inputs:
+      force:
+        description: 'Overwrite existing sector chapter files'
+        required: false
+        default: 'false'
 
 permissions:
   contents: write
@@ -30,4 +35,5 @@ jobs:
       - name: Generate sector chapters
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          FORCE: ${{ inputs.force || 'false' }}
         run: python scripts/generate_sector_chapters.py
