@@ -1,0 +1,33 @@
+name: Sector Chapters
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - run: pip install -r requirements.txt
+
+      - name: Configure git
+        run: |
+          git config --local user.email "alberto.boquin@gmail.com"
+          git config --local user.name "Alberto Jose Boquin"
+
+      - name: Generate sector chapters
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: python scripts/generate_sector_chapters.py
