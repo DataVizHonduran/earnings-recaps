@@ -1,0 +1,22 @@
+Ticker: VICI
+Source: VICI_2026-04-29.txt
+Generated: 2026-05-04 00:06 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: VICI Properties (Q1 2026)**
+
+**1. Demand & Activity:**
+Demand for experiential real estate remains robust, characterized by sustained growth in the gaming and hospitality sectors. Activity is expanding geographically into Alberta, Canada, and deepening in the U.S. market ("continued compounding of our business model"). The company is seeing strong appetite for sale-leaseback transactions and strategic partnerships to fund large-scale developments ("ability to grow through deepening relationships with our existing partners").
+
+**2. Labor & Wages:**
+No mentions of labor trends, hiring difficulties, or wage pressures were provided in the report.
+
+**3. Pricing Power & Inflation:**
+The company maintains moderate pricing power through structured lease escalators. New agreements include annual rent increases tied to both fixed percentages and inflation indices, specifically the Canadian CPI ("escalation will conform to the PURE Master Lease thereafter at the greater of 1.5% or the change in Canadian CPI (capped at 2.5%)"). Other new leases include fixed annual escalations ("Rent under the Golden Entertainment Master Lease will escalate annually at 2.0%").
+
+**4. Supply Chain & Inventory:**
+Not applicable. No mentions of supply chain constraints or inventory levels.
+
+**5. Capital Spending (Capex):**
+Investment in capacity and experiential facilities is robust. VICI is significantly increasing its deployment of capital into large-scale construction and property acquisitions, including a $1.5 billion mezzanine loan for the One Beverly Hills development ("vertical works beginning in the fall of 2025 and phased delivery scheduled to commence in 2028") and a $1.16 billion acquisition of seven casino properties from Golden Entertainment.

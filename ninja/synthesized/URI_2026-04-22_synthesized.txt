@@ -1,0 +1,22 @@
+Ticker: URI
+Source: URI_2026-04-22.txt
+Generated: 2026-05-04 00:05 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: United Rentals (URI)**
+
+**1. Demand & Activity:**
+Demand is robust, characterized by record-breaking quarterly revenue and rental growth. Activity is particularly strong in "large projects and key verticals" ("growth opportunities our customers see on the horizon, particularly within large projects and key verticals"). Growth is broad-based but varied: the specialty rentals segment saw robust growth (rental revenue increased 13.8% year-over-year), while general rentals grew at a more moderate pace (rental revenue increased 6.2% year-over-year).
+
+**2. Labor & Wages:**
+The company is seeing modest cost relief regarding personnel. In the general rentals segment, rental gross margins improved partly due to "reductions in... labor and benefits... as a percentage of revenue." Additionally, the company is pursuing efficiency through "branch consolidations and certain other cost reduction measures" ("restructuring charges recognized in the quarter associated with branch consolidations").
+
+**3. Pricing Power & Inflation:**
+Pricing power remains stable to positive, as evidenced by a moderate increase in fleet productivity, which accounts for rental rates and utilization ("fleet productivity increased 2.3%"). There is evidence of easing input pressures in the general rentals segment, specifically regarding "reductions in... delivery costs as a percentage of revenue."
+
+**4. Supply Chain & Inventory:**
+Inventory levels are expanding to meet demand, with a moderate increase in the cost of the fleet ("Average original equipment at cost (OEC) increased 5.7% year-over-year"). However, the secondary market is softening slightly, as "Used equipment sales in the quarter decreased 7.2% year-over-year."
+
+**5. Capital Spending (Capex):**
+Capex plans are robust and trending upward. The company raised its 2026 outlook for gross rental capital expenditures to a range of "$4.4 billion to $4.8 billion" (up from a prior outlook of $4.3 billion to $4.7 billion), signaling continued investment in capacity to support growth.

@@ -1,0 +1,22 @@
+Ticker: UHS
+Source: UHS_2026-04-28.txt
+Generated: 2026-05-04 00:04 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided press release, the available economic signals are limited as the document is a high-level financial summary rather than a full earnings transcript.
+
+**1. Demand & Activity**
+Demand appears robust, as evidenced by a moderate increase in top-line activity. Net revenues grew by 9.6% year-over-year ("Net revenues increased by 9.6% to $4.495 billion during the first quarter of 2026, as compared to $4.100 billion during the first quarter of 2025").
+
+**2. Labor & Wages**
+No specific mentions of hiring, turnover, or wage pressures were provided in the text.
+
+**3. Pricing Power & Inflation**
+The document does not explicitly detail pricing actions or input cost pressures; however, the increase in net revenues suggests either volume growth or successful pricing adjustments.
+
+**4. Supply Chain & Inventory**
+No data provided regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+No specific plans for future capacity, technology, or facility investments were mentioned in the provided text.
