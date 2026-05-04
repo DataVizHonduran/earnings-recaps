@@ -1,0 +1,22 @@
+Ticker: WELL
+Source: WELL_2026-04-28.txt
+Generated: 2026-05-04 00:09 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Welltower Inc. (WELL)**
+
+**1. Demand & Activity**
+Demand is robust, particularly within the seniors housing sector. The Seniors Housing Operating (SHO) portfolio saw strong growth in both volume and pricing, with organic same store revenue increasing 9.5% year-over-year ("resulting from 370 basis points (bps) of average occupancy growth and 5.0% growth in Revenue Per Occupied Room (RevPOR)"). Overall portfolio same store NOI growth was strong at 16.4%.
+
+**2. Labor & Wages**
+Not explicitly detailed. The report mentions that property operating expenses include "property-related payroll and benefits," but provides no specific commentary on hiring difficulty, turnover, or wage inflation.
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate to robust pricing power. This is evidenced by the 5.0% growth in Revenue Per Occupied Room (RevPOR) within the SHO portfolio. Additionally, the company is successfully passing through costs or increasing rates, as projected blended SSNOI growth for 2026 remains high, specifically between 16.5% to 21.5% for Seniors Housing Operating.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a REIT, the company does not report traditional physical inventory or supply chain lead times.
+
+**5. Capital Spending (Capex)**
+Investment activity is robust and expanding. The company has closed or is under contract for $10.5 billion of investment activity year-to-date ("including $3.3 billion of pro rata gross investments completed in the first quarter"). Significant capacity expansion is noted via the acquisition of 38 Canadian seniors housing communities and "forward purchase agreements to acquire five properties currently under development." The company is also investing in technology, specifically the "licensing of our data science platform" to external firms.

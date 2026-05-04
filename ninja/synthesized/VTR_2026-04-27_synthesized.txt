@@ -1,0 +1,22 @@
+Ticker: VTR
+Source: VTR_2026-04-27.txt
+Generated: 2026-05-04 00:08 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Ventas, Inc. (VTR)**
+
+**1. Demand & Activity:**
+Demand for senior housing is robust and growing, driven by demographic shifts. The company reports "broad-based demand strength" ("broad-based demand strength"), with significant occupancy gains in the senior housing operating portfolio (SHOP). This growth is particularly pronounced in the U.S., where same-store average occupancy grew by 370 basis points year-over-year ("U.S. SHOP Same-Store average occupancy grew 370 basis points year-over-year"). Management expects "durable demand" to increase as the Baby Boomer population ages ("we expect durable demand... to increase").
+
+**2. Labor & Wages:**
+Not addressed. The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation:**
+The company demonstrates moderate pricing power. Same-store cash operating revenue grew nearly 9%, which included a 5% increase in Revenue Per Occupied Room (RevPOR) ("Revenue Per Occupied Room ( RevPOR ) growth of 5%"). Additionally, the company achieved "170 basis points of NOI margin expansion" ("170 basis points of NOI margin expansion"), suggesting that revenue growth is currently outpacing operating cost inflation.
+
+**4. Supply Chain & Inventory:**
+Not addressed. As a real estate investment trust, the company does not report traditional commodity supply chain or inventory levels.
+
+**5. Capital Spending (Capex):**
+Investment activity is robust and accelerating. Ventas has increased its 2026 investment volume expectations to $3 billion, up from a previous guidance of $2.5 billion ("increasing our investment volume expectations for 2026 to $3 billion"). These investments are focused specifically on expanding senior housing capacity to capture market momentum ("investments focused on senior housing that should further increase our enterprise growth rate").

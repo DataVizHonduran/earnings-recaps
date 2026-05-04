@@ -1,0 +1,22 @@
+Ticker: VZ
+Source: VZ_2026-04-27.txt
+Generated: 2026-05-04 00:08 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Verizon (VZ) 1Q26**
+
+**Demand & Activity:**
+Demand for wireless services is showing moderate growth, marked by a significant turnaround in customer acquisition. The company reported its first positive first-quarter postpaid phone net additions since 2013 ("first positive first-quarter postpaid phone net adds since 2013"). Broadband demand remains robust, with 341,000 net additions, driven by both fixed wireless and fiber ("total fixed wireless access net additions of 214,000 and 127,000 fiber broadband net additions"). However, hardware demand is softening due to a strategic shift in incentives ("moderated upgrade activity, which impacted wireless equipment revenue").
+
+**Labor & Wages:**
+No specific mentions of wage inflation, hiring difficulties, or headcount reductions were provided in the report.
+
+**Pricing Power & Inflation:**
+The company is exercising disciplined pricing and promotional strategies to improve margins, moving away from aggressive subsidies toward "sustainable volume-based growth" ("disciplined approach to promotional spending"). While wireless service revenue growth is expected to remain approximately flat for the year, the company is seeing "healthier customer economics" ("driven by healthier customer economics, including key improvements in customer acquisition and churn").
+
+**Supply Chain & Inventory:**
+The report contains no specific data regarding lead times or inventory levels.
+
+**Capital Spending (Capex):**
+Investment in infrastructure remains stable and on track, with a focus on mobility and fiber expansion ("network build pace across mobility and fiber remains on track"). Full-year 2026 capital expenditures are projected to be between $16.0 billion and $16.5 billion ("Capital expenditures of $16.0 billion to $16.5 billion").

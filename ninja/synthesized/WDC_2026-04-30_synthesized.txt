@@ -1,0 +1,22 @@
+Ticker: WDC
+Source: WDC_2026-04-30.txt
+Generated: 2026-05-04 00:09 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Western Digital (WDC)**
+
+**1. Demand & Activity**
+Demand is robust and growing across all segments, driven primarily by AI infrastructure requirements. The company reports strong sequential and year-over-year growth in all end markets, specifically noting that AI workloads (training, inference, and agentic AI) are driving persistent storage needs for HDDs ("strong sequential and year-over-year revenue growth in all our end markets"; "Virtually every AI workload... creates data that is stored persistently and cost-efficiently on HDDs").
+
+**2. Labor & Wages**
+The provided text contains no specific data on wage increases or hiring levels, though it lists "hiring and retention of key employees" as a general risk factor in its forward-looking statements.
+
+**3. Pricing Power & Inflation**
+The company is demonstrating moderate to robust pricing power, evidenced by significant gross margin expansion (GAAP gross margin increased from 39.8% to 50.2% year-over-year). Management attributes this to "continued delivery of innovation across an expanding set of customers." While inflation is listed as a general risk, current financial results suggest the company is successfully offsetting costs through value-added innovation.
+
+**4. Supply Chain & Inventory**
+Inventory levels appear stable, with a slight increase from $1.29 billion to $1.36 billion year-over-year. The company identifies "difficulties or delays in manufacturing or other supply chain disruptions" as a potential risk, but current reporting emphasizes "disciplined execution" and "visibility extending" into the next quarter.
+
+**5. Capital Spending (Capex)**
+Specific future Capex dollar amounts are not disclosed; however, the company is actively investing in technology and innovation to support AI-driven demand ("driven by innovation, strong customer engagements, and disciplined execution"). Net property, plant, and equipment saw a modest increase to $2.42 billion from $2.34 billion.
