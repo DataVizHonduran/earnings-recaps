@@ -1,0 +1,22 @@
+Ticker: WST
+Source: WST_2026-04-23.txt
+Generated: 2026-05-04 00:11 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: West Pharmaceutical Services (WST)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by strong organic growth of 15.3% in Q1. Activity is primarily driven by High-Value Product (HVP) Components, specifically within the GLP-1 and non-GLP-1 sectors ("double-digit growth in both GLP-1 and non-GLP-1 revenues"). Growth is particularly noted in Europe, where the company has focused on "ramping up production." Demand for self-injection devices for obesity and diabetes also remains strong, contributing to growth in the West Vantage segment.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+While specific pricing actions are not detailed, the company demonstrates moderate pricing power or favorable product mix, as evidenced by an increase in consolidated gross profit margin from 33.2% to 35.1%. There is no explicit commentary on input cost relief or persistent inflationary pressures.
+
+**4. Supply Chain & Inventory**
+The company reports successful operational scaling to meet demand, specifically citing "outstanding efforts in ramping up production, especially in Europe." There are no mentions of lead-time delays or bloated inventory levels.
+
+**5. Capital Spending (Capex)**
+Capital investment remains stable. Q1 capital expenditures were $42.7 million, and full-year 2026 guidance remains "unchanged from a range of $250 million to $275 million."

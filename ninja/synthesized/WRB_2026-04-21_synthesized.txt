@@ -1,0 +1,22 @@
+Ticker: WRB
+Source: WRB_2026-04-21.txt
+Generated: 2026-05-04 00:10 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: W. R. Berkley Corporation (WRB)**
+
+**1. Demand & Activity**
+Demand is growing modestly. The company reported a moderate increase in volume, with gross and net premiums written in the insurance segment increasing by 4.5% and 3.2%, respectively ("gross and net premiums written in the insurance segment increasing by 4.5% and 3.2%, respectively"). Growth is being targeted selectively based on risk-adjusted returns ("growing our business where pricing, terms, and conditions support attractive risk adjusted returns").
+
+**2. Labor & Wages**
+No specific data provided regarding wage inflation, headcount changes, or hiring difficulties. The company lists the "ability to attract and retain key personnel" as a general forward-looking risk, but provides no current-period updates.
+
+**3. Pricing Power & Inflation**
+The company maintains robust pricing power. Average rate increases, excluding workers' compensation, were approximately 7.2% ("Average rate increases excluding workers' compensation were approximately 7.2%"). Management indicates that current pricing and terms are supporting "attractive risk adjusted returns."
+
+**4. Supply Chain & Inventory**
+Not applicable. As a financial services/insurance entity, there are no reports of physical supply chain disruptions or inventory levels.
+
+**5. Capital Spending (Capex)**
+No specific mentions of new facility construction or technology investments. The company is focused on "effective capital management" and maintaining a high-quality fixed-maturity portfolio ("credit quality of the fixed-maturity portfolio remains high with an average rating of AA-").

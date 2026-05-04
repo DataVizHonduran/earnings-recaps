@@ -1,0 +1,22 @@
+Ticker: YUM
+Source: YUM_2026-04-29.txt
+Generated: 2026-05-04 00:12 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: YUM Brands (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is moderate to robust overall, though highly fragmented by brand and region. Taco Bell shows robust momentum with 8% same-store sales growth ("meaningfully ahead of the QSR industry"). KFC exhibits resilient demand, particularly in emerging markets like the Middle East/Turkey/North Africa (+19%) and India (+16%), though the U.S. market is softening (-2%). Pizza Hut demand is flat to declining, specifically seeing a moderate contraction in the U.S. (-6% system sales).
+
+**2. Labor & Wages**
+The provided text does not contain specific Q1 2026 data on wage levels or hiring. However, the company identifies "labor shortages and increased labor costs" as ongoing risk factors in its forward-looking statements.
+
+**3. Pricing Power & Inflation**
+The company maintains stable to positive pricing power in high-growth segments, though it explicitly lists "inflationary pressures" and "changes in food prices" as persistent risks to future performance. Company-owned restaurant margins for KFC saw a modest increase of 100 basis points, suggesting some ability to manage input costs.
+
+**4. Supply Chain & Inventory**
+No specific current-quarter data on lead times or inventory levels was provided. The company continues to monitor "shortages or interruptions in the availability and the delivery of food, equipment and other supplies" as a general operational risk.
+
+**5. Capital Spending (Capex)**
+Investment in capacity remains robust, with a clear focus on physical expansion and digital transformation. The company added 1,030 gross new units this quarter ("Unit count increased 5%") and is aggressively investing in "tech and AI capabilities" to sustain momentum, evidenced by a record digital system sales mix of 63%. Long-term targets include a stable 5% annual unit growth rate.

@@ -1,0 +1,22 @@
+Ticker: WY
+Source: WY_2026-04-30.txt
+Generated: 2026-05-04 00:11 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided press release for Weyerhaeuser (WY), the economic signals are as follows:
+
+**1. Demand & Activity**
+Activity appears to be recovering or expanding, though specific demand metrics were not detailed. The company is actively expanding its market reach through new distribution capabilities ("Expanded distribution footprint with new facility in Montana and upcoming site in Tennessee").
+
+**2. Labor & Wages**
+No mentions of hiring, turnover, or wage pressures were present in the provided text.
+
+**3. Pricing Power & Inflation**
+The provided text does not contain specific commentary on pricing actions or input cost inflation.
+
+**4. Supply Chain & Inventory**
+No specific data regarding lead times or inventory levels was provided.
+
+**5. Capital Spending (Capex)**
+Investment in capacity and distribution is moderate to robust. The company is investing in physical infrastructure to grow its footprint ("new facility in Montana and upcoming site in Tennessee") and is developing new product lines ("Previewed new and innovative engineered wood products"). Additionally, the company is optimizing its asset base through strategic divestitures ("Completed divestiture of timberlands in Virginia").

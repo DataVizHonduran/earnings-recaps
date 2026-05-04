@@ -1,0 +1,22 @@
+Ticker: WM
+Source: WM_2026-04-28.txt
+Generated: 2026-05-04 00:10 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Waste Management (WM)**
+
+**1. Demand & Activity**
+Demand is mixed. Collection and disposal volumes saw a slight decline of 1.5% ("Collection and disposal volume declined 1.5%"), attributed to harsh winter weather and the "intentional shedding of lower-margin residential business." However, this was partially offset by growth in municipal solid waste (MSW) and robust activity in the Recycling and Renewable Energy segments, which saw "higher recycling volumes" driven by completed growth projects.
+
+**2. Labor & Wages**
+The company is focused on workforce stability and efficiency. Management noted ongoing efforts to make "improvements in frontline retention" while simultaneously utilizing "technology and automation to reduce costs."
+
+**3. Pricing Power & Inflation**
+WM demonstrates robust pricing power. Revenue growth was primarily driven by a "core price of 6.3%" and "disciplined price execution." The company is successfully maintaining a "favorable price-to-cost spread." While some commodity prices softened—specifically single stream recycled commodities ($65/ton vs $88/ton prior year)—these were offset by higher realized prices for natural gas and electricity.
+
+**4. Supply Chain & Inventory**
+Not explicitly detailed; however, the company reports successful execution of capacity expansions, having "completed Three Recycling Facilities Adding Key Capacity in Growing Markets."
+
+**5. Capital Spending (Capex)**
+Capex remains focused on capacity expansion and operational technology. Recent investments include new recycling facilities in Ontario and Detroit and a major automation project in South Florida, which "together, the projects added nearly 300,000 tons of processing capacity." The company continues to invest in "renewable energy, a medical waste platform, technology, and our fleet."
