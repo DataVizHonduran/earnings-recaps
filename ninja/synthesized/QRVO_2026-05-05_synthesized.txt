@@ -1,0 +1,24 @@
+Ticker: QRVO
+Source: QRVO_2026-05-05.txt
+Generated: 2026-05-06 16:04 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Qorvo, Inc. (QRVO)**
+
+**1. Demand & Activity**
+Demand is **softening** overall, with total revenue declining both sequentially (-18.6%) and year-over-year (-7.0%). Activity is bifurcated by product line:
+*   **HPA Segment:** Showing **moderate** growth, increasing 7.9% year-over-year ("HPA $ 202.7... Year-over-Year Change 7.9%").
+*   **ACG & CSG Segments:** Experiencing **moderate to robust** declines, with ACG revenue down 11.7% and CSG down 7.9% year-over-year ("ACG... Year-over-Year Change (11.7)%; CSG... Year-over-Year Change (7.9)%").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is demonstrating **robust** margin expansion, suggesting either successful pricing adjustments or significant cost efficiencies. Non-GAAP gross margin expanded by 670 basis points year-over-year ("March quarterly non-GAAP gross margin expanded by 670 basis points year-over-year"). Management attributes this to "strategic optimization of business mix" ("strategic optimization of business mix within and across operating segments").
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific data regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Management is signaling a **moderate** shift toward lower capital intensity to drive profitability ("we expect continued momentum reducing capital intensity and enhancing profitability"). No specific new facility or capacity investments were detailed.
