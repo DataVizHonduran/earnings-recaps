@@ -1,0 +1,22 @@
+Ticker: NI
+Source: NI_2026-05-06.txt
+Generated: 2026-05-06 16:04 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: NiSource Inc. (NI)**
+
+**1. Demand & Activity**
+Demand is growing, driven specifically by large-scale industrial energy needs. The company is positioning itself to serve "growing energy demand" ("position NiSource to reliably serve the growing energy demand"), with a particular focus on "data center operations and development activities" for "large load customers."
+
+**2. Labor & Wages**
+The company notes a continued need to manage its workforce, though no specific wage hikes or reductions were reported. Management identifies the "ability to attract, retain or re-skill a qualified workforce" as a key risk factor for future operations.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail current price hikes, but it highlights a strategy to mitigate costs for the end-user. The company is utilizing a "GenCo model" through collaborations with Alphabet and Amazon to deliver "approximately $1.4 billion in customer value" (cost savings). General risks include "increases in inflation or interest rates" and "fluctuations in the price of energy commodities."
+
+**4. Supply Chain & Inventory**
+Specific lead times were not provided; however, the company identifies "construction risks and supply risks" as ongoing factors that could impact the timely placement of generation or transmission assets into service.
+
+**5. Capital Spending (Capex)**
+Capex is robust and expanding, focused on infrastructure and technology. The company is pursuing "utility infrastructure investments" and the development of "generation or transmission assets" to support data center contracts. These investments are intended to "strengthen our grid" and drive "economic development across Indiana."
