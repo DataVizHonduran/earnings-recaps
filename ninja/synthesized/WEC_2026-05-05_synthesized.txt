@@ -1,0 +1,22 @@
+Ticker: WEC
+Source: WEC_2026-05-05.txt
+Generated: 2026-05-07 16:10 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: WEC Energy Group (Q1 2026)**
+
+**Demand & Activity**
+Electricity demand is seeing modest growth, particularly within the industrial sector. Retail electricity deliveries (excluding the Michigan iron ore mine) rose 1.1% year-over-year, with a more robust increase of 2.7% among large commercial and industrial customers ("Electricity use by large commercial and industrial customers... increased by 2.7 percent"). Residential demand remained stable, increasing by 0.2% ("Residential electricity use rose by 0.2 percent"). Conversely, natural gas demand is softening; deliveries in Wisconsin decreased by 3.5% ("natural gas deliveries in Wisconsin... decreased by 3.5 percent").
+
+**Labor & Wages**
+The provided text contains no specific commentary on hiring, turnover, or wage adjustments.
+
+**Pricing Power & Inflation**
+The company reports solid top-line growth, with consolidated revenues increasing by $284.7 million over the prior year ("Consolidated revenues totaled $3.4 billion, up $284.7 million"). While specific pricing actions are not detailed, the company lists "inflation" and "supply chain disruptions" as ongoing risk factors that could impact future results ("Factors... could include... supply chain disruptions inflation").
+
+**Supply Chain & Inventory**
+Inventory levels appear to be leaning lower. Materials, supplies, and inventories decreased from $803.4 million at year-end 2025 to $612.3 million in Q1 2026 (per Condensed Consolidated Balance Sheets).
+
+**Capital Spending (Capex)**
+Investment activity remains robust as the company executes its long-term infrastructure strategy. Management highlighted a continued "execution of our capital plan" to support a "growing economy" ("As we build for a growing economy, we remain committed to delivering reliable, safe energy"). Specific focus areas for future investment include "projects related to serving data centers and other large-scale customers" (Forward-looking statements).

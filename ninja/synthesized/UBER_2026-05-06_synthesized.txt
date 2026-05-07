@@ -1,0 +1,22 @@
+Ticker: UBER
+Source: UBER_2026-05-06.txt
+Generated: 2026-05-07 16:10 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Uber Technologies (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is robust across primary business lines. Total trips grew 20% year-over-year to 3.6 billion ("Trips during the quarter grew 20% year-over-year"), supported by a 17% increase in Monthly Active Platform Consumers ("MAPCs growth of 17% YoY"). Growth is strongest in Delivery and Mobility, with Gross Bookings increasing 23% and 20% on a constant currency basis, respectively ("Delivery... 23% [and] Mobility... 20%"). Freight activity remains stable but lags significantly behind other segments ("Freight... 6%").
+
+**2. Labor & Wages**
+The provided text contains no specific data regarding current wage increases, turnover rates, or headcount reductions. The company notes a general ongoing risk regarding the "ability to attract drivers, consumers and other partners to our platform."
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate pricing power and efficiency gains, as earnings are scaling faster than revenue ("earnings scaling at more than twice our topline"). However, management explicitly identifies "rising inflation and interest rates" as potential risks to future performance.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a platform-based service provider, Uber does not report traditional physical inventory or lead times.
+
+**5. Capital Spending (Capex)**
+Investment is focused on technology and automation. The company is pursuing a "capital-efficient approach to AVs" (Autonomous Vehicles) and is "embracing AI to drive growth and productivity." Total free cash flow remains strong at $2.3 billion ("free cash flow... was $2.3 billion"), indicating that current capex is well-covered by operating cash flows.

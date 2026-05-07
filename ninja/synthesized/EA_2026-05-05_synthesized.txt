@@ -1,0 +1,17 @@
+Ticker: EA
+Source: EA_2026-05-05.txt
+Generated: 2026-05-07 16:09 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Electronic Arts (EA)**
+
+**1. Demand & Activity:** Robust. Net bookings reached a record $8.026 billion, increasing 9% year-over-year ("Net bookings were a record $8.026 billion in FY26, up 9% year-over-year"). Growth was driven by a strong launch of *Battlefield 6* ("best performing Battlefield in a fiscal year") and moderate growth in Global Football bookings ("up mid-single-digits for FY26"). *Apex Legends* showed robust momentum, with bookings increasing by double digits year-over-year ("Apex Legends net bookings finished up double digits year-over-year").
+
+**2. Labor & Wages:** Stable/Unspecified. The report does not detail specific wage increases or headcount changes, though it notes a potential risk that the pending acquisition could "have an adverse effect on the ability of the Company to retain and hire key personnel."
+
+**3. Pricing Power & Inflation:** Stable. There are no explicit mentions of price hikes or input cost pressures. Cost of revenue remained relatively flat, moving from $1.543 billion in FY25 to $1.584 billion in FY26.
+
+**4. Supply Chain & Inventory:** Stable. While the company does not report specific inventory levels, it identifies the "availability of an adequate supply of console hardware units" as a general risk factor for consumer demand.
+
+**5. Capital Spending (Capex):** Modest. Investment in property and equipment saw a slight increase, with net assets rising from $586 million to $613 million. The company continues to invest in technology and development, as evidenced by a moderate increase in Research and Development spending, which rose from $2.569 billion to $2.828 billion ("Research and development... 2,828 [vs] 2,569").
