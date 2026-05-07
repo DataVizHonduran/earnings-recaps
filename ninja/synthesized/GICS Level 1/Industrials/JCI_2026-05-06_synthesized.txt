@@ -1,0 +1,25 @@
+Ticker: JCI
+Source: JCI_2026-05-06.txt
+Generated: 2026-05-07 16:09 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Johnson Controls (JCI)**
+
+**Demand & Activity:**
+Demand is robust, characterized by strong momentum in high-growth technology sectors. Organic sales grew 6% overall, with a record backlog of $20 billion ("reflecting strength in data centers and other high growth, technology driven operating environments"). 
+*   **Americas:** Robust growth, with orders increasing 40% driven by "large-scale data center projects."
+*   **APAC:** Robust growth, with organic sales up 13%, led by "over 20% growth in Applied HVAC."
+*   **EMEA:** Modest growth (1% organic), as growth in products was offset by "disruptions caused by the Middle East conflicts."
+
+**Labor & Wages:**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage trends.
+
+**Pricing Power & Inflation:**
+The company demonstrates moderate pricing power. Margin expansion in the Americas was "primarily driven by favorable pricing, productivity improvements and increased volumes." While the company notes general risks regarding "global price inflation" in its cautionary statements, current results indicate that pricing and productivity are successfully offsetting costs.
+
+**Supply Chain & Inventory:**
+The report does not provide specific data on lead times or inventory levels, though it notes a general risk of "associated supply chain disruptions" related to geopolitical volatility.
+
+**Capital Spending (Capex):**
+Specific quantitative Capex plans were not detailed; however, the company is actively investing in its "Business System journey" and "transformation costs" to drive organizational improvement and long-term value.

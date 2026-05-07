@@ -1,0 +1,22 @@
+Ticker: TRGP
+Source: TRGP_2026-05-07.txt
+Generated: 2026-05-07 16:10 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Targa Resources Corp. (TRGP)**
+
+**1. Demand & Activity:**
+Demand is robust, characterized by record-breaking activity in key operational segments. The company reported "Record Permian inlet volumes during the first quarter" and "Record fractionation volumes during the first quarter," indicating strong growth in throughput and processing activity within the Permian Basin.
+
+**2. Labor & Wages:**
+No mentions of hiring, turnover, or wage pressures were provided in the text.
+
+**3. Pricing Power & Inflation:**
+The provided text does not explicitly detail pricing adjustments or specific input cost inflation; however, the company is experiencing significant growth in profitability, reporting "Record adjusted EBITDA for the first quarter of $1.4 billion, an increase of 19% year-over-year."
+
+**4. Supply Chain & Inventory:**
+No specific data on lead times or inventory levels were provided.
+
+**5. Capital Spending (Capex):**
+Investment in capacity is moderate to robust, with a focus on expanding processing infrastructure. Recent completions include the "new Falcon II processing plant in Permian Delaware" (completed February 2026) and the "new East Pembrook" facility (completed late March 2026). The company has also "Increas[ed] Financial Outlook for 2026," suggesting continued confidence in its growth trajectory.

@@ -1,0 +1,17 @@
+Ticker: NCLH
+Source: NCLH_2026-05-04.txt
+Generated: 2026-05-07 16:09 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: NCLH (Q1 2026)**
+
+**Demand & Activity:** Demand is softening, particularly in the European market, driven by geopolitical instability. The company reports being "behind its targeted booking curve" ("entered 2026 behind its targeted booking curve") and notes that Middle East disruptions have caused consumers to "reevaluate travel plans, particularly to Europe" ("signs of softer demand as consumers reevaluate travel plans").
+
+**Labor & Wages:** The company is pursuing moderate headcount and organizational reductions to lower overhead. Management is executing "workforce optimization" ("driven by workforce optimization and other SG&A savings") as part of a broader effort to "simplify, optimize, and streamline the organization" ("acted with urgency to simplify, optimize, and streamline the organization").
+
+**Pricing Power & Inflation:** Pricing power is softening, evidenced by a projected decline in net yields. Full-year net yield is expected to be down 3% to 5% on a constant currency basis ("Net Yield on a Constant Currency basis is expected to be down approximately 3% to 5% versus 2025"). While the company is seeing some relief in cruise costs, it faces persistent pressure from "higher fuel expense" ("headwinds related to disruptions in the Middle East, including higher fuel expense").
+
+**Supply Chain & Inventory:** Not addressed in the provided text.
+
+**Capital Spending (Capex):** Investment in capacity remains active, highlighted by the recent delivery of a new vessel ("took delivery of Norwegian Luna"). The company continues to invest in "revenue management system" enhancements to improve commercial execution ("continues to enhance its revenue management system and improve execution").
