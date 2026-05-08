@@ -1,0 +1,22 @@
+Ticker: DIS
+Source: DIS_2026-05-06.txt
+Generated: 2026-05-08 15:28 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Walt Disney Co (Q2 FY2026)**
+
+**1. Demand & Activity**
+Demand is generally **robust**, with total revenues increasing 7% to $25.2 billion. Activity is particularly strong in the Entertainment segment (revenue up 10%) and Experiences (revenue up 7%). Domestic park demand is described as "healthy," though management notes "macroeconomic uncertainty consumers are facing today." International demand remains strong in specific markets, notably China, where "Zootopia land remains a strong draw for guests to visit Shanghai Disneyland."
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring difficulty, turnover, wage increases, or headcount reductions.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price hikes or specific input cost pressures. However, the company is focused on "increase[ing] monetization and returns" through the use of "advanced technologies."
+
+**4. Supply Chain & Inventory**
+The provided text contains no mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment remains **moderate to robust**, focused on capacity expansion and technology. The company is executing "bold growth plans at Disney Experiences," which includes the recent launch of the "Disney Adventure" ship and the opening of "the World of Frozen at Disneyland Paris." Additionally, there is continued "investment in the creative storytelling" and "product and technology innovation" to strengthen streaming platforms.

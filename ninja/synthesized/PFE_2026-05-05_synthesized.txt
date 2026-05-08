@@ -1,0 +1,22 @@
+Ticker: PFE
+Source: PFE_2026-05-05.txt
+Generated: 2026-05-08 15:30 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Pfizer Inc. (Q1 2026)**
+
+**Demand & Activity:**
+Demand is moderate and bifurcated. There is robust growth in launched and acquired products, which grew 22% operationally ("revenues of our Launched and Acquired Products grew 22% operationally"). Specific strength is noted in oncology and obesity ("particularly encouraged by what we're seeing in oncology and obesity"). However, demand for COVID-19 products is softening significantly, with Comirnaty down 59% and Paxlovid down 63% operationally ("driven primarily by lower COVID-19 infections across U.S. and international markets").
+
+**Labor & Wages:**
+The company is focused on operational efficiency and organizational restructuring. Management implemented "organizational changes in our commercial organization... to better support and optimize performance" ("made organizational changes in our commercial organization within the Global Biopharmaceuticals Business"). There are no specific mentions of wage inflation or hiring difficulties.
+
+**Pricing Power & Inflation:**
+Pricing power is mixed. The company is seeing favorable net pricing in the U.S. for oncology biosimilars and Nurtec ("driven primarily by favorable net price in the U.S."). Conversely, there is evidence of price erosion in other areas, specifically for Eliquis in international markets ("declines due to generic entry and price erosion in certain international markets") and Vyndaqel in the U.S. ("revenues declined primarily due to net price erosion as a result of new payer contracts").
+
+**Supply Chain & Inventory:**
+Supply conditions appear to be stabilizing. The company noted a "supply recovery" as a driver for the growth of oncology biosimilars ("driven primarily by favorable net price in the U.S. and supply recovery"). No mentions of bloated inventories or extended lead times were provided.
+
+**Capital Spending (Capex):**
+Investment is focused heavily on R&D and pipeline expansion. The company is aggressively funding future capacity in oncology and obesity ("increase in spending in certain oncology and obesity product candidates") and is on track to start "20 key pivotal studies in 2026." Total internal R&D investment for the quarter was $2.5 billion ("$2.5 billion invested in internal research and development projects").

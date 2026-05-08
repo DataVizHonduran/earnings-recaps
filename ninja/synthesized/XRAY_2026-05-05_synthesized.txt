@@ -1,0 +1,26 @@
+Ticker: XRAY
+Source: XRAY_2026-05-05.txt
+Generated: 2026-05-08 15:31 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Dentsply Sirona (XRAY)**
+
+**1. Demand & Activity**
+Demand is softening overall, with constant currency sales declining 6.7% year-over-year ("Constant Currency Sales (6.7%)"). Activity is bifurcated by region and product:
+*   **Americas:** Moderate decline, particularly in Orthodontic and Implant Solutions, which saw a robust drop of 24.2% in constant currency ("Orthodontic and Implant Solutions... Americas... (24.2%)").
+*   **APAC:** Modest growth in total sales, driven by strong performance in Essential Dental Solutions ("Essential Dental Solutions... APAC... 12.6%").
+*   **EMEA:** Softening demand across most segments ("Total... EMEA... (5.6%)").
+*   **General:** Management notes performance is currently "impacted by external pressures" ("near-term performance is impacted by external pressures").
+
+**2. Labor & Wages**
+The report does not provide specific data on wage inflation or hiring difficulty, but indicates active organizational changes through a "commercial restructuring" ("we advanced our commercial restructuring").
+
+**3. Pricing Power & Inflation**
+There is evidence of persistent cost pressure. Gross margins have declined moderately from 53.0% to 48.5% year-over-year ("Gross Margin 48.5% [vs] 53.0%"), and the cost of products sold increased from $413 million to $453 million ("Cost of products sold 453 [vs] 413").
+
+**4. Supply Chain & Inventory**
+Inventory levels appear stable to slightly increasing, with net inventories rising from $642 million to $659 million ("Inventories, net 659 [vs] 642"). There are no specific mentions of lead time volatility.
+
+**5. Capital Spending (Capex)**
+Capital investment has increased moderately, with Q1 expenditures rising to $52 million compared to $19 million in the prior year period ("Capital expenditures (52) [vs] (19)"). Investment is focused on "portfolio innovation" and "connected technology solutions" ("continued portfolio innovation," "penetrate connected technology solutions market").
