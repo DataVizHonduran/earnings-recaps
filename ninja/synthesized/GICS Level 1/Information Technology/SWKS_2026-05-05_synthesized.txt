@@ -1,0 +1,22 @@
+Ticker: SWKS
+Source: SWKS_2026-05-05.txt
+Generated: 2026-05-08 15:30 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Skyworks Solutions (SWKS)**
+
+**1. Demand & Activity**
+Demand is showing moderate to robust momentum across diversified segments. Mobile demand is described as "healthy" ("Mobile outperformed expectations on healthy demand"), though it is expected to soften slightly in the next quarter due to "typical seasonal patterns" ("declining low-single digits sequentially"). Broad Markets activity is accelerating with "double-digit year-over-year growth" ("driven by Wi-Fi, data center, and automotive"), with a modest sequential increase expected for the June quarter ("Broad Markets is expected to grow modestly sequentially").
+
+**2. Labor & Wages**
+The report does not provide specific data on current wage levels or headcount changes, but identifies the ability to "retain, recruit and hire key executives" and technical personnel at necessary "compensation levels" as a continuing operational risk ("the departure of any such executives... at the compensation levels needed to implement our business and product plans").
+
+**3. Pricing Power & Inflation**
+There are no direct mentions of recent price increases or specific input cost relief. However, the company notes ongoing sensitivity to "inflation and recession" and the general "availability and pricing of third-party semiconductor foundry, assembly and test capacity" as persistent risk factors ("the susceptibility of the semiconductor industry... to economic cycles or changes in economic conditions, including inflation").
+
+**4. Supply Chain & Inventory**
+The company does not report current lead times or specific inventory levels but highlights the critical nature of "shipping and logistics services" and the ability of both the company and its customers to "manage inventory" as key variables for financial stability ("the timing, rescheduling or cancellation of significant customer orders and our ability, as well as the ability of our customers, to manage inventory").
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for Capex are not disclosed, the company is investing in technology leadership and capacity expansion through "next-generation clock buffers" for data centers and "6G innovation leadership" ("debut of a FR3 frequency range RF front-end (RFFE) power amplifier"). Additionally, the company is pursuing significant inorganic growth via "proposed merger transactions with Qorvo, Inc." ("the possibility that expected benefits related to such transactions with Qorvo may not materialize").

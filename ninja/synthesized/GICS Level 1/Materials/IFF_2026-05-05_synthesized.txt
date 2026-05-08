@@ -1,0 +1,22 @@
+Ticker: IFF
+Source: IFF_2026-05-05.txt
+Generated: 2026-05-08 15:29 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: IFF (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is showing modest growth. The company reported "volume growth in all four segments" ("delivered volume growth in all four segments"). Growth was broad-based, with the Taste segment seeing "broad-based growth in all regions" ("broad-based growth in all regions") and Health Biosciences led by "Animal Nutrition and Food Biosciences" ("led by Animal Nutrition and Food Biosciences"). However, the overall operating environment is described as "unsettled" ("current operating environment remains unsettled").
+
+**2. Labor & Wages**
+No specific data provided regarding current wage levels or hiring trends. The company lists "attraction, retention and turnover of key employees" as a general risk factor ("attraction, retention and turnover of key employees and executives"), but no active labor market signals were reported for the quarter.
+
+**3. Pricing Power & Inflation**
+Pricing power is mixed across segments. The Taste segment benefited from "favorable net pricing" ("led by volume growth, favorable net pricing and productivity gains"). Conversely, the Scent segment experienced margin pressure as gains were "more than offset by unfavorable price to input cost" ("more than offset by unfavorable price to input cost"). Management continues to work with customers to "offset inflation" ("working with customers to offset inflation").
+
+**4. Supply Chain & Inventory**
+The report does not provide specific updates on lead times or current inventory levels, though "working capital and inventory management" remains a listed risk factor ("working capital and inventory management").
+
+**5. Capital Spending (Capex)**
+Specific future facility investments were not detailed, but the company is focused on "driving productivity" ("driving productivity") and "portfolio optimization" ("portfolio optimization initiatives"). This includes a "disciplined sale process for Food Ingredients" ("running a disciplined sale process for Food Ingredients") to maximize shareholder value.

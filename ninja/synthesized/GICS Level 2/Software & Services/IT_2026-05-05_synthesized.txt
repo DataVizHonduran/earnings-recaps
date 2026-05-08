@@ -1,0 +1,22 @@
+Ticker: IT
+Source: IT_2026-05-05.txt
+Generated: 2026-05-08 15:29 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Gartner Inc. (IT)**
+
+**1. Demand & Activity**
+Demand is stable to modestly growing, though variance exists by product line. Total Contract Value (CV) showed slight growth (+1.0% FX neutral), with a modest acceleration in Global Business Sales (+3.2% YoY FX Neutral) offsetting nearly flat activity in Global Technology Sales (+0.4% YoY FX Neutral). Consulting activity is softening significantly, with revenues declining moderately (-14.7% as reported; -16.8% FX neutral).
+
+**2. Labor & Wages**
+The company notes persistent challenges in talent acquisition and retention, specifically citing "labor competition" as a risk to its "ability to attract and retain a professional staff of analysts and consultants as well as experienced sales personnel."
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail recent price hikes, but identifies "inflation (and related monetary policy by governments in response to inflation)" as a continuing risk factor impacting global economic and geopolitical conditions.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a professional services and insights firm, there are no mentions of physical supply chain constraints or inventory levels.
+
+**5. Capital Spending (Capex)**
+Specific facility or capacity investment figures were not provided; however, the company is prioritizing technological adaptation, noting the necessity to "keep pace with technological developments in artificial intelligence (AI) and comply with evolving AI regulations."

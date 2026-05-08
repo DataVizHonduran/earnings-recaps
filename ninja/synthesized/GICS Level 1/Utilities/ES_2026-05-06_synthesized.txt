@@ -1,0 +1,22 @@
+Ticker: ES
+Source: ES_2026-05-06.txt
+Generated: 2026-05-08 15:28 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Eversource Energy (ES)**
+
+**1. Demand & Activity**
+Activity remains robust, driven by significant infrastructure needs. There is a noted requirement for "significant transmission investments to bring incremental generation in the region" to reduce customer costs. Segment earnings grew across the board, with particular strength in natural gas and electric transmission.
+
+**2. Labor & Wages**
+Not addressed. The transcript contains no specific mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is successfully implementing price increases through regulatory channels. Revenue growth was driven by "base distribution rate increases at Eversource’s Massachusetts and New Hampshire electric businesses" and "base distribution rate increases at all of Eversource’s gas businesses, effective November 1, 2025." However, these gains were "partially offset by higher interest expense, depreciation, operations and maintenance (O&M) and property taxes."
+
+**4. Supply Chain & Inventory**
+Not addressed. The transcript does not provide data on lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment in capacity remains a priority. The company reports "continued investment in Eversource’s electric transmission system" and "continued investments in our distribution system," as well as ongoing spending to "recover continued investment in our natural gas infrastructure."
