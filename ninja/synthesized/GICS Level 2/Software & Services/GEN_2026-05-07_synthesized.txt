@@ -1,0 +1,22 @@
+Ticker: GEN
+Source: GEN_2026-05-07.txt
+Generated: 2026-05-09 14:58 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Gen Digital Inc. (GEN)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by accelerating double-digit growth. Management reports "healthy demand for our Cyber Safety Platform" and specifically notes "double-digit revenue growth in Trust-Based Solutions." Overall activity is strong, with FY26 revenue crossing $5 billion for the first time, up 27% year-over-year ("Revenue of $5,000 million, up 27%").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price hikes or specific input cost relief. However, the company acknowledges general macroeconomic risks, including "the impact of inflation" and "fluctuations in foreign currency exchange rates," as potential headwinds to future operations.
+
+**4. Supply Chain & Inventory**
+As a digital services provider, the company does not report physical inventory or traditional supply chain lead times.
+
+**5. Capital Spending (Capex)**
+Investment focus is shifting toward technology and high-return growth initiatives. The company intends to "allocate capital prioritizing high-return investments to extend our growth," with a strategic emphasis on the "agentic AI era" to position the platform as a "trust layer for everyone."

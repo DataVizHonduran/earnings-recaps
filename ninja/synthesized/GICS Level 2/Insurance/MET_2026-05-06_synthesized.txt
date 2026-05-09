@@ -1,0 +1,26 @@
+Ticker: MET
+Source: MET_2026-05-06.txt
+Generated: 2026-05-09 15:00 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: MetLife Inc. (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is robust and growing across most global segments. Adjusted premiums, fees, and other revenues (excluding PRT) increased 10% ("Adjusted PFOs, excluding pension risk transfers (PRT), increased 10%"). 
+*   **North America:** Group Benefits saw modest volume growth ("primarily reflecting favorable life underwriting and volume growth"), while RIS experienced strong growth in U.K. longevity reinsurance and structured settlements ("up 58%, reflecting growth across most products").
+*   **Asia:** Robust activity, particularly in Japan and Korea ("Sales were $766 million, up 22% on a constant currency basis").
+*   **EMEA:** Strong momentum in both new sales and renewals ("reflecting strong sales momentum and solid renewal activity across the region").
+*   **Latin America:** Strong growth and solid persistency ("up 11% on a constant currency basis, due to strong growth and solid persistency").
+
+**2. Labor & Wages**
+The report contains no specific mentions of hiring difficulties, turnover, or wage inflation.
+
+**3. Pricing Power & Inflation**
+The company is benefiting from a stable credit environment and higher interest rates ("Net derivative gains... driven by higher interest rates"). There is evidence of favorable underwriting across multiple segments ("favorable life underwriting" in Group Benefits; "favorable underwriting" in RIS and Latin America). Input cost pressure is not explicitly noted, though the direct expense ratio remained stable ("11.9 percent, compared to 12.0 percent in the prior-year quarter").
+
+**4. Supply Chain & Inventory**
+Not applicable to this service-based financial entity.
+
+**5. Capital Spending (Capex)**
+The company is pursuing a strategy of "deliberate capital deployment" to balance business investment with shareholder returns ("deliberate capital deployment that balances investment in our businesses with returning capital to shareholders"). Specific facility or technology spend was not detailed, though growth in MetLife Investment Management was partially driven by the "acquisition of PineBridge Investments."
