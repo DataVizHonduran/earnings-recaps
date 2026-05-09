@@ -1,0 +1,22 @@
+Ticker: AIZ
+Source: AIZ_2026-05-05.txt
+Generated: 2026-05-09 14:58 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Assurant, Inc. (AIZ)**
+
+**1. Demand & Activity:**
+Demand is robust, characterized by strong growth in connected device and housing protection. The Global Lifestyle segment saw "double-digit earnings growth" ("double-digit earnings growth across both Connected Living and Global Automotive"), specifically driven by "subscriber growth in mobile protection programs and trade-in performance" ("Connected Living results benefitted from subscriber growth in mobile protection programs and trade-in performance"). In Global Housing, activity is stable to growing, with "higher lender-placed policies in-force" ("growth within Homeowners from higher lender-placed policies in-force").
+
+**2. Labor & Wages:**
+Not addressed. The transcript contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation:**
+The company demonstrates moderate pricing power. Revenue growth in the housing sector was supported by "higher policies in-force and average premiums within lender-placed" ("driven by higher policies in-force and average premiums within lender-placed"). There are no mentions of input cost inflation or commodity pressures.
+
+**4. Supply Chain & Inventory:**
+Not addressed. As a provider of protection and insurance services, the company does not report traditional physical supply chain or inventory metrics.
+
+**5. Capital Spending (Capex):**
+Investment is focused on organic growth and technology. The company is making "organic investments to support our Home Warranty business" ("driven by organic investments to support our Home Warranty business"), which is expected to contribute to a Corporate and Other Adjusted EBITDA loss of approximately $140 million. Future capital deployment will continue "funding organic investments and M&A" ("supporting business growth by funding organic investments and M&A").

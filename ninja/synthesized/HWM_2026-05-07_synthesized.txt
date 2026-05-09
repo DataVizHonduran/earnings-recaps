@@ -1,0 +1,22 @@
+Ticker: HWM
+Source: HWM_2026-05-07.txt
+Generated: 2026-05-09 14:58 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Howmet Aerospace (HWM)**
+
+**1. Demand & Activity**
+Demand is robust across most key end markets, though variances exist by sector. Commercial aerospace is seeing strong growth ("Commercial aerospace OEM customers continue to target production rate increases supported by record backlogs"), and the gas turbines market is "very active." Defense markets remain "healthy." Conversely, demand in commercial transportation is softening, with volumes down 11% ("11% lower volumes in the commercial transportation market"), although the company notes "signs of demand improvement" in this sector.
+
+**2. Labor & Wages**
+Labor trends are mixed and segment-specific. The Engine Products segment is expanding its workforce to meet growth ("absorbed approximately 235 net headcount in the quarter in support of expected revenue increases"). In contrast, the Forged Wheels segment has reduced headcount to offset lower transportation volumes ("driven by cost reductions, including lower net headcount").
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate pricing power, particularly in its wheels business, where it is successfully passing through input costs ("increase in aluminum and other inflationary cost pass through"). Overall margins expanded significantly, with adjusted EBITDA margin increasing 320 basis points year-over-year.
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capital investment remains steady to support future capacity. The company spent $94 million in capital expenditures during the quarter ("spending $94 million in capital expenditures, supporting the future growth rate of the Company"). Additionally, the company is aggressively pursuing inorganic growth through acquisitions, including the $1.8 billion purchase of Consolidated Aerospace Manufacturing (CAM) and the $120 million acquisition of Brunner Manufacturing Co. ("allocating capital to the businesses that demonstrate higher growth and margin potential").

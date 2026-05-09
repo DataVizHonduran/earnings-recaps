@@ -1,0 +1,22 @@
+Ticker: VTRS
+Source: VTRS_2026-05-07.txt
+Generated: 2026-05-09 15:00 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Viatris Inc. (Q1 2026)**
+
+**Demand & Activity:**
+Demand is growing modestly overall, with total revenues up 3% operationally ("Total Revenues Were Up 3% Operationally"). Activity is robust in Greater China, which saw an 18% operational increase ("Greater China 680.1... 18%"), and remains stable in North America ("continued momentum in key markets like Greater China and North America"). Growth in the Brands category is moderate ("Brands net sales reflect accelerated growth in Greater China"), while Generics demand is stable, supported by new launches ("Generics net sales reflect contributions from new product launches").
+
+**Labor & Wages:**
+The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**Pricing Power & Inflation:**
+The report does not explicitly detail price hikes or specific input cost relief. However, the company is seeing modest operating leverage, with Adjusted EBITDA growing faster than revenues ("Adjusted EBITDA was $1.0 Billion Up 10% Operationally... Demonstrating Solid Operating Leverage").
+
+**Supply Chain & Inventory:**
+Supply conditions are mixed. While overall operations are stable, there are softening signals in specific segments due to availability issues ("partially offset by supply constraints in our ARV business within Emerging Markets").
+
+**Capital Spending (Capex):**
+Capital expenditures have seen a slight reduction compared to the prior year period, totaling $39.9 million versus $42.6 million in Q1 2025 ("Capital Expenditures 39.9 42.6 (6)%"). The company remains focused on pipeline investment and new product catalysts ("progressed on launches and advanced our pipeline with multiple near-term catalysts").

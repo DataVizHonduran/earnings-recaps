@@ -1,0 +1,22 @@
+Ticker: MAR
+Source: MAR_2026-05-06.txt
+Generated: 2026-05-09 14:59 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Marriott International (Q1 2026)**
+
+**1. Demand & Activity**
+Demand remains robust globally, with worldwide RevPAR increasing 4.2% ("resilience of demand for travel"). Growth is broad-based across customer segments and chain scales in the U.S. and Canada, where RevPAR rose 4.0% ("performance strengthening throughout the quarter"). International demand is moderate to robust, led by APEC (up over 7% "on sustained leisure travel demand") and Greater China (up almost 6%), though activity in the Middle East is softening due to regional conflict ("decline in the Middle East").
+
+**2. Labor & Wages**
+The company reports modest upward pressure on labor costs, noting that general and administrative expenses increased to $219 million, "reflecting higher compensation costs partly due to timing."
+
+**3. Pricing Power & Inflation**
+Marriott continues to exercise pricing power, with global RevPAR growth "driven by gains in both average daily rate and occupancy." There are no specific mentions of input cost relief or commodity inflation; however, interest expenses have increased to $204 million, "largely due to higher interest expense associated with higher debt balances."
+
+**4. Supply Chain & Inventory**
+Not applicable for this asset-light model. However, the "inventory" of future capacity is at a record high, with a development pipeline of over 4,100 properties and nearly 618,000 rooms ("worldwide development pipeline reached a new record").
+
+**5. Capital Spending (Capex)**
+Investment spending remains significant, with a projected outlook for the second quarter of 2026 between $1.05 billion and $1.15 billion ("Investment spending $1,050 to $1,150"). Growth is being driven heavily by property conversions, which represented "over 40 percent of openings in the quarter."
