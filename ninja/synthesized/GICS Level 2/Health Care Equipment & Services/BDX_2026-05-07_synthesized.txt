@@ -1,0 +1,15 @@
+Ticker: BDX
+Source: BDX_2026-05-07.txt
+Generated: 2026-05-10 15:04 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Overall demand is modest, with "more than 90% of the business delivering mid single digit growth." Activity is robust in the United States (+5.1% FXN) but softening internationally (-1.4% FXN). Performance varies by product line: Interventional showed moderate growth (+5.3% FXN) and Connected Care was stable (+3.2% FXN), while BioPharma Systems experienced softening demand (-1.8% FXN). Full-year revenue growth expectations remain in the "low single-digit" range (FXN).
+
+**Labor & Wages:** Not discussed.
+
+**Pricing Power & Inflation:** The company did not explicitly detail pricing actions or input cost pressures, though it noted "ongoing margin momentum from BD Excellence."
+
+**Supply Chain & Inventory:** Not discussed.
+
+**Capital Spending (Capex):** While specific facility expenditures were not disclosed, the company is prioritizing investment in technology and R&D, focusing on "advancing our commercial and innovation initiatives across key growth platforms" and leveraging its "innovation engine" to drive competitive advantage.

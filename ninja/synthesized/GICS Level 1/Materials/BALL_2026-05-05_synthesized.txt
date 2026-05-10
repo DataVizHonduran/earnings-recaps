@@ -1,0 +1,15 @@
+Ticker: BALL
+Source: BALL_2026-05-05.txt
+Generated: 2026-05-10 15:02 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Global demand is stable to modestly positive, with total shipments increasing slightly ("increased 0.8%"). Regional performance is mixed: North and Central America and EMEA saw modest growth ("increased low-single digit percent"), while South America experienced a moderate softening ("decreased mid-single digit percent").
+
+**Labor & Wages:** Not discussed.
+
+**Pricing Power & Inflation:** Pricing power remains robust, supported by "passthrough mechanisms that continue to perform as intended." Sales growth in North and South America was primarily driven by "higher aluminum prices," although some regional operating earnings were "partially offset by higher costs."
+
+**Supply Chain & Inventory:** Not discussed.
+
+**Capital Spending (Capex):** The company continues modest investments in "innovation and sustainability" to support manufacturing efficiency and maintains the flexibility to fund "long-term, sustainable EVA growth projects."

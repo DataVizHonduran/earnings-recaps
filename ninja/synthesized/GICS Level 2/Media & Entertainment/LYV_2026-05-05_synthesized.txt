@@ -1,0 +1,15 @@
+Ticker: LYV
+Source: LYV_2026-05-05.txt
+Generated: 2026-05-10 15:06 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Demand is robust, characterized by "record-breaking activity across our business." Ticket sales through April increased 11% to over 107 million, and the company has already booked over 85% of its large-venue shows for the year. Forward-looking indicators are strong, with event-related deferred revenue reaching "record levels" at $6.6 billion, a 22% increase.
+
+**Labor & Wages:** Not mentioned.
+
+**Pricing Power & Inflation:** The company is experiencing robust growth in premium hospitality spending, with onsite spending "up 30% per fan at Ziggo Dome in Amsterdam" and exceeding $100 per fan at the Hollywood Palladium. There were no specific mentions of input cost pressures or commodity inflation.
+
+**Supply Chain & Inventory:** Not mentioned.
+
+**Capital Spending (Capex):** Investment in capacity is robust. Full-year capital expenditures are projected at $1.1 to $1.2 billion, with $800 to $850 million specifically allocated to "venue expansion and enhancement projects." Key upcoming projects include two U.S. amphitheaters and one stadium in Guadalajara, Mexico.

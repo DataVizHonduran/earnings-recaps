@@ -1,0 +1,11 @@
+Ticker: NWS
+Source: NWS_2026-05-07.txt
+Generated: 2026-05-10 15:10 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Demand is robust across professional information and digital real estate. Professional information services saw strong growth ("11% increase in professional information business revenues"), specifically in Risk Compliance (+19%) and Energy (+12%). Digital real estate activity is moderate to robust; Australian residential buy listing volumes increased slightly ("up 1% compared to the prior year"), with specific growth in Melbourne ("up 7%"). Lead volume for Realtor.com rose modestly ("rose 6%"). Book publishing demand grew ("higher physical and digital book sales"). Conversely, News Media showed slight softening on an adjusted basis ("Adjusted Revenues for the segment decreased 2%").
+
+**Labor & Wages:** Labor cost trends are mixed. Dow Jones experienced some upward pressure ("partially offset by higher employee costs"), while the "Other" segment saw a reduction ("lower employee costs in the Other segment").
+
+**Pricing Power & Inflation:** The company demonstrates moderate pricing power across multiple segments. Dow Jones increased circulation revenues through the
