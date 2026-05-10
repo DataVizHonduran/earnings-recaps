@@ -1,0 +1,10 @@
+Ticker: EOG
+Source: EOG_2026-05-05.txt
+Generated: 2026-05-10 15:05 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided supplemental financial data, the economic signals for EOG are as follows:
+
+**1. Demand & Activity**
+Production activity is robust, with significant growth in total crude oil equivalent volumes increasing from 1,090.4 MBoed in Q1 2025 to 1,383.8 MBoed in Q1 2026 ("Total [Crude Oil Equivalent Volumes] 1,090.4... 1,383.8"). This was driven by moderate increases in U.S. crude oil volumes ("United States [Crude Oil and Condensate Volumes] 5
