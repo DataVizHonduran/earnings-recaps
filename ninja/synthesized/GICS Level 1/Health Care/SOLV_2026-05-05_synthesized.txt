@@ -1,0 +1,22 @@
+Ticker: SOLV
+Source: SOLV_2026-05-05.txt
+Generated: 2026-05-11 16:36 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Solventum Corp (SOLV)**
+
+**Demand & Activity**
+Demand is showing modest growth, with organic sales increasing 2.1% ("organic sales increased 2.1%"). Activity is robust in Advanced Wound Care and Dental Solutions, while other segments show more stable or slight growth ("strong performance across all reportable segments, primarily driven by volume and product mix").
+
+**Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage trends.
+
+**Pricing Power & Inflation**
+The company is experiencing persistent inflationary and geopolitical pressure, specifically citing tariffs. While programmatic savings and mix provided some relief, margins were negatively impacted by these headwinds ("adjusted operating income margin decreased primarily due to tariffs and inflation").
+
+**Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory levels, though it notes a focus on strengthening production capacity to improve speed to market ("strengthen production capacity and speed innovations from lab to clinicians").
+
+**Capital Spending (Capex)**
+Investment in capacity and technology is robust. The company recently expanded its physical footprint through a new R&D center and manufacturing expansion ("grand opening of a new 250,000 square foot flagship R&D center of excellence" and "completed a manufacturing expansion in Brookings, South Dakota, adding 200,000 square feet").
