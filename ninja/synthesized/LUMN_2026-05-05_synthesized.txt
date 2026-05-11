@@ -1,0 +1,22 @@
+Ticker: LUMN
+Source: LUMN_2026-05-05.txt
+Generated: 2026-05-11 16:35 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Lumen Technologies (LUMN)**
+
+**1. Demand & Activity**
+Demand is bifurcated. Activity in "Legacy" segments is softening ("Legacy outperforming expectations" but down 14% YoY), while demand for AI-driven and programmable networking is growing moderately. Specifically, "Strategic revenue officially surpassed Legacy revenue" (51% of total business revenue), and the company reports that "Network-as-a-Service customer count, port adoption, and service count all grew meaningfully quarter over quarter." Public Sector demand showed modest growth (up 5% YoY), while Mid-Market Enterprise demand declined moderately (down 10% YoY).
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, wage inflation, or headcount reductions.
+
+**3. Pricing Power & Inflation**
+There are no direct mentions of price increases or specific input cost pressures (commodities/energy). The company is focusing on a "Growth Pivot" toward high-value AI workloads to drive revenue.
+
+**4. Supply Chain & Inventory**
+The report does not provide data regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capital investment remains robust and stable. The company reported Q1 capital expenditures of $943 million and maintains a steady full-year 2026 outlook of "$3.2 to $3.4 billion." Investment is currently focused on "physical infrastructure, programmable network, and connected ecosystem" to support AI workloads, including the "disciplined and opportunistic" acquisition of Alkira to extend programmable capabilities.
