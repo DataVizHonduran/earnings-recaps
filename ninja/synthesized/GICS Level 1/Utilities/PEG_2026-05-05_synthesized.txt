@@ -1,0 +1,22 @@
+Ticker: PEG
+Source: PEG_2026-05-05.txt
+Generated: 2026-05-12 16:26 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: PSEG (1Q 2026)**
+
+**1. Demand & Activity**
+Demand is showing modest growth, characterized by a "continued, gradual increase in the number of electric and gas customers." Activity was bolstered by robust seasonal demand due to extreme weather, including the "highest gas send-out since 2019" driven by the worst winter storm in 30 years.
+
+**2. Labor & Wages**
+The company reports a reliance on a "dedicated workforce" for storm response, but lists "failure to attract and retain a qualified workforce" and "labor shortages" as ongoing risk factors.
+
+**3. Pricing Power & Inflation**
+Pricing is stable to softening due to regulatory constraints; the company has worked to "keep electric rates flat in 2026" and "kept our residential natural gas rate flat" for the winter season. While PSEG Power saw "higher realized prices," the utility segment faced "higher operation and maintenance costs" and increased "depreciation and interest expense."
+
+**4. Supply Chain & Inventory**
+The company identifies "disruptions or cost increases in our supply chain" as a persistent risk, though no specific current lead-time data was provided for the quarter.
+
+**5. Capital Spending (Capex)**
+Capex remains robust and focused on infrastructure. The company is executing "ongoing investments in Energy Efficiency, Gas System Modernization and Transmission" and continues a long-term strategy to grow earnings through 2030 via "investments in critical energy infrastructure."

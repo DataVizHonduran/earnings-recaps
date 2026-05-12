@@ -1,0 +1,22 @@
+Ticker: PNW
+Source: PNW_2026-05-04.txt
+Generated: 2026-05-12 16:27 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Pinnacle West Capital Corp (PNW)**
+
+**1. Demand & Activity**
+Demand is robust, driven by both structural growth and extreme weather. Customer growth is moderate at 2.2%, which the company notes "continues to underscore a strong Arizona economy." Energy consumption saw a significant spike due to the "warmest winter on record" and a "historic March," leading to weather-normalized sales growth of 9.4% ("retail customers using much more energy than they typically would").
+
+**2. Labor & Wages**
+No specific data on wage inflation or headcount reductions was provided. The company noted a general operational focus on "the availability and retention of qualified personnel" as a forward-looking risk factor, but reported no current labor shortages or disruptions.
+
+**3. Pricing Power & Inflation**
+The company is seeing positive revenue impacts from "related pricing" and "higher transmission revenues." While the company mentions "inflation, and other supply chain constraints" as general risks, current results were bolstered by "lower operations and maintenance expenses."
+
+**4. Supply Chain & Inventory**
+Supply chain conditions appear stable, though the company is proactively "securing critical spare equipment" and "extra energy resources for the summer" to ensure reliability during peak load.
+
+**5. Capital Spending (Capex)**
+Capex remains robust as the company continues to "add new infrastructure to support growth and reliability." Specific investments are focused on "wildfire mitigation," "preventative maintenance across power plants, substations and other infrastructure," and the completion of a "scheduled maintenance and refueling outage for Unit 2 at Palo Verde Generating Station."

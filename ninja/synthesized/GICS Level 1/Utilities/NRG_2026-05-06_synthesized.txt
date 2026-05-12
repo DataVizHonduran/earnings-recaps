@@ -1,0 +1,22 @@
+Ticker: NRG
+Source: NRG_2026-05-06.txt
+Generated: 2026-05-12 16:26 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**NRG Economic Signal Summary**
+
+**Demand & Activity:**
+Demand is growing overall ("Demand for our product continues to grow"), though short-term activity in Texas was softened by mild winter weather, which led to a "30% decrease in heating degree days" and "lower retail load." Conversely, the Vivint Smart Home segment saw robust activity, characterized by "strong growth in customer count."
+
+**Labor & Wages:**
+Not addressed.
+
+**Pricing Power & Inflation:**
+The company is experiencing mixed input cost pressures. There was moderate pressure in the East due to "higher power supply costs during Winter Storm Fern," while the West segment benefited from "lower power supply costs." Additionally, the company noted a decrease in natural gas prices, which triggered "unrealized non-cash losses from mark-to-market economic hedges."
+
+**Supply Chain & Inventory:**
+Not addressed.
+
+**Capital Spending (Capex):**
+Investment in capacity remains robust, specifically in Texas. The company is expanding generation to meet "increasing energy demands of Texas consumers," with the 415 MW T.H. Wharton facility expected to begin commercial operations "by the end of May 2026." Furthermore, three Texas Energy Fund projects totaling 1.5 GW remain "on track and on budget." The company is also scaling its residential VPP program, which has "surpassed 200 MW" with a long-term target of 1 GW by 2035.

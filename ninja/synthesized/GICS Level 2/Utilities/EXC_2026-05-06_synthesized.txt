@@ -1,0 +1,22 @@
+Ticker: EXC
+Source: EXC_2026-05-06.txt
+Generated: 2026-05-12 16:25 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Exelon Corp (EXC)**
+
+**1. Demand & Activity: Stable**
+Demand appears stable, though the company utilizes revenue decoupling for several units, insulating earnings from fluctuations in customer usage or weather. Activity is primarily driven by infrastructure reliability rather than consumption growth ("distribution earnings are not intended to be affected by actual weather or customer usage patterns").
+
+**2. Labor & Wages: Not Addressed**
+The provided text contains no specific mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation: Moderate Pressure / Regulatory Recovery**
+The company is actively raising rates through regulatory approvals to recover the costs of infrastructure investments. These increases are described as "updated recovery rates for costs and investments to serve customers" (ComEd, BGE, PHI). However, the company is facing persistent headwinds from "higher interest expense" and "higher income taxes" at the holding company level.
+
+**4. Supply Chain & Inventory: Not Addressed**
+The report does not provide data on lead times or inventory levels.
+
+**5. Capital Spending (Capex): Robust**
+Investment in capacity and grid modernization is robust. The company has a "revised $41.7 billion four-year capital plan," which is expected to drive a "rate base growth of 7.9%" as they invest in the "grid of the future."
