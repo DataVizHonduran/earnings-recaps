@@ -1,0 +1,22 @@
+Ticker: MCK
+Source: MCK_2026-05-07.txt
+Generated: 2026-05-12 16:25 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: McKesson Corp (MCK)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by strong growth in specialty pharmaceuticals and oncology. North American Pharmaceutical revenues grew 11% full-year, driven by "increased prescription transaction volumes" ("increased prescription transaction volumes, including higher volumes from retail national account customers and specialty products"). The Oncology Multispecialty segment saw robust expansion, with full-year revenues increasing 31% ("driven by growth in provider solutions and specialty distribution"). Conversely, demand in the ambulatory care channel is softening ("offset by lower contributions from the ambulatory care channel").
+
+**2. Labor & Wages**
+The report contains no specific mentions of hiring difficulties, turnover, or wage pressures. Management attributed performance to the "operational excellence of our employees" ("These accomplishments are a direct result of the talent and operational excellence of our employees").
+
+**3. Pricing Power & Inflation**
+There is no explicit commentary on price hikes or input cost inflation. However, the company is achieving moderate operating leverage and profit growth through "cost optimization" within its Medical-Surgical segment ("driven by cost optimization, offset by lower contributions from the ambulatory care channel").
+
+**4. Supply Chain & Inventory**
+The transcript does not provide specific data on lead times or inventory levels, though it notes that LIFO inventory-related adjustments remain "difficult to predict and estimate" for forecasting purposes.
+
+**5. Capital Spending (Capex)**
+Capital investment remains stable and disciplined. The company invested $745 million in capital expenditures for the full year ("invested $745 million in capital expenditures"). Future spending is targeted toward "high-growth and high-margin areas in Oncology and Biopharma Services" ("investing in high-growth and high-margin areas in Oncology and Biopharma Services").
