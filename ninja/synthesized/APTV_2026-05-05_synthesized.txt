@@ -1,0 +1,22 @@
+Ticker: APTV
+Source: APTV_2026-05-05.txt
+Generated: 2026-05-13 16:25 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Aptiv PLC (Q1 2026)**
+
+**Demand & Activity**
+Demand is modest and geographically fragmented. Adjusted revenue grew by a slight 1% ("revenue increased 1% adjusted for currency exchange and commodity movements"). Growth was moderate in North America and South America, both at 7% ("growth of 7% in North America... 7% growth in South America"), and slight in Asia Pacific at 3% ("3% in Asia Pacific"). However, activity is softening in China and EMEA, with declines of 2% and 7% respectively ("decline of 2% in China... decline of 7% in EMEA").
+
+**Labor & Wages**
+No specific mentions of hiring trends, turnover, or wage pressures were provided in the report.
+
+**Pricing Power & Inflation**
+The company is experiencing persistent inflationary pressure from raw materials, which has weighed on profitability ("Adjusted EBITDA margin... primarily reflecting increased commodity costs"). There is no mention of recent price increases to offset these costs.
+
+**Supply Chain & Inventory**
+The provided text contains no specific data regarding lead times or inventory levels.
+
+**Capital Spending (Capex)**
+While specific future project allocations are not detailed, the company is utilizing its "strong free cash flow generation" for "incremental value creation opportunities." Notably, the company is focusing on a "strategic evolution" through the spin-off of its Electrical Distribution systems business to sharpen its focus on software and hardware tech stacks ("sharper focus on enabling devices and systems to sense, think, act, and optimize").
