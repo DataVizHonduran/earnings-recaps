@@ -1,0 +1,22 @@
+Ticker: O
+Source: O_2026-05-06.txt
+Generated: 2026-05-13 16:26 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Realty Income Corp (O)**
+
+**1. Demand & Activity:**
+Demand for net lease properties remains robust, characterized by strong investment momentum and high occupancy. Portfolio occupancy is stable at 98.9% ("portfolio occupancy was 98.9%"). Investment activity is accelerating, with the company increasing its full-year investment guidance from $8 billion to $9.5 billion ("increasing our full year investment guidance to $9.5 billion from $8 billion"). Activity is diversified across the U.S. and Europe, with a heavy concentration in retail (63.9%) and industrial (33.6%) sectors.
+
+**2. Labor & Wages:**
+Not addressed.
+
+**3. Pricing Power & Inflation:**
+The company demonstrates modest pricing power through lease renewals. It achieved a rent recapture rate of 103.4% on re-leased properties, indicating a slight increase in rental rates upon lease expiration ("rent recapture rate of 103.4% on properties re-leased"). Same-store rental revenue saw a slight increase of 0.8% year-over-year.
+
+**4. Supply Chain & Inventory:**
+Not applicable. (Real estate portfolio is well-managed with a weighted average remaining lease term of 8.7 years).
+
+**5. Capital Spending (Capex):**
+Capital deployment is aggressive and expanding. The company is scaling its investment capacity through new private capital partnerships with Apollo and GIC to diversify beyond public markets ("diversifying our sources of permanent equity beyond the public markets"). In Q1, the company invested $2.8 billion, including $155.8 million in properties under development ("Real estate properties under development... $155.8 million").
