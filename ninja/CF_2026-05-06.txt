@@ -1,0 +1,505 @@
+Ticker: CF
+Company: CF Industries Holdings, Inc.
+Filed: 2026-05-06
+Type: PRESS_RELEASE
+Source: https://www.sec.gov/Archives/edgar/data/1324404/000110465926056338/tm2613543d1_ex99-1.htm
+
+EX-99.1
+ 2
+ tm2613543d1_ex99-1.htm
+ EXHIBIT 99.1
+ 
+ Exhibit 99.1 2026 First Quarter
+Financial Results
+May 6, 2026
+NYSE: CF Safe harbor statement
+All statements in this presentation by CF Industries Holdings, Inc. (together with its subsidiaries, the &#x201C;Company&#x201D;), other than those relating to historical
+facts, are forward-looking statements. Forward-looking statements can generally be identified by their use of terms such as &#x201C;anticipate,&#x201D; &#x201C;believe,&#x201D; &#x201C;could,&#x201D;
+&#x201C;estimate,&#x201D; &#x201C;expect,&#x201D; &#x201C;intend,&#x201D; &#x201C;may,&#x201D; &#x201C;plan,&#x201D; &#x201C;predict,&#x201D; &#x201C;project,&#x201D; &#x201C;will&#x201D; or &#x201C;would&#x201D; and similar terms and phrases, including references to assumptions.
+Forward-looking statements are not guarantees of future performance and are subject to a number of assumptions, risks and uncertainties, many of which
+are beyond the Company&#x2019;s control, which could cause actual results to differ materially from such statements. These statements may include, but are not
+limited to, statements about: strategic plans and management&#x2019;s expectations with respect to the production of low-carbon ammonia, the development of
+carbon capture and sequestration projects, the transition to and growth of a hydrogen economy, greenhouse gas reduction targets, projected capital
+expenditures, statements about future financial and operating results, and other items described in this presentation. Important factors that could cause
+actual results to differ materially from those in the forward-looking statements include, among others: the Company&#x2019;s ability to complete the projects at its
+Blue Point Complex, including the construction of a low-carbon ammonia production facility with its joint venture partners and scalable infrastructure on
+schedule and on budget or at all; the Company&#x2019;s ability to fund the capital expenditure needs related to the joint venture at its Blue Point Complex, which
+may exceed its current estimates; the cyclical nature of the Company&#x2019;s business and the impact of global supply and demand on the Company&#x2019;s selling
+prices and operating results; the global commodity nature of the Company&#x2019;s nitrogen products, the conditions in the global market for nitrogen products,
+and the intense global competition from other producers; announced or future tariffs, retaliatory measures, and global trade relations, including the
+potential impact of tariffs and retaliatory measures on the price and availability of materials for its capital projects and maintenance; conditions in the
+United States, Europe and other agricultural areas, including the influence of governmental policies and technological developments on the demand for its
+fertilizer products; the volatility of natural gas prices in North America and globally; weather conditions and the impact of adverse weather events; the
+seasonality of the fertilizer business; the impact of changing market conditions on the Company&#x2019;s forward sales programs; difficulties in securing the
+supply and delivery of raw materials or utilities, increases in their costs or delays or interruptions in their delivery; reliance on third party providers of
+transportation services and equipment, including those related to carbon dioxide sequestration; the Company&#x2019;s reliance on a limited number of key
+facilities; risks associated with cybersecurity; acts of terrorism and regulations to combat terrorism; the significant risks and hazards involved in producing
+and handling the Company&#x2019;s products against which the Company may not be fully insured; risks associated with international operations; the Company&#x2019;s
+ability to manage its indebtedness and any additional indebtedness that may be incurred; risks associated with changes in tax laws and adverse
+determinations by taxing authorities, including any potential changes in tax regulations and its qualification for tax credits; risks involving derivatives and
+the effectiveness of the Company&#x2019;s risk management and hedging activities; potential liabilities and expenditures related to environmental, health and
+safety laws and regulations and permitting requirements; regulatory provisions and requirements related to greenhouse gas emissions and sustainability
+matters, including announced or future changes in environmental, climate change or sustainability laws; the development and growth of the market for low-carbon ammonia and the risks and uncertainties relating to the development and implementation of the Company&#x2019;s low-carbon ammonia projects; risks
+associated with investments in and expansions of the Company&#x2019;s business, including unanticipated adverse consequences and the significant resources
+that could be required; and failure of technologies to perform, develop or be available as expected, including the low-carbon ATR ammonia production
+facility with carbon capture and sequestration technologies being constructed at its Blue Point Complex. More detailed information about factors that may
+affect the Company&#x2019;s performance and could cause actual results to differ materially from those in any forward-looking statements may be found in CF
+Industries Holdings, Inc.&#x2019;s filings with the Securities and Exchange Commission, including CF Industries Holdings, Inc.&#x2019;s most recent annual and quarterly
+reports on Form 10-K and Form 10-Q, which are available in the Investor Relations section of the Company&#x2019;s web site. It is not possible to predict or
+identify all risks and uncertainties that might affect the accuracy of our forward-looking statements and, consequently, our descriptions of such risks and
+uncertainties should not be considered exhaustive. There is no guarantee that any of the events, plans or goals anticipated by these forward-looking
+statements will occur, and if any of the events do occur, there is no guarantee what effect they will have on our business, results of operations, cash flows,
+financial condition and future prospects. Forward-looking statements are given only as of the date of this presentation and the Company disclaims any
+obligation to update or revise the forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law. Note regarding non-GAAP financial measures
+The Company reports its financial results in accordance with U.S. generally accepted accounting principles (GAAP). Management
+believes that EBITDA, adjusted EBITDA, free cash flow, and free cash flow to adjusted EBITDA conversion, which are non-GAAP
+financial measures, provide additional meaningful information regarding the Company's performance and financial strength. Non-GAAP financial measures should be viewed in addition to, and not as an alternative for, the Company&#x2019;s reported results prepared in
+accordance with GAAP. In addition, because not all companies use identical calculations, EBITDA, adjusted EBITDA, free cash flow,
+and free cash flow to adjusted EBITDA conversion included in this presentation may not be comparable to similarly titled measures
+of other companies. Reconciliations of EBITDA, adjusted EBITDA, and free cash flow to the most directly comparable GAAP
+measures are provided in the tables accompanying this presentation.
+EBITDA is defined as net earnings attributable to common stockholders plus interest expense&#x2014;net, income taxes and depreciation
+and amortization. Other adjustments include the elimination of the portion of interest income (expense)&#x2014;net and the portion of
+depreciation and amortization that are included in noncontrolling interests, and loan fee amortization that is included in both interest
+and amortization. The Company has presented EBITDA because management uses the measure to track performance and believes
+that it is frequently used by securities analysts, investors and other interested parties in the evaluation of companies in the industry.
+Adjusted EBITDA is defined as EBITDA adjusted with the selected items as summarized in the tables accompanying this
+presentation. The Company has presented adjusted EBITDA because management uses adjusted EBITDA, and believes it is useful
+to investors, as a supplemental financial measure in the comparison of year-over-year performance.
+Free cash flow is defined as net cash provided by operating activities, as stated in the consolidated statements of cash flows,
+reduced by capital expenditures and distributions to noncontrolling interest plus contributions from noncontrolling interests. Free cash
+flow to adjusted EBITDA conversion is defined as free cash flow divided by adjusted EBITDA. The Company has presented free
+cash flow and free cash flow to adjusted EBITDA conversion because management uses these measures and believes they are
+useful to investors, as an indication of the strength of the Company and its ability to generate cash and to evaluate the Company&#x2019;s
+cash generation ability relative to its industry competitors. It should not be inferred that the entire free cash flow amount is available
+for discretionary expenditures. 4
+Outstanding operational performance in a tight global nitrogen
+supply-demand balance delivers strong financial results
+(1) Q1 2026 Net Earnings and Q1 2026 Adjusted EBITDA includes a gain of ~$170M from a litigation settlement. See appendix for reconciliation of adjusted EBITDA to the most directly
+comparable GAAP measure
+(2) Represents last twelve months share repurchases and dividends paid through March 31, 2026
+(3) Includes the cash inflows and outflows associated with the Blue Point joint venture, which includes a net cash inflow of ~$185M representing $408M in contributions from JERA and
+Mitsui, less Capex funded by JERA and Mitsui of $223M. See appendix for reconciliation of free cash flow to the most directly comparable GAAP measure
+(4) As of March 31, 2026; share repurchase authorization runs through 2029
+(5) Per 200,000 work hours as of March 31, 2026
+(6) Available ammonia capacity represents CF Industries&#x2019; average annual gross ammonia capacity of its manufacturing network, as described in the Company's 2025 Form 10-K, less the
+average gross ammonia capacity of its Yazoo City Complex, which management previously announced would not resume operations until late fourth quarter of 2026 at the earliest
+(7) Represents Q1 2026 LTM free cash flow divided by Q1 2026 LTM adjusted EBITDA. See appendix for reconciliations of free cash flow and adjusted EBITDA to the most directly
+comparable GAAP measures
+(8) Sourced from CRU Ammonia Database on December 22, 2025, see slide 5
+99%
+Q1 2026
+Available Ammonia
+Capacity Utilization(6)
+0.16
+12-month Rolling Average
+Recordable Incident Rate(5)
+51%
+Q1 2026 LTM FCF/Adj
+EBITDA Conversion(7)
+$983M
+Q1 2026
+Adjusted EBITDA(1)
+$3.2B
+Q1 2026 LTM
+Adjusted EBITDA(1)
+$2.7B
+Q1 2026 LTM
+Cash from Operations
+$1.7B
+Q1 2026 LTM
+Free Cash Flow(3)
+$1.3B
+Q1 2026 LTM
+Capital Returned to
+Shareholders(2)
+$1.7B
+Remaining in Current $2B
+Share Repurchase
+Authorization(4)
+$1.8B
+Q1 2026 LTM
+Net Earnings (1)
+$615M
+Q1 2026
+Net Earnings(1)
+10%
+Greater Capacity Utilization
+than North America Peers(8)
+5-year rolling average ending 2025 5
+Outstanding safety performance drives industry leading
+production capacity utilization
+5-Year Rolling Avg. North American
+Ammonia Percent of Capacity Utilization(1)
+CF&#x2019;s 10% greater capacity utilization yields an
+additional ~1 million tons of ammonia annually(4)&#x200B;
+0.16
+1.9
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+2012 2014 2016 2018 2020 2022 2024 Q1 2026
+CF
+BLS Fertilizer
+Manufacturing
+Total injuries per 200,000 work hours
+Total Recordable Incident Rate
+As of March 31, 2026, the 12-month rolling average
+recordable incident rate was 0.16 per 200,000 work hours
+96%
+86%
+5-year rolling avg. percent of capacity utilization
++10%
+CF North America(2) North America
+Excluding CF(3)
+(1) Source of data: December 22, 2025, CRU Ammonia Database&#x200B;
+(2) Represents CF Industries historical North American production and CRU&#x2019;s capacity estimates for CF Industries&#x200B;
+(3) Calculated by removing CF Industries&#x2019; annual reported production and capacity from the CRU data for all North American ammonia production peer group
+(4) ~1 million tons represents the difference between CF Industries&#x2019; actual trailing 5-year average ammonia production of 9.5 million tons at 96% of capacity utilization and the 8.6 million tons
+CF Industries would have produced if operated at the 86% CRU North American benchmark excluding CF Industries&#x200B;
+Note: CRU North American peer group includes AdvanSix, Austin Powder (US Nitrogen), Carbonair, CF Industries, Chevron, CVR Partners, Dakota Gasification Co, Incitec Pivot Ltd, Fortigen,
+Koch Industries, LSB Industries, LSB Industries/Cherokee Nitrogen, Methanex, Mississippi Power, Mosaic, Nutrien, OCI N.V., Sherritt International Corp, Shoreline Chemical, Simplot, Yara
+International, Gulf Coast Ammonia&#x200B; 6
+CF&#x2019;s investments expand gross ammonia capacity to meet
+nitrogen demand
+Gross ammonia capacity
+In million short tons
+CF Gross Ammonia Capacity
+7.3
+1.3
+0.8 0.2
+0.9 10.5
+1.5 12.0
+2012 CF
+gross
+ammonia
+capacity
+2025 CF
+gross
+ammonia
+capacity
+Blue Point
+low-carbon
+ammonia
+2030F CF
+gross
+ammonia
+capacity
+Donaldsonville
+expansion
+Port Neal
+expansion
+Network
+Optimization
+Waggaman
+acquisition
+~45%
+~66% 7
+2024 2025 2026F
+Near-term global nitrogen supply tight; further constrained
+by ongoing geopolitical disruptions
+Sources: Industry Publications, CRU Urea Market Outlook as of March 2026, CF Analysis
+India Urea Imports
+~10-12 MMT
+2024 2025 2026F
+China Urea Exports
+Million metric tons
+~4-6 MMT
+2024 2025 2026F
+Brazil Urea Imports
+Nitrogen Market Outlook
+Global nitrogen supply tight through 2027
+Supply disruptions from Russia & Iran conflicts persist
+Chinese urea exports expected under strict quota
+Indian imports to grow on reduced domestic production
+U.S. planted corn acres expected above average in 2026
+Potential yield impacts due to demand destruction
+~7-8 MMT
+Near- and
+medium-term
+global nitrogen
+supply tight
+Pre-conflict
+Forecast:
+8-10 MMT 8
+~50% of first quartile global urea capacity is exposed to
+geopolitical conflicts
+2026 Monthly Delivered U.S. Gulf Urea Cost Curve(1)
+Y-axis: USD/st
+X-axis: Monthly Production Capacity at 95% Operating Rate, million short tons
+&#x201C;Fragile & Exposed&#x201D;
+segment represents
+plants/regions directly shut
+down, curtailed or face
+feedstock limitations due to
+geopolitical conflicts.
+Low-risk segment represents
+plants/regions with minimal
+feedstock exposure to current
+geopolitical conflicts.
+Chinese capacity is largely
+insulated from global oil/gas
+shocks due to large share of
+coal-based production.
+Limited global supply due to
+Chinese government export
+restrictions.
+First
+quartile
+Second
+quartile
+Third
+quartile
+Fourth
+quartile
+(1) 2026 annual average feedstock gas and coal prices represent actuals through March 2026 and forward curves as of April 27, 2026
+**India gas cost assumed at $10.81/MMBtu; representative of imported spot LNG to cover typical contracted Middle East LNG supply
+Source: Industry Publications, CF Analysis 9
+CF&#x2019;s North American network insulated from recent geopolitical
+disruptions
+ Efficient North American asset base
+ Access to low-cost natural gas
+ Unmatched distribution & logistics
+network
+ Production & distribution flexibility
+ Access to serve global market
+Conflict zone supply creates
+structural disadvantages
+ Accounts for 50% of first quartile
+urea production capacity
+ High risk of volatility and security
+of supply
+ Nitrogen, feedstock and logistic
+asset damage unknown
+ Transport risk &#x2013; Strait of Hormuz,
+Red Sea & Horn of Africa
+ LNG dependent regions impacting
+nitrogen production in India, Pakistan
+and Bangladesh
+ Governments diverting natural gas
+from nitrogen production in North Africa
+ Gas supply volatility in Trinidad
+ Increased economic stress on
+European high-cost production
+CF&#x2019;s durable advantages Feedstock supply disruptions 10
+Intrinsic value of CF&#x2019;s North American assets, durable
+advantages, and growth initiatives has increased
+EBITDA
+Current Mid-Cycle
+EBITDA
+Expected Mid-Cycle
+~2030
+CF Mid-Cycle Expectations Strengthening
+CF&#x2019;s valuation should reflect:
+$2,000+
+$2,500+ Strengthening mid-cycle expectations
+with low-risk asset profile vs other first
+quartile producers which will require a risk
+premium to incentivize new capacity
+Strategic initiatives provide growth
+through decarbonization and margin-enhancing projects
+Globally advantaged growth through
+Blue Point site with room for additional
+capacity, low-carbon optionality, access to
+low-cost natural gas, export capability,
+and lower exposure to disruptions from
+geopolitical conflicts
+$ millions
+FCF
+$1,500+
+$3,000+ Appendix 12
+Adjusted EBITDA favorable driven by tight global nitrogen
+supply-demand balance in Q1 2026
+(1) See appendix for reconciliations of adjusted EBITDA to the most directly comparable GAAP measure
+12
+Q1 2026 vs Q1 2025 Adjusted EBITDA
+$644
+$401
+$(39)
+$(76)
+$983
+Adj. EBITDA
+Q1 2025(1)
+Price Volume Realized
+Gas Cost
+Adj. EBITDA
+Q1 2026(1)
+$ millions
+$170
+Other
+$(117)
+Litigation
+Settlement 13
+Continued strong cash generation&#x2026;
+(1) Represents the cash and cash equivalents balance on the Company's Consolidated Balance Sheet at the end of each respective period
+(2) Consists of 60% of the total Blue Point JV capex of ~$65M in Q1 2026
+(3) Includes Blue Point JV capex of ~$26M in Q1 2026, which represents the 40% attributable to CF
+(4) Semi-annual distribution paid to noncontrolling interests (CHS Inc.) in Q1 2026
+(5) Represents share repurchases and dividends paid in Q1 2026 as reflected on the Company&#x2019;s Consolidated Statement of Cash Flows
+$1,982
+Cash
+Q4 2025(1)
+Cash from
+Operations
+Return to
+Shareholders(5)
+Other Cash
+Q1 2026(1)
+$2,042
+$(106)
+$496
+$(39)
+$(23)
+$(184)
+Capex
+Funded by
+JERA & Mitsui(2)
+Funded
+by CF(3)
+$(223)
+Consolidated
+CF Capex
+Q1 2026 Cash Sources and Uses
+$ millions
+CHS
+Distribution(4)
+$(201)
+JERA & Mitsui
+Blue Point
+JV Capital
+Contributions
+$117 14
+LTM Free Cash Flow
+(millions)
+CF Industries&#x2019; Free Cash Flow and Shares Outstanding as of Period End
+Shares Outstanding
+(millions)
+$2,165 $2,783 $1,799
+$1,445
+$1,789 $1,653
+208
+196 188
+170
+154
+154
+125
+135
+145
+155
+165
+175
+185
+195
+205
+215
+$0
+$500
+$1,000
+$1,500
+$2,000
+$2,500
+$3,000
+2021 2022 2023 2024 2025 1Q26 LTM
+&#x2026;provides robust free cash flow participation
+(millions) Non-GAAP reconciliation: Cash from Operations to Free Cash Flow
+$2,873 $3,855 $2,757 $2,271 $2,752 $2,662
+(514) (453) (499) (518) (950) (1,041)
+(194) (619) (459) (308) (304) (376)
+- - - - 291 408
+$2,165 $2,783 $1,799 $1,445 1,789 1,653
+208 196 188 170 154 154 End of period shares
+outstanding
+Cash from Operations
+Capital expenditures
+Distributions to
+noncontrolling interests
+Free Cash Flow
+Contributions from
+noncontrolling interests 15
+$2.00 $2.50 $3.00 $3.50 $4.00 $4.50 $5.00
+$300 $1.4 $1.3 $1.2 $1.0 $0.9 $0.7 $0.6
+$350 $2.3 $2.1 $2.0 $1.8 $1.7 $1.5 $1.4
+$400 $3.1 $2.9 $2.8 $2.6 $2.5 $2.3 $2.2
+$450 $3.9 $3.7 $3.6 $3.4 $3.3 $3.1 $3.0
+$500 $4.7 $4.5 $4.4 $4.2 $4.1 $3.9 $3.8
+$550 $5.5 $5.3 $5.2 $5.0 $4.9 $4.7 $4.6
+CF Industries Adjusted EBITDA sensitivity table
+Table illustrates the CF Industries business model across a broad range of
+industry conditions
+$50/ton urea realized movement implies ~$800M change in Adjusted EBITDA on an annual basis
+(1) Based on 2025 sales volumes of approximately 19.1 million product tons, 2025 gas consumption of 352 million MMBtus and 2023-2025 average nitrogen product sales price
+relationships. Changes in product prices and gas costs are not applied to the CHS minority interest or industrial contracts where CF Industries is naturally hedged against changes in
+product prices and gas costs. Table output assumes 1.4M MT CO2 captured via Donaldsonville CCS
+(2) Assumes that a $50 per ton change in urea prices is also applied proportionally to all nitrogen products and is equivalent to a $34.78 per ton change in UAN price, $36.96 per ton change
+in AN price, $89.14 per ton change in ammonia price, and $21.20 per ton change in the price of the Other segment
+Adjusted EBITDA Sensitivity to Natural Gas and Urea Prices(1)
+$ billions CF Realized Natural Gas Cost ($/MMBtu)
+CF Realized Urea Price ($/ton)(2) 16
+Financial results &#x2013; first quarter 2026
+In millions, except percentages, per MMBtu and EPS Q1 2026 Q1 2025
+Net sales $ 1,986 $ 1,663
+Gross margin 746 572
+- As a percentage of net sales 37.6 % 34.4 %
+Net earnings attributable to common stockholders $ 615 $ 312
+Net earnings per diluted share 3.98 1.85
+EBITDA(1) 1,008 617
+Adjusted EBITDA(1) 983 644
+Diluted weighted-average common shares outstanding 154.5 168.8
+Natural gas costs in cost of sales (per MMBtu)(2) $ 4.95 $ 3.69
+Realized derivatives gain in cost of sales (per MMBtu)(3) (0.38) (0.01)
+Cost of natural gas used for production in cost of sales (per MMBtu) $ 4.57 $ 3.68
+Average daily market price of natural gas at the Henry Hub (per MMBtu) $ 4.90 $ 4.28
+Depreciation and amortization 228 221
+Capital expenditures 223 132
+(1) See appendix for reconciliations of EBITDA and adjusted EBITDA to the most directly comparable GAAP measures
+(2) Includes the cost of natural gas used for production and related transportation that is included in cost of sales during the period under the first-in, first-out inventory cost method
+(3) Includes realized gains and losses on natural gas derivatives settled during the period. Excludes unrealized mark-to-market gains and losses on natural gas derivatives 17
+In millions Q1 2026 Q1 2025 Q1 2026
+LTM
+Net earnings $ 676 $ 351 $ 2,123
+Less: Net earnings attributable to noncontrolling interests (61) (39) (365)
+Net earnings attributable to common stockholders 615 312 1,758
+Interest expense&#x2014;net 19 20 73
+Income tax provision 168 86 523
+Depreciation and amortization 228 221 905
+Less other adjustments:
+Interest income (expense)&#x2014;net in noncontrolling interests 1 &#x2014; 3
+Depreciation and amortization in noncontrolling interests (22) (21) (91)
+Loan fee amortization(1) (1) (1) (4)
+EBITDA $ 1,008 $ 617 $ 3,167
+Unrealized net mark-to-market (gain) loss on natural gas derivatives (3) 2 &#x2014;
+Loss (gain) on foreign currency transactions 3 2 (4)
+Less: (Loss) gain on foreign currency transactions in noncontrolling interests (1) &#x2014; 6
+Asset impairment(2) &#x2014; &#x2014; 76
+Insurance recoveries&#x2014;property damage (25) &#x2014; (25)
+Loss on sale of Ince facility &#x2014; 23 &#x2014;
+Blue Point joint venture construction costs(3) 1 &#x2014; 5
+Loss on debt extinguishment &#x2014; &#x2014; 6
+Pension settlement loss &#x2014; &#x2014; 1
+Total adjustments (25) 27 65
+Adjusted EBITDA $ 983 $ 644 $ 3,232
+Non-GAAP: reconciliation of net earnings to EBITDA and
+adjusted EBITDA
+(1) Loan fee amortization is included in both interest expense&#x2014;net and depreciation and amortization
+(2) Consists of asset impairment charges related to property, plant and equipment at the Donaldsonville and Yazoo City Complexes
+(3) Represents 40% of Blue Point joint venture costs related to the construction of the low-carbon ammonia production facility at our Blue Point Complex, which excludes
+the portion attributable to the noncontrolling interests 18
+Non-GAAP: reconciliation of cash from operations to free
+cash flow and free cash flow to adjusted EBITDA conversion
+In millions, except percentages Q1 2026
+LTM
+Cash provided by operating activities $ 2,662
+Capital expenditures (1,041)
+Distributions to noncontrolling interests (376)
+Contributions from noncontrolling interests 408
+Free cash flow $ 1,653
+Adjusted EBITDA $ 3,232
+Free cash flow to Adjusted EBITDA conversion(1) 51 %
+(1) Represents Q1 2026 LTM free cash flow divided by Q1 2026 LTM adjusted EBITDA
