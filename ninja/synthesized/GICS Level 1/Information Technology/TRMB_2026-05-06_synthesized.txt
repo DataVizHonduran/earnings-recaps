@@ -1,0 +1,22 @@
+Ticker: TRMB
+Source: TRMB_2026-05-06.txt
+Generated: 2026-05-14 16:14 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Trimble Inc. (TRMB)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by strong momentum in recurring revenue streams. Total revenue grew 12% year-over-year ("Revenue of $939.9 million, up 12 percent on a year-over-year basis"), driven by a significant shift toward subscription models. Annualized recurring revenue (ARR) showed moderate growth, reaching $2.43 billion ("up 12 percent year-over-year"). Activity is particularly strong in the AECO Field Systems segment, while the Transportation segment saw a slight decline in revenue compared to the prior year.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments. However, operating expenses for General and Administrative functions saw a modest increase ("General and administrative $126.7 [vs] $121.5").
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate pricing power or favorable product mix, as evidenced by record gross margins ("Record first quarter gross margins... 68.8%"). Despite this, management notes persistent risks regarding "inflationary pressures" and "heightened trade tensions and related uncertainty of tariffs" which could potentially "increase our costs and adversely affect our revenues."
+
+**4. Supply Chain & Inventory**
+Inventory levels appear stable, with minimal fluctuation in the current period ("Inventories $188.0 [vs] $186.3"). However, the company remains cautious regarding the "pace at which our dealers work through their inventory" and potential "associated supply chain disruptions" stemming from geopolitical tensions.
+
+**5. Capital Spending (Capex)**
+Capital investment in physical assets remains modest and stable. Purchases of property and equipment were slight, totaling $6.1 million for the quarter ("Purchases of property and equipment (6.1)"). The company's primary strategic investment is focused on technology and the "intelligence and execution layer" of AI ("In an AI-forward world, Trimble is the intelligence and execution layer").

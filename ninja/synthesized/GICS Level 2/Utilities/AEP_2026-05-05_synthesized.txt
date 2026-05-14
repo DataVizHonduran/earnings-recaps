@@ -1,0 +1,17 @@
+Ticker: AEP
+Source: AEP_2026-05-05.txt
+Generated: 2026-05-14 16:11 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: American Electric Power (AEP)**
+
+**1. Demand & Activity:** Robust growth. Demand is accelerating, driven primarily by "hyperscalers and data center developers" ("substantial demand growth across our footprint, particularly from data centers"). Growth is most pronounced in Texas, which accounts for 41 GW of new load commitments, with additional robust demand noted in Indiana, Ohio, and Oklahoma ("robust system demand in key growth states including Indiana, Ohio, Oklahoma and Texas").
+
+**2. Labor & Wages:** Not addressed. The report mentions a total workforce of "nearly 18,000 employees" but provides no commentary on hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation:** Stable to positive. While the company is focused on "maintaining affordability for residential customers," it is leveraging "signed customer agreements" with large industrial loads to create "cost offsets for existing customers of up to $16 billion." The company is also utilizing federal grants and loan guarantees to provide "meaningful relief to customers, saving nearly $600 million."
+
+**4. Supply Chain & Inventory:** Not addressed. There are no specific mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex):** Robust expansion. AEP has increased its five-year capital plan to $78 billion, up from $72 billion ("accelerating demand drives five-year capital plan to $78 billion"). Investment is heavily weighted toward transmission, now expected to be $33 billion ("Total transmission investment is now expected to be $33 billion, representing 42% of the five-year capital plan"). Management indicates further upside, noting "line of sight to over $10 billion in additional investment potential" beyond the current plan.

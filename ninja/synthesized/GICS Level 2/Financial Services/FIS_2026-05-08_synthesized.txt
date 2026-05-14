@@ -1,0 +1,22 @@
+Ticker: FIS
+Source: FIS_2026-05-08.txt
+Generated: 2026-05-14 16:12 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: FIS (Q1 2026)**
+
+**1. Demand & Activity:**
+Demand is robust, particularly within the banking sector. Management notes that "the market is strong" and "banks are investing" ("The market is strong, banks are investing"). Growth is moderate to strong across core segments: Banking Solutions saw pro forma revenue growth of 7.7% ("On a Pro Forma basis, revenue increased 7.7%"), while Capital Market Solutions grew at a more modest 2.9% ("Pro Forma basis... 2.9%").
+
+**2. Labor & Wages:**
+No specific mentions of hiring difficulties, turnover, or wage pressures were provided in the report.
+
+**3. Pricing Power & Inflation:**
+The company is experiencing margin expansion, though this is attributed to "favorable mix and cost savings" ("reflecting favorable mix and cost savings") and the acquisition of high-margin business units rather than explicit price hikes. There is no mention of input cost inflation or relief.
+
+**4. Supply Chain & Inventory:**
+Not applicable. As a financial technology service provider, the company reports no physical supply chain or inventory constraints.
+
+**5. Capital Spending (Capex):**
+Investment activity is currently focused on deleveraging. The company has "temporarily paused... tuck-in M&A to accelerate deleveraging" ("temporarily paused share repurchases and tuck-in M&A to accelerate deleveraging") with the goal of reaching a target gross leverage of 2.8x before resuming previous capital allocation priorities.
