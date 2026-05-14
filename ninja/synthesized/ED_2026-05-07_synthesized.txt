@@ -1,0 +1,22 @@
+Ticker: ED
+Source: ED_2026-05-07.txt
+Generated: 2026-05-14 16:12 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Consolidated Edison (ED)**
+
+**1. Demand & Activity:**
+Demand is growing robustly, particularly driven by the transition to clean energy. Management notes that the "electrification of heating and transportation is accelerating at an unprecedented pace" ("Electrification of heating and transportation is accelerating at an unprecedented pace"), supported by "sustained economic growth" in the New York region ("sustained economic growth in our region").
+
+**2. Labor & Wages:**
+The report does not provide specific data on current wage trends or headcount changes, though it lists the "failure to retain and attract employees and contractors" as a general risk factor ("the failure to retain and attract employees and contractors... could adversely affect it").
+
+**3. Pricing Power & Inflation:**
+The company is focused on "managing costs and supporting affordability" ("managing costs and supporting affordability"). While no specific price hikes were detailed, the company identifies "inflation and the imposition of tariffs" as ongoing risk factors to its operations ("faces risks related to supply chain disruptions, inflation and the imposition of tariffs").
+
+**4. Supply Chain & Inventory:**
+Specific inventory levels were not disclosed; however, "supply chain disruptions" are explicitly cited as a risk to the business ("faces risks related to supply chain disruptions").
+
+**5. Capital Spending (Capex):**
+Capex is robust and proactive, centered on a "three-year investment plan" ("disciplined execution of our three-year investment plan"). Investments are being directed toward capacity expansion and resilience, specifically "building new substations" and "fortifying our system against extreme weather" ("building new substations... and fortifying our system against extreme weather"). The company is utilizing strategic asset sales and equity agreements to "support investment in our energy systems" ("generating proceeds to support investment in our energy systems").

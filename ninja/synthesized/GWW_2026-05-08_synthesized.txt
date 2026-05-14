@@ -1,0 +1,22 @@
+Ticker: GWW
+Source: GWW_2026-05-08.txt
+Generated: 2026-05-14 16:13 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: W.W. Grainger (GWW)**
+
+**1. Demand & Activity:**
+Demand is robust, characterized by "continued momentum" and "positive signs with the demand environment." Growth is broad-based, with moderate growth in North American High-Touch Solutions (sales up 10.5%) and strong growth in the Endless Assortment segment (sales up 19.6%), specifically driven by "strong performance at both MonotaRO and Zoro."
+
+**2. Labor & Wages:**
+The report contains no specific data on current hiring, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation:**
+The company demonstrates stable pricing power, specifically noting that "results for the segment were driven by volume growth and price inflation as tariff costs are passed." There is evidence of modest input cost relief, as gross profit margins in North America were aided by "favorable product mix and freight."
+
+**4. Supply Chain & Inventory:**
+The report does not provide specific commentary on lead times or inventory levels, though it notes "favorable working capital" aided cash flow.
+
+**5. Capital Spending (Capex):**
+Investment in capacity and technology remains stable. The company invested $170 million in the first quarter and maintains a full-year 2026 capex guidance of "$0.55 - $0.65 billion."

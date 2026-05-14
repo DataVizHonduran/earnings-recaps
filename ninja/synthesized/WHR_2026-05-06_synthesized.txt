@@ -1,0 +1,22 @@
+Ticker: WHR
+Source: WHR_2026-05-06.txt
+Generated: 2026-05-14 16:14 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Whirlpool Corp (Q1 2026)**
+
+**Demand & Activity**
+Demand is softening significantly in North America, characterized by a "recession-level industry decline in the U.S." ("recession-level industry decline in the U.S. as consumer confidence collapsed"). This is contrasted by robust growth in the Small Domestic Appliances (SDA) Global segment, which saw a volume increase driven by "successful new product launches" ("SDA Global... driven by volume increase supported by successful new product launches"). Demand in Latin America remains mixed, with volume increases offset by an "aggressive promotional environment" ("MDA Latin America... due to the aggressive promotional environment, despite volume increase").
+
+**Labor & Wages**
+The report does not provide specific commentary on hiring, turnover, or wage levels.
+
+**Pricing Power & Inflation**
+The company is aggressively exercising pricing power to counter persistent "multi-year inflationary cost pressures" ("Announced largest price increase in a decade to address multi-year inflationary cost pressures"). Management is implementing a "double-digit price increase" in North America to restore margins ("decisive actions... including double-digit price increase").
+
+**Supply Chain & Inventory**
+Inventory levels are being actively reduced to improve liquidity and efficiency ("delivered inventory reduction actions to drive working capital efficiency"). However, these reductions have created short-term financial headwinds, as margins were "pressured by... the higher costs incurred to reduce inventory levels" ("EBIT margin... pressured by volume decline... and the higher costs incurred to reduce inventory levels").
+
+**Capital Spending (Capex)**
+Current financial priority has shifted toward debt reduction and liquidity over capacity expansion, evidenced by the "common dividend suspension as we prioritize debt paydown" ("common dividend suspension as we prioritize debt paydown"). The company is focusing on "structural cost take out" to expand margins by 100 basis points rather than reporting new facility investments ("Structural cost take out to deliver over $150 million or 100 basis points of margin expansion").
