@@ -1,0 +1,22 @@
+Ticker: MSI
+Source: MSI_2026-05-07.txt
+Generated: 2026-05-15 16:07 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Motorola Solutions (MSI)**
+
+**Demand & Activity:**
+Demand is robust and broad-based, evidenced by a record Q1 ending backlog of $15.7 billion ("driven by robust, broad-based demand"). Growth is moderate overall (sales up 7%), with a strong variance in Software and Services, which grew 18% ("driven by growth in MCN, Command Center and Video"). Geographic growth was primarily driven by International markets ("driven primarily by growth in International").
+
+**Labor & Wages:**
+The provided text contains no mentions of hiring, turnover, or wage adjustments.
+
+**Pricing Power & Inflation:**
+The company is facing persistent input cost pressure, specifically regarding components. There is noted inflation in memory costs driven by AI demand ("experiencing higher costs for memory in its products which is a result of substantial demand in the market driven by AI"). Additionally, the company reports "increased costs on materials and components" resulting from a "dynamic supply chain environment."
+
+**Supply Chain & Inventory:**
+Supply chain conditions remain volatile and uncertain ("continue to observe elevated volatility and uncertainty around the global supply chain"). Inventory levels appear to be increasing to support demand, contributing to a decrease in free cash flow ("decreased primarily due to increased investments in inventory"). The company is actively managing risks related to "global reciprocal (and sectoral) tariffs" and "import export regulations."
+
+**Capital Spending (Capex):**
+Capex remains stable, with $62 million invested in the quarter. However, the company is aggressively pursuing inorganic growth through acquisitions to expand capacity and technology, including the acquisition of Exacom and Hyper ("combined $90 million") and a definitive agreement to acquire Bell Canada's LMR networks services business ("approximately $500 million").

@@ -1,0 +1,22 @@
+Ticker: CSCO
+Source: CSCO_2026-05-13.txt
+Generated: 2026-05-15 16:07 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Cisco Systems (Q3 FY2026)**
+
+**1. Demand & Activity**
+Demand is robust and broad-based, characterized by record quarterly revenue ("record revenue of $15.8 billion, up 12% year over year"). Growth is driven by a "major multi-year, multi-billion-dollar campus networking refresh cycle" (Campus networking orders grew >25%) and significant AI infrastructure momentum from hyperscalers, with FY26 AI orders expectations raised to $9 billion ("up from $5 billion"). Geographic growth is moderate to strong, led by the Americas (+14%), followed by EMEA (+9%) and APJC (+9%).
+
+**2. Labor & Wages**
+The report does not provide specific data on hiring, turnover, or wage inflation. However, the company notes "strong execution and operational efficiencies" ("demonstrating strong execution and operational efficiencies") and a modest increase in non-GAAP operating expenses (+5%).
+
+**3. Pricing Power & Inflation**
+Pricing power appears stable, though the company is monitoring external cost pressures. Management explicitly noted that future earnings guidance now incorporates the "estimated impact of tariffs based on current trade policy" ("EPS guidance includes the estimated impact of tariffs"). Non-GAAP gross margins showed a slight softening, moving from 68.6% to 66.0% year-over-year.
+
+**4. Supply Chain & Inventory**
+The transcript does not explicitly detail lead times or inventory levels; however, the rapid ramp of the next-generation portfolio ("next-generation portfolio ramping faster than prior product launches") suggests a functional supply chain capable of meeting accelerated demand.
+
+**5. Capital Spending (Capex)**
+Specific facility or capacity investment figures were not disclosed. The company is focused on "innovating at the speed and scale" required for the AI era ("innovating at the speed and scale that our dynamic world demands"), with significant revenue growth tied to AI infrastructure.

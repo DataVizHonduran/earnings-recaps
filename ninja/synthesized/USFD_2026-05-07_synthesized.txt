@@ -1,0 +1,22 @@
+Ticker: USFD
+Source: USFD_2026-05-07.txt
+Generated: 2026-05-15 16:08 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: US Foods (USFD)**
+
+**Demand & Activity:**
+Demand is showing modest growth overall, though performance is bifurcated by customer segment. Independent restaurant, hospitality, and healthcare volumes grew robustly, while chain volume experienced a slight decline. Management noted a "deteriorating macro environment" and "weather-related disruptions," though they exited the quarter with "sustained momentum" ("accelerated year-over-year independent restaurant case growth," "2.3% decrease in chain volume").
+
+**Labor & Wages:**
+The report does not provide specific Q1 wage data but identifies "increased labor costs and continued access to qualified labor" as ongoing risk factors. Operating expenses rose slightly, driven in part by "higher distribution, selling and administrative costs," though this was partially offset by "distribution productivity improvement" ("Operating expenses... increased by $47 million").
+
+**Pricing Power & Inflation:**
+The company is experiencing modest inflationary pressure. Net sales growth was supported by "food cost inflation of 1.0%." While the company saw "improved cost of goods sold," these gains were partially offset by a "unfavorable year-over-year LIFO adjustment" of $33 million.
+
+**Supply Chain & Inventory:**
+Specific lead times were not disclosed; however, the company noted that "commodity volatility" and "supply chain disruptions" remain general risks to the business model.
+
+**Capital Spending (Capex):**
+Capex is increasing moderately to support infrastructure and digital transformation. Cash capital expenditures totaled $98 million, a $14 million increase over the prior year, directed toward "investments in information technology, property and equipment and construction of and improvements to distribution facilities."
