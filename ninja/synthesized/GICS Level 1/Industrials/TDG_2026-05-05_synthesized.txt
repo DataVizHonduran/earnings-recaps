@@ -1,0 +1,22 @@
+Ticker: TDG
+Source: TDG_2026-05-05.txt
+Generated: 2026-05-15 16:08 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: TransDigm Group (TDG)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by double-digit growth across all major market channels ("double-digit growth across all three of our major market channels"). The commercial aftermarket is the strongest driver, specifically within commercial transport, which grew 16% ("Commercial aftermarket exhibited the highest growth... commercial transport segment growing 16%"). Commercial OEM demand remains strong, supported by increased production volumes ("increased in the double digits... as we continued supporting higher build rates at the OEMs"). Management notes some uncertainty in the broader aerospace environment that could potentially soften the commercial aftermarket ("uncertainty in the broader aerospace environment which... may impact our markets, specifically commercial aftermarket").
+
+**2. Labor & Wages**
+Not addressed in the provided text.
+
+**3. Pricing Power & Inflation**
+The company continues to maintain strong margins through its "value-driven operating strategy" ("application of our value-driven operating strategy"). While specific commodity inflation is not detailed, base business margins improved year-over-year ("EBITDA margins of our base businesses improved nicely on a year over year basis").
+
+**4. Supply Chain & Inventory**
+Not addressed in the provided text.
+
+**5. Capital Spending (Capex)**
+Investment is focused heavily on inorganic capacity expansion through aggressive acquisitions. The company recently spent $2.2 billion on Jet Parts Engineering and Victor Sierra ("completed the acquisitions... for $2.2 billion") and has a pending $960 million acquisition of Stellant Systems ("definitive agreement to acquire Stellant Systems, Inc... for approximately $960 million"). Management indicates they maintain significant liquidity for further capital requirements ("significant liquidity and financial flexibility to address any likely range of capital requirements").

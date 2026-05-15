@@ -1,0 +1,22 @@
+Ticker: DVA
+Source: DVA_2026-05-05.txt
+Generated: 2026-05-15 16:07 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: DaVita Inc. (DVA)**
+
+**1. Demand & Activity:**
+Demand remains stable to modestly growing. U.S. dialysis treatment volume saw a slight sequential increase of 0.05% compared to Q4 2025 ("representing a per day increase of 0.05%"), while normalized non-acquired treatment growth was modest at 0.1% year-over-year ("Normalized non-acquired treatment growth... was 0.1%").
+
+**2. Labor & Wages:**
+Labor costs are exerting persistent upward pressure. The company reported increased patient care costs and general administrative expenses driven by higher pay ("primarily due to increased compensation expenses"). This trend is consistent across both quarterly and annual comparisons ("change from prior year quarter was primarily driven by increased compensation expenses").
+
+**3. Pricing Power & Inflation:**
+The company demonstrates moderate pricing power through regulatory and contractual adjustments. Revenue per treatment increased year-over-year, driven by "increases in average reimbursement rates, including Medicare base rate and other annual rate increases." However, these gains are partially offset by inflationary pressures in medical supplies and insurance ("driven by increased compensation expenses, insurance costs and medical supplies expense").
+
+**4. Supply Chain & Inventory:**
+The provided text does not contain specific data on current lead times or inventory levels, though the company notes "availability or cost of supplies" and "disruptions experienced by third party vendors" as general risk factors in its forward-looking statements.
+
+**5. Capital Spending (Capex):**
+Specific new facility or technology spend is not detailed; however, the company is investing in digital infrastructure, as evidenced by a year-over-year increase in "IT-related costs" within general and administrative expenses.
