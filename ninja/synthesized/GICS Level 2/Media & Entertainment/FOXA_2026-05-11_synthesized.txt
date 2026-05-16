@@ -1,0 +1,22 @@
+Ticker: FOXA
+Source: FOXA_2026-05-11.txt
+Generated: 2026-05-16 15:02 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Fox Corp (FOXA)**
+
+**1. Demand & Activity**
+Demand is mixed, characterized by robust growth in digital and sports segments but softening in traditional linear viewership. Core advertising trends are described as "robust" ("robust core advertising trends"), specifically within the Tubi AVOD service ("continued digital growth led by the Tubi AVOD service"). However, traditional distribution is facing headwinds due to "net subscriber declines" in both Cable Network Programming and Television segments.
+
+**2. Labor & Wages**
+Not addressed. The report contains no specific mentions of hiring, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate pricing power in specific niches. Distribution revenue in the Cable segment grew 5%, as "contractual price increases were partially offset by the impact of net subscriber declines." Additionally, the company saw "higher news pricing" contributing to advertising revenue growth in the Cable segment. There were no mentions of broader inflationary input cost pressures.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a media services provider, the company does not report physical supply chain or inventory metrics.
+
+**5. Capital Spending (Capex)**
+The company is investing in new technology and platform launches, specifically noting "costs associated with the launch of Fox One." Future activity is expected to center on major live events, including the "FIFA Men's World Cup hosted here in North America across June and July."
