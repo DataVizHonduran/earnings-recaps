@@ -1,0 +1,22 @@
+Ticker: MCHP
+Source: MCHP_2026-05-07.txt
+Generated: 2026-05-17 15:05 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Microchip Technology (MCHP)**
+
+**Demand & Activity:**
+Demand is showing robust growth and broad-based improvement ("reflecting broad based improvement across Microchip s business"). Management notes "increasing momentum across our product lines" and "strong expedite activity." Specific strength is noted in data center and AI applications, characterized by "expanding design activity" and a "growing number of design wins" as customers adopt high-speed connectivity and compute platforms.
+
+**Labor & Wages:**
+Not addressed in the provided text.
+
+**Pricing Power & Inflation:**
+The report does not explicitly mention price hikes or specific input cost inflation; however, the company is realizing "meaningful operating leverage" and expects non-GAAP gross margins to expand to a range of 62.25% to 63.25% in the coming quarter.
+
+**Supply Chain & Inventory:**
+Inventory levels have shifted from bloated to lean. The company has aggressively reduced inventory by $320.9 million since December 2024, with distributor inventory now "near the low end of our historical range" (26 days). Management reports that "customer inventory has normalized," allowing for a transition toward higher internal factory utilization.
+
+**Capital Spending (Capex):**
+The company is actively increasing production capacity to meet recovering demand, stating they are "ramping our factories in the front end as well as back end" as inventory corrects toward their long-term model.
