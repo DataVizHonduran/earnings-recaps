@@ -1,0 +1,22 @@
+Ticker: LDOS
+Source: LDOS_2026-05-05.txt
+Generated: 2026-05-17 15:05 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Leidos Holdings, Inc. (LDOS)**
+
+**1. Demand & Activity:**
+Demand is growing moderately, with organic revenue increases of 3% ("Revenues grew year-over-year due to increased customer demand"). Growth is particularly robust in Intelligence, commercial energy infrastructure, and air traffic management ("especially for innovative products and solutions in Intelligence, commercial energy infrastructure, and domestic and international air traffic management"). Management expects a "multiyear growth acceleration" starting in the second half of 2026.
+
+**2. Labor & Wages:**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage pressures. The company maintains a global workforce of 50,000 employees.
+
+**3. Pricing Power & Inflation:**
+There is no explicit mention of price hikes or commodity inflation. However, the company reports that profitability remains stable through "prudent cost management" ("Profitability remained high through prudent cost management").
+
+**4. Supply Chain & Inventory:**
+The transcript does not provide data regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex):**
+Investment in technology and capacity is modest but steady, with $31 million spent on "property, equipment and software payments" during the quarter. The company is also aggressively pursuing inorganic growth and strategic restructuring through the acquisition of Entrust and a new security products joint venture ("actively executing our NorthStar 2030 strategy").

@@ -1,0 +1,15 @@
+Ticker: ABNB
+Source: ABNB_2026-05-07.txt
+Generated: 2026-05-17 15:02 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Robust overall growth, with Nights and Seats Booked increasing 9% Y/Y ("reflecting healthy underlying demand"). Demand is particularly strong in expansion markets, with origin nights in India growing approximately 50% and Brazil over 20% ("origin net nights booked in our expansion markets grew at roughly twice the rate of our core markets"). However, activity is softening in EMEA and Asia Pacific due to "slightly elevated cancellations" driven by the Middle East conflict.
+
+**Labor & Wages:** Not explicitly discussed. The company is leveraging AI to reduce reliance on human labor in customer support, noting that over 40% of issues are now "resolved without a human agent."
+
+**Pricing Power & Inflation:** Moderate pricing power persists. Average Daily Rate (ADR) increased 4% Y/Y excluding FX, which the company attributes "largely to price appreciation." Management expects "sustained ADR growth" and a "moderate increase in ADR" for Q2. Additionally, the company is improving tools to help hosts "dynamically price based on demand and seasonality."
+
+**Supply Chain & Inventory:** Not applicable in a traditional sense, but "supply" (listings) is growing robustly around major events. For the Milano Cortina 2026 Games, supply in host markets grew approximately 30%, and over 100,000 homes listed for the first time for the 2026 World Cup. The company also notes a "lengthening of lead times across all regions."
+
+**Capital Spending (Capex):** Investment is focused on technology and international scale. The company will "prioritize reinvestment" specifically toward "efficient marketing spend, international expansion, and AI initiatives." AI adoption is already driving operational efficiency, with cost-per-booking decreasing about 10% Y/Y.

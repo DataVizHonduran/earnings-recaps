@@ -1,0 +1,22 @@
+Ticker: EXPE
+Source: EXPE_2026-05-07.txt
+Generated: 2026-05-17 15:04 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Expedia Group (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by double-digit growth in total gross bookings (+13%) and revenue (+15%) ("delivered double-digit bookings and revenue growth"). Growth is particularly strong in the B2B segment (+22% bookings, +25% revenue) compared to the B2C segment (+10% bookings, +8% revenue). Geographically, non-U.S. points of sale showed moderate growth (+24%) relative to U.S. points of sale (+9%). Product-line demand remains stable across lodging (+13%) and non-lodging (+13%).
+
+**2. Labor & Wages**
+The report does not provide specific commentary on hiring, turnover, or wage inflation. However, "Restructuring and related reorganization charges" increased to $56 million from $26 million year-over-year, suggesting ongoing organizational adjustments.
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate pricing power, as evidenced by a 7% increase in the Average Daily Rate (ADR) Booked, rising to $228.1 from $213.9 ("Average Daily Rate (ADR) Booked... 7%"). The company is operating within a "dynamic macroeconomic environment," yet achieved "meaningful margin expansion" (591 basis points).
+
+**4. Supply Chain & Inventory**
+Not applicable. As a digital marketplace, the company does not maintain physical inventory or traditional supply chain lead times.
+
+**5. Capital Spending (Capex)**
+Investment in technology remains stable, with "Technology and content" expenses holding steady at $324 million compared to $320 million in the prior year. The company continues to focus on "strategic priorities" to drive value through its "leading technology and rich first-party data."

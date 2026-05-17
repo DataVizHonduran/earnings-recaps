@@ -1,0 +1,22 @@
+Ticker: ALB
+Source: ALB_2026-05-06.txt
+Generated: 2026-05-17 15:03 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Albemarle Corp (ALB)**
+
+**Demand & Activity**
+Demand is showing moderate growth in key segments, though mixed by end-market. Energy Storage saw robust volume increases (+14% YoY), while Specialties experienced modest growth (+7% YoY). Looking forward, Specialties expects "modest volume growth" in semiconductors, oil and gas, and pharmaceuticals, though this is "partially offset by expected softness in automotive and petrochemicals." Energy Storage production volumes are expected to increase, but sales volumes are projected to be "approximately flat following inventory drawdowns that occurred in 2025."
+
+**Labor & Wages**
+Not addressed.
+
+**Pricing Power & Inflation**
+The company is exercising robust pricing power, particularly in Energy Storage (price +51% YoY) and Specialties (price +2% YoY). The Specialties outlook was specifically improved due to "higher-than-expected bromine pricing in Chinese and Indian spot markets." Regarding costs, the company is achieving "on-going cost and productivity improvements" (targeting $100M–$150M for the year), though these gains are being partially offset by "higher costs related to supply chain disruptions in the Middle East."
+
+**Supply Chain & Inventory**
+Inventory levels in Energy Storage appear to be normalizing following "inventory drawdowns that occurred in 2025." Supply chain stability is currently pressured by "geopolitical tensions in the region" affecting the Jordan Bromine Company, although operations there have "fully recovered from the flooding event in late December 2025."
+
+**Capital Spending (Capex)**
+Capex remains stable. The company expects 2026 capital expenditures to be "roughly flat compared to 2025," with a full-year forecast in the range of "$550 million to $600 million."
