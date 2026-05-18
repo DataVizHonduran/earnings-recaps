@@ -1,0 +1,22 @@
+Ticker: KVUE
+Source: KVUE_2026-05-07.txt
+Generated: 2026-05-18 16:50 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Kenvue Inc. (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is mixed across product lines. Skin Health and Beauty saw robust growth, driven by volume increases of 4.2% ("Organic sales growth was driven by volume growth of 4.2%") and strong performance in EMEA, Latin America, and Asia Pacific. Essential Health experienced modest growth, with volume up 1.4% ("Organic sales growth was driven by volume growth of 1.4%"). Conversely, Self Care demand softened, with organic sales declining 2.3% due to a 3.9% volume decrease ("Weak cold and flu seasons across major markets weighed on the Self Care business").
+
+**2. Labor & Wages**
+The company is actively pursuing headcount and operational reductions through a "2026 Restructuring Initiative" aimed at optimizing its operating model and driving efficiencies ("aims to optimize its operating model... and drive operational efficiencies"). This initiative is expected to incur approximately $250 million in pre-tax charges during fiscal year 2026.
+
+**3. Pricing Power & Inflation**
+Kenvue maintains moderate pricing power, reporting "favorable value realization" across all segments, which contributed 1.0% to overall organic sales growth. While the company continues to face persistent pressure from "inflation, tariffs, and lower volumes," these costs were more than offset by productivity gains and pricing actions ("largely reflects the savings from productivity gains... and favorable value realization, which more than offset the impact from inflation").
+
+**4. Supply Chain & Inventory**
+The company is focused on structural supply chain optimization to reduce complexity ("transform its supply chain, reduce complexity"). There were no specific mentions of lead times or bloated inventory levels, though "global supply chain optimization initiatives" are cited as a primary driver of margin expansion.
+
+**5. Capital Spending (Capex)**
+Capital expenditures have softened, decreasing to $0.1 billion from $0.2 billion in the prior year period ("Capital expenditures were $0.1 billion vs $0.2 billion in the prior year period"). Future investment focus is currently centered on "business transformation" and the pending combination with Kimberly-Clark.
