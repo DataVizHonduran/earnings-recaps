@@ -1,0 +1,17 @@
+Ticker: ZBRA
+Source: ZBRA_2026-05-12.txt
+Generated: 2026-05-18 16:51 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Zebra Technologies (ZBRA) Economic Signal Summary**
+
+**Demand & Activity:** Demand is robust and growing, characterized by "broad-based growth across segments and regions" ("broad-based growth across segments and regions"). Activity is particularly strong in the manufacturing end market ("led by strength in our manufacturing end market") and is being further driven by acceleration in "e-commerce, automation and Physical AI trends" ("As e-commerce, automation and Physical AI trends accelerate"). Management reports "continued momentum into the second quarter" ("seeing continued momentum into the second quarter").
+
+**Labor & Wages:** Not addressed.
+
+**Pricing Power & Inflation:** The company is seeing modest margin expansion, with gross margins increasing to 49.6%. This improvement is attributed to "favorable foreign currency exchange and business mix, and productivity initiatives" ("primarily due to favorable foreign currency exchange and business mix, and productivity initiatives"). There is no specific mention of price hikes or raw material inflation.
+
+**Supply Chain & Inventory:** Not addressed.
+
+**Capital Spending (Capex):** Capital investment remains modest, with the company investing $13 million in capital expenditures during the first quarter ("the Company invested $13 million in capital expenditures").
