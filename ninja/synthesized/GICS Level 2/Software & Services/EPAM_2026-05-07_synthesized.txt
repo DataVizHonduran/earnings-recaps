@@ -1,0 +1,22 @@
+Ticker: EPAM
+Source: EPAM_2026-05-07.txt
+Generated: 2026-05-19 16:52 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: EPAM Systems (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is showing modest growth, characterized by steady execution in digital transformation. There is robust momentum specifically within AI-native and foundational readiness initiatives ("continued momentum across our AI-native and AI foundational readiness initiatives"). Overall revenue grew 7.6% year-over-year, though organic constant currency growth was more modest at 3.7% ("On an organic constant currency basis, revenues were up 3.7%").
+
+**2. Labor & Wages**
+Headcount remains stable with a slight softening in the delivery professional workforce. Total headcount stood at approximately 62,750, while the specific delivery professional cohort saw a marginal decline of 0.2% since the end of the previous year ("delivery professionals, a decrease of 0.2% from December 31, 2025").
+
+**3. Pricing Power & Inflation**
+The provided text does not explicitly mention price increases or specific input cost pressures (commodities/energy). However, the company reports a moderate increase in operating income, suggesting stable margins despite a "rapidly evolving macroeconomic landscape."
+
+**4. Supply Chain & Inventory**
+Not applicable. As a professional services firm, the company does not maintain physical inventories or report traditional supply chain lead times.
+
+**5. Capital Spending (Capex)**
+The company is engaged in a moderate, multi-year strategic investment in technology, specifically focusing on internal AI transformation to enhance capacity and service offerings ("accelerate our own AI client zero transformation").

@@ -1,0 +1,22 @@
+Ticker: MCD
+Source: MCD_2026-05-07.txt
+Generated: 2026-05-19 16:52 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: McDonald's Corp (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is showing moderate growth globally, with global comparable sales increasing 3.8% ("Global comparable sales increased 3.8% for the quarter"). Growth is stable across all segments, with the U.S. and International Operated Markets both seeing a 3.9% increase. Activity in International Operated Markets was led by the U.K., Germany, and Australia, while Japan led the International Developmental Licensed Markets.
+
+**2. Labor & Wages**
+The report does not explicitly detail wage rates or hiring difficulties; however, the company is undergoing a moderate internal restructuring to "modernize ways of working," resulting in pre-tax charges of $47 million ("primarily related to restructuring charges associated with Accelerating the Organization").
+
+**3. Pricing Power & Inflation**
+The company maintains modest pricing power, particularly in the U.S., where growth was "primarily driven by positive check growth" ("U.S. Comparable sales results were primarily driven by positive check growth"). There is no specific mention of commodity or freight relief, though the CEO noted the ability to drive results "even in a challenging environment."
+
+**4. Supply Chain & Inventory**
+No specific data provided regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for future projects are not listed, the company continues to reinvest in the "core business" to generate free cash flow ("after reinvesting in the core business, that can be used to pursue opportunities to enhance shareholder value"). Focus remains on "menu innovation" and "value leadership" to sustain demand.
