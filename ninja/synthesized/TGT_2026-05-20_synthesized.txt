@@ -1,0 +1,11 @@
+Ticker: TGT
+Source: TGT_2026-05-20.txt
+Generated: 2026-05-20 17:07 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Robust growth across all core merchandising categories. Comparable traffic increased 4.4% ("Comparable traffic grew 4.4 percent"), with significant strength in digital channels, specifically same-day delivery ("more than 27% growth in same-day delivery"). Management expects continued growth throughout the year ("expect to grow net sales in every quarter of the year").
+
+**Labor & Wages:** Moderate upward pressure on labor costs. SG&A expenses were driven higher by "higher compensation costs," specifically "additional hours and training for field teams" and "higher incentive compensation."
+
+**Pricing Power & Inflation:** Mixed signals.
