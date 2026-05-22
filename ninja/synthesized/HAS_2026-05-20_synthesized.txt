@@ -1,0 +1,22 @@
+Ticker: HAS
+Source: HAS_2026-05-20.txt
+Generated: 2026-05-22 16:32 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Hasbro (HAS)**
+
+**1. Demand & Activity**
+Demand is mixed but showing robust growth in specialized gaming. The Wizards and Digital Gaming segment saw robust growth (+26%), specifically driven by *Magic: The Gathering* ("fueled by Q1 releases... along with continued strength in backlist titles"). Conversely, demand in Consumer Products remained stable/flat ("Revenues were flat"), though there is modest momentum in specific categories like Star Wars ("momentum building ahead of The Mandalorian and Grogu movie"). Overall revenue outlook for 2026 is modest ("expect Total Hasbro revenue up 3-5%").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of current hiring, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is facing moderate cost pressures. While not explicitly detailing price hikes, the company noted a negative impact on the Consumer Products segment due to "incremental tariff expense." The forward-looking statements indicate a persistent sensitivity to "inflation, fluctuating interest rates, tariffs, higher commodity prices, labor costs or transportation costs."
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on current lead times or inventory levels, though it notes general risks regarding "shipping delays or difficulties" and "retailer inventories" in its risk disclosures.
+
+**5. Capital Spending (Capex)**
+Capital allocation is focused on maintenance and strategic optimization rather than aggressive capacity expansion. Priorities include "Invest in core business" and "Continue to pay down debt." Additionally, the company is incurring unplanned remediation costs following "unauthorized access to our network" (cybersecurity breach).

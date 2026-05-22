@@ -1,0 +1,22 @@
+Ticker: TFX
+Source: TFX_2026-05-07.txt
+Generated: 2026-05-22 16:33 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Teleflex Inc. (TFX)**
+
+**1. Demand & Activity**
+Demand is growing at a moderate pace. Pro forma adjusted constant currency revenue grew 5.1% year-over-year ("5.1% pro forma adjusted constant currency revenue growth year-over-year"). Growth is varied by product line, with robust activity in Surgical (9.9% pro forma growth) and moderate growth in Vascular Access (4.8% pro forma growth) and Interventional (3.0% pro forma growth).
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail pricing actions or specific input cost inflation. However, the company is managing "stranded costs estimated to be $90 million" related to strategic divestitures, which are expected to be offset by future service agreements.
+
+**4. Supply Chain & Inventory**
+Inventory levels appear to be softening or leaning down. Inventories decreased to $380.9 million at the end of Q1 2026, compared to $404.4 million at the end of the previous year ("Inventories at March 31, 2026 were $380.9 million compared to $404.4 million at December 31, 2025").
+
+**5. Capital Spending (Capex)**
+While specific facility spend is not detailed, the company is investing in technology and operational infrastructure, specifically citing "ERP implementation" as a factor in its adjusted earnings outlook. The company is also focused on "future growth" through the optimization of its portfolio via strategic divestitures.

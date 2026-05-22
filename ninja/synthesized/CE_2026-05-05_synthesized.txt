@@ -1,0 +1,22 @@
+Ticker: CE
+Source: CE_2026-05-05.txt
+Generated: 2026-05-22 16:31 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Celanese Corp (CE)**
+
+**Demand & Activity:**
+Demand showed modest sequential growth, with net sales increasing 6% ("reflecting a 5 percent increase in volume"). Activity was mixed by segment and region: Engineered Materials saw seasonal improvement but faced "continued softness in certain end markets, particularly automotive in China." The Acetyl Chain experienced a robust 8% volume increase, driven by "late quarter pricing and volume opportunities, primarily in China," though this was offset by "continued softness in acetate tow."
+
+**Labor & Wages:**
+The report contains no specific mentions of hiring difficulties, wage inflation, or headcount changes, though the company is pursuing "cost productivity measures" and "intensifying cost improvements."
+
+**Pricing Power & Inflation:**
+Pricing remained largely stable in the first quarter, with "no change in pricing" for Engineered Materials and a slight 1% increase in the Acetyl Chain. However, the company is seeing persistent input cost pressure, noting that results were "partially offset by higher feedstock and energy costs across both businesses." Management expects "price increase realization in the Acetyl Chain, along with pricing improvements in Engineered Materials" in the second quarter.
+
+**Supply Chain & Inventory:**
+Supply reliability is improving following the "successful restart of the Frankfurt, Germany VAM unit." The company is actively optimizing its global footprint to increase resilience, including the "intended closure of the nylon 6,6 polymerization unit in Singapore" to create a "more competitive and resilient platform."
+
+**Capital Spending (Capex):**
+Capex is characterized as "disciplined," with a focus on strategic capacity and technology upgrades. Key investments include the "expanded Michigan Technology Center," the commissioning of a "new VAE Emulsions reactor in Frankfurt," and advancing "liquid crystal polymer-related operations in China" and "medical-grade compounding in Asia."
