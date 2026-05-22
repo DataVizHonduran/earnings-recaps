@@ -1,0 +1,22 @@
+Ticker: AMD
+Source: AMD_2026-05-05.txt
+Generated: 2026-05-22 16:30 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: AMD (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is **robust** and accelerating, particularly within AI infrastructure. Data Center activity is the primary growth engine, with **strong momentum** driven by "inferencing and agentic AI" ("strong momentum as inferencing and agentic AI drive increasing demand"). Server growth is expected to "accelerate meaningfully" as the company scales to meet demand. Other segments show **moderate** growth: Client revenue rose 26% due to "strong demand for leadership AMD Ryzen processors," and Embedded demand "strengthened across several end markets."
+
+**2. Labor & Wages**
+The report does not provide specific data on wage inflation or hiring difficulties; however, it notes "workforce rebalancing charges" within its acquisition-related costs ("Acquisition-related and other costs primarily include... workforce rebalancing charges").
+
+**3. Pricing Power & Inflation**
+AMD is demonstrating **moderate** pricing power or product-mix improvement, as evidenced by a non-GAAP gross margin increase to 55% ("Gross margin 53%... Up 3 ppts" GAAP). There are no specific mentions of input cost relief or commodity inflation.
+
+**4. Supply Chain & Inventory**
+Supply remains a primary constraint for the Data Center segment, with growth tied to the ability to "scale supply to meet demand" ("we expect server growth to accelerate meaningfully as we scale supply to meet demand"). No specific mentions of bloated inventory or lead-time durations were provided.
+
+**5. Capital Spending (Capex)**
+The company is actively investing to support its growth trajectory, noting that it is "investing for accelerated growth while expanding profitability" ("demonstrating the leverage in our operating model as we invest for accelerated growth"). Specific dollar amounts for facility or capacity expansion were not disclosed in the release.

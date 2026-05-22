@@ -1,0 +1,22 @@
+Ticker: KEYS
+Source: KEYS_2026-05-19.txt
+Generated: 2026-05-22 16:32 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Keysight Technologies (KEYS)**
+
+**1. Demand & Activity**
+Demand is robust and accelerating across all primary business segments. The company reported record orders exceeding $2 billion for the quarter ("capitalize on accelerating demand and outperform"). Growth is particularly strong in commercial communications (+40%) and aerospace, defense, and government (+24%). Additionally, the Electronic Industrial Solutions Group saw double-digit growth across automotive, energy, general electronics, and semiconductor markets ("double-digit growth across all end markets").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+While there is no direct mention of price hikes, the company is experiencing significant cost relief due to judicial rulings on tariffs. Keysight recorded a $100 million receivable for the recovery of previously paid tariffs ("recovery of tariffs previously paid and statutory interest on IEEPA tariff refunds"), which resulted in a $93 million offset to the cost of sales.
+
+**4. Supply Chain & Inventory**
+Inventory levels appear stable to slightly lean, with a modest decrease from $1.05 billion at the end of the prior fiscal year to $1.038 billion as of April 30, 2026. There were no mentions of lead time volatility.
+
+**5. Capital Spending (Capex)**
+The company is prioritizing strategic investments to support growth, though specific facility or capacity dollar amounts were not disclosed. Management noted that "strategic investments we have made over the past several years are enabling us to capitalize on accelerating demand."

@@ -1,0 +1,22 @@
+Ticker: AXON
+Source: AXON_2026-05-06.txt
+Generated: 2026-05-22 16:30 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: AXON (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is **robust** across the product ecosystem, characterized by record quarterly revenue and nine consecutive quarters of 30%+ growth ("driven by robust demand across our ecosystem of products"). Growth is particularly strong in AI products (up over 700%) and counter-drone systems (up over 300%), the latter of which is in the "early stages of adoption across a large market opportunity." Activity is expanding into adjacent verticals, including healthcare, corrections, and enterprise markets ("expanding our customer base across international, corrections, U.S. federal and enterprise markets").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring difficulties, turnover, wage pressures, or headcount adjustments.
+
+**3. Pricing Power & Inflation**
+While specific pricing actions are not detailed, the company demonstrates strong pricing power through high net revenue retention of 125% ("Adoption of our latest software offerings among existing customers supported net revenue retention of 125%"). There are no mentions of input cost inflation or commodity price relief.
+
+**4. Supply Chain & Inventory**
+The provided text contains no mentions of lead times, supply chain constraints, or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment is focused on **robust** technology and innovation, specifically in AI and drone capabilities. The company is actively investing in the "AI Era Plan" and the "multi-year vision" of Axon Gravity to build the "world’s largest repository of AI-enhanced public safety data." Additionally, the company is investing in the counter-drone category to "extend our leadership position" following the passage of the Safer Skies Act.

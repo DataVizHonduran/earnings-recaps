@@ -1,0 +1,26 @@
+Ticker: TECH
+Source: TECH_2026-05-06.txt
+Generated: 2026-05-22 16:32 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: BIO-TECHNE Corp (TECH)**
+
+**1. Demand & Activity: Mixed/Softening**
+Overall organic revenue declined slightly ("Organic revenue decreased 2%"). Demand is bifurcated by customer segment:
+*   **Large Pharma:** Robust growth, marking the "sixth consecutive quarter of double-digit growth," with specific "momentum in Asia."
+*   **Academic Markets:** Stable, showing "low-single-digit growth" in the U.S.
+*   **Emerging Biotech:** Softening; management notes a "continued lag in spending" and that funding "has not yet translated into broad-based demand."
+*   **Product Lines:** Strong activity in Spatial Biology ("mid-teens growth") and GMP proteins ("nearly 50% growth excluding fast-track customers").
+
+**2. Labor & Wages: Stable**
+The report provides no specific commentary on hiring difficulties, turnover, or wage inflation. Total headcount is noted at "approximately 3,100 people."
+
+**3. Pricing Power & Inflation: Stable/Moderate Pressure**
+There are no explicit mentions of price increases. However, management noted that operating margins were "unfavorably impacted by volume and product mix," though this was partially offset by "ongoing profitability initiatives." The company also cited "price competition" from a "growing number of producers of biotechnology research products" as a forward-looking risk.
+
+**4. Supply Chain & Inventory: Stable**
+The transcript does not report lead-time delays or inventory imbalances. Revenue fluctuations were attributed to the "timing of large Commercial Supply shipments" rather than supply chain disruptions.
+
+**5. Capital Spending (Capex): Stable**
+No specific new facility or capacity expansion plans were detailed. The company emphasized "financial flexibility" and "operating discipline" to support long-term value.
