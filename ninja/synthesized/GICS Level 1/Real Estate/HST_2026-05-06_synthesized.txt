@@ -1,0 +1,15 @@
+Ticker: HST
+Source: HST_2026-05-06.txt
+Generated: 2026-05-23 15:08 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Demand is robust, particularly among affluent leisure travelers ("affluent consumers are continuing to prioritize spending on travel"). Group demand remains stable ("group demand remains steady"). Geographic strength was noted in Florida and San Francisco ("strong performances in San Francisco around the Super Bowl, and in each of the Florida markets"). The outlook suggests continued leisure strength bolstered by special events and "modest improvements to short-term group booking trends."
+
+**Labor & Wages:** The company is experiencing persistent upward pressure on labor costs, noting a specific "increase in wage expenses."
+
+**Pricing Power & Inflation:** Pricing power remains strong, with revenue growth "driven primarily by an increase in room rates." However, management expects this trend to soften in the second half of the year due to "lower room rate growth expectations."
+
+**Supply Chain & Inventory:** No significant macroeconomic signals reported regarding lead times or general inventory levels.
+
+**Capital Spending (Capex):** Investment in facility modernization and capacity is robust. The company is executing "Transformational Capital Programs" with Marriott and Hyatt and continuing "Renewals and Replacements" as part of "continued reinvestment in our diversified portfolio." Total 2026 capital expenditures are forecasted between $545 million and $655 million.
