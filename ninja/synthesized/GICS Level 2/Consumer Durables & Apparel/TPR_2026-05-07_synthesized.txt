@@ -1,0 +1,22 @@
+Ticker: TPR
+Source: TPR_2026-05-07.txt
+Generated: 2026-05-24 15:10 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Tapestry, Inc. (TPR)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by double-digit growth in most key markets and product lines. Activity is particularly strong within the Coach brand, where handbag units rose more than 20% ("handbag units rose more than 20%"). Geographically, growth is moderate to robust in North America (+20% constant currency) and Europe (+21%), while Greater China showed robust expansion (+55% constant currency). Conversely, demand is softening in Japan, where pro forma sales declined 10% ("Japan 123.9 (10)%"). Customer acquisition remains strong, specifically among Gen Z, who represented over 35% of new customers ("acquired over 2.4 million new customers globally").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments. The company references a strategic pillar to "Ignite the Power of our People," but provides no quantitative labor market data.
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate pricing power, specifically within its core leathergoods. Average Unit Retail (AUR) for Coach handbags increased at a "low-double-digit rate." While the company achieved a modest gross margin increase of 80 basis points, this was partially offset by persistent inflationary pressure from trade costs, specifically a "negative tariff and duty impact of 180 basis points."
+
+**4. Supply Chain & Inventory**
+The transcript does not provide specific data on lead times or inventory volume. However, the company reports "increasing profitability across channels" and "strong digital growth of approximately 25%," suggesting efficient distribution and fulfillment.
+
+**5. Capital Spending (Capex)**
+Specific capital expenditure figures for facilities or technology are not disclosed. The company is focused on its "Amplify growth strategy" to drive "durable growth," and is utilizing its "robust cash flow generation" primarily for shareholder returns rather than disclosed capacity expansions.

@@ -1,0 +1,24 @@
+Ticker: ON
+Source: ON_2026-05-04.txt
+Generated: 2026-05-24 15:09 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: onsemi (ON)**
+
+**1. Demand & Activity**
+Demand is showing signs of a moderate recovery, with the company stating it has "moved beyond the cyclical trough on a path to recovery" ("we have moved beyond the cyclical trough on a path to recovery"). Growth is highly bifurcated by product line:
+*   **AI Data Center:** Robust growth, accelerating more than 30% sequentially ("AI data center business accelerated, growing more than 30% sequentially") and doubling year-over-year ("AI data center revenue more than doubled year-over-year").
+*   **Automotive/Industrial:** Mixed to softening. While there is "momentum" in software-defined vehicles and new design wins for energy storage, the AMG segment saw a modest decline of 5% year-over-year ("AMG... (5)% [Year-over-Year Change]").
+
+**2. Labor & Wages**
+Not addressed. The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is reporting improved operational efficiency and "strong operating leverage" ("delivered strong operating leverage in our business with a 10% year-over-year increase in operating income"). While specific price hikes are not detailed, the company is leveraging an "optimized cost structure" ("optimized cost structure position us to accelerate margins") to drive profitability as market conditions improve.
+
+**4. Supply Chain & Inventory**
+Not addressed. The provided text contains no specific data regarding lead times or inventory volume levels.
+
+**5. Capital Spending (Capex)**
+Not addressed. The provided text does not specify future expenditures for capacity, technology, or facilities.

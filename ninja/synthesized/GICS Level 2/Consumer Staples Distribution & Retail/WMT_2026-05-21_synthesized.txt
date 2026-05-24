@@ -1,0 +1,22 @@
+Ticker: WMT
+Source: WMT_2026-05-21.txt
+Generated: 2026-05-24 15:10 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Walmart Inc. (Q1 FY27)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by broad-based share gains and accelerated customer transactions ("Strong sales, with broad-based share gains, reflecting accelerated customer transactions"). Growth is particularly strong in eCommerce, which grew 26% globally ("eCommerce sales up 26% globally"). In the U.S., demand is driven by "strong unit demand in grocery," while International markets show "momentum in eCommerce and stores" with transaction counts and unit volumes up across all categories.
+
+**2. Labor & Wages**
+The report indicates modest upward pressure on labor-related costs. Operating expenses deleveraged slightly, partly reflecting "higher... healthcare costs for associate benefits." No specific mentions of hiring difficulties or headcount reductions were noted.
+
+**3. Pricing Power & Inflation**
+Pricing appears stable, though input costs are providing headwinds. Operating income was "negatively affected by 250 bps from higher fuel costs in distribution and fulfillment." While gross profit grew 29 bps in the U.S. due to "business mix and merchandise mix," this was partially "offset by higher fuel costs."
+
+**4. Supply Chain & Inventory**
+Inventory levels are increasing moderately, though management describes inventory quality as "strong." Global inventory rose 8.9% ("Global inventory up 8.9%"), a trend attributed to the "timing of receipts" and "inventory tied to accelerated unit volume trends, primarily in grocery categories."
+
+**5. Capital Spending (Capex)**
+Investment in capacity and technology remains stable. The company maintains its guidance for capital expenditures to be "approximately 3.5% of net sales." Strategic focus remains on "driving productivity through automation" and "innovative technologies."
