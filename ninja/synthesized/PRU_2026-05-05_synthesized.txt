@@ -1,0 +1,22 @@
+Ticker: PRU
+Source: PRU_2026-05-05.txt
+Generated: 2026-05-24 15:09 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Prudential Financial (PRU)**
+
+**1. Demand & Activity**
+Demand is moderate to robust in U.S. markets but softening significantly in Japan. U.S. Retirement saw "strong momentum" following a new product launch, and Group Insurance sales increased 32% ("driven by strong growth in disability"). Individual Life sales grew 23% ("primarily driven by variable accumulation product sales"). Internationally, activity is bifurcated: Emerging Markets were "robust," specifically with "record earnings in Brazil," while overall international sales decreased 27% ("primarily driven by the Prudential of Japan sales suspension").
+
+**2. Labor & Wages**
+The report does not provide specific data on hiring, turnover, or wage levels.
+
+**3. Pricing Power & Inflation**
+The company is experiencing modest margin expansion in its investment arm ("PGIM... is on track to achieve its margin expansion target"). However, there is evidence of rising operational costs in the U.S., with higher expenses noted across all businesses "related to investments in enhancing service and distribution."
+
+**4. Supply Chain & Inventory**
+Not applicable.
+
+**5. Capital Spending (Capex)**
+Investment is focused on technology and distribution rather than physical capacity. The company is actively funding "growth initiatives" within PGIM and "investments supporting business growth and operational efficiency in claims and service" within its U.S. Group Insurance segment.
