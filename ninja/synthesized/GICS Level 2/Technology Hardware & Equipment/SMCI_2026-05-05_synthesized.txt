@@ -1,0 +1,22 @@
+Ticker: SMCI
+Source: SMCI_2026-05-05.txt
+Generated: 2026-05-25 16:35 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Super Micro Computer, Inc. (Q3 FY2026)**
+
+**Demand & Activity**
+Demand remains robust, characterized by "massive demand for various AI and enterprise verticals." Activity is accelerating as the company focuses on "capturing the next wave of AI and IT infrastructure demand," with net sales increasing significantly to $10.2 billion compared to $4.6 billion in the prior-year quarter.
+
+**Labor & Wages**
+The provided text contains no specific mentions of hiring trends, wage pressures, or headcount adjustments.
+
+**Pricing Power & Inflation**
+Pricing appears stable, with management noting a "margin recovery" (gross margin of 9.9% vs 9.6% YoY). However, there is a noted risk that "average sales prices for our server solutions could decline" if customers shift away from latest-generation products.
+
+**Supply Chain & Inventory**
+Inventory levels have increased substantially, suggesting a significant build-up to support growth. Total inventories rose to $11.1 billion as of March 31, 2026, compared to $4.68 billion in June 2025.
+
+**Capital Spending (Capex)**
+Investment in capacity is moderate but strategic, with $97 million in quarterly capital expenditures. Spending is primarily directed toward domestic expansion, specifically the "addition of our

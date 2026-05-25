@@ -1,0 +1,15 @@
+Ticker: PTC
+Source: PTC_2026-05-06.txt
+Generated: 2026-05-25 16:33 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Demand is showing moderate growth, evidenced by a constant currency ARR increase of 8.5% ("Constant currency ARR growth of 8.5% excluding divested businesses"). Activity is being bolstered by robust customer interest in artificial intelligence ("Customer interest in AI is growing"), which is driving momentum as clients modernize their data infrastructure ("Customers are modernizing their product data foundations with PTC’s systems of record to apply AI"). Management describes the current trajectory as a "more durable, multi-year growth engine."
+
+**Labor & Wages:** Not discussed.
+
+**Pricing Power & Inflation:** Not discussed.
+
+**Supply Chain & Inventory:** Not discussed.
+
+**Capital Spending (Capex):** Not discussed.
