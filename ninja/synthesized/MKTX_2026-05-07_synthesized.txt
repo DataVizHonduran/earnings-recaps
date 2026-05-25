@@ -1,0 +1,15 @@
+Ticker: MKTX
+Source: MKTX_2026-05-07.txt
+Generated: 2026-05-25 16:32 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Robust. Total revenue increased 12% to a record $233.4 million ("Record total revenues of $233.4 million increased 12%"), driven by "heightened demand for our differentiated liquidity by our global client network." Growth was particularly strong in non-U.S. credit products ("20% Growth in Revenue Outside U.S. Credit Products"). Trading volumes showed robust expansion, with a 35% increase in Block Trading ADV ("35% Increase in Block Trading ADV With Record U.S. High-Grade, U.S. High-Yield, EM and Eurobonds Block ADV") and a 51% increase in Portfolio Trading ADV ("51% Increase in Portfolio Trading ADV to Record $1.9 Billion").
+
+**Labor & Wages:** Not mentioned.
+
+**Pricing Power & Inflation:** Not mentioned.
+
+**Supply Chain & Inventory:** Not mentioned.
+
+**Capital Spending (Capex):** Not mentioned.

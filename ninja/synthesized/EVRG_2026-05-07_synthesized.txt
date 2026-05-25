@@ -1,0 +1,20 @@
+Ticker: EVRG
+Source: EVRG_2026-05-07.txt
+Generated: 2026-05-25 16:28 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity**
+Demand is showing moderate growth, specifically noted as "growth in weather-normalized demand." Activity in the industrial sector is robust, evidenced by the signing of a fifth large customer electric service agreement (ESA) for a project located in the "Kansas Central service territory" ("signing of an electric service agreement for a large customer project in our Kansas Central service territory").
+
+**Labor & Wages**
+Not mentioned.
+
+**Pricing Power & Inflation**
+The company is experiencing modest cost pressures, citing "higher operations and maintenance expense." To mitigate the impact of new high-load users on the general rate base, Evergy is employing a strategic pricing framework where new large customers "pay a premium rate that covers their fair share of existing and new system costs" ("new large customers will pay a premium rate").
+
+**Supply Chain & Inventory**
+Not mentioned.
+
+**Capital Spending (Capex)**
+Investment activity remains stable, with a focus on the "recovery of regulated investments" and the continued expansion of infrastructure to support its "large customer strategy" ("advance our large customer strategy").

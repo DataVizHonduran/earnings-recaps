@@ -1,0 +1,13 @@
+Ticker: FTNT
+Source: FTNT_2026-05-06.txt
+Generated: 2026-05-25 16:31 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Robust. Demand is growing broadly across all product lines and geographies ("broad-based demand across our portfolio and geographies"), with billings increasing 31% year-over-year ("Billings grew 31% year over year"). This activity is being driven by the "convergence of networking and security" and a threat environment "intensified by AI."
+
+**Labor & Wages:** Not discussed. The transcript contains no specific data on current hiring, wages, or headcount, mentioning only the general "ability to attract and retain personnel" as a forward-looking risk.
+
+**Pricing Power & Inflation:** Stable. While there are no explicit mentions of price hikes or specific input cost relief, the company maintains high non-GAAP gross margins, with full-year projections remaining stable between "79.0% to 81.0%."
+
+**Supply Chain & Inventory:** Stable. The company indicates it has successfully navigated logistics hurdles, noting that its "
