@@ -1,0 +1,8 @@
+Ticker: RVTY
+Source: RVTY_2026-05-05.txt
+Generated: 2026-05-27 17:36 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity**
+Demand is showing modest growth, with pro forma organic revenue increasing 3% ("organic revenue and pro forma organic revenue increased 3%"). This growth was distributed across core segments, with moderate increases in both Life Sciences ("Revenue increased 6%") and Diagnostics ("Revenue increased 8%"). Management indicated a positive outlook on the broader environment, noting the ability to "capitalize on improving market conditions." However, the company is strategically reducing its geographic footprint in Asia via the decision to "

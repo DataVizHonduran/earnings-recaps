@@ -1,0 +1,22 @@
+Ticker: TTWO
+Source: TTWO_2026-05-21.txt
+Generated: 2026-05-27 17:38 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Take-Two Interactive (TTWO)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by strong growth in high-margin digital engagement. Annual Net Bookings grew 19% to $6.72 billion ("Total Net Bookings grew 19% to $6.72 billion"). Activity is increasingly driven by "recurrent consumer spending," which grew 17% annually ("Net Bookings from recurrent consumer spending grew 17%"). Management expects "new record levels of operating performance" in Fiscal 2027, primarily driven by the upcoming launch of Grand Theft Auto VI ("driven by the November 19th launch of Grand Theft Auto VI").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage inflation.
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate pricing power through its "live services" and virtual currency models ("recurrent consumer spending is generated from ongoing consumer engagement and includes virtual currency, add-on content"). While specific input cost inflation is not detailed, the company notes that performance on mobile is sensitive to "player acquisition costs" ("factors affecting our performance on mobile, such as player acquisition costs").
+
+**4. Supply Chain & Inventory**
+Not applicable. The business model is predominantly digital, and there are no mentions of physical supply chain constraints or inventory bloating.
+
+**5. Capital Spending (Capex)**
+Capital investment remains stable and modest relative to total revenue. The company projects capital expenditures of approximately $200 million for Fiscal 2027 ("Capital expenditures approximately $200"). Investment is focused on a "robust development pipeline" to capture market share on current-generation consoles and PC ("ability to develop and publish products that capture market share for these current generation systems").

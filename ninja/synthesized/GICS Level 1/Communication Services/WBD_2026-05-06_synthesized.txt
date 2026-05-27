@@ -1,0 +1,29 @@
+Ticker: WBD
+Source: WBD_2026-05-06.txt
+Generated: 2026-05-27 17:38 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Warner Bros. Discovery (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is mixed, characterized by robust growth in digital streaming offset by softening traditional linear markets. 
+* **Streaming:** Activity is growing, with a 7% ex-FX increase in revenues ("Streaming revenues increased 7% ex-FX") and "dynamic underlying growth in global streaming subscribers."
+* **Linear TV:** Demand is declining, specifically in the U.S. market ("10% decrease in domestic linear pay TV subscribers") and audience engagement ("8% domestic audience declines").
+* **Studios:** Content demand is robust, with revenues increasing 31% ex-FX ("Studios revenues increased 31% ex-FX"), driven by international expansion.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company demonstrates modest pricing power in its legacy business, though it is insufficient to offset volume declines.
+* **Pricing:** There was a "2% increase in domestic affiliate rates" for linear networks.
+* **Costs:** Input costs for content are rising to support growth, specifically "higher international content costs to support HBO Max launches."
+
+**4. Supply Chain & Inventory**
+Not applicable. The company does not report physical supply chain lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment in technology and infrastructure remains stable with a slight upward trend.
+* **Capex:** Purchases of property and equipment increased 7% year-over-year to $268 million ("Purchases of property and equipment (268) (251) 7%").
+* **Content Investment:** The company noted "higher net content investment" as a primary driver for the decrease in free cash flow.
