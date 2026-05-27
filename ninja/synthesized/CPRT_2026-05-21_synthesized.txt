@@ -1,0 +1,22 @@
+Ticker: CPRT
+Source: CPRT_2026-05-21.txt
+Generated: 2026-05-27 17:29 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided press release, the available economic signals are limited as the document focuses on high-level financial results rather than operational commentary.
+
+**1. Demand & Activity**
+Activity appears stable to modestly positive. Quarterly revenue showed a modest increase ("increase in revenue of $25.4 million, or 2.1%"), although activity over the broader nine-month period remained essentially flat ("decrease in revenue of $(8.1) million, or (0.2)%").
+
+**2. Labor & Wages**
+Not mentioned.
+
+**3. Pricing Power & Inflation**
+Not mentioned. (While gross profit grew slightly faster than revenue in the quarter—3.7% vs 2.1%—there is no qualitative commentary regarding pricing actions or input cost pressures).
+
+**4. Supply Chain & Inventory**
+Not mentioned.
+
+**5. Capital Spending (Capex)**
+Not mentioned.

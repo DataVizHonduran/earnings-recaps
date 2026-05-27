@@ -1,0 +1,22 @@
+Ticker: SRE
+Source: SRE_2026-05-07.txt
+Generated: 2026-05-27 17:37 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Sempra (SRE)**
+
+**1. Demand & Activity**
+Demand appears robust, particularly in Texas, where infrastructure investments are being scaled to meet long-term growth. In California, activity is focused on resilience and affordability, with a noted reliance on strategic storage during extreme weather events ("support Texas growing energy needs for years to come"; "value of the region’s natural gas storage capacity as a strategic tool").
+
+**2. Labor & Wages**
+No specific mentions of hiring trends, wage pressures, or headcount adjustments were provided in the report.
+
+**3. Pricing Power & Inflation**
+The company is successfully exercising pricing power through regulatory approvals. In Texas, a new base rate settlement allows for updated billing rates to align with the current economic environment ("updated rates are expected to better align Oncor’s current cost structure with today’s operating environment"). However, the company continues to face modest headwinds from foreign currency volatility and inflation in Mexico ("Impact from foreign currency and inflation on monetary positions in Mexico").
+
+**4. Supply Chain & Inventory**
+No specific data provided regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capex is robust and expanding. Sempra invested approximately $3 billion in Q1 2026 and has committed to a record five-year capital plan of $65 billion through 2030, with a heavy concentration (95%) on utility infrastructure in Texas and California ("record five-year 2026-2030 capital plan of approximately $65 billion").

@@ -1,0 +1,17 @@
+Ticker: AMAT
+Source: AMAT_2026-05-14.txt
+Generated: 2026-05-27 17:27 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Applied Materials (AMAT)**
+
+**Demand & Activity:** Robust. Demand is accelerating, driven primarily by the "rapid global build-out of AI computing infrastructure." This strength is concentrated in leading-edge logic, DRAM, and advanced packaging. Management expects the semiconductor equipment business to grow "more than 30 percent in calendar 2026."
+
+**Labor & Wages:** Not disclosed. The report contains no specific mentions of hiring trends, wage pressures, or headcount adjustments.
+
+**Pricing Power & Inflation:** Stable to modest improvement. While specific pricing actions were not detailed, the company reported a slight increase in GAAP gross margin to "49.9 percent" (up from 49.1% year-over-year) and is "driving higher operating profit and productivity across the company."
+
+**Supply Chain & Inventory:** Proactive. To support accelerating customer growth, the company has intentionally "increased our build plan, inventory positions and logistics capacity" to ensure "operational and supply chain readiness."
+
+**Capital Spending (Capex):** Robust. Investment is focused on technology leadership and capacity expansion. Key activities include the expansion of "EPIC Center partner engagements" to accelerate commercialization and the strategic acquisition of the "NEXX business" to broaden its "portfolio of panel-level advanced packaging technologies."
