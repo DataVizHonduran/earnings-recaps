@@ -1,0 +1,22 @@
+Ticker: NVDA
+Source: NVDA_2026-05-20.txt
+Generated: 2026-05-28 17:42 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: NVIDIA (Q1 FY2027)**
+
+**1. Demand & Activity**
+Demand is robust and accelerating, particularly within AI infrastructure. Data Center revenue grew 92% year-over-year ("up 92% from a year ago"), driven by the buildout of AI factories which is "accelerating at extraordinary speed." Agentic AI is reportedly "scaling rapidly across companies and industries." Edge Computing demand shows moderate growth, increasing 29% year-over-year ("up 29% from a year ago"). However, demand signals from China are softening or unstable, as the company is "not assuming any Data Center compute revenue from China in its outlook."
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, wage pressures, or headcount adjustments.
+
+**3. Pricing Power & Inflation**
+The company demonstrates robust pricing power, evidenced by a significant expansion in gross margins, which rose to 75.0% non-GAAP ("up 14.2 pts" from a year ago). There were no mentions of input cost relief or persistent inflationary pressures regarding commodities or freight.
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific data regarding current lead times or whether inventory levels are lean or bloated.
+
+**5. Capital Spending (Capex)**
+While the company notes a massive global "infrastructure expansion" led by its customers, there are no specific disclosures regarding NVIDIA’s own internal capital

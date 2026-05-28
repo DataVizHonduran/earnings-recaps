@@ -1,0 +1,13 @@
+Ticker: HRL
+Source: HRL_2026-05-28.txt
+Generated: 2026-05-28 17:37 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Overall demand is showing modest growth ("organic net sales up 3%"), though performance varies by channel. Retail volume is softening ("Retail Volume down 2%"), partially offset by strong ground turkey sales. Conversely, Foodservice and International segments report modest growth ("Organic volume 1 also increased" in Foodservice; "organic volume 1 and organic net sales 1 grew" in International), driven by customized solutions and China exports. The company is strategically pivoting away from commodity-driven volatility ("reducing exposure to more volatile, commodity-driven businesses") toward value-added proteins.
+
+**Labor & Wages:** Not mentioned.
+
+**Pricing Power & Inflation:** The company demonstrates modest pricing power, particularly in the Foodservice segment ("benefited from market-based pricing actions"). While the company reported "expanded gross margins," some persistent inflationary pressure remains within the logistics network ("partially offset by inflationary pressures in the logistics network").
+
+**Supply Chain & Inventory:** Inventory levels remain stable ("Invent
