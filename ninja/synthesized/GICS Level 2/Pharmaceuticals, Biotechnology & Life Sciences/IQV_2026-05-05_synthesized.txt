@@ -1,0 +1,22 @@
+Ticker: IQV
+Source: IQV_2026-05-05.txt
+Generated: 2026-05-29 17:38 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: IQVIA (IQV)**
+
+**1. Demand & Activity**
+Demand is showing moderate to robust growth, characterized by an accelerating trend. Commercial Solutions saw "better-than-expected organic revenue growth," specifically driven by "notable strength in patient solutions, analytics consulting, and commercial engagement services" ("Commercial Solutions achieved better-than-expected organic revenue growth"). R&D Solutions is experiencing a "stabilizing market environment" with "mid-to-high single digit growth in forward-looking demand indicators" ("R D Solutions... delivered solid growth in net service fee bookings... in a stabilizing market environment").
+
+**2. Labor & Wages**
+Not addressed. The transcript provides no specific data regarding hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+Not explicitly addressed. While the company reported organic revenue growth and "innovative AI-enabled offerings gaining traction," there is no direct mention of price hikes or specific input cost relief/pressures.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a service-based provider, the company does not report physical inventory; however, its "contracted backlog" remains substantial at "$34.2 billion" ("R D Solutions contracted backlog was $34.2 billion"), with a healthy book-to-bill ratio of 1.04x.
+
+**5. Capital Spending (Capex)**
+The company is focusing investment on technology and organizational efficiency. It recently "implemented a new, simplified organizational model to strengthen collaboration [and] enhance efficiency" ("effective January 1, 2026, the company implemented a new, simplified organizational model"). Additionally, there is a strategic emphasis on "Healthcare-grade AI" and "AI-powered capabilities" to drive future growth ("our innovative AI-enabled offerings gaining traction with customers").

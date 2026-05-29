@@ -1,0 +1,22 @@
+Ticker: ROST
+Source: ROST_2026-05-21.txt
+Generated: 2026-05-29 17:39 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Ross Stores, Inc. (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by significant growth in both total sales and customer engagement. Comparable store sales grew by a "very robust 17%" (comparable store sales up a very robust 17%), driven primarily by increased customer traffic ("Customer traffic was the primary driver of the strong sales trend"). Management notes that activity was bolstered by "higher consumer spending related to tax refunds" and broad-based strength across all business lines.
+
+**2. Labor & Wages**
+The provided text contains no specific updates on current wage levels or hiring activity for the quarter. However, the company continues to list "labor shortages, increased turnover, or increased labor costs" as persistent systemic risk factors.
+
+**3. Pricing Power & Inflation**
+The company does not explicitly mention raising prices, as its model relies on sourcing "attractive brand name merchandise at desirable discounts." However, management identifies "continuing inflation" as a risk that may have "significant negative effects on our costs" and impact general "consumer confidence [and] shopping behavior."
+
+**4. Supply Chain & Inventory**
+Inventory levels have increased moderately to support higher sales volume, with merchandise inventory rising to $2.98 billion from $2.67 billion year-over-year. The company maintains a focus on the "ability of our buyers to source and purchase merchandise" and notes that "disruptions in our supply chain" remain a primary operational risk.
+
+**5. Capital Spending (Capex)**
+Investment in capacity is ongoing, as evidenced by a moderate increase in net property and equipment (from $3.83 billion to $4.15 billion). The company continues to prioritize "planned new store growth" and the need to "expand in existing markets and enter new geographic markets" to sustain growth.
