@@ -1,0 +1,22 @@
+Ticker: FANG
+Source: FANG_2026-05-04.txt
+Generated: 2026-05-29 17:38 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Diamondback Energy (FANG)**
+
+**1. Demand & Activity**
+Activity is robust, with the company increasing its annual production outlook. Management has raised full-year oil production guidance to 520+ MBO d, implying "5% organic year-over-year growth" ("Increasing annual oil production guidance to 520+... implying 5% organic year-over-year growth").
+
+**2. Labor & Wages**
+The provided transcript contains no specific mentions of hiring difficulty, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+Input costs are seeing moderate upward pressure. Total cash operating expenses rose to $11.26 per BOE in Q1 2026, compared to $10.31 in the prior quarter ("Total operating expense - cash $11.26" vs "$10.31"). This was driven largely by a slight increase in lease operating expenses ("Lease operating expenses $6.21" vs "$5.91") and higher production and ad valorem taxes ("Production and ad valorem taxes 3.04" vs "2.21").
+
+**4. Supply Chain & Inventory**
+The report does not explicitly detail lead times or inventory levels; however, operational throughput remains stable with 118 wells drilled and 147 completed in the Midland Basin during the quarter ("Drilled 118 Completed 147").
+
+**5. Capital Spending (Capex)**
+Capex plans are expanding to support increased capacity. The company raised its full-year cash capital expenditure guidance to $3.90 billion from $3.75 billion ("Raising full year cash capital expenditures to $3.90 billion"). This includes a specific increase in the budget for operated drilling and completion to $3.31 billion ("Operated drilling and completion $3,310 (from $3,160)").

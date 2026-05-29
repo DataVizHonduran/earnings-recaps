@@ -1,0 +1,22 @@
+Ticker: ROK
+Source: ROK_2026-05-05.txt
+Generated: 2026-05-29 17:39 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Rockwell Automation (ROK)**
+
+**1. Demand & Activity**
+Demand is showing moderate to robust growth in specific high-tech and infrastructure sectors, though it remains uneven across the broader economy. There is "solid momentum" led by "improving demand in warehouse automation, data center, semiconductor, and energy." However, overall industrial activity is bifurcated, as "capital investment remains muted in other key verticals."
+
+**2. Labor & Wages**
+The company is experiencing modest upward pressure on labor costs. Margin expansions in the Intelligent Devices and Software Control segments were "partially offset by higher compensation."
+
+**3. Pricing Power & Inflation**
+ROK demonstrates robust pricing power, successfully implementing price increases that have outpaced cost pressures. Margin growth was driven by "positive price cost inclusive of productivity" across multiple business segments.
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+The company is maintaining a "disciplined capital allocation" strategy. While specific facility spend was not detailed, the firm is prioritizing "expanded coverage of customers in high-growth end markets" to drive long-term value.
