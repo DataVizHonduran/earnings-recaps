@@ -1,0 +1,22 @@
+Ticker: DUK
+Source: DUK_2026-05-05.txt
+Generated: 2026-05-30 15:15 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Duke Energy (DUK)**
+
+**1. Demand & Activity:**
+Demand is robust, driven by significant economic expansion. The company has secured 7.6 GW of economic development projects ("7.6 GW of economic development projects secured under Electric Service Agreements") and reports consistent growth across its service territories ("recovery of infrastructure investments to reliably serve customers in our growing jurisdictions").
+
+**2. Labor & Wages:**
+Not addressed. The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation:**
+The company is experiencing moderate upward pressure on operating costs, specifically regarding maintenance and weather-related events ("partially offset by higher O M expenses, including storm costs"). There is no specific mention of rate hikes, though management notes a focus on keeping "rates as low as possible."
+
+**4. Supply Chain & Inventory:**
+Not addressed. The provided text contains no mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex):**
+Investment activity is robust and focused on long-term capacity and modernization. Spending is directed toward grid resilience and new generation ("maximizing our existing fleet, to constructing new generation and strengthening the grid"). The company is actively expanding its asset base ("higher depreciation on a growing asset base") and recently closed $5.3 billion in strategic transactions to fund this growth ("closed $5.3 billion strategic transactions to strengthen balance sheet and support growth").

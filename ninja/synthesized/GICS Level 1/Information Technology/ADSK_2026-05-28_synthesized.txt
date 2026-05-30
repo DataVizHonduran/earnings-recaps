@@ -1,0 +1,22 @@
+Ticker: ADSK
+Source: ADSK_2026-05-28.txt
+Generated: 2026-05-30 15:15 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Autodesk, Inc. (ADSK)**
+
+**1. Demand & Activity**
+Demand is robust and growing across all primary segments and geographies. Total revenue grew 18% year-over-year, with "consistent momentum in our markets" ("consistent momentum in our markets"). Growth was broad-based geographically, with EMEA leading at 21% and the Americas at 16% ("Americas $844 16%... EMEA $761 21%"). Product-line demand is strong, particularly in the "Make" category (+25%) and AECO (+20%) ("Make 224 25%... AECO $970 20%").
+
+**2. Labor & Wages**
+The company is currently undergoing a "sales reorganization" which is "proceeding as expected" ("Our sales reorganization is proceeding as expected"). Management noted that future guidance accounts for "potential disruption from our sales restructuring" ("continues to reflect potential disruption from our sales restructuring"). No specific mentions of wage inflation or headcount reductions were provided.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price increases; however, the 18% revenue growth and raised fiscal guidance suggest strong pricing power or volume growth ("raised our fiscal 27 guidance to reflect the strength of the business"). In its risk disclosures, the company notes general exposure to "resulting inflationary pressures" ("supply chain disruptions, resulting inflationary pressures").
+
+**4. Supply Chain & Inventory**
+As a software-centric business, traditional physical inventory is not applicable. However, the company identifies "supply chain disruptions" as a general external risk factor in its safe harbor statement ("supply chain disruptions, resulting inflationary pressures").
+
+**5. Capital Spending (Capex)**
+Capital investment remains stable and modest relative to cash flow. The company projects approximately $70 million in capital expenditures for the fiscal year ("Free cash flow is cash flow from operating activities less approximately $70 million of capital expenditures"). Strategic investment is currently focused on inorganic growth via the acquisition of MaintainX to advance its "unified platform in operations" ("Autodesk to acquire MaintainX, advancing unified platform in operations").

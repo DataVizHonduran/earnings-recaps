@@ -1,0 +1,22 @@
+Ticker: STE
+Source: STE_2026-05-11.txt
+Generated: 2026-05-30 15:16 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: STERIS plc (STE)**
+
+**1. Demand & Activity**
+Demand is moderate to robust, driven primarily by healthcare procedure volumes. Organic revenue growth was 7% for the full year ("constant currency organic revenue growth was 7%"). Performance varied by segment: Healthcare showed broad strength across services (+9%), consumables (+7%), and capital equipment (+6%). Life Sciences saw robust growth in capital equipment (+19%). Conversely, Applied Sterilization Technologies (AST) experienced a significant decline in capital equipment demand ("62% decline in capital equipment revenue").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company demonstrates stable pricing power, though gains are being partially eroded by external cost pressures. Operating income growth in the Healthcare and AST segments was supported by "improved volume and price" and "improved price," respectively. However, these gains were "significantly offset by tariffs and inflation" in the Healthcare segment and "somewhat offset by inflation and tariffs" in Life Sciences.
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory levels, though it notes a "significantly lower contribution from working capital in fiscal 2026 compared with fiscal 2025," suggesting a shift in asset management.
+
+**5. Capital Spending (Capex)**
+Capex plans are robust, with anticipated expenditures of approximately $375 million for fiscal 2027 ("Capital expenditures are anticipated to be approximately $375 million"). This includes a strategic $60 million investment to construct a new sterility assurance manufacturing plant in Mentor, Ohio, to "support the long-term demand from our Customers."
