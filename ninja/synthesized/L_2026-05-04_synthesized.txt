@@ -1,0 +1,22 @@
+Ticker: L
+Source: L_2026-05-04.txt
+Generated: 2026-05-30 15:15 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Loews Corp (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is mixed across business segments. Hospitality activity is robust, driven by growth in "average daily rate" and "occupied room nights at the Universal Orlando Resort." Energy infrastructure activity is moderate to strong, with "higher contracting rates and utilization-based revenues on gas transportation." Insurance demand is stable, with net earned premiums growing by a modest 3%.
+
+**2. Labor & Wages**
+Not mentioned.
+
+**3. Pricing Power & Inflation**
+Pricing power is evident in the energy and hospitality sectors, with "higher rates on storage, parking and lending" and growth in hotel daily rates. However, the insurance segment is facing inflationary pressure; the underlying loss ratio increased by 2.6 points, "mainly driven by higher loss cost trends and lower than expected rate in certain lines." Additionally, the corporate segment noted "higher interest expense related to recent debt refinancing."
+
+**4. Supply Chain & Inventory**
+Not mentioned.
+
+**5. Capital Spending (Capex)**
+Recent capacity expansion is noted in the hospitality sector, specifically the "addition of the three new hotels that opened in 2025." No further future capex guidance provided.
