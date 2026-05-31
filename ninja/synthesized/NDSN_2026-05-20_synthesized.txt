@@ -1,0 +1,22 @@
+Ticker: NDSN
+Source: NDSN_2026-05-20.txt
+Generated: 2026-05-31 15:21 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Nordson Corp (NDSN)**
+
+**1. Demand & Activity**
+Demand is robust and growing across all business segments. Organic sales increased 7% overall, with particular strength in electronics dispense systems, engineered fluid solutions, and medical product lines. Industrial demand is improving specifically within polymer processing and industrial coating, while precision agriculture is seeing ongoing growth. Broad-based momentum is evidenced by a significant increase in backlog, which is up 18% year-over-year ("Continued strength in demand with backlog up 18% compared to prior year").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring difficulty, turnover, wage increases, or headcount reductions.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price hikes or specific input cost relief. However, gross margins remain stable at 54.6% for the first half of the year compared to 54.7% in the prior year ("Gross margin % 54.6% [vs] 54.7%"), suggesting that the company is effectively managing costs relative to its pricing.
+
+**4. Supply Chain & Inventory**
+Inventory levels have seen a modest increase, rising from $444.8 million in October 2025 to $467.8 million in April 2026 ("Inventories - net 467,757 [vs] 444,814"). There are no specific mentions of lead time volatility or supply chain bottlenecks.
+
+**5. Capital Spending (Capex)**
+The company continues to invest in growth through both organic capacity and strategic acquisitions. Capex for property, plant, and equipment was $27.7 million for the first half of the year ("Additions to property, plant and equipment (27,693)"). Additionally, the company is expanding its North American precision agriculture footprint via the acquisition of CapstanAG Systems ("strategic, acquisition provides the Company with an established and synergistic platform to grow its precision agriculture portfolio").

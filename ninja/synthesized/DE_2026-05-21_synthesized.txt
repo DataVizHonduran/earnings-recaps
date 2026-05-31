@@ -1,0 +1,22 @@
+Ticker: DE
+Source: DE_2026-05-21.txt
+Generated: 2026-05-31 15:20 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Deere & Co (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is mixed and diverging by segment. Large Agriculture is seeing a moderate decline, with U.S. & Canada and South America forecasted down 15-20% and ~15% respectively ("Large Ag Down 15 to 20%," "South America... Down ~15%"). Conversely, demand in Small Ag and Construction & Forestry is robust, with the latter seeing a 29% increase in net sales ("Construction & Forestry sales increased... as a result of higher shipment volumes"). Global roadbuilding is expected to grow moderately ("Global Roadbuilding Up ~10%").
+
+**2. Labor & Wages**
+The report does not provide specific data on current wage levels or hiring rates, but identifies the "ability to attract, develop, engage, and retain qualified employees" and the potential "impact of workforce reductions on company culture" as ongoing risk factors.
+
+**3. Pricing Power & Inflation**
+The company is exercising modest pricing power in growth segments, citing "favorable price realization" in both Small Ag and Construction & Forestry. However, these gains are partially offset by persistent "higher production costs" in the Production & Precision Ag and Construction segments. A significant one-time relief event occurred via a $272 million recovery from invalidated IEEPA tariffs ("recorded a recovery of $272 million for refund claims related to IEEPA tariffs").
+
+**4. Supply Chain & Inventory**
+While specific lead times are not disclosed, the company highlights the ongoing need for "adequately managing inventory" and the ability of the dealer network to "manage new and used inventory" as critical operational risks.
+
+**5. Capital Spending (Capex)**
+Investment remains focused on technology and product development to sustain long-term growth ("Investment in new products and technology supports long-term growth," "continuing to invest in innovation through the cycle").
