@@ -1,0 +1,22 @@
+Ticker: OXY
+Source: OXY_2026-05-05.txt
+Generated: 2026-05-31 15:22 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Occidental Petroleum (OXY)**
+
+**1. Demand & Activity**
+Production activity was robust, with total global production exceeding the high end of guidance ("Total company production of 1,426 Mboed exceeded the high end of guidance"), driven by strong contributions from the Permian, Rockies, and Gulf of Mexico. However, crude oil volumes saw a slight decline ("increase was primarily driven by higher realized crude oil prices, partially offset by lower crude oil volumes").
+
+**2. Labor & Wages**
+The report does not explicitly detail wage inflation or hiring trends, but notes a focus on operational efficiency and productivity gains ("delivered better outcomes with fewer resources").
+
+**3. Pricing Power & Inflation**
+The company experienced moderate to robust pricing gains in liquids, though natural gas prices softened. Realized crude oil prices increased by 18% and NGLs by 14% quarter-over-quarter ("Average worldwide realized crude oil prices increased by 18%... average worldwide realized natural gas liquids prices increased by 14%"). Conversely, domestic gas prices declined by 10% ("Average domestic realized gas prices fell by 10%"). The company also noted a "sharp increase in commodity prices in March."
+
+**4. Supply Chain & Inventory**
+There are no specific mentions of lead times or inventory bloating. The company noted a use of working capital driven by "higher receivables resulting from the sharp increase in commodity prices," suggesting a lag between production/sales and cash collection during price volatility.
+
+**5. Capital Spending (Capex)**
+Capital investment remains moderate and disciplined, with first-quarter expenditures totaling $1.6 billion ("Capital expenditures of $1.6 billion"). The company is prioritizing a deleveraging program to reduce principal debt toward a $10.0 billion milestone ("progressing towards $10.0 billion milestone").
