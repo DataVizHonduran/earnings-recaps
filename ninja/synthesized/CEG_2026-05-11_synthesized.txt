@@ -1,0 +1,22 @@
+Ticker: CEG
+Source: CEG_2026-05-11.txt
+Generated: 2026-06-01 19:22 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Constellation Energy (CEG)**
+
+**1. Demand & Activity**
+Demand is robust, particularly driven by industrial growth and data center expansion. Activity is notably strong in Texas, where the company is responding to "continued growth and increasing electricity demand across homes, businesses, and industry" ("Pin Oak is a direct response to Texas continued growth..."). There is specific, high-growth demand from the technology sector, evidenced by a 380 MW agreement to serve a "new data center adjacent to the Freestone Energy Center" ("signed a 380 MW agreement with Dallas-based CyrusOne").
+
+**2. Labor & Wages**
+The report does not provide specific data on wage inflation or hiring difficulties; however, it notes a focus on "integrating two great companies" following the Calpine acquisition ("integrating two great companies") and highlights "workforce development" as a key performance indicator in its sustainability rankings.
+
+**3. Pricing Power & Inflation**
+Direct commentary on pricing power is absent, but the company is leveraging long-term contracts to secure revenue, such as a "15-year power purchase agreement with Pacific Gas and Electric Company" ("supported by a 15-year power purchase agreement"). Financial results were positively impacted by "market and portfolio conditions" ("reflects... market and portfolio conditions").
+
+**4. Supply Chain & Inventory**
+Not explicitly addressed. The report focuses on operational availability, noting a "4.5%" Equivalent Forced Outage Factor (EFOF) for the natural gas, oil, and pumped-storage hydro fleet ("EFOF of our natural gas, oil, and pumped-storage hydro fleet... is 4.5%").
+
+**5. Capital Spending (Capex)**
+Capex activity is robust, focused on expanding capacity and decarbonization. Recent investments include the commissioning of the "105 MW Pastoria Solar Project" and the "460 MW Pin Oak Creek Energy Center" ("Pin Oak is a 460 MW, state-of-the-art natural gas facility"). The company continues to invest in "innovation and new technologies to drive the transition to a reliable, sustainable and secure energy future" ("committed to investing in innovation and new technologies").

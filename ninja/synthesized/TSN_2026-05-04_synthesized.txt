@@ -1,0 +1,22 @@
+Ticker: TSN
+Source: TSN_2026-05-04.txt
+Generated: 2026-06-01 19:24 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Tyson Foods (TSN)**
+
+**1. Demand & Activity**
+Demand is mixed but showing moderate momentum in specific segments. Chicken and Prepared Foods are driving "meaningful momentum" ("Chicken and Prepared Foods segments driving meaningful momentum"), with chicken volumes up 1.7% and Prepared Foods up 0.4% in Q2. Conversely, Beef demand is softening significantly, with volumes declining 13.1% in the second quarter ("Beef... Volume Change (13.1)%"). Overall, the company expects a modest increase in total sales of 2% to 4% for fiscal 2026 ("expect sales to be up 2% to 4% in fiscal 2026").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is exercising moderate pricing power across most categories. Average prices increased in the second quarter for Beef (11.5%), Chicken (1.8%), Pork (1.3%), and Prepared Foods (4.4%) ("Avg. Price Change... Beef 11.5%, Pork 1.3%, Chicken 1.8%, Prepared Foods 4.4%"). This suggests a continued ability to pass through costs despite volume volatility in the beef segment.
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory levels; however, it notes that domestic protein production is expected to remain stable to slightly higher, with a projected 1% overall increase ("domestic protein production... will increase approximately 1% compared to fiscal 2025 levels").
+
+**5. Capital Spending (Capex)**
+Capex plans are stable, with projected investments between $0.7 billion and $1.0 billion for fiscal 2026 ("expect capital expenditures of $0.7 billion to $1.0 billion"). These funds are earmarked for "maintenance and repair" as well as "investments in profit improvement projects" ("Capital expenditures include investments in profit improvement projects as well as projects for maintenance and repair").
