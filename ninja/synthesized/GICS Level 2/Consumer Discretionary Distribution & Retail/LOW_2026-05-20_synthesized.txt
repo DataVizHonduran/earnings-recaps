@@ -1,0 +1,22 @@
+Ticker: LOW
+Source: LOW_2026-05-20.txt
+Generated: 2026-06-01 19:23 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Lowe’s Companies Inc. (Q1 2026)**
+
+**Demand & Activity**
+Demand is stable to modestly growing, though facing headwinds from a "challenging housing macro" ("In spite of a challenging housing macro"). Comparable sales saw a slight increase of 0.6% ("Comparable sales for the quarter increased 0.6%"). Growth is uneven across segments, with robust momentum in online sales, appliances, home services, and the Pro customer base ("continued strength in appliances, home services and Pro sales"; "15.5% online sales growth").
+
+**Labor & Wages**
+The report does not provide specific data on wage inflation or headcount changes, though it acknowledges the role of the workforce during peak seasonal activity ("thank our associates for their dedication to serving our customers throughout the busy spring season").
+
+**Pricing Power & Inflation**
+The company is facing moderate pressure on margins. Gross margin declined slightly from 33.38% to 32.68% year-over-year. While specific pricing actions aren't detailed, the company lists "inflation and its impacts on discretionary spending and on our costs" as a continuing risk factor.
+
+**Supply Chain & Inventory**
+Inventory levels remain stable. Merchandise inventory was reported at $18.4 billion, a modest increase from $18.3 billion in the prior-year period ("Merchandise inventory - net 18,447" vs "18,335"). There are no mentions of significant lead-time disruptions or bloated stock.
+
+**Capital Spending (Capex)**
+Investment in capacity and technology remains robust. The company has projected capital expenditures of up to $2.5 billion for the full year 2026 ("Capital expenditures of up to $2.5 billion"). This follows recent expansion through the acquisitions of Foundation Building Materials (FBM) and Artisan Design Group (ADG) ("expenses associated with the acquisitions of Foundation Building Materials (FBM) and Artisan Design Group (ADG)").

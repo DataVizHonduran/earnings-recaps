@@ -1,0 +1,22 @@
+Ticker: SNPS
+Source: SNPS_2026-05-27.txt
+Generated: 2026-06-01 19:23 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Synopsys Inc. (SNPS)**
+
+**1. Demand & Activity**
+Demand is robust, primarily driven by the scaling of AI, which is increasing the complexity and diversity of semiconductor architecture ("AI is scaling semiconductor demand, architectural diversity and complexity of chips... driving demand across our portfolio"). Management reports "strength across the business" and has raised full-year revenue guidance to a midpoint of $9.665 billion ("Raising expectations for full-year total revenue... driven by strong performance across the business").
+
+**2. Labor & Wages**
+The report does not explicitly detail hiring difficulties or wage inflation; however, there is evidence of moderate restructuring activity, with the company recording "Restructuring charges" of $115.8 million for the second quarter.
+
+**3. Pricing Power & Inflation**
+While specific price increases are not mentioned, the company is achieving margin expansion through "strong cost discipline" and "accelerating synergies" ("expanded operating margin driven by strong cost discipline and accelerating synergies"). There is a stated focus on "greater efficiency across the business."
+
+**4. Supply Chain & Inventory**
+Not applicable. As a provider of design automation and IP software, the company does not report physical inventory levels or hardware lead times.
+
+**5. Capital Spending (Capex)**
+Capital investment remains stable and modest relative to total revenue, with projected full-year capital expenditures of approximately $300 million ("Capital Expenditures... ~$300 [million]").
