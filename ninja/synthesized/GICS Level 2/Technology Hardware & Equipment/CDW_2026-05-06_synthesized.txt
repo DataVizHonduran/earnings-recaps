@@ -1,0 +1,22 @@
+Ticker: CDW
+Source: CDW_2026-05-06.txt
+Generated: 2026-06-02 18:07 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: CDW Corp (Q1 2026)**
+
+**1. Demand & Activity:**
+Demand is growing moderately across all segments, with robust growth in infrastructure hardware. Net sales increased 9.2% year-over-year, driven by "increased customer demand for data storage and servers, netcomm products, software, and notebooks mobile devices." Activity is particularly strong in the Commercial segment, specifically within Financial Services (up 28.2%), Corporate (up 8.4%), and Healthcare (up 4.9%). International demand in the UK and Canada is robust, with sales 17.9% higher than 2025. Management notes a transition as customers move "from AI exploration into real, production environments."
+
+**2. Labor & Wages:**
+Labor costs are experiencing moderate upward pressure. Selling and administrative expenses rose 7.0%, "primarily due to higher compensation expense, including performance-based incentives, coworker-related costs."
+
+**3. Pricing Power & Inflation:**
+Pricing power appears stable to slightly softening, as evidenced by a modest decline in gross profit margin from 21.6% to 21.0%. While the company does not explicitly cite inflation, it notes that the margin decrease was "primarily driven by a lower contribution of netted down revenue."
+
+**4. Supply Chain & Inventory:**
+Supply chain conditions are generally stable, though the company flags potential risks regarding "capacity limitations and cost increases resulting from heightened demand related to artificial intelligence workloads." Management continues to "prioritize disciplined working capital management."
+
+**5. Capital Spending (Capex):**
+The company is directing investment toward technology and strategic capabilities, specifically noting "investments to support our AI initiatives."

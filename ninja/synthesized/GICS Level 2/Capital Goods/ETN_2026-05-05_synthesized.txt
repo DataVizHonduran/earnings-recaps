@@ -1,0 +1,22 @@
+Ticker: ETN
+Source: ETN_2026-05-05.txt
+Generated: 2026-06-02 18:07 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Eaton Corp plc (ETN)**
+
+**1. Demand & Activity**
+Demand is **robust** overall, characterized by accelerating growth in power management. Electrical Americas is seeing strong momentum, particularly driven by data centers ("twelve-month rolling average order acceleration in Electrical Americas, up 42%, driven by data center momentum"). Electrical Global and Aerospace also report moderate growth ("Electrical Global and Aerospace order growth, up 13%"). Conversely, demand in the Mobility sector is **softening** ("Mobility delivered solid operational performance in a challenging market," with organic sales declining 6%).
+
+**2. Labor & Wages**
+The report does not provide specific data on wage increases or headcount changes, though it lists the ability to "identify, attract, develop, engage and retain qualified employees" as a general risk factor.
+
+**3. Pricing Power & Inflation**
+The company does not explicitly detail current pricing actions; however, it notes that "significant inflation or shortages of raw materials, energy, components, and or labor" remains a potential risk to operations.
+
+**4. Supply Chain & Inventory**
+Inventory levels are not explicitly detailed, but the company is experiencing a **robust** increase in orders that exceeds current sales, as evidenced by a book-to-bill ratio of 1.2 for Electrical businesses and 1.1 for Aerospace. Backlogs have grown significantly ("total backlog growth of 48% in Electrical sector and 28% in Aerospace segment").
+
+**5. Capital Spending (Capex)**
+Capex is **robust**, with a heavy focus on expanding capacity to meet surging demand and strategic inorganic growth. The company is "advancing significant capacity expansion investments to meet demand" in the Electrical Americas segment and recently "closed $11 billion of strategic acquisitions" to acquire differentiated technologies for data centers and aerospace.
