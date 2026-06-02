@@ -1,0 +1,22 @@
+Ticker: AMCR
+Source: AMCR_2026-05-06.txt
+Generated: 2026-06-02 18:07 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Amcor plc (AMCR)**
+
+**1. Demand & Activity**
+Demand is softening. Organic volumes were approximately 1.5% lower than the combined legacy businesses in the March quarter ("volumes were approximately 1.5% lower than estimated combined volumes"). Activity varies by product and geography: growth was noted in pet food and protein, while healthcare and nutrition declined ("volumes were higher in pet food and protein, offset by lower volumes in healthcare and other nutrition"). Regionally, demand is softening in North America and Europe but remains robust in Asia ("volumes were lower across North America and Europe, and higher than the prior year across the Asian region").
+
+**2. Labor & Wages**
+Not addressed. The report focuses on "synergy delivery" and "productivity initiatives" ("meaningful progress on synergy delivery and portfolio optimization"), but provides no specific data on hiring, turnover, or wage inflation.
+
+**3. Pricing Power & Inflation**
+Pricing power appears stable to modest. The company is actively managing prices to counter inflationary pressures ("managing costs and pricing responsibly to offset inflation"). Raw material pass-throughs had "no material impact" on consolidated net sales, though the Flexible Packaging segment saw a slight favorable impact of 1% ("pass through of movements in raw material costs had a favorable impact of approximately 1%").
+
+**4. Supply Chain & Inventory**
+Inventory levels are bloated due to geopolitical instability. The company revised its Free Cash Flow guidance downward because it is intentionally holding more stock to ensure reliability amid conflict in the Middle East ("now reflects higher inventory levels at higher cost to secure customer service levels given the impact of the Middle East conflict").
+
+**5. Capital Spending (Capex)**
+Specific new facility investments were not detailed; however, the company is focused on "portfolio optimization" and the integration of the Berry acquisition ("Six divestiture agreements reached under previously announced portfolio optimization initiative"). Focus remains on extracting "synergy benefits" ($270 million projected for FY2026) rather than greenfield expansion.
