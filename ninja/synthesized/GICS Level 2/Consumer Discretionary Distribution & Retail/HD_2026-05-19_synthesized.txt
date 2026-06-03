@@ -1,0 +1,22 @@
+Ticker: HD
+Source: HD_2026-05-19.txt
+Generated: 2026-06-03 18:24 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Home Depot (HD)**
+
+**1. Demand & Activity**
+Demand remains stable but is characterized by modest growth and headwinds. Comparable sales in the U.S. saw a slight increase of 0.4%, while total company comparable sales rose 0.6%. Management notes that underlying demand is "relatively similar" to the previous fiscal year, though it is being tempered by "greater consumer uncertainty and housing affordability pressure" ("The underlying demand in our business was relatively similar to what we saw throughout fiscal 2025, despite greater consumer uncertainty and housing affordability pressure").
+
+**2. Labor & Wages**
+The report does not specify hiring difficulties or wage adjustments, though it acknowledges the continued role of its workforce of "over 470,000 associates" ("The Company employs over 470,000 associates").
+
+**3. Pricing Power & Inflation**
+The company is seeing a moderate increase in average ticket size (up 2.3% to $92.76), suggesting some pricing power or a shift in product mix. However, cost of sales grew by 6.0%, outpacing net sales growth of 4.8%, indicating persistent input cost pressures. The company continues to monitor "commodity or other price inflation and deflation" as a risk factor ("commodity or other price inflation and deflation").
+
+**4. Supply Chain & Inventory**
+Inventory levels have increased moderately, with merchandise inventories rising to $27.28 billion from $25.76 billion year-over-year. The company remains focused on "on-shelf availability, and in-stock positions" and the "ability to continue to diversify our supply chain" ("implementation of interconnected, store, supply chain... real estate inventory, on-shelf availability, and in-stock positions").
+
+**5. Capital Spending (Capex)**
+Capex remains stable and disciplined, with future investments projected at approximately 2.5% of total sales ("Capital expenditures of approximately 2.5% of total sales"). This includes a modest expansion of the physical footprint with "approximately 15 new stores" planned for the fiscal year ("Approximately 15 new stores").

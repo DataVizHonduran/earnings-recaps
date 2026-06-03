@@ -1,0 +1,22 @@
+Ticker: COST
+Source: COST_2026-05-28.txt
+Generated: 2026-06-03 18:24 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Costco Wholesale Corp (Q3 FY2026)**
+
+**1. Demand & Activity**
+Demand is robust across all segments. Total company comparable sales grew by 9.8% for the quarter. Growth is broad-based, with moderate to strong gains in the U.S. (9.4%), Canada (10.7%), and Other International markets (11.2%). Digitally-enabled sales are seeing robust expansion ("Digitally-Enabled 21.5%").
+
+**2. Labor & Wages**
+The provided data does not detail specific hiring or turnover rates; however, the company identifies "rising costs associated with employees (generally including health-care costs and wages)" as a continuing risk factor.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price hikes, but identifies "inflation or deflation" and "energy and certain commodities" as ongoing risks to operations. Merchandise costs increased from $54.99 billion to $61.52 billion year-over-year for the quarter, reflecting higher volume and potential input cost pressures.
+
+**4. Supply Chain & Inventory**
+Inventory levels have increased moderately to support growth, with merchandise inventories rising to $19.42 billion from $18.12 billion as of the prior year-end ("Merchandise inventories 19,418 [vs] 18,116"). There are no mentions of lead-time disruptions or bloated stock.
+
+**5. Capital Spending (Capex)**
+Investment in capacity and facilities remains robust. Additions to property and equipment for the first 36 weeks totaled $4.23 billion, a moderate increase over the $3.53 billion spent during the same period last year ("Additions to property and equipment (4,228) [vs] (3,532)").
