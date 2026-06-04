@@ -1,0 +1,22 @@
+Ticker: BBY
+Source: BBY_2026-05-28.txt
+Generated: 2026-06-04 16:57 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Best Buy (BBY)**
+
+**1. Demand & Activity:**
+Demand is showing modest growth, with enterprise comparable sales increasing 2.0% ("comparable sales grew 2% versus last year"). Activity is bifurcated by product line: robust growth in gaming, computing, mobile phones, and services ("largest drivers... were gaming, computing, mobile phones and services"), while demand for appliances is softening ("partially offset by a decline in appliances"). International demand is growing more robustly, with comparable sales up 4.7% ("International comparable sales % change 4.7%"). Recent momentum in May is described as high single-digit growth.
+
+**2. Labor & Wages:**
+The report contains no specific mentions of hiring difficulties, turnover, or wage adjustments. It notes a general reliance on "dedicated employees" to execute strategy.
+
+**3. Pricing Power & Inflation:**
+Pricing power appears limited for hardware, as the company is experiencing pressure on product margins ("largely offset by lower product margin rates"). However, the company is successfully scaling new high-margin revenue streams to offset these pressures ("scaling new profit streams like Best Buy Ads and Marketplace").
+
+**4. Supply Chain & Inventory:**
+The provided text does not contain specific commentary regarding lead times or inventory volume levels.
+
+**5. Capital Spending (Capex):**
+Planned investment remains stable, with projected annual expenditures of approximately $750 million ("Capital expenditures of approximately $750 million"). Future investments are focused on technology and digital expansion, specifically advancing the company as a "Retail, Media and Advertising, and Technology company."
