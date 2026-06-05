@@ -1,0 +1,15 @@
+Ticker: WSM
+Source: WSM_2026-05-21.txt
+Generated: 2026-06-05 17:03 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Demand is growing at a moderate pace, with comparable brand revenue increasing 4.8% ("comp came in at 4.8%"). Performance varied by product line, with robust growth in West Elm ("8.5%") and modest growth in Pottery Barn ("1.0%"). Management notes they are continuing to outperform despite "cyclical swings of the housing market."
+
+**Labor & Wages:** There is slight upward pressure on labor costs, as evidenced by a rise in operating expenses driven by "higher employment expense of +30bps."
+
+**Pricing Power & Inflation:** Pricing power appears to be softening, with gross margins impacted by "lower merchandise margins of -100bps." The company faces persistent inflationary pressure from trade policy, noting "incremental tariff costs of approximately $60 million," and expects "oil prices will remain elevated for fiscal 2026."
+
+**Supply Chain & Inventory:** Inventory levels are increasing, with merchandise inventories up "9.0% to the first quarter LY to $1.46 billion." However, the company is seeing modest gains in logistics, reporting "supply chain efficiencies of +50bps."
+
+**Capital Spending (Capex):** The provided text does not specify current or future capital expenditure amounts or specific facility investment plans.
