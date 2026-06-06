@@ -1,0 +1,20 @@
+Ticker: ZTS
+Source: ZTS_2026-05-07.txt
+Generated: 2026-06-06 15:28 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity**
+Demand is bifurcated by geography and species. In the U.S., companion animal demand is softening, characterized by "increased price sensitivity, resulting in a decline in veterinary visits and softer demand for premium innovative products." Conversely, U.S. livestock activity is robust, with "broad-based strength across cattle, poultry and swine." International demand remains robust across both segments, with livestock reflecting "strong end-market demand" and companion animal sales growing "7% on an organic operational basis."
+
+**Labor & Wages**
+Not mentioned.
+
+**Pricing Power & Inflation**
+Pricing power is softening in the U.S. domestic market, where the company notes "persistent macroeconomic-driven price sensitivity." However, the company maintains some pricing leverage internationally, as growth was supported by the "timing of price increases" in both companion animal and livestock segments.
+
+**Supply Chain & Inventory**
+The company reports a "supply recovery" within its international livestock business, though no specific data on lead times or overall inventory levels was provided.
+
+**Capital Spending (Capex)**
+Zoetis is pursuing strategic expansion in technology and data capabilities through the acquisition of Neogen’s animal genomics business to "drive future livestock innovation through genomics" and "expand its capabilities to deliver predictive insights."
