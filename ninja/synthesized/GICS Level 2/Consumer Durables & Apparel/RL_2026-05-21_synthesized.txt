@@ -1,0 +1,15 @@
+Ticker: RL
+Source: RL_2026-05-21.txt
+Generated: 2026-06-06 15:25 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Robust growth across all regions and channels. Asia saw the strongest expansion ("up 31% on a reported basis"), driven by "exceptional Lunar New Year sales" in China. North America maintained solid momentum ("sales up 8%"), while Europe experienced moderate growth ("6% in constant currency"). Demand was particularly robust in high-potential categories, including Women's Apparel and Handbags ("up more than 20% to last year").
+
+**Labor & Wages:** Not explicitly detailed, though management characterized the workforce as "highly engaged teams" and "engaged and empowered."
+
+**Pricing Power & Inflation:** Robust pricing power was evident, with Average Unit Retail (AUR) increasing by "mid-teens" for both the quarter and full year. This was supported by "increased full-price selling and a reduction in discount rates." Input cost pressures were mixed; "lower cotton costs" provided relief that "more than offsetting increased U.S. tariffs as well as other non-cotton product costs."
+
+**Supply Chain & Inventory:** Inventory levels are stable and "well-positioned" at fiscal year-end.
+
+**Capital Spending (Capex):** Moderate investment in physical capacity and technology. The company continued to scale its "key city ecosystems" with new store openings in "Chengdu, Sydney, Bangkok,

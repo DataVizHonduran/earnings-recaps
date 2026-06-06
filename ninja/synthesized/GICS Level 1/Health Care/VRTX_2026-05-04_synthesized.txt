@@ -1,0 +1,15 @@
+Ticker: VRTX
+Source: VRTX_2026-05-04.txt
+Generated: 2026-06-06 15:26 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Robust growth across core and diversifying product lines. Total revenue increased 8% to $2.99 billion, supported by "continued strong CF patient demand" in the U.S. and "strong CF performance across multiple geographies" internationally. Activity is accelerating in non-CF areas, with CASGEVY and JOURNAVX contributing over 25% of quarterly growth; specifically, JOURNAVX saw "more than 350,000 prescriptions" filled in Q1 2026.
+
+**Labor & Wages:** Not mentioned.
+
+**Pricing Power & Inflation:** Moderate pricing power evidenced in the U.S. market via "higher realized net prices in CF versus the prior year." The company reports that external inflationary pressures, specifically regarding trade policy, will have an "immaterial cost impact from tariffs in 2026."
+
+**Supply Chain & Inventory:** Not mentioned.
+
+**Capital Spending (Capex):** Robust investment in commercial infrastructure and pipeline development. Recent spending increases were driven by "commercial investment to support the launch of JOURNAVX" and the "build-out of the renal franchise." Management expects "continued investment in multiple mid- and late-stage clinical development programs and commercialization capabilities" throughout the remainder of the year.

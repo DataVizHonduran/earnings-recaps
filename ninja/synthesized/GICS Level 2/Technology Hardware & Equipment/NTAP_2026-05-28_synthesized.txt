@@ -1,0 +1,15 @@
+Ticker: NTAP
+Source: NTAP_2026-05-28.txt
+Generated: 2026-06-06 15:24 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Robust. Net revenues grew 12% in the fourth quarter ("Fourth quarter net revenues of $1.95 billion, an increase of 12% year-over-year") and 5% for the full fiscal year. Growth is driven by strong demand for AI-related infrastructure, specifically in all-flash arrays, which saw an 18% year-over-year increase ("Record all-flash array net revenue of $1.2 billion... an increase of 18% year-over-year"), and public cloud services, which grew 11% ("Record Public Cloud net revenue of $182 million... an increase of 11% year-over-year"). Management attributes this momentum to enterprises scaling "AI driven transformations" and "AI ambitions."
+
+**Labor & Wages:** Not mentioned.
+
+**Pricing Power & Inflation:** Not mentioned.
+
+**Supply Chain & Inventory:** Not mentioned.
+
+**Capital Spending (Capex):** Modest investment in technology development, specifically regarding the rollout of "next-generation AI solutions" and the expansion of "strategic partnerships."
