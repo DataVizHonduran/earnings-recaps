@@ -1,0 +1,22 @@
+Ticker: CMI
+Source: CMI_2026-05-05.txt
+Generated: 2026-06-07 15:28 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Cummins Inc. (CMI)**
+
+**Demand & Activity**
+Demand is mixed but trending toward a moderate recovery. Power generation for data centers is seeing robust growth and "continues to outpace expectations." The North American on-highway truck market is showing modest improvement as it "began to improve from a cyclical low," though Q1 still saw "lower medium-duty and heavy-duty truck demand in the United States." Internationally, activity is robust, driven by "stronger demand in China," particularly in construction. Conversely, demand for zero-emissions technology is softening, specifically regarding "lower hydrogen adoption expectations."
+
+**Labor & Wages**
+The company reports a challenging labor market, specifically noting difficulties regarding "challenging markets for talent and ability to attract, develop and retain key personnel."
+
+**Pricing Power & Inflation**
+The report does not specify current pricing actions, though it identifies ongoing risks related to "raw material, transportation and labor price fluctuations" and "variability in material and commodity costs."
+
+**Supply Chain & Inventory**
+Specific data on lead times or inventory levels were not provided, though the company continues to monitor "supply shortages" and the need for "aligning our capacity and production with our demand."
+
+**Capital Spending (Capex)**
+Investment is being strategically reallocated. The company is "focusing investments and reducing losses within the Accelera segment" and intends to "invest in future growth" while pivoting away from low-pressure fuel cell business.
