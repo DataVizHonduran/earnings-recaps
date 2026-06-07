@@ -1,0 +1,15 @@
+Ticker: ADM
+Source: ADM_2026-05-05.txt
+Generated: 2026-06-07 15:26 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Activity is robust in Ag Services, driven by "higher export activity from North America," specifically "increased soybean and sorghum shipments to China and strong corn exports." Oilseed production saw modest growth, with "oilseed tonnage produced increasing by 2%," and "soybean meal sales remained strong." Demand in the Nutrition segment is moderate to robust, benefiting from "higher Flavors sales" and "continued improvements in Animal Nutrition." Conversely, demand for certain products is softening, noted by "lower global liquid sweeteners and starches volumes and margins."
+
+**Labor & Wages:** Not mentioned.
+
+**Pricing Power & Inflation:** The company is seeing moderate margin expansion in specific lines. Ethanol margins are strengthening, "supported by effective risk management and policy incentives." In Animal Nutrition, margins improved as a result of "focusing on higher-margin product lines" and "on-going cost optimization efforts." The company continues to monitor "energy costs" and "evolving global trade and tariff conditions" as external risks.
+
+**Supply Chain & Inventory:** No specific data on inventory levels or lead times was provided, although "supply chain dislocations" are listed as an external factor that will "continue to be monitored."
+
+**Capital Spending (Capex):** Investment levels remain stable, with capital expenditures "projected to be in the range of $1.3 to $1.5 billion."

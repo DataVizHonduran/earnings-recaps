@@ -1,0 +1,15 @@
+Ticker: IDXX
+Source: IDXX_2026-05-05.txt
+Generated: 2026-06-07 15:28 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Robust. The company reported double-digit organic revenue growth (11%), driven by "strong volume growth" and "benefits from IDEXX's innovation." Growth was particularly strong in international regions ("21% reported and 12% organic gains"), while U.S. demand showed a "modest easing of clinical visit pressures." Management expects "modestly improving clinical visit trends" for the remainder of the year.
+
+**Labor & Wages:** Modest upward pressure. Operating expense growth was partially attributed to "higher employee benefit and incentive costs."
+
+**Pricing Power & Inflation:** Robust. The company is successfully leveraging "net price realization" to expand gross margins, although these gains were partially "offset by inflationary impacts and investments."
+
+**Supply Chain & Inventory:** Not discussed.
+
+**Capital Spending (Capex):** Stable. Capital expenditures are projected at approximately "$180 million." Investment remains focused on "commercial capabilities," "Veterinary Software and Services," and "higher R&D spend related to advancing the Company's innovation agenda."
