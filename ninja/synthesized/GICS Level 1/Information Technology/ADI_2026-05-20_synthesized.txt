@@ -1,0 +1,22 @@
+Ticker: ADI
+Source: ADI_2026-05-20.txt
+Generated: 2026-06-08 17:25 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Analog Devices (ADI)**
+
+**1. Demand & Activity**
+Demand is robust and growing across all primary B2B segments. The company reported "year-over-year growth across all end markets," specifically highlighting strength in the Industrial and Communications sectors ("led by Industrial and Communications"). Management noted "record bookings across our B2B markets of Industrial, Automotive, and Communications" and expects "continued strong growth in the third quarter."
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+While specific pricing actions were not detailed, the company is experiencing significant margin expansion. Reported gross margin increased by 630 basis points year-over-year ("Gross margin percentage 67.3% [vs] 61.0%"), and adjusted gross margin rose to 73.0%, suggesting strong pricing power or favorable cost structures.
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory levels, though it attributes recent performance to a combination of "record demand and sharp operational discipline."
+
+**5. Capital Spending (Capex)**
+Capital expenditures remain modest relative to revenue. For the trailing twelve-month period ending May 2, 2026, capex was $541 million ("Capital expenditures $(541)"). Management indicated a commitment to ongoing investment to "extend our technology performance leadership."

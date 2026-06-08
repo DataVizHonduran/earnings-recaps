@@ -1,0 +1,31 @@
+Ticker: GILD
+Source: GILD_2026-05-07.txt
+Generated: 2026-06-08 17:26 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Gilead Sciences (GILD)**
+
+**1. Demand & Activity**
+Demand is **robust** across core HIV and oncology segments, though **softening** in COVID-19 and Cell Therapy.
+*   **HIV:** Strong growth driven by higher demand for Biktarvy and Descovy ("HIV product sales increased 10%... primarily driven by higher demand").
+*   **Oncology:** Robust demand for Trodelvy ("sales increased 37%... primarily driven by higher demand").
+*   **COVID-19:** Significant decline due to lower hospitalization rates ("Veklury sales decreased 52%... primarily driven by lower rates of COVID-19-related hospitalizations").
+*   **Cell Therapy:** Softening due to competitive pressures ("Cell Therapy product sales decreased 12%... reflecting ongoing competitive headwinds").
+
+**2. Labor & Wages**
+The report provides no specific data on hiring, turnover, or wage inflation.
+
+**3. Pricing Power & Inflation**
+The company demonstrates **moderate** pricing power, with several key product lines seeing price increases.
+*   **Pricing:** Realized prices are trending upward in HIV and Oncology ("primarily driven by higher demand and average realized price").
+*   **Margins:** Product gross margins expanded to 79.2% from 76.7%, though this was attributed to "product mix" and the "expiration of a royalty-related obligation" rather than input cost relief.
+
+**4. Supply Chain & Inventory**
+Inventory dynamics are currently **unstable**, acting as a slight drag on otherwise strong demand.
+*   **Inventory:** Multiple product lines reported "unfavorable inventory dynamics" that partially offset sales growth in HIV and Liver Disease.
+
+**5. Capital Spending (Capex)**
+Investment is focused on **robust** expansion of the pipeline through M&A and clinical infrastructure.
+*   **Acquisitions:** Significant capital deployment for the acquisitions of Arcellx, Ouro Medicines, and Tubulis ("adding potentially best-in-disease assets and platforms").
+*   **Facilities/Tech:** Increased spending on production capabilities ("higher investment in virology clinical manufacturing").

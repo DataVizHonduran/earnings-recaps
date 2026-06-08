@@ -1,0 +1,22 @@
+Ticker: ANET
+Source: ANET_2026-05-05.txt
+Generated: 2026-06-08 17:25 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Arista Networks (ANET)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by strong growth in AI-driven networking. Revenue grew 35.1% year-over-year ("Revenue of $2.709 billion... an increase of 35.1% from the first quarter of 2025"). Activity is specifically concentrated in next-generation AI data centers, with the company introducing high-density liquid-cooled optics and universal AI spines to support "massive scale" ("Designed for next-generation AI data centers").
+
+**2. Labor & Wages**
+The report provides no specific commentary on hiring difficulties, turnover, or wage inflation. However, there is a moderate increase in stock-based compensation expenses, rising from $93.0 million to $120.9 million year-over-year ("Stock-based compensation expense $120.9 $93.0").
+
+**3. Pricing Power & Inflation**
+Pricing power appears stable, though GAAP gross margins saw a slight contraction from 63.7% to 61.9% ("GAAP gross margin 61.9% 63.7%"). The company notes that the broader environment remains "dynamic" ("While the macro and supply chain environments remain dynamic").
+
+**4. Supply Chain & Inventory**
+The supply chain environment is described as dynamic, with persistent risks regarding component sourcing. Management explicitly flags risks related to "sole or limited sources of supply," which could lead to "supply shortages, extended lead times or supply changes" ("some of the key components in our products come from sole or limited sources of supply"). Inventory levels have increased modestly, rising from $2.25 billion to $2.38 billion ("Inventories $2,380.0 $2,247.1").
+
+**5. Capital Spending (Capex)**
+Investment in physical capacity is increasing. Purchases of property and equipment nearly doubled year-over-year, indicating a moderate expansion in facilities or technology infrastructure ("Purchases of property and equipment (54.5) (28.4)").
