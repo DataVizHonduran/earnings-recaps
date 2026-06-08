@@ -1,0 +1,25 @@
+Ticker: CRL
+Source: CRL_2026-05-07.txt
+Generated: 2026-06-08 17:26 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Charles River Laboratories (CRL)**
+
+**1. Demand & Activity: Softening**
+Overall organic revenue declined modestly (1.5%). Demand is bifurcated by segment and geography:
+*   **Research Models and Services (RMS):** Softening, with organic revenue decreasing 5.5% ("due primarily to lower revenue for small research models in North America, as well as for large research models"), though partially offset by growth in China ("higher revenue for small research models in China").
+*   **Discovery and Safety Assessment (DSA):** Softening, with organic revenue down 1.4% ("driven primarily by lower revenue for discovery services"). However, management notes a "DSA demand environment that is tracking to our expectations, resulting in solid bookings."
+*   **Manufacturing Solutions:** Modest growth, with organic revenue increasing 2.9% ("driven by higher revenue in the Microbial Solutions business").
+
+**2. Labor & Wages: Stable/Restructuring**
+There are no specific mentions of wage inflation or hiring difficulties. However, the company is actively engaged in "restructuring and efficiency initiatives" ("lower costs associated with the Company's restructuring and efficiency initiatives") and "site consolidation" ("impact of prior site consolidation activities").
+
+**3. Pricing Power & Inflation: Mixed/Pressure**
+The company did not explicitly mention price hikes, but reported margin pressure in key segments. Non-GAAP operating margins in DSA decreased ("primarily driven by higher study-related direct costs associated with large-model sourcing and study starts"), suggesting persistent input cost pressures for biological assets.
+
+**4. Supply Chain & Inventory: Stable**
+Lead times were not discussed. The company noted the resolution of a previous "non-human primate (NHP) supply matter," indicating that previously restricted inventory was "subsequently utilized."
+
+**5. Capital Spending (Capex): Contracting/Refocusing**
+Capex focus has shifted toward divestiture and portfolio optimization rather than capacity expansion. The company completed the sale of its CDMO and Cell Solutions businesses ("completed the previously announced divestiture") and is selling "certain European Discovery Services sites" to "refine and refocus its comprehensive portfolio on core competencies."

@@ -1,0 +1,22 @@
+Ticker: TOL
+Source: TOL_2026-05-19.txt
+Generated: 2026-06-08 17:26 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Toll Brothers (TOL)**
+
+**1. Demand & Activity**
+Demand for luxury housing appears moderate to robust, characterized by a divergence between current orders and overall backlog. While net signed contracts grew ("orders were up 7% in units and 8% in dollars year-over-year"), total backlog value and unit counts have softened compared to the prior year ("Backlog value was $6.32 billion... compared to $6.84 billion at FY 2025's second quarter end"). The company continues to expand its footprint, noting a modest increase in active sites ("increased community count by 9% year-over-year").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+Pricing power remains stable to strong in the luxury segment, with average delivered prices exceeding $1 million ("delivered 2,491 homes at an average price of $1,009,000"). However, margins have experienced a slight contraction, with adjusted home sales gross margins dipping to 26.2% from 27.5% year-over-year. The company is navigating a "challenging market" but maintains the ability to raise full-year guidance.
+
+**4. Supply Chain & Inventory**
+Inventory levels appear stable, though the company has recognized increased impairments. Pre-tax inventory impairments rose to $32.5 million this quarter compared to $9.8 million in the prior year. The company maintains a steady pipeline of land, controlling "sufficient land for continued 8% to 10% growth in 2027 and beyond."
+
+**5. Capital Spending (Capex)**
+Investment in capacity is ongoing and moderate. The company continues to invest in land acquisition to fuel growth, spending "approximately $422.0 million on land to purchase approximately 1,943 lots" during the second quarter.
