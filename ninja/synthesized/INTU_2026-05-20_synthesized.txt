@@ -1,0 +1,22 @@
+Ticker: INTU
+Source: INTU_2026-05-20.txt
+Generated: 2026-06-09 16:34 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Intuit Inc. (May 2026)**
+
+**1. Demand & Activity**
+Demand appears robust across core segments, though the company is strategically pivoting its focus. Management reports "significant momentum" across its primary growth initiatives and seeks to "accelerate our authority and right to win in the mid-market" ("significant momentum across our 3 Big Bets"; "becoming the definitive partner for mid-market businesses"). However, activity in certain product lines is softening or being deprioritized, specifically noting "reducing investments in certain areas, including Mailchimp" ("reducing investments in certain areas, including Mailchimp").
+
+**2. Labor & Wages**
+The labor outlook is characterized by a moderate to significant contraction in headcount to improve operational efficiency. The company is executing a substantial workforce reduction, "reducing our full-time workforce by approximately 17%" ("reducing our full-time workforce by approximately 17%"). This is driven by a desire to "reduce complexity and simplifying our structure" and "reducing layers of management" ("reducing layers of management"; "reducing the need for coordination heavy roles").
+
+**3. Pricing Power & Inflation**
+The provided text contains no specific mentions of price increases, input cost pressures, or inflationary trends.
+
+**4. Supply Chain & Inventory**
+Not applicable. The company is a software-as-a-service (SaaS) provider; no mentions of physical supply chain or inventory levels were provided.
+
+**5. Capital Spending (Capex)**
+Investment is shifting toward technology and AI-native infrastructure rather than physical capacity. The company is prioritizing the "Scale [of] our AI-native platform" ("Scale our AI-native platform to deliver easy, done-for-you experiences"). Simultaneously, the company is reducing its physical footprint by "winding down our Reno and Woodland Hills offices and reducing our presence in other locations" ("winding down our Reno and Woodland Hills offices").

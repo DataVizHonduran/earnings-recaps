@@ -1,0 +1,28 @@
+Ticker: NWSA
+Source: NWSA_2026-05-07.txt
+Generated: 2026-06-09 16:34 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: News Corp (NWSA)**
+
+**1. Demand & Activity**
+Demand is **robust** across core growth engines, with total revenues increasing 9% ("driven by growth at the Digital Real Estate Services, Dow Jones and Book Publishing segments"). 
+*   **Digital Real Estate:** Strong activity in Australia, with residential buy listing volumes up 1% overall, specifically rising in Sydney (+4%) and Melbourne (+7%) ("listings in Sydney up 4% and Melbourne up 7%"). In the US, lead volume rose 6% ("Lead volume rose 6% compared to the prior year period").
+*   **Information Services:** Robust growth in professional data, specifically Risk Compliance (+19%) and Dow Jones Energy (+12%) ("19% growth at Risk Compliance, 12% growth at Dow Jones Energy").
+*   **Publishing:** Modest growth in book sales (+8%), bolstered by specific high-performing titles ("led by strong sales of Rachel Reid’s Game Changers").
+
+**2. Labor & Wages**
+Labor costs are mixed. The company saw "lower employee costs in the Other segment," but these were offset by "higher employee costs" within the Dow Jones segment ("partially offset by higher employee costs"). No specific mentions of hiring difficulty or turnover.
+
+**3. Pricing Power & Inflation**
+The company demonstrates **moderate to strong** pricing power across multiple segments:
+*   **Subscriptions:** Revenue growth was supported by "conversion of customers from introductory promotions to higher pricing" and "increased cover and subscription pricing."
+*   **Real Estate:** REA Group revenues were driven in part by "higher Australian residential revenues due to price increases."
+*   **Product Mix:** Move is successfully shifting toward "more premium offerings with higher revenues per lead."
+
+**4. Supply Chain & Inventory**
+Not applicable. No mentions of lead times or physical inventory levels.
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for facilities are not provided, the company is pivoting toward AI-driven revenue streams, positioning itself as an "AI inputs company" ("We are an AI inputs company and that fact was reflected in our recent deal with Meta"). Management is pursuing a "pathway to $1 billion in annual Segment EBITDA" for Dow Jones via growth in professional information services.
