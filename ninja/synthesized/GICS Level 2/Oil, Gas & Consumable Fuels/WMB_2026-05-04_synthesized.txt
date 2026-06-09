@@ -1,0 +1,22 @@
+Ticker: WMB
+Source: WMB_2026-05-04.txt
+Generated: 2026-06-09 16:34 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Williams Companies (WMB)**
+
+**1. Demand & Activity**
+Demand for natural gas is rising, characterized by robust growth in power innovation and data center infrastructure. Activity is particularly strong in the Northeast and West, with specific expansions targeting data centers in Ohio ("commissioned the Aristotle pipeline to support data centers in Ohio") and new capacity for Northeast data centers ("providing up to 164 MMcf d of capacity to Northeast data center"). Overall demand is described as "rising" ("Natural gas demand is rising").
+
+**2. Labor & Wages**
+No specific mentions of hiring difficulties, turnover, or wage adjustments were provided in the text.
+
+**3. Pricing Power & Inflation**
+The company is demonstrating moderate pricing power through higher net rates and service revenues ("benefiting from $203 million of higher service revenues driven by Transco’s higher net rates"). While the company noted an "increase in operating expenses," there were no specific mentions of commodity or freight inflation.
+
+**4. Supply Chain & Inventory**
+The company is actively managing long-lead equipment for its power innovation projects, suggesting a strategic approach to potential supply chain bottlenecks ("$439 million of cash purchases of certain reimbursable long-lead Power Innovation equipment").
+
+**5. Capital Spending (Capex)**
+Capex plans are robust and expanding. The company has increased its 2026 growth capex guidance to a range of $7 billion to $7.6 billion ("now expects 2026 growth capex between $7 billion and $7.6 billion"), with maintenance capex estimated between $850 million and $950 million. Investment is focused on transmission expansions and "power innovation projects" ("adding to our portfolio of power innovation projects").
