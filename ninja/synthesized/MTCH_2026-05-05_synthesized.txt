@@ -1,0 +1,22 @@
+Ticker: MTCH
+Source: MTCH_2026-05-05.txt
+Generated: 2026-06-10 17:25 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Match Group (MTCH)**
+
+**1. Demand & Activity: Softening but Stabilizing**
+Overall demand remains under pressure, though leading indicators suggest a modest recovery. Total payers declined 5% year-over-year ("decline in Payers to 13.5 million"). However, Tinder is seeing a slight turnaround, with new user registrations returning to year-over-year growth in March ("registrations returning to year-over-year growth in March"). Hinge continues to see robust demand, reporting "28% Y Y Direct Revenue growth."
+
+**2. Labor & Wages: Moderate Reductions**
+The company is actively pursuing organizational simplification and headcount efficiency. Management is reallocating resources and folding business units to drive cost savings ("folding MG Asia into its E E business unit, which is expected to result in roughly $15 million in annualized cost savings"). Additionally, the wind-down of the Archer app is expected to yield "approximately $10 million in annualized cost savings, including stock-based compensation."
+
+**3. Pricing Power & Inflation: Robust**
+The company demonstrates strong pricing power, which is currently the primary driver of revenue growth. Revenue per paying user (RPP) saw a robust increase of 10% to $20.90 ("driven by a 10% Y Y increase in RPP"). There were no mentions of input cost pressures or inflationary headwinds impacting the cost of revenue.
+
+**4. Supply Chain & Inventory: Not Applicable**
+As a digital services provider, the company has no physical supply chain or inventory metrics.
+
+**5. Capital Spending (Capex): Targeted Investment**
+Capex is focused on technology and strategic acquisitions rather than physical capacity. The company made a significant investment in the non-heterosexual male segment via a "$100 million investment in Sniffies." General product development spending remains stable, with a slight decrease in expense ("Product development expense... (3)% [change]").

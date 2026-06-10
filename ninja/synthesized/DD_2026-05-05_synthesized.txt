@@ -1,0 +1,22 @@
+Ticker: DD
+Source: DD_2026-05-05.txt
+Generated: 2026-06-10 17:25 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: DuPont (DD)**
+
+**Demand & Activity**
+Demand is showing modest growth overall, though performance is fragmented by sector. Healthcare Technologies experienced robust growth, specifically in medical packaging and biopharma ("sales up high-single digits on an organic basis"). Conversely, demand in construction remains soft ("Building Technologies sales down low-single digits... from ongoing weakness in construction markets"). Industrial activity is mixed, with strength in aerospace and automotive offset by declines in printing and packaging. Water Technologies saw modest organic growth, though this was tempered by "logistics disruptions in the Middle East."
+
+**Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage pressures.
+
+**Pricing Power & Inflation**
+The company is exercising modest pricing power to counteract persistent inflationary pressures. Management indicated that full-year organic growth includes "about 1% of pricing due to actions taken to fully offset higher input costs related to the Middle East conflict." Additionally, the company cited "productivity" and "favorable mix" as drivers for margin expansion.
+
+**Supply Chain & Inventory**
+Supply chain conditions are experiencing localized instability, specifically regarding logistics in the Middle East, which "more than offset" strength in the industrial water and microelectronics markets. There were no specific mentions of inventory levels (lean vs. bloated).
+
+**Capital Spending (Capex)**
+Capital investment remains stable, with first-quarter capital expenditures totaling $102 million. The company continues to focus on "allocating capital thoughtfully" and driving "operational excellence."
