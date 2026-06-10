@@ -1,0 +1,22 @@
+Ticker: CPB
+Source: CPB_2026-06-08.txt
+Generated: 2026-06-10 17:25 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Campbell’s Co (CPB)**
+
+**1. Demand & Activity**
+Demand is softening. Organic net sales decreased 4%, primarily driven by lower volume mix ("Organic net sales decreased 4% primarily driven by lower volume mix"). This weakness is broad-based: U.S. soup sales decreased 8% ("Sales of U.S. soup decreased 8% driven primarily by condensed and ready-to-serve soups"), and the Snacks segment saw declines in the salty portfolio, crackers, and fresh bakery ("Organic net sales declines were driven primarily by our salty portfolio, crackers and fresh bakery").
+
+**2. Labor & Wages**
+Not explicitly discussed. The report mentions "lower incentive compensation" as a contributor to decreased administrative expenses ("Adjusted administrative expenses decreased 1%... mainly driven by the benefit from cost savings initiatives and lower incentive compensation").
+
+**3. Pricing Power & Inflation**
+The company maintains modest pricing power, though it is insufficient to offset volume declines and cost pressures. There was "positive net price realization" (1% in Meals/Beverages; 2% in Snacks). However, margins are under pressure from persistent inflation and new trade costs ("driven primarily by cost inflation and other supply chain costs inclusive of the impact from tariffs"). Management is utilizing a cost-savings program to "offset tariff and broader inflationary headwinds."
+
+**4. Supply Chain & Inventory**
+Supply chain conditions are strained by external cost shocks. The company reports "other supply chain costs" and the "gross impact of tariffs" as primary drivers for decreased gross profit margins. These are being partially mitigated by "supply chain productivity improvements" ("partially offset by supply chain productivity improvements and cost savings").
+
+**5. Capital Spending (Capex)**
+Capital investment remains stable. Year-to-date capital expenditures were $297 million, nearly identical to the $296 million spent in the prior year period ("Capital expenditures year-to-date were $297 million compared to $296 million").
