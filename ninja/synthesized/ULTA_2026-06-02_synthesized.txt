@@ -1,0 +1,22 @@
+Ticker: ULTA
+Source: ULTA_2026-06-02.txt
+Generated: 2026-06-11 17:39 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Ulta Beauty (Q1 Fiscal 2026)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by broad-based growth across all channels and major categories ("strong start driven by broad-based growth across all channels and major categories"). Comparable sales grew moderately by 5.3%, supported by both a modest increase in transaction volume (+1.6%) and a more pronounced increase in average ticket size (+3.7%) ("Comparable sales increased 5.3%, driven by a 3.7% increase in average ticket and a 1.6% increase in transactions").
+
+**2. Labor & Wages**
+The report does not provide specific data on wage inflation or hiring difficulties, though it attributes results to the "focused execution of our talented associates."
+
+**3. Pricing Power & Inflation**
+The company is experiencing modest margin expansion. Gross profit as a percentage of net sales increased to 40.1% from 39.1%, attributed to higher merchandise margins and a reduction in inventory shrink ("primarily due to lower inventory shrink and higher merchandise margin"). There is no specific mention of input cost relief or commodity price pressures.
+
+**4. Supply Chain & Inventory**
+Inventory levels have increased moderately, rising 12.5% to $2.4 billion. This buildup is described as strategic rather than a sign of bloating, intended to support new store openings, the Space NK acquisition, and new brand launches ("primarily due to inventory to support new brand launches, the acquisition of Space NK, strategic investments in key categories, and 70 net new Ulta Beauty stores").
+
+**5. Capital Spending (Capex)**
+Capex remains stable and focused on physical footprint expansion. The company invested $58.3 million in the first quarter, primarily for new and existing stores ("primarily driven by investments in new and existing stores"). The full-year guidance for capital expenditures remains unchanged at $400 million to $450 million ("Capital expenditures $400 million to $450 million no change").

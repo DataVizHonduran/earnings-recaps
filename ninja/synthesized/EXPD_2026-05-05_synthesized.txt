@@ -1,0 +1,15 @@
+Ticker: EXPD
+Source: EXPD_2026-05-05.txt
+Generated: 2026-06-11 17:38 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+The provided document is an incomplete earnings press release containing only the company's address and contact header. It does not contain any financial data, management commentary, or operational details.
+
+As a result, there are no economic signals available to analyze for the requested categories:
+
+1. **Demand & Activity:** No data provided.
+2. **Labor & Wages:** No data provided.
+3. **Pricing Power & Inflation:** No data provided.
+4. **Supply Chain & Inventory:** No data provided.
+5. **Capital Spending (Capex):** No data provided.

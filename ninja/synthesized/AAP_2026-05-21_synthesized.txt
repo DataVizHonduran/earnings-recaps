@@ -1,0 +1,22 @@
+Ticker: AAP
+Source: AAP_2026-05-21.txt
+Generated: 2026-06-11 17:38 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Advance Auto Parts (AAP)**
+
+**1. Demand & Activity**
+Demand is showing moderate growth, with comparable store sales increasing 3.5% ("comparable sales grew by 3.5%"). Activity is bifurcated by customer segment, with robust growth in the professional channel and modest growth in the retail channel ("mid-single-digit growth in Pro and low-single-digit growth in DIY"). Management attributes this to a sequential increase in volume ("driven by a sequential improvement in transactions").
+
+**2. Labor & Wages**
+No specific mentions of hiring difficulties, turnover, or wage adjustments were provided in the text.
+
+**3. Pricing Power & Inflation**
+The company is experiencing moderate expansion in pricing power and margins, attributed to internal strategic shifts rather than external inflationary pressures ("increase in gross profit... primarily driven by expansion in product margin supported by our merchandising initiatives").
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific data regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+No new plans for capacity or facility investments were detailed; however, the company is coming off a period of contraction related to a "store optimization program associated with our 2024 Restructuring Plan."
