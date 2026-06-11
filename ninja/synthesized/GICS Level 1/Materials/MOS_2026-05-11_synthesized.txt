@@ -1,0 +1,22 @@
+Ticker: MOS
+Source: MOS_2026-05-11.txt
+Generated: 2026-06-11 17:38 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Mosaic Co. (Q1 2026)**
+
+**1. Demand & Activity**
+Demand is mixed. Phosphate experienced robust international demand, leading to a reduction in finished product inventories ("Strong international demand drove sales"). However, overall business conditions were described as "volatile," leading the company to curtail "uneconomic production." Potash sales volumes remained stable, with Q1 volumes of 2.2 million tonnes compared to 2.1 million in the prior year.
+
+**2. Labor & Wages**
+The company is focused on headcount reduction and organizational streamlining. Mosaic has implemented a "cost saving initiative aimed at streamlining support functions" expected to yield $50 million in annualized savings, alongside a separate $100 million "value capture effort across operations and SG&A." Additionally, the company recorded charges for "severance and contract terminations" related to the idling of Brazilian assets.
+
+**3. Pricing Power & Inflation**
+Pricing power is moderate to strong in some segments, but offset by significant input inflation. Potash prices increased year-over-year ($265 vs $223 per tonne). However, the Phosphate segment is facing persistent pressure from "elevated raw material costs," specifically sulfur, which "recently hit record prices because of limited availability." These rising costs have led the company to withdraw its full-year phosphate production guidance.
+
+**4. Supply Chain & Inventory**
+Inventory levels for phosphate finished products are lean, having declined by approximately 300,000 tonnes in Q1. Supply chain constraints are evident in raw materials; "raw material constraints" are forcing partial production curtailments in the U.S. and Brazil starting in May.
+
+**5. Capital Spending (Capex)**
+Capex is softening. 2026 guidance was revised downward to $1.25 billion, reflecting a "deferral of spending on less-time sensitive projects to future periods" and an "optimized project portfolio."

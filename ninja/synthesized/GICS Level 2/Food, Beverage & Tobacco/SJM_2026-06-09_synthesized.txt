@@ -1,0 +1,22 @@
+Ticker: SJM
+Source: SJM_2026-06-09.txt
+Generated: 2026-06-11 17:38 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: J.M. Smucker Co. (SJM)**
+
+**1. Demand & Activity: Softening**
+Overall demand is softening, characterized by a trend of declining volumes offset by pricing. While the company reports "meaningful momentum" in some areas, comparable net sales were weighed down by a "4 percentage point decrease from volume mix" ("primarily driven by decreases for coffee and sweet baked goods"). A modest bright spot exists in the frozen category, specifically an "increase for Uncrustables sandwiches." The outlook for FY2027 is cautious, with net sales expected to decrease 3.0% to 4.0%, reflecting a projected "decline in volume mix."
+
+**2. Labor & Wages: Not Addressed**
+The provided text contains no specific mentions of hiring, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation: Moderate to Softening**
+The company has exercised moderate pricing power recently, with Q4 net sales reflecting a "10 percentage point increase from net price realization" ("primarily driven by higher net pricing for coffee and sweet baked goods"). However, this leverage appears to be peaking; the FY2027 outlook explicitly forecasts a decrease in net sales primarily reflecting "lower net price realization." Regarding inputs, the company continues to face "higher costs, inclusive of commodity costs and tariffs."
+
+**4. Supply Chain & Inventory: Stable**
+There are no specific mentions of lead times or inventory bloating. The company noted a reduction in "pre-production expenses primarily related to the new Uncrustables sandwiches manufacturing facility," suggesting a transition from setup to operational status.
+
+**5. Capital Spending (Capex): Stable**
+Capital investment remains disciplined. The company has projected capital expenditures of "$325.0 million" for fiscal year 2027, maintaining a "disciplined approach to capital deployment."
