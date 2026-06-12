@@ -1,0 +1,22 @@
+Ticker: LULU
+Source: LULU_2026-06-04.txt
+Generated: 2026-06-12 16:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Lululemon (LULU)**
+
+**1. Demand & Activity**
+Demand is bifurcated and softening in key markets. North American activity is declining, with Americas comparable sales decreasing 6% on a constant dollar basis ("Americas comparable sales decreased 5%, or 6% on a constant dollar basis"). Conversely, international demand remains robust, with international net revenue increasing 16% on a constant dollar basis ("International net revenue increased 22%, or 16% on a constant dollar basis"). Management noted "positive signals" regarding a sequential improvement in full-price sales in North America, but overall outlooks have been adjusted downward due to "headwinds" ("navigating headwinds that have led us to adjust our outlook for the full year").
+
+**2. Labor & Wages**
+No specific data provided regarding wage increases, turnover, or headcount reductions. The company lists the general ability to "attract, manage, and retain highly qualified individuals" as a standard risk factor.
+
+**3. Pricing Power & Inflation**
+Pricing power appears to be under pressure, evidenced by a moderate contraction in margins. Gross margin decreased 410 basis points to 54.2% ("gross margin decreased 410 basis points to 54.2%"). Management cited "inflationary pressures" and "increasing costs and decreasing selling prices" as ongoing risk factors.
+
+**4. Supply Chain & Inventory**
+Inventory levels are stable to lean on a unit basis. While the total value of inventories increased slightly by 2% to $1.7 billion, the actual volume of product decreased ("On a unit basis, inventories decreased 4%").
+
+**5. Capital Spending (Capex)**
+Investment in physical capacity remains modest but steady. The company continues to expand its global footprint, having opened five net new company-operated stores during the quarter ("opened five net new company-operated stores during the first quarter"). Additionally, the company is investing in "enhancements across our store fleet and digital channels."
