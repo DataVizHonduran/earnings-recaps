@@ -1,0 +1,22 @@
+Ticker: HII
+Source: HII_2026-05-05.txt
+Generated: 2026-06-12 16:47 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: HII (Q1 2026)**
+
+**1. Demand & Activity:**
+Demand is robust, characterized by strong growth across primary segments. Total revenues increased 13.4% year-over-year ("revenues of $3.1 billion were up 13.4% from the first quarter of 2025"). Growth was most pronounced in shipbuilding, specifically aircraft carriers, submarines, and surface combatants ("primarily driven by higher volumes in aircraft carriers, submarines and naval nuclear support services"). The company reports a substantial backlog of $54.0 billion, indicating sustained long-term activity.
+
+**2. Labor & Wages:**
+Labor relations have stabilized following the ratification of long-term agreements at Ingalls Shipbuilding ("New collective bargaining agreements ratified at Ingalls Shipbuilding that extend through 2031"). No specific mentions of hiring difficulties or headcount reductions were noted, though the company maintains a large workforce of 44,000.
+
+**3. Pricing Power & Inflation:**
+The report does not explicitly mention price hikes or commodity inflation. However, there is evidence of modest margin compression despite higher volumes, suggesting that cost pressures or contract adjustments may be offsetting revenue gains ("Operating margin was 5.0%, compared to 5.9%... in the first quarter of 2025").
+
+**4. Supply Chain & Inventory:**
+Supply chain conditions appear to be improving, with a focus on industrial throughput. The company reports meaningful gains in production efficiency ("Shipbuilding throughput has continued to improve with meaningful year over year growth"). No specific mentions of lead times or inventory bloat were provided.
+
+**5. Capital Spending (Capex):**
+Investment in capacity remains stable and targeted. The company is allocating a moderate portion of sales to capital expenditures ("Capital Expenditures 4% - 5% of Sales"). Recent activity includes the expansion of international facilities to increase operational capacity ("Completed the expansion of our U.K. unmanned operations facility... increases capacity and support for the U.K. Royal Navy").
