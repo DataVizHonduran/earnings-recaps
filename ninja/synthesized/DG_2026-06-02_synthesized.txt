@@ -1,0 +1,15 @@
+Ticker: DG
+Source: DG_2026-06-02.txt
+Generated: 2026-06-13 15:44 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Modest growth in consumer activity. Same-store sales increased 2.0%, supported by a slight uptick in customer traffic ("increases of 1.4% in customer traffic") and a marginal rise in average transaction amounts ("0.5% in average transaction amount"). Demand was balanced across all major product lines, including "consumables, seasonal, apparel, and home products categories."
+
+**Labor & Wages:** Not explicitly detailed; however, the company noted a reduction in "incentive compensation" as a partial offset to rising operating expenses.
+
+**Pricing Power & Inflation:** Modest pricing power is evident as gross profit margins expanded, driven primarily by "higher inventory markups." This was partially offset by moderate inflationary pressures, specifically "increased markdowns and transportation costs" and "higher fuel costs."
+
+**Supply Chain & Inventory:** Inventory levels remain stable and lean. Total merchandise inventories were flat year-over-year at $6.6 billion, representing a "decrease of 1.6% on an average per-store basis."
+
+**Capital Spending (Capex):** Robust investment in capacity and facility modernization. The company projects fiscal year capital expenditures in the range of "$1.4 billion to $1.5 billion." This includes aggressive expansion and upgrading of the physical footprint, with plans for "opening approximately 450 new stores in the United States" and remodeling over 4,000 stores through "Project Renovate" and "Project Elevate."
