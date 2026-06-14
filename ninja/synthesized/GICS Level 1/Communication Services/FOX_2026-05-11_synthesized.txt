@@ -1,0 +1,22 @@
+Ticker: FOX
+Source: FOX_2026-05-11.txt
+Generated: 2026-06-14 15:50 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Fox Corp (Q3 FY2026)**
+
+**1. Demand & Activity**
+Demand is mixed across segments. Core advertising trends are described as "robust" ("robust core advertising trends"), with specific growth in digital services ("continued digital growth led by the Tubi AVOD service"). However, traditional distribution is softening due to "net subscriber declines" affecting both Cable Network Programming and Television segments. Content demand remains moderate to strong, evidenced by a 12% increase in content and other revenue ("primarily due to higher sports sublicensing revenue").
+
+**2. Labor & Wages**
+Not addressed. The transcript contains no specific mentions of hiring, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company demonstrates modest pricing power in specific verticals. Distribution revenue in the Cable segment grew 5%, as "contractual price increases were partially offset by the impact of net subscriber declines." Additionally, advertising revenue in the Cable segment saw a slight lift "primarily due to higher news pricing." There are no mentions of broader inflationary pressures on input costs.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a media and broadcasting entity, there are no reports of physical supply chain disruptions or inventory levels.
+
+**5. Capital Spending (Capex)**
+The company is investing in new technology and platform launches, specifically noting "costs associated with the launch of Fox One." Future activity is expected to center on major live events, including the "FIFA Men's World Cup hosted here in North America across June and July."

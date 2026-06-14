@@ -1,0 +1,22 @@
+Ticker: COR
+Source: COR_2026-05-06.txt
+Generated: 2026-06-14 15:50 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Cencora, Inc. (COR)**
+
+**1. Demand & Activity**
+Demand is growing moderately overall, with a notable geographic variance. U.S. activity saw modest growth, driven by unit volume increases in specialty products and GLP-1 medications ("overall market growth largely driven by unit volume growth... including... products labeled for diabetes and or weight loss in the GLP-1 class"). International demand is robust, particularly in Europe ("International Healthcare Solutions revenue [increased] 13.0 percent... primarily due to growth in our European distribution business").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+Pricing power appears mixed. While the company is seeing volume growth, it is facing downward pressure on certain pharmaceutical prices ("revenue growth was offset in part by a decline in manufacturer prices related to certain brand pharmaceutical products"). Additionally, high-demand GLP-1 products are exerting a slight drag on margins ("offset in part by higher sales of GLP-1s, which have lower gross profit margins").
+
+**4. Supply Chain & Inventory**
+The report does not explicitly detail lead times or inventory levels, though it notes a "LIFO credit in the current year quarter compared to LIFO expense in the prior year quarter," suggesting a shift in inventory valuation/costing.
+
+**5. Capital Spending (Capex)**
+The company is focused on inorganic growth and capacity expansion through acquisition. Significant investment was directed toward the February 2026 acquisition of OneOncology, which was financed via "issuance of senior notes and variable-rate term loans" ("increase in interest expense as a result of our issuance of senior notes and variable-rate term loans to finance the February 2026 acquisition of OneOncology").
