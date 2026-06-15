@@ -1,0 +1,22 @@
+Ticker: KHC
+Source: KHC_2026-05-06.txt
+Generated: 2026-06-15 18:43 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Kraft Heinz (KHC)**
+
+**Demand & Activity**
+Demand is softening overall, with organic net sales decreasing 0.4% ("Organic Net Sales decreased 0.4 percent"). Activity is bifurcated by geography: North American demand is declining ("North America... (1.1)% [volume mix]"), while Emerging Markets show robust growth ("Emerging Markets... 3.8% [organic growth]"). Management notes "persistently low consumer sentiment" and specific volume declines in coffee, cold cuts, and Indonesia.
+
+**Labor & Wages**
+The report does not explicitly detail hiring or turnover; however, it notes a "300 basis point headwind" related to "lapping lower variable compensation in 2025," suggesting a moderate increase in labor-related payout costs.
+
+**Pricing Power & Inflation**
+The company is exercising modest pricing power to offset persistent cost pressures, with prices increasing 0.8 percentage points ("Favorable price was primarily due to pricing taken in certain categories to mitigate higher input costs"). Despite this, the operating environment remains "volatile," with "increasing inflationary pressures" specifically impacting "manufacturing and logistics costs that outpaced our efficiency initiatives."
+
+**Supply Chain & Inventory**
+Inventory levels appear lean following recent optimization. The company reported a significant increase in cash from operating activities, driven in part by "inventory optimization efforts and improved supplier payment terms."
+
+**Capital Spending (Capex)**
+Investment is focused on growth and brand recovery rather than raw capacity. The company is "incrementally investing the previously announced $600 million in the business," targeting "marketing, sales, and R&D, as well as product superiority and price."

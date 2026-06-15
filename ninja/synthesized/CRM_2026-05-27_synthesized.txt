@@ -1,0 +1,22 @@
+Ticker: CRM
+Source: CRM_2026-05-27.txt
+Generated: 2026-06-15 18:43 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Salesforce (CRM)**
+
+**1. Demand & Activity**
+Demand is **robust**, characterized by record revenue and strong momentum in AI-driven services. Growth is particularly aggressive in "Agentic AI" and data products, with Agentforce and Data 360 ARR increasing "over 200% Y Y." Demand within the public sector is also **moderate to robust**, with Public Sector Industry Cloud ARR up 23% Y Y. Management expects "organic revenue acceleration in the second half of FY27."
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage increases. However, the company continues to execute "restructuring initiatives" as evidenced by the inclusion of "Restructuring and acquisition-related costs" in the GAAP operating margin reconciliation.
+
+**3. Pricing Power & Inflation**
+Pricing power appears **stable to strong**, specifically within premium AI offerings. Bookings for "premium SKUs anchored in Sales and Service including the value from Agentic capabilities, grew nearly 60% Y Y." There were no mentions of input cost pressures or commodity inflation.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a software-as-a-service (SaaS) provider, the company does not report physical inventory or traditional supply chain lead times.
+
+**5. Capital Spending (Capex)**
+Capital investment remains **stable** and disciplined. The company provides guidance for full-year FY27 capital expenditures to be "Approximately 1.5% of revenue." Investment is primarily directed toward "significant research and development investments" to support platform updates and AI innovation.

@@ -1,0 +1,22 @@
+Ticker: PPL
+Source: PPL_2026-05-08.txt
+Generated: 2026-06-15 18:43 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: PPL Corp (Q1 2026)**
+
+**Demand & Activity**
+Demand is mixed across territories. Activity is robust in Kentucky and Pennsylvania, driven by industrial expansion and a "growing data center pipeline" ("continued robust expansion in Kentucky and investment needs in Pennsylvania to support a growing data center pipeline"). However, retail electricity demand in Kentucky showed signs of softening ("partially offset by lower sales volumes").
+
+**Labor & Wages**
+The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**Pricing Power & Inflation**
+The company is successfully exercising pricing power through regulatory approvals. PPL is implementing new rates in Pennsylvania effective July 1, 2026 ("new rates effective July 1, 2026") and has already seen higher income in Kentucky due to "higher retail rates effective January 1, 2026." Despite this, the company faces moderate persistent pressure from "higher operating costs" and "higher interest expense" across multiple segments.
+
+**Supply Chain & Inventory**
+The company is actively securing long-lead equipment to support growth, specifically "executing multiple reservation agreements for gas turbines" to ensure capacity for future generation projects. No specific mentions of general inventory levels or freight delays were noted.
+
+**Capital Spending (Capex)**
+Capex is robust and focused on modernization and capacity expansion. PPL is on pace to complete "$5.1 billion in 2026 infrastructure investments" to modernize networks. Specific growth investments include over 1,900 MW of natural gas capacity, 240 MW of solar, and 120 MW of battery storage in Kentucky ("new generation projects, which include over 1,900 megawatts (MW) of natural gas combined-cycle capacity... 240 MW of solar and 120 MW of battery storage"). Additionally, Rhode Island Energy is executing "over $330 million of critical investment needs."
