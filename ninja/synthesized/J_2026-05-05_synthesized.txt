@@ -1,0 +1,22 @@
+Ticker: J
+Source: J_2026-05-05.txt
+Generated: 2026-06-16 18:29 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Jacobs Solutions Inc. (J)**
+
+**1. Demand & Activity**
+Demand is robust and accelerating, characterized by "strong business momentum" ("Raising FY 2026 Guidance for the Second Consecutive Quarter"). Growth is broad-based across Infrastructure Advanced Facilities (IAF), with particular strength in Data Centers, Semiconductors, Water, Energy Power, and Transportation ("revenue growth was broad-based, led by the Data Center, Semiconductor, Water, Energy Power and Transportation sectors"). Activity is further bolstered by the "build-out of AI and related infrastructure" and a record backlog of $27.0 billion ("Up 22% y y").
+
+**2. Labor & Wages**
+The provided text contains no specific updates on current hiring, turnover, or wage trends. However, the company lists "labor shortages" as a general risk factor in its forward-looking statements.
+
+**3. Pricing Power & Inflation**
+The company reports "solid margin expansion" ("a function of accelerating top line growth... as well as solid margin expansion"), suggesting an ability to maintain or increase pricing relative to costs. While general "inflation" is noted as a systemic risk, the company is actively realizing "cost synergies" of at least $20 million per year following the PA Consulting acquisition ("already starting to deliver on cost synergies").
+
+**4. Supply Chain & Inventory**
+Not addressed. The report does not provide specific data on lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for facilities are not disclosed, the company is investing in strategic growth through acquisitions and technology integration, specifically noting the need to "invest in the tools needed to implement our strategy" as part of its ongoing corporate execution.
