@@ -1,0 +1,22 @@
+Ticker: DLTR
+Source: DLTR_2026-05-28.txt
+Generated: 2026-06-18 17:18 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Dollar Tree, Inc. (DLTR)**
+
+**1. Demand & Activity**
+Demand is showing modest growth, though characterized by a divergence between spending per visit and customer volume. Comparable store net sales increased 3.5%, driven by a "4.5% increase in average ticket," which was "partially offset by a 1.0% decline in traffic." The company continues to expand its physical footprint, having "opened 113 new Dollar Tree stores during the quarter."
+
+**2. Labor & Wages**
+Labor costs appear to be softening. The company reported that increases in selling, general and administrative expenses were "partially offset by lower payroll costs."
+
+**3. Pricing Power & Inflation**
+The company is exercising moderate pricing power through a strategic shift in its pricing model, having "converted or added about 630 stores to the Dollar Tree multi-price format." Gross margins expanded 120 basis points, supported by "higher mark-on" and "lower freight costs," though these gains were "partially offset by higher tariff costs."
+
+**4. Supply Chain & Inventory**
+Supply chain pressures are easing, specifically regarding logistics. The company noted that margin improvement was "primarily driven by... lower freight costs" and "lower shrink." There is no specific mention of lead times or bloated inventory levels in the provided text.
+
+**5. Capital Spending (Capex)**
+Investment remains focused on capacity and store modernization. The company is making "thoughtful investments in our stores, assortment and customer experience" and expects "approximately 400 new store openings" for the full fiscal year 2026.
