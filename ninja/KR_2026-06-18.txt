@@ -1,0 +1,1941 @@
+Ticker: KR
+Company: KROGER CO
+Filed: 2026-06-18
+Type: PRESS_RELEASE
+Source: https://www.sec.gov/Archives/edgar/data/56873/000110465926075395/tm2618219d1_ex99-1.htm
+
+EX-99.1
+ 2
+ tm2618219d1_ex99-1.htm
+ EXHIBIT 99.1
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ Exhibit 99.1 
+
+ 
+
+ 
+
+ 
+
+ Kroger
+Reports First Quarter 2026 Results 
+
+ 
+
+ 
+
+ First Quarter
+Highlights 
+
+ 
+
+ 
+ &middot; Identical
+ Sales without fuel increased 1.0% 1 
+ 
+ &middot; Operating
+ Profit of $1,407 million; EPS of $1.46 
+ &middot; Adjusted
+ FIFO Operating Profit of $1,544 million and Adjusted EPS of $1.58 
+ 
+ &middot; Adjusted
+ eCommerce sales grew +19% 2 ; Kroger Precision Marketing profit grew over 20% 
+ 
+
+ 
+
+ CINCINNATI, June 18, 2026 &ndash; The
+Kroger Co. (NYSE: KR) today reported its first quarter 2026 results, maintained 2026 guidance, and shared progress on key priorities. 
+
+ 
+
+ Comments from CEO Greg Foran 
+
+ 
+
+ &ldquo;I joined Kroger because I believe it represents the best opportunity
+in retail. We serve millions of families every day, in our stores and online. We have the right stores in the right places, unmatched
+customer insights, and the ability to win. Our focus is clear: to become America's best grocer. We will measure ourselves against that
+every day. 
+
+ 
+
+ We are pleased with our first quarter results, but we know there is
+more work to do. That is why we are building a culture that is never satisfied, with a constant focus on serving our customers better.&quot; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 1 Excludes adjustment items. See table 4. 
+
+ 2 Adjusted eCommerce sales exclude the effect of fulfillment
+center exits in markets where Kroger does not operate stores, the sale of Vitacost, and the discontinuation of Ship Marketplace. 
+
+ 
+
+ 
+
+ 
+ 1 
+ 
+ 
+
+ 
+
+ First Quarter Financial Results 
+
+ 
+
+ 
+ 
+ 
+ 1Q26 
+ ($ in millions;
+ except EPS) 
+ 1Q25 
+ ($ in millions;
+ except EPS) 
+ 
+ ID Sales (1) (Table 4) 
+ 1.0% 
+ 3.2% 
+ 
+ Earnings Per Share 
+ $1.46 
+ $1.29 
+ 
+ Adjusted EPS (Table 6) 
+ $1.58 
+ $1.49 
+ 
+ Operating Profit 
+ $1,407 
+ $1,322 
+ 
+ Adjusted FIFO Operating Profit (Table 7) 
+ $1,544 
+ $1,518 
+ 
+ Gross Margin (Table 8) 
+ 22.7% 
+ 23.0% 
+ 
+ FIFO Gross Margin Rate (2) 
+ Decreased 9 basis points 
+ 
+ OG&A Rate (3) 
+ Increased 16 basis points 
+ 
+ 
+
+ (1) Without fuel and adjustment
+items, if applicable, and includes an unfavorable 130 basis point impact from the Inflation Reduction Act. 
+
+ (2) Without rent, depreciation
+and amortization, fuel and adjustment items, if applicable. 
+
+ (3) Without fuel and adjustment
+items, if applicable. 
+
+ 
+
+ Total company sales were $46.1 billion in the first quarter compared
+to $45.1 billion for the same period last year. Excluding fuel and Vitacost, sales increased 0.5% compared to the same period last year. 
+
+ 
+
+ Gross margin was 22.7% of sales for the first quarter compared to 23.0%
+for the same period last year. The decrease in rate was primarily driven by the mix impact of higher fuel sales, higher transportation
+costs, egg deflation, and planned price investments. These pressures were partially offset by favorable pharmacy mix, improved eCommerce
+profitability, sourcing benefits, and lower depreciation. 
+
+ 
+
+ The FIFO gross margin rate, excluding rent, depreciation and amortization,
+fuel, and adjustment items decreased 9 basis points compared to the same period last year. The decrease in rate was primarily driven by
+the impacts from higher transportation costs, egg deflation, and planned price investments. These pressures were partially offset by favorable
+pharmacy mix, improved eCommerce profitability, and sourcing benefits. 
+
+ 
+
+ The LIFO charge for the quarter was $52 million, compared to a LIFO
+charge of $40 million for the same period last year. 
+
+ 
+
+ The Operating, General and Administrative rate, excluding fuel and
+adjustment items, increased 16 basis points compared to the same period last year. The increase in rate was primarily attributable to
+planned investments in associate wages and hours to enhance the customer experience, partially offset by lapping higher multi-employer
+pension contributions from the prior year and ongoing productivity initiatives. 
+
+ 
+
+ Capital Allocation 
+
+ 
+
+ Kroger expects to continue to generate strong
+free cash flow and remains committed to investing in the business to drive long-term sustainable net earnings growth, as well as maintaining
+its current investment grade debt rating. The Company expects to continue to pay its quarterly dividend and expects this to increase over
+time, subject to board approval. 
+
+ 
+
+ 
+
+ 
+ 2 
+ 
+ 
+
+ 
+
+ In December 2025, Kroger&rsquo;s Board of
+Directors approved an additional $2 billion share repurchase authorization. Kroger expects to complete these repurchases by the end of
+fiscal 2026. 
+
+ 
+
+ Kroger&rsquo;s net total debt to adjusted
+EBITDA ratio is 1.75, compared to 1.69 a year ago (Table 5). The company&rsquo;s net total debt to adjusted EBITDA ratio target range
+is 2.30 to 2.50. Kroger&rsquo;s strong balance sheet provides ample opportunities for the Company to invest in the business and enhance
+shareholder value. 
+
+ 
+
+ Full-Year 2026 Guidance* 
+
+ 
+
+ Reaffirmed 
+
+ 
+
+ 
+ 
+ Adjusted
+ Metric* 
+ FY26
+ Guidance 
+ 
+ Identical Sales without fuel** 
+ 1.0% - 2.0% 
+ 
+ FIFO Operating Profit 
+ $5.0 - $5.2 billion 
+ 
+ EPS 
+ $5.10 - $5.30 
+ 
+ Free Cash Flow 
+ $2.7 - $2.9 billion 
+ 
+ Cap Ex 
+ $3.8 - $4.0 billion 
+ 
+ Tax Rate*** 
+ 23% 
+ 
+ 
+
+ * Without adjusted items, if applicable. Kroger is unable to provide
+a full reconciliation of the GAAP and non-GAAP measures used in 2026 guidance without unreasonable effort because it is not possible to
+predict certain of our adjustment items with a reasonable degree of certainty. This information is dependent upon future events and may
+be outside of our control and its unavailability could have a significant impact on 2026 GAAP financial results. 
+
+ ** Includes approximately 130 basis points unfavorable impact from
+the Inflation Reduction Act. 
+
+ *** The adjusted tax rate reflects typical tax adjustments and does
+not reflect changes to the rate from the completion of income tax audit examinations and changes in tax laws and policies, which cannot
+be predicted. 
+
+ 
+
+ About Kroger 
+
+ 
+
+ The Kroger Co. (NYSE: KR) is one of America&rsquo;s largest retailers,
+serving more than 11 million customers daily through a digital shopping experience and retail food stores under a variety of banner names.
+With more than 400,000 associates across our family of companies, Kroger is committed to providing America with affordable, great-tasting
+food and creating #ZeroHungerZeroWaste communities. To learn more about us, visit our newsroom and investor relations site. 
+
+ 
+
+ Kroger's first quarter 2026 ended on May
+23, 2026. 
+
+ 
+
+ Note: Fuel sales have historically had a low
+gross margin rate and operating expense rate as compared to corresponding rates on non-fuel sales. As a result, Kroger discusses the changes
+in these rates excluding the effect of fuel. 
+
+ 
+
+ 
+
+ 
+ 3 
+ 
+ 
+
+ 
+
+ Please refer to the supplemental information
+presented in the tables for reconciliations of the non-GAAP financial measures used in this press release to the most comparable GAAP
+financial measure and related disclosure. As noted above, Kroger is unable to provide a full reconciliation of the GAAP and non-GAAP measures
+used in its guidance without unreasonable effort because it is not possible to predict certain of our adjustment items with a reasonable
+degree of certainty. This information is dependent upon future events and may be outside of our control and its unavailability could have
+a significant impact on GAAP financial results. 
+
+ 
+
+ This press release contains certain statements
+that constitute &ldquo;forward-looking statements&rdquo; about Kroger&rsquo;s financial position and the future performance of the company.
+These statements are based on management&rsquo;s assumptions and beliefs in light of the information currently available to it. Such statements
+are indicated by words or phrases such as &ldquo;achieve,&rdquo; &ldquo;committed,&rdquo; &ldquo;continue,&rdquo; &ldquo;drive,&rdquo;
+ &ldquo;expect,&rdquo; &ldquo;focused,&rdquo; &ldquo;future,&rdquo; &ldquo;guidance,&rdquo; &ldquo;may,&rdquo; &ldquo;model,&rdquo; &ldquo;opportunities,&rdquo;
+ &ldquo;strategy,&rdquo; &ldquo;target,&rdquo; &ldquo;trends,&rdquo; and variations of such words and similar phrases. Various uncertainties
+and other factors could cause actual results to differ materially from those contained in the forward-looking statements. These include
+the specific risk factors identified in &ldquo;Risk Factors&rdquo; in our annual report on Form 10-K for our last fiscal year and any
+subsequent filings, as well as the following: 
+
+ 
+
+ Kroger's ability to achieve sales, earnings,
+incremental FIFO operating profit, and adjusted free cash flow goals may be affected by: labor negotiations; potential work stoppages;
+changes in the unemployment rate; pressures in the labor market; changes in government-funded benefit programs; changes in the types and
+numbers of businesses that compete with Kroger; pricing and promotional activities of existing and new competitors, and the aggressiveness
+of that competition; Kroger's response to these actions; the state of the economy, including interest rates, the inflationary, disinflationary
+and/or deflationary trends and such trends in certain commodities, products and/or operating costs; the geopolitical environment including
+wars and conflicts; unstable political situations and social unrest; changes in tariffs; the effect that fuel costs have on consumer spending;
+volatility of fuel margins; manufacturing commodity costs; supply constraints; diesel fuel costs related to Kroger&rsquo;s logistics operations;
+trends in consumer spending; the extent to which Kroger&rsquo;s customers exercise caution in their purchasing in response to economic
+conditions; the uncertainty of economic growth or recession; stock repurchases; changes in the regulatory environment in which Kroger
+operates, along with changes in federal policy and at state and federal regulatory agencies; Kroger&rsquo;s ability to retain pharmacy
+sales from third party payors; consolidation in the healthcare industry, including pharmacy benefit managers; Kroger&rsquo;s ability to
+negotiate modifications to multi-employer pension plans; natural disasters or adverse weather conditions; the effect of public health
+crises or other significant catastrophic events; the potential costs and risks associated with potential cyber-attacks or data security
+breaches; the success of Kroger's future growth plans; the ability to execute our growth strategy and value creation model, including
+continued cost savings, growth of our alternative profit businesses, and our ability to better serve our customers and to generate customer
+loyalty and sustainable growth through our strategic pillars of fresh, our brands, personalization, and eCommerce; the outcome of litigation
+matters, including those relating to the terminated transaction with Albertsons; and the risks relating to or arising from our opioid
+litigation settlements, including the risk of litigation relating to persons, entities, or jurisdictions that do not participate in those
+settlements. Our ability to achieve these goals may also be affected by our ability to manage the factors identified above. Our ability
+to execute our financial strategy may be affected by our ability to generate cash flow. 
+
+ 
+
+ 
+
+ 
+ 4 
+ 
+ 
+
+ 
+
+ Kroger&rsquo;s adjusted effective tax rate
+may differ from the expected rate due to changes in tax laws and policies, the status of pending items with various taxing authorities,
+and the deductibility of certain expenses. 
+
+ 
+
+ Kroger assumes no obligation to update the
+information contained herein unless required by applicable law. Please refer to Kroger's reports and filings with the Securities and Exchange
+Commission for a further discussion of these risks and uncertainties. 
+
+ 
+
+ Note: Kroger's quarterly conference call with
+investors will broadcast live at 8 a.m. (ET) on June 18, 2026 at ir.kroger.com. An on-demand replay of the webcast will be available
+at approximately 1 p.m. (ET) on Thursday, June 18, 2026. 
+
+ 
+
+ 1 st Quarter 2026 Tables Include: 
+
+ 
+
+ 1. Consolidated
+Statements of Operations 
+
+ 2. Consolidated
+Balance Sheets 
+
+ 3. Consolidated
+Statements of Cash Flows 
+
+ 4. Supplemental
+Sales Information 
+
+ 5. Reconciliation
+of Net Total Debt and Net Earnings Attributable to The Kroger Co. to Adjusted EBITDA 
+
+ 6. Net
+Earnings Per Diluted Share Excluding the Adjustment Items 
+
+ 7. Operating
+Profit Excluding the Adjustment Items 
+
+ 8. Gross
+Margin 
+
+ 
+
+ --30-- 
+
+ 
+
+ Contacts: Media: Erin Rolfes (513) 762-1080; Investors: Rob Quast (513)
+762-4969 
+
+ 
+
+ 
+
+ 
+ 5 
+ 
+ 
+
+ 
+
+ Table 1. 
+
+ THE KROGER CO. 
+
+ CONSOLIDATED STATEMENTS OF OPERATIONS 
+
+ (in millions, except per share amounts) 
+
+ (unaudited) 
+
+ 
+
+ 
+ 
+ 
+ FIRST QUARTER 
+ 
+ 
+ 2026 
+ 2025 
+ 
+ SALES 
+ $ 46,121 
+ 100.0 % 
+ $ 45,118 
+ 100.0 % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OPERATING EXPENSES 
+ 
+ 
+ 
+ 
+ 
+ MERCHANDISE COSTS, INCLUDING ADVERTISING, WAREHOUSING
+ AND TRANSPORTATION (a), AND LIFO CHARGE (b) 
+ 35,493 
+ 77.0 
+ 34,551 
+ 76.6 
+ 
+ OPERATING, GENERAL AND ADMINISTRATIVE (a) 
+ 7,963 
+ 17.3 
+ 7,923 
+ 17.6 
+ 
+ RENT 
+ 269 
+ 0.6 
+ 271 
+ 0.6 
+ 
+ DEPRECIATION AND AMORTIZATION 
+ 989 
+ 2.1 
+ 1,051 
+ 2.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OPERATING PROFIT 
+ 1,407 
+ 3.1 
+ 1,322 
+ 2.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OTHER INCOME (EXPENSE) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NET INTEREST EXPENSE 
+ (209 ) 
+ (0.5 ) 
+ (199 ) 
+ (0.5 ) 
+ 
+ NON-SERVICE COMPONENT OF COMPANY-SPONSORED PENSION PLAN
+ EXPENSE 
+ (7 ) 
+ - 
+ (1 ) 
+ - 
+ 
+ LOSS ON INVESTMENTS 
+ (14 ) 
+ - 
+ (19 ) 
+ - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NET EARNINGS BEFORE INCOME TAX EXPENSE 
+ 1,177 
+ 2.6 
+ 1,103 
+ 2.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INCOME TAX EXPENSE 
+ 273 
+ 0.6 
+ 235 
+ 0.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NET EARNINGS INCLUDING NONCONTROLLING INTERESTS 
+ 904 
+ 2.0 
+ 868 
+ 1.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NET INCOME ATTRIBUTABLE TO
+ NONCONTROLLING INTERESTS 
+ 1 
+ - 
+ 2 
+ - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NET EARNINGS ATTRIBUTABLE TO THE KROGER CO. 
+ $ 903 
+ 2.0 % 
+ $ 866 
+ 1.9 % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NET EARNINGS ATTRIBUTABLE TO THE KROGER CO. PER BASIC
+ COMMON SHARE 
+ $ 1.46 
+ 
+ $ 1.30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AVERAGE NUMBER OF COMMON SHARES USED IN BASIC
+ CALCULATION 
+ 613 
+ 
+ 660 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NET EARNINGS ATTRIBUTABLE TO THE KROGER CO. PER DILUTED
+ COMMON SHARE 
+ $ 1.46 
+ 
+ $ 1.29 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AVERAGE NUMBER OF COMMON SHARES USED IN DILUTED
+ CALCULATION 
+ 615 
+ 
+ 664 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DIVIDENDS DECLARED PER COMMON SHARE 
+ $ 0.35 
+ 
+ $ 0.32 
+ 
+ 
+
+ 
+
+ 
+ 
+ Note: 
+ Certain percentages may not sum due to rounding. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Note: 
+ The Company defines First-In First-Out (FIFO) gross profit as sales minus merchandise costs, including advertising, warehousing and transportation, but excluding the Last-In First-Out (LIFO) charge, rent and depreciation and amortization. 
+ 
+ 
+ 
+ The Company defines FIFO gross margin as FIFO gross profit divided by sales. 
+ 
+ 
+ 
+ The Company defines FIFO operating profit as operating profit excluding the LIFO charge. 
+ 
+ 
+ 
+ The Company defines FIFO operating margin as FIFO operating profit divided by sales. 
+ 
+ 
+ 
+ The above FIFO financial metrics are important measures used by management to evaluate operational effectiveness. Management believes these FIFO financial metrics are useful to investors and analysts because they measure our day-to-day operational effectiveness. 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) 
+ Merchandise costs (&quot;COGS&quot;) and operating, general and administrative expenses (&quot;OG&A&quot;) exclude depreciation and amortization expense and rent expense which are included in separate expense lines. 
+ 
+ 
+ 
+ 
+ 
+ 
+ (b) 
+ LIFO charges of $52 and $40 were recorded in the first quarters of 2026 and 2025, respectively. 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ Table 2. 
+
+ THE KROGER CO. 
+
+ CONSOLIDATED BALANCE SHEETS 
+
+ (in millions) 
+
+ (unaudited) 
+
+ 
+
+ 
+ 
+ 
+ May 23, 
+ May 24, 
+ 
+ 
+ 2026 
+ 2025 
+ 
+ ASSETS 
+ 
+ 
+ 
+ Current Assets 
+ 
+ 
+ 
+ Cash 
+ $ 218 
+ $ 340 
+ 
+ Temporary cash investments 
+ 2,655 
+ 4,398 
+ 
+ Store deposits in-transit 
+ 1,225 
+ 1,179 
+ 
+ Receivables 
+ 2,101 
+ 2,131 
+ 
+ Inventories 
+ 7,278 
+ 7,020 
+ 
+ Prepaid and other current assets 
+ 729 
+ 697 
+ 
+ 
+ 
+ 
+ 
+ Total current assets 
+ 14,206 
+ 15,765 
+ 
+ 
+ 
+ 
+ 
+ Property, plant and equipment, net 
+ 24,767 
+ 25,829 
+ 
+ Operating lease assets 
+ 6,769 
+ 6,840 
+ 
+ Intangibles, net 
+ 851 
+ 836 
+ 
+ Goodwill 
+ 2,624 
+ 2,674 
+ 
+ Other assets 
+ 1,075 
+ 1,304 
+ 
+ 
+ 
+ 
+ 
+ Total Assets 
+ $ 50,292 
+ $ 53,248 
+ 
+ 
+ 
+ 
+ 
+ LIABILITIES AND SHAREOWNERS' EQUITY 
+ 
+ 
+ 
+ Current Liabilities 
+ 
+ 
+ 
+ Current portion of long-term debt including obligations under
+ finance leases 
+ $ 1,264 
+ $ 807 
+ 
+ Current portion of operating lease liabilities 
+ 668 
+ 668 
+ 
+ Accounts payable 
+ 11,278 
+ 10,562 
+ 
+ Accrued salaries and wages 
+ 1,183 
+ 1,209 
+ 
+ Other current liabilities 
+ 3,577 
+ 3,379 
+ 
+ 
+ 
+ 
+ 
+ Total current liabilities 
+ 17,970 
+ 16,625 
+ 
+ 
+ 
+ 
+ 
+ Long-term debt including obligations under finance leases 
+ 15,731 
+ 17,138 
+ 
+ Noncurrent operating lease liabilities 
+ 6,529 
+ 6,595 
+ 
+ Deferred income taxes 
+ 1,143 
+ 1,401 
+ 
+ Pension and postretirement benefit obligations 
+ 414 
+ 381 
+ 
+ Other long-term liabilities 
+ 2,027 
+ 2,200 
+ 
+ 
+ 
+ 
+ 
+ Total Liabilities 
+ 43,814 
+ 44,340 
+ 
+ 
+ 
+ 
+ 
+ Shareowners' equity 
+ 6,478 
+ 8,908 
+ 
+ 
+ 
+ 
+ 
+ Total Liabilities and Shareowners' Equity 
+ $ 50,292 
+ $ 53,248 
+ 
+ 
+ 
+ 
+ 
+ Total common shares outstanding at end of period 
+ 613 
+ 661 
+ 
+ Total diluted shares year-to-date 
+ 615 
+ 664 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ Table 3. 
+
+ THE KROGER CO. 
+
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+ (in millions) 
+
+ (unaudited) 
+
+ 
+
+ 
+ 
+ 
+ YEAR-TO-DATE 
+ 
+ 
+ 2026 
+ 2025 
+ 
+ CASH FLOWS FROM OPERATING ACTIVITIES: 
+ 
+ 
+ 
+ Net earnings including noncontrolling interests 
+ $ 904 
+ $ 868 
+ 
+ Adjustments to reconcile net earnings including
+ noncontrolling interests to net cash provided by operating activities: 
+ 
+ 
+ 
+ Depreciation and amortization 
+ 989 
+ 1,051 
+ 
+ Asset impairment and store closure charges 
+ 19 
+ 108 
+ 
+ Operating lease asset amortization 
+ 179 
+ 184 
+ 
+ LIFO charge 
+ 52 
+ 40 
+ 
+ Share-based employee compensation 
+ 57 
+ 38 
+ 
+ Deferred income taxes 
+ 51 
+ (16 ) 
+ 
+ Loss on investments 
+ 14 
+ 19 
+ 
+ Other 
+ (4 ) 
+ (37 ) 
+ 
+ Changes in operating assets and liabilities: 
+ 
+ 
+ 
+ Store deposits in-transit 
+ 19 
+ 133 
+ 
+ Receivables 
+ (74 ) 
+ 47 
+ 
+ Inventories 
+ (418 ) 
+ (23 ) 
+ 
+ Prepaid and other current assets 
+ (93 ) 
+ (52 ) 
+ 
+ Accounts payable 
+ 563 
+ 288 
+ 
+ Accrued expenses 
+ (319 ) 
+ (243 ) 
+ 
+ Income taxes receivable and payable 
+ 183 
+ 41 
+ 
+ Operating lease liabilities 
+ (209 ) 
+ (134 ) 
+ 
+ Other 
+ (139 ) 
+ (163 ) 
+ 
+ 
+ 
+ 
+ 
+ Net cash provided by operating activities 
+ 1,774 
+ 2,149 
+ 
+ 
+ 
+ 
+ 
+ CASH FLOWS FROM INVESTING ACTIVITIES: 
+ 
+ 
+ 
+ Payments for property and equipment, including payments for lease buyouts 
+ (1,293 ) 
+ (1,044 ) 
+ 
+ Other 
+ 38 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ Net cash used by investing activities 
+ (1,255 ) 
+ (1,039 ) 
+ 
+ 
+ 
+ 
+ 
+ CASH FLOWS FROM FINANCING ACTIVITIES: 
+ 
+ 
+ 
+ Payments on long-term debt including obligations under finance leases 
+ (559 ) 
+ (52 ) 
+ 
+ Dividends paid 
+ (215 ) 
+ (211 ) 
+ 
+ Proceeds from issuance of capital stock 
+ 30 
+ 145 
+ 
+ Treasury stock purchases 
+ (213 ) 
+ (181 ) 
+ 
+ Other 
+ (23 ) 
+ (32 ) 
+ 
+ 
+ 
+ 
+ 
+ Net cash used by financing activities 
+ (980 ) 
+ (331 ) 
+ 
+ 
+ 
+ 
+ 
+ NET (DECREASE) INCREASE IN CASH AND TEMPORARY 
+ 
+ 
+ 
+ CASH INVESTMENTS 
+ (461 ) 
+ 779 
+ 
+ 
+ 
+ 
+ 
+ CASH AND TEMPORARY CASH INVESTMENTS: 
+ 
+ 
+ 
+ BEGINNING OF YEAR 
+ 3,334 
+ 3,959 
+ 
+ END OF YEAR 
+ $ 2,873 
+ $ 4,738 
+ 
+ 
+ 
+ 
+ 
+ Reconciliation of capital investments: 
+ 
+ 
+ 
+ Payments for property and equipment, including payments for lease buyouts 
+ $ (1,293 ) 
+ $ (1,044 ) 
+ 
+ Payments for lease buyouts 
+ 30 
+ 11 
+ 
+ Changes in construction-in-progress payables 
+ (187 ) 
+ (150 ) 
+ 
+ Total capital investments, excluding lease buyouts 
+ $ (1,450 ) 
+ $ (1,183 ) 
+ 
+ 
+ 
+ 
+ 
+ Disclosure of cash flow information: 
+ 
+ 
+ 
+ Cash paid during the year for net interest 
+ $ 263 
+ $ 269 
+ 
+ Cash paid during the year for income taxes 
+ $ 39 
+ $ 203 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ Table 4. Supplemental Sales Information 
+
+ (in millions, except percentages) 
+
+ (unaudited) 
+
+ 
+
+ Items
+identified below should not be considered as alternatives to sales or any other GAAP measure of performance. Identical sales is an industry-specific
+measure, and it is important to review it in conjunction with Kroger's financial results reported in accordance with GAAP. Other companies
+in our industry may calculate identical sales differently than Kroger does, limiting the comparability of the measure. 
+
+ 
+
+ Kroger
+defines identical sales, excluding fuel, as sales to retail customers, including sales from all departments at identical supermarket
+locations, jewelry and ship-to-home solutions. Kroger defines a supermarket as identical when it has been in operation without
+expansion or relocation for five full quarters. We include Kroger Delivery sales as identical if the delivery occurs in an
+existing Kroger Supermarket geography or when the location has been in operation for five full quarters. 
+
+ 
+
+ IDENTICAL
+SALES 
+
+ 
+
+ 
+ 
+ 
+ EXCLUDING ADJUSTMENT ITEMS 
+ 
+ 
+ 
+ FIRST QUARTER (a) 
+ FIRST QUARTER 
+ 
+ 
+ 2026 
+ 2025 
+ 2026 
+ 2025 
+ 
+ EXCLUDING FUEL 
+ $ 39,802 
+ $ 39,417 
+ $ 40,136 
+ $ 39,675 
+ 
+ EXCLUDING FUEL 
+ 1.0 % 
+ 3.2 % 
+ 1.2 % 
+ 3.0 % 
+ 
+
+ 
+
+ 
+ (a) Identical
+sales, excluding fuel, were adjusted to exclude stores involved in the labor disputes in Colorado in the first quarter of 2025. Identical
+sales, excluding fuel, were excluded for the first four weeks of the first quarters of 2026 and 2025 for stores involved in this labor
+dispute. 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ Table 5. Reconciliation of Net Total Debt and 
+
+ Net Earnings Attributable to The Kroger Co. to Adjusted EBITDA 
+
+ (in millions, except for ratio) 
+
+ (unaudited) 
+
+ 
+
+ The
+items identified below should not be considered an alternative to any GAAP measure of performance or access to liquidity. Net total
+debt to adjusted EBITDA is an important measure used by management to evaluate the Company's access to liquidity. The items
+below should be reviewed in conjunction with Kroger's financial results reported in accordance with GAAP. 
+
+ 
+
+ The
+following table provides a reconciliation of net total debt. 
+
+ 
+
+ 
+ 
+ 
+ May 23, 
+ May 24, 
+ 
+ 
+ 
+ 2026 
+ 2025 
+ Change 
+ 
+ Current portion of long-term debt including obligations under finance leases 
+ $ 1,264 
+ $ 807 
+ $ 457 
+ 
+ Long-term debt including obligations under finance leases 
+ 15,731 
+ 17,138 
+ (1,407 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total debt 
+ 16,995 
+ 17,945 
+ (950 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Less: Temporary cash investments 
+ 2,655 
+ 4,398 
+ (1,743 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net total debt 
+ $ 14,340 
+ $ 13,547 
+ $ 793 
+ 
+
+ 
+
+ The
+following table provides a reconciliation from net earnings attributable to The Kroger Co. to adjusted EBITDA, as defined in the Company's
+credit agreement, on a rolling four quarter basis. 
+
+ 
+
+ 
+ 
+ 
+ ROLLING FOUR QUARTERS ENDED 
+ 
+ 
+ May 23, 
+ May 24, 
+ 
+ 
+ 2026 
+ 2025 
+ 
+ Net earnings attributable to The Kroger Co. 
+ $ 1,053 
+ $ 2,584 
+ 
+ LIFO charge 
+ 169 
+ 94 
+ 
+ Depreciation and amortization 
+ 3,270 
+ 3,319 
+ 
+ Net interest expense 
+ 649 
+ 526 
+ 
+ Income tax expense 
+ 214 
+ 670 
+ 
+ Adjustment for loss on investments 
+ 36 
+ 183 
+ 
+ Adjustment for severance charge and related benefits 
+ 48 
+ 32 
+ 
+ Adjustment for impairment of intangible assets 
+ 50 
+ 30 
+ 
+ Adjustment for labor dispute charges 
+ - 
+ 44 
+ 
+ Adjustment for store closures 
+ - 
+ 100 
+ 
+ Adjustment for executive stock compensation for a former executive 
+ - 
+ (21 ) 
+ 
+ Adjustment for merger-related costs (a) 
+ - 
+ 509 
+ 
+ Adjustment for merger-related litigation and settlement charges 
+ 171 
+ 15 
+ 
+ Adjustment for property losses 
+ - 
+ 25 
+ 
+ Adjustment for opioid settlement charges and vendor reserves 
+ (28 ) 
+ (5 ) 
+ 
+ Adjustment for gain on sale of Kroger Specialty Pharmacy 
+ - 
+ (79 ) 
+ 
+ Adjustment for fulfillment network impairment and related charges 
+ 2,497 
+ - 
+ 
+ Adjustment for transformation costs (b) 
+ 62 
+ - 
+ 
+ Other 
+ (8 ) 
+ (11 ) 
+ 
+ 
+ 
+ 
+ 
+ Adjusted EBITDA 
+ $ 8,183 
+ $ 8,015 
+ 
+ 
+ 
+ 
+ 
+ Net total debt to adjusted EBITDA ratio 
+ 1.75 
+ 1.69 
+ 
+
+ 
+
+ 
+ (a) Merger-related
+costs primarily include third-party professional fees and credit facility fees associated with the terminated merger with Albertsons
+Companies, Inc. 
+ 
+ 
+ 
+
+ 
+ (b) Transformation
+costs primarily include costs related to third-party professional consulting fees associated with business transformation and cost saving
+initiatives. 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ Table 6. Net Earnings Per Diluted Share Excluding the Adjustment Items 
+
+ (in millions, except per share amounts) 
+
+ (unaudited) 
+
+ 
+
+ The
+purpose of this table is to better illustrate comparable operating results from our ongoing business, after removing the effects on net
+earnings per diluted common share for certain items described below. Adjusted net earnings and adjusted net earnings per diluted
+share are useful metrics to investors and analysts because they present more accurately year-over-year comparisons for net earnings and
+net earnings per diluted share because adjusted items are not the result of normal operations. Items identified in this table
+should not be considered alternatives to net earnings attributable to The Kroger Co. or any other GAAP measure of performance. These
+items should not be reviewed in isolation or considered substitutes for the Company's financial results as reported in accordance with
+GAAP. Due to the nature of these items, as further described below, it is important to identify these items and to review
+them in conjunction with the Company's financial results reported in accordance with GAAP. 
+
+ 
+
+ The
+following table summarizes items that affected the Company's financial results during the periods presented. 
+
+ 
+
+ 
+ 
+ 
+ FIRST
+ QUARTER 
+ 
+ 
+ 2026 
+ 2025 
+ 
+ Net earnings attributable
+ to The Kroger Co. 
+ $ 903 
+ $ 866 
+ 
+ 
+ 
+ 
+ 
+ Adjustment for loss on investments
+ (a)(b) 
+ 10 
+ 15 
+ 
+ Adjustment for labor dispute
+ charges (a)(c) 
+ - 
+ 33 
+ 
+ Adjustment for store closures
+ (a)(d) 
+ - 
+ 77 
+ 
+ Adjustment for executive stock
+ compensation for a former executive (a)(e) 
+ - 
+ (16 ) 
+ 
+ Adjustment for merger-related
+ litigation costs (a)(f) 
+ 19 
+ 11 
+ 
+ Adjustment for opioid settlement
+ charges and vendor reserves (a)(g) 
+ - 
+ 17 
+ 
+ Adjustment for transformation
+ costs (a)(h) 
+ 48 
+ - 
+ 
+ Executive
+ stock compensation for a former executive income tax adjustment 
+ - 
+ (7 ) 
+ 
+ 
+ 
+ 
+ 
+ 2026 and
+ 2025 Adjustment Items 
+ 77 
+ 130 
+ 
+ 
+ 
+ 
+ 
+ Net
+ earnings attributable to The Kroger Co. excluding the adjustment items above 
+ $ 980 
+ $ 996 
+ 
+ 
+ 
+ 
+ 
+ Net
+ earnings attributable to The Kroger Co. per diluted common share 
+ $ 1.46 
+ $ 1.29 
+ 
+ 
+ 
+ 
+ 
+ Adjustment for loss on investments
+ (i) 
+ 0.01 
+ 0.02 
+ 
+ Adjustment for labor dispute
+ charges (i) 
+ - 
+ 0.05 
+ 
+ Adjustment for store closures
+ (i) 
+ - 
+ 0.12 
+ 
+ Adjustment for executive stock
+ compensation for a former executive (i) 
+ - 
+ (0.03 ) 
+ 
+ Adjustment for merger-related
+ litigation costs (i) 
+ 0.03 
+ 0.02 
+ 
+ Adjustment for opioid settlement
+ charges and vendor reserves (i) 
+ - 
+ 0.03 
+ 
+ Adjustment for transformation
+ costs (i) 
+ 0.08 
+ - 
+ 
+ Executive
+ stock compensation for a former executive income tax adjustment (i) 
+ - 
+ (0.01 ) 
+ 
+ 
+ 
+ 
+ 
+ 2026 and
+ 2025 Adjustment Items 
+ 0.12 
+ 0.20 
+ 
+ 
+ 
+ 
+ 
+ Net
+ earnings attributable to The Kroger Co. per diluted common share excluding the adjustment items above 
+ $ 1.58 
+ $ 1.49 
+ 
+ 
+ 
+ 
+ 
+ Average
+ number of common shares used in diluted calculation 
+ 615 
+ 664 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ Table 6. Net Earnings Per Diluted Share Excluding the Adjustment Items (continued) 
+
+ (in millions, except per share amounts) 
+
+ (unaudited) 
+
+ 
+
+ 
+ 
+ (a) 
+ The amounts presented represent the after-tax effect of each adjustment. 
+ 
+ 
+ 
+ 
+ 
+ (b) 
+ The pre-tax adjustments for loss on investments were $14 and $19 in the first quarters of 2026 and 2025, respectively. 
+ 
+ 
+ 
+ 
+ 
+ (c) 
+ The pre-tax adjustments to Sales, COGS and OG&A expenses for labor dispute charges were $44. 
+ 
+ 
+ 
+ 
+ 
+ (d) 
+ The pre-tax adjustment to OG&A expenses for store closures was $100. 
+ 
+ 
+ 
+ 
+ 
+ (e) 
+ The pre-tax adjustment to OG&A expenses for executive stock compensation for a former executive was $(21). 
+ 
+ 
+ 
+ 
+ 
+ (f) 
+ The pre-tax adjustments to OG&A expenses for merger-related litigation costs were $25 and $15 in the first quarters of 2026 and 2025. 
+ 
+ 
+ 
+ 
+ 
+ (g) 
+ The pre-tax adjustment to OG&A expenses for opioid settlement charges and vendor reserves was $22. 
+ 
+ 
+ 
+ 
+ 
+ (h) 
+ The pre-tax adjustment to OG&A expenses for transformation costs was $62. Transformation costs primarily include costs related to third party professional consulting fees associated with business transformation and cost saving initiatives. 
+ 
+ 
+ 
+ 
+ 
+ (i) 
+ The amounts presented represent the net earnings (loss) per diluted common share effect of each adjustment. 
+ 
+ 
+ 
+ 
+ 
+ Note: 
+ 2026 First Quarter Adjustment Items include adjustments for the loss on investments, merger-related litigation costs and transformation costs. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 First Quarter Adjustment Items include adjustments for the loss on investments, labor dispute charges, store closures, executive stock compensation for a former executive, merger-related litigation costs, opioid settlement charges and vendor reserves and executive stock compensation for a former executive income tax. 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ Table 7. Operating Profit Excluding the Adjustment Items 
+
+ (in millions) 
+
+ (unaudited) 
+
+ 
+
+ The
+purpose of this table is to better illustrate comparable operating results from our ongoing business, after removing the effects on operating
+profit for certain items described below. Adjusted FIFO operating profit is a useful metric to investors and analysts because
+it presents more accurately year-over-year comparisons for operating profit because adjusted items are not the result of normal operations. Items
+identified in this table should not be considered alternatives to operating profit or any other GAAP measure of performance. These
+items should not be reviewed in isolation or considered substitutes for the Company's financial results as reported in accordance with
+GAAP. Due to the nature of these items, as further described below, it is important to identify these items and to review
+them in conjunction with the Company's financial results reported in accordance with GAAP. 
+
+ 
+
+ The
+following table summarizes items that affected the Company's financial results during the periods presented. 
+
+ 
+
+ 
+ 
+ 
+ FIRST
+ QUARTER 
+ 
+ 
+ 2026 
+ 2025 
+ 
+ Operating profit 
+ $ 1,407 
+ $ 1,322 
+ 
+ LIFO charge 
+ 52 
+ 40 
+ 
+ 
+ 
+ 
+ 
+ FIFO operating profit 
+ 1,459 
+ 1,362 
+ 
+ 
+ 
+ 
+ 
+ Adjustment for labor dispute
+ charges 
+ - 
+ 44 
+ 
+ Adjustment for store closures 
+ - 
+ 100 
+ 
+ Adjustment for executive stock
+ compensation for a former executive 
+ - 
+ (21 ) 
+ 
+ Adjustment for merger-related
+ litigation costs 
+ 25 
+ 15 
+ 
+ Adjustment for opioid settlement
+ charges and vendor reserves 
+ - 
+ 22 
+ 
+ Adjustment for transformation
+ costs (a) 
+ 62 
+ - 
+ 
+ Other 
+ (2 ) 
+ (4 ) 
+ 
+ 
+ 
+ 
+ 
+ 2026 and
+ 2025 Adjustment items 
+ 85 
+ 156 
+ 
+ 
+ 
+ 
+ 
+ Adjusted
+ FIFO operating profit excluding the adjustment items above 
+ $ 1,544 
+ $ 1,518 
+ 
+
+ 
+
+ 
+ (a) Transformation
+costs primarily include costs related to third-party professional consulting fees associated with business transformation and cost saving
+initiatives. 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ Table 8. Gross Margin 
+
+ (in millions, except percentages) 
+
+ (unaudited) 
+
+ 
+
+ In
+the Consolidated Statements of Operations within Table 1, the Company separately presents rent and depreciation and amortization to evaluate
+operational effectiveness. The table below calculates gross margin in accordance with Generally Accepted Accounting Principles (&quot;GAAP&quot;)
+by including a portion of rent and depreciation and amortization related to the Company's manufacturing and warehousing and transportation
+activities. 
+
+ 
+
+ The
+following table provides the calculation of gross profit and gross margin in accordance with GAAP. 
+
+ 
+
+ 
+ 
+ 
+ FIRST QUARTER 
+ 
+ 
+ 2026 
+ 2025 
+ 
+ Sales 
+ $ 46,121 
+ $ 45,118 
+ 
+ Merchandise costs, including advertising, warehousing and
+ transportation and LIFO charge, excluding rent and depreciation and amortization 
+ 35,493 
+ 34,551 
+ 
+ Rent 
+ 16 
+ 18 
+ 
+ Depreciation and amortization 
+ 139 
+ 193 
+ 
+ Gross profit 
+ $ 10,473 
+ $ 10,356 
+ 
+ 
+ 
+ 
+ 
+ Gross margin 
+ 22.7 % 
+ 23.0 %
