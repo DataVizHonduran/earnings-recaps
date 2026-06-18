@@ -1,0 +1,22 @@
+Ticker: KR
+Source: KR_2026-06-18.txt
+Generated: 2026-06-18 17:19 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Kroger Co. (KR)**
+
+**Demand & Activity:**
+Demand is showing modest growth, though the pace has softened compared to the prior year. Identical sales without fuel increased 1.0% ("Identical Sales without fuel increased 1.0%"), down from 3.2% in 1Q25. However, digital activity remains robust, with adjusted eCommerce sales growing 19% ("Adjusted eCommerce sales grew +19%").
+
+**Labor & Wages:**
+Labor costs are experiencing moderate upward pressure. The company is implementing planned increases to compensation to support service levels ("increase in rate was primarily attributable to planned investments in associate wages and hours to enhance the customer experience").
+
+**Pricing Power & Inflation:**
+Pricing power is limited as the company engages in strategic price reductions to remain competitive. Gross margins were pressured by "planned price investments" and "egg deflation." Conversely, the company is seeing some input cost relief through "sourcing benefits," though these are being offset by "higher transportation costs."
+
+**Supply Chain & Inventory:**
+The provided text does not contain specific updates on lead times or inventory volume levels.
+
+**Capital Spending (Capex):**
+Investment in capacity and technology remains stable and significant. The company has reaffirmed its full-year capital expenditure guidance between $3.8 billion and $4.0 billion ("Cap Ex $3.8 - $4.0 billion").

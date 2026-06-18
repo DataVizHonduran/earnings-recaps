@@ -1,0 +1,22 @@
+Ticker: RSG
+Source: RSG_2026-05-07.txt
+Generated: 2026-06-18 17:20 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Republic Services (RSG)**
+
+**1. Demand & Activity**
+Demand is slightly softening. While total revenue grew by 2.6%, organic volume decreased by 0.8% ("volume decreased revenue by 0.8 percent"). Activity is mixed by segment: the recycling and waste business saw modest organic growth of 2.8%, while the environmental solutions business experienced a moderate organic decline of 1.3% ("1.3 percent organic decline from our environmental solutions business").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company maintains robust pricing power, which is currently offsetting volume declines. Core pricing increased total revenue by 5.7% ("Core price on total revenue increased revenue by 5.7 percent"), with particularly strong gains in the open market at 8.4% ("8.4 percent in the open market"). However, the company is facing significant headwinds in commodity values; the average recycled commodity price per ton fell by $35 over the prior year to $120 ("represents a decrease of $35 per ton over the prior year").
+
+**4. Supply Chain & Inventory**
+The provided text contains no data regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment in capacity and growth remains moderate to robust. The company invested $476 million in property and equipment during the first quarter ("Purchases of property and equipment (476)"). Additionally, RSG is aggressively pursuing inorganic growth, investing $433 million in acquisitions during the period ("Cash invested in acquisitions was $433 million") and over $700 million to date.
