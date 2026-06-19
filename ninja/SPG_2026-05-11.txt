@@ -1,0 +1,35370 @@
+Ticker: SPG
+Company: SIMON PROPERTY GROUP INC.
+Filed: 2026-05-11
+Type: PRESS_RELEASE
+Source: https://www.sec.gov/Archives/edgar/data/1063761/000110465926058646/tm2611645d2_ex99-1.htm
+
+EX-99.1
+ 2
+ tm2611645d2_ex99-1.htm
+ EXHIBIT 99.1
+ 
+ 
+ 
+ tm2611645-2_nonfiling - none - 41.4938226s 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SIMON PROPERTY GROUP 
+ 
+ 
+ 
+ EARNINGS RELEASE & SUPPLEMENTAL INFORMATION UNAUDITED FIRST QUARTER 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ EARNINGS RELEASE AND SUPPLEMENTAL INFORMATION 
+ 
+ FOR THE QUARTER ENDED MARCH 31, 2026 
+ 
+ 
+ 
+ 
+ 
+ PAGE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Earnings Release (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Overview 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Company 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stock Information, Credit Ratings and Senior Unsecured Debt Covenants 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Financial Data 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selected Financial and Equity Information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Operating Income (NOI) Composition 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Operating Income Overview (at Share) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reconciliations of Non-GAAP Financial Measures 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Consolidated Net Income to NOI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FFO of the Operating Partnership to Funds Available for Distribution (Our Share) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Lease Income, Other Income, Other Expense, Income from Unconsolidated Entities, and Capitalized Interest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operational Data 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating Information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ U.S. Malls and Premium Outlets Lease Expirations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ U.S. Malls and Premium Outlets Top Tenants 
+ 
+ 
+ 
+ 
+ 
+ 
+ 22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Development Activity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capital Expenditures 
+ 
+ 
+ 
+ 
+ 
+ 
+ 23 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Development Activity Summary 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Balance Sheet Information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Common and Preferred Stock Information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Changes in Common Share and Limited Partnership Unit Ownership 
+ 
+ 
+ 
+ 
+ 
+ 
+ 25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Preferred Stock/Units Outstanding 
+ 
+ 
+ 
+ 
+ 
+ 
+ 25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Credit Profile 
+ 
+ 
+ 
+ 
+ 
+ 
+ 26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Summary of Indebtedness 
+ 
+ 
+ 
+ 
+ 
+ 
+ 27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Debt Amortization and Maturities by Year (Our Share) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Unsecured Debt Information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 29 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Property and Debt Information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30 38 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Non-GAAP Pro-Rata Financial Information 
+ 
+ 
+ 
+ 
+ 
+ 39 41 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Guidance Reconciliation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 42 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ Includes reconciliation of consolidated net income to FFO and Real Estate FFO. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EARNINGS RELEASE 
+ 
+ 
+ 
+ 
+ 
+ Contacts: 
+ 
+ Tom Ward 
+ 
+ 317-685-7330 Investors 
+ 
+ Nicole Kennon 
+ 
+ 704-804-1960 Media 
+ 
+ 
+ Simon Reports First Quarter 2026 Results, 
+ 
+ Increases Full Year 2026 Real Estate FFO Per Share Guidance 
+ 
+ and Raises Quarterly Dividend 
+ 
+ 
+ INDIANAPOLIS, May 11, 2026 Simon , a real estate investment trust engaged in the ownership of premier shopping, dining, entertainment and mixed-use destinations, today reported results for the quarter ended March 31, 2026. 
+ We are very pleased with our first-quarter results, said Eli Simon, Chief Executive Officer, President and Chief Operating Officer. Our portfolio delivered strong operating performance, supported by continued leasing momentum, retailer sales and traffic increases, disciplined capital allocation, and growth in cash flow. Today, we increased our full-year 2026 Real Estate FFO per share guidance and raised our quarterly dividend. 
+ 
+ Results for the Quarter 
+ 
+ 
+ 
+ Net income attributable to common stockholders was $479.6 million, or $1.48 per diluted share, as compared to $413.7 million, or $1.27 per diluted share in 2025. 
+ 
+ 
+ 
+ Real Estate Funds From Operations ( Real Estate FFO ) was $1.208 billion, or $3.17 per diluted share as compared to $1.113 billion, or $2.95 per diluted share in the prior year, an increase of 7.5%. 
+ 
+ 
+ 
+ Funds From Operations ( FFO ) was $1.108 billion, or $2.91 per diluted share as compared to $1.005 billion, or $2.67 per diluted share in the prior year, an increase of 9.0%. 
+ 
+ 
+ 
+ Domestic property Net Operating Income ( NOI ) increased 6.7% and portfolio NOI increased 6.7% compared to the prior year period. 
+ 
+ 
+ U.S. Malls and Premium Outlets Operating Statistics 
+ 
+ 
+ 
+ Occupancy at March 31, 2026 was 96.0%, compared to 95.9% at March 31, 2025. 
+ 
+ 
+ 
+ Base minimum rent per square foot was $61.99 at March 31, 2026, compared to $58.92 at March 31, 2025, an increase of 5.2%. 
+ 
+ 
+ 
+ Reported retailer sales per square foot was $819 for the trailing 12 months ended March 31, 2026, compared to $733 at March 31, 2025, an increase of 11.8%. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EARNINGS RELEASE 
+ 
+ 
+ Dividends 
+ 
+ Today, Simon s Board of Directors declared a quarterly common stock dividend of $2.25 for the second quarter of 2026. This is an increase of $0.15, or 7.1% year-over-year. The dividend will be payable on June 30, 2026 to shareholders of record on June 9, 2026. 
+ Simon s Board of Directors declared the quarterly dividend on its 8 3/8% Series J Cumulative Redeemable Preferred Stock (NYSE: SPGPrJ) of $1.046875 per share, payable on June 30, 2026 to shareholders of record on June 16, 2026. 
+ 
+ Common Stock Repurchase Program 
+ 
+ During the quarter ended March 31, 2026, the Company repurchased 965,296 shares of its common stock for approximately $175 million, or $181.59 per share. 
+ 
+ Capital Markets and Balance Sheet Liquidity 
+ 
+ During the quarter, the Company completed 10 secured loan transactions totaling approximately $2.3 billion (U.S. dollar equivalent). The weighted average interest rate on these loans was 5.25%. 
+ The Company also completed a senior notes offering totaling $800 million with a term of 5 years and 4.30% coupon. The proceeds were used to repay the $800 million outstanding principal amount of its 3.30% notes at maturity on January 15, 2026. 
+ The Company amended, restated and extended its $5.0 billion multi-currency unsecured revolving credit facility. The facility will initially mature on June 30, 2030 and at our sole option, can be extended for an additional year to June 30, 2031. Based upon the Company s current credit ratings, the interest rate on the new revolver for U.S. Dollar borrowings is 15.0 basis points lower than the prior facility s at SOFR plus 65.0 basis points. 
+ As of March 31, 2026, Simon had approximately $8.7 billion of liquidity consisting of $1.2 billion of cash on hand, including its share of joint venture cash, and $7.5 billion of available capacity under its revolving credit facilities. 
+ 
+ 2026 Guidance 
+ 
+ The Company s estimates for net income attributable to common stockholders per diluted share and Real Estate FFO per diluted share for the year ending December 31, 2026 are included in the table below and are reconciled in the Company s supplemental information. The Company is increasing its outlook for Real Estate FFO to $13.10 to $13.25 per diluted share. The Real Estate FFO per diluted share range is an increase from the $13.00 to $13.25 per diluted share range provided on February 2, 2026, or an increase of $0.05 per diluted share at the mid-point. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Low 
+ 
+ End 
+ 
+ 
+ 
+ 
+ 
+ 
+ High 
+ 
+ End 
+ 
+ 
+ 
+ 
+ 
+ 
+ Estimated net income attributable to common stockholders per diluted share 
+ 
+ 
+ 
+ $ 
+ 6.61 
+ 
+ 
+ 
+ 
+ $ 
+ 6.76 
+ 
+ 
+ 
+ 
+ 
+ Estimated Real Estate FFO per diluted share 
+ 
+ 
+ 
+ $ 
+ 13.10 
+ 
+ 
+ 
+ 
+ $ 
+ 13.25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EARNINGS RELEASE 
+ 
+ 
+ Conference Call 
+ 
+ Simon will hold a conference call to discuss the quarterly financial results today from 5:00 p.m. to 6:00 p.m. Eastern Daylight Time, Monday, May 11, 2026. A live webcast of the conference call will be accessible in listen-only mode at investors.simon.com. An audio replay of the conference call will be available until May 18, 2026. To access the audio replay, dial 1-844-512-2921 (international + 1-412-317-6671 ) passcode 13760027. 
+ 
+ Supplemental Materials and Website 
+ 
+ Supplemental information on our first quarter 2026 performance is available at investors.simon.com. This information has also been furnished to the SEC in a current report on Form 8-K. 
+ We routinely post important information online on our investor relations website, investors.simon.com. We use this website, press releases, SEC filings, quarterly conference calls, presentations and webcasts to disclose material, non-public information in accordance with Regulation FD. We encourage members of the investment community to monitor these distribution channels for material disclosures. Any information accessed through our website is not incorporated by reference into, and is not a part of, this document. 
+ 
+ Non-GAAP Financial Measures 
+ 
+ This press release includes FFO, FFO per share, Real Estate FFO, Real Estate FFO per share and domestic and portfolio NOI growth which are financial performance measures not defined by generally accepted accounting principles in the United States ( GAAP ). Real estate FFO is FFO of the operating partnership less other platform investments and loss (gain) due to disposal, exchange, or revaluation of equity interests, in each case, net of tax; and unrealized losses (gains) in fair value of publicly traded equity instruments and derivative instrument, net. Reconciliations of these non-GAAP financial measures to the most directly comparable GAAP measures are included in Simon s supplemental information for the quarter. FFO and NOI growth are financial performance measures widely used in the REIT industry. Our definitions of these non-GAAP measures may not be the same as similar measures reported by other REITs. 
+ 
+ Forward-Looking Statements 
+ 
+ Certain statements made in this press release may be deemed forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Although Simon believes the expectations reflected in any forward-looking statements are based on reasonable assumptions, Simon can give no assurance that its expectations will be attained, and it is possible that Simon s actual results may differ materially from those indicated by these forward-looking statements due to a variety of risks, uncertainties and other factors. Such factors include, but are not limited to: the intensely competitive market environment in the retail real estate industry and the retail industry, including e-commerce; the inability to renew leases and relet vacant space at existing properties on favorable terms; the inability to collect rent due to the bankruptcy or insolvency of tenants or otherwise; the potential loss of anchor stores or major tenants; an increase in vacant space at our properties; the loss of key management personnel; changes in economic and market conditions that may adversely affect the general retail environment, including but not limited to those caused by inflation, the impact of tariffs and global trade disruptions on us to the extent impacting our tenants, recessionary pressures, wars, escalating geopolitical tensions as a result of the war in Ukraine and the conflicts in the Middle East, and supply chain disruptions; the potential for violence, civil unrest, criminal activity or terrorist activities at our properties; the availability of comprehensive insurance coverage; security breaches that could compromise our information technology or infrastructure; changes in market rates of 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EARNINGS RELEASE 
+ 
+ interest; our international activities subjecting us to risks that are different from or greater than those associated with our domestic operations, including changes in foreign exchange rates; the impact of our substantial indebtedness on our future operations, including covenants in the governing agreements that impose restrictions on us that may affect our ability to operate freely; any disruption in the financial markets that may adversely affect our ability to access capital for growth and satisfy our ongoing debt service requirements; any change in our credit rating; our continued ability to maintain our status as a REIT; changes in tax laws or regulations that result in adverse tax consequences; risks associated with the acquisition, development, redevelopment, expansion, leasing and management of properties; the inability to lease newly developed properties on favorable terms; risks relating to our joint venture properties, including guarantees of certain joint venture indebtedness; the effects of climate change; environmental liabilities; natural or other disasters; uncertainties regarding the impact of pandemics, epidemics or public health crises, and the associated governmental restrictions on our business, financial condition, results of operations, cash flow and liquidity; and general risks related to real estate investments, including the illiquidity of real estate investments. 
+ Simon discusses these and other risks and uncertainties under the heading Risk Factors in its annual and quarterly periodic reports filed with the SEC. Simon may update that discussion in subsequent other periodic reports, but except as required by law, Simon undertakes no duty or obligation to update or revise these forward-looking statements, whether as a result of new information, future developments, or otherwise. 
+ 
+ About Simon 
+ 
+ Simon is a real estate investment trust engaged in the ownership of premier shopping, dining, entertainment and mixed-use destinations and an S&P 100 company (Simon Property Group, NYSE: SPG). Our properties across North America, Europe and Asia provide community gathering places for millions of people every day and generate billions in annual sales. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EARNINGS RELEASE 
+ 
+ 
+ Simon Property Group, Inc. 
+ 
+ Unaudited Consolidated Statements of Operations (Dollars in thousands, except per share amounts) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Three Months 
+ 
+ Ended March 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REVENUE: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Lease income 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 1,628,532 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1,367,428 
+ 
+ 
+ 
+ 
+ 
+ 
+ Management fees and other revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 40,189 
+ 
+ 
+ 
+ 
+ 
+ 
+ 33,792 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other income 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 88,372 
+ 
+ 
+ 
+ 
+ 
+ 
+ 71,792 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,757,093 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,473,012 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXPENSES: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Property operating 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 170,760 
+ 
+ 
+ 
+ 
+ 
+ 
+ 136,821 
+ 
+ 
+ 
+ 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 458,898 
+ 
+ 
+ 
+ 
+ 
+ 
+ 328,051 
+ 
+ 
+ 
+ 
+ 
+ 
+ Real estate taxes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 135,960 
+ 
+ 
+ 
+ 
+ 
+ 
+ 107,452 
+ 
+ 
+ 
+ 
+ 
+ 
+ Repairs and maintenance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 40,200 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30,142 
+ 
+ 
+ 
+ 
+ 
+ 
+ Advertising and promotion 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 33,930 
+ 
+ 
+ 
+ 
+ 
+ 
+ 34,257 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home and regional office costs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 67,656 
+ 
+ 
+ 
+ 
+ 
+ 
+ 65,066 
+ 
+ 
+ 
+ 
+ 
+ 
+ General and administrative 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 54,299 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12,629 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 33,227 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30,978 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total operating expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 994,930 
+ 
+ 
+ 
+ 
+ 
+ 
+ 745,396 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OPERATING INCOME BEFORE OTHER ITEMS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 762,163 
+ 
+ 
+ 
+ 
+ 
+ 
+ 727,616 
+ 
+ 
+ 
+ 
+ 
+ Interest expense 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (275,662 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ (226,995 ) 
+ 
+ 
+ 
+ 
+ 
+ Loss due to disposal, exchange, or revaluation of equity interests, net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (6,379 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ (23,992 ) 
+ 
+ 
+ 
+ 
+ 
+ Income and other tax benefit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 19,934 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7,637 
+ 
+ 
+ 
+ 
+ 
+ (Loss) income from unconsolidated entities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (21,248 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30,359 
+ 
+ 
+ 
+ 
+ 
+ Unrealized gains (losses) in fair value of publicly traded equity instruments and derivative instrument, net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 25,388 
+ 
+ 
+ 
+ 
+ 
+ 
+ (36,765 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gain on acquisition of controlling interest, sale or disposal of, or recovery on, assets and interests in unconsolidated entities and impairment, net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 64,339 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CONSOLIDATED NET INCOME 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 568,535 
+ 
+ 
+ 
+ 
+ 
+ 
+ 477,860 
+ 
+ 
+ 
+ 
+ 
+ Net income attributable to noncontrolling interests 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 88,132 
+ 
+ 
+ 
+ 
+ 
+ 
+ 63,327 
+ 
+ 
+ 
+ 
+ 
+ Preferred dividends 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 834 
+ 
+ 
+ 
+ 
+ 
+ 
+ 834 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NET INCOME ATTRIBUTABLE TO COMMON STOCKHOLDERS 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 479,569 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 413,699 
+ 
+ 
+ 
+ 
+ 
+ 
+ BASIC AND DILUTED EARNINGS PER COMMON SHARE: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income attributable to common stockholders 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 1.48 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1.27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EARNINGS RELEASE 
+ 
+ 
+ Simon Property Group, Inc. 
+ 
+ Unaudited Consolidated Balance Sheets (Dollars in thousands, except share amounts) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ March 31, 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ASSETS: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Investment properties, at cost 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 50,936,227 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 50,946,067 
+ 
+ 
+ 
+ 
+ 
+ 
+ Less accumulated depreciation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 20,988,491 
+ 
+ 
+ 
+ 
+ 
+ 
+ 20,701,510 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 29,947,736 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30,244,557 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash and cash equivalents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 542,955 
+ 
+ 
+ 
+ 
+ 
+ 
+ 823,147 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tenant receivables and accrued revenue, net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 880,807 
+ 
+ 
+ 
+ 
+ 
+ 
+ 934,077 
+ 
+ 
+ 
+ 
+ 
+ 
+ Investment in other unconsolidated entities, at equity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4,196,012 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4,362,339 
+ 
+ 
+ 
+ 
+ 
+ 
+ Investment in Kl pierre, at equity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,363,615 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,505,377 
+ 
+ 
+ 
+ 
+ 
+ 
+ Right-of-use assets, net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 738,033 
+ 
+ 
+ 
+ 
+ 
+ 
+ 755,934 
+ 
+ 
+ 
+ 
+ 
+ 
+ Deferred costs and other assets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,969,923 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,981,035 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total assets 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 39,639,081 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 40,606,466 
+ 
+ 
+ 
+ 
+ 
+ 
+ LIABILITIES: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mortgages and unsecured indebtedness 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 28,247,682 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 28,430,175 
+ 
+ 
+ 
+ 
+ 
+ 
+ Accounts payable, accrued expenses, intangibles, and deferred revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,701,757 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,954,402 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash distributions and losses in unconsolidated entities, at equity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,791,354 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,739,418 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dividend payable 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,462 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,723 
+ 
+ 
+ 
+ 
+ 
+ 
+ Lease liabilities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 734,567 
+ 
+ 
+ 
+ 
+ 
+ 
+ 756,539 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other liabilities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 825,477 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,017,816 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total liabilities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 33,302,299 
+ 
+ 
+ 
+ 
+ 
+ 
+ 33,901,073 
+ 
+ 
+ 
+ 
+ 
+ Commitments and contingencies 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Limited partners preferred interest in the Operating Partnership and noncontrolling redeemable interests 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 264,251 
+ 
+ 
+ 
+ 
+ 
+ 
+ 233,306 
+ 
+ 
+ 
+ 
+ 
+ 
+ EQUITY: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stockholders Equity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capital stock (850,000,000 total shares authorized, $0.0001 par value, 238,000,000 shares of excess common stock, 100,000,000 authorized shares of preferred stock): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Series J 8 3/8% cumulative redeemable preferred stock, 1,000,000 shares authorized, 796,948 issued and outstanding with a liquidation value of $39,847 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 40,369 
+ 
+ 
+ 
+ 
+ 
+ 
+ 40,451 
+ 
+ 
+ 
+ 
+ 
+ 
+ Common stock, $0.0001 par value, 511,990,000 shares authorized, 343,060,687 and 343,060,687 issued and outstanding, respectively 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 33 
+ 
+ 
+ 
+ 
+ 
+ 
+ 33 
+ 
+ 
+ 
+ 
+ 
+ 
+ Class B common stock, $0.0001 par value, 10,000 shares authorized, 8,000 issued and outstanding 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capital in excess of par value 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12,411,236 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12,347,192 
+ 
+ 
+ 
+ 
+ 
+ 
+ Accumulated deficit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (4,875,676 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ (4,608,136 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Accumulated other comprehensive loss 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (227,770 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ (251,361 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Common stock held in treasury, at cost, 18,778,775 and 17,844,817 shares, respectively 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2,489,435 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2,319,911 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total stockholders equity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4,858,757 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5,208,268 
+ 
+ 
+ 
+ 
+ 
+ Noncontrolling interests 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,213,774 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,263,819 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total equity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6,072,531 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6,472,087 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total liabilities and equity 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 39,639,081 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 40,606,466 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EARNINGS RELEASE 
+ 
+ 
+ Simon Property Group, Inc. 
+ 
+ Unaudited Joint Venture Combined Statements of Operations (Dollars in thousands) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Three Months 
+ 
+ Ended March 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REVENUE: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Lease income 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 921,792 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 749,807 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other income 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 105,180 
+ 
+ 
+ 
+ 
+ 
+ 
+ 94,066 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,026,972 
+ 
+ 
+ 
+ 
+ 
+ 
+ 843,873 
+ 
+ 
+ 
+ 
+ 
+ 
+ OPERATING EXPENSES: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Property operating 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 214,941 
+ 
+ 
+ 
+ 
+ 
+ 
+ 166,647 
+ 
+ 
+ 
+ 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 185,164 
+ 
+ 
+ 
+ 
+ 
+ 
+ 159,012 
+ 
+ 
+ 
+ 
+ 
+ 
+ Real estate taxes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 66,398 
+ 
+ 
+ 
+ 
+ 
+ 
+ 58,793 
+ 
+ 
+ 
+ 
+ 
+ 
+ Repairs and maintenance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 26,281 
+ 
+ 
+ 
+ 
+ 
+ 
+ 20,763 
+ 
+ 
+ 
+ 
+ 
+ 
+ Advertising and promotion 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24,932 
+ 
+ 
+ 
+ 
+ 
+ 
+ 22,150 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 72,285 
+ 
+ 
+ 
+ 
+ 
+ 
+ 56,847 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total operating expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 590,001 
+ 
+ 
+ 
+ 
+ 
+ 
+ 484,212 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OPERATING INCOME BEFORE OTHER ITEMS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 436,971 
+ 
+ 
+ 
+ 
+ 
+ 
+ 359,661 
+ 
+ 
+ 
+ 
+ 
+ Interest expense 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (205,038 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ (170,368 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NET INCOME 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 231,933 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 189,293 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Third-Party Investors Share of Net Income 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 116,464 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 96,594 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Share of Net Income 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 115,469 
+ 
+ 
+ 
+ 
+ 
+ 
+ 92,699 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amortization of Excess Investment (A) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (47,657 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ (14,465 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income from Unconsolidated Entities (B) 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 67,812 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 78,234 
+ 
+ 
+ 
+ 
+ 
+ Note: 
+ 
+ The above financial presentation does not include any information related to our investments in Kl pierre S.A. ( Kl pierre ), our other platform investments, and our previously held equity investment in The Taubman Realty Group ( TRG ) up to the October 31, 2025 transaction. For additional information, see footnote B. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EARNINGS RELEASE 
+ 
+ 
+ Simon Property Group, Inc. 
+ 
+ Unaudited Joint Venture Combined Balance Sheets (Dollars in thousands) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ March 31, 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Assets: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Investment properties, at cost 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 21,425,679 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 22,077,749 
+ 
+ 
+ 
+ 
+ 
+ Less accumulated depreciation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9,907,158 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9,020,481 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11,518,521 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13,057,268 
+ 
+ 
+ 
+ 
+ 
+ Cash and cash equivalents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,498,298 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,264,619 
+ 
+ 
+ 
+ 
+ 
+ Tenant receivables and accrued revenue, net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 594,048 
+ 
+ 
+ 
+ 
+ 
+ 
+ 605,756 
+ 
+ 
+ 
+ 
+ 
+ Right-of-use assets, net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 115,191 
+ 
+ 
+ 
+ 
+ 
+ 
+ 108,349 
+ 
+ 
+ 
+ 
+ 
+ Deferred costs and other assets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 639,371 
+ 
+ 
+ 
+ 
+ 
+ 
+ 572,826 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total assets 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 14,365,429 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 15,608,818 
+ 
+ 
+ 
+ 
+ 
+ 
+ Liabilities and Partners Deficit: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mortgages 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 16,419,497 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 16,374,773 
+ 
+ 
+ 
+ 
+ 
+ Accounts payable, accrued expenses, intangibles, and deferred revenue 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,119,227 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,117,855 
+ 
+ 
+ 
+ 
+ 
+ Lease liabilities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 116,950 
+ 
+ 
+ 
+ 
+ 
+ 
+ 99,837 
+ 
+ 
+ 
+ 
+ 
+ Other liabilities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 389,828 
+ 
+ 
+ 
+ 
+ 
+ 
+ 334,246 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total liabilities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18,045,502 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17,926,711 
+ 
+ 
+ 
+ 
+ 
+ Preferred units 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 67,450 
+ 
+ 
+ 
+ 
+ 
+ 
+ 67,450 
+ 
+ 
+ 
+ 
+ 
+ Partners deficit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (3,747,524 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2,385,343 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total liabilities and partners deficit 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 14,365,429 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 15,608,818 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Share of: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Partners deficit 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ (1,635,892 ) 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ (1,247,554 ) 
+ 
+ 
+ 
+ 
+ 
+ Add: Excess Investment (A) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3,071,349 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,773,173 
+ 
+ 
+ 
+ 
+ 
+ Our net Investment in unconsolidated entities, at equity 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 1,435,457 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1,525,619 
+ 
+ 
+ 
+ 
+ 
+ Note: 
+ 
+ The above financial presentation does not include any information related to our investments in Kl pierre and our other platform investments. For additional information, see footnote B. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EARNINGS RELEASE 
+ 
+ 
+ Simon Property Group, Inc. 
+ 
+ Unaudited Reconciliation of Non-GAAP Financial Measures (C) (Amounts in thousands, except per share amounts) 
+ 
+ Reconciliation of Consolidated Net Income to FFO and Real Estate FFO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Three Months 
+ 
+ Ended March 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Consolidated Net Income (D) 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 568,535 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 477,860 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjustments to Arrive at FFO: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Depreciation and amortization from consolidated properties 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 454,779 
+ 
+ 
+ 
+ 
+ 
+ 
+ 324,322 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our share of depreciation and amortization from unconsolidated entities, including Kl pierre, TRG and other corporate investments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 161,608 
+ 
+ 
+ 
+ 
+ 
+ 
+ 208,964 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gain on acquisition of controlling interest, sale or disposal of, or recovery on, assets and interests in unconsolidated entities and impairment, net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (64,339 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net (gain) loss attributable to noncontrolling interest holders in properties 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (5,621 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,292 
+ 
+ 
+ 
+ 
+ 
+ 
+ Noncontrolling interests portion of depreciation and amortization 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (6,286 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ (5,993 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Preferred distributions and dividends 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1,032 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1,126 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FFO of the Operating Partnership (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 1,107,644 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1,005,319 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FFO of the Operating Partnership (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 1,107,644 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1,005,319 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loss due to disposal, exchange, or revaluation of equity interests, net of tax 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5,318 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17,994 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other platform investments, net of tax 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 120,382 
+ 
+ 
+ 
+ 
+ 
+ 
+ 52,843 
+ 
+ 
+ 
+ 
+ 
+ 
+ Unrealized (gains) losses in fair value of publicly traded equity instruments and derivative instrument, net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (25,388 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 36,765 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Real Estate FFO (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 1,207,956 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1,112,921 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted net income per share to diluted FFO per share reconciliation: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted net income per share 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 1.48 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1.27 
+ 
+ 
+ 
+ 
+ 
+ 
+ Depreciation and amortization from consolidated properties and our share of depreciation and amortization from unconsolidated entities, including Kl pierre, TRG and other corporate investments, net of noncontrolling interests portion of depreciation and amortization 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.40 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gain on acquisition of controlling interest, sale or disposal of, or recovery on, assets and interests in unconsolidated entities and impairment, net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (0.17 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted FFO per share (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 2.91 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 2.67 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loss due to disposal, exchange, or revaluation of equity interests, net of tax 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.02 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.05 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other platform investments, net of tax 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.13 
+ 
+ 
+ 
+ 
+ 
+ 
+ Unrealized (gains) losses in fair value of publicly traded equity instruments and derivative instrument, net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (0.07 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Real Estate FFO per share (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 3.17 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 2.95 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7.5 % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Details for per share calculations: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FFO of the Operating Partnership 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 1,107,644 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1,005,319 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted FFO allocable to unitholders 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (162,264 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ (135,284 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted FFO allocable to common stockholders 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 945,380 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 870,035 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Basic and Diluted weighted average shares outstanding 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 324,961 
+ 
+ 
+ 
+ 
+ 
+ 
+ 326,313 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Weighted average limited partnership units outstanding 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 55,776 
+ 
+ 
+ 
+ 
+ 
+ 
+ 50,740 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Basic and Diluted weighted average shares and units outstanding 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 380,737 
+ 
+ 
+ 
+ 
+ 
+ 
+ 377,053 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Basic and Diluted FFO per Share 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 2.91 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 2.67 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percent Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9.0 % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ FFO and Diluted FFO per share includes $40.0 million, or $0.10 per share, of accelerated stock compensation expense, of which $8.3 million, or $0.02 per share, is included in Real Estate FFO and Real Estate FFO per share and $31.7 million, or $0.08 per share, is included in Other platform investments, net of tax. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EARNINGS RELEASE 
+ 
+ 
+ Simon Property Group, Inc. 
+ 
+ Footnotes to Unaudited Financial Information 
+ 
+ Notes: 
+ 
+ (A) 
+ 
+ Excess investment represents the unamortized difference of our investment over equity in the underlying net assets of the related partnerships and joint ventures shown therein. The Company generally amortizes excess investment over the life of the related assets. 
+ 
+ (B) 
+ 
+ The Unaudited Joint Venture Combined Statements of Operations do not include any operations or our share of net income or excess investment amortization related to our investments in Kl pierre, our other platform investments and our previously held equity investment in TRG prior to the October 31, 2025 transaction. Amounts included in Footnote D below exclude our share of related activity for our investments in Kl pierre, our other platform investments and our previously held equity investment in TRG prior to the October 31, 2025 transaction. For further information on Kl pierre, reference should be made to financial information in Kl pierre s public filings and additional discussion and analysis in our Form 10-K. 
+ 
+ (C) 
+ 
+ This report contains measures of financial or operating performance that are not specifically defined by GAAP, including FFO, FFO per share, Real Estate FFO and Real Estate FFO per share. FFO is a performance measure that is standard in the REIT business. We believe FFO provides investors with additional information concerning our operating performance and a basis to compare our performance with those of other REITs. We also use these measures internally to monitor the operating performance of our portfolio. Our computation of these non-GAAP measures may not be the same as similar measures reported by other REITs. 
+ 
+ We determine FFO based upon the definition set forth by the National Association of Real Estate Investment Trusts ( NAREIT ) Funds From Operations White Paper 2018 Restatement. Our main business includes acquiring, owning, operating, developing, and redeveloping real estate in conjunction with the rental of retail real estate. Gains and losses of assets incidental to our main business are included in FFO. We determine FFO to be our share of consolidated net income computed in accordance with GAAP, excluding real estate related depreciation and amortization, excluding gains and losses from extraordinary items, excluding gains and losses from the sale, disposal or property insurance recoveries of, or any impairment related to, depreciable retail operating properties, plus the allocable portion of FFO of unconsolidated joint ventures based upon economic ownership interest, and all determined on a consistent basis in accordance with GAAP. However, you should understand that FFO does not represent cash flow from operations as defined by GAAP, should not be considered as an alternative to net income determined in accordance with GAAP as a measure of operating performance, and is not an alternative to cash flows as a measure of liquidity. 
+ (D) 
+ 
+ Includes our share of: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gain on land sales of $1.8 million and $0.0 million for the three months ended March 31, 2026 and 2025, respectively. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Straight-line adjustments increased income by $5.9 million and $2.2 million for the three months ended March 31, 2026 and 2025, respectively. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amortization of fair market value of leases increased income by $0.2 million and $0.3 million for the three months ended March 31, 2026 and 2025, respectively. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OVERVIEW 
+ 
+ 
+ THE COMPANY 
+ 
+ Simon Property Group, Inc. (NYSE:SPG) is a self-administered and self-managed real estate investment trust ( REIT ). Simon Property Group, L.P., or the Operating Partnership, is our majority-owned partnership subsidiary that owns all of our real estate properties and other assets. In this package, the terms Simon, we, our, or the Company refer to Simon Property Group, Inc., the Operating Partnership, and its subsidiaries. We own, develop and manage premier shopping, dining, entertainment and mixed-use destinations, which consist primarily of malls, Premium Outlets , The Mills , and International Properties. At March 31, 2026, we owned or had an interest in 254 properties comprising 206 million square feet in North America, Asia and Europe. Additionally, at March 31, 2026, we had a 20.7% ownership interest in Kl pierre, a publicly traded, Paris-based real estate company, which owns shopping centers in 13 European countries. 
+ This package was prepared to provide operational and balance sheet information as of March 31, 2026 for the Company and the Operating Partnership. 
+ Certain statements made in this Supplemental Package may be deemed forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Although we believe the expectations reflected in any forward-looking statements are based on reasonable assumptions, we can give no assurance that our expectations will be attained, and it is possible that our actual results may differ materially from those indicated by these forward-looking statements due to a variety of risks, uncertainties and other factors. Such factors include, but are not limited to: the intensely competitive market environment in the retail real estate industry and the retail industry, including e-commerce; the inability to renew leases and relet vacant space at existing properties on favorable terms; the inability to collect rent due to the bankruptcy or insolvency of tenants or otherwise; the potential loss of anchor stores or major tenants; an increase in vacant space at our properties; the loss of key management personnel; changes in economic and market conditions that may adversely affect the general retail environment, including but not limited to those caused by inflation, the impact of tariffs and global trade disruptions on us to the extent impacting our tenants, recessionary pressures, wars, escalating geopolitical tensions as a result of the war in Ukraine and the conflicts in the Middle East, and supply chain disruptions; the potential for violence, civil unrest, criminal activity or terrorist activities at our properties; the availability of comprehensive insurance coverage; security breaches that could compromise our information technology or infrastructure; changes in market rates of interest; our international activities subjecting us to risks that are different from or greater than those associated with our domestic operations, including changes in foreign exchange rates; the impact of our substantial indebtedness on our future operations, including covenants in the governing agreements that impose restrictions on us that may affect our ability to operate freely; any disruption in the financial markets that may adversely affect our ability to access capital for growth and satisfy our ongoing debt service requirements; any change in our credit rating; our continued ability to maintain our status as a REIT; changes in tax laws or regulations that result in adverse tax consequences; risks associated with the acquisition, development, redevelopment, expansion, leasing and management of properties; the inability to lease newly developed properties on favorable terms; risks relating to our joint venture properties, including guarantees of certain joint venture indebtedness; the effects of climate change; environmental liabilities; natural or other disasters; uncertainties regarding the impact of pandemics, epidemics or public health crises, and the associated governmental restrictions on our business, financial condition, results of operations, cash flow and liquidity; and general risks related to real estate investments, including the illiquidity of real estate investments. We discuss these and other risks and uncertainties under the heading Risk Factors in our annual and quarterly periodic reports filed with the SEC. We may update that discussion in subsequent other periodic reports, but, except as required by law, we undertake no duty or obligation to update or revise these forward-looking statements, whether as a result of new information, future developments, or otherwise. 
+ Any questions, comments or suggestions regarding this Supplemental Information should be directed to Tom Ward, Senior Vice President of Investor Relations (tom.ward@simon.com or 317.685.7330). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OVERVIEW 
+ 
+ 
+ STOCK INFORMATION 
+ 
+ The Company s common stock and one series of preferred stock are traded on the New York Stock Exchange under the following symbols: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Common Stock 
+ 
+ 
+ SPG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8.375% Series J Cumulative Redeemable Preferred 
+ 
+ 
+ SPGPrJ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CREDIT RATINGS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Standard & Poor s 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Corporate 
+ 
+ 
+ A 
+ 
+ 
+ (Stable Outlook) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Senior Unsecured 
+ 
+ 
+ A 
+ 
+ 
+ (Stable Outlook) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Commercial Paper 
+ 
+ 
+ A1 
+ 
+ 
+ (Stable Outlook) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Preferred Stock 
+ 
+ 
+ BBB+ 
+ 
+ 
+ (Stable Outlook) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Moody s 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Senior Unsecured 
+ 
+ 
+ A3 
+ 
+ 
+ (Stable Outlook) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Commercial Paper 
+ 
+ 
+ P2 
+ 
+ 
+ (Stable Outlook) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Preferred Stock 
+ 
+ 
+ Baa1 
+ 
+ 
+ (Stable Outlook) 
+ 
+ 
+ 
+ 
+ SENIOR UNSECURED DEBT COVENANTS (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Required 
+ 
+ 
+ 
+ 
+ 
+ 
+ Actual 
+ 
+ 
+ 
+ 
+ 
+ 
+ Compliance 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Debt to Total Assets (1) 
+ 
+ 
+ 
+ &le;65% 
+ 
+ 
+ 
+ 
+ 37% 
+ 
+ 
+ 
+ 
+ Yes 
+ 
+ 
+ 
+ 
+ 
+ Total Secured Debt to Total Assets (1) 
+ 
+ 
+ 
+ &le;50% 
+ 
+ 
+ 
+ 
+ 16% 
+ 
+ 
+ 
+ 
+ Yes 
+ 
+ 
+ 
+ 
+ 
+ Fixed Charge Coverage Ratio 
+ 
+ 
+ 
+ &gt;1.5X 
+ 
+ 
+ 
+ 
+ 4.6X 
+ 
+ 
+ 
+ 
+ Yes 
+ 
+ 
+ 
+ 
+ 
+ Total Unencumbered Assets to Unsecured Debt 
+ 
+ 
+ 
+ &ge;125% 
+ 
+ 
+ 
+ 
+ 305% 
+ 
+ 
+ 
+ 
+ Yes 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ Covenants for indentures dated June 7, 2005 and later. Total Assets are calculated in accordance with the indenture and essentially represent net operating income (NOI) divided by a 7.0% capitalization rate plus the value of other assets at cost. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SELECTED FINANCIAL AND EQUITY INFORMATION (In thousands, except as noted) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ THREE MONTHS ENDED 
+ 
+ MARCH 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Financial Highlights 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Revenue Consolidated Properties 
+ 
+ 
+ 
+ 
+ $ 
+ 1,757,093 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1,473,012 
+ 
+ 
+ 
+ 
+ 
+ 
+ Consolidated Net Income 
+ 
+ 
+ 
+ 
+ $ 
+ 568,535 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 477,860 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Income Attributable to Common Stockholders 
+ 
+ 
+ 
+ 
+ $ 
+ 479,569 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 413,699 
+ 
+ 
+ 
+ 
+ 
+ 
+ Basic and Diluted Earnings per Common Share (EPS) 
+ 
+ 
+ 
+ 
+ $ 
+ 1.48 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1.27 
+ 
+ 
+ 
+ 
+ 
+ 
+ Real Estate Funds from Operations (Real Estate FFO) of the Operating Partnership 
+ 
+ 
+ 
+ 
+ $ 
+ 1,207,956 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1,112,921 
+ 
+ 
+ 
+ 
+ 
+ 
+ Basic and Diluted Real Estate FFO per Share 
+ 
+ 
+ 
+ 
+ $ 
+ 3.17 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 2.95 
+ 
+ 
+ 
+ 
+ 
+ 
+ Funds from Operations (FFO) of the Operating Partnership 
+ 
+ 
+ 
+ 
+ $ 
+ 1,107,644 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1,005,319 
+ 
+ 
+ 
+ 
+ 
+ 
+ Basic and Diluted FFO per Share (FFOPS) 
+ 
+ 
+ 
+ 
+ $ 
+ 2.91 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 2.67 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dividends/Distributions per Share/Unit 
+ 
+ 
+ 
+ 
+ $ 
+ 2.20 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 2.10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AS OF 
+ 
+ MARCH 31, 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ AS OF 
+ 
+ DECEMBER 31, 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stockholders Equity Information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Limited Partners Units Outstanding at end of period 
+ 
+ 
+ 
+ 
+ 
+ 56,064 
+ 
+ 
+ 
+ 
+ 
+ 
+ 55,690 
+ 
+ 
+ 
+ 
+ 
+ 
+ Common Shares Outstanding at end of period 
+ 
+ 
+ 
+ 
+ 
+ 324,290 
+ 
+ 
+ 
+ 
+ 
+ 
+ 325,224 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Common Shares and Limited Partnership Units Outstanding at end of period 
+ 
+ 
+ 
+ 
+ 
+ 380,354 
+ 
+ 
+ 
+ 
+ 
+ 
+ 380,914 
+ 
+ 
+ 
+ 
+ 
+ 
+ Weighted Average Limited Partnership Units Outstanding 
+ 
+ 
+ 
+ 
+ 
+ 55,776 
+ 
+ 
+ 
+ 
+ 
+ 
+ 51,558 
+ 
+ 
+ 
+ 
+ 
+ 
+ Weighted Average Common Shares Outstanding: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Basic and Diluted for purposes of EPS and FFOPS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 324,961 
+ 
+ 
+ 
+ 
+ 
+ 
+ 326,367 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Equity Market Capitalization 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Common Stock Price at end of period 
+ 
+ 
+ 
+ 
+ $ 
+ 186.53 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 185.11 
+ 
+ 
+ 
+ 
+ 
+ 
+ Common Equity Capitalization, including Limited Partnership Units 
+ 
+ 
+ 
+ 
+ $ 
+ 70,947,407 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 70,510,913 
+ 
+ 
+ 
+ 
+ 
+ 
+ Preferred Equity Capitalization, including Limited Partnership Preferred Units 
+ 
+ 
+ 
+ 
+ 
+ 53,047 
+ 
+ 
+ 
+ 
+ 
+ 
+ 52,935 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Equity Market Capitalization 
+ 
+ 
+ 
+ 
+ $ 
+ 71,000,454 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 70,563,848 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Operating Income (NOI) Composition (1) For the Three Months Ended March 31, 2026 
+ 
+ 
+ 
+ (1) 
+ 
+ Based on our beneficial interest of NOI. 
+ 
+ (2) 
+ 
+ Includes Kl pierre, international Premium Outlets, Designer Outlets, The Mall Luxury Outlets, and international malls. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Operating Income Overview (AT SHARE) (In thousands) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FOR THE THREE MONTHS 
+ 
+ ENDED MARCH 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Growth 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Domestic Property NOI (1) 
+ 
+ 
+ 
+ 
+ $ 
+ 1,479,324 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1,386,231 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.7 
+ % 
+ 
+ 
+ 
+ 
+ 
+ International Properties (2) 
+ 
+ 
+ 
+ 
+ 91,404 
+ 
+ 
+ 
+ 
+ 
+ 
+ 86,476 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Portfolio NOI 
+ 
+ 
+ 
+ 
+ $ 
+ 1,570,728 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1,472,707 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.7 
+ % 
+ 
+ 
+ 
+ 
+ 
+ NOI from Other Platform Investments (3) 
+ 
+ 
+ 
+ 
+ (84,135 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ (41,461 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NOI from Investments (4) 
+ 
+ 
+ 
+ 
+ 56,147 
+ 
+ 
+ 
+ 
+ 
+ 
+ 59,017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Corporate and Other NOI Sources (5) 
+ 
+ 
+ 
+ 
+ 51,042 
+ 
+ 
+ 
+ 
+ 
+ 
+ 31,962 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Beneficial interest of Combined NOI 
+ 
+ 
+ 
+ 
+ $ 
+ 1,593,782 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1,522,225 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.7 
+ % 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ All properties in North America (including 4 in Canada and 2 in Mexico). 
+ 
+ (2) 
+ 
+ International properties outside of North America at constant currency. 
+ 
+ (3) 
+ 
+ Includes investment in retail operations (Catalyst Brands); an e-commerce company (Rue Gilt Groupe, or RGG); and a global real estate investment and management company (Jamestown). 
+ 
+ (4) 
+ 
+ NOI of Kl pierre at constant currency and HBS. 
+ 
+ (5) 
+ 
+ Includes income components excluded from Domestic Property NOI and Portfolio NOI including domestic lease termination income, interest income, land sale gains, straight line lease income, above/below market lease adjustments, Simon management company revenues, foreign exchange impact, and other assets. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RECONCILIATIONS OF NON-GAAP FINANCIAL MEASURES 
+ 
+ (In thousands, except as noted) 
+ 
+ 
+ RECONCILIATION OF NET INCOME TO NOI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ THREE MONTHS ENDED 
+ 
+ MARCH 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reconciliation of NOI of consolidated entities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Consolidated Net Income 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 568,535 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 477,860 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income and other tax benefit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (19,934 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (7,637 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loss due to disposal, exchange, or revaluation of equity interests, net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6,379 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 23,992 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest expense 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 275,662 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 226,995 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loss (income) from unconsolidated entities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 21,248 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (30,359 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Unrealized (gains) losses in fair value of publicly traded equity instruments and derivative instrument, net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (25,388 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 36,765 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gain on acquisition of controlling interest, sale or disposal of, or recovery on, assets and interests in unconsolidated entities and impairment, net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (64,339 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating Income Before Other Items 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 762,163 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 727,616 
+ 
+ 
+ 
+ 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 458,898 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 328,051 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home and regional office costs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 67,656 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 65,066 
+ 
+ 
+ 
+ 
+ 
+ 
+ General and administrative 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 54,299 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12,629 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NOI of consolidated entities 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 1,343,028 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1,133,362 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Less: Noncontrolling interest partners share of NOI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (17,052 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (7,384 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Beneficial NOI of consolidated entities (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 1,325,976 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1,125,978 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reconciliation of NOI of unconsolidated entities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Income 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 231,933 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 189,293 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest expense 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 205,038 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 170,368 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating Income Before Other Items 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 436,971 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 359,661 
+ 
+ 
+ 
+ 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 185,164 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 159,012 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NOI of unconsolidated entities 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 622,147 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 518,673 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Less: Joint Venture partners share of NOI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (326,353 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (270,758 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Beneficial NOI of unconsolidated entities (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 295,794 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 247,915 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Add: Beneficial interest of NOI from TRG ( 2 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 136,403 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Add: Beneficial interest of NOI from Other Platform Investments and Investments ( 3 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (27,988 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11,929 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Beneficial interest of Combined NOI 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 1,593,782 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1,522,225 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ Net Income and those adjustments following to arrive at beneficial interest in NOI includes amounts for TRG assets for periods post October 31, 2025 transaction. 
+ 
+ (2) 
+ 
+ Beneficial interest of NOI from TRG prior to the October 31, 2025 transaction. 
+ 
+ (3) 
+ 
+ See footnotes 3 and 4 on prior page. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RECONCILIATIONS OF NON-GAAP FINANCIAL MEASURES 
+ 
+ (In thousands, except as noted) 
+ 
+ 
+ RECONCILIATION OF FFO OF THE OPERATING PARTNERSHIP TO FUNDS AVAILABLE FOR DISTRIBUTION (OUR SHARE) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ THREE 
+ 
+ MONTHS ENDED 
+ 
+ MARCH 31, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FFO of the Operating Partnership 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1,107,644 
+ 
+ 
+ 
+ 
+ 
+ 
+ Non-cash impacts to FFO (1) 
+ 
+ 
+ 
+ 
+ 45,845 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FFO of the Operating Partnership excluding non-cash impacts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,153,489 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tenant allowances 
+ 
+ 
+ 
+ 
+ (54,206 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operational capital expenditures 
+ 
+ 
+ 
+ 
+ (39,970 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Funds available for distribution 
+ 
+ 
+ 
+ 
+ $ 
+ 1,059,313 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ Non-cash impacts to FFO of the Operating Partnership include: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ THREE 
+ 
+ MONTHS ENDED 
+ 
+ MARCH 31, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ Deductions: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fair market value of lease amortization 
+ 
+ 
+ 
+ 
+ 
+ (239 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Straight line lease income 
+ 
+ 
+ 
+ 
+ 
+ (5,882 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Unrealized gains in fair value of publicly traded equity instruments and derivative instrument, net 
+ 
+ 
+ 
+ 
+ 
+ (25,388 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Additions: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stock based compensation expense 
+ 
+ 
+ 
+ 
+ 
+ 57,605 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Write-off of pre-development costs 
+ 
+ 
+ 
+ 
+ 
+ 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fair value of debt amortization 
+ 
+ 
+ 
+ 
+ 
+ 8,189 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mortgage, financing fee, accretion interest, and terminated swap amortization expense 
+ 
+ 
+ 
+ 
+ 
+ 11,542 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 45,845 
+ 
+ 
+ 
+ 
+ 
+ This report contains measures of financial or operating performance that are not specifically defined by generally accepted accounting principles (GAAP) in the United States, including FFO, FFO per share, Real Estate FFO, Real Estate FFO per share, funds available for distribution, net operating income (NOI), domestic property NOI and portfolio NOI. FFO and NOI are performance measures that are standard in the REIT business. We believe FFO, Real Estate FFO and NOI provide investors with additional information concerning our operating performance and a basis to compare our performance with the performance of other REITs. We also use these measures internally to monitor the operating performance of our portfolio. Our computation of these non-GAAP measures may not be the same as similar measures reported by other REITs. 
+ The non-GAAP financial measures used in this report should not be considered as alternatives to net income as a measure of our operating performance or to cash flows computed in accordance with GAAP as a measure of liquidity nor are they indicative of cash flows from operating and financial activities. Reconciliations of other non-GAAP measures used in this report to the most-directly comparable GAAP measure are included in the tables on Reconciliations of Non-GAAP Financial Measures and in the Earnings Release for the latest period. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LEASE INCOME, OTHER INCOME, OTHER EXPENSE, INCOME FROM 
+ 
+ UNCONSOLIDATED ENTITIES, AND CAPITALIZED INTEREST 
+ 
+ (In thousands) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ THREE MONTHS ENDED 
+ 
+ MARCH 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Consolidated Properties 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Lease Income 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fixed lease income (1) 
+ 
+ 
+ 
+ 
+ $ 
+ 1,315,733 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1,124,114 
+ 
+ 
+ 
+ 
+ 
+ 
+ Variable lease income (2) 
+ 
+ 
+ 
+ 
+ 
+ 312,799 
+ 
+ 
+ 
+ 
+ 
+ 
+ 243,314 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Lease Income 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1,628,532 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1,367,428 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other Income 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest, dividend and distribution income (3) 
+ 
+ 
+ 
+ 
+ $ 
+ 12,716 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 22,904 
+ 
+ 
+ 
+ 
+ 
+ 
+ Lease settlement income 
+ 
+ 
+ 
+ 
+ 
+ 6,186 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,355 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gains on land sales 
+ 
+ 
+ 
+ 
+ 
+ 1,815 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mixed-use and franchise operations income 
+ 
+ 
+ 
+ 
+ 
+ 15,479 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11,226 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other (4) 
+ 
+ 
+ 
+ 
+ 
+ 52,176 
+ 
+ 
+ 
+ 
+ 
+ 
+ 36,307 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Other Income 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 88,372 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 71,792 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other Expense 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ground leases 
+ 
+ 
+ 
+ 
+ $ 
+ 16,440 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 12,270 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mixed-use and franchise operations expense 
+ 
+ 
+ 
+ 
+ 
+ 9,283 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9,231 
+ 
+ 
+ 
+ 
+ 
+ 
+ Professional fees and other 
+ 
+ 
+ 
+ 
+ 
+ 7,504 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9,477 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Other Expense 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 33,227 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 30,978 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Loss) Income from Unconsolidated Entities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share of Joint Ventures (5) 
+ 
+ 
+ 
+ 
+ $ 
+ 67,812 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 78,234 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share of Kl pierre net income, net of amortization of excess investment 
+ 
+ 
+ 
+ 
+ 
+ 20,226 
+ 
+ 
+ 
+ 
+ 
+ 
+ 19,267 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share of Other Platform Investments net loss, net of amortization of excess investment, pre-tax 
+ 
+ 
+ 
+ 
+ 
+ (109,286 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ (60,775 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share of TRG net loss including amortization of excess investment (6) 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ (6,367 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total (Loss) Income from Unconsolidated Entities 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ (21,248 ) 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 30,359 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capitalized Interest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Share of Consolidated Properties 
+ 
+ 
+ 
+ 
+ $ 
+ 7,291 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 8,999 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Share of Joint Venture Properties 
+ 
+ 
+ 
+ 
+ $ 
+ 209 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 70 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ Fixed lease income under our operating leases includes fixed minimum lease consideration and fixed CAM reimbursements recorded on a straight-line basis. 
+ 
+ (2) 
+ 
+ Variable lease income primarily includes consideration based on sales, as well as reimbursements for real estate taxes, utilities, and marketing. 
+ 
+ (3) 
+ 
+ Includes distributions from other international investments and preferred unit distributions from TRG for the three months ended March 31, 2025. 
+ 
+ (4) 
+ 
+ Includes ancillary property revenues, marketing, media, parking and sponsorship revenues, gains on sale of non-retail real estate investments, non-real estate investments, insurance proceeds from business interruption and other miscellaneous income items. 
+ 
+ (5) 
+ 
+ Includes U.S. joint venture operations and international joint ventures. 
+ 
+ (6) 
+ 
+ Includes Share of TRG net loss including amortization of excess investment for the three months ended March 31, 2025. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OPERATING INFORMATION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AS OF MARCH 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ U.S. Malls and Premium Outlets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Number of Properties 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 177 
+ 
+ 
+ 
+ 
+ 
+ 
+ 162 
+ 
+ 
+ 
+ 
+ 
+ Total Square Footage of Properties (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 150.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 136.1 
+ 
+ 
+ 
+ 
+ 
+ Ending Occupancy (1) : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Consolidated Assets 
+ 
+ 
+ 
+ 
+ 
+ 95.9% 
+ 
+ 
+ 
+ 
+ 
+ 95.9% 
+ 
+ 
+ 
+ 
+ 
+ 
+ Unconsolidated Assets 
+ 
+ 
+ 
+ 
+ 
+ 96.0% 
+ 
+ 
+ 
+ 
+ 
+ 96.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Portfolio 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 96.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 95.9% 
+ 
+ 
+ 
+ 
+ 
+ Base Minimum Rent PSF (2) : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Consolidated Assets 
+ 
+ 
+ 
+ 
+ $ 
+ 59.82 
+ 
+ 
+ 
+ 
+ $ 
+ 57.13 
+ 
+ 
+ 
+ 
+ 
+ 
+ Unconsolidated Assets 
+ 
+ 
+ 
+ 
+ $ 
+ 67.99 
+ 
+ 
+ 
+ 
+ $ 
+ 64.24 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Portfolio 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 61.99 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 58.92 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Mills 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Number of Properties 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ 
+ 
+ Total Square Footage of Properties (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 21.3 
+ 
+ 
+ 
+ 
+ 
+ Ending Occupancy (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 99.2% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 98.4% 
+ 
+ 
+ 
+ 
+ 
+ Base Minimum Rent PSF (2) 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 41.90 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 38.41 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AS OF MARCH 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ International Properties 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Premium Outlets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Number of Properties 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24 
+ 
+ 
+ 
+ 
+ 
+ Total Square Footage of Properties (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ Designer Outlets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Number of Properties 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 
+ 
+ Total Square Footage of Properties (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Mall Luxury Outlets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Number of Properties 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ Total Square Footage of Properties (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ Malls 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Number of Properties 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ Total Square Footage of Properties (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ Ending Occupancy is the percentage of total owned square footage (GLA) which is leased as of the last day of the reporting period. We include all company owned space except for mall anchors, mall majors, mall freestanding and mall outlots in the calculation. 
+ 
+ (2) 
+ 
+ Base Minimum Rent PSF is the average base minimum rent charge in effect for the reporting period for all tenants that would qualify to be included in Ending Occupancy as defined above. 
+ 
+ (3) 
+ 
+ See footnote 1 for definition, except Ending Occupancy is calculated on all company owned space. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ U.S. MALLS AND PREMIUM OUTLETS LEASE EXPIRATIONS (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year 
+ 
+ 
+ 
+ 
+ 
+ 
+ Number of 
+ 
+ Leases 
+ 
+ Expiring 
+ 
+ 
+ 
+ 
+ 
+ 
+ Square Feet 
+ 
+ 
+ 
+ 
+ 
+ 
+ Avg. Base 
+ 
+ Minimum 
+ 
+ Rent PSF 
+ 
+ at Expiration (2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percentage of 
+ 
+ Gross Annual 
+ 
+ Rental 
+ 
+ Revenues (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Inline Stores and Freestanding 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Month to Month Leases 
+ 
+ 
+ 
+ 
+ 1,607 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6,086,666 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 57.52 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.1 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2026 (4/1/26 12/31/26) 
+ 
+ 
+ 
+ 
+ 1,180 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3,514,824 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 63.25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.2 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2027 
+ 
+ 
+ 
+ 
+ 3,095 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11,183,112 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 60.36 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9.8 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2028 
+ 
+ 
+ 
+ 
+ 2,678 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10,832,553 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 64.91 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10.4 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2029 
+ 
+ 
+ 
+ 
+ 2,403 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9,549,873 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 63.75 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8.9 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2030 
+ 
+ 
+ 
+ 
+ 1,542 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6,783,648 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 75.65 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7.4 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2031 
+ 
+ 
+ 
+ 
+ 900 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4,294,039 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 71.63 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.5 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2032 
+ 
+ 
+ 
+ 
+ 670 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,541,824 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 92.54 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.4 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2033 
+ 
+ 
+ 
+ 
+ 734 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,962,820 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 96.11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.2 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2034 
+ 
+ 
+ 
+ 
+ 790 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3,102,960 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 97.40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.4 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2035 
+ 
+ 
+ 
+ 
+ 890 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4,092,386 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 100.99 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.9 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2036 
+ 
+ 
+ 
+ 
+ 266 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,481,477 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 81.59 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.8 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2037 and Thereafter 
+ 
+ 
+ 
+ 
+ 719 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3,443,803 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 61.98 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.4 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Specialty Leasing Agreements w/ terms in excess of 12 months 
+ 
+ 
+ 
+ 
+ 2,263 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6,454,172 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 18.23 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.7 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ Anchors 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 (4/1/26 12/31/26) 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 359,494 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 17.89 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.0 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2027 
+ 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,259,233 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 4.75 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.1 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2028 
+ 
+ 
+ 
+ 
+ 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,325,205 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 5.20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.2 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2029 
+ 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,698,901 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 6.59 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.2 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2030 
+ 
+ 
+ 
+ 
+ 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,087,074 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 6.70 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.2 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2031 
+ 
+ 
+ 
+ 
+ 19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,071,199 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 5.63 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.2 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2032 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 784,142 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 13.34 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.2 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2033 
+ 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,028,383 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 8.48 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.1 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2034 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 417,573 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 21.82 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.1 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2035 
+ 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 980,850 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 12.77 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.1 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2036 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 165,125 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 34.82 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.0 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2037 and Thereafter 
+ 
+ 
+ 
+ 
+ 27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,872,554 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 15.04 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.5 
+ % 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ Does not consider the impact of renewal options that may be contained in leases. 
+ 
+ (2) 
+ 
+ Average Base Minimum Rent psf reflects base minimum rent in the respective year of expiration. 
+ 
+ (3) 
+ 
+ Annual rental revenues represent 2025 consolidated and joint venture combined base rental revenue. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ U.S. MALLS AND PREMIUM OUTLETS TOP TENANTS 
+ 
+ 
+ Top Inline Store Tenants (sorted by percentage of total base minimum rent for U.S. properties) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tenant 
+ 
+ 
+ 
+ 
+ 
+ 
+ Number 
+ 
+ of 
+ 
+ Stores 
+ 
+ 
+ 
+ 
+ 
+ 
+ Square 
+ 
+ Feet 
+ 
+ (000 s) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percent of 
+ 
+ Total Sq. Ft. in 
+ 
+ U.S. Properties 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percent of Total 
+ 
+ Base Minimum Rent 
+ 
+ for U.S. Properties 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Gap 
+ 
+ 
+ 
+ 
+ 313 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3,273 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.7 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2.6 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Knitwell Group 
+ 
+ 
+ 
+ 
+ 445 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,033 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.1 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 1.6 
+ % 
+ 
+ 
+ 
+ 
+ 
+ LVMH Fashion 
+ 
+ 
+ 
+ 
+ 149 
+ 
+ 
+ 
+ 
+ 
+ 
+ 600 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.3 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 1.6 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Tapestry 
+ 
+ 
+ 
+ 
+ 216 
+ 
+ 
+ 
+ 
+ 
+ 
+ 933 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.5 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 1.6 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Kering 
+ 
+ 
+ 
+ 
+ 101 
+ 
+ 
+ 
+ 
+ 
+ 
+ 464 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.2 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 1.5 
+ % 
+ 
+ 
+ 
+ 
+ 
+ American Eagle Outfitters 
+ 
+ 
+ 
+ 
+ 242 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,542 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.8 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 1.5 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Signet Jewelers 
+ 
+ 
+ 
+ 
+ 342 
+ 
+ 
+ 
+ 
+ 
+ 
+ 498 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.3 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 1.4 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Victoria s Secret & Co. 
+ 
+ 
+ 
+ 
+ 136 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,183 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.6 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 1.3 
+ % 
+ 
+ 
+ 
+ 
+ 
+ VF Corporation 
+ 
+ 
+ 
+ 
+ 223 
+ 
+ 
+ 
+ 
+ 
+ 
+ 965 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.5 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 1.2 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Luxottica Group 
+ 
+ 
+ 
+ 
+ 403 
+ 
+ 
+ 
+ 
+ 
+ 
+ 707 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.4 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 1.2 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Top Anchors (sorted by percentage of total square footage in U.S. properties) (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tenant 
+ 
+ 
+ 
+ 
+ 
+ 
+ Number 
+ 
+ of 
+ 
+ Stores 
+ 
+ 
+ 
+ 
+ 
+ 
+ Square 
+ 
+ Feet 
+ 
+ (000 s) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percent of 
+ 
+ Total Sq. Ft. in 
+ 
+ U.S. Properties 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percent of Total 
+ 
+ Base Minimum Rent 
+ 
+ for U.S. Properties 
+ 
+ 
+ 
+ 
+ 
+ 
+ Macy s 
+ 
+ 
+ 
+ 
+ 112 
+ 
+ 
+ 
+ 
+ 
+ 
+ 21,977 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11.7 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 0.3 
+ % 
+ 
+ 
+ 
+ 
+ 
+ J.C. Penney 
+ 
+ 
+ 
+ 
+ 54 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8,863 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.7 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 0.2 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Dillard s 
+ 
+ 
+ 
+ 
+ 36 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6,709 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.6 
+ % 
+ 
+ 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ 
+ 
+ Nordstrom 
+ 
+ 
+ 
+ 
+ 30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5,049 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.7 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 0.1 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Dick s Sporting Goods 
+ 
+ 
+ 
+ 
+ 44 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3,746 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.0 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 0.7 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Saks Global 
+ 
+ 
+ 
+ 
+ 27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,985 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.6 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 0.2 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Belk 
+ 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,194 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.6 
+ % 
+ 
+ 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ 
+ 
+ Target 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,048 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.6 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 0.1 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Von Maur 
+ 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 892 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.5 
+ % 
+ 
+ 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ 
+ 
+ Primark 
+ 
+ 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 744 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.4 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 0.2 
+ % 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ Includes space leased and owned by anchors in U.S. Malls; does not include Bloomingdale s The Outlet Store, Neiman Marcus Last Call, Nordstrom Rack, and Saks Fifth Avenue Off 5th. 
+ 
+ * 
+ 
+ Less than one-tenth of one percent. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CAPITAL EXPENDITURES (In thousands) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ UNCONSOLIDATED 
+ 
+ PROPERTIES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CONSOLIDATED 
+ 
+ PROPERTIES 
+ 
+ 
+ 
+ 
+ 
+ 
+ TOTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUR 
+ 
+ SHARE 
+ 
+ 
+ 
+ 
+ 
+ 
+ New development projects 
+ 
+ 
+ 
+ $ 
+ 2,119 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 751 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 376 
+ 
+ 
+ 
+ 
+ 
+ 
+ Redevelopment projects with incremental square footage and/or anchor replacement 
+ 
+ 
+ 
+ 
+ 55,746 
+ 
+ 
+ 
+ 
+ 
+ 
+ 37,050 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18,240 
+ 
+ 
+ 
+ 
+ 
+ 
+ Redevelopment projects with no incremental square footage 
+ 
+ 
+ 
+ 
+ 24,568 
+ 
+ 
+ 
+ 
+ 
+ 
+ 659 
+ 
+ 
+ 
+ 
+ 
+ 
+ 332 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Subtotal new development and redevelopment projects 
+ 
+ 
+ 
+ 
+ 
+ 
+ 82,433 
+ 
+ 
+ 
+ 
+ 
+ 
+ 38,460 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18,948 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tenant allowances 
+ 
+ 
+ 
+ 
+ 40,492 
+ 
+ 
+ 
+ 
+ 
+ 
+ 27,247 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13,714 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operational capital expenditures (CAM and non-CAM) 
+ 
+ 
+ 
+ 
+ 27,961 
+ 
+ 
+ 
+ 
+ 
+ 
+ 26,618 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12,009 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Totals 
+ 
+ 
+ 
+ 
+ $ 
+ 150,886 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 92,325 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 44,671 
+ 
+ 
+ 
+ 
+ 
+ 
+ Conversion from accrual to cash basis 
+ 
+ 
+ 
+ 
+ 57,510 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17,143 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8,294 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capital Expenditures for the Three Months Ended 3/31/26 (1) 
+ 
+ 
+ 
+ 
+ $ 
+ 208,396 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 109,468 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 52,965 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capital Expenditures for the Three Months Ended 3/31/25 (1) 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 230,201 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 125,980 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 59,653 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ Agrees with the line item Capital expenditures on the Combined Statements of Cash Flows for the consolidated properties. No statement of cash flows is prepared for the joint venture properties; however, the above reconciliation was completed in the same manner as the reconciliation for the consolidated properties. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 23 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEVELOPMENT ACTIVITY SUMMARY 
+ 
+ As of March 31, 2026 (in thousands, except percent) 
+ 
+ 
+ 
+ 
+ 
+ 
+ PLATFORM 
+ 
+ PROJECT TYPE 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUR SHARE 
+ 
+ OF NET 
+ 
+ INVESTMENT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXPECTED 
+ 
+ STABILIZED 
+ 
+ RATE OF 
+ 
+ RETURN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ACTUAL 2026 
+ 
+ INVESTMENT 
+ 
+ THRU Q1 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FORECASTED 
+ 
+ INVESTMENT 
+ 
+ Q2 - Q4 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FORECASTED 
+ 
+ INVESTMENT 
+ 
+ FY 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FORECASTED 
+ 
+ INVESTMENT 
+ 
+ FY 2027 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TOTAL 
+ 
+ FORECASTED 
+ 
+ INVESTMENT 
+ 
+ FY 2026 - 2027 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Malls and Premium Outlets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Redevelopments 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1,051,143 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ % 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 93,609 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 325,442 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 419,051 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 189,731 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 608,782 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Mills 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Redevelopments 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 9,395 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16 
+ % 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 152 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1,375 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1,527 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 7,400 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 8,927 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Investment 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1,060,538 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9 
+ % 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 93,761 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 326,817 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 420,578 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 197,131 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 617,709 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Less funding from: Construction Loans, International JV Cash on hand, etc. 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ (177,524 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ (11,019 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ (57,571 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ (68,590 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ (50,509 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ (119,099 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Net Cash Investment 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 883,014 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 82,742 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 269,246 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 351,988 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 146,622 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 498,610 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COMMON AND PREFERRED STOCK INFORMATION 
+ 
+ 
+ CHANGES IN COMMON SHARE AND LIMITED PARTNERSHIP UNIT OWNERSHIP 
+ 
+ For the Period December 31, 2025 through March 31, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COMMON 
+ 
+ SHARES (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ LIMITED 
+ 
+ PARTNERSHIP 
+ 
+ UNITS (2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Number Outstanding at December 31, 2025 
+ 
+ 
+ 
+ 
+ 
+ 325,223,870 
+ 
+ 
+ 
+ 
+ 
+ 
+ 55,689,714 
+ 
+ 
+ 
+ 
+ 
+ 
+ Activity During the First Three Months of 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Redemption of Limited Partnership Units for Cash 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ (6,100 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Restricted Stock/Restricted Stock Unit Awards and Long-Term Incentive Performance (LTIP) Units Earned (3) 
+ 
+ 
+ 
+ 
+ 43,097 
+ 
+ 
+ 
+ 
+ 
+ 
+ 380,344 
+ 
+ 
+ 
+ 
+ 
+ 
+ Shares Repurchased to Satisfy Employee Tax Obligations 
+ 
+ 
+ 
+ 
+ (11,759 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ Repurchase of Simon Property Group Common Stock in open market 
+ 
+ 
+ 
+ 
+ (965,296 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Number Outstanding at March 31, 2026 
+ 
+ 
+ 
+ 
+ 
+ 324,289,912 
+ 
+ 
+ 
+ 
+ 
+ 
+ 56,063,958 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Number of Limited Partnership Units and Common Shares at March 31, 2026 
+ 
+ 
+ 
+ 
+ 
+ 380,353,870 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PREFERRED STOCK/UNITS OUTSTANDING AS OF MARCH 31, 2026 ($ in 000 s, except per share amounts) 
+ 
+ 
+ 
+ 
+ 
+ ISSUER 
+ 
+ 
+ 
+ 
+ 
+ 
+ DESCRIPTION 
+ 
+ 
+ 
+ 
+ 
+ 
+ NUMBER OF 
+ 
+ SHARES/UNITS 
+ 
+ 
+ 
+ 
+ 
+ 
+ PER SHARE 
+ 
+ LIQUIDATION 
+ 
+ PREFERENCE 
+ 
+ 
+ 
+ 
+ 
+ 
+ AGGREGATE 
+ 
+ LIQUIDATION 
+ 
+ PREFERENCE 
+ 
+ 
+ 
+ 
+ 
+ 
+ TICKER 
+ 
+ SYMBOL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Preferred Stock: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simon Property Group, Inc. 
+ 
+ 
+ 
+ Series J 8.375% Cumulative Redeemable (4) 
+ 
+ 
+ 
+ 
+ 
+ 796,948 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 50.00 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 39,847 
+ 
+ 
+ 
+ 
+ 
+ SPGPrJ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Preferred Units: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simon Property Group, L.P. 
+ 
+ 
+ 7.50% Cumulative Redeemable (5) 
+ 
+ 
+ 
+ 
+ 105,373 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 100.00 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 10,537 
+ 
+ 
+ 
+ 
+ 
+ N/A 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ Excludes Limited Partnership preferred units relating to preferred stock outstanding. 
+ 
+ (2) 
+ 
+ Excludes units owned by the Company (shown here as Common Shares) and Limited Partnership Units not exchangeable for common shares. 
+ 
+ (3) 
+ 
+ Represents restricted stock/restricted stock unit awards and earned LTIP units issued pursuant to the Operating Partnership s 2019 Stock Incentive Plan, net of forfeitures. 
+ 
+ (4) 
+ 
+ Each share is redeemable on or after October 15, 2027. The shares are traded on the New York Stock Exchange. The closing price on March 31, 2026 was $53.34 per share. 
+ 
+ (5) 
+ 
+ Each preferred unit is redeemable upon the occurrence of certain tax triggering events. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CREDIT PROFILE (1) 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ As of year end, unless otherwise indicated. 
+ 
+ (2) 
+ 
+ Non-recourse mortgage net debt includes our pro-rata share of consolidated non-recourse mortgage debt and our pro-rata share of joint venture non-recourse mortgage debt. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SUMMARY OF INDEBTEDNESS 
+ 
+ As of March 31, 2026 
+ (In thousands) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TOTAL 
+ 
+ INDEBTEDNESS 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUR 
+ 
+ SHARE OF 
+ 
+ INDEBTEDNESS 
+ 
+ 
+ 
+ 
+ 
+ 
+ WEIGHTED 
+ 
+ AVERAGE 
+ 
+ END OF PERIOD 
+ 
+ INTEREST RATE 
+ 
+ 
+ 
+ 
+ 
+ 
+ WEIGHTED 
+ 
+ AVERAGE 
+ 
+ YEARS TO 
+ 
+ MATURITY 
+ 
+ 
+ 
+ 
+ 
+ 
+ Consolidated Indebtedness 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mortgage Debt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fixed Rate 
+ 
+ 
+ 
+ 
+ $ 
+ 6,593,891 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 6,152,007 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.32 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Floating Rate Debt (Swapped to Fixed) 
+ 
+ 
+ 
+ 
+ 
+ 1,222,034 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,202,821 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.23 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 3.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Floating Rate Debt (Capped) (1) 
+ 
+ 
+ 
+ 
+ 
+ 273,536 
+ 
+ 
+ 
+ 
+ 
+ 
+ 233,158 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.58 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 1.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Variable Rate Debt 
+ 
+ 
+ 
+ 
+ 
+ 34,973 
+ 
+ 
+ 
+ 
+ 
+ 
+ 31,476 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.58 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 1.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Mortgage Debt 
+ 
+ 
+ 
+ 
+ 
+ 8,124,434 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7,619,462 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.48 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Unsecured Debt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fixed Rate Notes 
+ 
+ 
+ 
+ 
+ 
+ 18,308,342 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18,308,342 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.59 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 9.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fixed Rate Note (Swapped to Variable) 
+ 
+ 
+ 
+ 
+ 
+ 600,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 600,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.40 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 13.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Euro Term Loan (Variable) 
+ 
+ 
+ 
+ 
+ 
+ 402,654 
+ 
+ 
+ 
+ 
+ 
+ 
+ 402,654 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.38 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 1.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revolving Credit Facility USD Currency (Swapped to Fixed) 
+ 
+ 
+ 
+ 
+ 
+ 460,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 460,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.97 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 4.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Global Commercial Paper USD 
+ 
+ 
+ 
+ 
+ 
+ 537,150 
+ 
+ 
+ 
+ 
+ 
+ 
+ 537,150 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.94 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 0.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Unsecured Debt 
+ 
+ 
+ 
+ 
+ 
+ 20,308,146 
+ 
+ 
+ 
+ 
+ 
+ 
+ 20,308,146 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.66 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 8.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Premium 
+ 
+ 
+ 
+ 
+ 
+ 951 
+ 
+ 
+ 
+ 
+ 
+ 
+ 951 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Discount 
+ 
+ 
+ 
+ 
+ 
+ (71,703 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ (71,703 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Debt Issuance Costs 
+ 
+ 
+ 
+ 
+ 
+ (139,609 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ (137,443 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other Debt Obligations and Other 
+ 
+ 
+ 
+ 
+ 
+ 25,463 
+ 
+ 
+ 
+ 
+ 
+ 
+ 25,463 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Consolidated Mortgages and 
+ 
+ Unsecured Indebtedness (1) 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 28,247,682 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 27,744,876 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.89 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 7.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ Joint Venture Indebtedness 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mortgage Debt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fixed Rate 
+ 
+ 
+ 
+ 
+ $ 
+ 13,830,192 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 6,219,187 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.90 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 4.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Floating Rate Debt (Swapped to Fixed) 
+ 
+ 
+ 
+ 
+ 
+ 717,197 
+ 
+ 
+ 
+ 
+ 
+ 
+ 313,390 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.40 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 3.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Floating Rate Debt (Capped) (1) 
+ 
+ 
+ 
+ 
+ 
+ 688,054 
+ 
+ 
+ 
+ 
+ 
+ 
+ 341,185 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.54 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 4.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Variable Rate Debt 
+ 
+ 
+ 
+ 
+ 
+ 1,220,878 
+ 
+ 
+ 
+ 
+ 
+ 
+ 570,757 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.16 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 3.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Mortgage Debt 
+ 
+ 
+ 
+ 
+ 
+ 16,456,321 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7,444,519 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.92 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 4.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Debt Issuance Costs 
+ 
+ 
+ 
+ 
+ 
+ (60,824 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ (28,555 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 
+ 
+ 
+ 
+ 24,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Joint Venture Mortgages and 
+ 
+ Other Indebtedness (1) 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 16,419,497 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 7,427,964 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.92 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 4.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Share of Total Indebtedness 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 35,172,840 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.11 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 6.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TOTAL 
+ 
+ INDEBTEDNESS 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUR 
+ 
+ SHARE OF 
+ 
+ INDEBTEDNESS 
+ 
+ 
+ 
+ 
+ 
+ 
+ WEIGHTED 
+ 
+ AVERAGE 
+ 
+ END OF PERIOD 
+ 
+ INTEREST RATE 
+ 
+ 
+ 
+ 
+ 
+ 
+ WEIGHTED 
+ 
+ AVERAGE 
+ 
+ YEARS TO 
+ 
+ MATURITY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Summary of Our Share of Fixed and Variable Rate Debt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Consolidated 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 
+ 95.4 
+ % 
+ 
+ 
+ 
+ 
+ $ 
+ 26,478,325 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.85 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 7.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Variable 
+ 
+ 
+ 
+ 
+ 
+ 4.6 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 1,266,551 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.74 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 7.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100.0 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 27,744,876 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.89 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 7.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Joint Venture 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 
+ 87.8 
+ % 
+ 
+ 
+ 
+ 
+ $ 
+ 6,522,849 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.87 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 3.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Variable 
+ 
+ 
+ 
+ 
+ 
+ 12.2 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 905,115 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.30 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 4.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100.0 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 7,427,964 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.93 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 4.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Debt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 35,172,840 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Fixed Debt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 93.8 
+ % 
+ 
+ 
+ 
+ 
+ $ 
+ 33,001,174 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.05 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 6.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Variable Debt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.2 
+ % 
+ 
+ 
+ 
+ 
+ $ 
+ 2,171,666 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.98 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 5.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Variable Debt Inclusive of In-the Money-Caps 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.8 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ Amounts give effect to outstanding derivative instruments as footnoted in the Property and Debt Information. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TOTAL DEBT AMORTIZATION AND MATURITIES BY YEAR (OUR SHARE) 
+ 
+ As of March 31, 2026 (In thousands) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ UNSECURED CONSOLIDATED DEBT 
+ 
+ 
+ 
+ 
+ 
+ 
+ SECURED CONSOLIDATED DEBT 
+ 
+ 
+ 
+ 
+ 
+ 
+ UNCONSOLIDATED JOINT VENTURE DEBT 
+ 
+ 
+ 
+ 
+ 
+ 
+ TOTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUR SHARE 
+ 
+ OF DEBT 
+ 
+ 
+ 
+ 
+ 
+ 
+ WEIGHTED 
+ 
+ AVERAGE 
+ 
+ RATE 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUR SHARE 
+ 
+ OF DEBT 
+ 
+ 
+ 
+ 
+ 
+ 
+ WEIGHTED 
+ 
+ AVERAGE 
+ 
+ RATE 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUR SHARE 
+ 
+ OF DEBT 
+ 
+ 
+ 
+ 
+ 
+ 
+ WEIGHTED 
+ 
+ AVERAGE 
+ 
+ RATE 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUR SHARE 
+ 
+ OF DEBT 
+ 
+ 
+ 
+ 
+ 
+ 
+ WEIGHTED 
+ 
+ AVERAGE 
+ 
+ RATE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ $ 
+ 1,932,662 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.53 
+ % 
+ 
+ 
+ 
+ 
+ $ 
+ 1,984,711 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.78 
+ % 
+ 
+ 
+ 
+ 
+ $ 
+ 1,178,274 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.90 
+ % 
+ 
+ 
+ 
+ 
+ $ 
+ 5,095,647 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.71 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2027 
+ 
+ 
+ 
+ 
+ 2,452,654 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.76 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 1,583,466 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.10 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 1,027,981 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.81 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 5,064,101 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.39 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2028 
+ 
+ 
+ 
+ 
+ 800,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.75 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 765,647 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.04 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 1,243,199 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.74 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2,808,846 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.99 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2029 
+ 
+ 
+ 
+ 
+ 1,250,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.45 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2,062,157 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.63 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 347,191 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.32 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 3,659,348 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.95 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2030 
+ 
+ 
+ 
+ 
+ 1,450,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.48 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 200,284 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.15 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 830,129 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.36 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2,480,413 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.02 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2031 
+ 
+ 
+ 
+ 
+ 1,960,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.47 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 516,538 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.21 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 695,346 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.63 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 3,171,884 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.06 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2032 
+ 
+ 
+ 
+ 
+ 1,400,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.45 
+ % 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 428,486 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.20 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 1,828,486 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.12 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2033 
+ 
+ 
+ 
+ 
+ 1,512,830 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.00 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 304,406 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.49 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 598,036 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.86 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2,415,272 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.43 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2034 
+ 
+ 
+ 
+ 
+ 1,500,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.25 
+ % 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 363,329 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.15 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 1,863,329 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.42 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2035 
+ 
+ 
+ 
+ 
+ 800,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.13 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 121,454 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.21 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 732,548 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.79 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 1,654,002 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.50 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2036 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 80,799 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.46 
+ % 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 80,799 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.46 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Thereafter 
+ 
+ 
+ 
+ 
+ 5,250,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.67 
+ % 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5,250,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.67 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Face Amounts of Indebtedness 
+ 
+ 
+ 
+ $ 
+ 20,308,146 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.66 
+ % 
+ 
+ 
+ 
+ 
+ $ 
+ 7,619,462 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.48 
+ % 
+ 
+ 
+ 
+ 
+ $ 
+ 7,444,519 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.92 
+ % 
+ 
+ 
+ 
+ 
+ $ 
+ 35,372,127 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.11 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Premiums (Discounts) on Indebtedness, Net 
+ 
+ 
+ 
+ 
+ (71,703 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 951 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (70,752 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Debt Issuance Costs 
+ 
+ 
+ 
+ 
+ (121,867 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (15,576 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (28,555 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (165,998 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other Debt Obligations and Other 
+ 
+ 
+ 
+ 
+ (3,562 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 29,025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 37,463 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Share of Total Indebtedness 
+ 
+ 
+ 
+ 
+ $ 
+ 20,111,014 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 7,633,862 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 7,427,964 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 35,172,840 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Unsecured Debt Information As of March 31, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEBT INFORMATION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MATURITY 
+ 
+ DATE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INTEREST 
+ 
+ RATE 
+ 
+ 
+ 
+ 
+ 
+ 
+ TYPE 
+ 
+ 
+ 
+ 
+ 
+ 
+ INDEBTEDNESS 
+ 
+ TOTAL 
+ 
+ ($ IN 000 S) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Unsecured Indebtedness: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Global Commercial Paper USD 
+ 
+ 
+ 
+ 
+ 5/6/2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ (5) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.94 
+ % 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 537,150 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simon Global Development, BV (Exchangeable Euro Sr. Bonds) (2) 
+ 
+ 
+ 
+ 
+ 11/14/2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.50 
+ % 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 645,512 (1)(8) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simon Property Group, LP (Sr. Notes) 
+ 
+ 
+ 
+ 
+ 11/30/2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.25 
+ % 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 750,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simon Property Group, LP (Sr. Notes) 
+ 
+ 
+ 
+ 
+ 1/15/2027 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.38 
+ % 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 550,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simon Global Development, BV (Euro Term Loan) 
+ 
+ 
+ 
+ 
+ 3/20/2027 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.38 
+ % (7) 
+ 
+ 
+ 
+ 
+ Variable 
+ 
+ 
+ 
+ 
+ 
+ 402,654 (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simon Property Group, LP (Sr. Notes) 
+ 
+ 
+ 
+ 
+ 6/15/2027 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.38 
+ % 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 750,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simon Property Group, LP (Sr. Notes) 
+ 
+ 
+ 
+ 
+ 12/1/2027 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.38 
+ % 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 750,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simon Property Group, LP (Sr. Notes) 
+ 
+ 
+ 
+ 
+ 2/1/2028 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.75 
+ % 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 800,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simon Property Group, LP (Sr. Notes) 
+ 
+ 
+ 
+ 
+ 9/13/2029 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.45 
+ % 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 1,250,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simon Property Group, LP (Sr. Notes) 
+ 
+ 
+ 
+ 
+ 7/15/2030 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.65 
+ % 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 750,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simon Property Group, LP (Sr. Notes) 
+ 
+ 
+ 
+ 
+ 10/1/2030 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.38 
+ % 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 700,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simon Property Group, LP (Sr. Notes) 
+ 
+ 
+ 
+ 
+ 1/15/2031 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.30 
+ % 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 800,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revolving Credit Facility USD Currency 
+ 
+ 
+ 
+ 
+ 1/30/2031 
+ 
+ 
+ 
+ 
+ 
+ 
+ (4) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.97 
+ % (3) 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 460,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simon Property Group, LP (Sr. Notes) 
+ 
+ 
+ 
+ 
+ 2/1/2031 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.20 
+ % 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 700,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simon Property Group, LP (Sr. Notes) 
+ 
+ 
+ 
+ 
+ 1/15/2032 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.25 
+ % 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 700,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simon Property Group, LP (Sr. Notes) 
+ 
+ 
+ 
+ 
+ 2/1/2032 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.65 
+ % 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 700,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simon Property Group, LP (Sr. Notes) 
+ 
+ 
+ 
+ 
+ 3/8/2033 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.50 
+ % 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 650,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simon International Finance SCA (Euro Sr. Notes) 
+ 
+ 
+ 
+ 
+ 3/19/2033 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.13 
+ % 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 862,830 (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simon Property Group, LP (Sr. Notes) 
+ 
+ 
+ 
+ 
+ 1/15/2034 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.25 
+ % 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 500,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simon Property Group, LP (Sr. Notes) 
+ 
+ 
+ 
+ 
+ 9/26/2034 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.75 
+ % 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 1,000,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simon Property Group, LP (Sr. Notes) 
+ 
+ 
+ 
+ 
+ 10/1/2035 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.13 
+ % 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 800,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simon Property Group, LP (Sr. Notes) 
+ 
+ 
+ 
+ 
+ 2/1/2040 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.40 
+ % (6) 
+ 
+ 
+ 
+ 
+ Variable 
+ 
+ 
+ 
+ 
+ 
+ 600,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simon Property Group, LP (Sr. Notes) 
+ 
+ 
+ 
+ 
+ 3/15/2042 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.75 
+ % 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 550,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simon Property Group, LP (Sr. Notes) 
+ 
+ 
+ 
+ 
+ 10/1/2044 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.25 
+ % 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 400,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simon Property Group, LP (Sr. Notes) 
+ 
+ 
+ 
+ 
+ 11/30/2046 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.25 
+ % 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 550,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simon Property Group, LP (Sr. Notes) 
+ 
+ 
+ 
+ 
+ 9/13/2049 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.25 
+ % 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 1,250,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simon Property Group, LP (Sr. Notes) 
+ 
+ 
+ 
+ 
+ 7/15/2050 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.80 
+ % 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 750,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simon Property Group, LP (Sr. Notes) 
+ 
+ 
+ 
+ 
+ 3/8/2053 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.85 
+ % 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 650,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ Simon Property Group, LP (Sr. Notes) 
+ 
+ 
+ 
+ 
+ 1/15/2054 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.65 
+ % 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 500,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Unsecured Indebtedness at Face Value 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 20,308,146 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ Foreign currency balances translated to USD: EUR-USD 1.15044. 
+ 
+ (2) 
+ 
+ Notes exchangeable into ordinary shares of Kl pierre S.A., at or above a common stock price of &euro;27.0693. 
+ 
+ (3) 
+ 
+ Through an interest rate swap agreement which matures on December 31, 2026, interest is essentially fixed at the all-in-rate presented. 
+ 
+ (4) 
+ 
+ Includes applicable extensions available at our option. 
+ 
+ (5) 
+ 
+ Reflects the weighted average maturity date and weighted average interest rate of all outstanding tranches of Commercial Paper at March 31, 2026. 
+ 
+ (6) 
+ 
+ Through an interest rate swap agreement, which matures on November 1, 2039, interest has been swapped from a fixed rate of 6.75% to a variable rate based on USD SOFR plus an interest rate spread of 2.74%. 1M SOFR was 3.665% as of March 31, 2026. 
+ 
+ (7) 
+ 
+ Variable rate debt interest rates are based on 1M EURIBOR at 1.893% as of March 31, 2026. 
+ 
+ (8) 
+ 
+ Subsequent to March 31, 2026, we settled additional conversions of &euro;373.5 million of the exchangeable bonds in cash for &euro;468.7 million further reducing the outstanding balance to &euro;187.6 million through the use of existing liquidity and the issuance of commercial paper. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 29 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PROPERTY AND DEBT INFORMATION As of March 31, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEBT INFORMATION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PROPERTY NAME 
+ 
+ 
+ 
+ 
+ 
+ 
+ STATE 
+ 
+ 
+ 
+ 
+ 
+ 
+ CITY (CBSA) 
+ 
+ 
+ 
+ 
+ 
+ 
+ LEGAL 
+ 
+ OWNERSHIP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TOTAL 
+ 
+ SQUARE FEET 
+ 
+ 
+ 
+ 
+ 
+ 
+ MATURITY 
+ 
+ DATE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INTEREST 
+ 
+ RATE (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ TYPE 
+ 
+ 
+ 
+ 
+ 
+ 
+ INDEBTEDNESS ($ in 000 s) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TOTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUR SHARE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Malls 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1. 
+ 
+ 
+ Apple Blossom Mall 
+ 
+ 
+ VA 
+ 
+ 
+ Winchester 
+ 
+ 
+ 
+ 49.1% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 470,088 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2. 
+ 
+ 
+ Auburn Mall 
+ 
+ 
+ MA 
+ 
+ 
+ Auburn 
+ 
+ 
+ 
+ 56.4% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 498,385 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3. 
+ 
+ 
+ Aventura Mall 
+ 
+ 
+ FL 
+ 
+ 
+ Miami Beach (Miami) 
+ 
+ 
+ 
+ 33.3% 
+ 
+ 
+ 
+ 
+ 
+ (25) 
+ 
+ 
+ 
+ 
+ 
+ 2,363,617 
+ 
+ 
+ 
+ 
+ 07/01/28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.12% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 1,750,000 
+ 
+ 
+ 
+ 
+ 583,333 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11/25/30 
+ 
+ 
+ 
+ 
+ 
+ (5) 
+ 
+ 
+ 
+ 
+ 
+ 5.76% 
+ 
+ 
+ 
+ Variable 
+ 
+ 
+ 
+ 62,188 
+ 
+ 
+ 
+ 
+ 20,729 
+ 
+ 
+ 
+ 
+ 
+ 4. 
+ 
+ 
+ Barton Creek Square 
+ 
+ 
+ TX 
+ 
+ 
+ Austin 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,447,373 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5. 
+ 
+ 
+ Battlefield Mall 
+ 
+ 
+ MO 
+ 
+ 
+ Springfield 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,180,102 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6. 
+ 
+ 
+ Bay Park Square 
+ 
+ 
+ WI 
+ 
+ 
+ Green Bay 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 690,114 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7. 
+ 
+ 
+ Beverly Center 
+ 
+ 
+ CA 
+ 
+ 
+ Los Angeles 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 854,260 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8. 
+ 
+ 
+ Brea Mall 
+ 
+ 
+ CA 
+ 
+ 
+ Brea (Los Angeles) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,360,504 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9. 
+ 
+ 
+ Briarwood Mall 
+ 
+ 
+ MI 
+ 
+ 
+ Ann Arbor 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 923,525 
+ 
+ 
+ 
+ 
+ 09/01/26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.29% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 165,000 
+ 
+ 
+ 
+ 
+ 165,000 
+ 
+ 
+ 
+ 
+ 
+ 10. 
+ 
+ 
+ Brickell City Centre 
+ 
+ 
+ FL 
+ 
+ 
+ Miami 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 476,986 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11. 
+ 
+ 
+ Broadway Square 
+ 
+ 
+ TX 
+ 
+ 
+ Tyler 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 613,437 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12. 
+ 
+ 
+ Burlington Mall 
+ 
+ 
+ MA 
+ 
+ 
+ Burlington (Boston) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,258,185 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13. 
+ 
+ 
+ Cape Cod Mall 
+ 
+ 
+ MA 
+ 
+ 
+ Hyannis 
+ 
+ 
+ 
+ 56.4% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 705,969 
+ 
+ 
+ 
+ 
+ 06/01/35 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.46% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 54,000 
+ 
+ 
+ 
+ 
+ 30,440 
+ 
+ 
+ 
+ 
+ 
+ 14. 
+ 
+ 
+ Castleton Square 
+ 
+ 
+ IN 
+ 
+ 
+ Indianapolis 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,375,678 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15. 
+ 
+ 
+ Cherry Creek Shopping Center 
+ 
+ 
+ CO 
+ 
+ 
+ Denver 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,081,978 
+ 
+ 
+ 
+ 
+ 06/01/28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.85% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 550,000 
+ 
+ 
+ 
+ 
+ 275,000 
+ 
+ 
+ 
+ 
+ 
+ 16. 
+ 
+ 
+ Cielo Vista Mall 
+ 
+ 
+ TX 
+ 
+ 
+ El Paso 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,245,105 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17. 
+ 
+ 
+ City Creek Center 
+ 
+ 
+ UT 
+ 
+ 
+ Salt Lake City 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 628,513 
+ 
+ 
+ 
+ 
+ 05/01/29 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7.63% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 70,000 
+ 
+ 
+ 
+ 
+ 70,000 
+ 
+ 
+ 
+ 
+ 
+ 18. 
+ 
+ 
+ Coconut Point 
+ 
+ 
+ FL 
+ 
+ 
+ Estero 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,114,274 
+ 
+ 
+ 
+ 
+ 10/01/26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.95% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 162,365 
+ 
+ 
+ 
+ 
+ 81,183 
+ 
+ 
+ 
+ 
+ 
+ 19. 
+ 
+ 
+ College Mall 
+ 
+ 
+ IN 
+ 
+ 
+ Bloomington 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 577,960 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 20. 
+ 
+ 
+ Columbia Center 
+ 
+ 
+ WA 
+ 
+ 
+ Kennewick 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 763,637 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 21. 
+ 
+ 
+ Copley Place 
+ 
+ 
+ MA 
+ 
+ 
+ Boston 
+ 
+ 
+ 
+ 94.4% 
+ 
+ 
+ 
+ 
+ 
+ (4) 
+ 
+ 
+ 
+ 
+ 
+ 1,252,653 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 22. 
+ 
+ 
+ Coral Square 
+ 
+ 
+ FL 
+ 
+ 
+ Coral Springs (Miami) 
+ 
+ 
+ 
+ 97.2% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 942,532 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 23. 
+ 
+ 
+ Cordova Mall 
+ 
+ 
+ FL 
+ 
+ 
+ Pensacola 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 932,538 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24. 
+ 
+ 
+ Dadeland Mall 
+ 
+ 
+ FL 
+ 
+ 
+ Miami 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,510,746 
+ 
+ 
+ 
+ 
+ 01/05/27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.11% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 350,434 
+ 
+ 
+ 
+ 
+ 175,217 
+ 
+ 
+ 
+ 
+ 
+ 25. 
+ 
+ 
+ Del Amo Fashion Center 
+ 
+ 
+ CA 
+ 
+ 
+ Torrance (Los Angeles) 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,504,602 
+ 
+ 
+ 
+ 
+ 06/01/27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.66% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 585,000 
+ 
+ 
+ 
+ 
+ 292,500 
+ 
+ 
+ 
+ 
+ 
+ 26. 
+ 
+ 
+ Domain, The 
+ 
+ 
+ TX 
+ 
+ 
+ Austin 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,229,622 
+ 
+ 
+ 
+ 
+ 07/01/31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.09% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 210,000 
+ 
+ 
+ 
+ 
+ 210,000 
+ 
+ 
+ 
+ 
+ 
+ 27. 
+ 
+ 
+ Empire Mall 
+ 
+ 
+ SD 
+ 
+ 
+ Sioux Falls 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,163,578 
+ 
+ 
+ 
+ 
+ 10/01/30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.72% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 120,000 
+ 
+ 
+ 
+ 
+ 120,000 
+ 
+ 
+ 
+ 
+ 
+ 28. 
+ 
+ 
+ Falls, The 
+ 
+ 
+ FL 
+ 
+ 
+ Miami 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 709,981 
+ 
+ 
+ 
+ 
+ 09/01/26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.45% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 150,000 
+ 
+ 
+ 
+ 
+ 75,000 
+ 
+ 
+ 
+ 
+ 
+ 29. 
+ 
+ 
+ 
+ Fashion Centre at Pentagon City, The 
+ 
+ 
+ 
+ VA 
+ 
+ 
+ Arlington (Washington, DC) 
+ 
+ 
+ 
+ 42.5% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,032,704 
+ 
+ 
+ 
+ 
+ 04/01/31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.70% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 465,000 
+ 
+ 
+ 
+ 
+ 197,625 
+ 
+ 
+ 
+ 
+ 
+ 30. 
+ 
+ 
+ Fashion Mall at Keystone, The 
+ 
+ 
+ IN 
+ 
+ 
+ Indianapolis 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 703,271 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 31. 
+ 
+ 
+ Fashion Valley 
+ 
+ 
+ CA 
+ 
+ 
+ San Diego 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,682,884 
+ 
+ 
+ 
+ 
+ 06/01/33 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.73% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 450,000 
+ 
+ 
+ 
+ 
+ 225,000 
+ 
+ 
+ 
+ 
+ 
+ 32. 
+ 
+ 
+ Firewheel Town Center 
+ 
+ 
+ TX 
+ 
+ 
+ Garland (Dallas) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 989,644 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 33. 
+ 
+ 
+ Florida Mall, The 
+ 
+ 
+ FL 
+ 
+ 
+ Orlando 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,725,303 
+ 
+ 
+ 
+ 
+ 02/09/31 
+ 
+ 
+ 
+ 
+ 
+ (5)(22) 
+ 
+ 
+ 
+ 
+ 
+ 5.67% 
+ 
+ 
+ 
+ Variable 
+ 
+ 
+ 
+ 615,000 
+ 
+ 
+ 
+ 
+ 307,500 
+ 
+ 
+ 
+ 
+ 
+ 34. 
+ 
+ 
+ Forum Shops at Caesars Palace, The 
+ 
+ 
+ NV 
+ 
+ 
+ Las Vegas 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 673,120 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 35. 
+ 
+ 
+ Galleria, The 
+ 
+ 
+ TX 
+ 
+ 
+ Houston 
+ 
+ 
+ 
+ 50.4% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,991,896 
+ 
+ 
+ 
+ 
+ 02/01/35 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.65% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 1,200,000 
+ 
+ 
+ 
+ 
+ 604,440 
+ 
+ 
+ 
+ 
+ 
+ 36. 
+ 
+ 
+ Gardens Mall, The 
+ 
+ 
+ FL 
+ 
+ 
+ Palm Beach Gardens 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,395,519 
+ 
+ 
+ 
+ 
+ 07/15/28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.63% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 205,000 
+ 
+ 
+ 
+ 
+ 102,500 
+ 
+ 
+ 
+ 
+ 
+ 37. 
+ 
+ 
+ Gardens on El Paseo, The 
+ 
+ 
+ CA 
+ 
+ 
+ Palm Desert 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 238,034 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 38. 
+ 
+ 
+ Greenwood Park Mall 
+ 
+ 
+ IN 
+ 
+ 
+ Greenwood (Indianapolis) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,285,078 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 39. 
+ 
+ 
+ Haywood Mall 
+ 
+ 
+ SC 
+ 
+ 
+ Greenville 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,249,684 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PROPERTY AND DEBT INFORMATION 
+ 
+ As of March 31, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEBT INFORMATION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PROPERTY NAME 
+ 
+ 
+ 
+ 
+ 
+ 
+ STATE 
+ 
+ 
+ 
+ 
+ 
+ 
+ CITY (CBSA) 
+ 
+ 
+ 
+ 
+ 
+ 
+ LEGAL 
+ 
+ OWNERSHIP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TOTAL 
+ 
+ SQUARE FEET 
+ 
+ 
+ 
+ 
+ 
+ 
+ MATURITY 
+ 
+ DATE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INTEREST 
+ 
+ RATE (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ TYPE 
+ 
+ 
+ 
+ 
+ 
+ 
+ INDEBTEDNESS ($ in 000 s) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TOTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUR SHARE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 40. 
+ 
+ 
+ International Market Place 
+ 
+ 
+ HI 
+ 
+ 
+ Waikiki, Honolulu 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 338,257 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 41. 
+ 
+ 
+ International Plaza 
+ 
+ 
+ FL 
+ 
+ 
+ Tampa 
+ 
+ 
+ 
+ 50.1% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,303,585 
+ 
+ 
+ 
+ 
+ 11/01/30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.04% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 575,000 
+ 
+ 
+ 
+ 
+ 288,075 
+ 
+ 
+ 
+ 
+ 
+ 42. 
+ 
+ 
+ King of Prussia 
+ 
+ 
+ PA 
+ 
+ 
+ King of Prussia (Philadelphia) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,686,326 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 43. 
+ 
+ 
+ La Plaza 
+ 
+ 
+ TX 
+ 
+ 
+ McAllen 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,323,772 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 44. 
+ 
+ 
+ Lakeline Mall 
+ 
+ 
+ TX 
+ 
+ 
+ Cedar Park (Austin) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,097,765 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 45. 
+ 
+ 
+ Lehigh Valley Mall 
+ 
+ 
+ PA 
+ 
+ 
+ Whitehall 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,190,776 
+ 
+ 
+ 
+ 
+ 11/01/27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.06% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 167,168 
+ 
+ 
+ 
+ 
+ 83,584 
+ 
+ 
+ 
+ 
+ 
+ 46. 
+ 
+ 
+ Lenox Square 
+ 
+ 
+ GA 
+ 
+ 
+ Atlanta 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,546,553 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 47. 
+ 
+ 
+ Mall at Green Hills, The 
+ 
+ 
+ TN 
+ 
+ 
+ Nashville 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,056,624 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 48. 
+ 
+ 
+ Mall at Millenia, The 
+ 
+ 
+ FL 
+ 
+ 
+ Orlando 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,117,430 
+ 
+ 
+ 
+ 
+ 10/15/29 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.41% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 450,000 
+ 
+ 
+ 
+ 
+ 225,000 
+ 
+ 
+ 
+ 
+ 
+ 49. 
+ 
+ 
+ Mall at Rockingham Park, The 
+ 
+ 
+ NH 
+ 
+ 
+ Salem (Boston) 
+ 
+ 
+ 
+ 28.2% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,065,423 
+ 
+ 
+ 
+ 
+ 06/01/26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.04% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 262,000 
+ 
+ 
+ 
+ 
+ 73,845 
+ 
+ 
+ 
+ 
+ 
+ 50. 
+ 
+ 
+ Mall at Short Hills, The 
+ 
+ 
+ NJ 
+ 
+ 
+ Short Hills 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,412,348 
+ 
+ 
+ 
+ 
+ 10/01/27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.48% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 1,000,000 
+ 
+ 
+ 
+ 
+ 1,000,000 
+ 
+ 
+ 
+ 
+ 
+ 51. 
+ 
+ 
+ Mall at University Town Center, The 
+ 
+ 
+ FL 
+ 
+ 
+ Sarasota 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 978,514 
+ 
+ 
+ 
+ 
+ 11/01/26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.40% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 261,537 
+ 
+ 
+ 
+ 
+ 130,769 
+ 
+ 
+ 
+ 
+ 
+ 52. 
+ 
+ 
+ Mall of Georgia 
+ 
+ 
+ GA 
+ 
+ 
+ Buford (Atlanta) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,841,407 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 53. 
+ 
+ 
+ Mall of New Hampshire, The 
+ 
+ 
+ NH 
+ 
+ 
+ Manchester 
+ 
+ 
+ 
+ 56.4% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 801,791 
+ 
+ 
+ 
+ 
+ 07/01/27 
+ 
+ 
+ 
+ 
+ 
+ (5) 
+ 
+ 
+ 
+ 
+ 
+ 4.11% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 150,000 
+ 
+ 
+ 
+ 
+ 84,555 
+ 
+ 
+ 
+ 
+ 
+ 54. 
+ 
+ 
+ Mall of San Juan, The 
+ 
+ 
+ PR 
+ 
+ 
+ San Juan 
+ 
+ 
+ 
+ 95.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 621,742 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 55. 
+ 
+ 
+ McCain Mall 
+ 
+ 
+ AR 
+ 
+ 
+ N. Little Rock 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 789,502 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 56. 
+ 
+ 
+ Meadowood Mall 
+ 
+ 
+ NV 
+ 
+ 
+ Reno 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 931,167 
+ 
+ 
+ 
+ 
+ 12/01/26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.70% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 98,508 
+ 
+ 
+ 
+ 
+ 49,254 
+ 
+ 
+ 
+ 
+ 
+ 57. 
+ 
+ 
+ Menlo Park Mall 
+ 
+ 
+ NJ 
+ 
+ 
+ Edison (New York) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,294,586 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 58. 
+ 
+ 
+ Miami International Mall 
+ 
+ 
+ FL 
+ 
+ 
+ Miami 
+ 
+ 
+ 
+ 95.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,080,244 
+ 
+ 
+ 
+ 
+ 02/06/27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7.92% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 146,281 
+ 
+ 
+ 
+ 
+ 138,961 
+ 
+ 
+ 
+ 
+ 
+ 59. 
+ 
+ 
+ Midland Park Mall 
+ 
+ 
+ TX 
+ 
+ 
+ Midland 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 645,648 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 60. 
+ 
+ 
+ Miller Hill Mall 
+ 
+ 
+ MN 
+ 
+ 
+ Duluth 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 819,970 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 61. 
+ 
+ 
+ North East Mall 
+ 
+ 
+ TX 
+ 
+ 
+ Hurst (Dallas) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,543,304 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 62. 
+ 
+ 
+ Northshore Mall 
+ 
+ 
+ MA 
+ 
+ 
+ Peabody (Boston) 
+ 
+ 
+ 
+ 56.4% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,591,018 
+ 
+ 
+ 
+ 
+ 01/01/31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.36% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 175,000 
+ 
+ 
+ 
+ 
+ 98,648 
+ 
+ 
+ 
+ 
+ 
+ 63. 
+ 
+ 
+ Ocean County Mall 
+ 
+ 
+ NJ 
+ 
+ 
+ Toms River (New York) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 889,900 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 64. 
+ 
+ 
+ Orland Square 
+ 
+ 
+ IL 
+ 
+ 
+ Orland Park (Chicago) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,229,266 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 65. 
+ 
+ 
+ Penn Square Mall 
+ 
+ 
+ OK 
+ 
+ 
+ Oklahoma City 
+ 
+ 
+ 
+ 94.5% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,082,982 
+ 
+ 
+ 
+ 
+ 01/01/29 
+ 
+ 
+ 
+ 
+ 
+ (5) 
+ 
+ 
+ 
+ 
+ 
+ 3.84% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 280,800 
+ 
+ 
+ 
+ 
+ 265,345 
+ 
+ 
+ 
+ 
+ 
+ 66. 
+ 
+ 
+ Pheasant Lane Mall 
+ 
+ 
+ NH 
+ 
+ 
+ Nashua 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ (6) 
+ 
+ 
+ 
+ 
+ 
+ 977,491 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 67. 
+ 
+ 
+ Phillips Place 
+ 
+ 
+ NC 
+ 
+ 
+ Charlotte 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 133,029 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 68. 
+ 
+ 
+ Phipps Plaza 
+ 
+ 
+ GA 
+ 
+ 
+ Atlanta 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,126,992 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 69. 
+ 
+ 
+ Plaza Carolina 
+ 
+ 
+ PR 
+ 
+ 
+ Carolina (San Juan) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,149,823 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 70. 
+ 
+ 
+ Prien Lake Mall 
+ 
+ 
+ LA 
+ 
+ 
+ Lake Charles 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 717,777 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 71. 
+ 
+ 
+ Quaker Bridge Mall 
+ 
+ 
+ NJ 
+ 
+ 
+ Lawrenceville 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,079,560 
+ 
+ 
+ 
+ 
+ 05/01/26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.50% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 180,000 
+ 
+ 
+ 
+ 
+ 90,000 
+ 
+ 
+ 
+ 
+ 
+ 72. 
+ 
+ 
+ Rockaway Townsquare 
+ 
+ 
+ NJ 
+ 
+ 
+ Rockaway (New York) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,241,760 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 73. 
+ 
+ 
+ Roosevelt Field 
+ 
+ 
+ NY 
+ 
+ 
+ Garden City (New York) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,355,744 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 74. 
+ 
+ 
+ Ross Park Mall 
+ 
+ 
+ PA 
+ 
+ 
+ Pittsburgh 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,185,112 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 75. 
+ 
+ 
+ Santa Rosa Plaza 
+ 
+ 
+ CA 
+ 
+ 
+ Santa Rosa 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 697,833 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 76. 
+ 
+ 
+ Shops at Chestnut Hill, The 
+ 
+ 
+ MA 
+ 
+ 
+ Chestnut Hill (Boston) 
+ 
+ 
+ 
+ 94.4% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 470,264 
+ 
+ 
+ 
+ 
+ 08/31/33 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.66% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 90,947 
+ 
+ 
+ 
+ 
+ 85,890 
+ 
+ 
+ 
+ 
+ 
+ 77. 
+ 
+ 
+ Shops at Clearfork, The 
+ 
+ 
+ TX 
+ 
+ 
+ Fort Worth 
+ 
+ 
+ 
+ 45.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 596,662 
+ 
+ 
+ 
+ 
+ 03/11/30 
+ 
+ 
+ 
+ 
+ 
+ (16) 
+ 
+ 
+ 
+ 
+ 
+ 2.92% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 145,000 
+ 
+ 
+ 
+ 
+ 65,250 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 03/11/30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.78% 
+ 
+ 
+ 
+ 
+ Variable 
+ 
+ 
+ 
+ 
+ 5,368 
+ 
+ 
+ 
+ 
+ 2,416 
+ 
+ 
+ 
+ 
+ 
+ 78. 
+ 
+ 
+ Shops at Crystals, The 
+ 
+ 
+ NV 
+ 
+ 
+ Las Vegas 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 283,166 
+ 
+ 
+ 
+ 
+ 07/01/26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.74% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 550,000 
+ 
+ 
+ 
+ 
+ 275,000 
+ 
+ 
+ 
+ 
+ 
+ 79. 
+ 
+ 
+ Shops at Mission Viejo, The 
+ 
+ 
+ CA 
+ 
+ 
+ Mission Viejo (Los Angeles) 
+ 
+ 
+ 
+ 51.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,272,402 
+ 
+ 
+ 
+ 
+ 01/01/35 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.73% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 180,000 
+ 
+ 
+ 
+ 
+ 91,800 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PROPERTY AND DEBT INFORMATION 
+ 
+ As of March 31, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEBT INFORMATION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PROPERTY NAME 
+ 
+ 
+ 
+ 
+ 
+ 
+ STATE 
+ 
+ 
+ 
+ 
+ 
+ 
+ CITY (CBSA) 
+ 
+ 
+ 
+ 
+ 
+ 
+ LEGAL 
+ 
+ OWNERSHIP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TOTAL 
+ 
+ SQUARE FEET 
+ 
+ 
+ 
+ 
+ 
+ 
+ MATURITY 
+ 
+ DATE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INTEREST 
+ 
+ RATE (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ TYPE 
+ 
+ 
+ 
+ 
+ 
+ 
+ INDEBTEDNESS ($ in 000 s) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TOTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUR SHARE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 80. 
+ 
+ 
+ Shops at Riverside, The 
+ 
+ 
+ NJ 
+ 
+ 
+ Hackensack (New York) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 726,766 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 81. 
+ 
+ 
+ Smith Haven Mall 
+ 
+ 
+ NY 
+ 
+ 
+ Lake Grove (New York) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,257,894 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 82. 
+ 
+ 
+ South Hills Village 
+ 
+ 
+ PA 
+ 
+ 
+ Pittsburgh 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,123,562 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 83. 
+ 
+ 
+ South Shore Plaza 
+ 
+ 
+ MA 
+ 
+ 
+ Braintree (Boston) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,582,080 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 84. 
+ 
+ 
+ Southdale Center 
+ 
+ 
+ MN 
+ 
+ 
+ Edina (Minneapolis) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,158,038 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 85. 
+ 
+ 
+ SouthPark 
+ 
+ 
+ NC 
+ 
+ 
+ Charlotte 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,699,333 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 86. 
+ 
+ 
+ Springfield Mall 
+ 
+ 
+ PA 
+ 
+ 
+ Springfield (Philadelphia) 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ (25) 
+ 
+ 
+ 
+ 
+ 
+ 610,123 
+ 
+ 
+ 
+ 
+ 10/06/25 
+ 
+ 
+ 
+ 
+ 
+ (15) 
+ 
+ 
+ 
+ 
+ 
+ 4.45% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 52,465 
+ 
+ 
+ 
+ 
+ 26,233 
+ 
+ 
+ 
+ 
+ 
+ 87. 
+ 
+ 
+ St. Charles Towne Center 
+ 
+ 
+ MD 
+ 
+ 
+ Waldorf (Washington, DC) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 977,171 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 88. 
+ 
+ 
+ St. Johns Town Center 
+ 
+ 
+ FL 
+ 
+ 
+ Jacksonville 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,426,140 
+ 
+ 
+ 
+ 
+ 06/01/34 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.95% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 360,000 
+ 
+ 
+ 
+ 
+ 180,001 
+ 
+ 
+ 
+ 
+ 
+ 89. 
+ 
+ 
+ Stanford Shopping Center 
+ 
+ 
+ CA 
+ 
+ 
+ Palo Alto (San Jose) 
+ 
+ 
+ 
+ 94.4% 
+ 
+ 
+ 
+ 
+ 
+ (4) 
+ 
+ 
+ 
+ 
+ 
+ 1,322,324 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 90. 
+ 
+ 
+ Stoneridge Shopping Center 
+ 
+ 
+ CA 
+ 
+ 
+ Pleasanton (San Francisco) 
+ 
+ 
+ 
+ 49.9% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,294,569 
+ 
+ 
+ 
+ 
+ 09/05/26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.50% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 330,000 
+ 
+ 
+ 
+ 
+ 164,670 
+ 
+ 
+ 
+ 
+ 
+ 91. 
+ 
+ 
+ Summit Mall 
+ 
+ 
+ OH 
+ 
+ 
+ Akron 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 774,217 
+ 
+ 
+ 
+ 
+ 10/01/26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.31% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 85,000 
+ 
+ 
+ 
+ 
+ 85,000 
+ 
+ 
+ 
+ 
+ 
+ 92. 
+ 
+ 
+ Tacoma Mall 
+ 
+ 
+ WA 
+ 
+ 
+ Tacoma (Seattle) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,263,649 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 93. 
+ 
+ 
+ Tippecanoe Mall 
+ 
+ 
+ IN 
+ 
+ 
+ Lafayette 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 864,871 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 94. 
+ 
+ 
+ Town Center at Boca Raton 
+ 
+ 
+ FL 
+ 
+ 
+ Boca Raton (Miami) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,763,204 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 95. 
+ 
+ 
+ Towne East Square 
+ 
+ 
+ KS 
+ 
+ 
+ Wichita 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,157,209 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 96. 
+ 
+ 
+ Treasure Coast Square 
+ 
+ 
+ FL 
+ 
+ 
+ Jensen Beach 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 873,873 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 97. 
+ 
+ 
+ Twelve Oaks Mall 
+ 
+ 
+ MI 
+ 
+ 
+ Novi 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,520,815 
+ 
+ 
+ 
+ 
+ 03/06/28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.85% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 259,213 
+ 
+ 
+ 
+ 
+ 259,213 
+ 
+ 
+ 
+ 
+ 
+ 98. 
+ 
+ 
+ Tyrone Square 
+ 
+ 
+ FL 
+ 
+ 
+ St. Petersburg (Tampa) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 957,781 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 99. 
+ 
+ 
+ University Park Mall 
+ 
+ 
+ IN 
+ 
+ 
+ Mishawaka 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 910,092 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100. 
+ 
+ 
+ 
+ Walt Whitman Shops 
+ 
+ 
+ NY 
+ 
+ 
+ Huntington Station (New York) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,084,690 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 101. 
+ 
+ 
+ 
+ Waterside Shops 
+ 
+ 
+ FL 
+ 
+ 
+ Naples 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 300,129 
+ 
+ 
+ 
+ 
+ 04/15/26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.86% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 154,337 
+ 
+ 
+ 
+ 
+ 77,169 
+ 
+ 
+ 
+ 
+ 
+ 
+ 102. 
+ 
+ 
+ 
+ West Town Mall 
+ 
+ 
+ TN 
+ 
+ 
+ Knoxville 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,275,964 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 103. 
+ 
+ 
+ 
+ Westchester, The 
+ 
+ 
+ NY 
+ 
+ 
+ White Plains (New York) 
+ 
+ 
+ 
+ 40.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 802,897 
+ 
+ 
+ 
+ 
+ 02/01/30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.25% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 400,000 
+ 
+ 
+ 
+ 
+ 160,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 104. 
+ 
+ 
+ 
+ Westfarms 
+ 
+ 
+ CT 
+ 
+ 
+ West Hartford 
+ 
+ 
+ 
+ 78.9% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,265,855 
+ 
+ 
+ 
+ 
+ 09/06/28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7.80% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 242,000 
+ 
+ 
+ 
+ 
+ 191,035 
+ 
+ 
+ 
+ 
+ 
+ 
+ 105. 
+ 
+ 
+ 
+ White Oaks Mall 
+ 
+ 
+ IL 
+ 
+ 
+ Springfield 
+ 
+ 
+ 
+ 88.6% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 922,595 
+ 
+ 
+ 
+ 
+ 06/15/27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.98% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 31,650 
+ 
+ 
+ 
+ 
+ 28,055 
+ 
+ 
+ 
+ 
+ 
+ 
+ 106. 
+ 
+ 
+ 
+ Wolfchase Galleria 
+ 
+ 
+ TN 
+ 
+ 
+ Memphis 
+ 
+ 
+ 
+ 94.5% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,147,164 
+ 
+ 
+ 
+ 
+ 11/01/26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.15% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 155,152 
+ 
+ 
+ 
+ 
+ 146,612 
+ 
+ 
+ 
+ 
+ 
+ 
+ 107. 
+ 
+ 
+ 
+ Woodfield Mall 
+ 
+ 
+ IL 
+ 
+ 
+ Schaumburg (Chicago) 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,154,617 
+ 
+ 
+ 
+ 
+ 12/01/33 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.71% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 294,000 
+ 
+ 
+ 
+ 
+ 147,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 108. 
+ 
+ 
+ 
+ Woodland Hills Mall 
+ 
+ 
+ OK 
+ 
+ 
+ Tulsa 
+ 
+ 
+ 
+ 94.5% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,238,604 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Mall Square Footage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 119,866,820 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Lifestyle Centers 
+ 
+ 
+ 
+ 
+ 
+ 1. 
+ 
+ 
+ ABQ Uptown 
+ 
+ 
+ NM 
+ 
+ 
+ Albuquerque 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 228,831 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2. 
+ 
+ 
+ Hamilton Town Center 
+ 
+ 
+ IN 
+ 
+ 
+ Noblesville (Indianapolis) 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 679,382 
+ 
+ 
+ 
+ 
+ 02/24/30 
+ 
+ 
+ 
+ 
+ 
+ (5) 
+ 
+ 
+ 
+ 
+ 
+ 5.81% 
+ 
+ 
+ 
+ 
+ Variable 
+ 
+ 
+ 
+ 
+ 92,383 
+ 
+ 
+ 
+ 
+ 46,192 
+ 
+ 
+ 
+ 
+ 
+ 3. 
+ 
+ 
+ Liberty Tree Mall 
+ 
+ 
+ MA 
+ 
+ 
+ Danvers 
+ 
+ 
+ 
+ 49.1% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 866,264 
+ 
+ 
+ 
+ 
+ 05/03/28 
+ 
+ 
+ 
+ 
+ 
+ (16) 
+ 
+ 
+ 
+ 
+ 
+ 6.18% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 27,548 
+ 
+ 
+ 
+ 
+ 13,536 
+ 
+ 
+ 
+ 
+ 
+ 4. 
+ 
+ 
+ Northgate Station 
+ 
+ 
+ WA 
+ 
+ 
+ Seattle 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 412,720 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5. 
+ 
+ 
+ Pier Park 
+ 
+ 
+ FL 
+ 
+ 
+ Panama City Beach 
+ 
+ 
+ 
+ 65.6% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 946,642 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6. 
+ 
+ 
+ University Park Village 
+ 
+ 
+ TX 
+ 
+ 
+ Fort Worth 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 171,822 
+ 
+ 
+ 
+ 
+ 05/01/28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.85% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 48,623 
+ 
+ 
+ 
+ 
+ 48,623 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Lifestyle Centers Square 
+ 
+ Footage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3,305,661 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PROPERTY AND DEBT INFORMATION 
+ 
+ As of March 31, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEBT INFORMATION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PROPERTY NAME 
+ 
+ 
+ 
+ 
+ 
+ 
+ STATE 
+ 
+ 
+ 
+ 
+ 
+ 
+ CITY (CBSA) 
+ 
+ 
+ 
+ 
+ 
+ 
+ LEGAL 
+ 
+ OWNERSHIP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TOTAL 
+ 
+ SQUARE FEET 
+ 
+ 
+ 
+ 
+ 
+ 
+ MATURITY 
+ 
+ DATE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INTEREST 
+ 
+ RATE (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ TYPE 
+ 
+ 
+ 
+ 
+ 
+ 
+ INDEBTEDNESS ($ in 000 s) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TOTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUR SHARE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Premium Outlets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1. 
+ 
+ 
+ Albertville Premium Outlets 
+ 
+ 
+ MN 
+ 
+ 
+ Albertville (Minneapolis) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 301,148 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2. 
+ 
+ 
+ Allen Premium Outlets 
+ 
+ 
+ TX 
+ 
+ 
+ Allen (Dallas) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 548,535 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3. 
+ 
+ 
+ Aurora Farms Premium Outlets 
+ 
+ 
+ OH 
+ 
+ 
+ Aurora (Cleveland) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 262,067 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4. 
+ 
+ 
+ Birch Run Premium Outlets 
+ 
+ 
+ MI 
+ 
+ 
+ Birch Run (Detroit) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 595,125 
+ 
+ 
+ 
+ 
+ 02/01/36 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.46% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 90,000 
+ 
+ 
+ 
+ 
+ 90,000 
+ 
+ 
+ 
+ 
+ 
+ 5. 
+ 
+ 
+ Camarillo Premium Outlets 
+ 
+ 
+ CA 
+ 
+ 
+ Camarillo (Los Angeles) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 691,823 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6. 
+ 
+ 
+ Carlsbad Premium Outlets 
+ 
+ 
+ CA 
+ 
+ 
+ Carlsbad (San Diego) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 288,950 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7. 
+ 
+ 
+ Carolina Premium Outlets 
+ 
+ 
+ NC 
+ 
+ 
+ Smithfield (Raleigh) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 439,006 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8. 
+ 
+ 
+ Charlotte Premium Outlets 
+ 
+ 
+ NC 
+ 
+ 
+ Charlotte 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 398,389 
+ 
+ 
+ 
+ 
+ 07/01/28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.27% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 95,356 
+ 
+ 
+ 
+ 
+ 47,678 
+ 
+ 
+ 
+ 
+ 
+ 9. 
+ 
+ 
+ Chicago Premium Outlets 
+ 
+ 
+ IL 
+ 
+ 
+ Aurora (Chicago) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 685,209 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10. 
+ 
+ 
+ Cincinnati Premium Outlets 
+ 
+ 
+ OH 
+ 
+ 
+ Monroe (Cincinnati) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 398,934 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11. 
+ 
+ 
+ Clarksburg Premium Outlets 
+ 
+ 
+ MD 
+ 
+ 
+ Clarksburg (Washington, DC) 
+ 
+ 
+ 
+ 66.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 381,671 
+ 
+ 
+ 
+ 
+ 01/01/28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.95% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 150,602 
+ 
+ 
+ 
+ 
+ 99,397 
+ 
+ 
+ 
+ 
+ 
+ 12. 
+ 
+ 
+ Clinton Premium Outlets 
+ 
+ 
+ CT 
+ 
+ 
+ Clinton 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 276,105 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13. 
+ 
+ 
+ Denver Premium Outlets 
+ 
+ 
+ CO 
+ 
+ 
+ Thornton (Denver) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 328,391 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 14. 
+ 
+ 
+ Desert Hills Premium Outlets 
+ 
+ 
+ CA 
+ 
+ 
+ Cabazon (Palm Springs) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 656,785 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15. 
+ 
+ 
+ Ellenton Premium Outlets 
+ 
+ 
+ FL 
+ 
+ 
+ Ellenton (Tampa) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 477,218 
+ 
+ 
+ 
+ 
+ 12/01/35 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.21% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 120,000 
+ 
+ 
+ 
+ 
+ 120,000 
+ 
+ 
+ 
+ 
+ 
+ 16. 
+ 
+ 
+ Folsom Premium Outlets 
+ 
+ 
+ CA 
+ 
+ 
+ Folsom (Sacramento) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 295,993 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17. 
+ 
+ 
+ Gilroy Premium Outlets 
+ 
+ 
+ CA 
+ 
+ 
+ Gilroy (San Jose) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 503,205 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18. 
+ 
+ 
+ Gloucester Premium Outlets 
+ 
+ 
+ NJ 
+ 
+ 
+ Blackwood (Philadelphia) 
+ 
+ 
+ 
+ 66.7% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 376,012 
+ 
+ 
+ 
+ 
+ 03/01/33 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.12% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 75,000 
+ 
+ 
+ 
+ 
+ 50,003 
+ 
+ 
+ 
+ 
+ 
+ 19. 
+ 
+ 
+ Grand Prairie Premium Outlets 
+ 
+ 
+ TX 
+ 
+ 
+ Grand Prairie (Dallas) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 419,609 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 20. 
+ 
+ 
+ Grove City Premium Outlets 
+ 
+ 
+ PA 
+ 
+ 
+ Grove City (Pittsburgh) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 522,304 
+ 
+ 
+ 
+ 
+ 12/01/28 
+ 
+ 
+ 
+ 
+ 
+ (5) 
+ 
+ 
+ 
+ 
+ 
+ 7.31% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 140,000 
+ 
+ 
+ 
+ 
+ 140,000 
+ 
+ 
+ 
+ 
+ 
+ 21. 
+ 
+ 
+ Gulfport Premium Outlets 
+ 
+ 
+ MS 
+ 
+ 
+ Gulfport 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 302,066 
+ 
+ 
+ 
+ 
+ 12/01/28 
+ 
+ 
+ 
+ 
+ 
+ (5) 
+ 
+ 
+ 
+ 
+ 
+ 7.35% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 50,000 
+ 
+ 
+ 
+ 
+ 50,000 
+ 
+ 
+ 
+ 
+ 
+ 22. 
+ 
+ 
+ Hagerstown Premium Outlets 
+ 
+ 
+ MD 
+ 
+ 
+ Hagerstown (Baltimore/ Washington, DC) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 485,738 
+ 
+ 
+ 
+ 
+ 02/06/26 
+ 
+ 
+ 
+ 
+ 
+ (15) 
+ 
+ 
+ 
+ 
+ 
+ 4.26% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 68,365 
+ 
+ 
+ 
+ 
+ 68,365 
+ 
+ 
+ 
+ 
+ 
+ 23. 
+ 
+ 
+ Houston Premium Outlets 
+ 
+ 
+ TX 
+ 
+ 
+ Cypress (Houston) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 556,144 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24. 
+ 
+ 
+ Indiana Premium Outlets 
+ 
+ 
+ IN 
+ 
+ 
+ Edinburgh (Indianapolis) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 374,135 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 25. 
+ 
+ 
+ Jackson Premium Outlets 
+ 
+ 
+ NJ 
+ 
+ 
+ Jackson (New York) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 285,570 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 26. 
+ 
+ 
+ Jersey Shore Premium Outlets 
+ 
+ 
+ NJ 
+ 
+ 
+ Tinton Falls (New York) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 434,686 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 27. 
+ 
+ 
+ Johnson Creek Premium Outlets 
+ 
+ 
+ WI 
+ 
+ 
+ Johnson Creek 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 275,063 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 28. 
+ 
+ 
+ Kittery Premium Outlets 
+ 
+ 
+ ME 
+ 
+ 
+ Kittery 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 251,595 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 29. 
+ 
+ 
+ Las Americas Premium Outlets 
+ 
+ 
+ CA 
+ 
+ 
+ San Diego 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 689,451 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30. 
+ 
+ 
+ Las Vegas North Premium Outlets 
+ 
+ 
+ NV 
+ 
+ 
+ Las Vegas 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 674,860 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 31. 
+ 
+ 
+ Las Vegas South Premium Outlets 
+ 
+ 
+ NV 
+ 
+ 
+ Las Vegas 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 535,620 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 32. 
+ 
+ 
+ Lee Premium Outlets 
+ 
+ 
+ MA 
+ 
+ 
+ Lee 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 223,610 
+ 
+ 
+ 
+ 
+ 06/01/26 
+ 
+ 
+ 
+ 
+ 
+ (8) 
+ 
+ 
+ 
+ 
+ 
+ 4.17% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 43,479 
+ 
+ 
+ 
+ 
+ 43,479 
+ 
+ 
+ 
+ 
+ 
+ 33. 
+ 
+ 
+ Leesburg Premium Outlets 
+ 
+ 
+ VA 
+ 
+ 
+ Leesburg (Washington, DC) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 476,740 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 34. 
+ 
+ 
+ Lighthouse Place Premium Outlets 
+ 
+ 
+ IN 
+ 
+ 
+ Michigan City (Chicago, IL) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 444,045 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 35. 
+ 
+ 
+ Merrimack Premium Outlets 
+ 
+ 
+ NH 
+ 
+ 
+ Merrimack 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 409,052 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 36. 
+ 
+ 
+ Napa Premium Outlets 
+ 
+ 
+ CA 
+ 
+ 
+ Napa 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 177,404 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 37. 
+ 
+ 
+ Norfolk Premium Outlets 
+ 
+ 
+ VA 
+ 
+ 
+ Norfolk 
+ 
+ 
+ 
+ 65.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 329,789 
+ 
+ 
+ 
+ 
+ 04/01/32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.50% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 72,720 
+ 
+ 
+ 
+ 
+ 47,268 
+ 
+ 
+ 
+ 
+ 
+ 38. 
+ 
+ 
+ North Bend Premium Outlets 
+ 
+ 
+ WA 
+ 
+ 
+ North Bend (Seattle) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 189,132 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 33 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PROPERTY AND DEBT INFORMATION 
+ 
+ As of March 31, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEBT INFORMATION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PROPERTY NAME 
+ 
+ 
+ 
+ 
+ 
+ 
+ STATE 
+ 
+ 
+ 
+ 
+ 
+ 
+ CITY (CBSA) 
+ 
+ 
+ 
+ 
+ 
+ 
+ LEGAL 
+ 
+ OWNERSHIP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TOTAL 
+ 
+ SQUARE FEET 
+ 
+ 
+ 
+ 
+ 
+ 
+ MATURITY 
+ 
+ DATE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INTEREST 
+ 
+ RATE (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ TYPE 
+ 
+ 
+ 
+ 
+ 
+ 
+ INDEBTEDNESS ($ in 000 s) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TOTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUR SHARE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 39. 
+ 
+ 
+ 
+ North Georgia Premium Outlets 
+ 
+ 
+ GA 
+ 
+ 
+ Dawsonville (Atlanta) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 536,605 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 40. 
+ 
+ 
+ 
+ Orlando International Premium Outlets 
+ 
+ 
+ 
+ FL 
+ 
+ 
+ Orlando 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 774,920 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 41. 
+ 
+ 
+ Orlando Vineland Premium Outlets 
+ 
+ 
+ FL 
+ 
+ 
+ Orlando 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 658,238 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 42. 
+ 
+ 
+ Petaluma Village Premium Outlets 
+ 
+ 
+ CA 
+ 
+ 
+ Petaluma (San Francisco) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 199,261 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 43. 
+ 
+ 
+ Philadelphia Premium Outlets 
+ 
+ 
+ PA 
+ 
+ 
+ Limerick (Philadelphia) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 544,765 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 44. 
+ 
+ 
+ Phoenix Premium Outlets 
+ 
+ 
+ AZ 
+ 
+ 
+ Chandler (Phoenix) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 356,522 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 45. 
+ 
+ 
+ Pismo Beach Premium Outlets 
+ 
+ 
+ CA 
+ 
+ 
+ Pismo Beach 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 147,903 
+ 
+ 
+ 
+ 
+ 09/06/26 
+ 
+ 
+ 
+ 
+ 
+ (9) 
+ 
+ 
+ 
+ 
+ 
+ 3.33% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 29,149 
+ 
+ 
+ 
+ 
+ 29,149 
+ 
+ 
+ 
+ 
+ 
+ 46. 
+ 
+ 
+ Pleasant Prairie Premium Outlets 
+ 
+ 
+ WI 
+ 
+ 
+ Pleasant Prairie (Chicago, IL/ Milwaukee) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 386,443 
+ 
+ 
+ 
+ 
+ 09/01/27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.00% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 145,000 
+ 
+ 
+ 
+ 
+ 145,000 
+ 
+ 
+ 
+ 
+ 
+ 47. 
+ 
+ 
+ Pocono Premium Outlets 
+ 
+ 
+ PA 
+ 
+ 
+ Tannersville 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 411,832 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 48. 
+ 
+ 
+ Puerto Rico Premium Outlets 
+ 
+ 
+ PR 
+ 
+ 
+ Barceloneta 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 350,688 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 49. 
+ 
+ 
+ Queenstown Premium Outlets 
+ 
+ 
+ MD 
+ 
+ 
+ Queenstown (Baltimore) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 289,420 
+ 
+ 
+ 
+ 
+ 09/06/26 
+ 
+ 
+ 
+ 
+ 
+ (9) 
+ 
+ 
+ 
+ 
+ 
+ 3.33% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 51,208 
+ 
+ 
+ 
+ 
+ 51,208 
+ 
+ 
+ 
+ 
+ 
+ 50. 
+ 
+ 
+ Rio Grande Valley Premium Outlets 
+ 
+ 
+ TX 
+ 
+ 
+ Mercedes (McAllen) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 593,721 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 51. 
+ 
+ 
+ Round Rock Premium Outlets 
+ 
+ 
+ TX 
+ 
+ 
+ Round Rock (Austin) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 495,716 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 52. 
+ 
+ 
+ San Francisco Premium Outlets 
+ 
+ 
+ CA 
+ 
+ 
+ Livermore (San Francisco) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 697,028 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 53. 
+ 
+ 
+ San Marcos Premium Outlets 
+ 
+ 
+ TX 
+ 
+ 
+ San Marcos (Austin/ San Antonio) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 730,335 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 54. 
+ 
+ 
+ Seattle Premium Outlets 
+ 
+ 
+ WA 
+ 
+ 
+ Tulalip (Seattle) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 554,813 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 55. 
+ 
+ 
+ Silver Sands Premium Outlets 
+ 
+ 
+ FL 
+ 
+ 
+ Destin 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 446,012 
+ 
+ 
+ 
+ 
+ 03/01/32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.96% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 140,000 
+ 
+ 
+ 
+ 
+ 70,000 
+ 
+ 
+ 
+ 
+ 
+ 56. 
+ 
+ 
+ St. Augustine Premium Outlets 
+ 
+ 
+ FL 
+ 
+ 
+ St. Augustine (Jacksonville) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 327,754 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 57. 
+ 
+ 
+ St. Louis Premium Outlets 
+ 
+ 
+ MO 
+ 
+ 
+ St. Louis (Chesterfield) 
+ 
+ 
+ 
+ 60.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 351,416 
+ 
+ 
+ 
+ 
+ 10/06/27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.06% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 81,225 
+ 
+ 
+ 
+ 
+ 48,735 
+ 
+ 
+ 
+ 
+ 
+ 58. 
+ 
+ 
+ Tampa Premium Outlets 
+ 
+ 
+ FL 
+ 
+ 
+ Lutz (Tampa) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 468,093 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 59. 
+ 
+ 
+ Tanger Outlets — Columbus 
+ 
+ 
+ OH 
+ 
+ 
+ Sunbury (Columbus) 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ (25) 
+ 
+ 
+ 
+ 
+ 
+ 352,822 
+ 
+ 
+ 
+ 
+ 10/01/32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.25% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 71,000 
+ 
+ 
+ 
+ 
+ 35,500 
+ 
+ 
+ 
+ 
+ 
+ 60. 
+ 
+ 
+ Tanger Outlets — Galveston/Houston 
+ 
+ 
+ TX 
+ 
+ 
+ Texas City 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ (25) 
+ 
+ 
+ 
+ 
+ 
+ 352,705 
+ 
+ 
+ 
+ 
+ 06/26/30 
+ 
+ 
+ 
+ 
+ 
+ (20) 
+ 
+ 
+ 
+ 
+ 
+ 5.06% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 60,000 
+ 
+ 
+ 
+ 
+ 30,000 
+ 
+ 
+ 
+ 
+ 
+ 61. 
+ 
+ 
+ Tucson Premium Outlets 
+ 
+ 
+ AZ 
+ 
+ 
+ Marana (Tucson) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 364,383 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 62. 
+ 
+ 
+ Tulsa Premium Outlets 
+ 
+ 
+ OK 
+ 
+ 
+ Jenks (Tulsa) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 338,472 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 63. 
+ 
+ 
+ Twin Cities Premium Outlets 
+ 
+ 
+ MN 
+ 
+ 
+ Eagan 
+ 
+ 
+ 
+ 35.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 401,519 
+ 
+ 
+ 
+ 
+ 11/01/34 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.70% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 95,000 
+ 
+ 
+ 
+ 
+ 33,250 
+ 
+ 
+ 
+ 
+ 
+ 64. 
+ 
+ 
+ Vacaville Premium Outlets 
+ 
+ 
+ CA 
+ 
+ 
+ Vacaville 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 443,816 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 65. 
+ 
+ 
+ Waikele Premium Outlets 
+ 
+ 
+ HI 
+ 
+ 
+ Waipahu (Honolulu) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 219,369 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 66. 
+ 
+ 
+ Williamsburg Premium Outlets 
+ 
+ 
+ VA 
+ 
+ 
+ Williamsburg 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 507,519 
+ 
+ 
+ 
+ 
+ 02/06/29 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.23% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 184,466 
+ 
+ 
+ 
+ 
+ 184,466 
+ 
+ 
+ 
+ 
+ 
+ 67. 
+ 
+ 
+ Woodburn Premium Outlets 
+ 
+ 
+ OR 
+ 
+ 
+ Woodburn (Portland) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 389,223 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 68. 
+ 
+ 
+ 
+ Woodbury Common Premium Outlets 
+ 
+ 
+ 
+ NY 
+ 
+ 
+ Central Valley (New York) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 922,104 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 69. 
+ 
+ 
+ Wrentham Village Premium Outlets 
+ 
+ 
+ MA 
+ 
+ 
+ Wrentham (Boston) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 672,952 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total U.S. Premium Outlet Square Footage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30,247,548 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 34 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PROPERTY AND DEBT INFORMATION 
+ 
+ As of March 31, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEBT INFORMATION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PROPERTY NAME 
+ 
+ 
+ 
+ 
+ 
+ 
+ STATE 
+ 
+ 
+ 
+ 
+ 
+ 
+ CITY (CBSA) 
+ 
+ 
+ 
+ 
+ 
+ 
+ LEGAL 
+ 
+ OWNERSHIP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TOTAL 
+ 
+ SQUARE FEET 
+ 
+ 
+ 
+ 
+ 
+ 
+ MATURITY 
+ 
+ DATE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INTEREST 
+ 
+ RATE (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ TYPE 
+ 
+ 
+ 
+ 
+ 
+ 
+ INDEBTEDNESS ($ in 000 s) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TOTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUR SHARE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Mills 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1. 
+ 
+ 
+ Arizona Mills 
+ 
+ 
+ AZ 
+ 
+ 
+ Tempe (Phoenix) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,221,076 
+ 
+ 
+ 
+ 
+ 09/01/26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.80% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 89,622 
+ 
+ 
+ 
+ 
+ 89,622 
+ 
+ 
+ 
+ 
+ 
+ 2. 
+ 
+ 
+ Arundel Mills 
+ 
+ 
+ MD 
+ 
+ 
+ Hanover (Baltimore) 
+ 
+ 
+ 
+ 59.3% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,955,176 
+ 
+ 
+ 
+ 
+ 11/01/33 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7.70% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 360,000 
+ 
+ 
+ 
+ 
+ 213,301 
+ 
+ 
+ 
+ 
+ 
+ 3. 
+ 
+ 
+ Colorado Mills 
+ 
+ 
+ CO 
+ 
+ 
+ Lakewood (Denver) 
+ 
+ 
+ 
+ 37.5% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,379,052 
+ 
+ 
+ 
+ 
+ 11/01/26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.28% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 94,973 
+ 
+ 
+ 
+ 
+ 35,615 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 07/01/31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.80% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 30,000 
+ 
+ 
+ 
+ 
+ 11,250 
+ 
+ 
+ 
+ 
+ 
+ 4. 
+ 
+ 
+ Concord Mills 
+ 
+ 
+ NC 
+ 
+ 
+ Concord (Charlotte) 
+ 
+ 
+ 
+ 59.3% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,368,411 
+ 
+ 
+ 
+ 
+ 11/01/32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.55% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 226,372 
+ 
+ 
+ 
+ 
+ 134,148 
+ 
+ 
+ 
+ 
+ 
+ 5. 
+ 
+ 
+ Dolphin Mall 
+ 
+ 
+ FL 
+ 
+ 
+ Miami 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,400,544 
+ 
+ 
+ 
+ 
+ 12/09/29 
+ 
+ 
+ 
+ 
+ 
+ (5)(24) 
+ 
+ 
+ 
+ 
+ 
+ 5.35% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 1,000,000 
+ 
+ 
+ 
+ 
+ 1,000,000 
+ 
+ 
+ 
+ 
+ 
+ 6. 
+ 
+ 
+ Grapevine Mills 
+ 
+ 
+ TX 
+ 
+ 
+ Grapevine (Dallas) 
+ 
+ 
+ 
+ 59.3% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,778,980 
+ 
+ 
+ 
+ 
+ 07/01/34 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.26% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 250,000 
+ 
+ 
+ 
+ 
+ 148,150 
+ 
+ 
+ 
+ 
+ 
+ 7. 
+ 
+ 
+ Great Lakes Crossing Outlets 
+ 
+ 
+ MI 
+ 
+ 
+ Auburn Hills 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,354,696 
+ 
+ 
+ 
+ 
+ 02/01/33 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.52% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 180,000 
+ 
+ 
+ 
+ 
+ 180,000 
+ 
+ 
+ 
+ 
+ 
+ 8. 
+ 
+ 
+ Great Mall 
+ 
+ 
+ CA 
+ 
+ 
+ Milpitas (San Jose) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,367,231 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9. 
+ 
+ 
+ Gurnee Mills 
+ 
+ 
+ IL 
+ 
+ 
+ Gurnee (Chicago) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,931,339 
+ 
+ 
+ 
+ 
+ 10/01/26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.99% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 257,710 
+ 
+ 
+ 
+ 
+ 257,710 
+ 
+ 
+ 
+ 
+ 
+ 10. 
+ 
+ 
+ Katy Mills 
+ 
+ 
+ TX 
+ 
+ 
+ Katy (Houston) 
+ 
+ 
+ 
+ 62.5% 
+ 
+ 
+ 
+ 
+ 
+ (7) 
+ 
+ 
+ 
+ 
+ 
+ 1,679,911 
+ 
+ 
+ 
+ 
+ 08/01/32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.77% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 123,965 
+ 
+ 
+ 
+ 
+ 77,478 
+ 
+ 
+ 
+ 
+ 
+ 11. 
+ 
+ 
+ Mills at Jersey Gardens, The 
+ 
+ 
+ NJ 
+ 
+ 
+ Elizabeth 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,309,134 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12. 
+ 
+ 
+ Ontario Mills 
+ 
+ 
+ CA 
+ 
+ 
+ Ontario (Riverside) 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,430,423 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13. 
+ 
+ 
+ Opry Mills 
+ 
+ 
+ TN 
+ 
+ 
+ Nashville 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,119,936 
+ 
+ 
+ 
+ 
+ 07/01/26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.09% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 375,000 
+ 
+ 
+ 
+ 
+ 375,000 
+ 
+ 
+ 
+ 
+ 
+ 14. 
+ 
+ 
+ Outlets at Orange, The 
+ 
+ 
+ CA 
+ 
+ 
+ Orange (Los Angeles) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 863,355 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15. 
+ 
+ 
+ Potomac Mills 
+ 
+ 
+ VA 
+ 
+ 
+ 
+ Woodbridge (Washington, DC) 
+ 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,565,227 
+ 
+ 
+ 
+ 
+ 11/01/26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.46% 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 416,000 
+ 
+ 
+ 
+ 
+ 416,000 
+ 
+ 
+ 
+ 
+ 
+ 16. 
+ 
+ 
+ Sawgrass Mills 
+ 
+ 
+ FL 
+ 
+ 
+ Sunrise (Miami) 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,365,437 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total The Mills Square Footage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24,089,928 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other Properties 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Calhoun Outlet Marketplace, Dover Mall, Finger Lakes Premium Outlets, Florida Keys Outlet Marketplace, Gaffney Outlet Marketplace, Orlando Outlet Marketplace, Oxford Valley Mall, Philadelphia Mills, Southridge Mall, Square One Mall, Sugarloaf Mills, Sunvalley Shopping Center, The Avenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (7)(8)(10) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 851,879 
+ 
+ 
+ 
+ 
+ 226,195 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Other Properties Square 
+ 
+ Footage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11,004,300 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TOTAL U.S. SQUARE FOOTAGE (11)(12) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 188,514,257 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 35 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PROPERTY AND DEBT INFORMATION 
+ 
+ As of March 31, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEBT INFORMATION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PROPERTY NAME 
+ 
+ 
+ 
+ 
+ 
+ 
+ STATE 
+ 
+ 
+ 
+ 
+ 
+ 
+ CITY (CBSA) 
+ 
+ 
+ 
+ 
+ 
+ 
+ LEGAL 
+ 
+ OWNERSHIP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TOTAL 
+ 
+ SQUARE FEET 
+ 
+ 
+ 
+ 
+ 
+ 
+ MATURITY 
+ 
+ DATE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INTEREST 
+ 
+ RATE (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ TYPE 
+ 
+ 
+ 
+ 
+ 
+ 
+ INDEBTEDNESS ($ in 000 s) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TOTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUR SHARE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ International Properties 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AUSTRIA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1. 
+ 
+ 
+ 
+ 
+ Parndorf Designer Outlet Phases 3 & 4 
+ 
+ 
+ 
+ 
+ Vienna 
+ 
+ 
+ 
+ 
+ 90.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 118,000 
+ 
+ 
+ 
+ 
+ 07/04/29 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 
+ 
+ 2.00% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 208,043 
+ 
+ 
+ 
+ 
+ 187,239 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Austria Square Footage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 118,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CANADA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2. 
+ 
+ 
+ 
+ 
+ Premium Outlet Collection Edmonton IA 
+ 
+ 
+ 
+ 
+ Edmonton (Alberta) 
+ 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 422,000 
+ 
+ 
+ 
+ 
+ 11/30/27 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 
+ 
+ 3.87% 
+ 
+ 
+ 
+ 
+ Variable 
+ 
+ 
+ 
+ 
+ 97,964 
+ 
+ 
+ 
+ 
+ 48,982 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3. 
+ 
+ 
+ 
+ 
+ Premium Outlets Montr al 
+ 
+ 
+ 
+ 
+ Montr al (Quebec) 
+ 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 368,900 
+ 
+ 
+ 
+ 
+ 09/01/31 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 
+ 
+ 4.69% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 86,135 
+ 
+ 
+ 
+ 
+ 43,068 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4. 
+ 
+ 
+ 
+ 
+ Toronto Premium Outlets 
+ 
+ 
+ 
+ 
+ Toronto (Ontario) 
+ 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 504,900 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5. 
+ 
+ 
+ 
+ 
+ Vancouver Designer Outlet 
+ 
+ 
+ 
+ 
+ Vancouver (British Columbia) 
+ 
+ 
+ 
+ 
+ 45.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 326,000 
+ 
+ 
+ 
+ 
+ 12/01/27 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 
+ 
+ 4.42% 
+ 
+ 
+ 
+ 
+ Variable 
+ 
+ 
+ 
+ 
+ 59,218 
+ 
+ 
+ 
+ 
+ 26,648 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12/01/27 
+ 
+ 
+ 
+ 
+ 
+ (2)(16) 
+ 
+ 
+ 
+ 
+ 
+ 5.81% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 59,218 
+ 
+ 
+ 
+ 
+ 26,648 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Canada Square Footage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,621,800 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CHINA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6. 
+ 
+ 
+ 
+ 
+ CityOn.Xian 
+ 
+ 
+ 
+ 
+ Xi an 
+ 
+ 
+ 
+ 
+ 25.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 995,000 
+ 
+ 
+ 
+ 
+ 03/14/29 
+ 
+ 
+ 
+ 
+ 
+ (2)(23) 
+ 
+ 
+ 
+ 
+ 
+ 3.60% 
+ 
+ 
+ 
+ 
+ Variable 
+ 
+ 
+ 
+ 
+ 79,111 
+ 
+ 
+ 
+ 
+ 19,778 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7. 
+ 
+ 
+ 
+ 
+ CityOn.Zhengzhou 
+ 
+ 
+ 
+ 
+ Zhengzhou 
+ 
+ 
+ 
+ 
+ 24.5% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 919,000 
+ 
+ 
+ 
+ 
+ 03/22/32 
+ 
+ 
+ 
+ 
+ 
+ (2)(18) 
+ 
+ 
+ 
+ 
+ 
+ 3.85% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 108,056 
+ 
+ 
+ 
+ 
+ 26,474 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ China Square Footage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,914,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FRANCE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8. 
+ 
+ 
+ 
+ 
+ Paris-Giverny Designer Outlet 
+ 
+ 
+ 
+ 
+ Vernon 
+ 
+ 
+ 
+ 
+ 73.8% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 228,000 
+ 
+ 
+ 
+ 
+ 06/11/26 
+ 
+ 
+ 
+ 
+ 
+ (2)(19) 
+ 
+ 
+ 
+ 
+ 
+ 4.66% 
+ 
+ 
+ 
+ 
+ Variable 
+ 
+ 
+ 
+ 
+ 80,302 
+ 
+ 
+ 
+ 
+ 59,247 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9. 
+ 
+ 
+ 
+ 
+ Provence Designer Outlet 
+ 
+ 
+ 
+ 
+ Miramas 
+ 
+ 
+ 
+ 
+ 90.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 269,000 
+ 
+ 
+ 
+ 
+ 07/27/27 
+ 
+ 
+ 
+ 
+ 
+ ( 2)( 5)(19) 
+ 
+ 
+ 
+ 
+ 
+ 4.00% 
+ 
+ 
+ 
+ 
+ Variable 
+ 
+ 
+ 
+ 
+ 108,234 
+ 
+ 
+ 
+ 
+ 97,411 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ France Square Footage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 497,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ GERMANY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10. 
+ 
+ 
+ 
+ 
+ Ochtrup Designer Outlet 
+ 
+ 
+ 
+ 
+ Ochtrup 
+ 
+ 
+ 
+ 
+ 70.5% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 191,500 
+ 
+ 
+ 
+ 
+ 06/30/26 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 
+ 
+ 2.10% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 57,522 
+ 
+ 
+ 
+ 
+ 40,553 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Germany Square Footage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 191,500 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INDONESIA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11. 
+ 
+ 
+ 
+ 
+ Jakarta Premium Outlets 
+ 
+ 
+ 
+ 
+ Tangerang (Jakarta) 
+ 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 302,000 
+ 
+ 
+ 
+ 
+ 12/29/33 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 
+ 
+ 9.25% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 44,417 
+ 
+ 
+ 
+ 
+ 22,209 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Indonesia Square Footage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 302,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ITALY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12. 
+ 
+ 
+ 
+ 
+ La Reggia Designer Outlet 
+ 
+ 
+ 
+ 
+ Marcianise (Naples) 
+ 
+ 
+ 
+ 
+ 90.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 344,000 
+ 
+ 
+ 
+ 
+ 03/31/27 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 
+ 
+ 4.58% 
+ 
+ 
+ 
+ 
+ Variable 
+ 
+ 
+ 
+ 
+ 34,973 
+ 
+ 
+ 
+ 
+ 31,476 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 03/31/27 
+ 
+ 
+ 
+ 
+ 
+ (2)(16) 
+ 
+ 
+ 
+ 
+ 
+ 4.25% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 147,257 
+ 
+ 
+ 
+ 
+ 132,531 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13. 
+ 
+ 
+ 
+ 
+ Noventa Di Piave Designer Outlet 
+ 
+ 
+ 
+ 
+ Venice 
+ 
+ 
+ 
+ 
+ 90.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 353,000 
+ 
+ 
+ 
+ 
+ 01/23/31 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 
+ 
+ 5.00% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 319,353 
+ 
+ 
+ 
+ 
+ 287,418 
+ 
+ 
+ 
+ 
+ 
+ 
+ 14. 
+ 
+ 
+ 
+ 
+ The Mall Luxury Outlets Firenze 
+ 
+ 
+ 
+ 
+ Leccio (Florence) 
+ 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 264,750 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15. 
+ 
+ 
+ 
+ 
+ The Mall Luxury Outlets Sanremo 
+ 
+ 
+ 
+ 
+ Sanremo 
+ 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 122,300 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Italy Square Footage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,084,050 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ JAPAN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16. 
+ 
+ 
+ 
+ 
+ Ami Premium Outlets 
+ 
+ 
+ 
+ 
+ Ami (Tokyo) 
+ 
+ 
+ 
+ 
+ 40.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 315,000 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17. 
+ 
+ 
+ 
+ 
+ Fukaya-Hanazono Premium Outlets 
+ 
+ 
+ 
+ 
+ Fukaya City (Saitama) 
+ 
+ 
+ 
+ 
+ 40.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 296,300 
+ 
+ 
+ 
+ 
+ 10/01/32 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 
+ 
+ 0.70% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 67,164 
+ 
+ 
+ 
+ 
+ 26,866 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18. 
+ 
+ 
+ 
+ 
+ Gotemba Premium Outlets 
+ 
+ 
+ 
+ 
+ Gotemba City (Tokyo) 
+ 
+ 
+ 
+ 
+ 40.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 659,500 
+ 
+ 
+ 
+ 
+ 05/31/27 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 
+ 
+ 0.31% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 81,600 
+ 
+ 
+ 
+ 
+ 32,640 
+ 
+ 
+ 
+ 
+ 
+ 
+ 19. 
+ 
+ 
+ 
+ 
+ Kobe-Sanda Premium Outlets 
+ 
+ 
+ 
+ 
+ Kobe (Osaka) 
+ 
+ 
+ 
+ 
+ 40.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 441,000 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 20. 
+ 
+ 
+ 
+ 
+ Rinku Premium Outlets 
+ 
+ 
+ 
+ 
+ Izumisano (Osaka) 
+ 
+ 
+ 
+ 
+ 40.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 512,500 
+ 
+ 
+ 
+ 
+ 07/31/27 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 
+ 
+ 0.30% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 37,034 
+ 
+ 
+ 
+ 
+ 14,814 
+ 
+ 
+ 
+ 
+ 
+ 
+ 21. 
+ 
+ 
+ 
+ 
+ Sano Premium Outlets 
+ 
+ 
+ 
+ 
+ Sano (Tokyo) 
+ 
+ 
+ 
+ 
+ 40.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 390,800 
+ 
+ 
+ 
+ 
+ 02/29/28 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 
+ 
+ 1.28% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 28,561 
+ 
+ 
+ 
+ 
+ 11,424 
+ 
+ 
+ 
+ 
+ 
+ 
+ 22. 
+ 
+ 
+ 
+ 
+ Sendai-Izumi Premium Outlets 
+ 
+ 
+ 
+ 
+ Izumi Park Town (Sendai) 
+ 
+ 
+ 
+ 
+ 40.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 164,200 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 23. 
+ 
+ 
+ 
+ 
+ Shisui Premium Outlets 
+ 
+ 
+ 
+ 
+ Shisui (Chiba) 
+ 
+ 
+ 
+ 
+ 40.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 434,600 
+ 
+ 
+ 
+ 
+ 05/31/29 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 
+ 
+ 0.68% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 5,022 
+ 
+ 
+ 
+ 
+ 2,009 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11/30/28 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 
+ 
+ 1.03% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 16,319 
+ 
+ 
+ 
+ 
+ 6,528 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 36 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PROPERTY AND DEBT INFORMATION 
+ 
+ As of March 31, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEBT INFORMATION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PROPERTY NAME 
+ 
+ 
+ 
+ 
+ 
+ 
+ STATE 
+ 
+ 
+ 
+ 
+ 
+ 
+ CITY (CBSA) 
+ 
+ 
+ 
+ 
+ 
+ 
+ LEGAL 
+ 
+ OWNERSHIP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TOTAL 
+ 
+ SQUARE FEET 
+ 
+ 
+ 
+ 
+ 
+ 
+ MATURITY 
+ 
+ DATE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INTEREST 
+ 
+ RATE (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ TYPE 
+ 
+ 
+ 
+ 
+ 
+ 
+ INDEBTEDNESS ($ in 000 s) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TOTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUR SHARE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24. 
+ 
+ 
+ 
+ 
+ Toki Premium Outlets 
+ 
+ 
+ 
+ 
+ Toki (Nagoya) 
+ 
+ 
+ 
+ 
+ 40.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 367,700 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 25. 
+ 
+ 
+ 
+ 
+ Tosu Premium Outlets 
+ 
+ 
+ 
+ 
+ Fukuoka (Kyushu) 
+ 
+ 
+ 
+ 
+ 40.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 328,400 
+ 
+ 
+ 
+ 
+ 10/31/26 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 
+ 
+ 1.16% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 38,917 
+ 
+ 
+ 
+ 
+ 15,567 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Japan Square Footage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3,910,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ KOREA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 26. 
+ 
+ 
+ 
+ 
+ Busan Premium Outlets 
+ 
+ 
+ 
+ 
+ Busan 
+ 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 544,200 
+ 
+ 
+ 
+ 
+ 04/28/28 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 
+ 
+ 3.64% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 126,158 
+ 
+ 
+ 
+ 
+ 63,079 
+ 
+ 
+ 
+ 
+ 
+ 
+ 27. 
+ 
+ 
+ 
+ 
+ Jeju Premium Outlets 
+ 
+ 
+ 
+ 
+ Jeju Province 
+ 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 92,000 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 28. 
+ 
+ 
+ 
+ 
+ Paju Premium Outlets 
+ 
+ 
+ 
+ 
+ Paju (Seoul) 
+ 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 558,900 
+ 
+ 
+ 
+ 
+ 03/13/27 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 
+ 
+ 3.75% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 36,138 
+ 
+ 
+ 
+ 
+ 18,069 
+ 
+ 
+ 
+ 
+ 
+ 
+ 29. 
+ 
+ 
+ 
+ 
+ Siheung Premium Outlets 
+ 
+ 
+ 
+ 
+ Siheung (Seoul) 
+ 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 444,400 
+ 
+ 
+ 
+ 
+ 03/15/29 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 
+ 
+ 3.99% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 82,793 
+ 
+ 
+ 
+ 
+ 41,397 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30. 
+ 
+ 
+ 
+ 
+ Starfield Anseong 
+ 
+ 
+ 
+ 
+ Anseong 
+ 
+ 
+ 
+ 
+ 49.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,068,000 
+ 
+ 
+ 
+ 
+ 02/28/28 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 
+ 
+ 3.75% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 229,976 
+ 
+ 
+ 
+ 
+ 112,688 
+ 
+ 
+ 
+ 
+ 
+ 
+ 31. 
+ 
+ 
+ 
+ 
+ Starfield Hanam 
+ 
+ 
+ 
+ 
+ Hanam 
+ 
+ 
+ 
+ 
+ 17.2% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,709,000 
+ 
+ 
+ 
+ 
+ 07/28/30 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 
+ 
+ 3.72% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 453,380 
+ 
+ 
+ 
+ 
+ 77,755 
+ 
+ 
+ 
+ 
+ 
+ 
+ 32. 
+ 
+ 
+ 
+ 
+ Yeoju Premium Outlets 
+ 
+ 
+ 
+ 
+ Yeoju (Seoul) 
+ 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 551,600 
+ 
+ 
+ 
+ 
+ 09/28/27 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 
+ 
+ 3.56% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 34,169 
+ 
+ 
+ 
+ 
+ 17,085 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ South Korea Square Footage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4,968,100 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MALAYSIA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 33. 
+ 
+ 
+ 
+ 
+ Genting Highlands Premium Outlets 
+ 
+ 
+ 
+ 
+ Pahang (Kuala Lumpur) 
+ 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 277,500 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 34. 
+ 
+ 
+ 
+ 
+ Johor Premium Outlets 
+ 
+ 
+ 
+ 
+ Johor (Singapore) 
+ 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 309,400 
+ 
+ 
+ 
+ 
+ 09/30/31 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 
+ 
+ 5.16% 
+ 
+ 
+ 
+ 
+ Variable 
+ 
+ 
+ 
+ 
+ 2,164 
+ 
+ 
+ 
+ 
+ 1,082 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Malaysia Square Footage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 586,900 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MEXICO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 35. 
+ 
+ 
+ 
+ 
+ Premium Outlets Punta Norte 
+ 
+ 
+ 
+ 
+ Mexico City 
+ 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 333,000 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 36. 
+ 
+ 
+ 
+ 
+ Premium Outlets Quer taro 
+ 
+ 
+ 
+ 
+ Quer taro 
+ 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 274,800 
+ 
+ 
+ 
+ 
+ 12/20/33 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 
+ 
+ 11.03% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 19,564 
+ 
+ 
+ 
+ 
+ 9,782 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mexico Square Footage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 607,800 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NETHERLANDS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 37. 
+ 
+ 
+ 
+ 
+ Roermond Designer Outlet Phases 2, 3 & 4 
+ 
+ 
+ 
+ 
+ Roermond 
+ 
+ 
+ 
+ 
+ 
+ (13) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 298,000 
+ 
+ 
+ 
+ 
+ 06/06/29 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 
+ 
+ 3.90% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 322,124 
+ 
+ 
+ 
+ 
+ 289,912 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 08/18/30 
+ 
+ 
+ 
+ 
+ 
+ (2)(16) 
+ 
+ 
+ 
+ 
+ 
+ 4.02% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 230,088 
+ 
+ 
+ 
+ 
+ 108,746 
+ 
+ 
+ 
+ 
+ 
+ 
+ 38. 
+ 
+ 
+ 
+ 
+ Roosendaal Designer Outlet 
+ 
+ 
+ 
+ 
+ Roosendaal 
+ 
+ 
+ 
+ 
+ 94.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 247,500 
+ 
+ 
+ 
+ 
+ 02/28/29 
+ 
+ 
+ 
+ 
+ 
+ (2)(17) 
+ 
+ 
+ 
+ 
+ 
+ 5.40% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 74,777 
+ 
+ 
+ 
+ 
+ 70,290 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Netherlands Square Footage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 545,500 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPAIN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 39. 
+ 
+ 
+ 
+ 
+ Malaga Designer Outlet 
+ 
+ 
+ 
+ 
+ Malaga 
+ 
+ 
+ 
+ 
+ 46.1% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 191,000 
+ 
+ 
+ 
+ 
+ 05/05/28 
+ 
+ 
+ 
+ 
+ 
+ (2)(21) 
+ 
+ 
+ 
+ 
+ 
+ 4.33% 
+ 
+ 
+ 
+ 
+ Variable 
+ 
+ 
+ 
+ 
+ 73,054 
+ 
+ 
+ 
+ 
+ 33,685 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Spain Square Footage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 191,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ THAILAND 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 40. 
+ 
+ 
+ 
+ 
+ Siam Premium Outlets Bangkok 
+ 
+ 
+ 
+ 
+ Bangkok 
+ 
+ 
+ 
+ 
+ 50.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 264,000 
+ 
+ 
+ 
+ 
+ 06/05/31 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 
+ 
+ 4.69% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 54,693 
+ 
+ 
+ 
+ 
+ 27,347 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thailand Square Footage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 264,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ UNITED KINGDOM 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 41. 
+ 
+ 
+ 
+ 
+ Ashford Designer Outlet 
+ 
+ 
+ 
+ 
+ Kent 
+ 
+ 
+ 
+ 
+ 45.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 281,000 
+ 
+ 
+ 
+ 
+ 05/23/27 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 
+ 
+ 5.88% 
+ 
+ 
+ 
+ 
+ Variable 
+ 
+ 
+ 
+ 
+ 27,361 
+ 
+ 
+ 
+ 
+ 12,312 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 05/23/27 
+ 
+ 
+ 
+ 
+ 
+ (2)(16) 
+ 
+ 
+ 
+ 
+ 
+ 4.29% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 109,434 
+ 
+ 
+ 
+ 
+ 49,245 
+ 
+ 
+ 
+ 
+ 
+ 
+ 42. 
+ 
+ 
+ 
+ 
+ West Midlands Designer Outlet 
+ 
+ 
+ 
+ 
+ Staffordshire 
+ 
+ 
+ 
+ 
+ 23.2% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 197,000 
+ 
+ 
+ 
+ 
+ 06/06/26 
+ 
+ 
+ 
+ 
+ 
+ (2)(16) 
+ 
+ 
+ 
+ 
+ 
+ 7.49% 
+ 
+ 
+ 
+ 
+ Fixed 
+ 
+ 
+ 
+ 
+ 85,909 
+ 
+ 
+ 
+ 
+ 19,965 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ United Kingdom Square Footage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 478,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TOTAL INTERNATIONAL SQUARE FOOTAGE (11)(14) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17,279,650 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TOTAL SQUARE FOOTAGE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 205,793,907 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 37 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PROPERTY AND DEBT INFORMATION 
+ 
+ As of March 31, 2026 
+ 
+ FOOTNOTES: 
+ 
+ (1) 
+ 
+ Variable rate debt interest rates are based on the following base rates as of March 31, 2026: Overnight SOFR 3.68%; 1 month CME Term SOFR 3.6648%; 30 Day Average SOFR 3.6522%; 1M EURIBOR at 1.893%; 3M EURIBOR at 2.079%; 6M EURIBOR at 2.475%; 1M YEN TIBOR at 0.9132%; 6M YEN TIBOR at 1.3479%; 1M CORRA at 2.27%; Overnight SONIA 3.7296% and Cost of Funds Rate at 3.63%. 
+ 
+ (2) 
+ 
+ Foreign currency balances translated to USD: EUR-USD 1.15044, CAD-USD 0.71779, JPY-USD 0.00628, GBP-USD 1.32168, KRW-USD 0.00066, MYR-USD 0.24727, MXN-USD 0.05547, THB-USD 0.03051, CNY-USD 0.14485, IDR-USD 0.00006. 
+ 
+ (3) 
+ 
+ Unencumbered asset. 
+ 
+ (4) 
+ 
+ The Operating Partnership receives substantially all the economic benefit of the property due to a preference or advance. 
+ 
+ (5) 
+ 
+ Includes applicable extensions available at our option. 
+ 
+ (6) 
+ 
+ The Operating Partnership owns a mortgage note that encumbers Pheasant Lane Mall that entitles it to 100% of the economics of this property. 
+ 
+ (7) 
+ 
+ The Operating Partnership s direct and indirect interests in some joint venture properties are subject to preferences on distributions and/or capital allocation in favor of other partners or the Operating Partnership. 
+ 
+ (8) 
+ 
+ Three properties (Lee Premium Outlets, Calhoun Outlet Marketplace and Gaffney Outlet Marketplace) are secured by cross-collateralized and cross-defaulted mortgages. 
+ 
+ (9) 
+ 
+ These two properties are secured by cross-collateralized and cross-defaulted mortgages. 
+ 
+ (10) 
+ 
+ Consists of 9 encumbered properties with interest rates ranging from 3.60% to 8.02% and maturities between 2026 and 2029. 
+ 
+ (11) 
+ 
+ Does not include any other spaces in joint ventures which are not listed above. 
+ 
+ (12) 
+ 
+ GLA includes office space. 
+ 
+ (13) 
+ 
+ The Company owns a 90.0% interest in Phases 2 & 3 and a 46.1% interest in Phase 4. 
+ 
+ (14) 
+ 
+ Does not include Kl pierre. 
+ 
+ (15) 
+ 
+ Mortgage is outstanding as of March 31, 2026. 
+ 
+ (16) 
+ 
+ Through an interest rate swap agreement, interest is essentially fixed at the all-in-rate presented. 
+ 
+ (17) 
+ 
+ Through an interest rate swap agreement, interest is essentially fixed at the all-in-rate presented until February 26, 2027. 
+ 
+ (18) 
+ 
+ The interest rate resets on April 16th of each year. 
+ 
+ (19) 
+ 
+ Through an interest rate cap agreement, interest is essentially capped at the all-in-rate presented. 
+ 
+ (20) 
+ 
+ Through interest rate swap agreements, the interest is essentially fixed at the all-in rate presented until June 26, 2029. 
+ 
+ (21) 
+ 
+ Through interest rate cap agreements, the interest is essentially fixed at the all-in rate presented until May 5, 2027. 
+ 
+ (22) 
+ 
+ Through an interest rate cap agreement, interest is essentially capped at the all-in-rate presented until February 15, 2028. 
+ 
+ (23) 
+ 
+ The interest rate resets on January 1st of each year. 
+ 
+ (24) 
+ 
+ Through interest rate swap agreements, the interest is essentially fixed at the all-in rate presented until December 15, 2027. 
+ 
+ (25) 
+ 
+ This property is managed by a third party. Reported amounts may be provided in arrears. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 38 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NON-GAAP PRO-RATA FINANCIAL INFORMATION 
+ 
+ The following pro-rata financial information is not, and is not intended to be, a presentation in accordance with GAAP. The non-GAAP pro-rata financial information aggregates our proportionate economic ownership of each asset in our property portfolio that we do not wholly own. The amounts in the column labeled Our Share of Joint Ventures were derived on a property-by-property or entity-by-entity basis by applying to each line item the ownership percentage interest used to arrive at our share of the net operations for the period consistent with the application of the equity method of accounting to each of our unconsolidated joint ventures. A similar calculation was performed for the amounts in the column labeled Noncontrolling Interests, which represents the share of consolidated assets and net income or loss attributable to any noncontrolling interest. 
+ We do not control the unconsolidated joint ventures and the presentations of the assets and liabilities and revenues and expenses do not represent our legal claim to such items. The operating agreements of the unconsolidated joint ventures generally provide that partners may receive cash distributions (1) to the extent there is available cash from operations, (2) upon a capital event, such as a refinancing or sale or (3) upon liquidation of the venture. The amount of cash each partner receives is based upon specific provisions of each operating agreement and varies depending on factors including the amount of capital contributed by each partner and whether any contributions are entitled to priority distributions. Upon liquidation of the joint venture and after all liabilities, priority distributions and initial equity contributions have been repaid, the partners generally would be entitled to any residual cash remaining based on their respective legal ownership percentages. 
+ We provide pro-rata financial information because we believe it assists investors and analysts in estimating our economic interest in our unconsolidated joint ventures when read in conjunction with the Company s reported results under GAAP. The presentation of pro-rata financial information has limitations as an analytical tool. Some of these limitations include: 
+ 
+ 
+ The amounts shown on the individual line items were derived by applying our overall economic ownership interest percentage determined when applying the equity method of accounting and do not necessarily represent our legal claim to the assets and liabilities, or the revenues and expenses; and 
+ 
+ 
+ 
+ Other companies in our industry may calculate their pro-rata interest differently than we do, limiting the usefulness as a comparative measure. 
+ 
+ Because of these limitations, the pro-rata financial information should not be considered in isolation or as a substitute for our financial statements as reported under GAAP. We compensate for these limitations by relying primarily on our GAAP results and using the pro-rata financial information only supplementally. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 39 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NON-GAAP PRO-RATA FINANCIAL INFORMATION (In thousands) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Three Months Ended 
+ 
+ March 31, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Three Months Ended 
+ 
+ March 31, 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Noncontrolling 
+ 
+ Interests (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our 
+ 
+ Share of 
+ 
+ Joint Ventures 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Noncontrolling 
+ 
+ Interests (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our 
+ 
+ Share of 
+ 
+ Joint Ventures 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REVENUE: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Lease income 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ (26,753 ) 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 426,050 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ (15,270 ) 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 350,709 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Management fees and other revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other income 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2,047 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 51,802 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (666 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 47,098 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (28,800 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 477,852 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (15,936 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 397,807 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXPENSES: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Property operating 
+ 
+ 
+ 
+ 
+ 
+ 
+ (4,872 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 96,222 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (3,303 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 76,527 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 
+ 
+ 
+ (5,642 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 133,585 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (5,438 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 88,471 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Real estate taxes 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2,214 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 31,386 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (151 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 26,990 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Repairs and maintenance 
+ 
+ 
+ 
+ 
+ 
+ 
+ (945 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11,966 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (488 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9,517 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Advertising and promotion 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1,762 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11,656 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2,623 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10,356 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home and regional office costs 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ General and administrative 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1,955 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30,834 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1,987 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 26,502 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total operating expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (17,390 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 315,649 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (13,990 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 238,363 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OPERATING INCOME BEFORE OTHER ITEMS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (11,410 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 162,203 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1,946 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 159,444 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest expense 
+ 
+ 
+ 
+ 
+ 
+ 6,160 
+ 
+ 
+ 
+ 
+ 
+ 
+ (94,763 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3,400 
+ 
+ 
+ 
+ 
+ 
+ 
+ (81,371 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loss due to disposal, exchange, or revaluation of equity interests, net 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income and other tax benefit 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loss from unconsolidated entities 
+ 
+ 
+ 
+ 
+ 
+ (371 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ (67,440 ) (2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (162 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ (78,073 ) (2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Unrealized gains in fair value of publicly traded equity instruments and derivative instrument, net 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gain on acquisition of controlling interest, sale or disposal of, or recovery on, assets and interests in unconsolidated entities and impairment, net 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Consolidated income from continuing operations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (5,621 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,292 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CONSOLIDATED NET INCOME 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (5,621 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,292 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income attributable to noncontrolling interests 
+ 
+ 
+ 
+ 
+ 
+ (5,621 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ — (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,292 
+ 
+ 
+ 
+ 
+ 
+ 
+ — (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Preferred dividends 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NET INCOME ATTRIBUTABLE TO COMMON STOCKHOLDERS 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ Represents our venture partners share of operations from consolidated properties. 
+ 
+ (2) 
+ 
+ Our Total Share of income from unconsolidated entities excludes our share of net results related to our investment in Kl pierre, RGG, Catalyst, Jamestown, and our previously held equity investment in TRG up to the October 31, 2025 transaction. 
+ 
+ (3) 
+ 
+ Represents limited partners interest in the Operating Partnership. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NON-GAAP PRO-RATA FINANCIAL INFORMATION 
+ 
+ (In thousands) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ As of March 31, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ As of March 31, 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Noncontrolling 
+ 
+ Interests 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our 
+ 
+ Share of 
+ 
+ Joint Ventures 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Noncontrolling 
+ 
+ Interests 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our 
+ 
+ Share of 
+ 
+ Joint Ventures 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ASSETS: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Investment properties, at cost 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ (1,365,733 ) 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 12,945,842 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ (655,500 ) 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 9,984,789 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Less accumulated depreciation 
+ 
+ 
+ 
+ 
+ 
+ 
+ (198,970 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4,622,535 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (173,511 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4,251,058 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1,166,763 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8,323,307 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (481,989 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5,733,731 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash and cash equivalents 
+ 
+ 
+ 
+ 
+ 
+ 
+ (39,249 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 675,024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (25,360 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 543,921 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Short-term investments 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tenant receivables and accrued revenue, net 
+ 
+ 
+ 
+ 
+ 
+ 
+ (14,437 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 276,694 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (6,628 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 224,300 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Investment in unconsolidated entities, at equity 
+ 
+ 
+ 
+ 
+ 
+ 
+ (3,850 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ (4,192,162 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (6,091 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2,547,974 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Investment in Kl pierre, at equity 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Right-of-use assets, net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10,106 
+ 
+ 
+ 
+ 
+ 
+ 
+ 53,606 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (852 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 52,655 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Deferred costs and other assets 
+ 
+ 
+ 
+ 
+ 
+ 
+ (23,333 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,216,621 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (21,533 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,226,399 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total assets 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ (1,237,526 ) 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 6,353,090 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ (542,453 ) 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 5,233,032 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LIABILITIES: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mortgages and unsecured indebtedness 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ (502,806 ) 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 7,427,964 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ (226,370 ) 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 6,337,191 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Accounts payable, accrued expenses, intangibles, and deferred revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ (30,145 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 495,695 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (20,433 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 427,218 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash distributions and losses in unconsolidated entities, at equity 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1,791,354 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1,729,919 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dividend payable 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Lease liabilities 
+ 
+ 
+ 
+ 
+ 
+ 
+ (13,533 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 54,407 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (852 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 48,317 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other liabilities 
+ 
+ 
+ 
+ 
+ 
+ 
+ (56,567 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 166,378 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (46,821 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 150,225 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total liabilities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (603,051 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6,353,090 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (294,476 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5,233,032 
+ 
+ 
+ 
+ 
+ 
+ 
+ Commitments and contingencies 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Limited partners preferred interest in the Operating Partnership 
+ 
+ 
+ 
+ 
+ $ 
+ (253,714 ) 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ (226,229 ) 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EQUITY: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stockholders equity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capital stock 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Series J 8 3/8% cumulative redeemable preferred stock 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Common stock, $.0001 par value 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Class B common stock, $.0001 par value 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capital in excess of par value 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Accumulated deficit 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Accumulated other comprehensive loss 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Common stock held in treasury at cost 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total stockholders equity 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Noncontrolling interests 
+ 
+ 
+ 
+ 
+ 
+ 
+ (380,761 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (21,748 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total equity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (380,761 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (21,748 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total liabilities and equity 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ (1,237,526 ) 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 6,353,090 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ (542,453 ) 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 5,233,032 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 41 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ GUIDANCE RECONCILIATION 
+ 
+ The following table provides the GAAP to non-GAAP reconciliation for the expected range of estimated net income attributable to common stockholders per diluted share to estimated Real Estate FFO per diluted share: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LOW 
+ 
+ END 
+ 
+ 
+ 
+ 
+ 
+ 
+ HIGH 
+ 
+ END 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FOR THE YEAR ENDING DECEMBER 31, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Estimated net income attributable to common stockholders per diluted share 
+ 
+ 
+ 
+ $ 
+ 6.61 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 6.76 
+ 
+ 
+ 
+ 
+ 
+ 
+ Add: Depreciation and amortization including Simon s share of unconsolidated entities 
+ 
+ 
+ 
+ 
+ 6.40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.40 
+ 
+ 
+ 
+ 
+ 
+ 
+ Less: Gain on acquisition of controlling interest, sale or disposal of, or recovery on, assets and interest in unconsolidated entities and impairment, net* 
+ 
+ 
+ 
+ 
+ (0.17 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ (0.17 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Estimated FFO per diluted share 
+ 
+ 
+ 
+ 
+ $ 
+ 12.84 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 12.99 
+ 
+ 
+ 
+ 
+ 
+ 
+ Add: Loss due to disposal, exchange or revaluation of equity interests, net* 
+ 
+ 
+ 
+ 
+ 0.02 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.02 
+ 
+ 
+ 
+ 
+ 
+ 
+ Add: Other platform investments, net of tax* 
+ 
+ 
+ 
+ 
+ 0.31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.31 
+ 
+ 
+ 
+ 
+ 
+ 
+ Less: Unrealized gains in fair value adjustments of the Kl pierre exchangeable bonds and publicly traded equity instruments, net* 
+ 
+ 
+ 
+ 
+ (0.07 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ (0.07 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Estimated Real Estate FFO per diluted share 
+ 
+ 
+ 
+ 
+ $ 
+ 13.10 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 13.25 
+ 
+ 
+ 
+ 
+ 
+ 
+ * 
+ 
+ Amounts represent year-to-date actual results for the respective line items. The Company is not providing guidance for these line items. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1Q 2026 SUPPLEMENTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 42
