@@ -1,0 +1,22 @@
+Ticker: TJX
+Source: TJX_2026-05-20.txt
+Generated: 2026-06-20 15:47 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: TJX Companies Inc. (Q1 FY27)**
+
+**Demand & Activity:**
+Demand is robust, with consolidated comparable sales increasing 6% ("consolidated comparable sales increased 6%"). Growth was broad-based across all divisions, with particular strength in the U.S. home sector ("HomeGoods (U.S.) +9%") and Canada ("TJX Canada +7%"). Management noted an increase in customer transactions across all banners ("All of our divisions delivered strong comparable sales growth and increases in customer transactions").
+
+**Labor & Wages:**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**Pricing Power & Inflation:**
+The company is seeing moderate relief in some input costs but anticipates future headwinds. Gross profit margins improved due to "favorable inventory and fuel hedges" ("benefit from favorable inventory and fuel hedges"). However, the outlook for the remainder of the year assumes "a higher cost of fuel will be in place," which is expected to be "unfavorable to pretax profit margin" ("assumes that a higher cost of fuel will be in place for the remainder of the year").
+
+**Supply Chain & Inventory:**
+Inventory levels are growing moderately to capitalize on high availability of goods. Total inventories rose to $7.7 billion, with per-store inventory up 6% on a constant currency basis ("Consolidated inventories on a per-store basis... were up 6% on a constant currency basis"). Management describes the current supply environment as "outstanding" ("Availability of quality, branded merchandise is outstanding").
+
+**Capital Spending (Capex):**
+The company is continuing a modest expansion of its physical footprint. During the quarter, TJX added 48 stores, increasing total square footage by 0.8% ("increased its store count by 48 stores overall... and increased total square footage by 0.8%"). Management remains committed to "expanding our global footprint" ("continue expanding our global footprint").
