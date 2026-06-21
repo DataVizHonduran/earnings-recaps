@@ -1,0 +1,22 @@
+Ticker: KMX
+Source: KMX_2026-06-17.txt
+Generated: 2026-06-21 15:58 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: CarMax Inc. (KMX)**
+
+**1. Demand & Activity**
+Retail demand is softening. While total retail unit sales increased slightly, comparable store used unit sales declined 0.8% ("comparable store used unit sales decreased 0.8%"). Wholesale activity remains robust, with unit sales increasing 8.4% ("Wholesale units increased 8.4%"). Consumer buying activity is modest to declining, as vehicle acquisitions from consumers and dealers fell 4.4% ("Bought 322,000 vehicles from consumers and dealers, a decrease of 4.4%").
+
+**2. Labor & Wages**
+The company is actively reducing headcount and compensation costs to improve efficiency. SG&A expenses decreased 3.7%, primarily attributed to lower payroll costs ("primarily driven by lower compensation and benefits costs as we make tangible progress toward our targeted SG&A reductions").
+
+**3. Pricing Power & Inflation**
+Pricing power is limited, with the company implementing strategic price cuts to stimulate volume. Retail gross profit per unit declined by $230, reflecting "the continuation of pricing actions implemented to drive an improved sales trend." However, average retail selling prices rose 4.5% year-over-year ("increase in average retail selling price of approximately $1,200 per unit or 4.5%").
+
+**4. Supply Chain & Inventory**
+Inventory acquisition is softening, with a decrease in vehicles bought from both consumers and dealers ("decrease of 2.5% and 15.4%, respectively"). The company is focusing on operational efficiency to lower "reconditioning costs through technology and operational efficiency."
+
+**5. Capital Spending (Capex)**
+Investment is focused on logistics and technology to "Run Lean." Recent capacity expansion includes the opening of one stand-alone reconditioning auction center in Georgia ("opened one stand-alone reconditioning auction center located in Locust Grove, Georgia"). Future spending is directed toward enhancing the logistics network and digital-to-store conversion capabilities.
