@@ -1,0 +1,22 @@
+Ticker: LEN
+Source: LEN_2026-06-11.txt
+Generated: 2026-06-21 15:58 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Lennar Corp (LEN)**
+
+**1. Demand & Activity**
+Demand is softening, characterized by "stubborn headwinds" including elevated mortgage rates and "constrained affordability" ("stubborn headwinds that have challenged the housing market"). New orders decreased 4% year-over-year, and the company is moderating its full-year delivery targets ("moderating our target full-year 2026 deliveries"). However, management views underlying demand as "real, deferred, and building" due to a fundamental housing shortage.
+
+**2. Labor & Wages**
+The report does not detail specific hiring or turnover challenges, but notes that household income is improving as "wages drift higher and employment remains strong," which is helping to narrow the gap between home prices and affordability.
+
+**3. Pricing Power & Inflation**
+Pricing power is limited; the company is utilizing "base price adjustments" and significant incentives (12.9%) to "sustain volume" in a weak market. While the company notes a "resurgent inflation reading of 4.2% driven by higher energy prices," it is seeing modest relief in production costs, with construction costs improving "another 2% sequentially and 13% over the last several years."
+
+**4. Supply Chain & Inventory**
+Inventory levels are lean and improving. The company reduced inventory to "2.1 homes per community from 3 homes per community last quarter," and total owned homebuilding inventory declined to $10.9 billion from $11.4 billion a year ago. Operational efficiency is robust, with cycle times reaching a "new record low of 121 days."
+
+**5. Capital Spending (Capex)**
+The company is pursuing an "asset-light operating model" to reduce balance sheet risk, with less than 5% of land currently held on the balance sheet. Future investment is focused on "technology initiatives" and a "technology platform" intended to drive long-term margin recovery.
