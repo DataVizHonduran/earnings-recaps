@@ -1,0 +1,13 @@
+Ticker: ACN
+Source: ACN_2026-06-18.txt
+Generated: 2026-06-23 16:28 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Demand for large-scale reinvention and AI transformation is robust ("Demand for large-scale reinvention remains strong," "seeing more large-scale AI transformation programs"). However, overall revenue growth is modest, increasing 3% in local currency. Activity varies by geography, with moderate growth in Asia Pacific (8% local currency) and slight growth in the Americas (1% local currency). New bookings are softening, declining 3% in local currency ("New bookings... a decrease of 2% in U.S. dollars and 3% in local currency").
+
+**Labor & Wages:** The report provides no specific data on wage inflation or hiring difficulty, though the company referenced "business optimization costs" recorded in Q1 FY26 and Q4 FY25, suggesting internal restructuring.
+
+**Pricing Power & Inflation:** There is evidence of slight margin improvement, with operating margins expanding 20 basis points to 17.0% ("Operating margin... expanded 20 basis points to 17.0%"). No specific mentions of price increases or input cost pressures were provided.
+
+**Supply Chain & Inventory:** Not applicable. Days services outstanding (DSOs) remain stable at 48 days ("DSOs, were 48 days
