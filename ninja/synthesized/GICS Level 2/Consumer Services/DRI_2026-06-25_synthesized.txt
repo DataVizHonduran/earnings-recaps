@@ -1,0 +1,11 @@
+Ticker: DRI
+Source: DRI_2026-06-25.txt
+Generated: 2026-06-25 16:30 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Demand remains robust, with consolidated same-restaurant sales increasing 4.6% in Q4 ("blended same-restaurant sales increase of 4.6%"). Growth was particularly strong at LongHorn Steakhouse ("LongHorn Steakhouse 9.5%"), while Fine Dining saw more modest gains ("Fine Dining 1.9%"). The outlook for FY2027 suggests a slight softening in momentum, with projected same-restaurant sales growth of "2.5% to 3.5%."
+
+**Labor & Wages:** No specific current-period data provided; however, the company continues to flag risks regarding the "inability to hire, train, reward and retain restaurant team members" and the impact of "increased labor and insurance costs."
+
+**Pricing Power & Inflation:** The company anticipates modest inflationary pressure in the coming year, forecasting "Total inflation of approximately 3.0%" for fiscal 20
