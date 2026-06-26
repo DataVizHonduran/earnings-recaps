@@ -1,0 +1,15 @@
+Ticker: FDX
+Source: FDX_2026-06-23.txt
+Generated: 2026-06-26 16:22 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Robust. The company reports growth in both U.S. Domestic and International export package volumes ("increased U.S. Domestic and International export package volume") and forecasts strong continued momentum with projected revenue growth of 11% YoY for calendar year 2026 ("forecasting Revenue Growth 11% YoY").
+
+**Labor & Wages:** Moderate pressure. Operating results were partially offset by rising labor costs, specifically citing "increased... wage rates" and "higher variable incentive compensation expenses."
+
+**Pricing Power & Inflation:** Robust. FedEx demonstrates strong pricing power through "higher U.S. Domestic and International Priority package yields." However, the company continues to navigate external cost pressures stemming from "financial impacts of global trade policy changes."
+
+**Supply Chain & Inventory:** Stable. The company is focused on capacity optimization to ensure assets match current market requirements, evidenced by the decision to retire aircraft to "better align air network capacity with anticipated demand."
+
+**Capital Spending (Capex):** Modest and targeted. Annual capital spending as a percentage of revenue has reached the "lowest annual level in FedEx Corporation history." The CY 2026 forecast of $3.9 billion is strategically focused on "network optimization and efficiency improvement," specifically "fleet and facility modernization and automation."

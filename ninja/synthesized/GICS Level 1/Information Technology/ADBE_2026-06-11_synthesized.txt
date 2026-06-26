@@ -1,0 +1,15 @@
+Ticker: ADBE
+Source: ADBE_2026-06-11.txt
+Generated: 2026-06-26 16:21 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Robust. Adobe reported record Q2 revenue of $6.62 billion, reflecting "strong AI-driven demand across our customer groups." Growth is particularly accelerated in new technology segments, with AI-first ARR that "triples year over year and exceeds $500 million." Demand remains moderate to strong across all segments, with Business Professionals/Consumers subscription revenue growing 16% and Creative Marketing Professionals growing 13% year-over-year.
+
+**Labor & Wages:** Stable, though noting executive-level turnover as the CFO "is departing the company on June 15, 2026." There were no specific mentions of broad-based wage inflation, hiring difficulties, or headcount reductions.
+
+**Pricing Power & Inflation:** Not explicitly discussed. While revenue growth is strong, the report attributes this to "AI-driven demand" rather than specific pricing adjustments or input cost fluctuations.
+
+**Supply Chain & Inventory:** Not applicable. As a software-as-a-service (SaaS) provider, the company reports no physical inventory or supply chain lead-time constraints.
+
+**Capital Spending (Capex):** Stable. Balance sheet data indicates that net property and equipment
