@@ -1,0 +1,22 @@
+Ticker: ES
+Source: ES_2026-07-01.txt
+Generated: 2026-07-01 16:29 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided press release, there is limited economic data as the document focuses on a specific corporate divestiture rather than a comprehensive earnings review.
+
+**1. Demand & Activity**
+*   **Stable:** The company is shifting its strategic focus to become a "pure-play regulated pipes and wires utility" ("focusing on our core electric and natural gas operations across New England"). No specific growth or decline in customer demand was noted.
+
+**2. Labor & Wages**
+*   **Not Addressed:** The transcript does not mention hiring, turnover, or wage pressures, noting only a total headcount of "more than 10,500 employees across three states."
+
+**3. Pricing Power & Inflation**
+*   **Not Addressed:** There are no mentions of price increases or input cost fluctuations.
+
+**4. Supply Chain & Inventory**
+*   **Not Addressed:** The document contains no information regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+*   **Moderate/Strategic:** The company intends to use the $1.7 billion in net proceeds from the sale of Aquarion Water Company to "displace Eversource debt" and "strengthen the Eversource balance sheet." Management indicated a commitment to "efficiently reinvesting capital for the benefit of our customers" to ensure "safe, reliable electric and natural gas service."

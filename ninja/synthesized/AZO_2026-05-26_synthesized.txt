@@ -1,0 +1,22 @@
+Ticker: AZO
+Source: AZO_2026-05-26.txt
+Generated: 2026-07-01 16:29 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: AutoZone (AZO)**
+
+**Demand & Activity**
+Domestic demand is growing moderately, with "both DIY and Commercial sales grew impressively this past quarter" and domestic same-store sales increasing 4.1%. Conversely, international activity is softening; sales in Mexico and Brazil "continued to be challenged" and performed "below our plan."
+
+**Labor & Wages**
+The report does not provide specific updates on current wage levels or headcount changes, though it lists "wage inflation" and the "ability to hire, train and retain qualified employees" as general ongoing risk factors.
+
+**Pricing Power & Inflation**
+The company is experiencing persistent inflationary pressure. Gross margin decreased by 57 basis points, partly due to a "77 basis point net non-cash LIFO impact," which typically indicates rising replacement costs for inventory.
+
+**Supply Chain & Inventory**
+Inventory levels have increased moderately, rising 10.8% over the prior year. Management attributes this growth primarily to "growth initiatives and inflation." There are no specific mentions of lead time volatility.
+
+**Capital Spending (Capex)**
+Investment in physical capacity remains robust. The company opened 82 new stores this quarter and maintains a stable outlook to "open approximately 355-365 stores for the full fiscal year."

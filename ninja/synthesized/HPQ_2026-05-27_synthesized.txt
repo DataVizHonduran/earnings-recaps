@@ -1,0 +1,22 @@
+Ticker: HPQ
+Source: HPQ_2026-05-27.txt
+Generated: 2026-07-01 16:29 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: HP Inc. (Q2 FY2026)**
+
+**1. Demand & Activity**
+Demand is mixed but showing moderate growth in value despite softening unit volumes. Personal Systems revenue grew robustly, led by Commercial (+14%) and Consumer (+10%) segments, though total units declined 7% ("Total units were down 7%"). Printing demand remains flat overall, with a notable decline in Consumer Printing revenue ("Consumer Printing net revenue was down 10%") offset by stable Commercial Printing.
+
+**2. Labor & Wages**
+The report does not provide specific data on wage inflation or hiring rates, though it references ongoing "restructuring and other charges" and "planned structural cost reductions" as part of its fiscal 2026 outlook.
+
+**3. Pricing Power & Inflation**
+The company is experiencing persistent inflationary pressure on inputs, specifically regarding raw materials. Management explicitly noted the challenge of "navigating rising commodity costs." While revenue grew 9%, the divergence between rising revenue and falling unit volumes suggests some pricing power or a shift toward higher-value AI-enabled devices.
+
+**4. Supply Chain & Inventory**
+Inventory levels have increased slightly, suggesting a modest buildup. Inventory ended the quarter at $9.2 billion, representing an increase of 5 days quarter-over-quarter to a total of 73 days ("Inventory ended the quarter at $9.2 billion, up 5 days quarter over quarter to 73 days").
+
+**5. Capital Spending (Capex)**
+Investment in physical and intangible assets remains stable. The company reported net investments in property, plant, equipment, and purchased intangibles of $170 million for the quarter ("net investments in property, plant, equipment and purchased intangibles of $170 million"). Strategic focus is currently directed toward "intelligent devices, edge AI, and connected experiences."
