@@ -1,0 +1,22 @@
+Ticker: MDT
+Source: MDT_2026-06-03.txt
+Generated: 2026-07-01 16:29 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Medtronic (MDT)**
+
+**1. Demand & Activity:**
+Demand is robust, with the company reporting its highest annual revenue growth in a decade ("strongest annual top-line growth Medtronic has delivered in 10 years"). Growth is particularly strong in the Cardiovascular segment, led by a significant surge in Cardiac Ablation Solutions ("increased 78% globally, including 124% U.S. growth"). Demand is also moderate to strong in Medical Surgical, specifically within Acute Care Monitoring ("up low-double-digits").
+
+**2. Labor & Wages:**
+Not addressed. The transcript contains no specific mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation:**
+The company is facing modest persistent pressure from trade policy, as tariffs have negatively impacted operating margins ("operating margin includes impacts of... 80 basis points from tariffs" in Q4 and "50 basis points from tariffs" for FY26). There is no specific mention of price increases or relief in commodity/freight costs.
+
+**4. Supply Chain & Inventory:**
+Not addressed. The transcript does not provide data on lead times or inventory levels.
+
+**5. Capital Spending (Capex):**
+Investment is focused on technology and portfolio expansion through a "tuck-in M&A and investment strategy" ("Executed several tuck-in M&A and venture capital transactions to strengthen portfolios"). The company is actively investing in its product pipeline to drive future growth ("investments we’re making in our pipeline").
