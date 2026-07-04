@@ -1,0 +1,24 @@
+Ticker: STZ
+Source: STZ_2026-06-30.txt
+Generated: 2026-07-04 15:10 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Constellation Brands (STZ)**
+
+**1. Demand & Activity**
+Demand is **stable to modest** across the enterprise, though characterized by a "discerning and value-conscious consumer environment" ("Despite a discerning and value-conscious consumer environment, we grew Enterprise organic net sales"). 
+*   **Beer:** Activity is **stable**, with a 1.8% increase in shipment volumes ("Net sales increased 2% driven by a 1.8% increase in shipment volumes"). However, demand is shifting toward specific brands; while Modelo Especial and Corona Extra saw depletions decline by ~2% and >5% respectively, Pacifico and Victoria saw **robust** growth of 21% and 14% ("declines for Modelo Especial... were partially offset by growth from Pacifico, Victoria").
+*   **Wine & Spirits:** Organic demand is **moderate**, with organic net sales increasing 8% and depletions growing 6.6% ("organic net sales and depletions growth of 8% and 6.6%, respectively").
+
+**2. Labor & Wages**
+No specific mentions of hiring, turnover, or wage pressures were provided in the text.
+
+**3. Pricing Power & Inflation**
+The company continues to exercise **moderate** pricing power to offset costs ("Net sales increased 2% driven by... continued favorable pricing"). There is no specific mention of commodity or freight relief, though operating margins in the beer segment remained "relatively flat" as pricing gains were offset by higher marketing and SG&A spend ("growth in shipment volumes and favorable pricing were offset by unfavorable mix and higher marketing and other SG A spend").
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capex remains **robust**, with a fiscal 2027 guidance of $800 million ("Capital expenditures $800 million"). Investment is focused on expanding production capacity, specifically the ongoing construction of a new facility in Mexico ("continuing to progress on the build out of our third brewery at Veracruz").
