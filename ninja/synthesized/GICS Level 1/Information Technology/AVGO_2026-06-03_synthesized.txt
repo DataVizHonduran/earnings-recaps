@@ -1,0 +1,22 @@
+Ticker: AVGO
+Source: AVGO_2026-06-03.txt
+Generated: 2026-07-08 16:03 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Broadcom Inc. (AVGO)**
+
+**1. Demand & Activity**
+Demand is **robust** and accelerating, driven primarily by the AI sector. AI semiconductor revenue grew 143% year-over-year ("driven by increasing demand for custom AI accelerators and AI networking"), with expectations for this growth to accelerate further to over 200% in the next quarter. Overall consolidated revenue growth is **robust**, increasing 48% year-over-year, with a projected increase of 84% for the third quarter.
+
+**2. Labor & Wages**
+The provided text contains no specific data regarding hiring, turnover, or wage trends. The company notes a general strategic "dependence on senior management and our ability to attract and retain qualified personnel," but provides no current operational updates on labor costs.
+
+**3. Pricing Power & Inflation**
+The company is demonstrating **strong** operating leverage, with non-GAAP operating margins remaining **stable** at 67% ("reflecting our strong operating leverage"). There are no specific mentions of price hikes or input cost pressures (commodities/freight) in the report.
+
+**4. Supply Chain & Inventory**
+The report does not provide specific lead-time data or inventory levels. However, the company acknowledges a structural "dependence on contract manufacturing and outsourced supply chain" and the ongoing need to "accurately estimate customers demand and adjust our manufacturing and supply chain accordingly."
+
+**5. Capital Spending (Capex)**
+Capital expenditures remain **modest** relative to total revenue. For the second quarter, the company spent $231 million on capital expenditures ("spent $231 million on capital expenditures"), representing approximately 1% of quarterly revenue.
