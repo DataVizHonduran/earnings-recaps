@@ -1,0 +1,22 @@
+Ticker: MKC
+Source: MKC_2026-06-25.txt
+Generated: 2026-07-09 16:30 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: McCormick & Co (MKC)**
+
+**1. Demand & Activity**
+Demand is mixed, showing a divergence between business segments. The Flavor Solutions segment is experiencing moderate growth, specifically with "accelerated momentum in Flavor Solutions, with gains across Flavors and Branded Foodservice customers." Conversely, Consumer demand is softening, characterized by a "2% decline in volume and product mix" organically, particularly in the Americas where organic volume/mix fell 3.6%. Management intends to "increase reinvestment to improve Consumer volume trends."
+
+**2. Labor & Wages**
+The report does not provide specific data on hiring, turnover, or wage levels, though it notes a general reliance on its "Power of People culture" to support performance.
+
+**3. Pricing Power & Inflation**
+The company maintains robust pricing power, with organic sales growth driven primarily by price increases (e.g., a 20.4% price increase in the Consumer segment). However, it faces persistent inflationary pressures, specifically "higher commodity costs and costs related to the Middle East conflict." These are being mitigated by "productivity initiatives and cost savings programs" via the Comprehensive Continuous Improvement (CCI) program.
+
+**4. Supply Chain & Inventory**
+There are no specific mentions of lead times or inventory levels. The report does note a one-time cost reduction from an "IEEPA tariff refund," which reduced costs of goods sold by $28 million.
+
+**5. Capital Spending (Capex)**
+Investment is focused on digital and operational scaling rather than physical capacity. The company is seeing "increased... technology investments" and "digital transformation" costs. Additionally, significant resources are being directed toward "integration planning for the proposed combination with Unilever Foods" to create a "future-ready organization."
