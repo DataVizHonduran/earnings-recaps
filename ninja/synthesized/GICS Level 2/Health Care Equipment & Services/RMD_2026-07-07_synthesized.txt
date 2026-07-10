@@ -1,0 +1,22 @@
+Ticker: RMD
+Source: RMD_2026-07-07.txt
+Generated: 2026-07-10 16:27 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: ResMed (RMD)**
+
+**1. Demand & Activity**
+Demand appears robust in core segments, with a strategic pivot toward "high-growth, scalable opportunities in sleep health, breathing health and connected home-based healthcare." The company is narrowing its focus to these specific markets while exiting the post-acute care software space ("sell its MatrixCare business").
+
+**2. Labor & Wages**
+No mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+No mentions of pricing actions or input cost trends.
+
+**4. Supply Chain & Inventory**
+No mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+The company is shifting its capital allocation strategy to prioritize innovation and scale. The divestiture of MatrixCare is intended to "strengthen Resmed’s ability to reallocate capital and resources toward innovation, operational scale and long-term value creation."

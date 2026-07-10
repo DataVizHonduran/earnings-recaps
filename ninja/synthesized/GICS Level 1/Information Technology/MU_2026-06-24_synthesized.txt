@@ -1,0 +1,27 @@
+Ticker: MU
+Source: MU_2026-06-24.txt
+Generated: 2026-07-10 16:27 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Micron Technology (MU)**
+
+**1. Demand & Activity**
+Demand is robust and growing rapidly, primarily driven by the AI sector. This is evidenced by record quarterly revenue and a strong positive outlook for the following period. Growth is broad-based across all business units, with significant activity in Cloud, Core Data Center, and Mobile/Client segments.
+*   **Signal:** Robust growth ("customers rapidly growing demand"; "record fiscal Q3 financial results and even stronger outlook for Q4").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, wage adjustments, or headcount changes.
+*   **Signal:** Not addressed.
+
+**3. Pricing Power & Inflation**
+The company is demonstrating significant pricing power, as evidenced by a dramatic expansion in gross margins (from 37.7% in FQ3-25 to 84.6% in FQ3-26). This suggests the ability to pass on costs or command premiums for AI-driven products.
+*   **Signal:** Robust pricing power ("Gross margin... 84.6% [vs] 37.7% [prior year]").
+
+**4. Supply Chain & Inventory**
+Inventory levels appear stable and lean relative to the massive surge in revenue, suggesting efficient throughput and high absorption of supply.
+*   **Signal:** Stable inventory ("Inventories $8,567 [million] vs $8,355 [million] prior year" despite a 4x increase in revenue).
+
+**5. Capital Spending (Capex)**
+Capex is increasing at a record pace to expand capacity and advance technology nodes (1-beta and 1-gamma) to meet AI demand.
+*   **Signal:** Robust investment ("investing at record levels in technology, products and supply"; "investments in capital expenditures, net, were $7.1 billion" for the quarter).
