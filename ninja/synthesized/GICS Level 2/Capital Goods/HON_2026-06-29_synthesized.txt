@@ -1,0 +1,22 @@
+Ticker: HON
+Source: HON_2026-06-29.txt
+Generated: 2026-07-11 14:59 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Analysis: Honeywell Technologies (HON)**
+
+**1. Demand & Activity**
+Demand signals are not explicitly quantified in this release, but the company is pivoting toward a "long-term growth agenda" ("pursue a long-term growth agenda") by transitioning from automation to autonomy. Activity is focused on the building, process, and industrial sectors ("spans the building, process and industrial sectors").
+
+**2. Labor & Wages**
+No specific mentions of wage inflation, hiring difficulties, or headcount reductions. The company notes a global workforce of "more than 50,000 employees."
+
+**3. Pricing Power & Inflation**
+The company does not report current pricing actions; however, it identifies "inflation" and "changes in or application of trade and tax laws and policies, including the impacts of tariffs" as ongoing macroeconomic risks that could affect performance.
+
+**4. Supply Chain & Inventory**
+Current inventory levels and lead times are not disclosed. "Supply chain disruptions" are listed as a general risk factor in the forward-looking statements.
+
+**5. Capital Spending (Capex)**
+The company is restructuring to allow for more targeted investment. The spin-off is intended to provide "greater focus and financial flexibility" to "invest with greater precision" across its remaining industrial automation portfolios.
