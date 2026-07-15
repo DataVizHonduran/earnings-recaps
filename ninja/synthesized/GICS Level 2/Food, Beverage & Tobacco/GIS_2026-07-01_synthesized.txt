@@ -1,0 +1,22 @@
+Ticker: GIS
+Source: GIS_2026-07-01.txt
+Generated: 2026-07-15 15:37 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: General Mills (GIS)**
+
+**1. Demand & Activity**
+Demand is **softening**, particularly in North America. Full-year organic net sales declined 2% ("due in part to weaker consumer sentiment and significant volatility that weighed on category volume growth"). Activity is bifurcated by geography: North American Retail organic sales fell 3% for the year, while International organic sales saw **modest** growth of 2% ("International 2 pts"). Consumers are increasingly price-sensitive, leading to a "higher share of consumer purchases on promotion."
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is experiencing **persistent** inflationary pressure on inputs, which has offset some pricing gains ("adjusted gross margin was down 100 basis points... driven by higher input costs"). While the company has utilized "favorable net price realization" to protect margins, management indicates that the primary phase of aggressive pricing has concluded ("With our price investment work behind us"). To counter "elevated inflation," the company is shifting focus toward internal efficiency.
+
+**4. Supply Chain & Inventory**
+Inventory levels appear **stable**, though specific lead times were not disclosed. The company noted a "benefit from changes in retailer inventory" contributed to the gap between organic net sales and Nielsen-measured retail sales in the North America Retail segment.
+
+**5. Capital Spending (Capex)**
+General Mills is pursuing a **robust** efficiency and transformation agenda. The company is targeting "$3 billion in cumulative cost savings by fiscal 2030," with $750 million expected in fiscal 2027. These savings are intended to "fund our growth investments" and support a "significant increase in innovation and renovation" to restore topline growth.
