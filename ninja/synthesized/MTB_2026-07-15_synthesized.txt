@@ -1,0 +1,22 @@
+Ticker: MTB
+Source: MTB_2026-07-15.txt
+Generated: 2026-07-15 15:37 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: M&T Bank Corp (MTB)**
+
+**1. Demand & Activity**
+Loan demand is showing moderate growth across multiple segments. There is robust expansion in commercial and industrial (C&I) lending, with average balances increasing by $2.3 billion sequentially ("broad-based growth in average commercial and industrial loan balances of $2.3 billion"). Demand is also slightly positive for residential real estate and consumer loans. Commercial real estate (CRE) activity is mixed; while average balances rose slightly in the recent quarter, year-over-year figures show a moderate decline due to payoffs ("partially offset by a $1.8 billion decline in average commercial real estate loan balances, reflecting payoffs").
+
+**2. Labor & Wages**
+The report does not explicitly detail hiring or wage trends, though it notes a seasonal decline in expenses ("decline in noninterest expense reflects seasonal salaries and employee benefits expense recognized in the first quarter").
+
+**3. Pricing Power & Inflation**
+The company is maintaining stable pricing power, with the net interest margin holding steady at 3.70%. There is evidence of favorable repricing of assets and liabilities ("favorable earning asset and interest-bearing liability repricing"). Additionally, the bank is seeing increased revenue from hedging activities for its clients ("rise in revenues from interest rate swap agreements entered into for commercial customers").
+
+**4. Supply Chain & Inventory**
+Not applicable. (The company is a financial institution; no physical supply chain or inventory data provided).
+
+**5. Capital Spending (Capex)**
+The company is investing in core operational infrastructure, specifically regarding its data and accounting systems ("implementation of a new general ledger platform during the second quarter of 2026").

@@ -1,0 +1,22 @@
+Ticker: BLK
+Source: BLK_2026-07-15.txt
+Generated: 2026-07-15 15:37 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: BlackRock (BLK)**
+
+**1. Demand & Activity**
+Demand for investment products is robust, characterized by record-level activity. The firm reported "record first half net inflows of $321 billion" ("record first half net inflows of $321 billion including $192 billion in the second quarter"). This growth is broad-based, with specific strength noted in "ETFs, private markets, active fixed income and systematic equity strategies" ("driven by ETFs, private markets, active fixed income and systematic equity strategies"). Additionally, demand for financial technology remains strong, evidenced by a "13% growth in technology services and subscription revenue" ("driven by continued momentum in Aladdin® and multi-product solutions").
+
+**2. Labor & Wages**
+Not addressed.
+
+**3. Pricing Power & Inflation**
+The company is experiencing moderate to robust revenue growth driven by both market conditions and pricing/fee structures. This is reflected in "10% organic base fee growth" ("reflecting 10% organic base fee growth") and "higher performance fees" ("reflects the positive impact of markets... higher performance fees").
+
+**4. Supply Chain & Inventory**
+Not applicable.
+
+**5. Capital Spending (Capex)**
+While specific facility expenditures were not detailed, the company is investing in technology and strategic expansion, as evidenced by the "fees related to the HPS Transaction" ("reflects the positive impact of... fees related to the HPS Transaction") and the continued scaling of its Aladdin technology platform.
