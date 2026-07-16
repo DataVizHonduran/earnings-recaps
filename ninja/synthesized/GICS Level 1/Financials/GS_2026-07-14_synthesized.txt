@@ -1,0 +1,22 @@
+Ticker: GS
+Source: GS_2026-07-14.txt
+Generated: 2026-07-16 15:41 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Goldman Sachs (2Q26)**
+
+**1. Demand & Activity**
+Demand for financial services is **robust**, particularly in capital markets. Investment banking fees grew significantly, driven by a surge in equity underwriting ("significantly higher net revenues from secondary and initial public offerings") and debt underwriting ("significantly higher net revenues from leveraged finance and asset-backed activity"). M&A activity is expanding, reflecting an "increase in industry-wide completed mergers and acquisitions volumes." Additionally, the investment banking fees backlog has increased relative to 2025. Asset management demand remains **moderate to strong**, evidenced by "higher average assets under supervision."
+
+**2. Labor & Wages**
+Labor costs are increasing, though headcount is **softening**. The firm reported "significantly higher compensation and benefits expenses," which management attributed to "improved operating performance." Despite higher spending on remaining staff, total "headcount decreased 2% compared with the end of the first quarter of 2026."
+
+**3. Pricing Power & Inflation**
+Not explicitly addressed in terms of client pricing or input inflation. However, the firm is experiencing **moderate** pressure on net interest margins within its private banking segment ("lower net interest margin related to Marcus deposits").
+
+**4. Supply Chain & Inventory**
+Not applicable to this sector.
+
+**5. Capital Spending (Capex)**
+No specific mentions of capacity, technology, or facility investments were provided in the release.
