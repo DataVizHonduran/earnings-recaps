@@ -1,0 +1,22 @@
+Ticker: JNJ
+Source: JNJ_2026-07-15.txt
+Generated: 2026-07-18 14:59 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Johnson & Johnson (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by strong operational growth of 5.6% ("strong operational performance"). Growth is most pronounced in the U.S. market, which saw operational sales increase by 7.3% ("U.S. $14,533... 7.3%"), compared to a more modest 3.5% adjusted operational growth internationally ("International... 3.5%"). Product-line demand is strong in Innovative Medicine (6.9% adjusted growth), driven by Oncology and Immunology, while MedTech saw moderate growth of 3.7% ("MedTech worldwide operational sales grew 3.6%").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring difficulties, turnover, wage increases, or headcount reductions.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail pricing actions or specific input cost pressures. However, the company's ability to raise full-year guidance suggests stable to positive margin trajectories ("increasing 2026 guidance with estimated reported sales of $101.1 Billion").
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific commentary regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment in domestic capacity is robust, specifically within the Vision segment. The company is committing significant capital to expand its U.S. footprint ("Johnson Johnson Invests more than $1 Billion to Strengthen U.S. Vision Manufacturing in Jacksonville, Florida"). Additionally, the company is pursuing growth through strategic acquisitions in the oncology and joint reconstruction spaces ("Acquire Firefly Bio, Inc." and "Acquire Miniature Radiofrequency Tracking Technology").

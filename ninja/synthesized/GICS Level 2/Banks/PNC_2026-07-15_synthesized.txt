@@ -1,0 +1,22 @@
+Ticker: PNC
+Source: PNC_2026-07-15.txt
+Generated: 2026-07-18 14:59 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: PNC Financial Services Group (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is mixed but generally robust in commercial sectors. Commercial loan activity showed moderate growth, driven by "strong new production and increased utilization" ("Average commercial loans increased $13.0 billion, or 5%"). Conversely, consumer demand is softening, specifically in big-ticket items, as "average consumer loans decreased $0.7 billion, or 1%," attributed to "declines in both residential mortgage and auto loans." Capital markets activity is robust, contributing to "record capital markets and advisory revenue."
+
+**2. Labor & Wages**
+The report does not explicitly detail wage inflation or hiring difficulties; however, headcount increased moderately due to inorganic growth, having merged "more than 1,620 employees" from FirstBank into the franchise. Noninterest expenses rose slightly, partly "due to increased business activity" ("noninterest expense was $3.8 billion, increasing $166 million, or 5%").
+
+**3. Pricing Power & Inflation**
+PNC maintains stable pricing power in its lending and fee products. Fee income grew by 10% ("driven by growth across all fee categories"). The bank is managing funding costs effectively, as the "rate paid on interest-bearing deposits... declined 5 basis points," suggesting a slight easing of deposit pricing pressure.
+
+**4. Supply Chain & Inventory**
+Not applicable. (No mentions of physical supply chains or inventories).
+
+**5. Capital Spending (Capex)**
+Investment is focused on inorganic expansion and technology integration. The company recently completed a significant capacity expansion in the Southwest, having "converted approximately 780,000 customers... and 95 branches across Colorado and Arizona" via the FirstBank acquisition. The bank continues to invest in its portfolio, including "repositioning of approximately $4 billion of available-for-sale investment securities into higher yielding instruments."
