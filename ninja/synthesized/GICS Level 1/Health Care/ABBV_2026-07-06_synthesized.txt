@@ -1,0 +1,13 @@
+Ticker: ABBV
+Source: ABBV_2026-07-06.txt
+Generated: 2026-07-19 15:01 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided text, which consists solely of a financial guidance table rather than a full earnings transcript, there is a significant lack of qualitative economic data. The following is the only available signal:
+
+**1. Demand & Activity:** Not mentioned.
+**2. Labor & Wages:** Not mentioned.
+**3. Pricing Power & Inflation:** Not mentioned.
+**4. Supply Chain & Inventory:** Not mentioned.
+**5. Capital Spending (Capex):** The company is maintaining moderate investment in its future product pipeline through acquired in-process research and development ("Acquired IPR D and Milestones Expense").
