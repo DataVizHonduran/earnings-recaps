@@ -1,0 +1,22 @@
+Ticker: PLD
+Source: PLD_2026-07-16.txt
+Generated: 2026-07-20 15:55 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Prologis (PLD)**
+
+**1. Demand & Activity**
+Demand appears **moderate to robust**, though showing signs of normalization. The U.S. IBI Activity Index remains positive at 60.1, though it is lower than the 84-point average ("U.S. IBI ACTIVITY INDEX diffusion index, points... 60.1 Average 84"). Space utilization has seen a **slight** softening, moving from an average of 85.3% to 84.4% ("U.S. SPACE UTILIZATION percent... 84.4% Average 85.3%"). Lease negotiation gestation has improved, shortening from an average of 54 days to 48 days ("NEW LEASE NEGOTIATION GESTATION in days... 48 Average 54").
+
+**2. Labor & Wages**
+The provided data contains no specific mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company maintains **moderate** pricing power. Guidance for 2026 projects a "Same store NOI - cash" increase between 6.75% and 7.25% ("Same store NOI - cash - Prologis Share* 6.75% 7.25%"), suggesting continued ability to raise rents. General and administrative expenses have increased year-over-year, rising from $106.8M to $129.6M for the quarter ("General and administrative... 129,626 106,871"), indicating some persistent operational cost pressure.
+
+**4. Supply Chain & Inventory**
+Not explicitly detailed; however, the "Development portfolio" value fluctuates, ending June 2026 at $2.74B compared to $3.02B in December 2025 ("Development portfolio 2,741,535... 3,019,009"), suggesting a steady flow of completions and stabilizations.
+
+**5. Capital Spending (Capex)**
+Investment in capacity remains **robust**. The company has a significant "Data Center Power Pipeline" of 5.8GW secured or in advanced stages ("DATA CENTER POWER PIPELINE 5.8GW secured or in advanced stage"). 2026 guidance indicates aggressive expansion, with development starts projected between $5.5B and $6.5B ("Development starts $5,500 $6,500") and acquisitions targeted between $2.5B and $3.5B ("Acquisitions $2,500 $3,500").
