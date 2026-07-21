@@ -1,0 +1,22 @@
+Ticker: USB
+Source: USB_2026-07-16.txt
+Generated: 2026-07-21 15:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: U.S. Bancorp (2Q26)**
+
+**1. Demand & Activity:**
+Demand is robust, characterized by strong growth in credit and deposits. Average total loans increased moderately by 7.1% year-over-year ("Average total loans increased 7.1% on a year-over-year basis"), and the company reported a "third consecutive quarter of record consumer deposits." Fee income showed broad-based momentum, increasing 13.7% year-over-year ("reflecting higher revenue across all fee revenue categories").
+
+**2. Labor & Wages:**
+The company is experiencing persistent upward pressure on labor costs. Noninterest expenses rose primarily due to "higher compensation and employee benefits expense" both on a year-over-year and linked-quarter basis.
+
+**3. Pricing Power & Inflation:**
+The bank is demonstrating moderate pricing power, with the net interest margin increasing to 2.79% from 2.66% year-over-year ("net interest margin increased to 2.79 percent from 2.66 percent"). This was driven by "benefits from fixed asset repricing" and an "improved earning asset mix."
+
+**4. Supply Chain & Inventory:**
+Not applicable. (No mentions of physical supply chains or inventories in the provided financial release).
+
+**5. Capital Spending (Capex):**
+Investment is focused on technology and strategic expansion. The company reported "higher technology and communications expense" as a driver of increased noninterest expenses. Additionally, the bank is aggressively expanding its capacity in capital markets through the "successful completion of the BTIG acquisition," which enhances its institutional equity and M&A advisory capabilities.

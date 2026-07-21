@@ -1,0 +1,22 @@
+Ticker: BAC
+Source: BAC_2026-07-14.txt
+Generated: 2026-07-21 15:47 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Bank of America (2Q26)**
+
+**1. Demand & Activity:**
+Demand is robust across most segments. Consumer spending remains strong, with combined credit/debit card spend increasing 9% ("Combined credit / debit card spend of $266 billion, up 9%"). Business activity is expanding, evidenced by growth in corporate, commercial, and business banking loans ("Average loans and leases increased 7%, with growth across corporate, commercial and business banking"). Additionally, commercial borrowing has seen a recent uptick ("commercial borrowing has picked up").
+
+**2. Labor & Wages:**
+The report does not specify hiring difficulties or turnover; however, it notes ongoing investment in human capital as a driver of increased costs ("Noninterest expense... up 8%, driven equally by revenue-related expenses and investments in people, brand and technology").
+
+**3. Pricing Power & Inflation:**
+The bank is seeing moderate growth in revenue through higher net interest income and fee-based services ("Revenue increased 15% from last year"). While not citing "pricing power" in a retail sense, they report a "10% improvement in treasury service charges," suggesting an ability to increase fees for corporate clients.
+
+**4. Supply Chain & Inventory:**
+Not applicable. (No mentions of physical supply chains or inventory levels).
+
+**5. Capital Spending (Capex):**
+Investment in technology and digital infrastructure remains a priority to drive efficiency and sales ("Noninterest expense... driven equally by... investments in people, brand and technology"). The bank continues to prioritize "investments for growth" to improve its efficiency ratio ("Disciplined expense management, coupled with investments for growth").
