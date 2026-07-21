@@ -1,0 +1,22 @@
+Ticker: NFLX
+Source: NFLX_2026-07-16.txt
+Generated: 2026-07-21 15:47 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: NFLX (Q2 2026)**
+
+**1. Demand & Activity:**
+Demand remains robust, characterized by double-digit revenue growth across all geographic regions ("delivered double digit revenue growth in all regions"). Engagement is healthy, with view hours growing a modest 2% in H1 2026 ("view hours grew +2% in H1 26 vs. +1.5% growth in 2025"). Growth is being driven by membership expansion and the diversification of content into video podcasts and cloud games ("cloud-based TV games are gaining traction").
+
+**2. Labor & Wages:**
+Not addressed. The transcript contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation:**
+The company continues to exercise moderate pricing power. Recent price increases in the UCAN region have been well-received ("recent price change, which has gone well and as expected"). Overall, the results of these adjustments are consistent with historical patterns ("results of our recent price changes are consistent with prior changes").
+
+**4. Supply Chain & Inventory:**
+Not applicable. As a digital service, there are no mentions of physical lead times or inventory levels.
+
+**5. Capital Spending (Capex):**
+Investment is focused on technology and content. The company is leveraging AI to enhance member experience and ad capabilities ("leveraging AI to provide a more personalized, immersive and interactive experience"). Content spending remains a primary investment driver, with a specific strategic allocation toward live programming, which is expected to account for "just over 5% of our content spend."
