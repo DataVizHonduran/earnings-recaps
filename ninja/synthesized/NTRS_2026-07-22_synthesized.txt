@@ -1,0 +1,22 @@
+Ticker: NTRS
+Source: NTRS_2026-07-22.txt
+Generated: 2026-07-22 15:45 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Northern Trust Corp (NTRS)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by a "constructive operating environment" ("constructive operating environment"). The firm reported an eighth consecutive quarter of positive organic trust-fee growth, supported by "net client inflows" and "healthy capital markets activity." Activity is particularly strong in Asia-Pacific markets, where foreign exchange trading income rose due to "higher trading volumes driven by client activity and market volatility" ("particularly in Asia-Pacific markets").
+
+**2. Labor & Wages**
+The company is seeing moderate headcount reductions and restructuring. The firm recognized $51.0 million in "severance-related charges" ("$51.0 million (pre-tax) of severance-related charges"). Additionally, the company issued a "broad based one-time equity grant to eligible employees" totaling $33.1 million ("$33.1 million (pre-tax) expense related to a broad based one-time equity grant").
+
+**3. Pricing Power & Inflation**
+Pricing power remains stable to positive, evidenced by "double-digit net interest income growth" ("double-digit net interest income growth"). The firm is benefiting from higher market spreads, specifically noting that securities lending fees increased sequentially "primarily due to higher spreads" ("primarily due to higher spreads").
+
+**4. Supply Chain & Inventory**
+Not applicable to this financial services entity.
+
+**5. Capital Spending (Capex)**
+The company is moderately repositioning its technology and asset base. This includes a $61.5 million charge related to "software dispositions" ("$61.5 million (pre-tax) charge related to software dispositions"), suggesting a shift in technology infrastructure or the retirement of legacy systems. The firm also engaged in a "repositioning of the portfolio" regarding its available-for-sale debt securities ("repositioning of the portfolio").
