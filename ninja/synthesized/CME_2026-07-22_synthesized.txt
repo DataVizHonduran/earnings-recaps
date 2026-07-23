@@ -1,0 +1,15 @@
+Ticker: CME
+Source: CME_2026-07-22.txt
+Generated: 2026-07-23 15:57 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Demand is robust, with the company reporting the "strongest [first half] in CME Group's history" driven by "record trading in Q1 and our second-highest Q2 volumes ever." Trading activity remains high, with average daily volume (ADV) reaching "29.8 million contracts," including a significant non-U.S. contribution of "9.1 million contracts."
+
+**Labor & Wages:** Not mentioned.
+
+**Pricing Power & Inflation:** Pricing power appears robust, particularly within data services, as "market data revenue increased 20% to a record $238 million." The company is currently managing "variable costs associated with CME Group's transition to the Google Cloud."
+
+**Supply Chain & Inventory:** Not mentioned.
+
+**Capital Spending (Capex):** Investment is focused on technology infrastructure and product diversification. The company is executing a "transition to the Google Cloud" and continues to "innovate a number of new tools" to expand its offering, including "Single-Stock futures, 1-Ounce Gold contracts... U.S. Treasury clearing and Compute futures."
