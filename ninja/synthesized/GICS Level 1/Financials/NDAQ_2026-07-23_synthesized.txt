@@ -1,0 +1,22 @@
+Ticker: NDAQ
+Source: NDAQ_2026-07-23.txt
+Generated: 2026-07-24 15:34 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Nasdaq, Inc. (2Q26)**
+
+**1. Demand & Activity**
+Demand is **robust** across all business segments, characterized by double-digit growth in all three divisions ("delivered double-digit growth across all three divisions"). Activity in the IPO market is **strengthening** ("increased marketing and advertising costs due to a strengthening IPO environment"), highlighted by record-breaking proceeds and a 74% win rate for new operating company listings. Demand for regulatory and financial crime technology remains **strong**, particularly among SMBs and enterprise clients ("maintained strong momentum across both SMBs and enterprise clients").
+
+**2. Labor & Wages**
+The company is experiencing **moderate** upward pressure on labor costs. Operating expenses increased partly due to "higher compensation and benefits costs from our strong revenue execution," suggesting that wage growth is currently tied to scaling operations to meet demand.
+
+**3. Pricing Power & Inflation**
+Nasdaq demonstrates **stable** pricing power, specifically within its Trade Management Services, which "benefitted from strong demand for data center services and pricing." There were no mentions of input cost inflation or commodity pressures impacting the bottom line.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a financial technology and exchange operator, the company reports no material physical supply chain or inventory constraints.
+
+**5. Capital Spending (Capex)**
+Investment in technology is **robust** and focused on long-term scalability and AI integration. The company noted "increased investments in technology to drive long-term growth" and is actively expanding its "innovation pipeline" regarding AI-driven "Agentic Workforce" tools and "Always-On infrastructure."

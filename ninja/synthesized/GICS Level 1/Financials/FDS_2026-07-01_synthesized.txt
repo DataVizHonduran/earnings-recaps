@@ -1,0 +1,22 @@
+Ticker: FDS
+Source: FDS_2026-07-01.txt
+Generated: 2026-07-24 15:34 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: FactSet Research Systems (FDS)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by accelerating organic revenue growth of 7.0% ("Organic revenues grew 7.0% year over year"). Activity is particularly strong among institutional buy-side and wealth management clients ("driven by institutional buy-side and wealth management clients"). Geographically, growth is moderate to robust, with the strongest momentum in APAC (10.5% organic revenue growth), followed by the Americas (7.0%) and EMEA (5.3%). There is significant momentum in AI adoption, with over 90% of top clients utilizing four or more AI products ("90%+ of the Top 50 clients use four or more FactSet AI products").
+
+**2. Labor & Wages**
+The company is experiencing upward pressure on labor costs. Operating margins were negatively impacted by higher employee compensation, including specific executive and one-time charges ("primarily due to higher employee compensation costs, including one-time charges and CEO compensation costs").
+
+**3. Pricing Power & Inflation**
+While specific price-list increases are not detailed, the company demonstrates strong pricing power and client stickiness through "Commercial Excellence" initiatives. This is evidenced by a 30% average increase in the length of enterprise renewals ("enterprise renewals extended in length by 30% on average") and high retention rates above 95% ("annual ASV retention remaining above 95%").
+
+**4. Supply Chain & Inventory**
+Not applicable. As a data and AI solutions provider, the company does not report physical supply chain or inventory metrics.
+
+**5. Capital Spending (Capex)**
+Investment is focused on technology and ecosystem expansion. The company is actively investing in AI capabilities and strategic partnerships with Google Cloud, Finster AI, and TIFIN.AI to broaden "AI-ready solutions" ("broadening adoption of AI-ready solutions"). Additionally, margins were impacted by increased "technology-related expenses" ("mainly due to higher compensation and technology-related expenses").

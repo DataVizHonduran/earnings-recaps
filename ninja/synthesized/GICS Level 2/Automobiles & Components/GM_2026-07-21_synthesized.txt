@@ -1,0 +1,28 @@
+Ticker: GM
+Source: GM_2026-07-21.txt
+Generated: 2026-07-24 15:34 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: General Motors (Q2 2026)**
+
+**1. Demand & Activity**
+Demand appears **modest** to **stable**, with a slight upward trend in overall revenue. Growth is primarily driven by North American operations, while international performance is mixed.
+*   **North America:** Robust growth in profitability ("GMNA EBIT-adjusted $ 3,446 [vs] $ 2,415").
+*   **China:** Modest recovery in equity income ("China equity income (loss) $ 83 [vs] $ 71").
+*   **Overall:** Slight increase in total revenue ("Revenue $ 48,026 [vs] $ 47,122").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company demonstrates **robust** pricing power or operational efficiency, as evidenced by significant margin expansion despite rising costs of sales.
+*   **Margins:** Moderate increase in EBIT-adjusted margin ("EBIT-adjusted margin 8.2% [vs] 6.4%").
+*   **Costs:** Slight increase in automotive cost of sales ("Automotive and other cost of sales $ 40,696 [vs] $ 39,289").
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific commentary on lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capex remains **stable** and significant, with the company maintaining a consistent investment trajectory for the year.
+*   **Investment Level:** Planned expenditures are steady ("Less Capital expenditures 10.0-12.0 [billion]").

@@ -1,0 +1,22 @@
+Ticker: NOW
+Source: NOW_2026-07-22.txt
+Generated: 2026-07-24 15:35 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: ServiceNow (NOW)**
+
+**1. Demand & Activity**
+Demand is **robust** and broad-based, characterized by significant acceleration in AI-driven adoption. The company reports "skyrocketing demand" from its partner ecosystem ("skyrocketing demand from our partner ecosystem") and "broad based demand" across its product suite ("highlights ServiceNow s broad based demand"). Specifically, agentic AI deployments grew ninefold in nine months ("agentic deployments of ServiceNow AI increased ninefold in just nine months"), and AI-related annual contract value (ACV) has surpassed $1 billion ("ServiceNow AI crossed $1 billion in annual contract value in Q2 2026"). Large-scale enterprise commitment remains strong, with a nearly 40% year-over-year increase in transactions exceeding $1 million in net new ACV ("growing nearly 40% year-over-year").
+
+**2. Labor & Wages**
+The report does not provide specific data on wage inflation or hiring difficulties, though it notes a continued "employee-first culture" ("reflecting strong business momentum and an employee-first culture in the age of AI"). There are no mentions of headcount reductions or labor shortages.
+
+**3. Pricing Power & Inflation**
+While specific price lists are not detailed, the company demonstrates **strong** pricing power and value capture through "longer customer commitments" ("fueled by longer customer commitments") and the ability to deliver measurable ROI in an environment where other enterprises are still searching for it ("In an environment where most enterprises are still searching for AI's ROI, ServiceNow is the platform delivering it"). No mentions of input cost pressures or commodity inflation were noted.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a software-as-a-service (SaaS) provider, the company does not report physical inventory or traditional supply chain lead times.
+
+**5. Capital Spending (Capex)**
+Investment is focused on **aggressive** technological expansion and platform scaling. The company is heavily investing in its "AI Control Tower" and "Autonomous Workforce" capabilities ("expanded with new discovery, observation, governance, security, and measurement capabilities"). Long-term strategic targets include scaling subscription revenues to over $30 billion by 2030 ("outlined long-term targets including $30 billion+ in subscription revenues").

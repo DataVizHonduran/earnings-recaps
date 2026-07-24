@@ -1,0 +1,22 @@
+Ticker: UNH
+Source: UNH_2026-07-16.txt
+Generated: 2026-07-24 15:35 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: UnitedHealth Group (Q2 2026)**
+
+**1. Demand & Activity**
+Demand remains **stable to robust**. The company continues to serve a massive consumer base, with UnitedHealthcare serving 48.5 million consumers and Optum supporting over 120 million ("UnitedHealthcare served 48.5 million consumers... Optum supported more than 120 million consumers"). Activity is characterized by a strategic shift toward expanding access in specific segments, including a "nationwide coverage expansion for doula care" and increased support for "1,500 rural hospitals."
+
+**2. Labor & Wages**
+The report indicates **moderate** upward pressure on operating costs linked to human capital. The operating cost ratio rose to 12.7% from 12.3% year-over-year, which the company attributes in part to "incremental investments in... people to improve care delivery" ("reflecting incremental investments in technology, processes and people").
+
+**3. Pricing Power & Inflation**
+The company demonstrates **robust** pricing power and cost discipline. The medical care ratio (MCR) improved significantly to 86.7% from 89.4% year-over-year, driven by "better aligned pricing" and "pricing discipline" ("reflecting cost and pricing discipline, as well as mix changes"). There is evidence of aggressive pricing reform in the pharmacy sector, including a shift to a "fully transparent, fee-based pharmacy care model" to decouple pricing from drug list prices.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a healthcare services provider, there are no traditional commodity supply chain or inventory metrics reported. However, the company is actively reducing administrative "friction" by "eliminating 30% of current prior approval volume by the end of 2026."
+
+**5. Capital Spending (Capex)**
+Investment is **moderate and targeted**, focusing heavily on digital transformation and infrastructure. The company is prioritizing "targeted investments in infrastructure, artificial intelligence, care delivery enhancements, [and] consumer experience" ("included targeted investments in infrastructure, artificial intelligence"). Additionally, a significant $1 billion commitment was made to the United Health Foundation to support rural, maternal, and behavioral health.

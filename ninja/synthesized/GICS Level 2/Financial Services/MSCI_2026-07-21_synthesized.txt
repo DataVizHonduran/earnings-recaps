@@ -1,0 +1,22 @@
+Ticker: MSCI
+Source: MSCI_2026-07-21.txt
+Generated: 2026-07-24 15:34 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: MSCI Inc. (Q2 2026)**
+
+**1. Demand & Activity:**
+Demand is robust, characterized by strong organic operating revenue growth of 12.2% ("Organic operating revenue growth of 12.2%"). Activity is particularly strong in the Index segment, driven by record ETF AUM ("record ETF AUM linked to MSCI indexes"). Growth is broad-based across all regions and key client segments, with notable strength among hedge funds and asset owners ("best quarter ever with hedge funds and our best Q2 with asset owners").
+
+**2. Labor & Wages:**
+Headcount saw a modest increase of 1.9% to 6,327 employees ("reflecting a 1.9% increase"). The company is experiencing upward pressure on labor costs, specifically citing higher spending on salaries and incentive-based pay ("higher compensation and benefits costs primarily driven by higher incentive compensation, salaries and stock-based compensation accruals").
+
+**3. Pricing Power & Inflation:**
+While specific price-list increases are not detailed, the company demonstrates strong pricing power through recurring subscription growth and a high retention rate of 95.3% ("Retention Rate in second quarter 2026 was 95.3%"). However, the company is facing persistent inflationary pressure on non-compensation inputs, specifically in technology and facilities ("higher non-compensation costs as a result of higher information technology costs, market data, professional fees and occupancy costs").
+
+**4. Supply Chain & Inventory:**
+Not applicable. As a provider of decision support tools and services, the company does not report physical supply chain lead times or inventory levels.
+
+**5. Capital Spending (Capex):**
+Capex for the quarter was $44.4 million ("Capex was $44.4 million"). The company is aggressively investing in technology and product development, specifically leveraging AI to accelerate its innovation cycle ("MSCI has already launched twice as many products in 2026 as we did in all of 2024," and "AI will allow us to move even faster in building new products").

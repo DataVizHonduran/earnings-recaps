@@ -1,0 +1,22 @@
+Ticker: DHR
+Source: DHR_2026-07-21.txt
+Generated: 2026-07-24 15:34 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Danaher Corp (DHR)**
+
+**1. Demand & Activity**
+Demand is showing signs of a modest recovery. Life Sciences experienced its "strongest quarter in several years," though bioprocessing revenue was tempered by "customer project timing." However, underlying momentum is robust, with bioprocessing orders growing in the "mid-teens in the quarter." Management expects a "continued end-market recovery" to drive a "mid-single-digit core revenue growth rate" by the end of 2026.
+
+**2. Labor & Wages**
+The report does not provide specific updates on current wage trends or headcount changes, though it notes general operational risks regarding the "ability to recruit, retain and motivate talented employees" and "fluctuations in the... labor we need for our operations."
+
+**3. Pricing Power & Inflation**
+There is no specific mention of recent price increases or current input cost relief. The company continues to monitor general risks associated with "inflation" and "fluctuations in the cost and availability of the supplies we use (including commodities)."
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific data regarding current lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment activity is focused on inorganic growth and strategic expansion. The company noted the "earlier-than-anticipated completion of Masimo acquisition" and highlighted its "capital deployment optionality" to accelerate technology delivery.

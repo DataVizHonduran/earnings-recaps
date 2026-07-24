@@ -1,0 +1,22 @@
+Ticker: GOOG
+Source: GOOG_2026-07-22.txt
+Generated: 2026-07-24 15:34 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Alphabet Inc. (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is **robust** across most segments, characterized by a "meaningful acceleration" in Cloud services. Growth is primarily driven by enterprise adoption of AI infrastructure and solutions, with "nearly 90% of the Fortune 100" utilizing Gemini Enterprise. Search activity remains strong, with AI features "driving Search query growth." YouTube continues to see high engagement during major global events ("over 1.7 billion unique viewers watching World Cup-related videos").
+
+**2. Labor & Wages**
+Headcount has seen **moderate** growth, increasing from 187,103 employees in Q2 2025 to 198,933 in Q2 2026. There were no specific mentions of wage inflation or hiring difficulties.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price increases; however, the company is emphasizing "cost-efficient performance" in its new AI offerings ("Gemini 3.5 Flash Cyber delivers highly cost-efficient performance"). There is no mention of input cost pressures or commodity relief.
+
+**4. Supply Chain & Inventory**
+Inventory levels have increased **significantly**, rising from $2.4 billion in Q2 2025 to $10.0 billion in Q2 2026. The transcript does not provide qualitative commentary on lead times or whether this buildup is intentional or a sign of bloating.
+
+**5. Capital Spending (Capex)**
+Investment in capacity is **robust** and expanding. The company is aggressively scaling its technical footprint, having issued $49.6 billion in equity and $20.3 billion in senior unsecured notes specifically "to be used for general corporate purposes, including capital expenditures to scale AI infrastructure and global compute." This is further supported by a substantial increase in net property and equipment, which rose to $321.2 billion.

@@ -1,0 +1,31 @@
+Ticker: RJF
+Source: RJF_2026-07-22.txt
+Generated: 2026-07-24 15:35 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Raymond James Financial (RJF)**
+
+**1. Demand & Activity**
+Demand for financial services is **robust**, characterized by record-level asset growth and strong activity across multiple business lines.
+* **Wealth Management:** Strong growth in assets under administration, with domestic net new assets growing at an annualized rate of 5.5% ("Domestic Private Client Group net new assets... of $21.7 billion... or annualized growth... of 5.5%").
+* **Capital Markets:** Activity is expanding, particularly in advisory and underwriting ("Quarterly investment banking revenues of $285 million, up 40% over the prior year").
+* **Credit:** Demand for liquidity is moderate to strong, specifically in securities-based and residential mortgage loans ("Record net bank loans grew 13%... driven by continued growth in securities-based and residential mortgage loans").
+* **Outlook:** Management notes "strong investment banking pipelines" and "significant momentum" entering the fourth quarter.
+
+**2. Labor & Wages**
+The firm is aggressively expanding its workforce, though specific wage data is not disclosed.
+* **Recruiting:** There is a robust push for talent acquisition ("robust financial advisor recruiting" and "record recruiting results").
+
+**3. Pricing Power & Inflation**
+The firm is experiencing a mix of revenue growth from market appreciation and pressure from shifting interest rate environments.
+* **Revenue Drivers:** Growth is primarily driven by fee-based assets and market appreciation ("primarily driven by higher asset management and related administrative fees... mainly due to market appreciation").
+* **Interest Rate Pressure:** There is evidence of softening margins due to the interest rate environment ("asset management fee revenue growth was partially offset by the impact of lower interest rates" and "Net interest margin... was down 3 basis points compared to the prior year").
+
+**4. Supply Chain & Inventory**
+Not applicable to this service-based financial entity.
+
+**5. Capital Spending (Capex)**
+The firm is focusing investment on growth-oriented acquisitions and human capital.
+* **Acquisitions:** Recent expansion via inorganic growth ("including $36 billion from the acquisition of Clark Capital").
+* **Growth Investment:** Capital is being deployed into "investments in leading growth, including record recruiting results."
