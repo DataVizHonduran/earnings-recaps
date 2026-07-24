@@ -1,0 +1,22 @@
+Ticker: IBM
+Source: IBM_2026-07-22.txt
+Generated: 2026-07-24 15:34 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: IBM (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is mixed but showing robust growth in AI-aligned segments. Software demand is growing, particularly in Hybrid Cloud (+11%) and Data (+19%) ("continue to deliver strong performance"). Distributed Infrastructure saw robust growth ("grew at a record pace"), resulting in a significant order backlog of nearly $500 million. However, overall activity faced "revenue headwinds late in the second quarter," and IBM Z infrastructure demand softened significantly, declining 42%.
+
+**2. Labor & Wages**
+The company is moderately increasing its investment in specialized human capital to support enterprise AI deployment, specifically "investing in more specialized technical and client-facing talent, including Forward Deployed Engineers." There are no mentions of broad wage inflation or headcount reductions, though the company is "driving productivity across the company with AI and automation."
+
+**3. Pricing Power & Inflation**
+Direct mentions of price hikes are absent; however, the company is focusing on "driving productivity" and "optimizing its supply chain" to "enhance margin and free cash flow." Management expects "improved pre-tax income margin expansion for the full year," suggesting an ability to manage input costs effectively.
+
+**4. Supply Chain & Inventory**
+Supply chain conditions appear stable, with a strategic focus on "optimizing its supply chain" to improve operational efficiency. No reports of bloated inventories or critical lead-time delays were noted.
+
+**5. Capital Spending (Capex)**
+Capex is robust and targeted toward long-term technology leadership. IBM has committed to a significant investment of "more than $10 billion in quantum over the next five years," which includes the development of "the world's first pure-play quantum wafer foundry." Additionally, the company continues to invest heavily in "commercializing innovation at speed and scale."
