@@ -1,0 +1,22 @@
+Ticker: TMO
+Source: TMO_2026-07-23.txt
+Generated: 2026-08-02 16:17 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Thermo Fisher Scientific (TMO)**
+
+**1. Demand & Activity**
+Demand is showing moderate growth, with organic revenue increasing 5% and total revenue growing 10% ("Organic revenue growth was 5%"). Management reports that activity across end markets is continuing to strengthen ("Customer Activity Across Our End Markets Continued to Strengthen"), specifically noting progress in gaining market share through enhanced capabilities.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, wage inflation, or headcount adjustments.
+
+**3. Pricing Power & Inflation**
+While specific pricing actions are not detailed, the company is seeing modest margin expansion. Adjusted operating margins increased from 21.9% to 22.8% ("Adjusted operating margin was 22.8%, compared with 21.9% in the second quarter of 2025"), suggesting that revenue growth is outpacing the growth of cost of revenues and SG&A.
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific commentary regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment in capacity and technology remains robust. The company is expanding its physical footprint and innovation hubs, evidenced by the opening of a "flagship U.S. Bioprocess Design Center in Plainville, Massachusetts." Additionally, capital expenditures for property, plant, and equipment increased significantly year-over-year, rising from $294 million to $450 million ("Purchases of property, plant and equipment (450) [vs] (294)").

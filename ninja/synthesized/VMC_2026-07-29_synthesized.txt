@@ -1,0 +1,22 @@
+Ticker: VMC
+Source: VMC_2026-07-29.txt
+Generated: 2026-08-02 16:20 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Vulcan Materials (VMC)**
+
+**1. Demand & Activity**
+Demand is stable to modestly growing. Aggregates shipments increased 1% year-over-year, supported by "healthy public construction activity and large projects" ("second quarter aggregates shipments increased 1 percent"). However, activity was softened by weather, specifically "significant rainfall" in Texas and certain Southeastern markets ("Shipments in Texas and certain Southeastern Southeastern markets were impacted").
+
+**2. Labor & Wages**
+Not addressed. The report contains no specific mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+Pricing power remains robust with "widespread growth across the Company’s footprint" ("The pricing environment remains positive"). Freight-adjusted selling prices rose 5% on a mix-adjusted basis. This was partially offset by persistent energy inflation; unit cash cost of sales increased 7%, though the company noted that excluding "higher diesel fuel costs," cash cost of sales only increased 3% ("reflecting a continued focus on cost management").
+
+**4. Supply Chain & Inventory**
+Not addressed. The report does not provide data on lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment remains moderate and strategic. The company spent $176 million on "maintenance and growth projects" during the quarter. Capex is focused on an "aggregates-led growth strategy," evidenced by the acquisition of a quarry in southern Colorado and a rail yard in Dallas-Fort Worth to strengthen its "distribution network" ("These portfolio actions align with our aggregates-led growth strategy").

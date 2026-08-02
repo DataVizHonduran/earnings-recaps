@@ -1,0 +1,22 @@
+Ticker: VRSN
+Source: VRSN_2026-07-23.txt
+Generated: 2026-08-02 16:21 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Verisign Inc. (Q2 2026)**
+
+**1. Demand & Activity:**
+Demand for core internet infrastructure remains robust. There is continuing strength in new domain name registrations, with .com and .net registrations increasing 5.1% year-over-year to 179.1 million ("continuing strength in new domain name registrations reflects this"). Activity is accelerating, as evidenced by 12.7 million new registrations in Q2 2026 compared to 10.4 million in the prior year period ("processed 12.7 million new domain name registrations... compared with 10.4 million"). Additionally, renewal rates showed a slight increase to 76.3% from 75.5%.
+
+**2. Labor & Wages:**
+The report does not provide specific data on wage inflation or headcount changes, though it lists the general risk of the "ability to attract, retain and motivate highly skilled employees."
+
+**3. Pricing Power & Inflation:**
+The company demonstrates stable pricing power, reflected in a 6.0% year-over-year revenue increase ("revenue of $435 million... up 6.0 percent"). While no specific price hikes were announced this quarter, the company identifies "negative impact of wholesale price increases" as a general risk factor.
+
+**4. Supply Chain & Inventory:**
+Not applicable. As a digital infrastructure provider, the company does not maintain physical inventories or face traditional supply chain lead-time constraints.
+
+**5. Capital Spending (Capex):**
+Investment in physical capacity remains modest. Capital expenditures for the first six months of 2026 totaled $26 million ("Purchases of property and equipment (26.0)"). The company is expanding its product offering through the delegation of the .web TLD, which it intends to launch through registrar channels later this year ("look forward to offering .web domains through our registrar channel later this year").

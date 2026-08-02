@@ -1,0 +1,22 @@
+Ticker: TXT
+Source: TXT_2026-07-28.txt
+Generated: 2026-08-02 16:18 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Textron Inc. (Q2 2026)**
+
+**Demand & Activity:**
+Demand is mixed but generally stable to moderate. Aviation shows divergence, with "healthy demand" driving "strong order activity" for the Ascend, though jet and defense volumes were lower ("lower Citation jet and defense volume"). Defense activity is robust, with revenue growth driven by "higher volume on H-1 production and the MV-75 program" and "higher volume on armored land vehicles." Industrial demand is softening in some areas, specifically "lower volume and mix" in Specialized Vehicles.
+
+**Labor & Wages:**
+Not explicitly detailed in the financial results; however, the company identifies the "ability of our businesses to hire and retain the highly skilled personnel" as a continuing risk factor.
+
+**Pricing Power & Inflation:**
+Textron is exercising moderate pricing power to offset costs. Revenue increases in Aviation and Bell were "primarily due to higher pricing." In the Industrial segment, profit growth was driven by "higher pricing, net of inflation," which included the recovery of previously imposed tariffs ("tariffs recovered in the second quarter of 2026").
+
+**Supply Chain & Inventory:**
+Supply chain conditions appear to be stabilizing, with the company successfully producing "key long-lead parts and components" for the MV-75 Cheyenne. No specific mentions of bloated inventory; however, "manufacturing inefficiencies" were cited as a drag on Aviation segment profit.
+
+**Capital Spending (Capex):**
+The company is focused on scaling new platforms and strategic divestiture. Key investments include scaling the Ascend aircraft ("the Ascend continued to scale") and advancing the MV-75 program. Additionally, the company has "initiated sale process for the Industrial Segment," signaling a shift in capital allocation away from that business line.

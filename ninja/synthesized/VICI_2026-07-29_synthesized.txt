@@ -1,0 +1,22 @@
+Ticker: VICI
+Source: VICI_2026-07-29.txt
+Generated: 2026-08-02 16:20 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: VICI Properties (Q2 2026)**
+
+**1. Demand & Activity:**
+Demand for experiential real estate remains **robust**, characterized by aggressive portfolio expansion and geographic diversification. The company is actively scaling its tenant base, adding three new operators this quarter ("welcomed our 14th, 15th and 16th tenants"). Activity is expanding beyond core Nevada gaming into Ohio, Alberta, Canada, and the U.S. Virgin Islands ("expanding our investment practice categorically and geographically").
+
+**2. Labor & Wages:**
+No mentions of labor trends, hiring difficulties, or wage pressures.
+
+**3. Pricing Power & Inflation:**
+The company maintains **stable** to **moderate** pricing power through structured lease escalations. New agreements include fixed annual increases of 2.0% ("escalation of 2.0% per annum") or hybrid models tied to inflation ("greater of 2.0% and the change in CPI (capped at 3.0%)").
+
+**4. Supply Chain & Inventory:**
+Not applicable. (No mentions of physical inventory or supply chain lead times).
+
+**5. Capital Spending (Capex):**
+Investment in capacity is **moderate** and targeted toward redevelopment and acquisition. VICI is committing significant capital to facility upgrades, specifically a build-to-suit redevelopment project in the Caribbean ("will fund approximately $55.2 million for redevelopment of the property"). General investment activity remains high, evidenced by a $1.16 billion acquisition of Nevada assets ("closed the previously announced $1.16 billion acquisition of seven Nevada casino properties").
