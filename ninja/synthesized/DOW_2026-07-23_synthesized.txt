@@ -1,0 +1,9 @@
+Ticker: DOW
+Source: DOW_2026-07-23.txt
+Generated: 2026-08-02 15:31 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Mixed. Overall volume saw a slight decline ("Volume decreased 1% year-over-year"). Demand in Packaging and Construction was softening, particularly in EMEAI and Asia Pacific due to geopolitical tensions ("impacted by the Middle East conflict"). Conversely, demand was robust for downstream silicones ("led by growth in downstream silicones") and data center applications ("increased demand for data center applications").
+
+**Labor &

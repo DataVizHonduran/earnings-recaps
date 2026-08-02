@@ -1,0 +1,15 @@
+Ticker: EFX
+Source: EFX_2026-07-21.txt
+Generated: 2026-08-02 15:35 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Demand is robust, characterized by strong double-digit growth in key U.S. sectors. U.S. Mortgage activity showed significant strength, increasing 25% ("U.S. Mortgage revenue grew 25%") despite a high-rate environment. USIS revenue grew robustly by 17% ("USIS second quarter revenue up strong 17%"), with specific acceleration in Mortgage revenue of 40%. Workforce Solutions saw moderate growth of 7%, driven by "high double digit revenue growth in Talent Solutions and Consumer Lending." International demand is modest, with local currency growth of 4%, led by "high single digit revenue growth in Asia Pacific and mid single digit growth in Canada." Management noted the "resiliency of the broad-based Equifax business model in an increasingly uncertain economy."
+
+**Labor & Wages:** There were no specific mentions of hiring difficulties, turnover, or wage inflation. However, the company is aggressively pursuing productivity gains through automation, doubling its "AI-driven cost reduction target to $150 million" to drive "speed, accuracy, and productivity."
+
+**Pricing Power & Inflation:** The report does not explicitly detail price increases or input cost pressures (e.g., commodities or freight). The primary focus on cost management is internal, leveraging "AI agents and tools across our operations, technology, and support teams."
+
+**Supply Chain & Inventory:** Not applicable. No mentions of lead times or inventory levels.
+
+**Capital Spending (Capex):** Investment is focused on technology infrastructure and strategic expansion. The company continues to leverage its "Cloud technology investment" and "EFX.AI capabilities." Additionally, Equifax is expanding its geographic footprint through a significant acquisition, signing an agreement to "acquire Círculo de Crédito, the fastest growing credit bureau in Mexico, for an enterprise value of $750 million."

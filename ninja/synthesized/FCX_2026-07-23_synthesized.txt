@@ -1,0 +1,16 @@
+Ticker: FCX
+Source: FCX_2026-07-23.txt
+Generated: 2026-08-02 15:41 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity**
+Market outlook is positive, with the company positioning its global operations to "support a growing market" ("support a growing market"). While second-quarter copper sales were lower year-over-year, this was attributed to internal supply constraints rather than demand softening ("reflecting lower operating rates at PTFI").
+
+**Labor & Wages**
+The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**Pricing Power & Inflation**
+Pricing remains robust, with the CEO citing "favorable pricing for our products" ("favorable pricing for our products"). Average realized prices for copper increased significantly to $6.17 per pound compared to $4.54 per pound in the prior-year period. Unit net cash costs rose to $1.97 per pound, though this was primarily driven by "the impact of lower copper volumes at PTFI" ("primarily reflecting the impact of lower copper volumes at PTFI").
+
+**Supply Chain & Inventory**

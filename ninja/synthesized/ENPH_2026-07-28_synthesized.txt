@@ -1,0 +1,11 @@
+Ticker: ENPH
+Source: ENPH_2026-07-28.txt
+Generated: 2026-08-02 15:39 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Mixed. Demand in the U.S. is softening ("Revenue in the United States decreased approximately 3%"), while activity in Europe remains robust ("revenue in Europe increased approximately 35%"). Battery shipments showed modest growth ("shipped 113.8 MWh of IQ Batteries... compared to 103.1 MWh in the first quarter"). The company is pursuing a "potential multi-gigawatt pipeline" for AI data center power infrastructure.
+
+**Labor & Wages:** Not discussed.
+
+**Pricing Power & Inflation:** Non-GAAP gross margins improved moderately. Pressure from reciprocal tariffs is easing ("reduced gross margin by approximately 2.0 percentage points, down from approximately 4.3 percentage points

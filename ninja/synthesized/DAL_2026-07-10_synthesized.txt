@@ -1,0 +1,7 @@
+Ticker: DAL
+Source: DAL_2026-07-10.txt
+Generated: 2026-08-02 15:30 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Robust growth across all segments. Total revenue increased 14% ("broad demand strength"), with domestic unit revenue up 12% and international up 8% ("led by Latin"). Cargo activity surged 39% ("driven largely by volume"). Corporate travel remains strong, particularly in Aerospace, Banking, and Automotive ("grew double-digits in all sectors

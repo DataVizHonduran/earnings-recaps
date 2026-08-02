@@ -1,0 +1,18 @@
+Ticker: FDX
+Source: FDX_2026-07-21.txt
+Generated: 2026-08-02 15:41 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: FDX**
+
+**1. Demand & Activity**
+Global trade activity is characterized by volatility. Management notes "uncertainty and additional volatility in the global trade environment" and highlights the ongoing operational challenge to "match capacity to shifting volume levels."
+
+**2. Labor & Wages**
+Labor conditions appear stable, with a primary corporate focus on the "ability to meet labor and purchased transportation needs while controlling related costs."
+
+**3. Pricing Power & Inflation**
+Input cost pressures remain a risk, particularly regarding "significant increases in fuel prices as a result of the ongoing conflicts between Russia and Ukraine and in the Middle East." Pricing power is likely constrained by "intense competition."
+
+**4. Supply Chain &
