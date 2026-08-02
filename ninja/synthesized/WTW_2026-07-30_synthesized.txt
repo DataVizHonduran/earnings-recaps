@@ -1,0 +1,15 @@
+Ticker: WTW
+Source: WTW_2026-07-30.txt
+Generated: 2026-08-02 16:22 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Moderate growth overall, with organic revenue increasing 5% ("Organic Revenue growth of 5% for the quarter"). Activity in Risk & Broking was robust, growing 7% organically due to "new business activity and strong client retention globally." Health, Wealth & Career saw modest organic growth of 4%, supported by "higher levels of retirement work across all regions." However, demand in the Career line was stable/flat, as "broad-based pay work" was "offset by constrained revenue in the Middle East due to the ongoing conflict."
+
+**Labor & Wages:** Not discussed.
+
+**Pricing Power & Inflation:** Not explicitly mentioned. Margin expansion was attributed to "improved operating leverage and expense discipline" rather than specific pricing actions or input cost relief.
+
+**Supply Chain & Inventory:** Not applicable.
+
+**Capital Spending (Capex):** Robust investment in technology and automation. The company announced "Propel," an AI acceleration plan, and "expects to invest approximately $625 million of cash" to "scale AI and automation across WTW" and "streamline core operating processes."
