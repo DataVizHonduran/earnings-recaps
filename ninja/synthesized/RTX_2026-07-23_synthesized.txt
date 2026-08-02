@@ -1,0 +1,17 @@
+Ticker: RTX
+Source: RTX_2026-07-23.txt
+Generated: 2026-08-02 16:15 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**RTX Economic Signal Summary**
+
+**Demand & Activity:** Demand is robust, characterized by double-digit organic sales growth of 16% ("Demand remains robust"). Activity is strong across most sectors, specifically in commercial aftermarket and defense ("double-digit commercial aftermarket and defense growth"). Growth is driven by higher volumes in narrowbody and widebody platforms, as well as land, air, and space defense systems including Patriot and AMRAAM ("higher volume on land and air defense systems... including Patriot, Standard Missile, and AMRAAM").
+
+**Labor & Wages:** Not explicitly discussed in the provided text.
+
+**Pricing Power & Inflation:** The company is experiencing margin expansion across all business segments ("margin expansion across all three segments"). Profitability gains are attributed to "drop through" on higher volumes and "improved net productivity" ("The increase was driven by higher volume... and improved net productivity"). There are no specific mentions of input cost relief or inflationary pressures.
+
+**Supply Chain & Inventory:** The company is managing a substantial backlog, which has grown moderately to $289 billion, a 22% increase year-over-year ("our backlog is up 22 percent year over year").
+
+**Capital Spending (Capex):** RTX is actively investing in capacity and technology to support backlog execution ("exceptionally well positioned to drive continued growth as we execute on our backlog, increase productivity, expand capacity"). Quarterly capital expenditures were reported at $0.7 billion ("capital expenditures were $0.7 billion").
