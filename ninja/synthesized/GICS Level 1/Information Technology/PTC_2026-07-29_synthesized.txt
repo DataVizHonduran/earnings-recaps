@@ -1,0 +1,15 @@
+Ticker: PTC
+Source: PTC_2026-07-29.txt
+Generated: 2026-08-02 16:13 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Demand is robust, characterized by strong growth in Annual Recurring Revenue (ARR) and increasing customer interest in AI-driven data modernization ("Constant currency ARR growth of 9.1%," "growing customer interest in AI"). The company reports strong execution across key metrics and has raised its full-year outlook for revenue and ARR ("Raising FY'26 guidance for ARR, Revenue and EPS").
+
+**Labor & Wages:** Not discussed.
+
+**Pricing Power & Inflation:** Not discussed.
+
+**Supply Chain & Inventory:** Not discussed.
+
+**Capital Spending (Capex):** Not discussed.

@@ -1,0 +1,11 @@
+Ticker: AXP
+Source: AXP_2026-07-24.txt
+Generated: 2026-08-02 15:18 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Robust. Card Member spending grew 9%, marking the "highest rate we've seen in three years on an FX-adjusted basis." Growth is particularly strong in the U.S. Consumer business, where the Platinum portfolio is the "fastest growing." The company continues to attract a "large number of new customers," specifically within the "Millennials and Gen-Zs" cohorts. Credit quality remains stable, with the net write-off rate "flat year-over-year" at 2.0%.
+
+**Labor & Wages:** Not discussed.
+
+**Pricing Power & Inflation:** Moderate. The company is leveraging pricing power through "strong card fee growth." While consolidated expenses increased 12%, this was attributed to "higher variable customer engagement costs" and increased "usage of Card Member benefits" rather than

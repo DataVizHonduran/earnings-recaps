@@ -1,0 +1,25 @@
+Ticker: IEX
+Source: IEX_2026-07-29.txt
+Generated: 2026-08-02 15:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: IDEX Corp (IEX)**
+
+**Demand & Activity:**
+Demand is robust overall, characterized by record orders ("Orders of over $1 billion in the quarter were a record"). Growth is uneven across segments:
+* **Health Science Technologies:** Robust growth driven by "AI-driven demand for data center power and semiconductor markets, as well as strength in space and defense."
+* **Fluid Metering Technologies:** Stable to modest growth; higher volumes in "municipal water, semiconductor and mining" were "largely offset by lower volumes in our businesses serving energy, agriculture and chemical markets."
+* **Fire Safety Diversified Products:** Softening demand, specifically "lower European rescue demand."
+
+**Labor & Wages:**
+The company reports moderate upward pressure on labor costs, noting that corporate costs increased "primarily driven by higher employee-related costs, including variable compensation."
+
+**Pricing Power & Inflation:**
+IDEX maintains moderate pricing power, citing "positive price" as a driver across all three business segments. Input cost relief was significant this quarter due to a specific regulatory tailwind, as "net productivity improvements, volume leverage and positive price cost" were bolstered by "the net benefit of IEEPA tariff refunds."
+
+**Supply Chain & Inventory:**
+The report does not explicitly detail lead times; however, there is evidence of increased operational activity impacting the balance sheet, as free cash flow was "partly offset by increased working capital, driven by higher sales volumes."
+
+**Capital Spending (Capex):**
+Investment in capacity and technology remains active, with the company noting "higher capital expenditures during the current year period." Additionally, the company is executing "8020 initiatives to both fuel higher growth and unlock further margin expansion."

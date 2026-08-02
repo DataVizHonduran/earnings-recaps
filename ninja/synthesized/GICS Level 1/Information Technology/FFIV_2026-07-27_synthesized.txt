@@ -1,0 +1,7 @@
+Ticker: FFIV
+Source: FFIV_2026-07-27.txt
+Generated: 2026-08-02 15:46 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Robust growth in demand, particularly within product lines. Total revenue increased 11% year-over-year, driven by a 19% increase in product revenue ("Eight consecutive quarters of double-digit product growth"). Growth was most pronounced in systems revenue, which grew 32% ("Systems revenue of $240 million grew 32%"), while software and services saw modest

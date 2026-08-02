@@ -1,0 +1,22 @@
+Ticker: RCL
+Source: RCL_2026-07-28.txt
+Generated: 2026-08-02 16:13 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Royal Caribbean Group (RCL)**
+
+**Demand & Activity**
+Demand remains robust, characterized by "strong close-in demand" and booking volumes that are "above last year's levels." Load factors are described as "robust across its vacation portfolio," with Q2 reaching 110%. However, there is a modest, near-term softening in specific geographic areas, noting a "modest booking impact for select itineraries primarily due to prolonged geopolitical activity." Forward-looking indicators are encouraging, with 2027 trends "pacing ahead of historical levels."
+
+**Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**Pricing Power & Inflation**
+The company demonstrates strong pricing power, reporting that it "remains booked at record prices." While Net Yields increased 1.9% in Q2, the company expects continued "pricing at record levels" into Q3. Regarding inflation, the company is seeing some cost relief; while Q2 Net Cruise Costs (NCC) increased, the outlook for the remainder of the year suggests stabilizing pressures, with full-year NCC (excluding fuel) expected to be "approximately flat in Constant Currency."
+
+**Supply Chain & Inventory**
+Not applicable. (The company reports capacity growth of 6.6% for 2026, but does not cite supply chain constraints or inventory imbalances).
+
+**Capital Spending (Capex)**
+Investment in capacity remains aggressive. Full-year 2026 Capex is projected at "approximately $4.7 billion," predominantly driven by the "new ship order book and land-based destination initiatives." This includes the recent launch of *Legend of the Seas* and new orders for *Icon VI* and *Icon VII*. Non-ship related capital expenditures are expected to be $1.6 billion.

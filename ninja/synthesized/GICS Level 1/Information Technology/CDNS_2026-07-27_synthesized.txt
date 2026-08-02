@@ -1,0 +1,15 @@
+Ticker: CDNS
+Source: CDNS_2026-07-27.txt
+Generated: 2026-08-02 15:24 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Demand is robust, characterized by "broad-based strength" and "accelerating demand" for AI-driven solutions. Growth is strong across all business segments, with IP revenue increasing "more than 40% year-over-year," Core EDA revenue growing 18%, and System Design and Analysis revenue increasing 37%. The company reports a "record backlog of $8.1 billion" and has raised its full-year 2026 revenue outlook to 19% growth.
+
+**Labor & Wages:** Not discussed.
+
+**Pricing Power & Inflation:** Not discussed.
+
+**Supply Chain & Inventory:** Not discussed.
+
+**Capital Spending (Capex):** Not discussed.

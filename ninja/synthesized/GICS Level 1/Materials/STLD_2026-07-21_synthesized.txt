@@ -1,0 +1,22 @@
+Ticker: STLD
+Source: STLD_2026-07-21.txt
+Generated: 2026-08-02 16:15 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Steel Dynamics (STLD)**
+
+**1. Demand & Activity:**
+Demand is robust and strengthening across multiple platforms. Steel fundamentals are improving, with "extremely strong" demand for long-products, specifically structural steel and railroad rail ("Long-product steel demand remains extremely strong"). Growth is driven by energy, non-residential construction, automotive, industrial, and agricultural sectors ("The energy, non-residential construction, automotive, industrial, and agricultural sectors led steel demand"). Fabrication activity is also accelerating, with order backlogs nearly 45% higher than a year ago, extending into Q1 2027 ("order backlog now nearly 45 percent higher than a year ago").
+
+**2. Labor & Wages:**
+No specific mentions of hiring difficulties, turnover, or wage adjustments were provided in the report.
+
+**3. Pricing Power & Inflation:**
+The company is exercising moderate to strong pricing power. Steel pricing improved sequentially, with external selling prices increasing by $105 per ton ("steel pricing continued to improve... average external product selling price... increased $105 sequentially"). Input cost relief is evident as pricing increases outpaced raw material inflation; selling prices rose significantly more than ferrous scrap costs, which increased by only $16 sequentially ("steel pricing increased more than ferrous scrap costs").
+
+**4. Supply Chain & Inventory:**
+Inventory levels are lean, remaining below historical norms ("customer inventory levels declined, remaining lower than historical norms"). Consequently, lead times and backlogs have extended ("Steel backlogs and lead times have also extended"). The company notes a growing supply deficit in the aluminum flat-rolled sheet market ("demand for aluminum flat-rolled sheet products... remains strong, with the supply deficit growing").
+
+**5. Capital Spending (Capex):**
+Capex remains robust, focused on capacity expansion and diversification. The company invested $262 million YTD, primarily targeting the ramp-up of aluminum operations ("invested $262 million in capital investments"). Key projects include the commissioning of a third cold mill in Mississippi to reach full 650,000-metric-ton capacity and the development of a satellite recycled aluminum slab center in Mexico ("commissioning our aluminum flat rolled products mill, as well as our San Luis Potosi, Mexico satellite recycled aluminum slab center").

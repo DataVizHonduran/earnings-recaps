@@ -1,0 +1,22 @@
+Ticker: GE
+Source: GE_2026-07-16.txt
+Generated: 2026-08-02 15:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**GE Aerospace Economic Signal Summary**
+
+**1. Demand & Activity**
+Demand is robust, characterized by strong growth in both commercial and defense sectors. Commercial services are a primary driver, with revenue up 27% in the quarter ("driven by robust commercial services growth"). Equipment demand remains strong, evidenced by a 31% increase in total engine deliveries in the first half of the year ("including LEAP deliveries up 41%"). The company maintains a significant long-term demand signal with a backlog exceeding $210 billion ("delivering on our over $210 billion backlog").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is exercising moderate pricing power to offset persistent cost pressures. Profit growth in both Commercial Engines Services and Defense Propulsion Technologies was supported by "increased volume and price." However, inflation remains a headwind, contributing to margin contraction in the commercial segment ("Margins contracted (160) basis points from... investments, and inflation").
+
+**4. Supply Chain & Inventory**
+Supply chain conditions are improving, with a notable increase in the flow of components. The company reports a robust increase in material availability from key vendors ("Increased material input from priority suppliers double-digits sequentially and year-over-year"). This improvement in the supply chain has directly enabled record operational throughput ("contributing to... record internal shop visit output in the quarter").
+
+**5. Capital Spending (Capex)**
+Investment is focused on next-generation technology and product durability to reduce long-term customer costs. The company is actively "investing in current and next-generation technology to improve time-on-wing and cost of ownership," including the certification of a durability kit for the LEAP-1B engine and the development of hybrid-electric engine systems.

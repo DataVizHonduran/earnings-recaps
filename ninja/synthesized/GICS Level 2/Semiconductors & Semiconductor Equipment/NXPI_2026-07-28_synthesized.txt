@@ -1,0 +1,15 @@
+Ticker: NXPI
+Source: NXPI_2026-07-28.txt
+Generated: 2026-08-02 16:05 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Robust growth across all regions and end markets ("growth across all end markets and all regions"). Demand is particularly strong for Software-Defined Vehicles, Physical AI, and Data Centers ("Data Center emerging as an additional growth engine"). Industrial IoT and Communication Infrastructure showed significant year-over-year increases, while Mobile demand softened sequentially ("Mobile $ 351 [million]... -10% [Q-Q]").
+
+**Labor & Wages:** Not mentioned.
+
+**Pricing Power & Inflation:** Not explicitly discussed, though non-GAAP gross margins expanded to 58.0% from 56.5% year-over-year.
+
+**Supply Chain & Inventory:** Inventory levels remain stable sequentially, though they are slightly higher than the prior year ("Channel Inventory (weeks) 11" compared to 9 in Q2 2025).
+
+**Capital Spending (Capex):** Modest investment activity, with net capex investments totaling $69 million for the quarter.

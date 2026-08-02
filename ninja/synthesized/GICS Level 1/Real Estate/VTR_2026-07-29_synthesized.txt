@@ -1,0 +1,22 @@
+Ticker: VTR
+Source: VTR_2026-07-29.txt
+Generated: 2026-08-02 16:21 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Ventas, Inc. (VTR)**
+
+**1. Demand & Activity**
+Demand for senior housing is robust and expanding, driven by favorable demographics ("Demographic demand is strong and getting stronger as the baby boomers begin turning 80 this year"). Activity is particularly strong in the U.S. market, where average occupancy grew 360 basis points year-over-year ("U.S. SHOP... average occupancy grew 360 basis points year-over-year"). Overall SHOP occupancy saw a modest increase of 300 basis points.
+
+**2. Labor & Wages**
+Not addressed in the provided text.
+
+**3. Pricing Power & Inflation**
+The company is demonstrating moderate pricing power, evidenced by a 5% increase in revenue per occupied room ("RevPOR growth of 5%"). This contributed to a 9% increase in Same-Store Cash Operating Revenue. Additionally, the company is seeing margin expansion, with Same-Store Cash NOI margins growing by 210 basis points ("Same-Store Cash NOI margin* growth of 210 basis points"), suggesting that revenue growth is outpacing operating cost inflation.
+
+**4. Supply Chain & Inventory**
+New supply in the senior housing sector remains constrained, which the company views as a structural advantage ("new supply remains at historic lows, setting up a compelling multiyear runway for growth").
+
+**5. Capital Spending (Capex)**
+Investment activity is robust and accelerating. The company has significantly increased its 2026 investment volume expectations to $4.5 billion, up from previous guidance of $3 billion ("increasing our 2026 investment volume expectations to $4.5 billion"). These investments are focused exclusively on expanding the senior housing footprint ("investments focused on senior housing").

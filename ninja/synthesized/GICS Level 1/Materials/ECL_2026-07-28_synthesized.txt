@@ -1,0 +1,11 @@
+Ticker: ECL
+Source: ECL_2026-07-28.txt
+Generated: 2026-08-02 15:33 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Robust growth in "Global High-Tech" (29%) and "Life Sciences" (15%), driven by the "rapidly growing AI infrastructure market." Demand in core businesses is moderate and accelerating, specifically in "Food Beverage, Institutional, and Light Water." However, some sectors remain soft, including "Heavy Water and Paper," and general "soft market trends" in institutional specialty. Geographically, activity faced a "nearly 1% headwind" due to "customer operations disrupted by the conflict in the Middle East."
+
+**Labor & Wages:** No internal data provided on hiring or wages; however, the company notes that customers are seeking solutions to "optimize labor" to reduce total costs.
+
+**Pricing Power & Inflation:** Strong pricing power is evident, with pricing improving to 4% and expected to reach the "5% to 6% range" in the second half. These

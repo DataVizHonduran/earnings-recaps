@@ -1,0 +1,15 @@
+Ticker: PCG
+Source: PCG_2026-07-23.txt
+Generated: 2026-08-02 16:07 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Robust growth in high-load electric demand. The company reports steady expansion in EV infrastructure ("over 2,460 new electric vehicle charging ports") and a significant future load pipeline driven by data center projects ("overall pipeline of over 12 gigawatts (GWs)").
+
+**Labor & Wages:** Not discussed.
+
+**Pricing Power & Inflation:** The company is achieving modest internal cost efficiencies, noting it is "on track to meet 2-4% non-fuel operating and maintenance (O M) cost reduction target." Management also indicated that "appropriate pricing" for new data center loads could potentially reduce monthly bills for other customers.
+
+**Supply Chain & Inventory:** Not discussed.
+
+**Capital Spending (Capex):** Robust investment in infrastructure hardening and wildfire mitigation. The company is aggressively expanding its safety grid, with plans to complete "more than 1,900 total miles of undergrounding and more than 2,000 miles of strengthened poles and covered powerlines" by the end of 2027. Earnings growth continues to be "primarily driven by customer capital investment."

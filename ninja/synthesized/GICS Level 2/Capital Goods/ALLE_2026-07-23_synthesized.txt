@@ -1,0 +1,15 @@
+Ticker: ALLE
+Source: ALLE_2026-07-23.txt
+Generated: 2026-08-02 15:11 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Demand is robust in the Americas, characterized by "continued strength in our Americas non-residential business and positive momentum in demand indicators" and high-single digit organic growth across both residential and non-residential lines. Conversely, demand is softening in Europe, where organic revenue declines were "primarily driven by weaker demand in our core European markets."
+
+**Labor & Wages:** Not mentioned.
+
+**Pricing Power & Inflation:** The company exhibits moderate pricing power, with organic revenue increases "driven by volume growth and price realization." Inflationary pressures are varied by region; in the Americas, price and productivity net of inflation (PPII) was "positive on a dollar basis," while the International segment experienced a "PPII headwind."
+
+**Supply Chain & Inventory:** Supply chain activity is stabilizing as the company works to "improve production rates following the ERP disruption experienced in first-quarter 2026."
+
+**Capital Spending (Capex):** Not mentioned.

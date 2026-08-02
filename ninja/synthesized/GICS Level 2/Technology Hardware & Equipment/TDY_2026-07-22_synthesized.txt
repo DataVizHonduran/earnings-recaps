@@ -1,0 +1,17 @@
+Ticker: TDY
+Source: TDY_2026-07-22.txt
+Generated: 2026-08-02 16:16 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Teledyne Technologies (TDY)**
+
+**1. Demand & Activity:** Robust. The company reported "all time record quarterly orders, sales and operating profit" with a funded backlog of approximately $5.0 billion. Growth was most pronounced in Digital Imaging, specifically for "infrared detectors and systems for space and airborne and marine unmanned systems, as well as counter unmanned applications" (Organic growth was greatest in our Digital Imaging segment). Demand was also stable to moderate in Instrumentation, driven by "stronger offshore energy and defense markets" (increase in sales of marine instrumentation primarily due to stronger offshore energy and defense markets).
+
+**2. Labor & Wages:** Modest upward pressure. While specific hiring or turnover data was not provided, the company noted an increase in "Other Corporate expense" attributed to "higher compensation costs, including incentive compensation" (increase related to higher compensation costs, including incentive compensation).
+
+**3. Pricing Power & Inflation:** Stable. There are no explicit mentions of price hikes; however, the company benefited from "tariff refunds" (increase in operating income primarily reflected... tariff refunds). Operating margins expanded to 20.0% from 18.4%, suggesting a capacity to manage costs relative to revenue growth.
+
+**4. Supply Chain & Inventory:** Softening/Mixed. There is no mention of lead-time constraints, but the company noted "higher inventory reserves" as a drag on operating income in the Digital Imaging segment (partially offset by... higher inventory reserves).
+
+**5. Capital Spending (Capex):** Stable. Capital expenditures remained flat year-over-year at $30.5 million compared to $30.3 million (Capital expenditures for the second quarter of 2026 were $30.5 million compared with $30.3 million). The company is prioritizing inorganic growth, stating they "continue to review a number of acquisitions" (given the strength of our balance sheet, we continue to review a number of acquisitions).

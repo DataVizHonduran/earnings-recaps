@@ -1,0 +1,22 @@
+Ticker: GEHC
+Source: GEHC_2026-07-23.txt
+Generated: 2026-08-02 15:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**GE HealthCare (GEHC) Economic Signal Summary**
+
+**1. Demand & Activity:**
+Demand is moderate to robust. The company reports "business momentum" characterized by "strong orders" and "healthy end market demand" ("reflecting strong orders, healthy end market demand"). Growth is supported by "traction with new products" and "continued commercial execution" ("traction with new products, and continued commercial execution"). Preliminary organic revenue growth is modest at 3.5% ("Organic revenue growth* of 3.5%").
+
+**2. Labor & Wages:**
+No specific data provided on current wage trends or headcount changes. However, the company identifies the "ability to attract and or retain key talent and qualified employees" as a general risk factor ("Company’s ability to attract and or retain key talent").
+
+**3. Pricing Power & Inflation:**
+The provided text does not explicitly mention price increases or specific input cost relief. The company notes general risks regarding "global geopolitical and economic instability" and "the impact of tariffs and other trade restrictions" ("impact of tariffs and other trade restrictions, and volatility on the Company’s business").
+
+**4. Supply Chain & Inventory:**
+Current status is not detailed, but the company lists "management of my supply chain" and the "ability to cost-effectively secure the materials it needs" as ongoing operational risks ("management of the Company’s supply chain and the Company’s ability to cost-effectively secure the materials it needs to operate its business").
+
+**5. Capital Spending (Capex):**
+The company is maintaining a strategic focus on technology investments, specifically noting an "increasing focus on and investment in cloud, edge computing, artificial intelligence, and software offerings" ("increasing focus on and investment in cloud, edge computing, artificial intelligence, and software offerings").

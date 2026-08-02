@@ -1,0 +1,22 @@
+Ticker: LH
+Source: LH_2026-07-30.txt
+Generated: 2026-08-02 15:51 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Labcorp Holdings Inc. (LH)**
+
+**1. Demand & Activity:**
+Demand is growing moderately across the enterprise, with total revenue increasing 5.8% ("Revenue $3.73 billion vs. $3.53 billion, up 5.8%"). Growth is robust in specialty areas, particularly oncology and Central Labs, which saw revenue growth of 9.8% ("Central Labs revenue growth of 9.8%"). However, demand in Early Development is softening ("Early Development revenue was down 1.4%"). Consumer health activity is expanding via new genetic panels and AI-powered digital tools ("Launched an AI-powered app, MyLabcorp, which has been downloaded by millions of consumers").
+
+**2. Labor & Wages:**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage trends.
+
+**3. Pricing Power & Inflation:**
+The company is exercising modest pricing power, contributing to organic growth ("Organic price mix [includes] 1.8%"). Profitability is improving due to a combination of these price increases and internal cost management ("Adjusted Operating Income and margin increased due to organic growth and operating efficiencies").
+
+**4. Supply Chain & Inventory:**
+The report does not provide specific data on lead times or inventory levels.
+
+**5. Capital Spending (Capex):**
+Capital expenditures are increasing moderately as the company invests in capacity and technology ("planned increases in capital expenditures"). Q2 capex rose significantly year-over-year to $131.6 million from $77.9 million ("Capital Expenditures 131.6 77.9"). Additionally, the company is pursuing a strategy of inorganic growth through targeted acquisitions ("invested $225.7 million in acquisitions").

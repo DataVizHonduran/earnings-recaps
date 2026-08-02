@@ -1,0 +1,22 @@
+Ticker: HLT
+Source: HLT_2026-07-28.txt
+Generated: 2026-08-02 15:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Hilton Worldwide Holdings Inc. (HLT)**
+
+**1. Demand & Activity:**
+Demand is robust and continues to strengthen. System-wide comparable RevPAR increased 3.9% ("due to an increase in both occupancy and ADR"). Management expects this "broad-based momentum" to persist through 2027. Growth is globally diversified, with notable expansions into Greece and India, and a record development pipeline of 541,300 rooms, more than half of which are located outside the U.S. ("more than half were located outside of the U.S.").
+
+**2. Labor & Wages:**
+The provided text contains no specific data on current wage levels or hiring activity, though it lists "challenges due to labor shortages or disputes" as a general forward-looking risk factor.
+
+**3. Pricing Power & Inflation:**
+The company demonstrates moderate pricing power, as RevPAR growth was driven in part by increases in Average Daily Rate (ADR) ("due to an increase in both occupancy and ADR"). While "inflation" is cited as a general macroeconomic risk, there are no specific mentions of current input cost relief or persistent inflationary pressures on margins.
+
+**4. Supply Chain & Inventory:**
+The report does not provide specific updates on current lead times or inventory levels, though "supply chain disruptions" are noted as a general risk factor in the forward-looking statements.
+
+**5. Capital Spending (Capex):**
+Investment in capacity remains robust. The company is aggressively expanding its footprint, approving 42,900 new rooms in Q2 alone ("openings and approvals both increasing 50 percent sequentially"). Projected capital expenditures and contract acquisition costs for the full year are approximately $300 million ("projected to be approximately $300 million"). Additionally, the company is investing in product diversification with the launch of the "Undergraduate by Hilton" brand to target university markets.

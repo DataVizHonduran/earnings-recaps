@@ -1,0 +1,15 @@
+Ticker: DLR
+Source: DLR_2026-07-23.txt
+Generated: 2026-08-02 15:30 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Demand is robust and growing. Occupied capacity increased to 2,799 MWs from 2,725 MWs in the prior quarter ("Occupied MWs... 2,799" vs "2,725"), and overall occupancy remains stable with a slight upward trend ("Occupancy at end of quarter... 90.2%"). Interconnectivity activity is also showing modest growth ("Cross-connects... 235,500" vs "234,000").
+
+**Labor & Wages:** Not mentioned.
+
+**Pricing Power & Inflation:** Not mentioned.
+
+**Supply Chain & Inventory:** Not mentioned.
+
+**Capital Spending (Capex):** Investment in capacity is robust. The company significantly increased its real estate investments this quarter ("Investments in real estate (before depreciation) $47,141,825" compared to "$40,751,409" in Q1). Furthermore, the company maintains a substantial pipeline for future expansion ("approximately 8.5 gigawatts of buildable IT capacity under active development and held for future development").

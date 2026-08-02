@@ -1,0 +1,22 @@
+Ticker: TFC
+Source: TFC_2026-07-17.txt
+Generated: 2026-08-02 16:17 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Truist Financial Corp (TFC)**
+
+**1. Demand & Activity**
+Loan demand is showing modest growth, specifically within the commercial sector. Total average loans increased 0.8% sequentially, driven by "continued commercial and industrial loan growth" ("Average loans and leases HFI were $329.2 billion, up $2.1 billion, or 0.7%, due to continued commercial and industrial loan growth"). Conversely, commercial construction activity is softening, declining 5.0% sequentially ("Commercial construction... (390) (5.0)"). Consumer demand remains stable to slightly softening, with residential mortgages declining 0.2% ("Residential mortgage... (116) (0.2)").
+
+**2. Labor & Wages**
+Personnel costs are experiencing moderate upward pressure. Noninterest expenses rose partly due to "higher personnel expense" ("Noninterest expense was up $69 million, or 2.3%, compared to the second quarter of 2025 due to higher personnel expense"). This is specifically attributed to "higher salaries and variable incentives" ("Personnel expense increased primarily due to higher salaries and variable incentives").
+
+**3. Pricing Power & Inflation**
+The company is facing slight pressure on loan pricing, as evidenced by "lower loan spreads" impacting net interest income ("Taxable-equivalent net interest income was up... partially offset by lower loan spreads"). Funding costs are seeing a slight increase, with the average cost of total deposits rising one basis point sequentially ("The average cost of total deposits was 1.56%, up one basis point").
+
+**4. Supply Chain & Inventory**
+Not applicable. (Financial services entity; no physical inventory or supply chain data provided).
+
+**5. Capital Spending (Capex)**
+Investment in technology and human capital remains robust. The company reports "continued investment in talent and technology" ("Noninterest expense was up $72 million, or 2.4%, reflecting higher variable incentives and continued investment in talent and technology"). Additionally, professional fees increased due to "continued investment in technology infrastructure" ("Professional fees and outside processing expense increased primarily due to continued investment in technology infrastructure").

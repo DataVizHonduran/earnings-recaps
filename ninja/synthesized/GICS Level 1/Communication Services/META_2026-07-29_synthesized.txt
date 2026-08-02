@@ -1,0 +1,15 @@
+Ticker: META
+Source: META_2026-07-29.txt
+Generated: 2026-08-02 15:56 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Demand for advertising services remains robust, with revenue increasing 28% year-over-year and ad impressions growing 14% ("Ad impressions delivered across our Family of Apps increased by 14% year-over-year"). User growth is modest, with daily active people increasing 3% ("DAP was 3.60 billion... an increase of 3% year-over-year"). Management attributes this momentum to AI, which is "accelerating our core business today" and creating "new enterprise opportunities."
+
+**Labor & Wages:** Labor demand is softening. Total headcount decreased 1% year-over-year, following a significant workforce contraction in the second quarter ("approximately 8,000 employees impacted by the May 2026 headcount reduction"). This resulted in $1.18 billion in severance expenses.
+
+**Pricing Power & Inflation:** The company demonstrates robust pricing power, as the average cost for advertisers rose significantly ("Average price per ad increased by 12% year-over-year"). There were no specific mentions of commodity or freight inflation, though total costs and expenses rose 55% year-over-year, driven largely by R&D and legal charges.
+
+**Supply Chain & Inventory:** Not addressed in the provided text.
+
+**Capital Spending (Capex):** Investment in technology and capacity is robust and accelerating. Quarterly capital expenditures reached $31.08 billion, and the company narrowed its full-year 2026 outlook to a range of $130-145 billion ("anticipate 2026 capital expenditures... to be in the range of $130-145 billion").

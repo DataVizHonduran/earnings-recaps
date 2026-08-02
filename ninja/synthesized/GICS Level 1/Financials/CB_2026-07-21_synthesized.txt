@@ -1,0 +1,15 @@
+Ticker: CB
+Source: CB_2026-07-21.txt
+Generated: 2026-08-02 15:22 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity**
+Overall demand for insurance products showed moderate growth, though performance diverged by segment and geography. Activity was robust in Overseas General markets ("up 10.2%"), specifically in Latin America ("up 15.6%") and Asia ("up 12.0%"). In North America, demand was strong for middle market and small commercial lines ("up 8.9%"), personal lines ("up 6.0%"), and agriculture ("up 6.0%"). Conversely, activity softened in North America Major accounts and specialty, which were "down 9.0% due to underwriting actions on property."
+
+**Labor & Wages**
+The report provided limited data on labor trends, though it noted the presence of "integration expenses and severance," suggesting some organizational restructuring.
+
+**Pricing Power & Inflation**
+Pricing power is softening in several key sectors. Management noted that "overly soft underwriting conditions persist" in global property insurance, particularly regarding "large account and E&S related" business. This pricing pressure is expanding, as "soft market conditions are spreading to certain areas of casualty while financial lines also remain soft." The company is responding with increased discipline, stating they "will not underwrite knowingly at a loss."
+

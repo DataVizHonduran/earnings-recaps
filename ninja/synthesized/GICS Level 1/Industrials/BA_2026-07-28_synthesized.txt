@@ -1,0 +1,15 @@
+Ticker: BA
+Source: BA_2026-07-28.txt
+Generated: 2026-08-02 15:18 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Robust. Total company backlog reached a record $715 billion ("Total company backlog at quarter end grew to a record $715 billion"), with commercial airplanes accounting for over 6,200 aircraft. Activity is increasing across segments, evidenced by a 14% year-over-year increase in commercial deliveries ("171 commercial deliveries") and growth in Defense, Space Security revenue ("driven by higher volume").
+
+**Labor & Wages:** Not explicitly detailed, though the company is increasing headcount/resources for specific certification efforts ("investment in additional production and certification resources").
+
+**Pricing Power & Inflation:** Limited data. While Commercial Airplanes noted a "favorable mix," the Global Services segment reported margin compression attributed to "higher costs" ("Operating margin of 18.1 percent reflects... higher costs").
+
+**Supply Chain & Inventory:** Stable. Management indicates that operational volatility is easing ("Our operations are more stable") with a renewed emphasis on "on-time performance." Production is scaling on the 737 program ("transitioning production to 47 per month rate").
+
+**Capital Spending (Capex):** Moderate. The company

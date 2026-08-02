@@ -1,0 +1,8 @@
+Ticker: NEM
+Source: NEM_2026-07-23.txt
+Generated: 2026-08-02 16:00 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity**
+Production activity showed a slight softening in Q2. Attributable gold production decreased 1% ("decreased 1 percent to 1,293 thousand ounces from the prior quarter"), driven by seismic events at Cadia and lower grade sequencing at Ahafo South, Peasquito, and Yanacocha. Copper production saw a moderate decline of 43% ("decreased 43 percent to 17

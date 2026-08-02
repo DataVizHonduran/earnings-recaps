@@ -1,0 +1,22 @@
+Ticker: GOOGL
+Source: GOOGL_2026-07-22.txt
+Generated: 2026-08-02 15:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Alphabet Inc. (Q2 2026)**
+
+**1. Demand & Activity:**
+Demand is robust and accelerating, particularly within AI-driven segments. Google Cloud experienced a "meaningful acceleration" with revenues increasing 82% ("led by an increase in Google Cloud Platform (GCP) across enterprise AI Solutions and enterprise AI Infrastructure"). Search activity remains strong, with AI features "driving Search query growth." Consumer engagement is high, evidenced by "over 1.7 billion unique viewers" for World Cup-related content on YouTube.
+
+**2. Labor & Wages:**
+Headcount has seen moderate growth. The total number of employees increased from 187,103 in Q2 2025 to 198,933 in Q2 2026. No specific mentions of wage inflation or hiring difficulties were noted.
+
+**3. Pricing Power & Inflation:**
+The company demonstrates strong pricing power and value capture, reporting "12th consecutive quarter of double-digit revenue growth" (24% overall). There is a specific focus on "cost-efficient performance" in new product offerings, such as Gemini 3.5 Flash Cyber, suggesting a strategic move toward optimizing performance-to-cost ratios.
+
+**4. Supply Chain & Inventory:**
+Inventory levels have increased significantly, moving from $2.4 billion in December 2025 to $9.9 billion in June 2026 ("Inventory $ 2,439 $ 9,991"). While not explicitly labeled as "bloated," this represents a substantial build-up of physical assets.
+
+**5. Capital Spending (Capex):**
+Capex is expanding aggressively to support AI scaling. The company raised $49.6 billion through equity issuance specifically "to be used for general corporate purposes, including capital expenditures to scale AI infrastructure and global compute." This is further supported by a $20.3 billion issuance of senior unsecured notes for general corporate purposes. Property and equipment, net, grew from $246.6 billion to $321.2 billion year-over-year.

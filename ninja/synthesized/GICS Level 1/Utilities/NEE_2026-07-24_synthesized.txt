@@ -1,0 +1,15 @@
+Ticker: NEE
+Source: NEE_2026-07-24.txt
+Generated: 2026-08-02 16:00 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity: Robust.** Power demand "continues to accelerate," evidenced by FPL adding more than 90,000 customers this quarter. There is "very strong interest from hyperscalers and other large customers," with 21 GW of large-load interest and 12 GW in advanced discussions. Additionally, renewables and storage origination remains strong, adding 3.6 GW to the backlog this quarter.
+
+**Labor & Wages:** Not mentioned.
+
+**Pricing Power & Inflation: Stable.** Residential bills are "projected to increase 2% annually on average through the end of the decade." The company continues to emphasize "competitive power pricing" to attract large-load customers.
+
+**Supply Chain & Inventory: Stable.** Management indicates they possess the necessary "supply chain, development expertise and technology to build all forms of energy." Execution remains efficient, with a recent major transmission project "completed ahead of schedule and on budget."
+
+**Capital Spending (Capex): Robust.** FPL’s full-year capital investments are projected to be "between $12 billion and $13 billion," with regulatory capital employed already increasing by "approximately 9.3%" year-over-year. Looking forward, the proposed combination with Dominion Energy is expected to support "approximately 11% annual growth in regulatory capital employed through 2032."

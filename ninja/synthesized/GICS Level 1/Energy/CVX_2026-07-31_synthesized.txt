@@ -1,0 +1,11 @@
+Ticker: CVX
+Source: CVX_2026-07-31.txt
+Generated: 2026-08-02 15:28 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Upstream activity is robust, characterized by record U.S. production and refinery throughput ("Record U.S. production," "crude unit utilization at 97 percent"). However, downstream demand is softening, particularly for transportation fuels ("lower demand for gasoline" and "lower demand for gasoline and diesel fuel"). New demand is emerging in the AI sector via power infrastructure ("20-year power purchase agreement with Microsoft to provide 2.67 gigawatts of behind-the-meter power").
+
+**Labor & Wages:** Data is limited, though the company noted slight upward pressure on overhead ("higher employee benefit costs").
+
+**Pricing Power & Inflation:** Pricing power remains robust, supported by "higher commodity prices" and "higher margins on refined product sales." To counter inflationary pressures, the company has implemented aggressive structural cost-cutting ("capturing $3 billion in annual run-rate savings") and realized significant

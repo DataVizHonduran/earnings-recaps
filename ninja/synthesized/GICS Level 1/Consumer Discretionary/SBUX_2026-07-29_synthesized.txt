@@ -1,0 +1,22 @@
+Ticker: SBUX
+Source: SBUX_2026-07-29.txt
+Generated: 2026-08-02 16:15 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: SBUX (Q3 FY2026)**
+
+**1. Demand & Activity:**
+Demand is showing robust growth globally, with comparable store sales increasing 7.9% ("Global comparable store sales increased 7.9%"). This was driven by a moderate increase in both transactions (4.2%) and average ticket (3.5%). North American demand is particularly strong, with a 4.5% increase in transactions ("North America comparable store sales increased 8.1%... driven by a 4.5% increase in comparable transactions"), attributed to higher delivery volume and food "attach" rates. International demand is growing more modestly, with transactions up 2.6%.
+
+**2. Labor & Wages:**
+The company is making active labor investments to support its "Back to Starbucks" strategic initiative ("partially offset by... labor investments largely in support of Back to Starbucks"). There are no specific mentions of hiring difficulties or headcount reductions, though the company continues to invest in partner benefits via its College Achievement Plan.
+
+**3. Pricing Power & Inflation:**
+SBUX maintains moderate pricing power, evidenced by a 3.5% increase in the average ticket globally. Inflationary pressures appear to be softening, contributing to margin expansion ("primarily driven by sales leverage and lower inflation"). Additionally, the company received a significant one-time boost from government tariff refunds ("received substantially all of the refunds requested," which "largely offset related tariffs incurred in the first three quarters of fiscal 2026").
+
+**4. Supply Chain & Inventory:**
+The provided text contains no specific data regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex):**
+Investment in physical capacity remains stable to robust, with 175 net new stores opened this quarter ("ending the period with 41,304 stores"). The company projects continued expansion with a full-year target of approximately 600 to 650 net new coffeehouses globally.

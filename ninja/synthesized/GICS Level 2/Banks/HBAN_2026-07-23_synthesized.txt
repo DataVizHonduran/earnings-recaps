@@ -1,0 +1,22 @@
+Ticker: HBAN
+Source: HBAN_2026-07-23.txt
+Generated: 2026-08-02 15:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Huntington Bancshares (HBAN)**
+
+**1. Demand & Activity**
+Loan demand is robust, driven by both organic growth and recent acquisitions. Commercial loan activity is particularly strong, increasing 11% from the prior quarter ("Average commercial loans grew $11.6 billion, or 11%, from the prior quarter"). Consumer loan demand remains moderate, growing 5% sequentially ("Average consumer loans grew $3.4 billion, or 5%, from the prior quarter"). Management describes the forward-looking pipeline as "robust" and the general operating environment as "constructive" ("Our pipelines are robust as we enter the second half of 2026 and the operating environment remains constructive").
+
+**2. Labor & Wages**
+The report does not provide specific data on current wage inflation or hiring difficulties. However, the company has previously engaged in "staffing efficiencies" involving severance payments ("Staffing efficiencies include severance expense recorded in personnel costs").
+
+**3. Pricing Power & Inflation**
+The bank is experiencing a slight compression in net interest margin (NIM) due to a "modest increase in overall funding costs" compared to the prior quarter. However, on a year-over-year basis, NIM has expanded by 10 basis points to 3.21%, largely reflecting a "decrease in funding costs" relative to the prior year.
+
+**4. Supply Chain & Inventory**
+Not applicable.
+
+**5. Capital Spending (Capex)**
+Investment is currently focused on technology integration and systems conversion following a series of acquisitions. The company recently completed a "successful Cadence systems conversion in June" ("Successfully completed the systems conversion of Cadence Bank... in mid-June"). Management is now focused on realizing "cost synergies" and "revenue synergies" from the combined entities ("We have strong line of sight to the remaining cost synergies and we are actively driving revenue synergies").

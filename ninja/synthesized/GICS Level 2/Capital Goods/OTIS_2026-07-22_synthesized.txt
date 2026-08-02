@@ -1,0 +1,15 @@
+Ticker: OTIS
+Source: OTIS_2026-07-22.txt
+Generated: 2026-08-02 16:06 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Service demand is robust, characterized by "double-digit growth in both modernization and repair sales" and "accelerating" maintenance trends. New Equipment activity is mixed and softening; while there is modest growth in the Americas ("approximately 10% organic sales growth"), overall demand is weighed down by a "greater than 20% decline" in Asia Pacific and a "high teens decline in China."
+
+**Labor & Wages:** Labor costs are increasing, contributing to margin pressure ("higher labor cost including the impact of ongoing strategic initiatives and productivity").
+
+**Pricing Power & Inflation:** Pricing power is moderate to strong within the Service segment ("favorable pricing"), though the company continues to face "material cost headwinds." Conversely, the New Equipment segment experienced "unfavorable price" impacts.
+
+**Supply Chain & Inventory:** Not discussed.
+
+**Capital Spending (Capex):** Investment is focused on operational excellence and technology, specifically "the application of digital technology" and "Service quality."

@@ -1,0 +1,22 @@
+Ticker: WST
+Source: WST_2026-07-23.txt
+Generated: 2026-08-02 16:21 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: West Pharmaceutical Services (WST)**
+
+**1. Demand & Activity**
+Demand is **robust**, particularly within high-value segments. Organic net sales grew 12.7% in Q2, driven by "continued strength in Biologics" and "ongoing growth in GLP-1 elastomers" ("driven by our High Value Product Components business"). Growth is bifurcated: High-Value Product (HVP) Components and Delivery Devices saw strong organic growth of 18.4% and 29.2% respectively, while Standard Products remained **stable** with modest organic growth of 0.7% ("Standard Products net sales... rose 0.7% on an organic basis").
+
+**2. Labor & Wages**
+Not addressed. The transcript provides no specific commentary on hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company demonstrates **moderate** pricing power and favorable product mix, contributing to "strong operating income margin expansion" ("favorable mix shift from HVP upgrades including Annex 1"). While specific input cost data is absent, gross profit margins expanded from 35.7% to 37.7% year-over-year, suggesting that revenue growth and mix shifts are outpacing cost pressures.
+
+**4. Supply Chain & Inventory**
+Not addressed. The transcript contains no mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment remains **stable**. Capital expenditures for the second quarter were $85.9 million, and the company maintained its full-year capital spending guidance ("Capital spending guidance is unchanged from a range of $250 million to $275 million").

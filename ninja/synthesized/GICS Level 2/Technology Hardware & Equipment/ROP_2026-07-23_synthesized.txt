@@ -1,0 +1,22 @@
+Ticker: ROP
+Source: ROP_2026-07-23.txt
+Generated: 2026-08-02 16:14 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Roper Technologies (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is moderate to robust, characterized by "durable customer demand for our mission-critical solutions" ("durable customer demand for our mission-critical solutions"). Organic revenue growth was modest at 5% for the quarter, though the full-year organic outlook was revised upward to 6% ("increased its organic revenue growth outlook to 6%"). Activity is being further supported by the launch of new AI-driven products that are expanding addressable markets ("launched multiple new products across the portfolio this quarter that expand our addressable markets").
+
+**2. Labor & Wages**
+The provided text contains no specific updates on current hiring, turnover, or wage trends, though the company lists "risks related to labor shortages" as a general systemic risk factor in its forward-looking statements ("risks related to labor shortages").
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail recent price hikes or specific input cost relief. However, the company notes general systemic risks regarding "inflation and potential supply chain constraints" and "changes in the supply of, or price for, parts and components" ("changes in the supply of, or price for, parts and components, including as a result of inflation").
+
+**4. Supply Chain & Inventory**
+Inventory levels appear stable, with a slight increase from $141.7 million at year-end 2025 to $145.4 million as of June 30, 2026. No specific commentary was provided regarding lead times.
+
+**5. Capital Spending (Capex)**
+Capital expenditures remain modest, totaling $11 million for the quarter ("Capital expenditures (16) (11)"). The company is prioritizing external growth over internal facility expansion, noting "significant capital deployment capacity" focused on "attractive acquisition targets" ("focused on attractive acquisition targets that will continue compounding free cash flow"). Investment in technology is ongoing via "capitalized software expenditures" of $16 million ("Capitalized software expenditures (14) (16)").

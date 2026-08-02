@@ -1,0 +1,22 @@
+Ticker: UDR
+Source: UDR_2026-07-27.txt
+Generated: 2026-08-02 16:19 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: UDR, Inc. (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is moderate to robust, with leasing strength tracking "ahead of our initial expectations." Physical occupancy remains stable in the "mid-96 percent range," and resident retention has reached a "seasonally adjusted all-time high of 60 percent." Geographic variance is notable: the West and Northeast show robust growth (SS Revenue +3.7% and +3.0% YOY, respectively), while the Southeast and Southwest are softening (SS Revenue -1.0% YOY for both).
+
+**2. Labor & Wages**
+No specific mentions of wage inflation or hiring difficulties. The company noted it was named a "National Top Workplaces winner in the Real Estate Industry for the third consecutive year," suggesting stable internal labor relations.
+
+**3. Pricing Power & Inflation**
+UDR demonstrates moderate pricing power, with blended lease rate growth exceeding the high-end of prior guidance ("above the high-end of our previously provided guidance range of 1.5 percent to 2.0 percent"). However, there is persistent upward pressure on operating costs, as Same-Store expenses grew by 2.6% YOY and are projected to increase by "3.00% to 4.50%" in Q3.
+
+**4. Supply Chain & Inventory**
+Not explicitly discussed in terms of lead times; however, the company notes that "waning supply" of apartment homes is a primary driver positioning the firm for continued success.
+
+**5. Capital Spending (Capex)**
+Investment in capacity remains active. The company "commenced development of 4848 at Alex West," a 385-apartment community in Northern Virginia, with an "expected total development cost of $181.3 million." Additionally, the company is actively rotating its portfolio, with pending sales of three communities totaling approximately "$252.5 million."

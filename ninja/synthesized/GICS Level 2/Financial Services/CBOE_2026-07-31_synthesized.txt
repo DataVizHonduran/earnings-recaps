@@ -1,0 +1,20 @@
+Ticker: CBOE
+Source: CBOE_2026-07-31.txt
+Generated: 2026-08-02 15:22 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity**
+Demand is robust, characterized by record-breaking activity across most segments. Net revenue grew 25% ("record revenue results"), driven primarily by a robust surge in derivatives ("record quarter of index options volumes"). Options activity saw a 26% increase in average daily volume (ADV), with index options specifically rising 32%. North American Equities and European markets also saw moderate to robust growth, supported by "stronger industry volumes." Futures activity remained stable ("Net transaction and clearing fees... were flat").
+
+**Labor & Wages**
+Labor trends are mixed. The company is executing a "strategic realignment" that has led to an "increase in severance expense," suggesting targeted headcount reductions. Conversely, strong financial performance has resulted in an "increase in accrued bonuses."
+
+**Pricing Power & Inflation**
+Cboe demonstrates moderate pricing power. There was a 6% increase in total options revenue per contract (RPC), supported by a "3 percent increase in index options RPC." Additionally, the Global FX segment saw a moderate increase in its net capture rate, which was "up 6 percent compared to $2.81" in the prior year. No significant input cost pressures were noted.
+
+**Supply Chain & Inventory**
+Not applicable.
+
+**Capital Spending (Capex)**
+Investment is focused on technology and capacity expansion. The company is actively "investing in opportunities" to advance "

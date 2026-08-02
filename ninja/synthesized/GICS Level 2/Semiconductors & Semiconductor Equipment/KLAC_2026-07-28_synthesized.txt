@@ -1,0 +1,22 @@
+Ticker: KLAC
+Source: KLAC_2026-07-28.txt
+Generated: 2026-08-02 15:50 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: KLA Corporation (Q4 FY2026)**
+
+**1. Demand & Activity:**
+Demand is robust and accelerating. Growth is primarily driven by AI infrastructure expansion, specifically within foundry logic and memory sectors. There is also moderate growth in advanced packaging. Management expects this momentum to strengthen through 2027 ("trends driving our growth are strengthening," "momentum across our business accelerating in the second half of calendar 2026 and continuing through 2027").
+
+**2. Labor & Wages:**
+No specific data provided regarding current wage levels or headcount changes. However, the company identifies the "ability to attract, retain and motivate key personnel" as a persistent operational risk.
+
+**3. Pricing Power & Inflation:**
+The provided text does not explicitly mention price increases or specific input cost relief. The company continues to monitor the "availability and cost of components, materials or subassemblies" as a general risk factor.
+
+**4. Supply Chain & Inventory:**
+Inventory levels have increased moderately, rising from $3.21 billion in June 2025 to $3.65 billion in June 2026. The company notes ongoing vulnerability to "disruptions and delays at our third-party service providers" and potential "DRAM chip shortages."
+
+**5. Capital Spending (Capex):**
+Investment in physical capacity is stable to modestly increasing, with net land, property, and equipment rising from $1.25 billion to $1.38 billion year-over-year. The company remains focused on technology investment to maintain its "technology advantage" in process control.

@@ -1,0 +1,22 @@
+Ticker: TEL
+Source: TEL_2026-07-22.txt
+Generated: 2026-08-02 16:16 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: TE Connectivity (TEL)**
+
+**Demand & Activity:**
+Demand is robust and growing across all business lines. The company reported record orders of $5.7 billion, a 27% year-over-year increase ("Record orders in both segments totaling $5.7 billion, an increase of 27% year over year"). Growth is particularly strong in the Industrial segment, which saw sales increases of over 20% ("Industrial team delivered sales growth of over 20 percent"), while Transportation grew modestly by 5% organically ("Transportation increased sales by five percent organically"). There is significant momentum in AI-driven demand for data centers and energy infrastructure ("increased momentum in AI in both the data center and across the broader energy infrastructure").
+
+**Labor & Wages:**
+Not addressed. The transcript does not provide specific data on hiring, turnover, or wage pressures.
+
+**Pricing Power & Inflation:**
+The company is demonstrating strong pricing power and operational efficiency, as evidenced by expanding margins despite continued investment ("Adjusted operating margin expanded by 90 basis points year over year to 22%, driven by strong operational performance"). There were no specific mentions of input cost relief or persistent inflationary pressures.
+
+**Supply Chain & Inventory:**
+Not addressed. The transcript does not provide details regarding lead times or inventory levels.
+
+**Capital Spending (Capex):**
+Investment is focused on strategic capacity expansion and technology acquisition. The company is aggressively investing for growth ("Our strong margin performance continues to reflect our resiliency while also investing for growth") and has entered a definitive agreement to acquire Astrodyne TDI for approximately $1.4 billion to expand its power portfolio in the Industrial segment ("acquire Astrodyne TDI... at an approximate purchase price of $1.4 billion").

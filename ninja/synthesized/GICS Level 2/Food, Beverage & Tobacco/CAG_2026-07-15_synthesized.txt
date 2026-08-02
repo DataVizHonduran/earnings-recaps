@@ -1,0 +1,15 @@
+Ticker: CAG
+Source: CAG_2026-07-15.txt
+Generated: 2026-08-02 15:20 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Softening. Organic net sales were flat in Q4 and decreased 0.4% for the full year, with a projected further decline of 1% to 3% in fiscal 2027 ("Organic net sales change of (3)% to (1)%"). Overall volume decreased 1.6% in the quarter, though the company saw modest gains in specific categories ("gained volume share in categories including frozen single-serve meals, frozen multi-serve meals, frozen vegetables, meat snacks, seeds, and pudding").
+
+**Labor & Wages:** Limited data. The company reported higher operating expenses partly due to "higher incentive compensation expense," but provided no specific commentary on hiring or turnover.
+
+**Pricing Power & Inflation:** Modest. The company continues to leverage pricing to offset volume declines, noting a "1.6% positive impact from price/mix" in Q4. However, these gains are being countered by persistent inflationary pressures, as margins were negatively impacted by the "negative impact of cost of goods sold inflation" across all business segments.
+
+**Supply Chain & Inventory:** Stable. The company reported "favorable inventory management" contributing to cash flows and indicated a strategic focus on "increasing investment behind our brands and supply chain" to improve competitiveness.
+
+**Capital Spending (Capex):** Robust increase. Capital expenditures rose from $389 million in the prior year to $423 million in fiscal 2026, with a significant projected increase to "approximately $550 million" for fiscal 2027.

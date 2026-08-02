@@ -1,0 +1,22 @@
+Ticker: ROL
+Source: ROL_2026-07-22.txt
+Generated: 2026-08-02 16:14 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Rollins, Inc. (ROL)**
+
+**1. Demand & Activity**
+Demand trends softened during the quarter, characterized by a divergence in acquisition channels. Consumer-initiated demand via digital media and inbound calls declined ("slower growth in parts of our residential pest control business... as lead volume declined"), while relationship-based channels, including home builders and door-to-door sales, remained robust ("delivered solid organic growth"). Management noted a modest recovery in momentum toward the end of June and early July ("lead volume improved toward the end of June and has maintained this momentum").
+
+**2. Labor & Wages**
+The company is currently managing a misalignment between its cost structure and actual activity levels. Management is implementing operational changes to better align headcount and resources with current demand ("implemented organizational and operational changes to... better align resources with current demand conditions"). Employee expenses as a percentage of revenue increased slightly from 29.8% to 30.5% year-over-year.
+
+**3. Pricing Power & Inflation**
+While specific pricing actions were not detailed, the company experienced moderate margin compression. Gross profit margins declined by 100 basis points, driven in part by rising input costs. Materials and supplies expenses increased from 6.0% to 6.2% of revenue, and fleet expenses rose from 4.2% to 4.4% of revenue.
+
+**4. Supply Chain & Inventory**
+No specific commentary provided regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capital expenditures remain modest relative to total spend, with $6 million invested in the quarter. However, the company continues to aggressively pursue inorganic growth through acquisitions, investing $117 million during the period ("invested $117 million in acquisitions"). Management indicated a continued commitment to reinvesting for long-term capacity ("continuing to invest in areas that will drive long-term growth").

@@ -1,0 +1,22 @@
+Ticker: TYL
+Source: TYL_2026-07-29.txt
+Generated: 2026-08-02 16:18 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Tyler Technologies (TYL)**
+
+**1. Demand & Activity**
+Demand in the public sector remains robust, driven by sustained government modernization efforts. This is evidenced by record-high total and SaaS bookings, with SaaS revenues accelerating by 21.7% ("Public sector demand remains healthy, reflecting sustained modernization priorities for the public sector that translated into record SaaS and total bookings").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring difficulty, turnover, wage increases, or headcount reductions.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly discuss price hikes or input cost pressures. However, the company reports solid growth in recurring revenues, which grew 8.2% ("Recurring revenues were $559.5 million, up 8.2%").
+
+**4. Supply Chain & Inventory**
+As a software-as-a-service (SaaS) provider, the company does not report traditional physical supply chain constraints or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capital investment remains modest and focused on technology and software development. Full-year 2026 capex is projected between $18 million and $20 million, with $6 million specifically allocated to capitalized software development ("Capital expenditures $18 million to $20 million; Capitalized software development costs included in capex $6 million"). Additionally, the company is pursuing growth through strategic acquisitions, recently spending $212.7 million to acquire "For The Record" to enhance its AI-powered justice portfolio ("completed the acquisition of For The Record for approximately $212.7 million in cash").

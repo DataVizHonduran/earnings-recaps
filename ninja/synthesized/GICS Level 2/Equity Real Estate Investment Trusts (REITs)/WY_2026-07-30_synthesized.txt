@@ -1,0 +1,13 @@
+Ticker: WY
+Source: WY_2026-07-30.txt
+Generated: 2026-08-02 16:23 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided press release, economic signals are limited:
+
+*   **Demand & Activity:** Activity appears stable, with net sales remaining flat year-over-year ("net sales of $1.9 billion... compares with... net sales of $1.9 billion for the same period last year"). The company is streamlining its footprint via the "divestiture of non-core timberlands in Oregon."
+*   **Labor & Wages:** Not mentioned.
+*   **Pricing Power & Inflation:** Not mentioned.
+*   **Supply Chain & Inventory:** Not mentioned.
+*   **Capital Spending (Capex):** There is moderate investment in renewable energy infrastructure, as the company "commenced operations at second solar site, with three additional currently under construction."

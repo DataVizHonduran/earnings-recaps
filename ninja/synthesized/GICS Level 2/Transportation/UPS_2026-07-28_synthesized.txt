@@ -1,0 +1,22 @@
+Ticker: UPS
+Source: UPS_2026-07-28.txt
+Generated: 2026-08-02 16:19 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: UPS (Q2 2026)**
+
+**Demand & Activity:**
+Demand is showing moderate to robust growth across all primary segments. The company reports "strong momentum" entering the second half of the year ("entered the second half of the year with strong momentum"). Growth is evident in the U.S. Domestic segment (revenue increased 6.0%), the International segment (revenue increased 12.5%), and Supply Chain Solutions (revenue increased 7.8%), with specific strength noted in "forwarding and logistics, including healthcare" ("primarily due to growth in forwarding and logistics, including healthcare").
+
+**Labor & Wages:**
+The company is actively pursuing headcount reductions. Management reported significant "employee separation costs associated with workforce reduction initiatives" ("consisting primarily of employee separation costs associated with workforce reduction initiatives from our recently completed Driver Choice Program").
+
+**Pricing Power & Inflation:**
+UPS demonstrates robust pricing power, with revenue growth significantly outstripping volume in key segments. U.S. Domestic revenue growth was "driven by a 9.3% increase in revenue per piece" ("driven by a 9.3% increase in revenue per piece"), while the International segment saw an even more pronounced "18.9% increase in revenue per piece" ("driven by an 18.9% increase in revenue per piece").
+
+**Supply Chain & Inventory:**
+Not explicitly detailed; however, the company has completed a major "network reconfiguration" following the "Amazon glide down" ("successfully completed our Amazon glide down and related network reconfiguration initiatives as designed").
+
+**Capital Spending (Capex):**
+Capital investment remains stable. The company confirmed its outlook for "expected capital expenditures of about $3.0 billion" ("confirms expected capital expenditures of about $3.0 billion").

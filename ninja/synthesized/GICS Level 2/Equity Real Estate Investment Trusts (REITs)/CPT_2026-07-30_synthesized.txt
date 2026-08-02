@@ -1,0 +1,20 @@
+Ticker: CPT
+Source: CPT_2026-07-30.txt
+Generated: 2026-08-02 15:25 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity**
+Demand appears stable to slightly softening. While occupancy remains stable ("Occupancy... 95.7%"), there is a moderate decline in new lease pricing ("Effective New Lease Rates (3.3)%"), suggesting a cooling in tenant demand for new contracts compared to the prior year.
+
+**Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage pressures.
+
+**Pricing Power & Inflation**
+Pricing power is softening, with blended lease rates turning slightly negative ("Effective Blended Lease Rates (0.2)%"). Meanwhile, operating costs continue to see moderate inflationary pressure, with same-property expenses increasing ("Expenses 2.4%") quarterly. Management expects this trend to persist, guiding for expenses to outpace revenue growth for the remainder of the year ("Revenues 0.00% - 1.00%" vs. "Expenses 2.00% - 3.00%").
+
+**Supply Chain & Inventory**
+The provided text contains no mentions of supply chain lead times or inventory levels.
+
+**Capital Spending (Capex)**
+Investment in capacity remains robust. The company is actively expanding through both development and acquisitions, having recently "acquired five apartment home communities and two land parcels" totaling $645.4 million

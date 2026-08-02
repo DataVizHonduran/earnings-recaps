@@ -1,0 +1,15 @@
+Ticker: ELV
+Source: ELV_2026-07-15.txt
+Generated: 2026-08-02 15:37 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity: Softening.** Total medical membership declined by 1.5% year-over-year ("Medical membership... decreased by 469 thousand sequentially"), with specific attrition in "Medicare Advantage, Medicaid, and Employer Group risk membership." Conversely, demand for integrated health services remains robust, as Carelon revenue grew 6% driven by the "scaling of Carelon Services risk-based solutions and CarelonRx product revenue."
+
+**Labor & Wages: Modest Increase.** The company is increasing spending on human capital, noting that a rise in the adjusted operating expense ratio was "driven primarily by targeted investments in our workforce."
+
+**Pricing Power & Inflation: Moderate.** Elevance demonstrates moderate pricing power through "higher premium yields" in the Health Benefits segment. However, this is partially offset by persistent inflationary pressure in service delivery, specifically an "expected elevated medical cost trend in our Government businesses," which pushed the benefit expense ratio up 80 basis points.
+
+**Supply Chain & Inventory: Stable.** No significant supply chain disruptions reported. CarelonRx continues to see growth in "product revenue," and claims processing remains stable, with days in claims payable at 45.4 days.
+
+**Capital Spending: Robust.** The company is accelerating investment in digital and operational infrastructure. Management is "accelerating targeted investments in capabilities that lower healthcare costs, simplify the member and provider experience," as well as "capabilities that support our long-term operating model."

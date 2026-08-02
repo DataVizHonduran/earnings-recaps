@@ -1,0 +1,15 @@
+Ticker: APA
+Source: APA_2026-07-08.txt
+Generated: 2026-08-02 15:15 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Activity in the U.S. natural gas and NGL sectors is softening, as evidenced by production curtailments ("curtailed approximately 137 MMcf d of U.S. natural gas production and 12,300 barrels per day of U.S. natural gas liquids production"). This reduction was a direct response to "weak or negative Waha hub prices."
+
+**Labor & Wages:** Not discussed.
+
+**Pricing Power & Inflation:** Pricing for U.S. natural gas is significantly softening, with realized prices turning negative ("Natural Gas (Mcf) United States ($2.20)"). In contrast, international oil pricing remains robust ("International [Oil] $99.90").
+
+**Supply Chain & Inventory:** Not discussed.
+
+**Capital Spending (Capex):** Not discussed.

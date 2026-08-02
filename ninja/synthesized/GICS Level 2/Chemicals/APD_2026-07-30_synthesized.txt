@@ -1,0 +1,15 @@
+Ticker: APD
+Source: APD_2026-07-30.txt
+Generated: 2026-08-02 15:15 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Overall demand is seeing moderate growth ("three percent higher volumes"). Activity is robust in the Americas ("seven percent higher volumes") and Asia ("six percent higher volumes"), with specific strength in the electronics sector ("supporting a semiconductor manufacturer's expansion in Taiwan"). Conversely, demand is softening in Europe ("two percent lower volumes").
+
+**Labor & Wages:** Data is limited, though some upward cost pressure is evident in Asia, driven by "incentive compensation."
+
+**Pricing Power & Inflation:** The company is exercising modest pricing power ("higher pricing"). However, persistent "fixed-cost inflation" is impacting margins in both the Americas and Europe. Energy cost pass-throughs are mixed, providing a "favorable impact" in the Americas but acting as a "headwind" in Europe.
+
+**Supply Chain & Inventory:** Not discussed.
+
+**Capital Spending (Capex):** Capex is being optimized and reduced to "approximately $3.5 billion" for fiscal 2026. The company is shifting away from certain large-scale clean energy initiatives ("decision to not proceed with Louisiana Clean Energy Complex and discontinue zero-carbon liquid hydrogen facility in Arizona") to prioritize "high-quality, traditional industrial gas projects."
