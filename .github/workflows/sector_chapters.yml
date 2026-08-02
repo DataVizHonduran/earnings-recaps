@@ -2,7 +2,7 @@ name: Sector Chapters
 
 on:
   schedule:
-    - cron: '0 9 * * 5'
+    - cron: '0 6 * * 6'  # Saturdays 6am UTC — after full week of earnings are scraped, synthesized, and sorted
   workflow_dispatch:
     inputs:
       force:
