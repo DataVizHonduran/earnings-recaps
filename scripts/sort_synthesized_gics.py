@@ -1,9 +1,8 @@
+import csv
 import glob
 import os
 import shutil
 import sys
-
-import pandas as pd
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 UNIVERSE_CSV = os.path.join(REPO, "ninja", "sp500_universe.csv")
@@ -173,11 +172,12 @@ SUB_INDUSTRY_TO_GROUP = {
 
 
 def load_universe():
-    df = pd.read_csv(UNIVERSE_CSV)
-    return {
-        row.ticker: (row.gics_sector, row.gics_sub_industry)
-        for row in df.itertuples()
-    }
+    with open(UNIVERSE_CSV, newline="") as f:
+        reader = csv.DictReader(f)
+        return {
+            row["ticker"]: (row["gics_sector"], row["gics_sub_industry"])
+            for row in reader
+        }
 
 
 def main():
