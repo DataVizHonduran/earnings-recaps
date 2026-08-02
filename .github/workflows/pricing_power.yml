@@ -1,0 +1,46 @@
+name: Pricing Power Report
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["Final Beige Book"]
+    types: [completed]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - run: pip install huggingface_hub pandas
+
+      - name: Configure git
+        run: |
+          git config --local user.email "alberto.boquin@gmail.com"
+          git config --local user.name "Alberto Jose Boquin"
+
+      - name: Generate Pricing Power Report
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: python scripts/generate_pricing_power_report.py
+
+      - name: Commit and push
+        run: |
+          git add industry_reports/pricing_power_*.html
+          git diff --staged --quiet || (
+            git commit -m "Pricing Power Report — $(date +'%Y-%m-%d') 🤖" &&
+            git pull --rebase --autostash &&
+            git push
+          )
