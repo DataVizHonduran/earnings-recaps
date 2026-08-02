@@ -1,0 +1,22 @@
+Ticker: FTNT
+Source: FTNT_2026-07-29.txt
+Generated: 2026-08-02 15:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Fortinet (FTNT)**
+
+**1. Demand & Activity:**
+Demand is **robust**, characterized by strong growth in both product and service lines. Product revenue showed significant acceleration, growing 52% year-over-year ("Product revenue grew 52% year over year to $773 million"). Overall revenue growth remains strong, with the company raising its full-year 2026 outlook to 19% growth ("Raises 2026 revenue guidance to 19% year over year growth").
+
+**2. Labor & Wages:**
+The provided text contains no specific data on wage increases or headcount changes, though it notes the general operational risk regarding the "ability to attract and retain personnel."
+
+**3. Pricing Power & Inflation:**
+The company maintains **stable** to strong margins, with non-GAAP operating margins projected between 35% and 37% ("Non-GAAP operating margin in the range of 35.0% to 37.0%"). While the company lists "pricing pressure" and "effects of inflation or stagflation" as general forward-looking risk factors, there is no evidence of current pricing distress in the reported results.
+
+**4. Supply Chain & Inventory:**
+Supply chain activity is focused on **moderate** resilience-building. The company is actively diversifying its hardware pipeline through a strategic partnership with Intel to "strengthen the resilience and diversity of Fortinet’s global supply chain." While "excess product inventory" is listed as a theoretical risk, current financial results do not indicate bloated levels.
+
+**5. Capital Spending (Capex):**
+Investment is directed toward **robust** technological advancement and R&D, specifically in AI and custom silicon. Key investments include the development of the "Fortinet Security Processor 6 (SP6)" and the launch of new AI-driven platforms like "FortiSOC" and "FortiSASE Outpost" to address "AI infrastructure requirements."

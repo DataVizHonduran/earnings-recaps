@@ -1,0 +1,22 @@
+Ticker: HAS
+Source: HAS_2026-07-21.txt
+Generated: 2026-08-02 15:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Hasbro (HAS)**
+
+**1. Demand & Activity:**
+Demand is robust in the gaming sector but modest in consumer products. The Wizards and Digital Gaming segment saw strong growth, specifically Magic The Gathering, which achieved record quarterly revenue ("Magic The Gathering eclipsed $500 million in quarterly revenue for the first time"). Consumer Products experienced modest growth, though activity was hampered by operational disruptions ("Consumer Products Segment Revenues were up 5%... despite disruption from the previously disclosed unauthorized network access"). Entertainment activity is softening due to the timing of contracts ("Entertainment Segment Revenue decline of 20% related to the nature and timing of deals").
+
+**2. Labor & Wages:**
+The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation:**
+The company is facing moderate cost pressures from trade policy, specifically regarding tariffs, which are impacting margins in the toy segment ("Adjusted operating loss... reflects incremental tariff expense"). While not explicitly detailing price hikes, the company notes that tariffs generally risk "higher prices of our products" and could "impact consumer spending."
+
+**4. Supply Chain & Inventory:**
+Supply chain activity was recently disrupted by a cyber incident, though operations have since stabilized ("The Company has since returned to pre-incident order processing, shipping, and invoicing practices"). There is no specific commentary on current inventory levels or lead times.
+
+**5. Capital Spending (Capex):**
+Investment remains focused on the core business and digital evolution, though the company is currently refocusing its digital portfolio ("impairment related to the Company's refocused Digital Games portfolio for 2028 and beyond"). General capital allocation priorities are to "Invest in core business" and "Continue to pay down debt."
