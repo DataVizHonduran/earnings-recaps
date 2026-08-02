@@ -1,0 +1,22 @@
+Ticker: MA
+Source: MA_2026-07-30.txt
+Generated: 2026-08-02 15:52 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Mastercard (MA) Q2 2026**
+
+**1. Demand & Activity:**
+Demand remains robust, characterized by moderate to strong growth across key payment metrics. Gross dollar volume grew 8% on a local currency basis ("Gross dollar volume growth of 8% on a local currency basis to $2.9 trillion"), while purchase volume increased 10%. Activity is particularly strong in international travel and commerce, with cross-border volume showing robust growth ("Cross-border volume growth of 12% on a local currency basis"). Expansion is noted in emerging markets, specifically through "new partnerships in Mexico and the UAE."
+
+**2. Labor & Wages:**
+The report does not provide specific commentary on hiring difficulty or wage inflation. However, there is evidence of organizational adjustment, as the company noted a "restructuring charge in the first quarter of 2026" within its general and administrative expenses.
+
+**3. Pricing Power & Inflation:**
+The company demonstrates moderate pricing power, particularly within its specialized offerings. Revenue growth was supported by "business and market insights and pricing" as part of its value-added services. Additionally, the company is seeing increased costs associated with maintaining its network, as "payment network rebates and incentives increased 22%" due to "new and renewed deals."
+
+**4. Supply Chain & Inventory:**
+Not applicable. As a digital payments network, the company does not maintain physical inventories or face traditional commodity supply chain lead times.
+
+**5. Capital Spending (Capex):**
+While specific dollar amounts for facilities are not disclosed, the company is investing in technological capacity and digital infrastructure. This is evidenced by the launch of its "market-first Agentic Payment capability" and ongoing investments in "security solutions, consumer acquisition and engagement services, digital and authentication solutions."

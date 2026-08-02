@@ -1,0 +1,15 @@
+Ticker: MMM
+Source: MMM_2026-07-21.txt
+Generated: 2026-08-02 15:56 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Moderate growth. The company reported mid-single-digit sales growth with adjusted organic growth of 5.4% ("organic growth of 5.4% YoY"). Demand is particularly robust in high-tech and aerospace sectors, evidenced by new partnerships for AI data center infrastructure ("advance AI data center infrastructure") and aircraft insulation ("advanced insulation technologies for the A220").
+
+**Labor & Wages:** Not discussed.
+
+**Pricing Power & Inflation:** Margins remain robust ("robust operating margins of about 25%"), with a slight expansion in adjusted operating margins ("increase of 40 basis points year-on-year"), suggesting stable pricing power relative to input costs.
+
+**Supply Chain & Inventory:** Inventory levels are stable, showing a slight increase compared to the previous year-end ("Inventories $3,770 [million]" as of June 30, 2026, vs "$3,661 [million]" as of December 31, 2025).
+
+**Capital Spending (Capex):** Investment is focused on technology and digital transformation, specifically the deployment of AI-driven tools ("AI digital assistant powered by AWS") and standardized optics technology ("support standardization and broader industry adoption of EBO technology").

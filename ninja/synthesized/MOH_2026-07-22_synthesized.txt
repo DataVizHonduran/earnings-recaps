@@ -1,0 +1,20 @@
+Ticker: MOH
+Source: MOH_2026-07-22.txt
+Generated: 2026-08-02 15:57 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity**
+Demand is softening, as evidenced by a 6% year-over-year decrease in premium revenue driven by "the impact of lower membership" ("lower premium revenue reflects the impact of lower membership"). Despite this, the company reports "solid performance" ("solid performance in our Medicaid and Medicare segments") in its primary segments, though it expects to exit the traditional MAPD product in 2027.
+
+**Labor & Wages**
+Not mentioned.
+
+**Pricing Power & Inflation**
+The company is exercising moderate pricing power through "rate updates" ("partially offset by rate updates"). Medical cost inflation appears stable in the Medicaid segment, with the "imbalance between Medicaid rates and medical cost trend" appearing to have "stabilized" ("imbalance between Medicaid rates and medical cost trend appears to have stabilized"). Medicare also reflects "lower medical cost trend and pricing implemented for 2026" ("reflecting lower medical cost trend and pricing implemented for 2026"). Conversely, the Marketplace segment is seeing pressure from "unfavorable member acuity mix" ("impact of current year unfavorable member acuity mix").
+
+**Supply Chain & Inventory**
+Not applicable.
+
+**Capital Spending (Capex)**
+Not mentioned.

@@ -1,0 +1,25 @@
+Ticker: JPM
+Source: JPM_2026-07-14.txt
+Generated: 2026-08-02 15:50 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: JPMorgan Chase (2Q26)**
+
+**1. Demand & Activity**
+Demand is **robust** across multiple sectors. The U.S. economy is showing "notable resiliency" ("The U.S. economy has demonstrated notable resiliency this year"). Specific strengths include:
+*   **Capital Markets:** Activity has accelerated significantly, with Investment Banking fees jumping 30% to the highest level since 2021 ("IB activity also accelerated... market sentiment remains constructive").
+*   **Consumer Spending:** Card sales volume grew 10% YoY ("Debit and credit card sales volume up 10% YoY").
+*   **Investment/Wealth:** AUM flows remain robust with $50 billion in long-term net inflows ("flows remained robust with $50 billion of long-term AUM net inflows").
+
+**2. Labor & Wages**
+Labor demand remains **moderate to strong**, though costs are rising. The firm notes "stronger business investment and hiring" in the broader economy. Internally, expenses increased due to "higher compensation, including higher revenue-related compensation and growth in the number of front office employees" ("predominantly driven by higher compensation... and growth in the number of front office employees").
+
+**3. Pricing Power & Inflation**
+The firm demonstrates **robust** pricing power in premium segments, though macroeconomic inflation remains a concern. Card annual fees grew more than 30%, driven by "demand for our premium products" ("Card annual fees grew more than 30%... as well as demand for our premium products"). However, management identifies "sticky inflation" as a primary risk shifting "below the surface" ("risks are shifting below the surface... including... sticky inflation").
+
+**4. Supply Chain & Inventory**
+*Not applicable/Not mentioned in transcript.*
+
+**5. Capital Spending (Capex)**
+Investment in technology and capacity remains **robust**, specifically targeting AI and digital infrastructure. The firm cites "AI-driven capital investment" as a tailwind for the economy ("This strength is being supported by several tailwinds, including AI-driven capital investment"). Internally, the firm continues "years of consistent investment" ("product of... years of consistent investment") and reports increased "technology expense" as a driver of noninterest expense ("higher technology expense and higher occupancy expense").

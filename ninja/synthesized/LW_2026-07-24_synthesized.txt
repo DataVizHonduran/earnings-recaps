@@ -1,0 +1,22 @@
+Ticker: LW
+Source: LW_2026-07-24.txt
+Generated: 2026-08-02 15:51 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Lamb Weston (LW)**
+
+**Demand & Activity**
+Demand is divergent by region. North American activity is robust, with sales volume growing for six consecutive quarters ("Sales volume grew for the sixth consecutive quarter") and increasing 11% in Q4, driven by "customer contract wins" and "share gains." Conversely, international demand is softening, particularly in EMEA, where activity was hampered by "challenging market conditions" and "disruption in the Middle East" ("impact of the Middle East conflict").
+
+**Labor & Wages**
+The report does not explicitly detail hiring or turnover; however, it notes "higher accrued liabilities from compensation and benefit accruals tied to higher performance achievement," suggesting modest upward pressure on employee-related costs.
+
+**Pricing Power & Inflation**
+Pricing power is currently weak, with a moderate decline in price mix across the board ("6 percent decrease in price mix" for FY2026). The company is providing "modest price and trade support for customers" to maintain competitiveness. Input cost inflation remains a persistent pressure ("input cost inflation have impacted our EMEA business"), though the company is utilizing "significant productivity gains" to offset these costs.
+
+**Supply Chain & Inventory**
+Inventory levels are leaning lower, contributing to favorable working capital changes ("led by... lower inventories"). The company reports "supply chain and manufacturing operating improvements" and "lower manufacturing costs per pound" resulting from "improved operating efficiencies."
+
+**Capital Spending (Capex)**
+Capex is declining as the company shifts away from expansion toward efficiency. Spending fell to $410.1 million in FY2026 ("down $240.6 million from the prior year"), reflecting the "completion of major growth initiatives" and a strategic move to "reduce structural capital intensity." Guidance for FY2027 remains stable at $380 to $410 million.
