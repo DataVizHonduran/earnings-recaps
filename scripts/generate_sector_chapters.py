@@ -4,7 +4,7 @@ Generate GICS Level 1 Sector Chapters via Gemma 4.
 
 Reads synthesized company summaries from ninja/synthesized/GICS Level 1/{Sector}/,
 compresses them into a compact per-ticker table, calls Gemma 4 once per sector,
-and writes Beige Book-style sector chapters to industry_reports/{Sector}_05-03-26.md.
+and writes Beige Book-style sector chapters to industry_reports/{Sector}_{DATE_TAG}.md.
 
 Usage:
     HF_TOKEN=hf_xxx python3 scripts/generate_sector_chapters.py
@@ -26,7 +26,9 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 L1_BASE   = REPO_ROOT / "ninja" / "synthesized" / "GICS Level 1"
 UNIVERSE  = REPO_ROOT / "ninja" / "sp500_universe.csv"
 OUT_DIR   = REPO_ROOT / "industry_reports"
-DATE_TAG  = "05-03-26"
+_now      = datetime.now(timezone.utc)
+DATE_TAG  = _now.strftime("%m-%d-%y")
+_quarter  = f"Q{(_now.month - 1) // 3 + 1} {_now.year}"
 MAX_CHARS = 90000
 FORCE     = os.environ.get("FORCE", "").lower() in ("1", "true", "yes")
 
@@ -293,7 +295,7 @@ def main():
             continue
 
         header = (
-            f"# {sector} — Sector Chapter | Q1 2026\n"
+            f"# {sector} — Sector Chapter | {_quarter}\n"
             f"*Aggregate Economic Report | Generated: {ts} | Model: {MODEL_ID}*\n\n"
         )
         out_path.write_text(header + chapter, encoding="utf-8")

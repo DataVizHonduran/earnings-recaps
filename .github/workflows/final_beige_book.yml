@@ -1,0 +1,46 @@
+name: Final Beige Book
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["Sector Chapters"]
+    types: [completed]
+
+permissions:
+  contents: write
+
+jobs:
+  assemble:
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - run: pip install huggingface_hub pandas
+
+      - name: Configure git
+        run: |
+          git config --local user.email "alberto.boquin@gmail.com"
+          git config --local user.name "Alberto Jose Boquin"
+
+      - name: Assemble Final Beige Book
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: python scripts/generate_final_beige_book.py
+
+      - name: Commit and push
+        run: |
+          git add industry_reports/beige_book_*.html
+          git diff --staged --quiet || (
+            git commit -m "Final Beige Book — $(date +'%Y-%m-%d') 🤖" &&
+            git pull --rebase --autostash &&
+            git push
+          )
