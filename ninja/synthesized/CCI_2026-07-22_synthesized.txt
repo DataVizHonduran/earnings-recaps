@@ -1,0 +1,15 @@
+Ticker: CCI
+Source: CCI_2026-07-22.txt
+Generated: 2026-08-02 15:24 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Organic tower demand remains modest, with organic growth at 3.9% ("3.9% organic growth, excluding an unfavorable $49 million and $5 million impact from DISH Terminations and Sprint Cancellations"). Core leasing activity is stable ("Core leasing activity... 1.7%"). However, demand for services is softening, with a projected decrease in contribution ("primarily driven by lower services activity levels").
+
+**Labor & Wages:** Not discussed.
+
+**Pricing Power & Inflation:** Pricing remains stable, supported by contractual escalators ("Escalators $25 [million] 2.7%"). The company is seeing modest relief in operating costs, as reflected in its updated outlook ("$10 million decrease in site rental cost of operations").
+
+**Supply Chain & Inventory:** Not discussed.
+
+**Capital Spending (Capex):** Capex showed a moderate increase, driven by strategic land acquisition ("increased 48%... primarily driven by a $20 million increase in land capital expenditures"). Future discretionary spending is projected to be between $150 million and $250 million ("Discretionary capital expenditures... 150 to 250").

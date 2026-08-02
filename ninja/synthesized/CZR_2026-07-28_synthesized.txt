@@ -1,0 +1,9 @@
+Ticker: CZR
+Source: CZR_2026-07-28.txt
+Generated: 2026-08-02 15:28 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity**
+Demand is mixed across business segments. Regional activity showed robust growth ("Regional 1,570 1,435 9.4 %"), while Las Vegas demand softened ("Las Vegas $ 1,017 $ 1,054 (3.5) %"). Digital demand grew slightly ("Caesars Digital 351 343 2.3 %"), though Managed and Branded segments declined significantly ("Managed and Branded 57 74 (23.0) %"). Overall, consolidated net revenues grew modestly ("Caesars $ 2,993 $ 2,907 3.0 %").
+

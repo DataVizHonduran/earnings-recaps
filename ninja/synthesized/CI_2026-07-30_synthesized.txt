@@ -1,0 +1,15 @@
+Ticker: CI
+Source: CI_2026-07-30.txt
+Generated: 2026-08-02 15:25 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Overall activity is growing moderately, with total revenues increasing 7% ("increased 7 %"). Medical customer growth was slight ("increased 2%"), supported by "growth in Middle and Select markets" but partially offset by "lower membership in National Accounts." Pharmacy demand is softening ("decreased 4%"), reflecting "expected client transitions and lower membership from health plan clients." However, specialty volume remains robust ("strong specialty volume growth").
+
+**Labor & Wages:** There are no specific mentions of hiring or wage trends, though the company reports improved "operating efficiency" regarding its SG&A expense ratio.
+
+**Pricing Power & Inflation:** The company is exercising moderate pricing power to offset inflationary pressures, specifically implementing "premium rate increases to cover expected increases in medical costs." Additionally, the company is leveraging "higher generic and biosimilar adoption" to deliver "lower costs" to clients and patients.
+
+**Supply Chain & Inventory:** Not mentioned.
+
+**Capital Spending:** Investment is focused on technological modernization, specifically "harnessing technology, data and AI to deliver more personalized experiences, improve access and lower costs."

@@ -1,0 +1,15 @@
+Ticker: BRO
+Source: BRO_2026-07-27.txt
+Generated: 2026-08-02 15:20 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Organic demand is slightly softening, with organic revenue decreasing 0.7% for the second quarter ("Organic Revenue decreasing 0.7%") and 0.3% for the first six months of the year ("Organic Revenue decreasing 0.3%"). However, overall business activity remains robust due to acquisition growth, with total revenues increasing 30.4% year-over-year ("Total revenues of $1.7 billion, increasing $391 million, or 30.4%").
+
+**Labor & Wages:** Not discussed.
+
+**Pricing Power & Inflation:** Not discussed.
+
+**Supply Chain & Inventory:** Not discussed.
+
+**Capital Spending (Capex):** Not discussed.
