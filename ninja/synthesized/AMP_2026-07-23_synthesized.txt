@@ -1,0 +1,11 @@
+Ticker: AMP
+Source: AMP_2026-07-23.txt
+Generated: 2026-08-02 15:11 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Robust. Firm-wide assets under management, administration, and advisement grew 14% to a record $1.8 trillion ("Assets under management, administration and advisement grew to a record $1.8 trillion, up 14 percent"). Demand for retirement products was strong, with sales increasing 20% ("Retirement Protection Solutions sales increased 20 percent to $1.6 billion"), and transactional activity rose 13% ("Transactional activity increased 13 percent compared to the prior year").
+
+**Labor & Wages:** Modest expansion. The firm continues to grow its advisor base, adding 79 experienced advisors during the quarter ("added 79 experienced advisors in the quarter"). Some upward pressure on compensation was noted in the asset management segment, driven by performance-linked pay ("higher compensation expense for Seligman from AUM growth and performance").
+
+**Pricing Power & Inflation:** Stable. The company reports that its "underlying fee rate remained stable," though it achieved higher productivity, with adjusted operating net revenue per advisor increasing 12% to a new high

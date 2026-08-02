@@ -1,0 +1,15 @@
+Ticker: AN
+Source: AN_2026-07-31.txt
+Generated: 2026-08-02 15:15 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Vehicle demand is softening. Same-store new vehicle retail unit sales declined 5% ("Same-store New Vehicle Retail Unit Sales... -5%") and used vehicle retail unit sales fell 8% ("Same-store Used Vehicle Retail Unit Sales... -8%"). In contrast, after-sales activity is robust, characterized by "Record profit in After-Sales" and "Customer Pay growth 7%." Demand for financing is also robust, with the finance portfolio growing "50%+" ("AN Finance portfolio growth 50%+").
+
+**Labor & Wages:** Not mentioned.
+
+**Pricing Power & Inflation:** Pricing power appears to be softening, as same-store gross profit declined 5% ("Same-store Gross Profit... -5%") and total revenue decreased slightly ("revenue of $6.9 billion, a decrease of 1%"). There were no specific mentions of input cost relief or persistent inflationary pressures.
+
+**Supply Chain & Inventory:** Not mentioned.
+
+**Capital Spending (Capex):** Investment in capacity is moderate and focused on strategic density. The company reported $126 million in capital expenditures for the first half of the year ("capital expenditures were $126.0 million") and expanded its footprint through the acquisition of four dealerships in the Atlanta and San Francisco Bay areas to add "attractive scale" and "density in existing markets" ("Acquired four dealerships, adding attractive scale").

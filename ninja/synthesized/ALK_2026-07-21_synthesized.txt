@@ -1,0 +1,11 @@
+Ticker: ALK
+Source: ALK_2026-07-21.txt
+Generated: 2026-08-02 15:11 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Demand is robust across the network ("demand remained resilient"), though modestly softened in Hawai'i due to weather ("reduced system unit revenue by approximately 3 points"). Growth is driven by strong premium (+15%) and corporate (+30%) segments. Q3 capacity is expected to grow modestly (2-3%), with growth concentrated in international routes ("nearly all growth coming from long-haul international flying") while North American capacity remains "essentially flat."
+
+**Labor & Wages:** Labor costs saw modest transitory increases tied to integration and expansion, specifically a "one-time employee recognition award" for system integration and "crew training costs for our international widebody ramp."
+
+**Pricing Power & Inflation:** The company exhibits robust pricing power, with yields strengthening and Q3 unit revenue projected for "low double-digit growth." However, margins were severely pressured by a fuel spike

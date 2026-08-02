@@ -1,0 +1,15 @@
+Ticker: AAL
+Source: AAL_2026-07-23.txt
+Generated: 2026-08-02 15:08 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Robust growth across all segments. Domestic demand "rebounded nicely" (passenger unit revenue up 10.6%) and international demand was "strong across all entities," led by the Pacific entity (up 15.1%). Business travel showed robust momentum, with managed corporate revenue increasing "26% year over year," marking the fifth consecutive quarter of double-digit growth.
+
+**Labor & Wages:** Not discussed.
+
+**Pricing Power & Inflation:** The company demonstrates robust pricing power, offsetting nearly 50% of a significant fuel cost headwind "through higher fares." However, input costs remain a primary pressure point; fuel expense increased "over $2.2 billion, or 83% year over year," and prices have "remained volatile." The company is also utilizing "updates to its checked bag fee structure" to maximize revenue.
+
+**Supply Chain & Inventory:** Not discussed.
+
+**Capital Spending (Capex):** Moderate to robust investment in capacity, technology, and infrastructure. The company is expanding its premium capacity via "deliveries of new Boeing 787-9 and
