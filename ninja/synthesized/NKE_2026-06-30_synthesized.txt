@@ -1,0 +1,13 @@
+Ticker: NKE
+Source: NKE_2026-06-30.txt
+Generated: 2026-08-02 16:02 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Overall demand is softening, with the company facing "top-line headwinds." Activity is bifurcated geographically: North America shows modest growth, while demand in Greater China and EMEA is declining ("primarily due to declines in Greater China and EMEA, partially offset by growth in North America"). Channel performance is mixed, as wholesale revenues grew modestly ("up 4 percent on a reported basis"), while NIKE Direct revenues softened ("down 7 percent on a reported basis"). Management notes that "sell-through remains challenged," though they see "progress in performance product." Converse demand is declining robustly ("down 32 percent on a reported basis").
+
+**Labor & Wages:** Labor costs are experiencing slight upward pressure, primarily attributed to organizational restructuring rather than market wage growth ("higher wage-related expense, driven by employee severance costs").
+
+**Pricing Power & Inflation:** There is little evidence of organic pricing power; however, gross margins saw a robust one-time increase due to regulatory relief ("approximately 900 basis point benefit due to the expected recovery of the International Emergency Economic Powers Act (IEEPA) tariffs").
+
+**Supply Chain & Inventory:** Inventory levels remain stable ("Inventories for NIKE, Inc. were $7.5 billion, flat compared to the prior year

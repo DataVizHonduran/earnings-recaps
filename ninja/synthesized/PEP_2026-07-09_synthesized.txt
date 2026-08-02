@@ -1,0 +1,15 @@
+Ticker: PEP
+Source: PEP_2026-07-09.txt
+Generated: 2026-08-02 16:07 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Robust. Global organic volume growth is at its highest level since 2022 ("global organic volume has increased at the highest rate since 2022"). Growth is broad-based across international segments ("each segment delivering strong net revenue growth") and North American convenient foods gained volume market share aided by "innovation and affordability initiatives."
+
+**Labor & Wages:** Limited data. Management is focused on "elevating productivity across the organization to improve operating leverage," though core operating profit was "partially offset by certain operating cost increases."
+
+**Pricing Power & Inflation:** Moderate. Overall organic revenue growth continues to be supported by "effective net pricing." However, there are signs of softening in North American convenient foods, where net revenue declined, primarily reflecting "lower effective net pricing."
+
+**Supply Chain & Inventory:** Not discussed.
+
+**Capital Spending (Capex):** Stable. The company expects capital spending to remain "below 5 percent of net revenue."

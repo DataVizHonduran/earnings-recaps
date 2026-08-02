@@ -1,0 +1,9 @@
+Ticker: PKG
+Source: PKG_2026-07-23.txt
+Generated: 2026-08-02 16:11 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided text, the available economic signals are extremely limited as the document is truncated.
+
+**1. Demand & Activity:** Moderate growth in activity, as evidenced by a year-over-year increase in quarterly net sales ("Second quarter net sales were $2.5 billion in 2026 and $2.2 billion in 20
