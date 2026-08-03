@@ -1,0 +1,22 @@
+Ticker: LUV
+Source: LUV_2026-07-22.txt
+Generated: 2026-08-03 16:31 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: LUV (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by record-breaking revenue and strong engagement across diversified streams. Growth is particularly pronounced in loyalty and corporate segments, with managed business revenues increasing 30% year-over-year ("Managed business revenues reached an all-time quarterly record") and Rapid Rewards enrollments rising 35% ("new enrollments increasing 35% year-over-year").
+
+**2. Labor & Wages**
+The report does not provide specific commentary on hiring, turnover, or wage levels. Non-fuel operating expenses (CASM-X) saw a modest increase of 3.4% year-over-year ("Second quarter 2026 CASM-X increased 3.4 percent year-over-year").
+
+**3. Pricing Power & Inflation**
+The company is exercising strong pricing power, evidenced by a significant increase in unit revenues. Adjusted RASM grew by 20.1% ("adjusted unit revenues increased 20.1%"), and the company intends to continue "optimizing our network, product offering, and pricing." However, the company faces persistent inflationary pressure from energy, with fuel expenses rising by nearly $900 million year-over-year ("despite nearly $900 million of additional fuel expense year-over-year").
+
+**4. Supply Chain & Inventory**
+Fleet modernization is ongoing with a stable delivery pipeline. The company received 13 Boeing 737-8 aircraft and retired 10 during the quarter ("Received 13 Boeing 737-8 aircraft and retired 10 aircraft in second quarter 2026"). Capacity growth for the full year has been slightly revised downward from 2% to 1.5% ("now expect full-year growth of approximately 1.5%, versus last updated guidance of 2%").
+
+**5. Capital Spending (Capex)**
+Capital investment remains focused on fleet renewal and technology. Q2 gross expenditures were $818 million ("driven primarily by aircraft-related capital spending, as well as technology, facilities, and operational investments"). Full-year net capital spending is expected to be modest, trending toward the low end of, or below, the $3.0 billion to $3.5 billion range ("Expect 2026 net capital spending... toward the low end of, or below, the $3.0 billion to $3.5 billion range").

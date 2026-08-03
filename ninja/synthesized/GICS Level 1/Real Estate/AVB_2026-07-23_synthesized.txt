@@ -1,0 +1,27 @@
+Ticker: AVB
+Source: AVB_2026-07-23.txt
+Generated: 2026-08-03 16:30 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: AvalonBay Communities (AVB)**
+
+**1. Demand & Activity**
+Demand is described as improving, supported by a reduction in new housing completions. This has resulted in robust rental growth and a positive outlook for net operating income (NOI).
+*   **Signal:** Robust/Improving ("A healthier demand environment, easing new supply... delivered strong rent growth")
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is successfully exercising pricing power, as evidenced by revenue growth. However, this is partially offset by moderate inflationary pressure on operating expenses.
+*   **Pricing Power:** Robust ("Same Store Residential revenue increased $10,958,000, or 1.6%")
+*   **Input Costs:** Moderate pressure ("Same Store Residential operating expenses increased $6,134,000, or 2.9%")
+
+**4. Supply Chain & Inventory**
+Not applicable for this asset class; however, the "inventory" of competing new rental units is softening.
+*   **Signal:** Softening supply ("easing new supply")
+
+**5. Capital Spending (Capex)**
+Investment in capacity remains robust. The company is actively expanding its portfolio through the construction of several new apartment communities across multiple states.
+*   **Signal:** Robust ("At June 30, 2026, the Company had 27 wholly-owned Development communities under construction... Estimated Total Capital Cost for these communities is $3,526,000,000")

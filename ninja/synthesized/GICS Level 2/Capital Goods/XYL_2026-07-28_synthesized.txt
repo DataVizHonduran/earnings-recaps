@@ -1,0 +1,22 @@
+Ticker: XYL
+Source: XYL_2026-07-28.txt
+Generated: 2026-08-03 16:31 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Xylem Inc. (XYL)**
+
+**1. Demand & Activity**
+Demand is strengthening, characterized by robust growth in orders (up 41% organically). Activity is particularly strong in industrial sectors linked to AI infrastructure, including semiconductors and power generation ("growth of AI infrastructure is increasing the strategic importance of water"), as well as food, beverage, and life sciences. The municipal foundation remains stable ("resilient municipal foundation").
+
+**2. Labor & Wages**
+The report does not provide specific current-quarter updates on wages or headcount. However, the company identifies the ongoing ability to "retain, compete for and attract leadership, other key talent and labor" as a persistent risk factor.
+
+**3. Pricing Power & Inflation**
+Xylem is demonstrating moderate pricing power, noting that "strong price realization" and productivity savings have successfully "exceeded the impact of inflation and lower volumes." While the company continues to monitor "manufacturing and operating cost increases due to macroeconomic conditions, including inflation," current pricing strategies are offsetting these pressures.
+
+**4. Supply Chain & Inventory**
+The company does not report current inventory levels but continues to list "lack of availability or delays in receiving parts and raw materials from our supply chain, including semiconductors" as a potential risk to operations.
+
+**5. Capital Spending (Capex)**
+Specific dollar amounts for future Capex are not disclosed; however, the company is focused on "strategic investments for growth, including acquisitions and divestitures" to expand its exposure to attractive industrial markets.

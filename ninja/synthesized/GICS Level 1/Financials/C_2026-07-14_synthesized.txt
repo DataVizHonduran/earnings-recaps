@@ -1,0 +1,11 @@
+Ticker: C
+Source: C_2026-07-14.txt
+Generated: 2026-08-03 16:30 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided document, there is **insufficient data** to perform an economic signal analysis.
+
+The attached text is not an earnings transcript or a financial results summary; it is a technical **SEC Exhibit 99.3 (iXBRL)** filing fragment. The content consists entirely of structural XML/HTML tags and a table header listing the company's registered securities (Ticker, Symbol, and Exchange). 
+
+There are no mentions of demand, labor, pricing, supply chains, or capital spending.

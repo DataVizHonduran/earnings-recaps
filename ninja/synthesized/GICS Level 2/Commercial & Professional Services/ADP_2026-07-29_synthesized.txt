@@ -1,0 +1,22 @@
+Ticker: ADP
+Source: ADP_2026-07-29.txt
+Generated: 2026-08-03 16:30 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: ADP (Fiscal Year 2026)**
+
+**1. Demand & Activity**
+Demand remains **moderate** and growing. Total revenues increased 7% for the year, with Employer Services new business bookings growing 6% ("Employer Services new business bookings increased 6% for the year to $2.2 billion"). Activity in the PEO sector is **stable**, with average worksite employees increasing 2% ("Average worksite employees paid by PEO Services increased 2%"). Outlook for FY2027 suggests a **slight** softening in growth expectations, with revenue growth projected at 5% to 6% ("Consolidated outlook includes revenue growth of 5% to 6%").
+
+**2. Labor & Wages**
+Labor market activity is **stable to flat**. U.S. pays per control—a key proxy for employment levels—showed modest growth of 1% for both the quarter and the full year ("U.S. pays per control increased 1% for the fourth quarter and for the fiscal year"). Future expectations are **flat**, with a projected increase of 0% to 1% for FY2027 ("Increase in U.S. pays per control of 0% to 1%").
+
+**3. Pricing Power & Inflation**
+The company demonstrates **robust** pricing power and margin expansion. Adjusted EBIT margins increased 80 basis points for the year ("adjusted EBIT margin increased 80 basis points to 26.8%"), with further expansion anticipated in FY2027 ("adjusted EBIT margin expansion of 70 to 90 basis points"). There is no mention of input cost pressures; however, the company is benefiting from higher interest rates on client funds, with yields increasing 20 basis points to 3.4% ("average interest yield on client funds increased 20 basis points to 3.4% for the fiscal year").
+
+**4. Supply Chain & Inventory**
+Not applicable. As a service provider, ADP does not report physical supply chain or inventory metrics.
+
+**5. Capital Spending (Capex)**
+Investment is focused on **robust** technology integration, specifically Artificial Intelligence, to drive productivity ("AI tools now being embedded across our product, service and sales teams in ways that are enhancing quality and productivity"). The company continues to "invest in the future growth and success of ADP" through these technological enhancements.

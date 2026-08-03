@@ -1,0 +1,22 @@
+Ticker: EQIX
+Source: EQIX_2026-07-29.txt
+Generated: 2026-08-03 16:30 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Equinix (EQIX)**
+
+**1. Demand & Activity**
+Demand is robust and broad-based, characterized by accelerating momentum in AI and cloud infrastructure. The company reports "stronger-than-expected demand" ("stronger-than-expected demand"), evidenced by a 23% year-over-year increase in annualized gross bookings and a record addition of 9,700 net interconnections ("Added a record 9,700 net interconnections in the quarter").
+
+**2. Labor & Wages**
+Not addressed. The transcript contains no specific mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company exhibits stable pricing power. Management explicitly cites "firm pricing" ("firm pricing") as a key driver for their revised long-term financial outlook. There are no mentions of input cost pressures or commodity inflation.
+
+**4. Supply Chain & Inventory**
+Not addressed. The transcript does not provide data on lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capex is expanding significantly to keep pace with demand. Total capital expenditures for 2026 are projected between $5.0 billion and $6.0 billion ("Total capital expenditures are expected to range between $5.000 and $6.000 billion"). Long-term annual capex guidance has been revised upward to a range of $5.0 billion to $7.0 billion ("Updated Outlook (2027 - 2029)... $5,000 - 7,000"). This investment is supporting "accelerated capacity expansion," with 52 projects currently underway across 33 global markets ("52 projects underway across 33 markets worldwide").

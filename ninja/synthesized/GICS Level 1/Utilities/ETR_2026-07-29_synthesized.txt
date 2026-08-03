@@ -1,0 +1,22 @@
+Ticker: ETR
+Source: ETR_2026-07-29.txt
+Generated: 2026-08-03 16:30 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Entergy Corp (ETR)**
+
+**1. Demand & Activity**
+Demand is showing modest growth, characterized by "higher retail sales volume" (Appendix B) contributing to the Utility business's earnings increase.
+
+**2. Labor & Wages**
+The report does not provide specific data on hiring, turnover, or wage trends; however, it notes "higher O M" (Operations and Maintenance) costs as a partial offset to earnings (Appendix B), which may reflect rising operational or labor expenses.
+
+**3. Pricing Power & Inflation**
+The company is actively utilizing regulatory channels to adjust pricing. Recent activity includes "approved Entergy Arkansas’s Generating Arkansas Jobs Act rider rate update" and "approved Entergy Texas’s DCRF rate update," alongside multiple filings for "annual formula rate plans" (Business highlights). Financials indicate persistent pressure from "higher interest expense" (Appendix B).
+
+**4. Supply Chain & Inventory**
+No specific mentions of lead times or inventory levels were provided in the text.
+
+**5. Capital Spending (Capex)**
+Investment remains robust, focused on grid resilience and energy transition. The company is "investing in growth for the future with a more resilient, cleaner energy system" (Company Description) and recently secured an "approximately $200 million Texas Energy Fund grant for electric reliability" to strengthen the grid (Business highlights). Additionally, earnings were supported by the "return on construction work in progress for certain utility plant investments" (Appendix B).

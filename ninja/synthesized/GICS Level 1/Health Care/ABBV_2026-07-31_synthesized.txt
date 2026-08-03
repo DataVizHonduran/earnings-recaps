@@ -1,0 +1,26 @@
+Ticker: ABBV
+Source: ABBV_2026-07-31.txt
+Generated: 2026-08-03 16:29 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: AbbVie (ABBV)**
+
+**1. Demand & Activity**
+Demand is **robust** across most core portfolios, though highly bifurcated by product lifecycle. 
+*   **Immunology:** Strong growth driven by Skyrizi (+24.0% operational) and Rinvoq (+23.7% operational), offsetting a **sharp decline** in Humira ("decrease of 36.1 percent on an operational basis").
+*   **Neuroscience:** Robust growth (+19.8% operational), led by Qulipta (+30.3% operational) and Vraylar (+18.9%).
+*   **Oncology:** Softening overall (-2.4% operational), with significant weakness in Imbruvica ("decrease of 29.4 percent") despite strength in Elahere (+31.8% operational).
+*   **Aesthetics:** Flat to slightly softening ("decrease of 0.9 percent on an operational basis"), with modest growth in Botox Cosmetic (+3.4% operational) countered by a decline in Juvederm (-6.6% operational).
+
+**2. Labor & Wages**
+No specific mentions of hiring, turnover, or wage pressures were provided in the report.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail pricing actions or input cost fluctuations. However, the company maintains a **strong** adjusted gross margin ratio of 84.7%.
+
+**4. Supply Chain & Inventory**
+No mentions of lead times or inventory levels were provided.
+
+**5. Capital Spending (Capex)**
+Investment is focused on inorganic growth and pipeline expansion. The company has entered a definitive agreement to acquire Apogee Therapeutics for approximately $10.9 billion to "deepen AbbVie's Immunology Portfolio" and "bolster our immunology leadership."

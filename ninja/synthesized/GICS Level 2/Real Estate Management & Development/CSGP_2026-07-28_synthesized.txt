@@ -1,0 +1,22 @@
+Ticker: CSGP
+Source: CSGP_2026-07-28.txt
+Generated: 2026-08-03 16:30 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: CoStar Group (CSGP)**
+
+**1. Demand & Activity**
+Demand remains robust, characterized by 61 consecutive quarters of double-digit revenue growth ("delivered our 61st consecutive quarter of double-digit revenue growth"). Activity is expanding through geographic diversification, specifically noting a new "market entry into France" ("CoStar s market entry into France"). Product-line demand is shifting toward AI-integrated services, with Apartments.com Ai seeing significant engagement, including a 256% increase in traffic-to-lead conversion ("traffic-to-lead conversion up 256%").
+
+**2. Labor & Wages**
+The report does not explicitly detail hiring difficulties or wage inflation. However, there is evidence of moderate cost discipline regarding the workforce and general operations, as the company successfully reduced its projected expense base ("reducing our projected expense base by roughly $100 million versus our original guidance").
+
+**3. Pricing Power & Inflation**
+The company demonstrates strong pricing power and operational leverage, as revenue grew 18% year-over-year while operating cost growth was kept modest ("held operating cost growth to just 2%"). There are no mentions of input cost pressures from commodities or freight.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a digital marketplace and information provider, the company does not report physical supply chain lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment is focused on technology and capacity expansion. The company is aggressively investing in AI capabilities across its platform roadmap ("Our product roadmap extends these AI capabilities across CoStar, LoopNet, and our international businesses"). This is reflected in the balance sheet via an increase in net property and equipment from $1.32 billion to $1.44 billion.

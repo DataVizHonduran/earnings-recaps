@@ -1,0 +1,22 @@
+Ticker: SWK
+Source: SWK_2026-07-29.txt
+Generated: 2026-08-03 16:31 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Stanley Black & Decker (SWK)**
+
+**1. Demand & Activity**
+Demand is showing modest growth, characterized by a divergence between North American and European markets. Organic revenue increased 3% ("Organic revenue* increased 3%"), driven primarily by robust performance in U.S. retail and commercial/industrial (C&I) channels for power tools ("volume strength was primarily driven by U.S. retail and commercial and industrial (C I ) channels in Tools Outdoor"). North American organic sales rose 4% ("North America sales were... up 4% organically*"), while European demand softened ("Europe was... down 2% organically*"). Industrial and automotive fastener demand remains stable to slightly positive ("Organic revenues* were up 3%, driven by industrial strength, as well as continued automotive fasteners growth").
+
+**2. Labor & Wages**
+The report does not provide specific commentary on hiring, turnover, or wage inflation. However, the company is pursuing "footprint actions" and "restructuring costs" ("charges related to footprint actions and other cost actions"), suggesting a focus on operational efficiency and capacity right-sizing.
+
+**3. Pricing Power & Inflation**
+Pricing power appears flat in the consumer segment ("Pricing was flat" for Tools Outdoor), though the company maintained slight pricing leverage in the industrial segment ("pricing (+1%)" for Engineered Fastening). Margin expansion was not driven by price hikes, but rather by "net productivity gains" ("Segment margin improvement reflected net productivity gains") and a significant one-time windfall from "net tariff refunds" ("included a benefit of roughly 250 basis points from net tariff refunds").
+
+**4. Supply Chain & Inventory**
+There is no specific mention of current lead times or inventory levels. The company continues to reference ongoing "supply chain transformation" ("costs related to supply chain transformation") as part of its non-GAAP adjustments, indicating a continuing effort to optimize its logistics network.
+
+**5. Capital Spending (Capex)**
+The company is shifting toward growth-oriented investment, funded in part by the divestiture of its aerospace business and tariff recoveries ("tariff refunds are supporting incremental growth investments"). Management indicated a commitment to "thoughtfully allocating capital to accelerate shareholder value creation" ("thoughtfully allocating capital to accelerate shareholder value creation") and investing in growth.
