@@ -1,0 +1,25 @@
+Ticker: TSLA
+Source: TSLA_2026-07-22.txt
+Generated: 2026-08-03 16:31 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: TSLA Q2 2026**
+
+**1. Demand & Activity**
+Demand is **robust**, characterized by record vehicle deliveries and growth in both established and new markets ("achieved record second-quarter vehicle deliveries, with continued growth in new markets and strength in established markets"). Energy storage activity is **growing**, reaching its second-best quarterly deployment ("Energy Storage business returned to growth"). Software adoption is **expanding**, specifically regarding FSD subscriptions ("FSD (Supervised) penetration continued to grow").
+
+**2. Labor & Wages**
+The provided text contains **no specific mentions** of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+Pricing power is not explicitly detailed; however, the company is seeing **moderate** margin compression, with GAAP gross margin declining 41 bps year-over-year (16.8% vs 17.2%). There is evidence of **cost-reduction** efforts in infrastructure scaling ("innovate our Supercharger design... helping us scale the network more cost-effectively").
+
+**4. Supply Chain & Inventory**
+Inventory levels are **lean**, with days of supply decreasing significantly year-over-year to 15 days ("Global vehicle inventory (days of supply)... 15" vs 24 in Q2-2025). A **moderate** bottleneck persists in the supply chain regarding battery components, which remains the primary constraint on growth ("battery pack capacity expansion the main limiting factor to near-term vehicle production volume increase").
+
+**5. Capital Spending (Capex)**
+Capex is **robust** and accelerating, with Q2 spending increasing 142% year-over-year to $5.79B ("Tesla is in its largest and most exciting period of investment"). Investments are focused on:
+*   **Capacity Expansion:** New factories for Tesla Semi (Nevada) and Megafactory Texas.
+*   **Technology/AI:** Doubling onsite compute in Texas ("more than doubled our onsite compute in Texas... during the first half of 2026").
+*   **Diversification:** Site preparation for solar and semiconductor manufacturing ("site selection, preparation, construction and equipment procurement progressed").
