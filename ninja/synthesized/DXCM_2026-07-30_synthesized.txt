@@ -1,0 +1,22 @@
+Ticker: DXCM
+Source: DXCM_2026-07-30.txt
+Generated: 2026-08-03 16:30 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Dexcom Inc. (DXCM)**
+
+**1. Demand & Activity**
+Demand is growing robustly across all primary markets. Worldwide revenue increased 13% year-over-year, with international growth (19%) outpacing U.S. growth (11%) on a reported basis ("U.S. revenue grew 11% and international revenue grew 19% on a reported basis"). Activity is further supported by expansion into new patient segments, specifically non-insulin-using type 2 diabetics ("Dexcom CGM use among people with type 2 diabetes not using insulin resulted in clinically meaningful and statistically significant improvements").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring trends, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is experiencing moderate margin expansion, suggesting strong pricing power or improved operational efficiencies. Non-GAAP gross profit margins increased from 60.1% to 64.1% year-over-year ("Non-GAAP gross profit* totaled $838.5 million or 64.1% of reported revenue, compared to $695.9 million or 60.1% of reported revenue"). Management has raised its full-year gross profit margin guidance to approximately 64%.
+
+**4. Supply Chain & Inventory**
+Inventory levels have increased moderately, rising from $629.1 million at year-end 2025 to $726.4 million as of June 30, 2026 (Table A). There are no mentions of lead-time disruptions or bloated stock.
+
+**5. Capital Spending (Capex)**
+The company is maintaining a stable investment posture with a focus on scaling output. Management indicated that its current cash position of $1.95 billion provides the necessary flexibility to continue investing in infrastructure ("as Dexcom continues to expand production capacity and explore new market opportunities").

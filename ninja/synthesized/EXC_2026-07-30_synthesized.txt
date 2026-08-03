@@ -1,0 +1,22 @@
+Ticker: EXC
+Source: EXC_2026-07-30.txt
+Generated: 2026-08-03 16:30 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Exelon Corp (EXC)**
+
+**1. Demand & Activity**
+Energy demand is growing ("As energy demand continues to grow"), driving a need for expanded grid capacity. The company is specifically focusing on "grid modernization," "storage," and "virtual power plants" to accommodate this growth ("helping meet growing energy demand and enabling a more affordable and reliable grid").
+
+**2. Labor & Wages**
+Not addressed. The transcript contains no specific mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is actively seeking to raise prices through regulatory filings to recover costs. BGE filed a rate case to increase annual electric distribution rates by $156 million ("requesting the funding of investments and operating costs necessary to maintain a safe and reliable electric system"). Other utilities saw earnings growth driven by "approved distribution and transmission rates" associated with the "updated recovery of investments to serve customers."
+
+**4. Supply Chain & Inventory**
+Not addressed. The transcript contains no mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capex remains robust, focused on infrastructure and reliability. The company is executing a significant financing plan to support "continued investment across the utilities" ("Executed 86% of 2026 planned debt financings"). Specific investment areas include "incremental investments to serve customers" to drive "top quartile reliability" and the proposal of "transmission-connected battery storage" in New Jersey.

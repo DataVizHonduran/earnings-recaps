@@ -1,0 +1,9 @@
+Ticker: EQR
+Source: EQR_2026-07-22.txt
+Generated: 2026-08-03 16:30 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided document, there is **insufficient data** to perform a full economic signal analysis. The attached text is a Table of Contents and a cover page for a Second Quarter 2026 Results press release; it does not contain the actual earnings narrative, management commentary, or financial data.
+
+Because the substantive sections (Earnings Release, Statements of Operations, and Portfolio Summary) were not included in the provided text, I cannot extract signals for demand, labor, pricing, supply chain, or capex.
