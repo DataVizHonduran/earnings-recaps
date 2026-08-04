@@ -1,0 +1,25 @@
+Ticker: MKTX
+Source: MKTX_2026-07-30.txt
+Generated: 2026-08-04 16:16 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: MarketAxess (MKTX)**
+
+**1. Demand & Activity**
+Demand is mixed, characterized by a softening in core U.S. credit but robust growth in specialized trading channels and international markets. Total revenues were "relatively flat" as the firm faced "lower market volatility" compared to the prior year.
+*   **U.S. Credit:** Softening, with a "9% decline in U.S. credit" commission revenue.
+*   **Emerging Markets:** Robust growth, evidenced by a "6% increase in emerging markets commission revenue" and a "24%" increase in block trading ADV.
+*   **Strategic Channels:** Strong adoption of portfolio trading, which saw a "33% increase in total portfolio trading ADV to a record $2.0 billion," with particularly high growth in municipal bonds (+154%).
+
+**2. Labor & Wages**
+The report does not provide specific data on hiring, turnover, or wage levels. However, the company notes "continued expense discipline" regarding its total expenses, which increased by only "1%" year-over-year.
+
+**3. Pricing Power & Inflation**
+Pricing power appears stable to modest, though variable transaction fees (FPM) for total credit declined by "7%" year-over-year, attributed to "protocol and product mix, as well as lower duration of bonds traded." Conversely, the company is seeing growth in recurring revenue streams, with "record services revenue" increasing by "14%," principally driven by "net new contract revenue."
+
+**4. Supply Chain & Inventory**
+Not applicable. As a financial technology platform, the company does not maintain physical inventories or traditional supply chains.
+
+**5. Capital Spending (Capex)**
+The company continues to invest in technology and platform expansion to drive adoption. Management highlighted "continued investments" in "new solutions across each of our strategic channels" and the "early success in Mid-X" to expand its market footprint.

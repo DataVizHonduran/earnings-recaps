@@ -1,0 +1,22 @@
+Ticker: LVS
+Source: LVS_2026-07-22.txt
+Generated: 2026-08-04 16:16 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Las Vegas Sands (LVS)**
+
+**1. Demand & Activity**
+Demand is mixed by geography. Macao experienced moderate growth in customer volumes across all gaming segments ("growth in volumes across all gaming segments as compared to the prior year"), although financial results were dampened by volatility in gaming luck ("unusually low hold in rolling play"). Singapore continues to show robust activity ("continued to deliver industry-leading financial performance").
+
+**2. Labor & Wages**
+No specific mentions of hiring difficulties, turnover, or wage adjustments were provided in the report.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price increases or input cost pressures. However, there was a slight decrease in the company's weighted average borrowing cost, moving from 4.8% to 4.6% ("weighted average borrowing cost was 4.6% during the second quarter of 2026, compared to 4.8% in the second quarter of 2025").
+
+**4. Supply Chain & Inventory**
+Not applicable/No mentions of supply chain lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capex remains active, totaling $332 million for the quarter. Investment is concentrated in Singapore for the "MBS Expansion Project," with $215 million allocated to construction, development, and maintenance at Marina Bay Sands ("construction, development and maintenance activities of $215 million at Marina Bay Sands"). Macao saw modest investment of $86 million.

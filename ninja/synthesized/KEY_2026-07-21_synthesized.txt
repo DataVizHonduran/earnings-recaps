@@ -1,0 +1,22 @@
+Ticker: KEY
+Source: KEY_2026-07-21.txt
+Generated: 2026-08-04 16:16 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: KeyCorp (KEY)**
+
+**1. Demand & Activity**
+Loan demand is showing modest growth. Total loans increased to $110.4 billion as of June 30, 2026, compared to $106.4 billion a year prior ("Loans $ 110,430... $ 106,389"). Activity in the capital markets appears stable to slightly softening, with investment banking and debt placement fees showing a moderate decline in the most recent quarter compared to the prior quarter ("Investment banking and debt placement fees 169... 197").
+
+**2. Labor & Wages**
+Personnel costs are experiencing moderate upward pressure. Personnel expenses rose to $786 million in Q2 2026 from $705 million in Q2 2025 ("Personnel 786... 705"), suggesting either wage inflation or a slight increase in headcount to support operations.
+
+**3. Pricing Power & Inflation**
+The company is benefiting from a robust improvement in net interest margins. While interest income from loans grew modestly, interest expenses on deposits have declined significantly year-over-year, indicating a shift in pricing power in favor of the bank ("Interest expense Deposits 600... 730"). This has led to a moderate increase in net interest income ("Net interest income 1,250... 1,141").
+
+**4. Supply Chain & Inventory**
+Not applicable. (Financial services entity).
+
+**5. Capital Spending (Capex)**
+Investment in physical infrastructure remains stable and minimal. Spending on premises and equipment has remained nearly flat year-over-year ("Premises and equipment 620... 599"), while computer processing expenses remain consistent, indicating steady but not aggressive investment in technology ("Computer processing 108... 107").

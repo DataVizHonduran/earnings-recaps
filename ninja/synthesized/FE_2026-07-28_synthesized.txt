@@ -1,0 +1,22 @@
+Ticker: FE
+Source: FE_2026-07-28.txt
+Generated: 2026-08-04 16:15 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: FirstEnergy Corp (FE)**
+
+**1. Demand & Activity**
+Demand is growing robustly, driven primarily by industrial scaling and regional economic development. Data center demand (contracted and pipeline) saw a moderate increase of 30% since Q1, with contracted demand reaching 6.4 GW ("Data center demand... increased 30% since first quarter"). Activity in West Virginia is expanding rapidly, with demand up 137% to 4.3 GW ("West Virginia demand up 137% to 4.3 GW").
+
+**2. Labor & Wages**
+The report does not provide specific data on wage inflation or hiring difficulties, though it notes the operational role of the workforce during weather events ("supported by FirstEnergy employees, who safely responded to significant heat and storms").
+
+**3. Pricing Power & Inflation**
+The company is leveraging "constructive regulatory momentum" to support its investment strategy. While specific price hikes are not detailed, the company reports higher maintenance expenses in the Distribution segment ("primarily due to higher maintenance expenses"), suggesting some persistent operational cost pressures.
+
+**4. Supply Chain & Inventory**
+No specific mentions of lead times or inventory levels were provided in the text.
+
+**5. Capital Spending (Capex)**
+Capex is robust and expanding. The company is executing a five-year, $36 billion "Energize365" program to modernize the grid, which represents a modest increase of nearly 30% over the previous five-year cycle ("increase of nearly 30% compared with the company's previous five-year investment program"). For 2026, the capital investment plan is set at $6 billion ("supported by the company s capital investment plan of $6 billion in 2026"), with $2.9 billion already deployed in the first half of the year.
