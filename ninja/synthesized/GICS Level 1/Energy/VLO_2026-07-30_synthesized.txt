@@ -1,0 +1,22 @@
+Ticker: VLO
+Source: VLO_2026-07-30.txt
+Generated: 2026-08-04 16:16 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Valero Energy Corp (Q2 2026)**
+
+**1. Demand & Activity**
+Demand for transportation fuels is described as stable/resilient. Throughput and production volumes across core segments remain robust, with refining throughput averaging 3.0 million barrels per day ("helping to meet resilient demand for transportation fuels").
+
+**2. Labor & Wages**
+No specific mentions of hiring trends, wage pressures, or headcount adjustments were provided in the release.
+
+**3. Pricing Power & Inflation**
+The company is experiencing significant margin expansion, though it notes ongoing sensitivity to macroeconomic volatility. While current results are "strong," the company identifies "the impact of inflation and crude oil and petroleum product market disruptions on margins and costs" as a persistent risk factor.
+
+**4. Supply Chain & Inventory**
+The report does not explicitly detail lead times or inventory levels; however, it notes a "favorable impact from working capital" of $706 million, suggesting efficient short-term asset management.
+
+**5. Capital Spending (Capex)**
+Capital investment is focused primarily on maintenance and targeted capacity optimization. Total Q2 investments were $350 million, with the vast majority ($290 million) dedicated to "sustaining the business, including costs for turnarounds, catalysts and regulatory compliance." Additionally, the company is completing a moderate investment in technology via a "$230 million project" for FCC Unit optimization at the St. Charles Refinery to "enhance the refinery’s ability to produce high-value products."

@@ -1,0 +1,25 @@
+Ticker: AON
+Source: AON_2026-07-29.txt
+Generated: 2026-08-04 16:15 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Aon plc (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by 5% organic revenue growth driven by "net new business and ongoing strong retention" ("reflecting robust client demand"). 
+*   **Risk Capital:** Moderate growth in EMEA and North America, with "double-digit growth in construction" in the U.S.
+*   **Human Capital:** Strong growth in core health and benefits, particularly internationally, and "strong growth in talent analytics."
+*   **Wealth Solutions:** Strong demand for advisory work in the UK and EMEA, specifically "related to the ongoing impact of regulatory change."
+
+**2. Labor & Wages**
+Labor costs are softening. Compensation and benefits expenses decreased 4% ("Compensation and benefits expense decreased $89 million, or 4%"). This decline is attributed to divestitures and "savings from Accelerating Aon United restructuring actions," which included "costs related to workforce optimization" ("Accelerating Aon United Restructuring Program expense increased... due primarily to costs related to workforce optimization").
+
+**3. Pricing Power & Inflation**
+The company demonstrates stable pricing power, achieving "operating margin expansion" and reaffirming guidance for further "adjusted operating margin expansion" of 70-80 basis points. There is no specific mention of input cost pressures (commodities/energy), though the company notes "increasing complexity" for clients as a driver for expanding its addressable market.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a professional services firm, Aon does not report physical supply chain lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment is focused on technology and long-term growth. Information technology expenses rose 19% ("due primarily to Aon Business Services investments in ongoing technology initiatives"). Additionally, capital expenditures increased by $20 million for the first half of the year ("reflecting an increase in cash flows provided by operations, partially offset by a $20 million increase in capital expenditures").

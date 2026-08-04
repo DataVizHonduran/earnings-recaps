@@ -1,0 +1,25 @@
+Ticker: BALL
+Source: BALL_2026-08-04.txt
+Generated: 2026-08-04 16:15 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: BALL Corp (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is growing globally, with moderate to robust variances by region. Global aluminum packaging shipments increased 4.3% ("Global aluminum packaging shipments increased 4.3% in the second quarter"). 
+*   **North & Central America:** Modest growth ("volume increased low-single digit percent").
+*   **EMEA:** Moderate growth ("volume increased mid-single digit percent").
+*   **South America:** Robust growth ("volume increased by a mid-teen percentage year over year").
+
+**2. Labor & Wages**
+The report does not provide specific data on current wage levels or headcount changes, though it notes the general strategic importance of an "engaged and empowered workforce" ("Our strategy remains centered on... an engaged and empowered workforce").
+
+**3. Pricing Power & Inflation**
+The company demonstrates stable pricing power through contractual mechanisms. Sales increases were driven by "favorable price/mix," specifically linked to the ability to pass through higher raw material costs to customers ("primarily attributable to higher aluminum prices" and "stability of our contractual passthrough mechanisms"). However, North American operating earnings were pressured by "higher costs, primarily due to higher volumes, operating costs and plant start-up costs."
+
+**4. Supply Chain & Inventory**
+No specific commentary was provided regarding current lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+The company maintains a disciplined approach to investment, focusing on long-term value creation and capacity expansion. Management indicated they are maintaining "flexibility to invest in long-term, sustainable EVA growth projects" and noted recent "plant start-up costs" in North America, signaling ongoing investment in production facilities.

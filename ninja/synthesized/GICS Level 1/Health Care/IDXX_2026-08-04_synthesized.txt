@@ -1,0 +1,22 @@
+Ticker: IDXX
+Source: IDXX_2026-08-04.txt
+Generated: 2026-08-04 16:16 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: IDEXX Laboratories (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is robust and growing across all primary segments. Companion Animal Group (CAG) diagnostics recurring revenue grew 10% organically, with international regions showing stronger growth at 12% organic ("outpacing sector growth levels"). Water and LPD segments also saw moderate to robust growth, increasing 13% and 9% organically, respectively. While capital instrument revenues saw a significant decline ("decreased 19% as reported"), this is attributed to lapping a prior-year product launch rather than a demand softening.
+
+**2. Labor & Wages**
+The report does not explicitly mention hiring difficulties, turnover, or specific wage pressures. However, there is evidence of modest increases in headcount or resource allocation to support growth, as operating expenses rose 9% on a comparable basis to support the "expansion of commercial capabilities."
+
+**3. Pricing Power & Inflation**
+The company demonstrates stable pricing power. Gross margin expansion was supported in part by "net price realization" and "net price benefits" within the rapid assay and VetLab consumables lines. There is no mention of persistent inflationary pressure on input costs; instead, margins improved due to "operational productivity initiatives" and volume gains.
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific mentions of lead times, freight costs, or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capital expenditures are stable, with the full-year 2026 outlook maintained at approximately $180 million ("Capital Expenditures ~ $180"). The company continues to prioritize "incremental investments aligned with commercial and innovation priorities" and "enabling information technology investments."

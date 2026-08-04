@@ -1,0 +1,22 @@
+Ticker: EXR
+Source: EXR_2026-07-28.txt
+Generated: 2026-08-04 16:15 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Extra Space Storage (EXR)**
+
+**1. Demand & Activity**
+Demand is stable to modestly recovering. Same-store revenue increased by 2.4% for the quarter, though same-store occupancy saw a slight decline to 94.2% from 94.4% year-over-year ("Reported ending same-store occupancy of 94.2%... compared to 94.4%"). Management characterizes the current environment as a "storage sector's recovery" ("as we get deeper into the storage sector's recovery").
+
+**2. Labor & Wages**
+Labor costs are softening. Same-store payroll and benefits expenses decreased by 2.3% for the quarter ("Payroll and benefits $40,786 $41,744 (2.3)%"), suggesting a reduction in wage pressure or headcount optimization.
+
+**3. Pricing Power & Inflation**
+The company maintains modest pricing power, with net rental income increasing by 2.5% ("Net rental income $664,926 $648,617 2.5%"). Input cost pressures are mixed: while repairs and maintenance costs saw a robust decline of 15.5% ("Repairs and maintenance $11,289 $13,362 (15.5)%"), these gains were partially offset by moderate increases in property taxes (+4.2%) and insurance (+4.5%) ("Property taxes... 4.2%," "Insurance... 4.5%").
+
+**4. Supply Chain & Inventory**
+Not applicable. (No mentions of lead times or physical inventory levels).
+
+**5. Capital Spending (Capex)**
+Investment activity remains moderate and focused on expansion and diversification. The company spent $90.7 million on 17 operating stores in Q2 ("Purchased 17 operating stores... for a total cost of $90.7 million") and continues to invest in joint venture developments ("completed the development of one store for a total cost of approximately $15.1 million"). Additionally, the company is expanding its third-party management platform, adding 67 stores in the quarter ("Added 67 stores... to the Company's third-party management platform").
