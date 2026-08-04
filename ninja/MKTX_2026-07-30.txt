@@ -1,0 +1,6901 @@
+Ticker: MKTX
+Company: MARKETAXESS HOLDINGS INC
+Filed: 2026-07-30
+Type: PRESS_RELEASE
+Source: https://www.sec.gov/Archives/edgar/data/1278021/000119312526324950/d121662dex991.htm
+
+EX-99.1
+ 2
+ d121662dex991.htm
+ EX-99.1
+ 
+ 
+ EX-99.1 
+ 
+ 
+
+ 
+ Exhibit 99.1 
+ 
+
+ 
+ MarketAxess Reports Second Quarter 2026 Financial Results 
+ EPS of $1.93; $1.95 Excluding Notable Items 1 
+ Record Services Revenue 2 and 9% Revenue Growth Outside U.S. Credit Underscore
+Progress in Strategic Channels 11% Increase in Block Trading ADV with Strong Growth in Emerging Markets and U.S. Credit Block
+ADVs 33% Increase in Portfolio Trading ADV to Record $2.0 Billion with Records in U.S. Credit and Municipal Bonds
+ NEW YORK | July 30, 2026 - MarketAxess Holdings Inc. (Nasdaq: MKTX), the operator of a leading electronic trading platform for fixed-income
+securities, today announced financial results for the second quarter ended June 30, 2026. 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 2Q26 Select Financial and Operational Highlights* 
+ 
+ 
+ Total revenues of $218.4 million were relatively flat compared to the prior year, which benefited from elevated
+levels of event-driven market volatility. 
+ — 3% decline in total commission revenue to $186.9 million , driven
+by a 9% decline in U.S. credit, partially offset by a 6% increase in emerging markets commission revenue. 
+ — 14% growth in services revenue 2 to
+ record $31.5 million . 
+ — 9% growth in revenue outside U.S. credit. 
+ 
+ 
+ Continued progress with our key initiatives across our strategic channels : 
+ — Client-Initiated
+Channel - 11% increase in block trading average daily volume ( ADV ) to $5.9 billion , including U.S. credit (+8%) and emerging markets (+24%) . 
+ — Portfolio Trading
+Channel - 33% increase in total portfolio trading ADV to a record $2.0 billion with record U.S. high-grade (+41%) , record U.S. high-yield (+93%) , 
+record municipal bonds (+154%) , and emerging markets (+44%) . 
+ — Dealer-Initiated Channel - 3% decrease in dealer-initiated ADV to
+ $1.7 billion , partially offset by a 151% increase in Mid-X ADV to record levels. 
+ 
+ 
+ Total expenses of $128.5 million increased 1%; total expenses, excluding notable items, 1 of $127.0 million increased 3% , reflecting continued expense discipline. 
+ 
+ 
+ Operating margin of 41.1% decreased 80 basis points ; operating margin, excluding notable items, 1 of 41.9% decreased 180 basis points . 
+ 
+ 
+ Diluted earnings-per-share ( EPS ) of $1.93 on net
+income of $68.3 million , compared to $1.91 and $71.2 million in the prior year, respectively; EPS of $1.95 on net income of $68.9 million , each excluding
+notable items. 1 
+ * All comparisons versus 2Q25 
+ 
+ Chris Concannon, CEO of MarketAxess, commented : 
+ Following this morning s announcement that MarketAxess and
+Intercontinental Exchange (NYSE: ICE) have entered into a definitive agreement for ICE to acquire MarketAxess, we have elected to release our second quarter 2026 financial results today. 
+ In a quarter marked by lower market volatility and elevated levels of new issuance, we
+delivered solid results that demonstrate the growing client adoption of our new solutions across each of our strategic channels. We continue to expand our block trading footprint in the client-initiated channel, enhance portfolio trading for clients
+and build on the early success in Mid-X. In
+the first half of 2026, our continued investments, expense discipline and capital management contributed to 6% revenue growth and solid earnings growth year-over-year, while supporting healthy operating margins. 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ Table 1: 2Q26 Select Financial Results 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Quarter 
+ 
+ 
+ % Change 
+ 
+ 
+ Year-to-date 
+ 
+ 
+ % Change 
+ 
+ 
+ $ in millions, except per share data (unaudited) 
+ 
+ 2Q 2026 
+ 
+ 
+ 1Q 2026 
+ 
+ 
+ 2Q 2025 
+ 
+ 
+ QoQ 
+ 
+ 
+ YoY 
+ 
+ 
+ YTD 2026 
+ 
+ 
+ YTD 2025 
+ 
+ 
+ YoY 
+ 
+
+ 
+ Selected GAAP-basis financial results 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenues 
+ 
+ $ 
+ 218 
+ 
+ 
+ $ 
+ 233 
+ 
+ 
+ $ 
+ 219 
+ 
+ 
+ 
+ (6 
+ ) 
+ 
+ 
+ % 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ % 
+ 
+ 
+ $ 
+ 452 
+ 
+ 
+ $ 
+ 428 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ % 
+ 
+ 
+ Expenses 
+ 
+ 
+ 129 
+ 
+ 
+ 
+ 132 
+ 
+ 
+ 
+ 128 
+ 
+ 
+ 
+ (3 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 261 
+ 
+ 
+ 
+ 248 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating margin 
+ 
+ 
+ 41.1 
+ % 
+ 
+ 
+ 43.2 
+ % 
+ 
+ 
+ 41.9 
+ % 
+ 
+ 
+ (210 
+ ) 
+ 
+ 
+ bps 
+ 
+ 
+ 
+ (80 
+ ) 
+ 
+ 
+ bps 
+ 
+ 
+ 
+ 42.2 
+ % 
+ 
+ 
+ 42.1 
+ % 
+ 
+ 
+ +10 
+ 
+ 
+ 
+ bps 
+ 
+ 
+ Net Income 
+ 
+ 
+ 68 
+ 
+ 
+ 
+ 78 
+ 
+ 
+ 
+ 71 
+ 
+ 
+ 
+ (13 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ (4 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 146 
+ 
+ 
+ 
+ 86 
+ 
+ 
+ 
+ 70 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted EPS 
+ 
+ 
+ 1.93 
+ 
+ 
+ 
+ 2.20 
+ 
+ 
+ 
+ 1.91 
+ 
+ 
+ 
+ (12 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.13 
+ 
+ 
+ 
+ 2.31 
+ 
+ 
+ 
+ 79 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Income Margin 
+ 
+ 
+ 31.3 
+ % 
+ 
+ 
+ 33.5 
+ % 
+ 
+ 
+ 32.4 
+ % 
+ 
+ 
+ (220 
+ ) 
+ 
+ 
+ bps 
+ 
+ 
+ 
+ (110 
+ ) 
+ 
+ 
+ bps 
+ 
+ 
+ 
+ 32.4 
+ % 
+ 
+ 
+ 20.1 
+ % 
+ 
+ 
+ +1230 
+ 
+ 
+ 
+ bps 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selected GAAP-basis financial results ex-notable items (non-GAAP) 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenues 
+ 
+ 
+ 218 
+ 
+ 
+ 
+ 233 
+ 
+ 
+ 
+ 219 
+ 
+ 
+ 
+ (6 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 452 
+ 
+ 
+ 
+ 428 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ Expenses 
+ 
+ 
+ 127 
+ 
+ 
+ 
+ 130 
+ 
+ 
+ 
+ 124 
+ 
+ 
+ 
+ (3 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 257 
+ 
+ 
+ 
+ 244 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating margin 
+ 
+ 
+ 41.9 
+ % 
+ 
+ 
+ 44.2 
+ % 
+ 
+ 
+ 43.7 
+ % 
+ 
+ 
+ (230 
+ ) 
+ 
+ 
+ bps 
+ 
+ 
+ 
+ (180 
+ ) 
+ 
+ 
+ bps 
+ 
+ 
+ 
+ 43.0 
+ % 
+ 
+ 
+ 43.0 
+ % 
+ 
+ 
+ — 
+ 
+ 
+ 
+ bps 
+ 
+ 
+ Net Income 
+ 
+ 
+ 69 
+ 
+ 
+ 
+ 80 
+ 
+ 
+ 
+ 74 
+ 
+ 
+ 
+ (14 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ (7 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 149 
+ 
+ 
+ 
+ 144 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted EPS 
+ 
+ 
+ 1.95 
+ 
+ 
+ 
+ 2.25 
+ 
+ 
+ 
+ 2.00 
+ 
+ 
+ 
+ (13 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ (3 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.19 
+ 
+ 
+ 
+ 3.87 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other Non-GAAP financial measures 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EBITDA 3 
+ 
+ 
+ 106 
+ 
+ 
+ 
+ 122 
+ 
+ 
+ 
+ 111 
+ 
+ 
+ 
+ (13 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ (4 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 228 
+ 
+ 
+ 
+ 218 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ EBITDA Margin 3 
+ 
+ 
+ 48.6 
+ % 
+ 
+ 
+ 52.1 
+ % 
+ 
+ 
+ 50.5 
+ % 
+ 
+ 
+ (350 
+ ) 
+ 
+ 
+ bps 
+ 
+ 
+ 
+ (190 
+ ) 
+ 
+ 
+ bps 
+ 
+ 
+ 
+ 50.4 
+ % 
+ 
+ 
+ 51.0 
+ % 
+ 
+ 
+ (60 
+ ) 
+ 
+ 
+ bps 
+ 
+ NM - not meaningful 
+ 2Q26 Overview of Results Table 1A: Notable Items 1 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Quarter 
+ 
+ 
+ Year-to-date 
+ 
+ 
+ 
+ 
+ 2Q 2026 
+ 
+ 
+ 1Q 2026 
+ 
+ 
+ 2Q 2025 
+ 
+ 
+ YTD 2026 
+ 
+ 
+ YTD 2025 
+ 
+
+ 
+ $ in millions, except per share data (unaudited) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Repositioning charges 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 1.5 
+ 
+ 
+ $ 
+ 4.0 
+ 
+ 
+ $ 
+ 1.5 
+ 
+ 
+ $ 
+ 4.0 
+ 
+ 
+ Other notable items 
+ 
+ 
+ 1.6 
+ 
+ 
+ 
+ 0.7 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 2.2 
+ 
+ 
+ 
+ — 
+ 
+ 
+ Acquisition-related charge/(credit) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 0.6 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 0.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Notable items (pre-tax) 
+ 
+ 
+ 1.6 
+ 
+ 
+ 
+ 2.2 
+ 
+ 
+ 
+ 4.6 
+ 
+ 
+ 
+ 3.7 
+ 
+ 
+ 
+ 4.6 
+ 
+ 
+ Income tax impact from notable items 
+ 
+ 
+ (0.4 
+ ) 
+ 
+ 
+ (0.5 
+ ) 
+ 
+ 
+ (1.2 
+ ) 
+ 
+ 
+ (0.9 
+ ) 
+ 
+ 
+ (1.2 
+ ) 
+ 
+ Non-deductible income tax from notable items 
+ 
+ 
+ 0.6 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 0.6 
+ 
+ 
+ 
+ — 
+ 
+ 
+ Reserve for uncertain tax positions related to prior periods 
+ 
+ 
+ (1.1 
+ ) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (1.1 
+ ) 
+ 
+ 
+ 54.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total notable items 
+ 
+ $ 
+ 0.7 
+ 
+ 
+ $ 
+ 1.7 
+ 
+ 
+ $ 
+ 3.4 
+ 
+ 
+ $ 
+ 2.3 
+ 
+ 
+ $ 
+ 58.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EPS impact 
+ 
+ $ 
+ 0.02 
+ 
+ 
+ $ 
+ 0.05 
+ 
+ 
+ $ 
+ 0.09 
+ 
+ 
+ $ 
+ 0.06 
+ 
+ 
+ $ 
+ 1.56 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Notable Items 1 
+ 
+ 
+ 
+ 
+ 
+ Notable items in 2Q26 include $1.6 million of legal-related expenses and a benefit to
+the reserve for uncertain tax positions of $1.1 million related to prior periods. Revenue 
+ 
+ 
+ 
+ 
+ 
+ Total revenues of $218.4 million was relatively flat compared to the prior year, which
+benefited from elevated levels of event-driven market volatility. Commission Revenue 
+ Table 1B: 2Q26 Variable Transaction Fees Per Million (FPM) 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Quarter 
+ 
+ 
+ % Change 
+ 
+ 
+ Year-to-date 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 2Q 2026 
+ 
+ 
+ 1Q 2026 
+ 
+ 
+ 2Q 2025 
+ 
+ 
+ QoQ 
+ 
+ 
+ YoY 
+ 
+ 
+ YTD 2026 
+ 
+ 
+ YTD 2025 
+ 
+ 
+ YoY 
+ 
+
+ 
+ AVG. VARIABLE TRANS. FEE PER MILLION (FPM) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Credit 
+ 
+ $ 
+ 129 
+ 
+ 
+ $ 
+ 132 
+ 
+ 
+ $ 
+ 138 
+ 
+ 
+ 
+ (2 
+ ) 
+ 
+ 
+ % 
+ 
+ 
+ 
+ (7 
+ ) 
+ 
+ 
+ % 
+ 
+ 
+ $ 
+ 130 
+ 
+ 
+ $ 
+ 139 
+ 
+ 
+ 
+ (6 
+ ) 
+ 
+ 
+ % 
+ 
+ 
+ Total Rates 
+ 
+ 
+ 4.96 
+ 
+ 
+ 
+ 4.68 
+ 
+ 
+ 
+ 4.03 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 23 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.81 
+ 
+ 
+ 
+ 4.11 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ 
+ 
+ 
+ Page 2 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ Credit 
+ 
+ 
+ 
+ 
+ 
+ Total credit commission revenue of $168.4 million (including
+ $34.1 million in fixed-distribution fees) decreased $8.1 million , or 5% , compared to $176.6 million (including $33.6 million in
+fixed-distribution fees) in the prior year. Total credit ADV remained relatively flat compared with the prior year. The 5% decrease in total credit commission revenue was primarily driven by a 9% decrease in U.S. credit commission
+revenue, partially offset by growth in emerging markets and higher fixed distribution fees. The decline in 2Q26 total credit FPM year-over-year was driven by protocol and product mix, as well as lower duration of bonds traded in U.S. high-grade.
+ Rates 
+ 
+ 
+ 
+ 
+ 
+ Total rates commission revenue of $8.1 million was relatively flat compared to the
+prior year. Other 
+ 
+ 
+ 
+ 
+ 
+ Total other commission revenue of $10.3 million increased
+ $3.2 million , or 46% , compared to the prior year, primarily driven by the inclusion of RFQ-hub beginning in May 2025. 
+ Services Revenue 
+ 
+ 
+ 
+ 
+ Record services revenue 2 of 
+$31.5 million increased $3.8 million , or 14% , compared to the prior year. 
+ Information Services 
+ 
+ 
+ 
+ — 
+ Information services revenue of $16.1 million increased
+ $3.0 million , or 23% , compared to the prior year. The increase was principally driven by net new contract revenue. 
+ Post-trade Services 
+ 
+ 
+ 
+ — 
+ Post-trade services revenue of $11.6 million increased
+ $0.5 million , or 5% , compared to the prior year principally driven by net new contract revenue. 
+ Technology Services 
+ 
+ 
+ 
+ — 
+ Total technology services revenue of $3.8 million increased
+ $0.3 million , or 8% , compared to the prior year principally driven by higher connectivity and licensing fees reflecting the inclusion of RFQ-hub. 
+ Expenses 
+ 
+ 
+ 
+ 
+ Total expenses of $128.5 million increased 1% from the prior year. Total
+expenses, excluding notable items, 1 of $127.0 million increased 3% from the prior year. 
+ Non-Operating 
+ 
+ 
+ 
+ 
+ Other Income (Expense): Other income was $(0.1) million , down from 
+$5.6 million in the prior year. The decrease was largely driven by lower interest income resulting from lower average cash balances and lower yields driven by central bank rate cuts, higher interest expense mainly due to
+borrowings on the Company s credit facility, along with cash on hand, to fund the accelerated stock repurchase agreement (the ASR ) that settled in the first quarter of 2026, as well as foreign currency transaction losses in the
+current year as compared to foreign currency transaction gains in the prior year. 
+ 
+ 
+ 
+ 
+ Tax rate: The effective tax rate was 23.9% , compared to 26.9% in the prior year. The
+effective tax rate excluding notable items 1 was 24.5% , compared to 26.9% in the prior year. 
+ Page 3 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ Capital 
+ 
+ 
+ 
+ 
+ The Company had $404.8 million in cash, cash equivalents, corporate bond investments
+and U.S. Treasury investments as of June 30, 2026 , down from $678.9 million as of December 31, 2025 . The decline from
+ year-end 2025 primarily reflects capital allocation activity during the first half of 2026, including cash used to pay down borrowings under the revolving credit facility, and quarterly dividend payments, in
+addition to an increase in net receivables from broker-dealers, clearing organizations and customers, partially offset by cash generated from operating activities. The Company had $112.0 million in borrowings outstanding
+under the Company s credit facility as of June 30, 2026 , as compared to $220.0 million in borrowings outstanding as of December 31, 2025 . As of
+ July 29, 2026 , the Company had $92.0 million in borrowings outstanding under the Company s credit facility. 
+ 
+ 
+ 
+ 
+ 
+ As of July 29, 2026 , $205 million remained under the Board of
+Directors share repurchase authorizations. 
+ 
+ 
+ 
+ 
+ The Board declared a quarterly cash dividend of $0.78 per share, payable on 
+September 2, 2026 to stockholders of record as of the close of business on August 19, 2026 . 
+ Other 
+ 
+ 
+ 
+ 
+ Employee headcount was 863 as of June 30, 2026 , compared to 881 as of June 30,
+2025 , and 859 as of March 31, 2026 . 
+ 
+ 
+ 1 
+ See Table 1A in this release for a listing of notable items. Results excluding notable items are non-GAAP financial measures. Refer to Non-GAAP financial measures and other items for a discussion of these non-GAAP 
+financial measures and Table 6 for a reconciliation of these non-GAAP financial measures to their most directly comparable GAAP measures. 
+ 
+ 
+ 2 
+ Services revenue is defined as combined information, post-trade and technology services revenue.
+ 
+ 
+ 
+ 3 
+ EBITDA and EBITDA margin are non-GAAP financial measures. Refer to Non-GAAP financial measures and other items for a discussion of these non-GAAP financial measures and Table 7 for a reconciliation of these non-GAAP financial measures to their most directly comparable GAAP measures. Non-GAAP Financial Measures and Other Items To supplement the Company s unaudited financial statements
+presented in accordance with generally accepted accounting principles ( GAAP ), the Company uses certain non-GAAP financial measures, including earnings before interest, taxes, depreciation and
+amortization ( EBITDA ), EBITDA margin and free cash flow. From time to time, we present selected GAAP-basis financial results, excluding notable items. Notable items are revenues, expenses, other income (expense) and tax related items
+that are non-recurring and outside of the Company s normal course of business or other notables, such as acquisition and restructuring charges or gains/losses on sales (collectively, notable
+items ). We define EBITDA margin as EBITDA divided by revenues. We define free cash flow as net cash provided by/(used in) operating activities excluding the net change in trading investments and net change in securities failed-to-deliver and securities failed-to-receive from broker-dealers, clearing organizations
+and customers, less expenditures for furniture, equipment and leasehold improvements and capitalized software development costs. Non-GAAP financial measures should be considered in addition to, not as a
+substitute for or superior to, financial measures determined in conformity with GAAP. The Company believes that these non-GAAP financial measures, when taken into consideration with the corresponding GAAP
+financial measures, provide additional information regarding the Company s operating results because they assist both investors and management in analyzing and evaluating the performance of our business. Please refer to Tables 6, 7 & 8
+ for a reconciliation of: (i) selected GAAP-basis financial results, each excluding notable items, to their most directly comparable GAAP measure; (ii) GAAP net income to EBITDA and GAAP net income margin to EBITDA margin; and
+(iii) GAAP net cash provided by/(used in) operating activities to free cash flow, in each case, the most directly comparable GAAP measure. 
+ Cancelation of Earnings Conference Call & Suspension of Guidance and Volumes Releases 
+ MarketAxess also announced today that it has entered into a definitive merger agreement to be acquired by Intercontinental Exchange,
+Inc. ( ICE ). A copy of the press release can be found by visiting the Investor Relations section of the MarketAxess corporate website at http://investor.marketaxess.com . In light of the announced transaction with ICE,
+MarketAxess has suspended the practice of hosting an earnings conference call, including the conference call previously announced to take place on Friday, August 7, 2026. Further, MarketAxess has suspended the practice of issuing guidance and
+is withdrawing its previously announced 2026 annual guidance as well as its medium-term financial targets. Finally, MarketAxess is suspending its practice of issuing monthly volumes press releases. 
+ Page 4 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ General Notes Regarding the Data Presented 
+ Reported MarketAxess volume in all product categories includes only fully electronic trading volume. MarketAxess trading volumes and the Financial Industry
+Regulatory Authority ( FINRA ) Trade Reporting and Compliance Engine ( TRACE ) reported volumes are available on the Company s website at investor.marketaxess.com/volume . 
+ Cautionary Note Regarding Forward-Looking Statements 
+ This press release contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended
+( Section 27A ), and Section 21E of the Securities Exchange Act of 1934, as amended ( Section 21E ). We intend such forward-looking statements to be covered by the safe harbor provisions for forward-looking
+statements contained in Section 27A and Section 21E. Such forward-looking statements relate to, without limitation, the proposed transaction, our future economic performance, plans and objectives for future operations, and projections of
+revenue and other financial items. Forward-looking statements can be identified by the use of words such as may, will, assume, believe, contemplate, could, 
+ intend, predict, would, plan, potential, projected, should, expect, anticipate, estimate, 
+ target, continue , trend , objective , might or comparable terminology, although not all forward-looking statements contain these identifying words. 
+ Forward-looking statements are inherently subject to certain risks, trends, changes in circumstances and uncertainties, many of which we cannot predict with
+accuracy and some of which we may not anticipate, including, but not limited to: historical financial information may not be representative of future results; the completion of the proposed transaction on the anticipated terms and timing, or at all,
+including obtaining the requisite approval by the stockholders of the Company, and the satisfaction of other conditions to the completion of the proposed transaction as well as the failure to realize anticipated benefits of the proposed transaction;
+there may be significant transaction costs in connection with the proposed transaction and the proposed transaction may be more expensive to complete than anticipated, including as a result of unexpected factors or events; there may be liabilities
+that are not known, probable or estimable at this time or unexpected costs, charges or expenses; the occurrence of any event, change or other circumstance that could give rise to the termination of the proposed transaction, including in
+circumstances requiring the Company to pay a termination fee pursuant to the terms of the merger agreement; any effect of the announcement of the proposed transaction on the Company s ability to operate its business and retain and hire key
+personnel and to maintain favorable business relationships; the proposed transaction may result in the diversion of management s time and attention from ordinary course business operations to issues relating to the proposed transaction;
+certain restrictions during the pendency of the proposed transaction that may impact the Company s ability to pursue certain business opportunities or strategic transactions; unfavorable outcome of legal proceedings related to the proposed
+transaction; the risk that the Company s share price may decline significantly if the proposed transaction is not consummated; legislative, regulatory and economic developments; unpredictability and severity of catastrophic events, including,
+but not limited to, acts of terrorism, outbreaks of war or hostilities or public health issues, as well as management s response to any of the aforementioned factors; other risks and uncertainties detailed in periodic reports that the Company
+files with the SEC; actions by third parties, including government agencies; reputational risk and potential adverse reactions of the Company s or ICE s customers, employees or other business partners, including those resulting from the
+announcement or completion of the proposed transaction; the ability to promptly and effectively integrate the Company s business with ICE s business and realize the anticipated cost savings, synergies, and other financial benefits of the
+proposed transaction within the expected time period or at all; ICE s ability to obtain the contemplated debt financing on a timely basis, on favorable terms or at all; global economic, political and market factors; the level of trading volume
+transacted on the MarketAxess platform; the rapidly evolving nature of the electronic financial services industry; the level and intensity of competition in the fixed-income electronic trading industry and the pricing pressures that may result; the
+variability of our growth rate; our ability to introduce new fee plans and our clients response; our ability to attract clients or adapt our technology and marketing strategy to new markets; risks related to our growing international
+operations; our dependence on our broker-dealer clients; the loss of any of our significant institutional investor clients; our exposure to risks resulting from non-performance by counterparties to
+transactions executed between our clients in which we act as an intermediary in matched principal trades; risks related to self-clearing; our dependence on third-party suppliers for key products and services; our ability to enter into strategic
+alliances and to acquire other businesses and successfully integrate them with our business; our dependence on our management team and our ability to attract and retain talent; risks related to sanctions levied against states or individuals that
+could expose us to operational or regulatory risks; the effects of climate change or other sustainability risks that could affect our operations or reputation; the effect of rapid market or technological changes on us and the users of our
+technology; issues related to the development and use of artificial intelligence; our ability to 
+ Page 5 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+successfully maintain the integrity of our trading platform and our response to system failures, capacity constraints and business interruptions; the occurrence of design defects, errors,
+failures or delays with our platforms, products or services; our vulnerability to malicious cyber-attacks and attempted cybersecurity breaches; our actual or perceived failure to comply with privacy and data protection laws; our ability to protect
+our intellectual property rights or technology and defend against intellectual property infringement or other claims; our use of open-source software; limitations on our flexibility because we operate in a highly regulated industry; the increasing
+government regulation of us and our clients; our exposure to costs and penalties related to our extensive regulation; our risks of litigation and securities laws liability; our tax filing positions; our future capital needs and our ability to obtain
+capital when needed; limitations on our operating flexibility contained in our credit agreement; our exposure to financial institutions by holding cash in excess of federally insured limits; and other factors. 
+ There can be no assurance that the proposed transaction will be completed, or if it is completed, that it will close within the anticipated time period. While
+the list of factors presented here is considered representative, no such list should be considered to be a complete statement of all potential risks and uncertainties and should be read in conjunction with the other forward-looking statements.
+Unlisted factors may present significant additional obstacles to the realization of forward-looking statements. The forward-looking statements relate only to events as of the date on which the statements are made and we undertake no obligation to
+update, and expressly disclaim any obligation to update, any forward-looking statements, or any other information in this communication, whether resulting from developments, circumstances or events that arise after the date the statements are made,
+new information, or otherwise. If one or more of these or other risks or uncertainties materialize, or if our underlying assumptions prove to be incorrect, actual results may vary materially from what we may have expressed or implied by these
+forward-looking statements. All forward-looking statements in this communication are qualified in their entirety by this cautionary statement. You should specifically consider the factors identified in this communication that could cause actual
+results to differ. Furthermore, new risks and uncertainties arise from time to time, and it is impossible for us to predict those events or how they may affect us. 
+ Although we believe that the expectations reflected in such forward-looking statements are based upon reasonable assumptions at the time made, we can give no
+assurance that such expectations will be achieved as anticipated or that our results, estimates or assumptions will be correct. Future events and actual results, financial and otherwise, may differ materially from the results discussed in the
+forward-looking statements, many of which are beyond the Company s control. Readers are cautioned not to place undue reliance on these forward-looking statements and are advised to consider the factors listed above together with the additional
+factors under the heading Disclosure Regarding Forward-Looking Statements and Risk Factors in the Company s Annual Report on Form 10-K, as may be supplemented or amended by
+the Company s Quarterly Reports on Form 10-Q. The Company assumes no obligation to update or supplement forward-looking statements that become untrue because of subsequent events, new information or
+otherwise, except as required under applicable law. More information about these and other factors affecting MarketAxess business and prospects is contained in MarketAxess periodic filings with the Securities and Exchange Commission
+and can be accessed at www.marketaxess.com . About MarketAxess 
+ MarketAxess (Nasdaq: MKTX) operates a leading electronic trading platform that delivers greater trading efficiency, a diversified pool of liquidity and
+significant cost savings to institutional investors and broker-dealers across the global fixed-income and other markets. Approximately 2,100 firms leverage MarketAxess patented technology to efficiently trade fixed-income securities. Our
+automated and algorithmic trading solutions, combined with our integrated and actionable data offerings, help our clients make faster, better-informed decisions on when and how to trade on our platform. MarketAxess award-winning Open Trading &reg; marketplace is widely regarded as the preferred all-to-all trading solution in the global credit markets. Founded
+in 2000, MarketAxess connects a robust network of market participants through an advanced full trading lifecycle solution that includes automated trading solutions, intelligent data and index products and a range of post-trade services. Learn more
+at www.marketaxess.com and on X @MarketAxess . # # # 
+ 
+ Page 6 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ Contacts 
+ 
+ 
+ 
+ 
+ 
+ 
+ INVESTOR RELATIONS 
+ 
+ MEDIA RELATIONS 
+ 
+ 
+ 
+ 
+ Hannah Hendricks MarketAxess Holdings
+Inc. +1 212 813 6011 hhendricks@marketaxess.com 
+ 
+ Marisha Mistry MarketAxess
+Holdings Inc. +1 917 267 1232 
+ mmistry@marketaxess.com 
+ 
+ Page 7 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ Table 2: Consolidated Statements of Operations 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended June 30, 
+ 
+ 
+ Six Months Ended June 30, 
+ 
+ 
+ In thousands, except per share data (unaudited) 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+ 
+ % Change 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+ 
+ % Change 
+ 
+
+ 
+ Revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Commissions 
+ 
+ $ 
+ 186,895 
+ 
+ 
+ $ 
+ 191,770 
+ 
+ 
+ 
+ (3 
+ )% 
+ 
+ $ 
+ 390,366 
+ 
+ 
+ $ 
+ 373,113 
+ 
+ 
+ 
+ 5 
+ % 
+ 
+ Information services 
+ 
+ 
+ 16,094 
+ 
+ 
+ 
+ 13,087 
+ 
+ 
+ 
+ 23 
+ 
+ 
+ 
+ 30,539 
+ 
+ 
+ 
+ 25,991 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ Post-trade services 
+ 
+ 
+ 11,598 
+ 
+ 
+ 
+ 11,076 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 23,205 
+ 
+ 
+ 
+ 22,164 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ Technology services 
+ 
+ 
+ 3,828 
+ 
+ 
+ 
+ 3,529 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 7,685 
+ 
+ 
+ 
+ 6,770 
+ 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total revenues 
+ 
+ 
+ 218,415 
+ 
+ 
+ 
+ 219,462 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 451,795 
+ 
+ 
+ 
+ 428,038 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Employee compensation and benefits 
+ 
+ 
+ 62,182 
+ 
+ 
+ 
+ 65,237 
+ 
+ 
+ 
+ (5 
+ ) 
+ 
+ 
+ 132,377 
+ 
+ 
+ 
+ 127,153 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 19,309 
+ 
+ 
+ 
+ 19,195 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 38,519 
+ 
+ 
+ 
+ 37,431 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ Technology and communications 
+ 
+ 
+ 21,508 
+ 
+ 
+ 
+ 19,421 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 41,868 
+ 
+ 
+ 
+ 37,469 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ Professional and consulting fees 
+ 
+ 
+ 7,973 
+ 
+ 
+ 
+ 7,190 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 14,349 
+ 
+ 
+ 
+ 13,600 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ Occupancy 
+ 
+ 
+ 3,982 
+ 
+ 
+ 
+ 3,753 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 7,801 
+ 
+ 
+ 
+ 7,375 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ Marketing and advertising 
+ 
+ 
+ 3,442 
+ 
+ 
+ 
+ 2,952 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ 5,776 
+ 
+ 
+ 
+ 5,013 
+ 
+ 
+ 
+ 15 
+ 
+ 
+ Clearing costs 
+ 
+ 
+ 4,359 
+ 
+ 
+ 
+ 4,447 
+ 
+ 
+ 
+ (2 
+ ) 
+ 
+ 
+ 8,785 
+ 
+ 
+ 
+ 8,632 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ General and administrative 
+ 
+ 
+ 5,783 
+ 
+ 
+ 
+ 5,403 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 11,522 
+ 
+ 
+ 
+ 11,119 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total expenses 
+ 
+ 
+ 128,538 
+ 
+ 
+ 
+ 127,598 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 260,997 
+ 
+ 
+ 
+ 247,792 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income 
+ 
+ 
+ 89,877 
+ 
+ 
+ 
+ 91,864 
+ 
+ 
+ 
+ (2 
+ ) 
+ 
+ 
+ 190,798 
+ 
+ 
+ 
+ 180,246 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ Other income (expense) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest income 
+ 
+ 
+ 4,692 
+ 
+ 
+ 
+ 5,930 
+ 
+ 
+ 
+ (21 
+ ) 
+ 
+ 
+ 9,000 
+ 
+ 
+ 
+ 13,099 
+ 
+ 
+ 
+ (31 
+ ) 
+ 
+ Interest expense 
+ 
+ 
+ (1,862 
+ ) 
+ 
+ 
+ (139 
+ ) 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ (4,750 
+ ) 
+ 
+ 
+ (352 
+ ) 
+ 
+ 
+ NM 
+ 
+ 
+ Equity in earnings of unconsolidated affiliate 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 168 
+ 
+ 
+ 
+ (100 
+ ) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 457 
+ 
+ 
+ 
+ (100 
+ ) 
+ 
+ Other, net 
+ 
+ 
+ (2,945 
+ ) 
+ 
+ 
+ (407 
+ ) 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ (1,401 
+ ) 
+ 
+ 
+ 120 
+ 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total other income (expense) 
+ 
+ 
+ (115 
+ ) 
+ 
+ 
+ 5,552 
+ 
+ 
+ 
+ (102 
+ ) 
+ 
+ 
+ 2,849 
+ 
+ 
+ 
+ 13,324 
+ 
+ 
+ 
+ (79 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income before income taxes 
+ 
+ 
+ 89,762 
+ 
+ 
+ 
+ 97,416 
+ 
+ 
+ 
+ (8 
+ ) 
+ 
+ 
+ 193,647 
+ 
+ 
+ 
+ 193,570 
+ 
+ 
+ 
+ — 
+ 
+ 
+ Provision for income taxes 
+ 
+ 
+ 21,439 
+ 
+ 
+ 
+ 26,236 
+ 
+ 
+ 
+ (18 
+ ) 
+ 
+ 
+ 47,217 
+ 
+ 
+ 
+ 107,325 
+ 
+ 
+ 
+ (56 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income 
+ 
+ $ 
+ 68,323 
+ 
+ 
+ $ 
+ 71,180 
+ 
+ 
+ 
+ (4 
+ ) 
+ 
+ $ 
+ 146,430 
+ 
+ 
+ $ 
+ 86,245 
+ 
+ 
+ 
+ 70 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Less: income attributable to noncontrolling interest 
+ 
+ 
+ (218 
+ ) 
+ 
+ 
+ (31 
+ ) 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ (443 
+ ) 
+ 
+ 
+ (31 
+ ) 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income available for common stockholders 
+ 
+ $ 
+ 68,105 
+ 
+ 
+ $ 
+ 71,149 
+ 
+ 
+ 
+ (4 
+ ) 
+ 
+ $ 
+ 145,987 
+ 
+ 
+ $ 
+ 86,214 
+ 
+ 
+ 
+ 69 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Per Share Data: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income per common share 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Basic 
+ 
+ $ 
+ 1.93 
+ 
+ 
+ $ 
+ 1.91 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 4.14 
+ 
+ 
+ $ 
+ 2.31 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted 
+ 
+ $ 
+ 1.93 
+ 
+ 
+ $ 
+ 1.91 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 4.13 
+ 
+ 
+ $ 
+ 2.31 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash dividends declared per common share 
+ 
+ $ 
+ 0.78 
+ 
+ 
+ $ 
+ 0.76 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1.56 
+ 
+ 
+ $ 
+ 1.52 
+ 
+ 
+ 
+ 
+ 
+ 
+ Weighted-average common shares: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Basic 
+ 
+ 
+ 35,203 
+ 
+ 
+ 
+ 37,210 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 35,252 
+ 
+ 
+ 
+ 37,299 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted 
+ 
+ 
+ 35,242 
+ 
+ 
+ 
+ 37,298 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 35,314 
+ 
+ 
+ 
+ 37,377 
+ 
+ 
+ 
+ 
+ 
+ NM - not meaningful 
+ Page 8 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ Table 3: Commission Revenue Detail 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended June 30, 
+ 
+ 
+ Six Months Ended June 30, 
+ 
+ 
+ In thousands, except fee per million data (unaudited) 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+ 
+ % Change 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+ 
+ % Change 
+ 
+
+ 
+ Variable transaction fees 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Credit 
+ 
+ $ 
+ 134,340 
+ 
+ 
+ $ 
+ 142,977 
+ 
+ 
+ 
+ (6 
+ )% 
+ 
+ $ 
+ 284,687 
+ 
+ 
+ $ 
+ 278,817 
+ 
+ 
+ 
+ 2 
+ % 
+ 
+ Rates 
+ 
+ 
+ 8,049 
+ 
+ 
+ 
+ 8,035 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 16,971 
+ 
+ 
+ 
+ 14,954 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ Other 
+ 
+ 
+ 10,309 
+ 
+ 
+ 
+ 7,061 
+ 
+ 
+ 
+ 46 
+ 
+ 
+ 
+ 21,006 
+ 
+ 
+ 
+ 12,293 
+ 
+ 
+ 
+ 71 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total variable transaction fees 
+ 
+ 
+ 152,698 
+ 
+ 
+ 
+ 158,073 
+ 
+ 
+ 
+ (3 
+ ) 
+ 
+ 
+ 322,664 
+ 
+ 
+ 
+ 306,064 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fixed distribution fees 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Credit 
+ 
+ 
+ 34,106 
+ 
+ 
+ 
+ 33,616 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 67,509 
+ 
+ 
+ 
+ 66,881 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ Rates 
+ 
+ 
+ 91 
+ 
+ 
+ 
+ 81 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 193 
+ 
+ 
+ 
+ 168 
+ 
+ 
+ 
+ 15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total fixed distribution fees 
+ 
+ 
+ 34,197 
+ 
+ 
+ 
+ 33,697 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 67,702 
+ 
+ 
+ 
+ 67,049 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total commission revenue 
+ 
+ $ 
+ 186,895 
+ 
+ 
+ $ 
+ 191,770 
+ 
+ 
+ 
+ (3 
+ ) 
+ 
+ $ 
+ 390,366 
+ 
+ 
+ $ 
+ 373,113 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Average variable transaction fee per million 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Credit 
+ 
+ $ 
+ 129 
+ 
+ 
+ $ 
+ 138 
+ 
+ 
+ 
+ (7 
+ )% 
+ 
+ $ 
+ 130 
+ 
+ 
+ $ 
+ 139 
+ 
+ 
+ 
+ (6 
+ )% 
+ 
+ Rates 
+ 
+ 
+ 4.96 
+ 
+ 
+ 
+ 4.03 
+ 
+ 
+ 
+ 23 
+ 
+ 
+ 
+ 4.81 
+ 
+ 
+ 
+ 4.11 
+ 
+ 
+ 
+ 17 
+ 
+ Table 4: Trading Volume Detail* 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended June 30, 
+ 
+ 
+ In millions (unaudited) 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ Volume 
+ 
+ 
+ ADV 
+ 
+ 
+ Volume 
+ 
+ 
+ ADV 
+ 
+ 
+ Volume 
+ 
+ 
+ ADV 
+ 
+
+ 
+ Credit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ High-grade 
+ 
+ $ 
+ 461,087 
+ 
+ 
+ $ 
+ 7,437 
+ 
+ 
+ $ 
+ 481,090 
+ 
+ 
+ $ 
+ 7,760 
+ 
+ 
+ 
+ (4 
+ )% 
+ 
+ 
+ (4 
+ )% 
+ 
+ High-yield 
+ 
+ 
+ 96,701 
+ 
+ 
+ 
+ 1,560 
+ 
+ 
+ 
+ 104,897 
+ 
+ 
+ 
+ 1,692 
+ 
+ 
+ 
+ (8 
+ ) 
+ 
+ 
+ (8 
+ ) 
+ 
+ Emerging markets 
+ 
+ 
+ 278,991 
+ 
+ 
+ 
+ 4,500 
+ 
+ 
+ 
+ 249,091 
+ 
+ 
+ 
+ 4,018 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ Eurobonds 
+ 
+ 
+ 164,600 
+ 
+ 
+ 
+ 2,698 
+ 
+ 
+ 
+ 160,873 
+ 
+ 
+ 
+ 2,681 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ Other credit 
+ 
+ 
+ 40,716 
+ 
+ 
+ 
+ 657 
+ 
+ 
+ 
+ 39,965 
+ 
+ 
+ 
+ 644 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total credit trading 
+ 
+ 
+ 1,042,095 
+ 
+ 
+ 
+ 16,852 
+ 
+ 
+ 
+ 1,035,916 
+ 
+ 
+ 
+ 16,795 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ U.S. government bonds 
+ 
+ 
+ 1,494,713 
+ 
+ 
+ 
+ 24,108 
+ 
+ 
+ 
+ 1,906,892 
+ 
+ 
+ 
+ 30,756 
+ 
+ 
+ 
+ (22 
+ ) 
+ 
+ 
+ (22 
+ ) 
+ 
+ Agency and other government bonds 3 
+ 
+ 
+ 128,907 
+ 
+ 
+ 
+ 2,113 
+ 
+ 
+ 
+ 87,625 
+ 
+ 
+ 
+ 1,458 
+ 
+ 
+ 
+ 47 
+ 
+ 
+ 
+ 45 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total rates trading 
+ 
+ 
+ 1,623,620 
+ 
+ 
+ 
+ 26,221 
+ 
+ 
+ 
+ 1,994,517 
+ 
+ 
+ 
+ 32,214 
+ 
+ 
+ 
+ (19 
+ ) 
+ 
+ 
+ (19 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total trading 
+ 
+ $ 
+ 2,665,715 
+ 
+ 
+ $ 
+ 43,073 
+ 
+ 
+ $ 
+ 3,030,433 
+ 
+ 
+ $ 
+ 49,009 
+ 
+ 
+ 
+ (12 
+ ) 
+ 
+ 
+ (12 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Number of U.S. Trading
+Days 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 62 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 62 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Number of U.K. Trading
+Days 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 61 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Six Months Ended June 30, 
+ 
+ 
+ In millions (unaudited) 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ Volume 
+ 
+ 
+ ADV 
+ 
+ 
+ Volume 
+ 
+ 
+ ADV 
+ 
+ 
+ Volume 
+ 
+ 
+ ADV 
+ 
+
+ 
+ Credit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ High-grade 
+ 
+ $ 
+ 972,579 
+ 
+ 
+ $ 
+ 7,907 
+ 
+ 
+ $ 
+ 942,398 
+ 
+ 
+ $ 
+ 7,662 
+ 
+ 
+ 
+ 3 
+ % 
+ 
+ 
+ 3 
+ % 
+ 
+ High-yield 
+ 
+ 
+ 197,110 
+ 
+ 
+ 
+ 1,603 
+ 
+ 
+ 
+ 194,894 
+ 
+ 
+ 
+ 1,585 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ Emerging markets 
+ 
+ 
+ 590,916 
+ 
+ 
+ 
+ 4,804 
+ 
+ 
+ 
+ 489,376 
+ 
+ 
+ 
+ 3,979 
+ 
+ 
+ 
+ 21 
+ 
+ 
+ 
+ 21 
+ 
+ 
+ Eurobonds 
+ 
+ 
+ 342,762 
+ 
+ 
+ 
+ 2,764 
+ 
+ 
+ 
+ 308,790 
+ 
+ 
+ 
+ 2,510 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ Other credit 
+ 
+ 
+ 80,902 
+ 
+ 
+ 
+ 658 
+ 
+ 
+ 
+ 76,447 
+ 
+ 
+ 
+ 621 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total credit trading 
+ 
+ 
+ 2,184,269 
+ 
+ 
+ 
+ 17,736 
+ 
+ 
+ 
+ 2,011,905 
+ 
+ 
+ 
+ 16,357 
+ 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ U.S. government bonds 
+ 
+ 
+ 3,294,863 
+ 
+ 
+ 
+ 26,788 
+ 
+ 
+ 
+ 3,488,973 
+ 
+ 
+ 
+ 28,366 
+ 
+ 
+ 
+ (6 
+ ) 
+ 
+ 
+ (6 
+ ) 
+ 
+ Agency and other government bonds 3 
+ 
+ 
+ 234,420 
+ 
+ 
+ 
+ 1,892 
+ 
+ 
+ 
+ 153,450 
+ 
+ 
+ 
+ 1,248 
+ 
+ 
+ 
+ 53 
+ 
+ 
+ 
+ 52 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total rates trading 
+ 
+ 
+ 3,529,283 
+ 
+ 
+ 
+ 28,680 
+ 
+ 
+ 
+ 3,642,423 
+ 
+ 
+ 
+ 29,614 
+ 
+ 
+ 
+ (3 
+ ) 
+ 
+ 
+ (3 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total trading 
+ 
+ $ 
+ 5,713,552 
+ 
+ 
+ $ 
+ 46,416 
+ 
+ 
+ $ 
+ 5,654,328 
+ 
+ 
+ $ 
+ 45,971 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Number of U.S. Trading
+Days 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 123 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 123 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Number of U.K. Trading
+Days 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 124 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 123 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ The number of U.S. trading days is based on the SIFMA holiday recommendation calendar. 
+ 
+ 
+ 2 
+ The number of U.K. trading days is based on the U.K. Bank holiday schedule. 
+ 
+ 
+ 3 
+ Agency and other government bonds volume and ADV reported for the three and six months ended June 30, 2026
+in this earnings release reflect the correction of amounts previously reported most recently in the June 2026 trading volume statistics reported on July 7, 2026. 
+ 
+ 
+ * 
+ Consistent with FINRA TRACE reporting standards, both sides of trades are included in the Company s
+reported volumes when the Company executes trades on a matched principal basis between two counterparties. Consistent with industry standards, U.S. government bond trades are single-counted. 
+ Page 9 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ Table 5: Consolidated Condensed Balance Sheet Data 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ As of 
+ 
+ 
+ In thousands (unaudited) 
+ 
+ June 30, 2026 
+ 
+ 
+ December 31, 2025 
+ 
+
+ 
+ Assets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash and cash equivalents 
+ 
+ $ 
+ 245,794 
+ 
+ 
+ $ 
+ 519,734 
+ 
+ 
+ Cash segregated under federal regulations 
+ 
+ 
+ 49,390 
+ 
+ 
+ 
+ 48,722 
+ 
+ 
+ Investments, at fair value 
+ 
+ 
+ 171,067 
+ 
+ 
+ 
+ 170,677 
+ 
+ 
+ Accounts receivable, net 
+ 
+ 
+ 133,786 
+ 
+ 
+ 
+ 100,989 
+ 
+ 
+ Receivables from broker-dealers, clearing organizations and customers 
+ 
+ 
+ 1,228,453 
+ 
+ 
+ 
+ 489,211 
+ 
+ 
+ Goodwill 
+ 
+ 
+ 283,667 
+ 
+ 
+ 
+ 283,667 
+ 
+ 
+ Intangible assets, net of accumulated amortization 
+ 
+ 
+ 100,245 
+ 
+ 
+ 
+ 110,629 
+ 
+ 
+ Furniture, equipment, leasehold improvements and capitalized software, net 
+ 
+ 
+ 111,362 
+ 
+ 
+ 
+ 112,431 
+ 
+ 
+ Operating lease
+ right-of-use assets 
+ 
+ 
+ 50,620 
+ 
+ 
+ 
+ 51,854 
+ 
+ 
+ Prepaid expenses and other assets 
+ 
+ 
+ 47,829 
+ 
+ 
+ 
+ 46,972 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total assets 
+ 
+ $ 
+ 2,422,213 
+ 
+ 
+ $ 
+ 1,934,886 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Liabilities and stockholders equity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Liabilities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Accrued employee compensation 
+ 
+ $ 
+ 46,747 
+ 
+ 
+ $ 
+ 73,879 
+ 
+ 
+ Payables to broker-dealers, clearing organizations and customers 
+ 
+ 
+ 863,546 
+ 
+ 
+ 
+ 325,959 
+ 
+ 
+ Borrowings 
+ 
+ 
+ 115,914 
+ 
+ 
+ 
+ 220,000 
+ 
+ 
+ Income and other tax liabilities 
+ 
+ 
+ 37,418 
+ 
+ 
+ 
+ 49,267 
+ 
+ 
+ Accounts payable, accrued expenses and other liabilities 
+ 
+ 
+ 42,232 
+ 
+ 
+ 
+ 42,584 
+ 
+ 
+ Operating lease liabilities 
+ 
+ 
+ 62,999 
+ 
+ 
+ 
+ 64,938 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total liabilities 
+ 
+ 
+ 1,168,856 
+ 
+ 
+ 
+ 776,627 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Redeemable noncontrolling interest 
+ 
+ 
+ 14,441 
+ 
+ 
+ 
+ 12,592 
+ 
+ 
+ Stockholders equity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Common stock 
+ 
+ 
+ 123 
+ 
+ 
+ 
+ 123 
+ 
+ 
+ Additional paid-in capital 
+ 
+ 
+ 374,229 
+ 
+ 
+ 
+ 305,923 
+ 
+ 
+ Treasury stock 
+ 
+ 
+ (752,333 
+ ) 
+ 
+ 
+ (694,764 
+ ) 
+ 
+ Retained earnings 
+ 
+ 
+ 1,629,214 
+ 
+ 
+ 
+ 1,538,746 
+ 
+ 
+ Accumulated other comprehensive income/(loss) 
+ 
+ 
+ (12,317 
+ ) 
+ 
+ 
+ (4,361 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total stockholders equity 
+ 
+ 
+ 1,238,916 
+ 
+ 
+ 
+ 1,145,667 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total liabilities, redeemable noncontrolling interest and stockholders 
+equity 
+ 
+ $ 
+ 2,422,213 
+ 
+ 
+ $ 
+ 1,934,886 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Page 10 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ Table 6: Reconciliation of Notable Items 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Quarter 
+ 
+ 
+ Year-to-date 
+ 
+ 
+ $ in thousands, except per share data (unaudited) 
+ 
+ 2Q 2026 
+ 
+ 
+ 1Q 2026 
+ 
+ 
+ 2Q 2025 
+ 
+ 
+ YTD 2026 
+ 
+ 
+ YTD 2025 
+ 
+
+ 
+ Total Expenses, GAAP-basis 
+ 
+ $ 
+ 128,538 
+ 
+ 
+ $ 
+ 132,459 
+ 
+ 
+ $ 
+ 127,598 
+ 
+ 
+ $ 
+ 260,997 
+ 
+ 
+ $ 
+ 247,792 
+ 
+ 
+ Exclude: Notable items 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Repositioning charges 1 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (1,484 
+ ) 
+ 
+ 
+ (3,970 
+ ) 
+ 
+ 
+ (1,484 
+ ) 
+ 
+ 
+ (3,970 
+ ) 
+ 
+ Other notable items 2 
+ 
+ 
+ (1,555 
+ ) 
+ 
+ 
+ (656 
+ ) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (2,211 
+ ) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Expenses, excluding notable items 
+ 
+ $ 
+ 126,983 
+ 
+ 
+ $ 
+ 130,319 
+ 
+ 
+ $ 
+ 123,628 
+ 
+ 
+ $ 
+ 257,302 
+ 
+ 
+ $ 
+ 243,822 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other income (expense), GAAP-basis 
+ 
+ $ 
+ (115 
+ ) 
+ 
+ $ 
+ 2,964 
+ 
+ 
+ $ 
+ 5,552 
+ 
+ 
+ $ 
+ 2,849 
+ 
+ 
+ $ 
+ 13,324 
+ 
+ 
+ Exclude: Notable items 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Acquisition-related charge/(credit) 2 
+
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 557 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 557 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other income (expense), excluding notable items 
+ 
+ $ 
+ (115 
+ ) 
+ 
+ $ 
+ 2,964 
+ 
+ 
+ $ 
+ 6,109 
+ 
+ 
+ $ 
+ 2,849 
+ 
+ 
+ $ 
+ 13,881 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income, GAAP-basis 
+ 
+ $ 
+ 68,323 
+ 
+ 
+ $ 
+ 78,107 
+ 
+ 
+ $ 
+ 71,180 
+ 
+ 
+ $ 
+ 146,430 
+ 
+ 
+ $ 
+ 86,245 
+ 
+ 
+ Exclude: Notable items 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Repositioning charges 1 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 1,484 
+ 
+ 
+ 
+ 3,970 
+ 
+ 
+ 
+ 1,484 
+ 
+ 
+ 
+ 3,970 
+ 
+ 
+ Other notable items 2 
+ 
+ 
+ 1,555 
+ 
+ 
+ 
+ 656 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 2,211 
+ 
+ 
+ 
+ — 
+ 
+ 
+ Acquisition-related charge/(credit) 2 
+
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 557 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 557 
+ 
+ 
+ Income tax impact from notable items 
+ 
+ 
+ (389 
+ ) 
+ 
+ 
+ (531 
+ ) 
+ 
+ 
+ (1,218 
+ ) 
+ 
+ 
+ (920 
+ ) 
+ 
+ 
+ (1,218 
+ ) 
+ 
+ Reserve for uncertain tax positions related to prior periods 
+ 
+ 
+ (1,109 
+ ) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (1,109 
+ ) 
+ 
+ 
+ 54,939 
+ 
+ 
+ Non-deductible income tax from notable items 
+ 
+ 
+ 553 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 553 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income, excluding notable items 
+ 
+ $ 
+ 68,933 
+ 
+ 
+ $ 
+ 79,716 
+ 
+ 
+ $ 
+ 74,489 
+ 
+ 
+ $ 
+ 148,649 
+ 
+ 
+ $ 
+ 144,493 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating margin, GAAP-basis 
+ 
+ 
+ 41.1 
+ % 
+ 
+ 
+ 43.2 
+ % 
+ 
+ 
+ 41.9 
+ % 
+ 
+ 
+ 42.2 
+ % 
+ 
+ 
+ 42.1 
+ % 
+ 
+ Notable items as reconciled above 
+ 
+ 
+ 0.8 
+ 
+ 
+ 
+ 1.0 
+ 
+ 
+ 
+ 1.8 
+ 
+ 
+ 
+ 0.8 
+ 
+ 
+ 
+ 0.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating margin, excluding notable items 
+ 
+ 
+ 41.9 
+ % 
+ 
+ 
+ 44.2 
+ % 
+ 
+ 
+ 43.7 
+ % 
+ 
+ 
+ 43.0 
+ % 
+ 
+ 
+ 43.0 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted EPS, GAAP-basis 
+ 
+ $ 
+ 1.93 
+ 
+ 
+ $ 
+ 2.20 
+ 
+ 
+ $ 
+ 1.91 
+ 
+ 
+ $ 
+ 4.13 
+ 
+ 
+ $ 
+ 2.31 
+ 
+ 
+ Notable items as reconciled above 
+ 
+ 
+ 0.02 
+ 
+ 
+ 
+ 0.05 
+ 
+ 
+ 
+ 0.09 
+ 
+ 
+ 
+ 0.06 
+ 
+ 
+ 
+ 1.56 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted EPS, excluding notable items 
+ 
+ $ 
+ 1.95 
+ 
+ 
+ $ 
+ 2.25 
+ 
+ 
+ $ 
+ 2.00 
+ 
+ 
+ $ 
+ 4.19 
+ 
+ 
+ $ 
+ 3.87 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Effective tax rate, GAAP-basis 
+ 
+ 
+ 23.9 
+ % 
+ 
+ 
+ 24.8 
+ % 
+ 
+ 
+ 26.9 
+ % 
+ 
+ 
+ 24.4 
+ % 
+ 
+ 
+ 55.4 
+ % 
+ 
+ Notable items as reconciled above 
+ 
+ 
+ 0.6 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 0.3 
+ 
+ 
+ 
+ (28.3 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Effective tax rate, excluding notable items 
+ 
+ 
+ 24.5 
+ % 
+ 
+ 
+ 24.8 
+ % 
+ 
+ 
+ 26.9 
+ % 
+ 
+ 
+ 24.7 
+ % 
+ 
+ 
+ 27.1 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ Repositioning charges consist of severance included in employee compensation and benefits 
+ 
+ 
+ 
+ 2 
+ Consists of legal expenses included in professional and consulting 
+ Page 11 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ Table 7: Reconciliation of Net Income to EBITDA and Net Income Margin to EBITDA Margin 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Quarter 
+ 
+ 
+ Year-to-date 
+ 
+ 
+ In thousands (unaudited) 
+ 
+ 2Q 2026 
+ 
+ 
+ 1Q 2026 
+ 
+ 
+ 2Q 2025 
+ 
+ 
+ YTD 2026 
+ 
+ 
+ YTD 2025 
+ 
+
+ 
+ Net income 
+ 
+ $ 
+ 68,323 
+ 
+ 
+ $ 
+ 78,107 
+ 
+ 
+ $ 
+ 71,180 
+ 
+ 
+ $ 
+ 146,430 
+ 
+ 
+ $ 
+ 86,245 
+ 
+ 
+ Add back: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest income 
+ 
+ 
+ (4,692 
+ ) 
+ 
+ 
+ (4,308 
+ ) 
+ 
+ 
+ (5,930 
+ ) 
+ 
+ 
+ (9,000 
+ ) 
+ 
+ 
+ (13,099 
+ ) 
+ 
+ Interest expense 
+ 
+ 
+ 1,862 
+ 
+ 
+ 
+ 2,888 
+ 
+ 
+ 
+ 139 
+ 
+ 
+ 
+ 4,750 
+ 
+ 
+ 
+ 352 
+ 
+ 
+ Provision for income taxes 
+ 
+ 
+ 21,439 
+ 
+ 
+ 
+ 25,778 
+ 
+ 
+ 
+ 26,236 
+ 
+ 
+ 
+ 47,217 
+ 
+ 
+ 
+ 107,325 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 19,309 
+ 
+ 
+ 
+ 19,210 
+ 
+ 
+ 
+ 19,195 
+ 
+ 
+ 
+ 38,519 
+ 
+ 
+ 
+ 37,431 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EBITDA 
+ 
+ $ 
+ 106,241 
+ 
+ 
+ $ 
+ 121,675 
+ 
+ 
+ $ 
+ 110,820 
+ 
+ 
+ $ 
+ 227,916 
+ 
+ 
+ $ 
+ 218,254 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income margin 1 
+ 
+ 
+ 31.3 
+ % 
+ 
+ 
+ 33.5 
+ % 
+ 
+ 
+ 32.4 
+ % 
+ 
+ 
+ 32.4 
+ % 
+ 
+ 
+ 20.1 
+ % 
+ 
+ Add back: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest income 
+ 
+ 
+ (2.2 
+ ) 
+ 
+ 
+ (1.8 
+ ) 
+ 
+ 
+ (2.7 
+ ) 
+ 
+ 
+ (2.0 
+ ) 
+ 
+ 
+ (3.1 
+ ) 
+ 
+ Interest expense 
+ 
+ 
+ 0.9 
+ 
+ 
+ 
+ 1.2 
+ 
+ 
+ 
+ 0.1 
+ 
+ 
+ 
+ 1.0 
+ 
+ 
+ 
+ 0.1 
+ 
+ 
+ Provision for income taxes 
+ 
+ 
+ 9.8 
+ 
+ 
+ 
+ 11.0 
+ 
+ 
+ 
+ 12.0 
+ 
+ 
+ 
+ 10.5 
+ 
+ 
+ 
+ 25.1 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 8.8 
+ 
+ 
+ 
+ 8.2 
+ 
+ 
+ 
+ 8.7 
+ 
+ 
+ 
+ 8.5 
+ 
+ 
+ 
+ 8.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EBITDA margin 2 
+ 
+ 
+ 48.6 
+ % 
+ 
+ 
+ 52.1 
+ % 
+ 
+ 
+ 50.5 
+ % 
+ 
+ 
+ 50.4 
+ % 
+ 
+ 
+ 51.0 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ Net income margin is derived by dividing net income by total revenues for the applicable period.
+ 
+ 
+ 
+ 2 
+ EBITDA margin is derived by dividing EBITDA by total revenues for the applicable period. 
+ Table 8: Reconciliation of Net Cash Provided by Operating Activities to Free Cash Flow 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Quarter 
+ 
+ 
+ Year-to-date 
+ 
+ 
+ In thousands (unaudited) 
+ 
+ 2Q 2026 
+ 
+ 
+ 1Q 2026 
+ 
+ 
+ 2Q 2025 
+ 
+ 
+ YTD 2026 
+ 
+ 
+ YTD 2025 
+ 
+
+ 
+ Net cash (used in)/provided by operating activities 
+ 
+ $ 
+ 26,812 
+ 
+ 
+ $ 
+ (75,329 
+ ) 
+ 
+ $ 
+ 103,714 
+ 
+ 
+ $ 
+ (48,517 
+ ) 
+ 
+ $ 
+ 133,343 
+ 
+ 
+ Exclude: Net change in trading investments 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (66 
+ ) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (66 
+ ) 
+ 
+ Exclude: Net change in
+ fail-to-deliver/receive from broker-dealers, clearing organizations and customers 
+ 
+ 
+ 74,132 
+ 
+ 
+ 
+ 108,529 
+ 
+ 
+ 
+ 22,053 
+ 
+ 
+ 
+ 182,661 
+ 
+ 
+ 
+ 56,452 
+ 
+ 
+ Less: Purchases of furniture, equipment and leasehold improvements 
+ 
+ 
+ (649 
+ ) 
+ 
+ 
+ (259 
+ ) 
+ 
+ 
+ (1,206 
+ ) 
+ 
+ 
+ (908 
+ ) 
+ 
+ 
+ (3,136 
+ ) 
+ 
+ Less: Capitalization of software development costs 
+ 
+ 
+ (11,360 
+ ) 
+ 
+ 
+ (17,089 
+ ) 
+ 
+ 
+ (11,510 
+ ) 
+ 
+ 
+ (28,449 
+ ) 
+ 
+ 
+ (26,541 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Free cash flow 
+ 
+ $ 
+ 88,935 
+ 
+ 
+ $ 
+ 15,852 
+ 
+ 
+ $ 
+ 112,985 
+ 
+ 
+ $ 
+ 104,787 
+ 
+ 
+ $ 
+ 160,052 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Page 12
