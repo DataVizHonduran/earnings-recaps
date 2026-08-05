@@ -1,0 +1,809 @@
+Ticker: JBHT
+Company: HUNT J B TRANSPORT SERVICES INC
+Filed: 2026-07-15
+Type: PRESS_RELEASE
+Source: https://www.sec.gov/Archives/edgar/data/728535/000143774926023629/ex_987956.htm
+
+EX-99.1
+ 2
+ ex_987956.htm
+ EXHIBIT 99.1
+ 
+ 
+ 
+ ex_987956.htm 
+ 
+ 
+ 
+ 
+ 
+ Exhibit 99.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ J.B. Hunt Transport Services, Inc. Contact: Andrew Hall 
+ 
+ 615 J.B. Hunt Corporate Drive Senior Director Finance 
+ 
+ Lowell, Arkansas 72745 (479) 820-0000 
+ 
+ (NASDAQ: JBHT) 
+ 
+ 
+ 
+ 
+ FOR IMMEDIATE RELEASE 
+ 
+ 
+ 
+ J.B. HUNT TRANSPORT SERVICES, INC. REPORTS U.S. GAAP REVENUES, NET EARNINGS AND EARNINGS PER SHARE FOR THE SECOND QUARTER 2026 
+ 
+ 
+ 
+ 
+ Second Quarter 2026 Revenue: $3.50 billion; up 19% 
+ 
+ Second Quarter 2026 Operating Income: $259.5 million; up 32% 
+ 
+ Second Quarter 2026 EPS: $1.91 vs. $1.31; up 45% 
+ 
+ 
+ 
+ 
+ LOWELL, Ark., July 15, 2026 — J.B. Hunt Transport Services, Inc. (NASDAQ: JBHT) announced second quarter 2026 U.S. GAAP (United States Generally Accepted Accounting Principles) net earnings of $181.0 million, or diluted earnings per share of $1.91 versus second quarter 2025 net earnings of $128.6 million, or $1.31 per diluted share. 
+ 
+ I m grateful for our people and their continued focus on delivering operational excellence around service, safety and cost discipline in this dynamic environment, said Shelley Simpson, president and CEO. Our second quarter results reflect the strength of executing our strategy, as we leveraged our investments in our people, technology, and capacity to drive growth and improve profitability. As market conditions continue to evolve, we remain focused on creating long-term value for our shareholders, delivering valuable solutions to our customers while maintaining discipline around returns on our capital. 
+ 
+ Total operating revenue for the current quarter was $3.50 billion compared with $2.93 billion for the second quarter 2025, an increase of 19%. Current quarter total operating revenue, excluding fuel surcharge revenue, increased 11% versus the second quarter 2025. The increase in revenue, excluding fuel surcharge revenue, was primarily driven by increased load volumes in Intermodal (JBI), Integrated Capacity Solutions (ICS) and Truckload (JBT), higher revenue per load in JBI, ICS and JBT and increased productivity in Dedicated Contract Services (DCS ), partially offset by a 14% decline in Final Mile Services (FMS) stops. 
+ 
+ Operating income for the current quarter increased 32% to $259.5 million versus $197.3 million for the second quarter 2025. The increase in operating income was primarily driven by higher revenue, improved productivity across the business, continued execution on our initiative to remove structural cost, lower group medical claims and lower facility rental and equipment storage expenses. These were partially offset by higher purchase transportation cost, particularly in our ICS and JBT segments and higher equipment-related expenses. Consolidated operating income as a percentage of gross revenue increased year-over-year as a result of the previously mentioned items, partially offset by higher fuel expense as a percentage of gross revenue. 
+ 
+ Net interest expense for the current quarter decreased approximately 21% from the second quarter 2025 due to a lower average consolidated debt balance partially offset by a modestly higher average interest rate. 
+ 
+ The effective income tax rate was 25.4% in the current quarter compared to 26.9% in the second quarter 2025. We now expect our 2026 annual tax rate to be between 24.0% and 24.5%. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Segment Information: 
+ 
+ 
+ Intermodal (JBI) 
+ 
+ 
+ 
+ Second Quarter 2026 Segment Revenue: $1.75 billion; up 22% 
+ 
+ Second Quarter 2026 Operating Income: $150.9 million; up 58% 
+ 
+ 
+ 
+ Intermodal volume increased 10% over the same period in 2025. Transcontinental network loads increased 5%, while Eastern network loads increased 16% compared to the second quarter 2025. Overall demand for our intermodal service increased throughout the quarter driven by the strong value proposition it presents to customers facing higher fuel prices and constrained driver and capacity availability in other transportation modes. Volume growth in our Eastern network continues to be strong, driven by conversion and overall service execution. Segment gross revenue increased 22% from the prior-year period driven by the 10% increase in volume and an 11% increase in gross revenue per load, resulting from higher fuel surcharge revenue, customer rates and changes in mix of freight. Revenue per load excluding fuel surcharge revenue increased 1%. 
+ 
+ Operating income increased 58% compared to the second quarter 2025 primarily due to network efficiency resulting from strong volume growth, productivity improvements across the dray network, lower proportion of empty container moves and lower container storage expense. Continued execution on initiatives to lower our cost to serve also contributed to the improvement. These were partially offset by higher insurance premium and claims expense and higher professional driver personnel expense. 
+ 
+ 
+ Dedicated Contract Services (DCS) 
+ 
+ 
+ 
+ Second Quarter 2026 Segment Revenue: $921 million; up 9% 
+ 
+ Second Quarter 2026 Operating Income: $102.5 million; up 9% 
+ 
+ 
+ 
+ DCS revenue increased 9% during the quarter compared to the same period 2025 driven by a 9% increase in productivity (revenue per truck per week) as average trucks were approximately flat versus the prior-year period. Productivity excluding fuel surcharge revenue increased 2% from the prior-year period due to contracted indexed-based price escalators. On a net basis, there were 5 additional revenue-producing trucks in the fleet by the end of the quarter compared to the prior-year period and approximately 140 more versus the end of the first quarter 2026. Customer retention rates have improved to approximately 96%. 
+ 
+ Operating income increased 9% from the prior-year period. The increase was driven by the higher revenue, lower group medical claims expense and continued progress on the initiative to lower our cost to serve. These were partially offset by higher insurance premium and equipment-related expenses and higher new business onboarding expenses compared to the prior year period. 
+ 
+ 
+ Integrated Capacity Solutions (ICS) 
+ 
+ 
+ 
+ Second Quarter 2026 Segment Revenue: $388 million; up 49% 
+ 
+ Second Quarter 2026 Operating Income/(Loss): $1.7 million; vs. $(3.6) million in Q2 25 
+ 
+ 
+ 
+ ICS revenue increased 49% during the current quarter compared to the second quarter of 2025. Overall segment volume increased 19% versus the prior-year period with growth in both published and spot volume. Revenue per load increased 26% due to higher rates across both contractual and transactional volume. Contractual volume represented approximately 65% of the total load volume and 63% of the total revenue in the current quarter compared to 62% and 63%, respectively, in the second quarter 2025. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income was $1.7 million compared to an operating loss of $3.6 million for the second quarter of 2025. The operating environment remained volatile during the current quarter as market capacity dynamics continue to evolve rapidly. Operating results improved from the prior-year quarter primarily due to an increase in gross profit driven by the increases in both revenue per load and volume which more than offset a 54% increase in purchased transportation expense. Gross profit margins decreased to 12.5% compared to 15.5% in the prior year period but improved from 12.0% in the first quarter of 2026. 
+ 
+ 
+ Final Mile Services (FMS) 
+ 
+ 
+ 
+ Second Quarter 2026 Segment Revenue: $198 million; down 6% 
+ 
+ Second Quarter 2026 Operating Income: $5.6 million; down 30% 
+ 
+ 
+ 
+ FMS revenue decreased 6% compared to the same period 2025. The decrease was primarily driven by known business losses given our ongoing efforts to improve revenue quality and profitability across various accounts. The decrease in segment gross revenue was partially offset by stabilizing demand across many of the end markets served and the implementation of new business awarded over the past year. 
+ 
+ Operating income decreased 30% to $5.6 million compared to the prior-year period. Operating income decreased primarily due to the impact of lower revenue and higher purchased transportation expense. The operating income decline was partially offset by lower claims and facility rental expenses and continued progress on the initiative to lower our cost to serve. 
+ 
+ 
+ Truckload (JBT) 
+ 
+ 
+ 
+ Second Quarter 2026 Segment Revenue: $240 million; up 35% 
+ 
+ Second Quarter 2026 Operating Income/(Loss): ($1.3) million; vs. $3.4 million in Q2 25 
+ 
+ 
+ 
+ JBT revenue increased 35% compared to the same period in the prior year. Revenue excluding fuel surcharge revenue increased 28% driven by a 14% increase in load volume and a 13% improvement in revenue per load excluding fuel surcharge revenue. Total average effective trailer count increased by approximately 45 units, or less than 1% versus the prior-year period. Trailer turns in the quarter improved 13% from the prior period primarily due to improved network balance and velocity to improve equipment utilization. 
+ 
+ Operating loss was $1.3 million compared to operating income of $3.4 million for the second quarter 2025. Operating performance declined from the prior year period primarily due to higher purchased transportation expense, which resulted in a 12% decline in gross profit. This was partially offset by continued cost management and productivity and a more balanced network. JBT segment operating income as a percentage of segment gross revenue decreased year-over-year as a result of higher third-party capacity costs as a percentage of gross revenue. 
+ 
+ 
+ Cash Flow and Capitalization: 
+ 
+ 
+ At June 30, 2026, we had approximately $1.15 billion outstanding on various debt instruments compared to $1.72 billion at June 30, 2025 and $1.47 billion at December 31, 2025. 
+ 
+ Our net capital expenditures for the six months ended June 30, 2026 approximated $144.9 million compared to $399.1 million for the same period 2025. At June 30, 2026, we had cash and cash equivalents of approximately $4.2 million. 
+ 
+ In the second quarter 2026, we purchased approximately 392,000 shares of common stock for approximately $98 million. At June 30, 2026, we had approximately $791 million remaining under our share repurchase authorization. Actual shares outstanding at June 30, 2026 approximated 93.9 million. 
+ 
+ Conference Call Information: 
+ 
+ 
+ The company will hold a conference call today from 4:00 5:00 p.m. CDT to discuss the quarterly earnings. Investors will have the opportunity to listen to the conference call live over the internet by going to investor.jbhunt.com . Please log on 15 minutes early to register, download and install any necessary audio software. For those who cannot listen to the live broadcast, an online replay of the earnings call webcast will be available a few hours after the completion of the call. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Forward-Looking Statements: 
+ 
+ 
+ This press release may contain forward-looking statements, which are based on information currently available. Actual results may differ materially from those currently anticipated due to a number of factors, including, but not limited to, those discussed in Item 1A of our Annual Report filed on Form 10-K for the year ended December 31, 2025. We assume no obligation to update any forward-looking statement to the extent we become aware that it will not be achieved for any reason. This press release and additional information will be available to interested parties on our website, www.jbhunt.com . 
+ 
+ About J.B. Hunt 
+ 
+ 
+ J.B. Hunt s vision is to create the most efficient transportation network in North America. The company s industry-leading solutions and mode-neutral approach generate value for customers by eliminating waste, reducing costs and enhancing supply chain visibility. Powered by one of the largest company-owned fleets in the country and third-party capacity through its J.B. Hunt 360 digital freight marketplace, J.B. Hunt can meet the unique shipping needs of any business, from first mile to final delivery, and every shipment in-between. Through disciplined investments in its people, technology and capacity, J.B. Hunt is delivering exceptional value and service that enable long-term growth for the company and its stakeholders. 
+ 
+ J.B. Hunt Transport Services Inc. is an S&P 500 company and a component of the Dow Jones Transportation Average. Its stock trades on NASDAQ under the ticker symbol JBHT. J.B. Hunt Transport Inc. is a wholly owned subsidiary of JBHT. The company s services include intermodal, dedicated, refrigerated, truckload, less-than-truckload, flatbed, single source, last mile, transload and more. For more information, visit www.jbhunt.com . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ J.B. HUNT TRANSPORT SERVICES, INC. 
+ 
+ Condensed Consolidated Statements of Earnings 
+ 
+ (in thousands, except per share data) 
+ 
+ (unaudited) 
+ 
+ 
+ 
+ Three Months Ended June 30 
+ 
+ 2026 2025 
+ 
+ % Of % Of 
+ 
+ Amount Revenue Amount Revenue 
+ 
+ 
+ 
+ Operating revenues, excluding fuel surcharge revenues $ 2,853,836 $ 2,576,319 
+ 
+ Fuel surcharge revenues 641,460 351,862 
+ 
+ Total operating revenues 3,495,296 100.0 % 2,928,181 100.0 % 
+ 
+ 
+ 
+ Operating expenses 
+ 
+ Rents and purchased transportation 1,677,280 48.0 % 1,266,908 43.3 % 
+ 
+ Salaries, wages and employee benefits 820,352 23.5 % 816,941 27.9 % 
+ 
+ Fuel and fuel taxes 235,208 6.7 % 153,710 5.2 % 
+ 
+ Depreciation and amortization 180,610 5.2 % 176,980 6.0 % 
+ 
+ Operating supplies and expenses 138,870 4.0 % 128,245 4.4 % 
+ 
+ Insurance and claims 88,792 2.5 % 84,838 2.9 % 
+ 
+ General and administrative expenses, including asset dispositions 65,718 1.9 % 74,876 2.6 % 
+ 
+ Operating taxes and licenses 18,920 0.5 % 17,770 0.6 % 
+ 
+ Communication and utilities 10,094 0.3 % 10,639 0.4 % 
+ 
+ Total operating expenses 3,235,844 92.6 % 2,730,907 93.3 % 
+ 
+ Operating income 259,452 7.4 % 197,274 6.7 % 
+ 
+ Net interest expense 16,768 0.5 % 21,285 0.7 % 
+ 
+ Earnings before income taxes 242,684 6.9 % 175,989 6.0 % 
+ 
+ Income taxes 61,650 1.7 % 47,365 1.6 % 
+ 
+ Net earnings $ 181,034 5.2 % $ 128,624 4.4 % 
+ 
+ Average diluted shares outstanding 94,944 97,976 
+ 
+ Diluted earnings per share $ 1.91 $ 1.31 
+ 
+ 
+ 
+ 
+ J.B. HUNT TRANSPORT SERVICES, INC. 
+ 
+ Condensed Consolidated Statements of Earnings 
+ 
+ (in thousands, except per share data) 
+ 
+ (unaudited) 
+ 
+ 
+ 
+ Six Months Ended June 30 
+ 
+ 2026 2025 
+ 
+ % Of % Of 
+ 
+ Amount Revenue Amount Revenue 
+ 
+ 
+ 
+ Operating revenues, excluding fuel surcharge revenues $ 5,502,329 $ 5,136,048 
+ 
+ Fuel surcharge revenues 1,049,458 713,525 
+ 
+ Total operating revenues 6,551,787 100.0 % 5,849,573 100.0 % 
+ 
+ 
+ 
+ Operating expenses 
+ 
+ Rents and purchased transportation 3,082,180 47.0 % 2,560,236 43.8 % 
+ 
+ Salaries, wages and employee benefits 1,605,948 24.5 % 1,616,588 27.6 % 
+ 
+ Fuel and fuel taxes 410,267 6.3 % 313,643 5.4 % 
+ 
+ Depreciation and amortization 360,020 5.5 % 356,456 6.1 % 
+ 
+ Operating supplies and expenses 264,131 4.0 % 251,698 4.3 % 
+ 
+ Insurance and claims 176,542 2.7 % 169,856 2.9 % 
+ 
+ General and administrative expenses, including asset dispositions 127,571 2.0 % 147,847 2.5 % 
+ 
+ Operating taxes and licenses 37,453 0.6 % 35,250 0.6 % 
+ 
+ Communication and utilities 21,175 0.3 % 22,045 0.4 % 
+ 
+ Total operating expenses 6,085,287 92.9 % 5,473,619 93.6 % 
+ 
+ Operating income 466,500 7.1 % 375,954 6.4 % 
+ 
+ Net interest expense 34,668 0.5 % 39,882 0.7 % 
+ 
+ Earnings before income taxes 431,832 6.6 % 336,072 5.7 % 
+ 
+ Income taxes 109,245 1.7 % 89,708 1.5 % 
+ 
+ Net earnings $ 322,587 4.9 % $ 246,364 4.2 % 
+ 
+ Average diluted shares outstanding 95,073 99,226 
+ 
+ Diluted earnings per share $ 3.39 $ 2.48 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Financial Information By Segment 
+ 
+ 
+ (in thousands) 
+ (unaudited) 
+ 
+ 
+ Three Months Ended June 30 
+ 
+ 2026 2025 
+ 
+ % Of % Of 
+ 
+ Amount Total Amount Total 
+ 
+ 
+ 
+ Revenue 
+ 
+ 
+ 
+ Intermodal $ 1,753,689 50 % $ 1,437,885 49 % 
+ 
+ Dedicated 920,710 26 % 846,755 29 % 
+ 
+ Integrated Capacity Solutions 388,495 11 % 260,243 9 % 
+ 
+ Final Mile Services 198,037 6 % 210,627 7 % 
+ 
+ Truckload 239,653 7 % 176,968 6 % 
+ 
+ Subtotal 3,500,584 100 % 2,932,478 100 % 
+ 
+ Intersegment eliminations (5,288 ) (0 %) (4,297 ) (0 %) 
+ 
+ Consolidated revenue $ 3,495,296 100 % $ 2,928,181 100 % 
+ 
+ 
+ 
+ 
+ 
+ Operating income 
+ 
+ 
+ 
+ Intermodal $ 150,863 58 % $ 95,747 49 % 
+ 
+ Dedicated 102,473 40 % 93,687 47 % 
+ 
+ Integrated Capacity Solutions 1,695 1 % (3,554 ) (2 %) 
+ 
+ Final Mile Services 5,557 2 % 7,993 4 % 
+ 
+ Truckload (1,335 ) (1 %) 3,369 2 % 
+ 
+ Other (1) 199 0 % 32 0 % 
+ 
+ Operating income $ 259,452 100 % $ 197,274 100 % 
+ 
+ 
+ 
+ 
+ Six Months Ended June 30 
+ 
+ 2026 2025 
+ 
+ % Of % Of 
+ 
+ Amount Total Amount Total 
+ 
+ Revenue 
+ 
+ 
+ 
+ Intermodal $ 3,258,482 49 % $ 2,907,138 50 % 
+ 
+ Dedicated 1,761,266 27 % 1,669,047 28 % 
+ 
+ Integrated Capacity Solutions 711,232 11 % 528,285 9 % 
+ 
+ Final Mile Services 386,064 6 % 411,331 7 % 
+ 
+ Truckload 445,036 7 % 343,596 6 % 
+ 
+ Subtotal 6,562,080 100 % 5,859,397 100 % 
+ 
+ Intersegment eliminations (10,293 ) (0 %) (9,824 ) (0 %) 
+ 
+ Consolidated revenue $ 6,551,787 100 % $ 5,849,573 100 % 
+ 
+ 
+ 
+ 
+ 
+ Operating income 
+ 
+ 
+ 
+ Intermodal $ 265,353 57 % $ 190,134 51 % 
+ 
+ Dedicated 189,868 41 % 173,961 46 % 
+ 
+ Integrated Capacity Solutions (2,956 ) (1 %) (6,220 ) (1 %) 
+ 
+ Final Mile Services 12,722 3 % 12,669 3 % 
+ 
+ Truckload 1,382 0 % 5,408 1 % 
+ 
+ Other (1) 131 0 % 2 0 % 
+ 
+ Operating income $ 466,500 100 % $ 375,954 100 % 
+ 
+ 
+ 
+ (1) Includes corporate support activity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating Statistics by Segment 
+ 
+ 
+ (unaudited) 
+ 
+ 
+ Three Months Ended June 30 
+ 
+ 2026 2025 
+ 
+ 
+ 
+ Intermodal 
+ 
+ 
+ 
+ Loads 578,072 525,161 
+ 
+ Average length of haul 1,587 1,631 
+ 
+ Revenue per load $ 3,034 $ 2,738 
+ 
+ Average tractors during the period * 6,212 6,376 
+ 
+ Tractors (end of period) * 6,232 6,363 
+ 
+ Trailing equipment (end of period) 124,199 125,265 
+ 
+ Average effective trailing equipment usage 112,301 102,603 
+ 
+ 
+ 
+ 
+ 
+ Dedicated 
+ 
+ 
+ 
+ Loads 995,594 992,772 
+ 
+ Average length of haul 172 177 
+ 
+ Revenue per truck per week** $ 5,635 $ 5,163 
+ 
+ Average trucks during the period*** 12,658 12,689 
+ 
+ Trucks (end of period) *** 12,744 12,739 
+ 
+ Trailing equipment (end of period) 34,343 32,345 
+ 
+ Average effective trailing equipment usage 35,645 33,027 
+ 
+ 
+ 
+ 
+ 
+ Integrated Capacity Solutions 
+ 
+ 
+ 
+ Loads 156,856 132,315 
+ 
+ Revenue per load $ 2,477 $ 1,967 
+ 
+ Gross profit margin 12.5 % 15.5 % 
+ 
+ Employee count (end of period) 710 560 
+ 
+ 
+ 
+ 
+ 
+ Final Mile Services 
+ 
+ 
+ 
+ Stops 861,905 998,916 
+ 
+ Average trucks during the period*** 1,199 1,317 
+ 
+ 
+ 
+ 
+ 
+ Truckload 
+ 
+ 
+ 
+ Loads 118,714 104,357 
+ 
+ Revenue per load $ 2,019 $ 1,696 
+ 
+ Average length of haul 584 611 
+ 
+ 
+ 
+ Tractors (end of period) 
+ 
+ Company-owned - - 
+ 
+ Independent contractor 1,880 2,041 
+ 
+ Total tractors 1,880 2,041 
+ 
+ 
+ 
+ Trailers (end of period) 12,573 12,785 
+ 
+ Average effective trailing equipment usage 12,190 12,144 
+ 
+ 
+ 
+ * Includes company-owned and independent contractor tractors 
+ ** Using weighted workdays 
+ *** Includes company-owned, independent contractor, and customer-owned trucks 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating Statistics by Segment 
+ 
+ 
+ (unaudited) 
+ 
+ 
+ Six Months Ended June 30 
+ 
+ 2026 2025 
+ 
+ 
+ 
+ Intermodal 
+ 
+ 
+ 
+ Loads 1,114,924 1,046,982 
+ 
+ Average length of haul 1,600 1,645 
+ 
+ Revenue per load $ 2,923 $ 2,777 
+ 
+ Average tractors during the period * 6,198 6,403 
+ 
+ Tractors (end of period) * 6,232 6,363 
+ 
+ Trailing equipment (end of period) 124,199 125,265 
+ 
+ Average effective trailing equipment usage 110,193 105,164 
+ 
+ 
+ 
+ 
+ 
+ Dedicated 
+ 
+ 
+ 
+ Loads 1,937,825 1,935,666 
+ 
+ Average length of haul 172 179 
+ 
+ Revenue per truck per week** $ 5,438 $ 5,146 
+ 
+ Average trucks during the period*** 12,649 12,656 
+ 
+ Trucks (end of period) *** 12,744 12,739 
+ 
+ Trailing equipment (end of period) 34,343 32,345 
+ 
+ Average effective trailing equipment usage 34,497 32,972 
+ 
+ 
+ 
+ 
+ 
+ Integrated Capacity Solutions 
+ 
+ 
+ 
+ Loads 308,675 270,058 
+ 
+ Revenue per load $ 2,304 $ 1,956 
+ 
+ Gross profit margin 12.3 % 15.4 % 
+ 
+ Employee count (end of period) 710 560 
+ 
+ 
+ 
+ 
+ 
+ Final Mile Services 
+ 
+ 
+ 
+ Stops 1,666,641 1,919,260 
+ 
+ Average trucks during the period*** 1,214 1,335 
+ 
+ 
+ 
+ 
+ 
+ Truckload 
+ 
+ 
+ 
+ Loads 232,135 199,500 
+ 
+ Revenue per load $ 1,917 $ 1,722 
+ 
+ Average length of haul 589 616 
+ 
+ 
+ 
+ Tractors (end of period) 
+ 
+ Company-owned - - 
+ 
+ Independent contractor 1,880 2,041 
+ 
+ Total tractors 1,880 2,041 
+ 
+ 
+ 
+ Trailers (end of period) 12,573 12,785 
+ 
+ Average effective trailing equipment usage 12,352 12,120 
+ 
+ 
+ 
+ * Includes company-owned and independent contractor tractors 
+ ** Using weighted workdays 
+ *** Includes company-owned, independent contractor, and customer-owned trucks 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ J.B. HUNT TRANSPORT SERVICES, INC. 
+ 
+ Condensed Consolidated Balance Sheets 
+ 
+ (in thousands) 
+ (unaudited) 
+ 
+ 
+ June 30, 2026 December 31, 2025 
+ 
+ ASSETS 
+ 
+ Current assets: 
+ 
+ Cash and cash equivalents $ 4,162 $ 17,284 
+ 
+ Accounts Receivable, net 1,461,271 1,160,371 
+ 
+ Prepaid expenses and other 347,913 426,535 
+ 
+ Total current assets 1,813,346 1,604,190 
+ 
+ Property and equipment 9,359,388 9,348,370 
+ 
+ Less accumulated depreciation 3,988,837 3,810,269 
+ 
+ Net property and equipment 5,370,551 5,538,101 
+ 
+ Other assets, net 760,881 784,864 
+ 
+ $ 7,944,778 $ 7,927,155 
+ 
+ 
+ 
+ 
+ 
+ LIABILITIES & STOCKHOLDERS' EQUITY 
+ 
+ Current liabilities: 
+ 
+ Current debt $ - $ 699,859 
+ 
+ Trade accounts payable 792,348 655,604 
+ 
+ Claims accruals 322,235 310,339 
+ 
+ Accrued payroll 153,185 110,388 
+ 
+ Other accrued expenses 176,895 159,153 
+ 
+ Total current liabilities 1,444,663 1,935,343 
+ 
+ 
+ 
+ Long-term debt 1,145,337 766,938 
+ 
+ Long-term claims accruals 487,457 444,479 
+ 
+ Other long-term liabilities 298,697 307,005 
+ 
+ Deferred income taxes 911,509 908,305 
+ 
+ Stockholders' equity 3,657,115 3,565,085 
+ 
+ $ 7,944,778 $ 7,927,155 
+ 
+ 
+ 
+ 
+ Supplemental Data 
+ 
+ (unaudited) 
+ 
+ 
+ June 30, 2026 December 31, 2025 
+ 
+ 
+ 
+ Actual shares outstanding at end of period (000) 93,915 94,595 
+ 
+ 
+ 
+ Book value per actual share outstanding at end of period $ 38.94 $ 37.69 
+ 
+ 
+ 
+ 
+ 
+ 
+ Six Months Ended June 30 
+ 
+ 2026 2025 
+ 
+ 
+ 
+ Net cash provided by operating activities (000) $ 723,266 $ 806,245 
+ 
+ 
+ 
+ Net capital expenditures (000) $ 144,947 $ 399,079
