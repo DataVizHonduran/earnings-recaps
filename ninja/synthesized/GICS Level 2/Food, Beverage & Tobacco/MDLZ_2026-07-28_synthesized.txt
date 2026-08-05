@@ -1,0 +1,22 @@
+Ticker: MDLZ
+Source: MDLZ_2026-07-28.txt
+Generated: 2026-08-05 16:08 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Mondelez International (MDLZ)**
+
+**1. Demand & Activity**
+Demand is showing moderate growth overall, though performance is bifurcated by geography. Emerging Markets are experiencing robust expansion, particularly in Latin America and Asia/Middle East/Africa. North American demand remains stable with modest growth. Conversely, demand in Europe is softening, though management notes "early positive trends" in market share ("continued strength across our Emerging Markets," "strong growth... in our North America business," "In Europe, share dynamics are showing early positive trends").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company continues to exercise moderate pricing power to offset persistent input cost pressures. While higher net pricing has supported revenue, these gains are being partially offset by higher raw material costs and geopolitical disruptions. Some relief is being found through internal productivity gains in manufacturing ("driven primarily by higher net pricing and lower manufacturing costs driven by productivity, partially offset by higher raw material costs").
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory levels; however, it notes that operations are currently impacted by "incremental costs due to geopolitical conflicts" ("incremental costs due to geopolitical conflicts").
+
+**5. Capital Spending (Capex)**
+The company is currently investing in digital infrastructure, specifically citing ongoing expenditures for a large-scale systems upgrade ("higher costs incurred for the ERP System Implementation program"). Future outlook is framed by "greater than usual volatility" regarding trade and commodity prices, though specific new facility capacity plans were not detailed.

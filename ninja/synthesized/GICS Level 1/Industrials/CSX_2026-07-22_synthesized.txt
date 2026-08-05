@@ -1,0 +1,22 @@
+Ticker: CSX
+Source: CSX_2026-07-22.txt
+Generated: 2026-08-05 16:04 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: CSX (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is growing robustly, with total volume increasing 6% year-over-year ("Total volume of 1.68 million units for the quarter was 6% higher"). Growth is described as broad-based across markets, though particularly strong in the intermodal sector, which saw a 9% increase ("broad-based growth across markets led by 9% intermodal growth").
+
+**2. Labor & Wages**
+The report does not provide specific data on wage inflation or hiring difficulties, but notes that the workforce successfully absorbed the increase in activity ("Our railroaders successfully managed substantial volume growth").
+
+**3. Pricing Power & Inflation**
+The company is exercising moderate pricing power, reporting revenue gains driven by higher rates across multiple segments ("higher volume and pricing across merchandise, intermodal, and coal"). Additionally, the company is successfully passing through energy costs via fuel surcharges ("increased fuel surcharge revenue").
+
+**4. Supply Chain & Inventory**
+No specific commentary was provided regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+The provided text does not list specific dollar amounts or new project announcements for capital expenditures.

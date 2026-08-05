@@ -1,0 +1,22 @@
+Ticker: JBHT
+Source: JBHT_2026-07-15.txt
+Generated: 2026-08-05 16:05 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: JB Hunt (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is showing robust growth across most core segments, though it remains uneven. Intermodal volume increased 10%, with a strong performance in the Eastern network ("Eastern network loads increased 16%"). Integrated Capacity Solutions (ICS) saw a robust 19% volume increase, and Truckload (JBT) load volume rose 14%. Conversely, Final Mile Services (FMS) experienced softening activity, with a 14% decline in stops ("partially offset by a 14% decline in Final Mile Services (FMS) stops").
+
+**2. Labor & Wages**
+The company reports persistent pressure regarding driver availability, which is driving customers toward alternative modes ("constrained driver and capacity availability in other transportation modes"). There is evidence of rising labor costs, specifically noted as "higher professional driver personnel expense."
+
+**3. Pricing Power & Inflation**
+Pricing power appears moderate to robust. The company achieved higher revenue per load across Intermodal, ICS, and Truckload segments. ICS saw a significant 26% increase in revenue per load ("higher rates across both contractual and transactional volume"). However, these gains are being partially offset by inflationary pressures in third-party costs, specifically "higher purchase transportation cost, particularly in our ICS and JBT segments."
+
+**4. Supply Chain & Inventory**
+While specific inventory levels were not detailed, the company reports improved operational velocity and network balance, noting that "trailer turns in the quarter improved 13%... due to improved network balance and velocity."
+
+**5. Capital Spending (Capex)**
+Capital investment has slowed significantly. Net capital expenditures for the first half of 2026 were approximately $144.9 million, a modest fraction of the $399.1 million spent during the same period in 2025 ("net capital expenditures... approximated $144.9 million compared to $399.1 million"). Management continues to emphasize "discipline around returns on our capital."

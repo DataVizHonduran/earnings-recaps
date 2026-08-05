@@ -1,0 +1,22 @@
+Ticker: CBRE
+Source: CBRE_2026-07-29.txt
+Generated: 2026-08-05 16:02 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: CBRE Group, Inc. (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is **robust** and balanced across most business lines. Global leasing revenue grew 24%, with the U.S. market led by "office and industrial" ("The U.S. was also up 24% led by office and industrial"). Activity in EMEA was "especially strong" in France, Germany, and Spain ("EMEA saw leasing revenue rise 27%... with especially strong growth in France, Germany and Spain"). Demand for critical infrastructure is **robust**, specifically within data centers ("Revenue from critical infrastructure services increased 68%... driven by growth in data center solutions"). Project management saw "solid infrastructure activity" in the U.K., Europe, and the Middle East.
+
+**2. Labor & Wages**
+The report does not explicitly detail hiring difficulties or turnover; however, there is evidence of **moderate** upward pressure on compensation linked to performance ("Core corporate operating loss increased... primarily driven by higher incentive compensation related to the company’s strong performance").
+
+**3. Pricing Power & Inflation**
+The company demonstrates **robust** pricing power and operating leverage, with segment operating profits growing faster than revenue across all major divisions ("Each of our segments... grew Segment Operating Profit by more than 25%"). There is no mention of input cost relief or persistent commodity inflation.
+
+**4. Supply Chain & Inventory**
+Not applicable. The company provides professional services and does not maintain a physical goods inventory or report on supply chain lead times.
+
+**5. Capital Spending (Capex)**
+Capital expenditures have increased **moderately**, rising 54.1% year-over-year to $114 million ("Less Capital expenditures 114 [vs] 74"). Management indicates that investments are being "productively directed" toward growth areas ("Resources and investments are being productively directed into areas that drive current growth").

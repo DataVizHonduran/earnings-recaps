@@ -1,0 +1,22 @@
+Ticker: DOV
+Source: DOV_2026-07-23.txt
+Generated: 2026-08-05 16:04 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Dover Corp (DOV)**
+
+**1. Demand & Activity**
+Demand is robust and broad-based, with all five operating segments delivering positive organic growth. Activity is particularly strong in "secular-growth-exposed markets," which now comprise approximately 25% of the portfolio ("led by our secular-growth-exposed markets"). Order momentum is exceptional, with bookings growing in the double digits and outpacing shipments ("Bookings outpaced shipments and grew double digits in the quarter").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is experiencing persistent input cost inflation, though it possesses sufficient pricing power and operational efficiency to mitigate these pressures. Management notes that operational execution on higher volumes "more than offset input cost inflation" ("continued operational execution on incremental volumes more than offset input cost inflation").
+
+**4. Supply Chain & Inventory**
+While the report does not provide specific lead-time data, the "underlying strength of our order book" is cited as a primary driver for improved visibility into the second half of the year. The company lists "supply chain constraints and labor shortages" as general risk factors in its forward-looking statements, though no current disruptions were highlighted in the management commentary.
+
+**5. Capital Spending (Capex)**
+Capex activity is moderate to robust, focused on expanding capacity and improving efficiency. The company is actively advancing "capacity-expansion projects to support growth and productivity investments to drive margins across the portfolio." Additionally, management noted that "Industrial M&A markets have improved this year," indicating an openness to inorganic expansion.

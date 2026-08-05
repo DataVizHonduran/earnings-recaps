@@ -1,0 +1,22 @@
+Ticker: VLTO
+Source: VLTO_2026-07-28.txt
+Generated: 2026-08-05 16:10 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Veralto Corp (VLTO)**
+
+**1. Demand & Activity**
+Demand is showing moderate growth with sequential acceleration. Water Quality is seeing robust demand in industrial treatment, reuse initiatives, and environmental monitoring ("benefit from strong demand across industrial water treatment, water reuse initiatives and environmental water monitoring workflows"). Demand from municipal customers and PQI marking/coding solutions remains stable ("remains steady"). Digital workflow solutions in packaging and color are experiencing strong underlying growth, with expectations for meaningful acceleration in the second half of the year ("expect PQI core sales growth to accelerate meaningfully in the second half").
+
+**2. Labor & Wages**
+Not addressed. The transcript provides no specific data regarding hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is seeing modest margin expansion, though specific pricing actions were not detailed. A notable one-time positive impact on earnings resulted from the recovery of previous tariffs ("benefits from recoveries of tariffs previously collected under the International Emergency Economic Powers Act (IEEPA)").
+
+**4. Supply Chain & Inventory**
+Not addressed. The transcript contains no mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment is focused on inorganic growth through strategic acquisitions to expand the portfolio ("advance long-term value creation through strategic bolt-on acquisitions - including In-Situ, GlobalVision and, most recently, Alfaa UV"). The company reports robust cash generation to support these disciplined capital allocation efforts ("Supported by a strong balance sheet and robust cash generation").

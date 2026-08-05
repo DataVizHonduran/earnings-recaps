@@ -1,0 +1,22 @@
+Ticker: CL
+Source: CL_2026-07-31.txt
+Generated: 2026-08-05 16:03 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Colgate-Palmolive (CL)**
+
+**1. Demand & Activity**
+Demand is showing modest growth globally, though performance is geographically fragmented. Total organic volume growth improved sequentially for the third consecutive quarter ("worldwide organic volume growth improving sequentially for the third consecutive quarter"). Activity is robust in Latin America (organic volume +2.6%) and Asia Pacific (+4.1%), while North American demand is softening significantly (organic volume -3.9%). Pet nutrition volume also saw a slight decline (-1.8%).
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, wage pressures, or headcount adjustments.
+
+**3. Pricing Power & Inflation**
+The company maintains moderate pricing power, contributing to a total company pricing increase of 1.6%. This is most pronounced in Latin America (+2.8%) and Hill's Pet Nutrition (+3.9%), while Europe, Middle East, and Africa saw a slight pricing decrease (-1.2%). Gross profit margins increased by 140 basis points to 61.5%, suggesting a stabilization or reduction in input cost pressures relative to pricing.
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific data regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment is focused on demand generation and brand health rather than physical capacity. The company reported a robust increase in advertising spend ("15% increase in advertising this quarter") and indicated that "strong levels of investment will continue in the back half of the year" to support its 2030 strategy focused on premium innovation and omni-channel growth.
