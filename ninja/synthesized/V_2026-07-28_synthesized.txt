@@ -1,0 +1,22 @@
+Ticker: V
+Source: V_2026-07-28.txt
+Generated: 2026-08-05 16:11 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Visa Inc. (Q3 2026)**
+
+**1. Demand & Activity**
+Demand remains robust, characterized by resilient consumer and business spending ("Consumer and business spending remains resilient"). Activity showed strong growth across all primary metrics: payments volume increased 10% on a constant-dollar basis, and processed transactions rose 10% ("Growth in payments volume, cross-border volume and processed transactions was strong"). International activity was particularly robust, with total cross-border volume increasing 13% and cross-border volume excluding intra-Europe increasing 12% ("Cross-border volume excluding transactions within Europe... increased 12% on a constant-dollar basis").
+
+**2. Labor & Wages**
+The company is experiencing moderate upward pressure on labor costs. Operating expenses rose 19% year-over-year, a trend primarily attributed to higher spending on staff ("primarily driven by an increase in personnel expenses"). Non-GAAP operating expenses also saw a 17% increase, further citing "increases in marketing and personnel expenses."
+
+**3. Pricing Power & Inflation**
+While specific price-list increases were not detailed, the company demonstrates strong revenue capture from increased volume and value-added services. Net revenue grew 14% ("Net revenue of $11.6B, an increase of 14%"), and "Other revenue" saw a robust increase of 45%, suggesting successful monetization of diversified service offerings.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a digital payments network, the company does not report physical supply chain or inventory constraints.
+
+**5. Capital Spending (Capex)**
+Visa is maintaining a moderate to robust pace of investment in technology and product development to maintain its competitive position. The company is focusing on increasing the speed of its innovation cycle ("designing, building and shipping products at an increased velocity") to capture future growth opportunities.

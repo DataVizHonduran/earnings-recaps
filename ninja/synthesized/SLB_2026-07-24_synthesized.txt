@@ -1,0 +1,22 @@
+Ticker: SLB
+Source: SLB_2026-07-24.txt
+Generated: 2026-08-05 16:10 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: SLB (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is showing **moderate** sequential growth, though it remains bifurcated by geography and product line. Activity is expanding in international offshore markets (Latin America, Europe & Africa, and Asia) and U.S. unconventionals ("broad-based sequential growth across international markets... a rebound in U.S. unconventionals"). Conversely, activity in the Middle East is **softening** due to "continued disruptions." Product-specific demand is **robust** for Digital and Production Systems, with a notable acceleration in Data Center Solutions, which grew 63% year-on-year ("Data Center Solutions business maintained its strong growth trajectory").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price hikes or input cost relief. However, there is evidence of **moderate** margin compression on a year-over-year basis, with the pretax segment operating margin declining from 18.5% to 15.6% ("Pretax segment operating margin... -289 bps" year-on-year).
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific data regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for internal Capex are not listed, the company is aggressively expanding its capacity in digital infrastructure and modular manufacturing to support hyperscaler customers ("strength of SLB’s modular and scalable off-site manufacturing and engineering capabilities"). The company is scaling its Data Center Solutions business with an expected annualized revenue run rate exceeding $2 billion by the end of 2027 ("expect to surpass $2 billion annualized revenue run rate as we exit 2027").

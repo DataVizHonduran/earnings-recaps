@@ -1,0 +1,17 @@
+Ticker: NCLH
+Source: NCLH_2026-07-30.txt
+Generated: 2026-08-05 16:10 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: NCLH**
+
+**Demand & Activity:** Demand is softening, particularly within the Norwegian Cruise Line brand. The company reports being "below its optimal booked position for the next 12 months" due to "Company-specific execution challenges" and the "ongoing conflict in the Middle East." Management expects a modest improvement in Caribbean itinerary demand following the September opening of new private island amenities ("which we expect will improve demand to Caribbean itineraries over time").
+
+**Labor & Wages:** The company is focused on headcount and organizational efficiency. Management noted the "addition of key leadership within marketing, revenue management and other key areas" to address execution challenges, while simultaneously achieving "salary and benefit savings" as part of a broader cost-reduction strategy.
+
+**Pricing Power & Inflation:** Pricing power is currently weak, with net yields declining. Full-year 2026 Net Yield is expected to be "down approximately 5% versus 2025." Input costs are mixed; while the company is seeing "meaningful cost efficiencies" and "annualized run-rate savings" of $100 million, energy costs have risen, with fuel price per metric ton increasing to "$888 from $659 in 2025."
+
+**Supply Chain & Inventory:** Not explicitly discussed; however, the company is optimizing its asset base, evidenced by the "memorandum of agreement in July 2026 for the sale of Oceania Sirena."
+
+**Capital Spending (Capex):** Capex is being moderated to drive efficiency, with a portion of the $100 million in new annualized savings coming "primarily from capital expenditures and SG&A." Recent investment focused on destination capacity, specifically the "grand opening of Great Tides Waterpark" to drive future demand.
