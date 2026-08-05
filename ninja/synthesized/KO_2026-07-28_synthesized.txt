@@ -1,0 +1,22 @@
+Ticker: KO
+Source: KO_2026-07-28.txt
+Generated: 2026-08-05 16:08 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Coca-Cola (KO)**
+
+**1. Demand & Activity**
+Demand is **robust**, with consolidated unit case volume growing 5% ("Unit case volume grew 5%"). Growth is broad-based but varies by region: Asia Pacific saw the strongest volume expansion at 8% ("Asia Pacific Unit case volume grew 8%"), while North America and Latin America saw modest growth of 3%. Product-specific demand is strong for zero-sugar options ("Coca-Cola Zero Sugar grew 16%") and sports drinks ("Sports drinks grew 5%"), though coffee demand is softening ("Coffee declined 2%, primarily driven by a decline in Asia Pacific").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company maintains **moderate** pricing power, with a consolidated price mix increase of 2% ("Price mix grew 2%, primarily driven by pricing actions in the marketplace"). This was most pronounced in North America ("Price mix grew 4%"). However, pricing is being offset by "affordability initiatives" in Asia Pacific, where price mix declined 9%. Regarding inflation, the company is facing persistent pressure from "higher input costs" which partially offset operating margin expansion across multiple segments.
+
+**4. Supply Chain & Inventory**
+The report does not explicitly detail lead times or inventory levels, though it notes that concentrate sales lagged unit case volume due to "the timing of concentrate shipments," suggesting minor fluctuations in shipment synchronization.
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for facilities are not listed, the company is investing in "innovation hubs across each of its operating units" to accelerate the deployment of locally relevant products ("establishing innovation hubs... to translate consumer insights into locally relevant innovations"). There is also a noted increase in "marketing investments" to drive long-term growth.

@@ -1,0 +1,22 @@
+Ticker: DVA
+Source: DVA_2026-08-04.txt
+Generated: 2026-08-05 16:04 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: DaVita Inc. (DVA)**
+
+**1. Demand & Activity**
+Demand for dialysis services is growing modestly. Total U.S. treatments increased by 1.09% on a per-day basis compared to the previous quarter ("representing a per day increase of 1.09% compared to the first quarter of 2026"), while normalized non-acquired treatment growth remained slight at 0.3% year-over-year ("Normalized non-acquired treatment growth... was 0.3%").
+
+**2. Labor & Wages**
+Labor costs are exerting persistent upward pressure. Year-to-date patient care costs were driven primarily by "increased compensation expenses" ("The year to date change was primarily driven by increased compensation expenses"), and general and administrative expenses also rose due to "compensation expenses" ("The year to date change was primarily driven by increases in IT-related costs and compensation expenses").
+
+**3. Pricing Power & Inflation**
+The company is experiencing moderate pricing power through annual rate adjustments, though this is partially offset by shifts in the patient base. Year-to-date revenue growth was supported by "typical annual increases, including Medicare base rate" ("The year to date change was driven by typical annual increases, including Medicare base rate"). On the input side, there was slight relief in specific categories this quarter, as patient care costs decreased due to "decreases in payroll taxes and pharmaceutical costs" ("The quarter change was primarily due to decreases in payroll taxes and pharmaceutical costs").
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific data on current lead times or inventory levels, though the company notes that "availability or cost of supplies" and "disruptions experienced by third party vendors" remain general risk factors in its forward-looking statements.
+
+**5. Capital Spending (Capex)**
+Specific facility or technology spend figures were not disclosed; however, the company indicated a strategic focus on "new innovations in kidney dialysis" ("maintain our strategic focus on exciting new innovations in kidney dialysis"). Additionally, the company increased its liquidity via a $500 million Term Loan B-2 tranche for "general corporate purposes" ("The remaining borrowings added cash to the balance sheet for general corporate purposes").

@@ -1,0 +1,22 @@
+Ticker: INCY
+Source: INCY_2026-07-28.txt
+Generated: 2026-08-05 16:05 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Incyte Corp (INCY)**
+
+**1. Demand & Activity**
+Demand is robust and broad-based across the commercial portfolio. Total net sales grew 40% year-over-year, driven by "increased demand across marketed products" ("increased demand across marketed products, including continued demand for Jakafi... Opzelura... Niktimvo... Monjuvi... and Zynyz"). Growth is particularly strong in the Hematology and Oncology portfolio, which saw a 69% increase in net sales ("Hematology and Oncology portfolio net sales of $222 million, an increase of 69%").
+
+**2. Labor & Wages**
+Not addressed. The transcript contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is experiencing a moderate improvement in net realizations for specific products due to regulatory settlements. Specifically, Opzelura is seeing an "improved gross-to-net (GTN) profile on a go-forward basis" ("effects of an improved gross-to-net (GTN) profile on a go-forward basis"). There are no mentions of input cost inflation or commodity pressures.
+
+**4. Supply Chain & Inventory**
+Not addressed. The transcript contains no data regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment in technology and pipeline capacity is expanding. The company is increasing its R&D and SG&A guidance to accommodate the acquisition of Vega Therapeutics, including a significant one-time IPR&D expense of approximately $1.27 billion ("IPR D expense of approximately $1,270 million expected in the third quarter 2026") and "incremental ongoing R D investments" of $50 million for the development of latarcibart.

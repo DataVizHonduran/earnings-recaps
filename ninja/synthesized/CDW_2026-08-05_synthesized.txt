@@ -1,0 +1,24 @@
+Ticker: CDW
+Source: CDW_2026-08-05.txt
+Generated: 2026-08-05 16:02 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: CDW Corp (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is **robust**, characterized by double-digit net sales growth of 10.0% ("Net sales in the second quarter of 2026 were $6,572 million... an increase of 10.0 percent"). Activity is driven by infrastructure modernization and AI scaling ("customers advanced investments in infrastructure modernization, cloud, and AI-enabled technologies"). 
+*   **Product Variance:** Strong growth in data storage, servers, notebooks, mobile devices, software, and netcomm ("Customer demand drove Net sales growth primarily in data storage and servers...").
+*   **Geographic/Segment Variance:** Growth was **robust** in the UK and Canada (+22.9%) and the Government segment (+13.6%), while Education demand remained **stable** ("Education segment Net sales... 0.7 percent higher than 2025").
+
+**2. Labor & Wages**
+Labor costs are experiencing **moderate** upward pressure. The company reported an 8.6% increase in selling and administrative expenses, attributed largely to payroll ("increase was primarily due to higher compensation expense, including performance-based incentives").
+
+**3. Pricing Power & Inflation**
+Pricing power appears **softening** or constrained by product mix. Gross profit margins declined from 20.8% to 20.1% ("decrease in Gross profit margin was primarily driven by mix into and lower margin in certain hardware categories"). There is no specific mention of input cost relief or inflationary pressure on freight/energy.
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific updates regarding current lead times or inventory levels, though it notes general "exposure to accounts receivable and inventory risks" as a standard forward-looking risk factor.
+
+**5. Capital Spending (Capex)**
+Capex plans are focused on **moderate** operational efficiency and strategic growth ("focus on balancing growth investments with operational efficiency while maintaining a disciplined approach to working capital and capital allocation"). Specific facility or technology spend figures were not disclosed.
