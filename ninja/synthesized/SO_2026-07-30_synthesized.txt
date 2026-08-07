@@ -1,0 +1,31 @@
+Ticker: SO
+Source: SO_2026-07-30.txt
+Generated: 2026-08-07 15:00 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Southern Company (SO)**
+
+**1. Demand & Activity**
+Demand is experiencing robust growth, particularly across the Southeast. This is driven by strong economic development and a significant increase in power requirements from large-scale users.
+*   **Signal:** Robust growth ("extraordinary economic development momentum and demand for power continue to create meaningful opportunities").
+*   **Drivers:** High demand from "data centers and other large load customers."
+
+**2. Labor & Wages**
+The company identifies labor as a potential risk factor to project timelines and budgets, though no specific current headcount reductions or wage figures were reported.
+*   **Signal:** Moderate risk/uncertainty ("challenges which include, but are not limited to, changes in labor costs, availability, and productivity").
+
+**3. Pricing Power & Inflation**
+The company is focused on maintaining "rate stability" for customers while managing headwinds from interest rates and global trade policies.
+*   **Signal:** Stable pricing focus ("keeping reliability and rate stability at the center of our work").
+*   **Pressures:** Persistent pressure from "increased financing costs as a result of changes in interest rates" and "the impacts of inflation and trade policies (including tariffs)."
+
+**4. Supply Chain & Inventory**
+The company notes ongoing vulnerabilities regarding the procurement of materials and the performance of third-party vendors.
+*   **Signal:** Softening/Unstable ("shortages, delays, increased costs, or inconsistent quality of equipment, materials, and labor").
+*   **Vendor Risk:** Mentions "challenges with the management of contractors or vendors" and "subcontractor performance."
+
+**5. Capital Spending (Capex)**
+Capex is robust and focused on long-term capacity expansion to meet the aforementioned demand growth.
+*   **Signal:** Robust investment ("investing responsibly and planning for the long term to serve new and existing customers").
+*   **Focus:** Substantial requirements for "new generation and transmission investments" to support large load customers.

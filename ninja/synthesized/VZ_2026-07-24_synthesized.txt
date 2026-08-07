@@ -1,0 +1,22 @@
+Ticker: VZ
+Source: VZ_2026-07-24.txt
+Generated: 2026-08-07 15:01 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Verizon (VZ)**
+
+**1. Demand & Activity**
+Demand for core connectivity is showing **moderate** growth. Mobility and broadband service revenue increased 2.8% year-over-year ("Mobility and broadband service revenue grew by 2.8 percent"), with expectations for this to accelerate to 4.0% by Q4. Broadband activity is **robust**, with net additions increasing 12.3% year-over-year ("delivered 348,000 broadband net additions... a year-over-year increase of 12.3 percent"). However, demand for hardware is **softening** as consumers extend device lifecycles ("decline resulted primarily from significantly lower upgrade volumes, as the average time customers keep their mobile devices continues to increase").
+
+**2. Labor & Wages**
+The company is undergoing **moderate** headcount reductions and organizational restructuring, as evidenced by the reporting of "severance charges of $397 million."
+
+**3. Pricing Power & Inflation**
+Verizon is demonstrating **stable** pricing power by shifting away from subsidies toward value-based retention ("earning long-term retention based on real value rather than subsidized promotions"). The company is seeing **moderate** relief in customer acquisition and retention costs ("achieving a step-change in churn reduction while lowering our customer acquisition and retention costs").
+
+**4. Supply Chain & Inventory**
+Not explicitly addressed; however, the decline in equipment revenue suggests a strategic shift toward leaner device subsidies rather than supply chain constraints.
+
+**5. Capital Spending (Capex)**
+Investment remains **robust** and targeted toward infrastructure. The company reported $8.2 billion in Capex through Q2 ("continues to invest strategically for network excellence") and has projected full-year capital expenditures between $16.0 billion and $16.5 billion ("Capital expenditures of $16.0 billion to $16.5 billion").
