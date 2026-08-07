@@ -1,0 +1,22 @@
+Ticker: INVH
+Source: INVH_2026-07-29.txt
+Generated: 2026-08-07 14:59 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Invitation Homes (INVH)**
+
+**1. Demand & Activity**
+Demand for single-family rentals remains robust, supported by a significant affordability gap between renting and owning ("leasing a home now costs an average of over $1,000 less per month than owning"). While Same Store Average Occupancy saw a slight reduction of 20 basis points to 97.1% ("an expected reduction of 20 basis points year over year"), new lease rent growth showed positive momentum, accelerating monthly through June.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company continues to exercise moderate pricing power, reporting Same Store blended rent growth of 2.7% ("Same Store renewal rent growth of 3.3% and Same Store new lease rent growth of 1.1%"). Inflationary pressures are mixed; while there was a modest increase in fixed expenses of 3.5%, this was partially offset by a 1.0% decrease in controllable expenses ("primarily attributable to a 3.5% increase in fixed expenses, partially offset by a 1.0% decrease in controllable expenses").
+
+**4. Supply Chain & Inventory**
+Not applicable. The company is currently in a net-disposition phase, selling more homes than it is acquiring to capitalize on high private market valuations ("disposed of 657 wholly owned homes... and acquired 196 wholly owned homes").
+
+**5. Capital Spending (Capex)**
+The company is prioritizing debt management and liquidity over aggressive capacity expansion. Recent capital activity focused on refinancing secured debt via a $500 million public offering of senior notes ("net proceeds used to prepay a portion of our $988 million secured debt obligation"). No new large-scale facility or technology investments were detailed.

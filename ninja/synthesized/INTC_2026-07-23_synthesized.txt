@@ -1,0 +1,22 @@
+Ticker: INTC
+Source: INTC_2026-07-23.txt
+Generated: 2026-08-07 14:59 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Intel Corp (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is robust, driven primarily by AI infrastructure. Total revenue grew 25% YoY, marking the "strongest revenue growth in more than fifteen years" ("Our Q2 results represent our strongest revenue growth in more than fifteen years"). Growth is most pronounced in the Data Center and AI (DCAI) segment, which saw a robust increase of 59% ("Data Center and AI (DCAI) 6.3 billion up 59%"), while Client Computing (CCPG) grew at a moderate pace of 13% ("Client Computing and Physical AI Group (CCPG) $8.9 billion up 13%").
+
+**2. Labor & Wages**
+The report does not provide specific data on wage inflation or hiring difficulties; however, it notes a strategic reorganization of the leadership team to align with "innovation and execution priorities" ("These appointments further align Intel’s product, technology, manufacturing, and culture organizations").
+
+**3. Pricing Power & Inflation**
+While specific pricing actions are not detailed, the company reports a significant expansion in gross margins, rising from 27.5% to 40.4% YoY ("Gross margin 40.4% 27.5% up 12.9 ppts"). This improvement is attributed to "improved execution" and "higher factory yields" ("volume upside driven by higher factory yields and improved cycle times").
+
+**4. Supply Chain & Inventory**
+Supply chain efficiency is improving, evidenced by "improved cycle times" ("volume upside driven by higher factory yields and improved cycle times"). There are no mentions of bloated inventories or critical lead-time constraints.
+
+**5. Capital Spending (Capex)**
+Capex is increasing robustly to support AI-driven growth. The company is "meaningfully increasing" investments in "equipment, clean room space, and substrates" ("to support expected growth this year and next... we are meaningfully increasing our investments"). Specifically, Intel announced a $5 billion investment to expand manufacturing capacity for Xeon processors ("announced a 5 billion investment to expand manufacturing capacity").

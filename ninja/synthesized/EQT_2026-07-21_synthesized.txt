@@ -1,0 +1,22 @@
+Ticker: EQT
+Source: EQT_2026-07-21.txt
+Generated: 2026-08-07 14:58 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: EQT Corp (Q2 2026)**
+
+**1. Demand & Activity**
+Regional demand is showing robust growth, particularly driven by power generation and data center development in the Appalachia region ("next wave of natural gas demand growth is emerging in our backyard"). The company is securing long-term offtake agreements to capture this growth, including a 10-year deal for a West Virginia power facility and a 5-year LNG agreement with an Asian energy firm ("As power generators and data center developers increasingly look to secure reliable, long-term energy supply, EQT has become the partner of choice").
+
+**2. Labor & Wages**
+Not addressed.
+
+**3. Pricing Power & Inflation**
+The company is leveraging strategic contracts to achieve pricing premiums over standard benchmarks ("providing a substantial uplift relative to in-basin pricing"). While average realized prices saw a slight decline year-over-year, per-unit operating costs have softened, falling to $1.03 per Mcfe from $1.08 in 2025 ("driven by lower-than-expected SG A, transmission and LOE expenses").
+
+**4. Supply Chain & Inventory**
+Not addressed.
+
+**5. Capital Spending (Capex)**
+Capex is trending lower due to operational efficiencies and reduced infrastructure needs ("Capital Expenditures $666 million, 9% below the low-end of guidance"). Full-year 2026 capital spending guidance was reduced by $25 million. However, the company is selectively accelerating specific investments to de-risk projects, such as electing to "accelerate $85 million of capital contributions" for the MVP Southgate pipeline to ensure completion by year-end 2026.
