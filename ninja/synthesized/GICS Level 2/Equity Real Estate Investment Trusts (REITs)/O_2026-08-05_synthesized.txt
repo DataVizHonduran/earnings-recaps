@@ -1,0 +1,22 @@
+Ticker: O
+Source: O_2026-08-05.txt
+Generated: 2026-08-07 15:00 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Realty Income Corp (O)**
+
+**1. Demand & Activity**
+Demand remains stable to robust, characterized by high portfolio occupancy of 98.8% ("portfolio occupancy was 98.8%"). There is a notable strategic shift toward industrial and data center activity; recent quarterly investments were heavily weighted toward industrial assets at 65.0% of cash income ("34.0% retail, 65.0% industrial"). The company is actively pursuing new growth channels, specifically through a "recently announced $6 billion hyperscale data center joint venture."
+
+**2. Labor & Wages**
+Not addressed.
+
+**3. Pricing Power & Inflation**
+The company demonstrates modest pricing power through positive rent recapture. On re-leased units, the company achieved a rent recapture rate of 102.7% for the quarter ("representing a rent recapture rate of 102.7% on the re-leased units"), indicating the ability to raise rents slightly above previous levels upon lease expiration. Same-store rental revenue saw a modest increase of 1.2% ("Same Store Rental Revenue... % Increase... 1.2%").
+
+**4. Supply Chain & Inventory**
+Not applicable.
+
+**5. Capital Spending (Capex)**
+Investment activity is robust. The company invested $2.6 billion in the quarter ("Invested $2.6 billion our Pro-Rata Share was $2.1 billion"). Future spending is directed toward capacity expansion in the U.S. and Europe, as well as technology-driven infrastructure via the "Realty Income Investment Management platform" and the aforementioned hyperscale data center venture.

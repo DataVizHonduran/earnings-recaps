@@ -1,0 +1,22 @@
+Ticker: SBAC
+Source: SBAC_2026-08-03.txt
+Generated: 2026-08-07 15:00 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: SBA Communications (SBAC)**
+
+**1. Demand & Activity**
+Demand is stable in the U.S. and growing robustly in international markets. Domestic carrier activity is characterized as "steady," driven by site upgrades and new colocations ("Carrier activity remained steady, with our customers both upgrading sites and expanding their networks"). Conversely, there is a moderate increase in activity in Central America, specifically regarding new tower construction for Millicom ("increased new tower construction as we ramped up efforts in Central America... expect to continue seeing this production grow steadily").
+
+**2. Labor & Wages**
+No mentions of labor trends, hiring difficulties, or wage pressures were provided in the text.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail pricing adjustments or input cost inflation. However, the company experienced a modest increase in net cash interest expense, rising 9.5% year-over-year ("Net cash interest expense... $122.1 [million]... Q2 2025 $111.5 [million]").
+
+**4. Supply Chain & Inventory**
+No specific commentary on lead times or inventory levels was provided.
+
+**5. Capital Spending (Capex)**
+Capex activity remains moderate and focused on expansion. Total cash capital expenditures for Q2 were $91.2 million, with the vast majority being discretionary investments in new builds, augmentations, and acquisitions ("$75.4 million of discretionary cash capital expenditures"). The company continues to invest in portfolio growth, having built 109 towers in the quarter and entered contracts for 58 additional sites ("purchased or is under contract to purchase 58 communication sites").

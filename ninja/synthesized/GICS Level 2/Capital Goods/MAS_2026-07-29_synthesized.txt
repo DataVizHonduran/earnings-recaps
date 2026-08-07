@@ -1,0 +1,29 @@
+Ticker: MAS
+Source: MAS_2026-07-29.txt
+Generated: 2026-08-07 14:59 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Masco Corp (MAS)**
+
+**1. Demand & Activity**
+Demand is softening overall, with a notable geographic divergence. North American sales saw a modest decline, while international activity grew. Product-line demand is slightly down across the board.
+*   **North America:** Modest decline ("North American sales decreased 5 percent").
+*   **International:** Modest growth ("International sales increased 4 percent").
+*   **Product Lines:** Softening ("Plumbing Products net sales decreased 3 percent Decorative Architectural Products net sales decreased 4 percent").
+
+**2. Labor & Wages**
+The provided text contains no specific data regarding current hiring, turnover, or wage trends, though the company lists the "ability to attract, develop and retain a talented workforce" as a general risk factor.
+
+**3. Pricing Power & Inflation**
+The company is experiencing robust margin expansion, driven significantly by a one-time regulatory windfall rather than organic pricing power.
+*   **Input Costs/Margins:** Robust improvement in gross margins ("Gross margin increased 600 basis points to 43.6 percent").
+*   **External Factors:** Significant relief from tariff recoveries ("recognized a net benefit of approximately $95 million from IEEPA tariff refunds").
+
+**4. Supply Chain & Inventory**
+The report does not provide specific updates on lead times or current inventory volumes. It notes general reliance on "the cost and availability of materials" and "dependence on suppliers" as ongoing risk factors.
+
+**5. Capital Spending (Capex)**
+The company is maintaining a disciplined approach to spending, focusing on strategic growth and operational efficiency.
+*   **Investment Focus:** Moderate investment in growth initiatives ("targeted strategic investments to support growth").
+*   **Operational Focus:** Emphasis on "enhancing operational excellence" and "expanding our commercial capabilities."

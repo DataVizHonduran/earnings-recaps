@@ -1,0 +1,22 @@
+Ticker: CARR
+Source: CARR_2026-07-28.txt
+Generated: 2026-08-07 14:58 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Carrier Global Corp (CARR)**
+
+**1. Demand & Activity**
+Demand is showing robust growth overall, characterized by a significant surge in specialized infrastructure and a modest recovery in residential sectors. Total company orders rose 40% ("Total company orders up 40%"), driven by an exceptional spike in data center demand ("data centers up 300%") and strong container growth ("strong Container growth of 40%"). Residential and Light Commercial (RLC) markets are seeing a modest recovery in the Americas and Europe ("Improving Residential and Light Commercial markets in CSA and CSE are encouraging"). However, activity remains softening in China ("continued pressure in RLC in China") and the Global Truck and Trailer segment ("low-teens declines in Global Truck and Trailer").
+
+**2. Labor & Wages**
+The provided text contains no specific data regarding current hiring levels, wage increases, or turnover rates.
+
+**3. Pricing Power & Inflation**
+The company maintains moderate pricing power, though it is currently being offset by persistent cost pressures. Revenue growth in the Americas was primarily driven by price increases ("revenue growth mainly related to price"), but overall margins were compressed by rising input costs ("impact of increased input costs and unfavorable business mix").
+
+**4. Supply Chain & Inventory**
+Supply chain conditions appear stable to tight, evidenced by record-high demand queues. The company reports "record backlog levels," which contributed to an increased full-year sales outlook.
+
+**5. Capital Spending (Capex)**
+Capital investment is increasing to support capacity expansion. Quarterly capex rose to $117 million from $81 million in the prior year ("Capital expenditures (117) (81)"), specifically driven by the establishment of new domestic production capabilities ("new U.S. factory costs").

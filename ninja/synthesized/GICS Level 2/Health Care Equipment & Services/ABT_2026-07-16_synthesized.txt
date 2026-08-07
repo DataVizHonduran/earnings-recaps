@@ -1,0 +1,26 @@
+Ticker: ABT
+Source: ABT_2026-07-16.txt
+Generated: 2026-08-07 14:57 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Abbott Laboratories (Q2 2026)**
+
+**1. Demand & Activity**
+Overall demand is moderate to robust, with comparable sales growth of 4.8% ("comparable sales growth of 4.8 percent"). 
+*   **Medical Devices:** Robust growth, particularly in Electrophysiology ("low-teens growth") and Diabetes Care ("high-single-digit growth").
+*   **Established Pharmaceuticals:** Robust growth in Key Emerging Markets, specifically Latin America and Asia Pacific ("double-digit growth in several countries").
+*   **Diagnostics:** Moderate growth (2.9% comparable), though softened by lower respiratory virus test demand ("reflect lower sales of respiratory virus tests compared to the prior year").
+*   **Nutrition:** Softening demand, particularly in the U.S. ("Worldwide Nutrition sales decreased... 3.6 percent on a comparable basis").
+
+**2. Labor & Wages**
+Not addressed in the provided text.
+
+**3. Pricing Power & Inflation**
+The company is utilizing strategic pricing to counteract volume declines in specific segments. In Nutrition, the company noted that "strategic pricing actions implemented in the fourth quarter of 2025... are contributing to improving performance." There were no specific mentions of broader commodity or freight inflation.
+
+**4. Supply Chain & Inventory**
+Not addressed in the provided text.
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for facilities were not disclosed, the company is investing in R&D and regulatory expansion. Key activity includes the "Tectonic U.S. pivotal trial" for coronary arteries and the submission to the FDA for the "Amulet 360 left atrial appendage (LAA) device."

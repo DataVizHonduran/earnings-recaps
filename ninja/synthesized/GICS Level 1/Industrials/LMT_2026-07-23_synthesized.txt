@@ -1,0 +1,22 @@
+Ticker: LMT
+Source: LMT_2026-07-23.txt
+Generated: 2026-08-07 14:59 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Lockheed Martin (LMT)**
+
+**1. Demand & Activity:**
+Demand is robust, characterized by a record backlog of $230 billion ("record backlog of $230 billion"). Growth is broad-based across all segments, driven by increased volume and significant "munitions ramps" ("driven by growth across all segments reflecting increased volume and munitions ramps"). Specific strength is noted in integrated air and missile defense (PAC-3 and THAAD) and tactical strike missiles ("higher sales of $560 million on integrated air and missile defense programs due to production ramps").
+
+**2. Labor & Wages:**
+The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation:**
+The report does not explicitly detail price increases or commodity cost relief. However, the company is seeing "higher net favorable profit adjustments" in the Missiles and Fire Control segment ("$60 million due to higher net favorable profit adjustments"), suggesting some margin improvement in specific product lines.
+
+**4. Supply Chain & Inventory:**
+While specific lead times are not disclosed, the company is actively expanding its manufacturing footprint to support production ramps. This includes strategic collaborations to "strengthen global defense manufacturing capabilities" via partnerships with General Motors Defense in the U.S. and Rheinmetall in Europe ("agreement with Rheinmetall to co-produce ATACMS in Europe").
+
+**5. Capital Spending (Capex):**
+Capex remains stable to slightly softening. Second quarter expenditures were $318 million ("capital expenditures of $318 million"). The full-year 2026 outlook for capital expenditures has been revised downward to a range of $2.0 billion – $2.4 billion, compared to the previous guidance of $2.5 billion – $2.8 billion ("Capital expenditures $2,000 - $2,400" vs " $2,500 - $2,800"). The company continues to invest in R&D, spending $558 million in the quarter ("independent research and development of $558 million").

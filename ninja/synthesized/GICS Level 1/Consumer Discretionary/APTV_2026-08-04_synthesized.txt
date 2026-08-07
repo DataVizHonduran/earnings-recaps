@@ -1,0 +1,27 @@
+Ticker: APTV
+Source: APTV_2026-08-04.txt
+Generated: 2026-08-07 14:58 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Aptiv PLC (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is showing modest growth overall, though it remains uneven across geographies. North American activity is robust, while European markets are softening.
+*   **Regional Variance:** North America grew 10% and Asia Pacific grew 6% (including 5% in China), while EMEA declined 8% and South America declined 4% ("growth of 10% in North America... partially offset by declines of 8% in EMEA").
+*   **Sector Variance:** Non-automotive demand is growing robustly, specifically in robotics and drones ("double digit revenue growth in Non-Automotive revenues," "securing a major Drone market commercial win").
+*   **Outlook:** The automotive landscape remains "dynamic" with "customer mix" acting as an "incremental headwind."
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is experiencing persistent inflationary pressure from raw materials, which is partially offsetting volume gains.
+*   **Input Costs:** Margin expansion was "partially offset by increased commodity costs" ("Adjusted EBITDA margin was 18.7%... primarily reflecting increased volumes... partially offset by increased commodity costs").
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+While specific facility spend is not detailed, the company is actively investing in technology and market diversification.
+*   **Strategic Investment:** Focus is shifting toward commercializing new technology sectors ("advancing our presence in the Robotics market from partnerships to commercial stage").

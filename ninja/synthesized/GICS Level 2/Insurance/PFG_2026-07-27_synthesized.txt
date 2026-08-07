@@ -1,0 +1,22 @@
+Ticker: PFG
+Source: PFG_2026-07-27.txt
+Generated: 2026-08-07 15:00 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Principal Financial Group (PFG)**
+
+**1. Demand & Activity:**
+Demand is showing robust growth across several key business lines. Retirement and Income Solutions saw a moderate increase in net revenue ("Net revenue increased $65.1 million due to favorable market performance and growth in the business"), while RIS transfer deposits grew significantly ("RIS transfer deposits of $9 billion, up 30%"). Specialty Benefits also experienced robust activity ("Specialty Benefits sales up 11%"). International Pension activity was strong, with AUM increasing 18% ("International Pension record AUM of $169 billion increased 18%").
+
+**2. Labor & Wages:**
+The report does not provide specific data on wage inflation or hiring difficulties, though management noted a general "commitment of our employees" as a driver of value creation.
+
+**3. Pricing Power & Inflation:**
+The company is experiencing margin expansion across multiple segments, suggesting effective pricing or cost management. Operating margins improved in Retirement and Income Solutions ("operating margin improved 60 bps"), Specialty Benefits ("operating margin improved 300 bps"), and Life Insurance ("operating margin improved 280 bps"). International Pension benefited from "more favorable encaje returns and foreign currency tailwinds."
+
+**4. Supply Chain & Inventory:**
+Not applicable to this financial services entity.
+
+**5. Capital Spending (Capex):**
+No specific future capacity or facility investments were detailed; however, the company is focused on leveraging its "global asset management platform" and expanding its "position in the small and midsized business market."

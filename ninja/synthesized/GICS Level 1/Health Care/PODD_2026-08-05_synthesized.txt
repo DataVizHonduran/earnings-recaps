@@ -1,0 +1,22 @@
+Ticker: PODD
+Source: PODD_2026-08-05.txt
+Generated: 2026-08-07 15:00 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Insulet Corp (PODD)**
+
+**1. Demand & Activity**
+Demand remains **robust** overall, though growth rates are diverging by geography. International demand is growing strongly, bolstered by expansion into Spain ("International Omnipod revenue... increased 35.5%"). U.S. demand is growing but showing signs of **softening** relative to previous expectations; the company lowered its full-year U.S. revenue guidance from 20%–22% to 17%–19% ("updating our outlook to reflect what we're learning as we scale in type 2").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company reports **moderate** margin improvement, suggesting an ability to manage costs or maintain pricing despite macroeconomic pressures ("robust margin expansion," "Adjusted operating margin... 100 bps YoY expansion"). However, the company notes ongoing risks regarding "price fluctuations with sole source or third-party suppliers."
+
+**4. Supply Chain & Inventory**
+Supply chain conditions appear **stable**, though the company maintains a cautionary stance on systemic risks. It specifically identifies "concentration of manufacturing operations and storage of inventory in a limited number of locations" and "supply chain disruptions" as persistent risk factors.
+
+**5. Capital Spending (Capex)**
+Investment is focused on **moderate** technological expansion and pipeline development. Current spending is directed toward "next-generation automated insulin delivery technologies" (Omnipod 6) and "fully closed-loop technology" to expand access for type 2 diabetes patients. The company continues to generate "positive free cash flow" after accounting for these capital expenditures.

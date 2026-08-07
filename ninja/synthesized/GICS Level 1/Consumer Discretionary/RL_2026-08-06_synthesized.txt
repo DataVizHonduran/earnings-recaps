@@ -1,0 +1,22 @@
+Ticker: RL
+Source: RL_2026-08-06.txt
+Generated: 2026-08-07 15:00 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Ralph Lauren Corp (RL)**
+
+**1. Demand & Activity**
+Demand is **robust** and broad-based, with significant growth across most geographies and channels. Activity is particularly strong in Asia, led by China ("China, up more than 40% to last year"), and North America ("revenues were led by double-digit growth in Asia and North America"). High-potential categories, including Women's Apparel, Outerwear, and Handbags, saw **moderate to strong** growth, increasing "more than 20% to last year."
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company demonstrates **robust** pricing power, evidenced by a 15% increase in Average Unit Retail (AUR) ("Increased Average Unit Retail (AUR) by 15% across our direct-to-consumer network"). This pricing strength and "strong full-price selling trends" have more than offset **slight** inflationary pressures from "tariffs and other product costs."
+
+**4. Supply Chain & Inventory**
+Inventory levels appear **lean** and well-managed, decreasing 5% year-over-year to $1.2 billion ("Inventories Well-Positioned to Global Demand"). While the company notes potential "global supply chain disruptions" in its general outlook, current inventory positioning is described as healthy.
+
+**5. Capital Spending (Capex)**
+Investment is focused on physical retail expansion and "key city ecosystems," with a **moderate** increase in footprint via the "opening of 22 new owned and partnered stores in the first quarter." The company also continues to invest in "digital technology and analytics" as part of its operational foundation.

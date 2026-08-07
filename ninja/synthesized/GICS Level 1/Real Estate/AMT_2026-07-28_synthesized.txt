@@ -1,0 +1,22 @@
+Ticker: AMT
+Source: AMT_2026-07-28.txt
+Generated: 2026-08-07 14:57 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: American Tower Corp (AMT)**
+
+**1. Demand & Activity**
+Demand is **robust** across the global tower portfolio, with **record** activity specifically noted in the data center segment ("driven by robust leasing demand across our global tower portfolio, record leasing activity at CoreSite"). Management identifies a "multi-year demand cycle" fueled by extraordinary growth in mobile data consumption, cloud adoption, and scaling AI-driven applications ("AI-driven applications are rapidly scaling").
+
+**2. Labor & Wages**
+Not addressed. The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is experiencing **moderate** growth in revenue, with total property revenue increasing 6.3% year-over-year ("Total property revenue increased 6.3% to $2,688 million"). While specific pricing mechanisms aren't detailed, the company is raising its full-year outlook for the second time this year, citing "Data Center outperformance" as a primary driver.
+
+**4. Supply Chain & Inventory**
+Not addressed. As a real estate and infrastructure provider, the report does not list traditional inventory or lead-time metrics.
+
+**5. Capital Spending (Capex)**
+Capex remains **stable** with a slight increase, totaling $329 million for the quarter ("total capital expenditures were approximately $329 million"). A small portion of this is dedicated to non-discretionary maintenance and corporate needs ("$47 million was for non-discretionary capital improvements and corporate capital expenditures"). The company continues to invest in capacity to support customers expanding network density and digital transformation.

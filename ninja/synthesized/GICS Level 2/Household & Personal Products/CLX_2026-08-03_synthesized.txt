@@ -1,0 +1,22 @@
+Ticker: CLX
+Source: CLX_2026-08-03.txt
+Generated: 2026-08-07 14:58 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Clorox (CLX)**
+
+**1. Demand & Activity**
+Demand is currently **softening**, characterized by a "value-seeking consumer" ("continued consumer and macroeconomic pressures"). Organic sales decreased 8% for FY26, though this was heavily skewed by a technical drawdown of retailer inventories following an ERP transition ("lapping the incremental shipments related to the ERP transition"). While the Health and Wellness segment saw volume growth (driven by the GOJO acquisition), the Household and Lifestyle segments experienced moderate declines in volume ("driven by 16 points of lower volume" and "14 points of lower volume," respectively).
+
+**2. Labor & Wages**
+The report does not provide specific data on wage inflation or hiring difficulties, but notes the implementation of a "simplified operating structure to streamline leadership oversight" ("Implemented a simplified operating structure to streamline leadership oversight").
+
+**3. Pricing Power & Inflation**
+Pricing power appears **limited** as the company faces a "challenging operating environment" with "continued cost volatility" ("expect the operating environment to remain challenging, with continued cost volatility"). The company is seeing persistent pressure from "higher commodity costs and higher manufacturing and logistics costs" ("primarily driven by... higher commodity costs and higher manufacturing and logistics costs"). Outlook for FY27 suggests "higher-than-normal inflationary headwinds" will persist, offsetting internal cost savings.
+
+**4. Supply Chain & Inventory**
+Inventory levels have transitioned from bloated to normalized. Retailers previously over-ordered to hedge against a system transition ("retailers placed orders in advance of the company's ERP system transition"), leading to a subsequent drawdown period in FY26 ("retailers drew down on this inventory during the company's ERP transition period"). This cycle is now concluding, with the company expecting to "lap the above-described inventory drawdown" in FY27.
+
+**5. Capital Spending (Capex)**
+The company has concluded a major five-year digital transformation investment ("marking the conclusion of the company's five-year digital transformation investment"). Current spending is focused on "advancing digital capabilities" and "nearly doubling innovation across its expanded portfolio" ("nearly doubling innovation across its expanded portfolio in fiscal year 2026").

@@ -1,0 +1,22 @@
+Ticker: COR
+Source: COR_2026-08-05.txt
+Generated: 2026-08-07 14:58 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Cencora, Inc. (COR)**
+
+**1. Demand & Activity**
+Demand is growing moderately across all primary segments. Total revenue increased 5.1% year-over-year, supported by "overall market growth largely driven by unit volume growth" ("U.S. Healthcare Solutions Segment"). Specific growth drivers include "increased sales of specialty products" and high demand for "products labeled for diabetes and or weight loss in the GLP-1 class" ("U.S. Healthcare Solutions Segment"). International activity is also robust, with revenue up 5.9%, primarily driven by "European distribution business and our global specialty logistics business" ("International Healthcare Solutions Segment").
+
+**2. Labor & Wages**
+The company reports ongoing investment in "talent" to strengthen its ability to support customers ("President and CEO statement"). No specific mentions of wage inflation, hiring difficulties, or headcount reductions were provided.
+
+**3. Pricing Power & Inflation**
+Pricing signals are mixed. The company is experiencing a "decline in manufacturer prices related to certain brand pharmaceutical products" ("U.S. Healthcare Solutions Segment"). Additionally, the high volume of GLP-1 sales has created a slight drag on margins, as these products "have lower gross profit margins" ("Gross Profit"). However, overall gross profit increased 24.1%, aided in part by a "higher LIFO credit in the current year quarter" ("Gross Profit"), suggesting some relief in inventory valuation costs.
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory bloat; however, the mention of a "higher LIFO credit" ("Gross Profit") indicates a shift in the cost of replacing inventory relative to historical costs.
+
+**5. Capital Spending (Capex)**
+Cencora is pursuing a strategy of expansion through acquisition and technology. The company noted significant "investments in specialty, digital transformation and talent" ("President and CEO statement"). A primary driver of recent spending and increased interest expense was the "February 2026 acquisition of OneOncology" ("Interest Expense, Net").

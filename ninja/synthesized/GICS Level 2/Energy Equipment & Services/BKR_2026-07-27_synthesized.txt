@@ -1,0 +1,22 @@
+Ticker: BKR
+Source: BKR_2026-07-27.txt
+Generated: 2026-08-07 14:58 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Baker Hughes (BKR)**
+
+**1. Demand & Activity**
+Demand is **robust** overall, characterized by a significant surge in industrial energy technology. IET orders saw "record bookings doubling year-over-year" ("record bookings doubling year-over-year to $7.1 billion"), driven by "robust demand across Power Systems and LNG" and "particularly strong momentum in power generation" linked to data centers. Upstream activity remains **stable to moderate**, with "increased activity and higher product shipments" in the Middle East and "solid performance in North America land and Latin America" ("solid performance in North America land and Latin America").
+
+**2. Labor & Wages**
+The report does not explicitly detail wage inflation or hiring difficulties; however, it notes the integration of new personnel following the "successful closing of the Chart acquisition" ("welcome Chart’s employees to Baker Hughes").
+
+**3. Pricing Power & Inflation**
+The company is experiencing **persistent** cost pressures, specifically citing "higher inflationary costs" within its Oilfield Services Equipment (OFSE) segment ("demonstrated the resilience and durability of our portfolio despite higher inflationary costs"). There is no specific mention of recent price hikes to offset these costs, though EBITDA exceeded guidance.
+
+**4. Supply Chain & Inventory**
+Specific lead times are not disclosed, but the company is actively managing capacity to meet "broadening customer demand" ("our decision to further expand capacity").
+
+**5. Capital Spending (Capex)**
+Investment is **robust** and expanding. The company is pursuing a strategy of capacity expansion and inorganic growth to align with "rising power demand" ("decision to further expand capacity"). Key investments include the acquisition of Chart Industries to enhance "thermal management, air and gas handling, [and] compression" and the inauguration of a "new subsea manufacturing facility in Dusavik" (Norway).

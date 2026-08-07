@@ -1,0 +1,22 @@
+Ticker: F
+Source: F_2026-07-28.txt
+Generated: 2026-08-07 14:59 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Ford Motor Co. (Q2 2026)**
+
+**1. Demand & Activity**
+Overall demand is softening, with wholesale units declining 12% year-over-year ("Wholesale Units... 1,039 (12)%"). Activity is bifurcated by product line: demand for internal combustion and hybrids remains robust, particularly for trucks and off-roaders ("Our iconic trucks, off-roaders and hybrids are commanding real pricing power"), while EV demand is weak, necessitating a reduction in production ("right-sizing of Gen-1 electric vehicle volumes to customer demand").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company reports moderate pricing power in its core truck and hybrid segments ("commanding real pricing power"). On a broader scale, the company anticipates a slight increase in U.S. industry net pricing of approximately 0.5% for the full year. Management is actively pursuing cost reductions to offset inflationary pressures ("on track to deliver approximately $1 billion in material and warranty cost reductions").
+
+**4. Supply Chain & Inventory**
+Supply chains are experiencing modest disruptions, specifically regarding raw materials. The company noted "aluminum supply constraints" and "temporary Novelis-related aluminum supply constraints" which negatively impacted the Ford Pro segment. However, these are expected to transition into a "net EBIT tailwind" in the second half of the year.
+
+**5. Capital Spending (Capex)**
+Capex remains stable, with full-year guidance unchanged at $9.5 billion to $10.5 billion ("Capital expenditures of $9.5 billion to $10.5 billion, unchanged from prior guidance"). Future investment is being pivoted toward new technology and energy platforms, including "about $1 billion in incremental investment for the Universal Electric Vehicle (UEV) platform and Ford Energy."

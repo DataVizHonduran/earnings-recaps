@@ -1,0 +1,22 @@
+Ticker: QCOM
+Source: QCOM_2026-07-29.txt
+Generated: 2026-08-07 15:00 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: QCOM (Q3 FY2026)**
+
+**1. Demand & Activity**
+Demand is mixed and bifurcated by product line. Handset demand is softening significantly, with revenues declining 20% year-over-year ("Handsets $5,086 $6,328 (20%)"). Conversely, demand in non-handset sectors is robust, specifically in Automotive, which saw double-digit growth for 23 consecutive quarters ("Automotive 1,588 984 +61%"), and IoT, which showed modest growth ("IoT... +9%"). Management expects a significant inflection point in non-handset growth for fiscal 2027 ("accelerate from 24% in fiscal 2026 to greater than 60% in fiscal 2027").
+
+**2. Labor & Wages**
+No specific data provided regarding current wage trends or headcount changes. The company notes a general strategic risk regarding the "ability to attract and retain qualified employees."
+
+**3. Pricing Power & Inflation**
+The company is facing persistent inflationary pressure on the supply side, noting a "broad-based increase in input costs" across wafer fabrication, assembly, test, and memory ("The semiconductor industry is experiencing a broad-based increase in input costs"). In response, QCOM is exercising pricing power to offset these costs, stating they are "taking concrete actions to reflect the higher input costs in our product pricing."
+
+**4. Supply Chain & Inventory**
+The supply environment remains challenging, specifically regarding memory and general components ("Despite a challenging memory and supply environment"). No specific mentions of lead times or inventory bloat were provided.
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for facilities were not disclosed, the company is investing in technology and capacity through strategic acquisitions to expand its AI infrastructure ("Completed Acquisition of Modular Inc Creating an Open Software Foundation for Generative and Agentic AI").

@@ -1,0 +1,22 @@
+Ticker: IP
+Source: IP_2026-07-30.txt
+Generated: 2026-08-07 14:59 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: International Paper (Q2 2026)**
+
+**Demand & Activity**
+Demand is divergent by region. North American activity is growing, with the company reporting "higher sales volumes" and "continued growth in our domestic business" ("Sales volumes were higher driven by continued growth in our domestic business"). Conversely, demand in EMEA is softening, characterized as a "continued soft market driven by geopolitical uncertainty and consumer sentiment" ("lower sales volumes in a continued soft market").
+
+**Labor & Wages**
+The company is experiencing modest upward pressure on labor costs, specifically noting that selling and administrative expenses rose due to "planned annual wage increases" ("Selling and administrative expenses were higher driven by planned annual wage increases"). Additionally, the company continues to incur "severance and other costs" related to the "realignment of resources and mill strategic actions" ("Severance and other costs associated with the Company's strategic approach").
+
+**Pricing Power & Inflation**
+Pricing power is present but uneven. In North America, net sales increased due to "higher sales prices" ("net sales increased reflecting higher sales prices"). In EMEA, while paper prices rose, the company noted a lag in passing these costs to customers, as margins were "impacted by higher paper prices not yet realized in box pricing." Input costs are mixed; the company saw relief from natural gas and utilities but faced "higher recovered fiber and freight costs" ("partially offset by higher recovered fiber and freight costs").
+
+**Supply Chain & Inventory**
+The provided text contains no specific mentions of lead times or inventory levels.
+
+**Capital Spending (Capex)**
+Investment activity is robust, focused on capacity expansion and modernization. Key activities include the "successfully completed" Riverdale machine conversion ("successfully completed the Riverdale machine conversion") and strategic acquisitions of the NORPAC mill in Washington and a corrugated packaging facility in Delaware ("acquisitions of the NORPAC mill... and the Delmarva corrugated packaging facility"). The company also highlighted "transformational investments" within the EMEA region ("advanced transformational investments").

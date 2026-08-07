@@ -1,0 +1,22 @@
+Ticker: AME
+Source: AME_2026-08-04.txt
+Generated: 2026-08-07 14:57 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: AMETEK (AME)**
+
+**1. Demand & Activity**
+Demand is robust and growing, characterized by "exceptional" order growth of 28% in the second quarter ("orders were exceptional, growing 28% in the quarter"). Growth is broad-based across multiple sectors, with specific strength noted in semiconductor, commercial aerospace, medtech, defense, and automation markets ("notable strength in medtech, defense and automation markets"). Management attributes this momentum to "strong secular growth markets including the global infrastructure build-out."
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is demonstrating strong pricing power and operational efficiency, evidenced by "excellent 110 basis points of core margin expansion." While specific commodity price movements were not detailed, the company noted that its "strong operating performance drove core margins up" in both the Electronic Instruments and Electromechanical groups.
+
+**4. Supply Chain & Inventory**
+Inventory levels have increased modestly, rising from $1.11 billion to $1.20 billion year-over-year. While the company lists "supply chain disruptions, tariffs, [and] trade disputes" as general risk factors in its forward-looking statements, there are no reports of current acute bottlenecks or bloated inventory impacting operations.
+
+**5. Capital Spending (Capex)**
+Capital expenditures remained stable, with $32 million spent in the second quarter compared to $29 million in the prior year period. The company continues to focus on "Strategic Acquisitions" and "Technology Innovation" as core pillars of its growth model to expand capacity and market reach.

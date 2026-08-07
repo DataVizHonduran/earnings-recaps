@@ -1,0 +1,22 @@
+Ticker: IRM
+Source: IRM_2026-08-05.txt
+Generated: 2026-08-07 14:59 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Iron Mountain (IRM)**
+
+**1. Demand & Activity**
+Demand is **robust**, characterized by record quarterly results and strong organic growth (16.8% year over year). Activity is particularly aggressive in high-growth segments, with data center, digital, and asset lifecycle management (ALM) collectively growing "more than 50% year over year." Data center leasing is accelerating, with 110 megawatts leased year-to-date ("accelerating data center leasing, with 110 megawatts leased through July").
+
+**2. Labor & Wages**
+The provided text contains no specific data on wage increases, headcount reductions, or hiring difficulties. The company notes a general strategic risk regarding the "ability to attract, develop and retain key personnel," but provides no current operational updates on labor costs.
+
+**3. Pricing Power & Inflation**
+The company demonstrates **moderate to strong** pricing power, evidenced by a 26.3% increase in service revenue and a 11.5% increase in storage rental revenue. While the company lists "fluctuations in commodity prices" and "cost of power" as general risk factors, current financial performance suggests these are being offset by "improved operating leverage from our continued transformation activities."
+
+**4. Supply Chain & Inventory**
+There are no specific mentions of lead times or inventory levels for physical goods. The company's primary "inventory" (data center capacity) is being absorbed rapidly, as evidenced by the leasing momentum.
+
+**5. Capital Spending (Capex)**
+Capex activity is focused on capacity expansion and technological integration. The company is actively "building momentum in our ALM and digital businesses" and is committed to "incorporate alternative technologies (including artificial intelligence) into our business." Management explicitly identifies the "ability to fund capital expenditures" as a key factor in executing their strategic growth plan.

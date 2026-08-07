@@ -1,0 +1,22 @@
+Ticker: AAPL
+Source: AAPL_2026-07-30.txt
+Generated: 2026-08-07 14:57 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: AAPL (Q3 2026)**
+
+**1. Demand & Activity**
+Demand is robust and growing across nearly all segments. The company reported "double-digit revenue growth across iPhone, Mac and Services, and in every geographic segment" ("double-digit revenue growth across iPhone, Mac and Services, and in every geographic segment"). Activity is particularly strong in Greater China and the Americas. The installed base of active devices has reached a "new all-time high across all major product categories and geographic segments" ("installed base of active devices also reached a new all-time high").
+
+**2. Labor & Wages**
+The report does not provide specific commentary on hiring difficulties or wage pressures. Total headcount is noted at "more than 150,000 employees" ("Apple s more than 150,000 employees").
+
+**3. Pricing Power & Inflation**
+The company is experiencing moderate relief from trade-related costs, noting a "favorable impact of approximately 2 percentage points from tariff refunds" on gross margins ("favorable impact of approximately 2 percentage points from tariff refunds"). There is no specific mention of consumer price increases, though overall revenue growth suggests strong pricing power or volume gains.
+
+**4. Supply Chain & Inventory**
+Inventory levels have increased moderately. As of June 27, 2026, inventories stood at $11.09 billion, compared to $5.72 billion in the prior year period ("Inventories 11,092 [vs] 5,718"). This suggests a build-up of stock, potentially in anticipation of new product cycles or a shift in supply chain buffering.
+
+**5. Capital Spending (Capex)**
+Investment in physical capacity has softened. Payments for the acquisition of property, plant, and equipment decreased to $6.8 billion for the nine-month period, down from $9.5 billion in the prior year ("Payments for acquisition of property, plant and equipment (6,799) [vs] (9,473)"). However, investment in technology remains robust, with Research and Development spending increasing significantly to $11.7 billion for the quarter ("Research and development 11,729 [vs] 8,866").

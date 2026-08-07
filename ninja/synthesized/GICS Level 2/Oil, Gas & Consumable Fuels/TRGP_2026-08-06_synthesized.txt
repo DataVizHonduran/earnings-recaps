@@ -1,0 +1,22 @@
+Ticker: TRGP
+Source: TRGP_2026-08-06.txt
+Generated: 2026-08-07 15:01 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Targa Resources Corp. (TRGP)**
+
+**1. Demand & Activity:**
+Demand is robust, characterized by record-breaking activity in the Permian Basin. The company reported record volumes across several key product lines, including Permian inlet, NGL transportation, fractionation, and LPG exports ("Record Permian inlet, NGL transportation, fractionation, and LPG export volumes during the second quarter").
+
+**2. Labor & Wages:**
+No mentions of labor trends, hiring, or wage pressures were provided in the text.
+
+**3. Pricing Power & Inflation:**
+The provided text does not explicitly discuss pricing adjustments or input cost inflation; however, the company is seeing significant growth in adjusted EBITDA, which increased 38% year-over-year ("increase of 38% year-over-year").
+
+**4. Supply Chain & Inventory:**
+The company is successfully expanding capacity, with some projects completing ahead of schedule, suggesting a stable execution environment for infrastructure deployment ("Commenced operations of our new East Driver processing plant in Permian Midland late in the second quarter, ahead of schedule").
+
+**5. Capital Spending (Capex):**
+Investment in capacity remains aggressive. The company is actively expanding its midstream footprint through new fractionators and pipelines ("Commenced operations of our Train 11 fractionator and Delaware Express NGL Pipeline expansion") and maintains a substantial investment outlook for the year ("estimate 2026 net growth capital expenditures of approximately $4.5 billion").

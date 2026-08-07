@@ -1,0 +1,22 @@
+Ticker: CMI
+Source: CMI_2026-08-04.txt
+Generated: 2026-08-07 14:58 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Cummins Inc. (CMI)**
+
+**1. Demand & Activity**
+Demand is **robust** and outpacing expectations across multiple sectors. There is significant growth in North American on-highway truck markets ("North American truck markets continue to improve") and a surge in power generation driven by AI-related infrastructure ("demand for data center power generation remains robust"). Geographically, activity is strong in North America and China, with the latter seeing specific growth in construction ("international sales increased 23% due to stronger construction demand in China").
+
+**2. Labor & Wages**
+The company reports a "talented global workforce," but notes ongoing macroeconomic headwinds regarding human capital, specifically citing "challenging markets for talent and ability to attract, develop and retain key personnel." Additionally, recent profitability was slightly impacted by "higher incentive compensation, tied to expected record full year results."
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail current price hikes; however, it identifies "raw material, transportation and labor price fluctuations" as ongoing risk factors. The company is maintaining a "disciplined execution" strategy to manage a "complex macroeconomic environment."
+
+**4. Supply Chain & Inventory**
+Specific lead times are not disclosed, but the company is adopting a "measured production ramp" for new 2027 engine platforms. This cautious approach is intended to "support customer production schedules" and ensure the industry transition is handled in a "disciplined manner."
+
+**5. Capital Spending (Capex)**
+Investment activity is **moderate to robust**, focusing on capacity expansion and technology. The company has announced "disciplined capacity and product investments" specifically targeting the mining and power generation sectors to support "long-term growth." There is also a continued strategic focus on "zero-emissions investments" via the Destination Zero strategy.
