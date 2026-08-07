@@ -1,0 +1,22 @@
+Ticker: LYB
+Source: LYB_2026-07-31.txt
+Generated: 2026-08-07 14:59 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: LyondellBasell (LYB)**
+
+**1. Demand & Activity**
+Demand is currently stable, though influenced by external shocks. The company reported "improved market conditions" ("improved market conditions supporting margin expansion") and increased operating rates to 90% in North America to meet needs during "global supply disruption" ("responded quickly to the global supply disruption by increasing operating rates"). While the company does not anticipate "material demand deterioration" in key markets, it notes that price volatility "could temporarily impact normal buying patterns."
+
+**2. Labor & Wages**
+No specific data provided regarding hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is experiencing moderate pricing power and margin expansion driven by supply-side constraints. Results improved due to "expanding polymer margins and favorable co-product pricing" ("expanding polymer margins and favorable co-product pricing due to tighter global market supply"). Additionally, the Intermediates and Derivatives segment saw higher earnings from "improving oxyfuels, methanol and PO derivatives margins."
+
+**4. Supply Chain & Inventory**
+Supply chains are currently constrained, particularly due to geopolitical instability. The company notes "supply-constrained market conditions across all business segments" ("geopolitical instability resulted in dynamic and supply-constrained market conditions"). Working capital increased as a result of "higher prices and increased operating rates" to capture opportunities created by these "global supply disruptions."
+
+**5. Capital Spending (Capex)**
+Capex is trending lower as the company prioritizes a "structurally lower cost base" ("lower capital expenditures through the Cash Improvement Plan"). Future investment is described as "selective" ("invest selectively in opportunities that enhance long-term shareholder value"), with a strategic shift toward "advantaged feedstocks" and the divestiture of select European assets to improve the overall cost position.

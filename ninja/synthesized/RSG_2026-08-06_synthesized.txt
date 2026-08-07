@@ -1,0 +1,22 @@
+Ticker: RSG
+Source: RSG_2026-08-06.txt
+Generated: 2026-08-07 15:00 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Republic Services (RSG)**
+
+**1. Demand & Activity**
+Demand is mixed but generally stable. Organic growth in the recycling and waste business remains modest (3.7% organic growth), though overall volume is softening ("volume decreased revenue by 1.6 percent"). There is a slight decline in the environmental solutions segment ("0.2 percent decline from our environmental solutions business").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company demonstrates robust pricing power, with price increases comfortably outpacing inflation ("Pricing in excess of cost inflation"). Core pricing provided a significant boost to revenue, particularly in the open market ("Core price on related business revenue increased revenue by 6.4 percent, which consisted of 7.8 percent in the open market"). However, there is moderate pressure from falling commodity values, as recycled commodity prices decreased ("decrease of $13 per ton over the prior year").
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment in capacity and technology remains steady. The company continues to invest in infrastructure and sustainability, specifically noting the completion of "two renewable natural gas projects during the quarter." Additionally, the company is pursuing moderate growth through inorganic expansion, having invested "approximately $860 million in value-creating acquisitions during the first-half of 2026."
