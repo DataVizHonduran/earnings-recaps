@@ -1,0 +1,22 @@
+Ticker: YUM
+Source: YUM_2026-07-30.txt
+Generated: 2026-08-08 14:37 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: YUM Brands (Q2 2026)**
+
+**Demand & Activity**
+Demand is moderate to robust overall, though highly fragmented by brand and geography. Taco Bell shows robust growth, with U.S. same-store sales increasing 7% ("Taco Bell U.S. system sales grew 9% and same-store sales grew 7%"). KFC demand is stable to modest, with a 2% increase in same-store sales, though the U.S. market is softening ("United States (2)"). Conversely, Pizza Hut demand is declining, with system sales flat to slightly down ("Worldwide system sales grew 5%... Pizza Hut Division (2)").
+
+**Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage trends.
+
+**Pricing Power & Inflation**
+The report does not explicitly detail price hikes or commodity cost relief. However, restaurant-level margins remain a focus for management ("improve restaurant economics"), and KFC company-owned margins saw a slight contraction ("down 10 basis points year-over-year").
+
+**Supply Chain & Inventory**
+There are no mentions of lead times, freight, or inventory levels in the provided text.
+
+**Capital Spending (Capex)**
+Investment is focused on digital transformation and capacity expansion. The company is aggressively expanding its physical footprint ("Unit count increased 5% including 1,053 gross new units") and investing in proprietary technology to drive efficiency ("bring the benefits of Byte by Yum! to more of our system"). Additionally, KFC is investing in a brand and menu overhaul to modernize its offering ("refreshed brand identity and a menu revamp").
