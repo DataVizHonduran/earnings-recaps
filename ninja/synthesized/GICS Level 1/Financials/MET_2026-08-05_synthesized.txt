@@ -1,0 +1,26 @@
+Ticker: MET
+Source: MET_2026-08-05.txt
+Generated: 2026-08-08 14:37 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: MetLife Inc. (2Q 2026)**
+
+**1. Demand & Activity**
+Demand is robust and characterized by broad-based volume growth across all operating segments ("widespread growth across every operating segment"). 
+*   **North America:** Solid growth in Group Benefits ("solid growth across both National Accounts and Regional Business") and RIS, specifically in U.K. longevity reinsurance and structured settlement sales.
+*   **Asia:** Strong activity with sales increasing 17% on a constant currency basis ("driven by strong performance across the region").
+*   **Latin America:** Moderate growth, particularly in Brazil via third-party distribution ("strong growth in third-party distribution... particularly in Brazil").
+*   **EMEA:** Robust momentum with sales up 15% on a constant currency basis ("strong sales momentum and solid renewal activity").
+
+**2. Labor & Wages**
+The report does not provide specific commentary on hiring, turnover, or wage levels.
+
+**3. Pricing Power & Inflation**
+The company is benefiting from a higher-rate environment, which has bolstered investment income ("reflecting asset growth and investing in a higher-rate environment"). While the report does not explicitly detail price hikes for premiums, it notes "favorable underwriting" as a primary driver of earnings growth. There is evidence of slight upward pressure on operating costs in certain regions, specifically in EMEA where earnings were "partially offset by higher expenses."
+
+**4. Supply Chain & Inventory**
+Not applicable to this service-based financial entity. The company reports a "stable credit environment" regarding its investment portfolio.
+
+**5. Capital Spending (Capex)**
+Specific facility or technology spend is not detailed; however, the company is pursuing growth through strategic acquisitions, notably the "acquisition of PineBridge Investments" to expand its asset management capabilities.

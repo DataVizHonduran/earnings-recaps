@@ -1,0 +1,22 @@
+Ticker: OMC
+Source: OMC_2026-07-28.txt
+Generated: 2026-08-08 14:37 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Omnicom Group Inc. (OMC)**
+
+**1. Demand & Activity**
+Demand is showing robust growth, characterized by organic revenue increases of 6.1% in Core Operations ("Revenue in our Core Operations grew 6.1% organically"). Management reports a trend of client consolidation, with customers shifting more volume to the firm to leverage integrated capabilities ("Clients are consolidating more work with us because they see the competitive advantage our connected capabilities deliver").
+
+**2. Labor & Wages**
+Labor costs have increased moderately, though this is primarily driven by the acquisition of IPG and revenue growth rather than organic wage inflation ("Salary and related costs increased $1.1 billion... due to the revenue growth and the acquisition of IPG"). The company is actively managing headcount through repositioning and severance actions related to the merger ("repositioning costs, primarily related to severance actions in connection with the acquisition of The Interpublic Group of Companies, Inc.").
+
+**3. Pricing Power & Inflation**
+The company is experiencing strong margin expansion, attributed to internal efficiencies rather than explicit price hikes ("strong margin expansion... primarily due to cost reduction synergies"). While the company monitors "inflation or stagflation" as a general risk to client budgets, there is no mention of current input cost pressure impacting their specific service delivery.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a professional services firm, OMC does not maintain physical inventory. However, they note that "labor and supply chain issues affecting the distribution of our clients products" remain a monitored external risk to demand.
+
+**5. Capital Spending (Capex)**
+Investment is currently focused on technological transformation and integration. The company is prioritizing spending in "agentic marketing transformation" and "AI-driven discovery" to align with new consumer engagement models ("focusing on three key areas leading in agentic marketing transformation... and AI-driven discovery"). Significant spending was also directed toward the integration of the IPG acquisition ("integration and transaction costs related to the acquisition of IPG").

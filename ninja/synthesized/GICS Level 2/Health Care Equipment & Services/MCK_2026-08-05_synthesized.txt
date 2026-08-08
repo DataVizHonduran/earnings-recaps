@@ -1,0 +1,22 @@
+Ticker: MCK
+Source: MCK_2026-08-05.txt
+Generated: 2026-08-08 14:36 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: McKesson Corp (MCK)**
+
+**1. Demand & Activity:**
+Demand is robust across most business lines, characterized by moderate to strong growth in specialty sectors. North American Pharmaceutical revenues grew 5%, driven by "increased prescription transaction volumes" ("increased prescription transaction volumes, including higher volumes from specialty products"). The Oncology Multispecialty segment saw robust growth of 33%, fueled by "provider solutions and specialty distribution" ("driven by growth in provider solutions and specialty distribution"). Demand for access solutions within Prescription Technology Solutions also remains strong ("driven by higher demand for access solutions").
+
+**2. Labor & Wages:**
+The provided text contains no mentions of hiring difficulty, turnover, wage trends, or headcount adjustments.
+
+**3. Pricing Power & Inflation:**
+The report does not explicitly detail pricing actions or input cost inflation. However, operational growth was supported by the "timing of new product launches" ("driven by growth in the distribution of specialty products... and the timing of new product launches"), suggesting revenue growth is currently driven by volume and product mix rather than explicit price hikes.
+
+**4. Supply Chain & Inventory:**
+There are no specific mentions of lead times or inventory levels. The company notes that it cannot reasonably forecast "LIFO inventory-related adjustments" ("McKesson cannot reasonably forecast LIFO inventory-related adjustments"), indicating these remain a variable in their GAAP reporting.
+
+**5. Capital Spending (Capex):**
+Capital investment remains stable, with $152 million invested in the first quarter ("invested $152 million in capital expenditures"). The company continues to prioritize "investments in strategic growth pillars" ("prioritizing investments in strategic growth pillars") and is currently executing a significant structural shift via the planned separation of its Medical-Surgical Solutions business into a standalone entity named "Wellverse" ("unveiled Wellverse as the name of the future standalone Medical-Surgical Solutions business").

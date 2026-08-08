@@ -1,0 +1,22 @@
+Ticker: TDG
+Source: TDG_2026-08-04.txt
+Generated: 2026-08-08 14:37 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: TransDigm Group (TDG)**
+
+**1. Demand & Activity: Robust**
+Demand is growing strongly across all primary channels. Commercial aftermarket growth is robust ("Commercial aftermarket growth of 17% remained strong"), and Commercial OEM is expanding as aircraft manufacturers increase production ("Commercial OEM grew nicely as well as the aircraft OEMs continue to increase build rates"). Defense activity is stable with an increasing pipeline ("Defense saw another quarter of consistent growth and also built sizable backlog"). Overall momentum is positive, leading to an upward revision of full-year guidance ("Bookings have exceeded expectations, and we see the current momentum continuing").
+
+**2. Labor & Wages: Not Addressed**
+The provided text contains no specific mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation: Stable/Positive**
+While specific pricing actions are not detailed, the company continues to expand margins in its base businesses through its "value-driven operating strategy" ("base businesses continued to expand EBITDA margins on a year-over-year basis"). There is a mention of "higher selling and administration expense" and "higher interest expense" offsetting some net income gains, but no mention of persistent commodity or freight inflation.
+
+**4. Supply Chain & Inventory: Not Addressed**
+The provided text contains no specific data regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex): Robust (M&A Focused)**
+Capital allocation is heavily weighted toward inorganic growth and capacity expansion via acquisitions. The company recently completed the acquisition of Jet Parts Engineering and Victor Sierra for $2.2 billion ("completed the acquisition of Jet Parts Engineering and Victor Sierra for approximately $2.2 billion in cash") and has entered a definitive agreement to acquire Prince Izant for $1.07 billion to expand its footprint in brazing alloys and specialty metal components ("entered into a definitive agreement to acquire Prince Izant... for approximately $1.07 billion in cash").

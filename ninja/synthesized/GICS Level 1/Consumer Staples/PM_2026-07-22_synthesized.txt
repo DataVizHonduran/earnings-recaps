@@ -1,0 +1,22 @@
+Ticker: PM
+Source: PM_2026-07-22.txt
+Generated: 2026-08-08 14:37 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Philip Morris International (PM)**
+
+**1. Demand & Activity**
+Demand is **robust** for smoke-free products (SFP), with shipments increasing 7.5% ("driven by a 7.5% increase in smoke-free mainly due to IQOS"). International combustibles remain **stable** or **resilient** ("complemented by a resilient combustible segment"). Geographic variance is noted: strong growth in Europe and emerging markets, while Japan and Poland experienced **softening** due to excise taxes and flavor bans ("expected transient headwinds in Japan and Poland"). U.S. demand for ZYN is **stable** ("offtake volumes were flat to slightly growing").
+
+**2. Labor & Wages**
+Not mentioned.
+
+**3. Pricing Power & Inflation**
+The company demonstrates **robust** pricing power, particularly in combustibles ("driven by an exceptional quarter of 10.0% pricing"). Gross margins expanded through "strong pricing, scale and SFP mix benefits." Input costs are seeing **moderate** pressure due to geopolitical volatility, specifically regarding energy and logistics ("factored in some increases in transport, energy and other input costs") linked to the Middle East conflict.
+
+**4. Supply Chain & Inventory**
+Inventory levels appear **stable**, though some "pantry de-loading" was observed in Japan following price hikes ("reflecting broad-based growth notwithstanding the expected pantry de-loading"). No significant lead-time disruptions were reported beyond minor transport impacts.
+
+**5. Capital Spending (Capex)**
+PM intends to **increase** investment in the U.S. market during the second half of the year ("intend to accelerate U.S. investments in the second half") to support portfolio expansion and the upcoming launch of IQOS ILUMA.
