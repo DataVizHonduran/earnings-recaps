@@ -1,0 +1,22 @@
+Ticker: LUMN
+Source: LUMN_2026-08-04.txt
+Generated: 2026-08-08 14:36 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Lumen Technologies (LUMN)**
+
+**1. Demand & Activity**
+Demand is bifurcated. There is robust growth in digital and AI-driven networking, while legacy services continue to soften. Strategic revenue increased to 53% of total business revenue ("up from 51% in the first quarter"), with high adoption of digital networking services evidenced by "new customer adoption up 22%, active ports up 34%, and active services up 29%." Conversely, legacy revenue declined 15% year-over-year ("Legacy 1,155... 1,360 (15)%").
+
+**2. Labor & Wages**
+The company is actively redeploying human capital to align with its digital pivot, though specific wage data was not provided. Management noted they "Redeployed resources towards higher-growth, higher margin digital opportunities by rationalizing the product portfolio."
+
+**3. Pricing Power & Inflation**
+Lumen is attempting to shift away from commodity-based pricing toward a value-based model to avoid price wars. The CEO stated the company is "delivering higher-impact business outcomes instead of competing on price alone." There were no specific mentions of input cost inflation or commodity relief.
+
+**4. Supply Chain & Inventory**
+Not addressed in the provided text.
+
+**5. Capital Spending (Capex)**
+Investment remains stable with a focus on technology modernization and digital capabilities. Quarterly Capex was $902 million ("Capital Expenditures 902"). The company provided a full-year 2026 outlook for capital expenditures (excluding special items) of "$3.2 to $3.4 billion," supporting its "digital platform strategy for enterprise customers operating in an AI-driven, multi-cloud world."

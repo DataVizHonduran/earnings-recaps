@@ -1,0 +1,22 @@
+Ticker: LDOS
+Source: LDOS_2026-08-04.txt
+Generated: 2026-08-08 14:36 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Leidos Holdings, Inc. (LDOS)**
+
+**1. Demand & Activity**
+Demand is **robust**, characterized by meaningful growth in specific high-tech sectors. Revenue increased 7% year-over-year, driven by "increased customer demand for defense tech products, energy and air traffic management solutions, and intelligence mission support." Management noted "meaningful growth emerge across our Defense Tech, Energy Infrastructure, and Cyber growth pillars." Activity is further supported by a strong book-to-bill ratio of 1.1 and a funded backlog that grew 44% year-over-year.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage pressures. The company reports a global workforce of "50,000 global employees."
+
+**3. Pricing Power & Inflation**
+There are no direct mentions of price increases or specific inflationary pressures on inputs. However, the company reports "disciplined cost management across the portfolio" to maintain profitability.
+
+**4. Supply Chain & Inventory**
+Supply chain conditions appear to be a point of active management, specifically regarding the resolution of "complex component shortages" related to F-16 fighter jet diagnostic systems. There is no mention of broader inventory levels (lean vs. bloated).
+
+**5. Capital Spending (Capex)**
+Investment activity is **moderate** and focused on technology and strategic expansion. The company spent $32 million on "property, equipment and software payments" during the quarter. Future spending is directed toward "planned investments including the pending joint venture" with Analogic Corporation to enhance security enterprise solutions.

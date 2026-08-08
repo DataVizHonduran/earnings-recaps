@@ -1,0 +1,22 @@
+Ticker: BX
+Source: BX_2026-07-23.txt
+Generated: 2026-08-08 14:36 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Blackstone Inc. (Q2 2026)**
+
+**1. Demand & Activity**
+Demand for alternative asset management is robust, characterized by strong capital inflows and a strategic pivot toward technology. The firm reported "nearly $70 billion of inflows" in the quarter, with a specific emphasis on the "artificial intelligence megatrend" as a primary driver of "standout investment performance across numerous strategies" ("Our decision to lean into the artificial intelligence megatrend is leading to standout investment performance").
+
+**2. Labor & Wages**
+The firm is experiencing moderate increases in labor costs. Compensation and benefits expenses rose from $1.42 billion in 2Q25 to $1.81 billion in 2Q26 ("Compensation and Benefits: 2Q 25 $1,421,530; 2Q 26 $1,814,135"). Additionally, "Fee Related Compensation" increased by 26% year-over-year ("Fee Related Compensation... % Change vs. 2Q 25: 26%").
+
+**3. Pricing Power & Inflation**
+Blackstone demonstrates stable pricing power through its fee structures. Management and advisory fees grew by 11% year-over-year ("Management and Advisory Fees, Net... % Change vs. 2Q 25: 11%"). There is no specific mention of input cost relief or inflationary pressure on operations, though interest expenses saw a slight increase from $135.8 million to $145.0 million ("Interest Expense: 2Q 25 $135,822; 2Q 26 $145,023").
+
+**4. Supply Chain & Inventory**
+Not applicable. As an asset manager, the firm does not maintain physical inventories or traditional supply chains.
+
+**5. Capital Spending (Capex)**
+While traditional Capex is not detailed, the firm is aggressively deploying capital into the AI ecosystem to expand its capacity as a "trusted partner at scale to many of the key innovators in this ecosystem" ("We’ve become a trusted partner at scale to many of the key innovators in this ecosystem"). Total deployment for the quarter was $34.2 billion ("Deployment of $34.2 billion in the quarter").
