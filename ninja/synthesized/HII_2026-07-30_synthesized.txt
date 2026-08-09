@@ -1,0 +1,17 @@
+Ticker: HII
+Source: HII_2026-07-30.txt
+Generated: 2026-08-09 14:40 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Huntington Ingalls Industries (HII)**
+
+**1. Demand & Activity:** Robust. Shipbuilding demand is strong, leading to an upward revision of full-year revenue guidance ("significant shipbuilding demand"). Growth is driven by higher volumes in aircraft carriers, submarines ("higher volumes in aircraft carriers and submarines"), and amphibious assault ships ("primarily driven by higher volumes in amphibious assault ships"). Conversely, Mission Technologies saw a slight softening in revenue ("decrease of $31 million, or 3.9%"), attributed to lower volumes in All-Domain Operations and Global Security.
+
+**2. Labor & Wages:** Stable. No specific mentions of wage inflation, hiring difficulties, or headcount adjustments were provided in the release.
+
+**3. Pricing Power & Inflation:** Moderate. The company is realizing positive margin impacts through contract adjustments and incentives ("primarily driven by contract adjustments and incentives in aircraft carriers"). There is no specific mention of raw material inflation or commodity cost relief.
+
+**4. Supply Chain & Inventory:** Stable. While not explicitly detailing lead times, the company is actively procuring long-lead materials for new programs ("procure long lead time material... for the first ship") and is focused on increasing operational throughput by 15% ("shipbuilding throughput improvement goal of 15%").
+
+**5. Capital Spending (Capex):** Stable. The company maintains a consistent investment strategy, with capital expenditures projected at 4% to 5% of sales ("Capital Expenditures 4% - 5% of Sales"). Recent investments include the opening of a new facility to enhance nuclear-powered aircraft carrier overhauls ("opening of the Carrier Refueling Overhaul Workcenter").

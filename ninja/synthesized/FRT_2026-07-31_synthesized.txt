@@ -1,0 +1,22 @@
+Ticker: FRT
+Source: FRT_2026-07-31.txt
+Generated: 2026-08-09 14:39 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Federal Realty Investment Trust (FRT)**
+
+**1. Demand & Activity**
+Demand for retail space is robust, characterized by record-breaking leasing volume. The company signed 124 comparable retail leases for 819,273 square feet, marking an "all-time volume record." Portfolio occupancy remains stable at 93.8%, while the small shop leased rate showed modest growth, increasing 50 basis points year-over-year to 93.9% ("Continued strong small shop leased rate"). Residential demand appears slightly softening, with the leased rate for comparable properties down 20 basis points year-over-year to 97.0%.
+
+**2. Labor & Wages**
+Not addressed.
+
+**3. Pricing Power & Inflation**
+The company demonstrates strong pricing power, achieving significant rent growth on new leases. Comparable retail rent increased 15% on a cash basis and 28% on a straight-line basis ("rent growth of 15% on a cash basis and 28% on a straight-line basis"). Adjusted Comparable Property Operating Income (POI) grew by a moderate 4.2%.
+
+**4. Supply Chain & Inventory**
+Not addressed.
+
+**5. Capital Spending (Capex)**
+Investment activity is focused on strategic assemblage and mixed-use completion. The company spent $19.7 million to acquire an adjacent retail parcel in Alexandria, VA, to complete a "retail assemblage at the center." Additionally, the company fully delivered residential units and ground-floor retail at the Blayr mixed-use development in Bala Cynwyd, PA ("Fully delivered the residential units at Blayr"). Management is focused on "productivity" and "getting more out of the exceptional real estate we already own."
