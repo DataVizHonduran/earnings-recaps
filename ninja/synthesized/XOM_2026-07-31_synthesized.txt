@@ -1,0 +1,22 @@
+Ticker: XOM
+Source: XOM_2026-07-31.txt
+Generated: 2026-08-09 14:40 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: ExxonMobil (2Q 2026)**
+
+**1. Demand & Activity**
+Demand appears **robust** for specific energy products, though the broader market is described as "volatile." There is strong activity in the U.S. Gulf Coast and a record surge in diesel production ("Record second-quarter diesel production"). Upstream activity is high, with the company achieving its "Highest Upstream production in more than two decades" (excluding Middle East disruptions).
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is leveraging "structural cost savings" to protect margins against "inflationary pressure" (referenced in the Cautionary Statement). Pricing power is evident in the Specialty Products segment, which saw "higher basestock margins" and growth in "high-value products." Chemical earnings were bolstered by a "North American feed advantage," suggesting a competitive cost position relative to global pricing.
+
+**4. Supply Chain & Inventory**
+Supply chains are experiencing regional instability, specifically "Middle East disruptions" which impacted volumes. However, the company demonstrates agility in logistics, noting that as "conditions changed, we moved products where they were needed" to optimize the global portfolio.
+
+**5. Capital Spending (Capex)**
+Investment is **robust** and expanding. The company invested "$13.0 billion in cash capital expenditures year-to-date" and notes that its 2026 planned investments are "20% higher than nearest IOC." Key capacity expansions include a "final investment decision for 120KTA Proxxima™ blending expansion in Louisiana" and a fifth Guyana FPSO scheduled for "production startup on plan for 4Q26."
