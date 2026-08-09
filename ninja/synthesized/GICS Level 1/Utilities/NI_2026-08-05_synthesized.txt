@@ -1,0 +1,22 @@
+Ticker: NI
+Source: NI_2026-08-05.txt
+Generated: 2026-08-09 14:40 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: NiSource Inc. (NI)**
+
+**1. Demand & Activity**
+Demand is showing robust growth in the industrial sector, specifically driven by large-load technology infrastructure. The company is actively expanding its "data center strategy" following regulatory approvals for "special contracts" with Amazon and Alphabet, which management views as "proof points that demonstrate our ability to support economic growth" ("demonstrate our ability to support economic growth while creating value for customers").
+
+**2. Labor & Wages**
+The company identifies the ongoing need to "attract, retain or re-skill a qualified workforce" as a potential risk factor ("our ability to attract, retain or re-skill a qualified workforce and maintain good labor relations"), though no specific headcount reductions or wage spikes were reported for the current period.
+
+**3. Pricing Power & Inflation**
+NiSource maintains stable cost recovery through "regulatory mechanisms that provide visibility into cost recovery" ("supported by disciplined execution of our efficiency initiatives and regulatory mechanisms"). While the company notes risks regarding "fluctuations in the price of energy commodities" ("fluctuations in the price of energy commodities and related transportation costs"), it is currently leveraging "efficiency initiatives" to manage margins.
+
+**4. Supply Chain & Inventory**
+The company notes potential "supply risks" and a dependency on the "performance and quality of third-party suppliers" ("The performance and quality of third-party suppliers and service providers") as key operational risks, though no specific mentions of bloated inventories or critical lead-time delays were provided in this release.
+
+**5. Capital Spending (Capex)**
+Capex is robust and expanding. The company is executing a "consolidated capital investment plan of $28.6 billion" through 2030 ("Continuing to execute $28.6 billion 2026-2030 consolidated capital investment plan"). This includes a significant strategic pivot toward technology infrastructure, allocating "$7.6 billion of strategic data center infrastructure investments" to support a projected "9%-11% consolidated rate base growth" ("including $21.0 billion of base capital investments and $7.6 billion of strategic data center infrastructure investments").

@@ -1,0 +1,22 @@
+Ticker: CMCSA
+Source: CMCSA_2026-07-23.txt
+Generated: 2026-08-09 14:39 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Comcast Corp (CMCSA)**
+
+**1. Demand & Activity**
+Demand is mixed across business lines. Wireless activity is **robust**, achieving its "best wireless quarter ever" with 448,000 net additions ("surpassing 10 million total lines"). Business Services showed **moderate** growth, with connectivity revenue increasing 3.7% ("reinforcing the strength and breadth of our portfolio"). Conversely, residential broadband and video demand continues to **soften**, though broadband losses are improving ("Domestic Residential Broadband Customer Net Losses Improving by 34,000 Year-over-Year"). Theme Parks are experiencing "near-term softness."
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+Pricing power in the residential broadband sector appears **weak**, as revenue declines were driven in part by "lower average rates." However, the company is seeing growth in high-value segments, such as enterprise solutions. There is evidence of persistent cost pressure in the wireless segment, with non-programming expenses increasing due to "higher marketing and promotion costs" and "direct product costs."
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Overall capital expenditures increased **moderately** by 8.3% to $2.9 billion. Investment is shifting heavily toward technology and infrastructure, with Connectivity Platforms capex increasing 19.9% ("primarily reflecting higher spending on scalable infrastructure and customer premise equipment"). Conversely, spending in Content Experiences decreased 20.4%, following the completion of a major facility project ("reflecting the opening of Epic Universe in May 2025").

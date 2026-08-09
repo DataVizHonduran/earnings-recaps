@@ -1,0 +1,22 @@
+Ticker: TROW
+Source: TROW_2026-07-31.txt
+Generated: 2026-08-09 14:40 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: T. Rowe Price (TROW)**
+
+**1. Demand & Activity: Softening/Mixed**
+Overall demand is mixed; while the firm reached record assets under management of $1.9 trillion, it experienced "net client outflows of $6.5 billion" for the quarter. Demand is bifurcated by product line: "fundamental active equity remains under pressure," while there is growth in "ETF and SMA business" and "positive flows in May and June" in strategic growth areas.
+
+**2. Labor & Wages: Stable/Moderate Increase**
+Labor costs are seeing a moderate increase. Compensation, benefits, and related costs rose 4.2% year-over-year, primarily driven by a "higher interim bonus accrual partially offset by lower salaries and related benefits." Total headcount remains stable at 7,544 associates.
+
+**3. Pricing Power & Inflation: Softening**
+The firm is experiencing a slight decline in pricing power. The annualized effective fee rate (EFR) decreased to 38.1 basis points from 39.6 basis points year-over-year. This compression is attributed to a "mix shift in assets under management toward lower fee products and asset classes."
+
+**4. Supply Chain & Inventory: Not Applicable**
+Not applicable for this financial services entity.
+
+**5. Capital Spending (Capex): Moderate Investment**
+The firm is continuing to invest in technology and infrastructure. There is a noted "outsourcing and expansion of the firm's technology capabilities through trusted vendor partnerships," and the company continues to invest in "areas where we are investing for growth," specifically within the ETF and SMA segments.

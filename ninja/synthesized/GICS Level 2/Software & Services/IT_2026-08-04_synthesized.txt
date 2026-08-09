@@ -1,0 +1,22 @@
+Ticker: IT
+Source: IT_2026-08-04.txt
+Generated: 2026-08-09 14:40 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Gartner Inc. (IT)**
+
+**1. Demand & Activity**
+Demand is showing modest growth in recurring contract value, though overall revenue is slightly softening. Contract Value (FX Neutral) grew 1.7% YoY ("Contract Value, FX Neutral $5.3 billion, +0.3% Sequentially, +1.7% YoY"). Activity is bifurcated by product line: Global Business Sales saw moderate growth (+3.3% YoY), while Global Technology Sales remained relatively stable (+1.1% YoY). Segment performance was mixed, with robust growth in Conferences (+15.5%) but a moderate decline in Consulting revenues (-8.8%).
+
+**2. Labor & Wages**
+The company notes persistent pressure regarding talent acquisition and retention. Management specifically highlighted the ongoing challenge of attracting and keeping specialized staff ("our ability to attract and retain a professional staff of analysts and consultants as well as experienced sales personnel... especially in light of labor competition").
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price increases; however, it identifies inflation and subsequent monetary policy as ongoing systemic risks to the business environment ("the impact of global economic and geopolitical conditions, including inflation (and related monetary policy by governments in response to inflation) and recession").
+
+**4. Supply Chain & Inventory**
+Not applicable. As a professional services and insights firm, there are no mentions of physical supply chain constraints or inventory levels.
+
+**5. Capital Spending (Capex)**
+While specific facility spend is not detailed, the company is focused on technological investment to maintain competitiveness, specifically regarding artificial intelligence ("our ability to keep pace with technological and industry developments in artificial intelligence (AI) and comply with evolving AI regulations").

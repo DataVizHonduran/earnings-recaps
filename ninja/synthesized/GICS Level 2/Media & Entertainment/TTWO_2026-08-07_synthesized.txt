@@ -1,0 +1,22 @@
+Ticker: TTWO
+Source: TTWO_2026-08-07.txt
+Generated: 2026-08-09 14:40 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Take-Two Interactive (TTWO)**
+
+**1. Demand & Activity**
+Demand is currently **softening** slightly in the short term, with total Net Bookings decreasing 3% to $1.39 billion ("Total Net Bookings decreased 3% to $1.39 billion"). However, demand for recurrent consumer spending remains **stable** to **modestly growing**, increasing 3% on a GAAP revenue basis ("Recurrent consumer spending increased 3%"). Management anticipates **robust** future activity tied to the "November 19th launch of Grand Theft Auto VI" and the "continued growth in the installed base of PlayStation 5 and Xbox Series X/S."
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+There are no explicit mentions of price increases or commodity cost relief. The company notes that its outlook depends on a "continuation of the current economic backdrop" and "stable foreign exchange rates," though it did note a "revaluation of the Turkish Lira against the U.S. Dollar" as a factor in other adjustments.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a digital-first software provider, the company does not report traditional physical supply chain lead times or inventory bloat.
+
+**5. Capital Spending (Capex)**
+Capital investment is projected to be **moderate**, with planned expenditures of "approximately $290" million for the fiscal year ending March 31, 2027 ("Capital expenditures approximately $290").

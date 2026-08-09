@@ -1,0 +1,22 @@
+Ticker: POOL
+Source: POOL_2026-07-23.txt
+Generated: 2026-08-09 14:40 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: POOL Corp (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is generally stable, though bifurcated by product line. Maintenance activity remains steady ("steady maintenance demand from our installed base"), and there is moderate momentum in building materials. However, overall discretionary spending is described as "muted" ("improved sales of building materials amid a muted discretionary spending environment").
+
+**2. Labor & Wages**
+Not addressed. The transcript does not provide specific data on hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is experiencing modest inflationary benefits to top-line revenue ("increase reflected benefits from inflation"). However, pricing power is being partially offset by persistent input cost pressures, specifically in logistics ("Gross margin decreased... primarily due to elevated inbound freight costs").
+
+**4. Supply Chain & Inventory**
+Inventory levels are stable and lean, following expected seasonal patterns ("managed our inventory well, reflecting seasonal declines"). The company is actively pursuing "supply chain discipline" and "supply chain initiatives" to mitigate margin headwinds.
+
+**5. Capital Spending (Capex)**
+Specific facility or technology spend is not detailed, but the company has identified "disciplined M&A" as a core strategic priority for future growth ("focused on four priorities: ... and disciplined M&A").
