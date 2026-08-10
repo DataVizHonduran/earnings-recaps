@@ -1,0 +1,22 @@
+Ticker: LNT
+Source: LNT_2026-07-31.txt
+Generated: 2026-08-10 15:03 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Alliant Energy (LNT)**
+
+**1. Demand & Activity**
+Demand is characterized by robust long-term growth expectations driven by industrial expansion, though short-term retail activity remains sensitive to weather. The company forecasts "60% load growth by 2031," specifically noting that "large customer load" (including "three data centers making significant construction progress") is materializing as expected. However, recent retail electric and gas sales were impacted by "temperatures on customer demand."
+
+**2. Labor & Wages**
+The company is experiencing moderate upward pressure on operating costs. Management cited "higher other operating and maintenance expense primarily related to labor" as a primary offset to revenue gains during the second quarter.
+
+**3. Pricing Power & Inflation**
+Pricing is managed through regulatory mechanisms rather than market-driven shifts. The company reported "higher revenue requirements from increasing rate base," indicating a steady pass-through of investment costs to customers. While not citing current commodity spikes, the company maintains a risk watch for "cost increases of and access to materials, equipment and commodities" driven by "inflation, labor issues or supply shortages."
+
+**4. Supply Chain & Inventory**
+The report does not indicate current bloating or acute shortages, but it highlights ongoing systemic risks. The company continues to monitor "supply chain disruptions which may result from geopolitical issues" and "contractor performance" as potential threats to project timelines.
+
+**5. Capital Spending (Capex)**
+Capex activity is robust and focused on capacity expansion and decarbonization. Significant investments are being directed toward "generation and energy storage" and "energy resource investments" to support "significant economic development" and the integration of large-scale industrial loads. Success is contingent upon the "execution of capital expenditure plans, including achievement of targeted in-service dates."
