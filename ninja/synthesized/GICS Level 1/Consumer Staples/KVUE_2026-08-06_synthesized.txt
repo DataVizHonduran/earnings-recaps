@@ -1,0 +1,22 @@
+Ticker: KVUE
+Source: KVUE_2026-08-06.txt
+Generated: 2026-08-10 15:03 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Kenvue Inc. (Q2 2026)**
+
+**Demand & Activity:**
+Demand is showing modest growth, with organic sales increasing 1.6% ("broad-based gains across every segment and region"). Activity is particularly robust in Skin Health and Beauty, driven by hair and face care ("Organic sales growth was driven by... a volume increase of 1.0%"). In the U.S., there is a modest recovery in Self Care, supported by "strong eCommerce momentum" and a "return to Organic sales growth in the U.S., the Company’s largest market." However, demand is softening in specific categories, notably a "decline in Oral Care."
+
+**Labor & Wages:**
+The company is actively pursuing headcount and operational reductions. Management is executing a "2026 Restructuring Initiative" designed to "optimize its operating model" and "reduce complexity," which is expected to incur approximately $250 million in pre-tax charges for the fiscal year.
+
+**Pricing Power & Inflation:**
+Kenvue maintains moderate pricing power, utilizing "favorable value realization" to drive growth in Self Care (1.2%) and Skin Health (2.7%). However, these gains are being offset by persistent inflationary pressures. Gross profit margins softened slightly, reflecting the "impact from inflation, tariffs, as well as unfavorable transactional foreign exchange."
+
+**Supply Chain & Inventory:**
+The company is focused on structural efficiency rather than immediate inventory volatility. It is currently implementing "global supply chain optimization initiatives" to generate productivity savings and "transform its supply chain" as part of its broader restructuring efforts.
+
+**Capital Spending (Capex):**
+Capital expenditures have seen a slight decline, totaling $0.2 billion compared to $0.3 billion in the prior year period. Despite lower physical capex, the company continues to make "strategic investment to fuel sustained momentum" and is focusing on "innovation-driven execution" for new product launches.

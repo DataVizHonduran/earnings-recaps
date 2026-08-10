@@ -1,0 +1,27 @@
+Ticker: BDX
+Source: BDX_2026-08-06.txt
+Generated: 2026-08-10 15:03 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Becton Dickinson & Co (BDX)**
+
+**1. Demand & Activity**
+Demand is showing **moderate** growth overall, with a notable geographic divergence. U.S. activity is **robust**, while international demand remains **stable** to flat on a currency-neutral basis. Growth is broad-based across all product lines, with the strongest momentum in BioPharma Systems and Interventional segments.
+*   **U.S. Revenue:** +6.9% FXN ("United States $3,081... 6.9% [FXN Change]")
+*   **International Revenue:** +0.6% FXN ("International $1,902... 0.6% [FXN Change]")
+*   **Outlook:** Management expects continued "ongoing momentum" and revenue growth "toward the high end of its range."
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail pricing actions or specific input cost fluctuations. However, the company reports expanding margins and an increase in adjusted operating margins, suggesting a **stable** to improving cost environment or effective pricing offsets.
+*   **Margin Trend:** Management is focused on "expanding margins" ("...expanding margins and allocating capital strategically").
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific data regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+The company is maintaining a strategy of **moderate** and disciplined investment, focusing on "strategic" allocation to support long-term growth and innovation.
+*   **Investment Focus:** Focus remains on "allocating capital strategically to drive sustainable growth" and "continued innovation."

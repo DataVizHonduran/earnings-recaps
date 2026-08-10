@@ -1,0 +1,22 @@
+Ticker: VRTX
+Source: VRTX_2026-08-03.txt
+Generated: 2026-08-10 15:04 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Vertex Pharmaceuticals (VRTX)**
+
+**1. Demand & Activity**
+Demand is **robust** and growing globally. Total revenue increased 12% year-over-year, driven by "continued strong CF patient demand" in the U.S. and "strong CF performance across multiple geographies" internationally. Growth is diversifying beyond the core cystic fibrosis (CF) portfolio, with **robust** sequential growth in new product lines: CASGEVY revenue grew 78% quarter-over-quarter ("representing 78% quarter-over-quarter sequential growth") and JOURNAVX grew 71% ("representing 71% quarter-over-quarter sequential growth").
+
+**2. Labor & Wages**
+Not explicitly discussed. The report notes increased operating expenses due to "commercial investment to support the launch of JOURNAVX" and the "build-out of the renal franchise," implying headcount or resource expansion in those specific divisions, though specific wage or hiring data was not provided.
+
+**3. Pricing Power & Inflation**
+The company demonstrates **moderate** pricing power, specifically noting "higher realized net prices in CF versus the prior year." Regarding inflation, the company reports a "immaterial cost impact from tariffs in 2026" ("this guidance also continues to include an immaterial cost impact from tariffs").
+
+**4. Supply Chain & Inventory**
+No specific mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment is focused on portfolio expansion and R&D. The company is actively investing in the "build-out of the renal franchise" ("the build-out of the renal franchise, led by povetacicept in IgAN") and is pursuing inorganic growth through the "agreement to acquire Crinetics Pharmaceuticals" ("closing anticipated in the third quarter of 2026") to enter the rare endocrine disease market.

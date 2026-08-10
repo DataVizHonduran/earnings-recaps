@@ -1,0 +1,22 @@
+Ticker: MSFT
+Source: MSFT_2026-07-29.txt
+Generated: 2026-08-10 15:04 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Microsoft (MSFT)**
+
+**1. Demand & Activity**
+Demand is **robust**, particularly within cloud and AI services. Microsoft Cloud revenue grew 27% year-over-year to $59.3 billion ("Microsoft Cloud revenue of $59.3 billion, up 27% year-over-year"). Specific growth is noted in AI adoption, with Azure revenue exceeding $100 billion for the first time and Microsoft 365 Copilot expanding to "over 30 million paid seats."
+
+**2. Labor & Wages**
+The company is experiencing **moderate** workforce adjustments. There are indications of headcount reductions through a "Voluntary Retirement Program" and "severance expense," alongside "impairment charges in XBOX."
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price hikes or input cost pressures; however, the company is focused on optimizing the "cost-to-outcome curve" for its customers ("advancing the frontier on the cost-to-outcome curve").
+
+**4. Supply Chain & Inventory**
+No specific mentions of lead times or inventory levels were provided in the text.
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for future facilities are not listed, the company is maintaining **robust** investment in AI technology and strategic partnerships, including significant "investments in OpenAI" and a "gain from our investment in Anthropic."

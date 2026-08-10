@@ -1,0 +1,22 @@
+Ticker: PNW
+Source: PNW_2026-08-04.txt
+Generated: 2026-08-10 15:04 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Pinnacle West (PNW)**
+
+**1. Demand & Activity**
+Demand is growing robustly, driven by both population growth and extreme weather. The company reported "robust residential customer growth of 2.1%" and "weather-normalized sales growth of 5.6%," with total sales increasing 9.6%. This activity was further accelerated by an early onset of summer heat, resulting in a "7% increase in residential cooling degree days" ("Summer arrived early this year... customers turned on their air conditioners sooner than usual").
+
+**2. Labor & Wages**
+The report does not specify wage trends or hiring difficulties, though it notes that operational performance remained "strong" during peak demand. Future capacity projects are expected to create "jobs and economic benefits for Navajo County" ("creating jobs and economic benefits for Navajo County").
+
+**3. Pricing Power & Inflation**
+The company is facing moderate cost pressures from "higher interest charges" and "higher depreciation and amortization." While specific price hikes are not detailed, the company is managing customer affordability through "financial assistance programs, including discounts of up to 25% or 60% for eligible vulnerable customers" ("expanding existing programs and resources to help customers manage higher seasonal energy bills").
+
+**4. Supply Chain & Inventory**
+Not addressed.
+
+**5. Capital Spending (Capex)**
+Capex is focused on reliability and capacity expansion to meet sustained load growth. The company announced plans to convert two retired coal-fired units to natural gas to bring "380 MW of reliable, dispatchable energy back online by 2029" ("investing in the infrastructure and resources needed to provide the reliable energy service"). Construction for this project is expected to begin in 2028.

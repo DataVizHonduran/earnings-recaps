@@ -1,0 +1,22 @@
+Ticker: REGN
+Source: REGN_2026-07-30.txt
+Generated: 2026-08-10 15:04 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Regeneron Pharmaceuticals (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is robust for high-dose and specialty products, though mixed across the portfolio. EYLEA HD saw robust growth driven by "increased demand" (Net product sales of EYLEA HD increased... primarily due to higher sales volumes driven by increased demand), and Libtayo experienced similar robust growth ("higher sales volumes driven by increased demand"). Conversely, demand for legacy EYLEA is softening due to "continued competitive pressures and the continued transition of patients to EYLEA HD."
+
+**2. Labor & Wages**
+Not addressed.
+
+**3. Pricing Power & Inflation**
+Pricing power appears modest to softening for key products. The company reported that growth in EYLEA HD was "partly offset by a lower net selling price," and legacy EYLEA was similarly "negatively impacted by... a lower net selling price." There were no specific mentions of input cost inflation, though GAAP gross margins decreased due to "unabsorbed manufacturing costs" following a "temporary interruption of bulk manufacturing production" in Ireland.
+
+**4. Supply Chain & Inventory**
+Supply chains are stable. Despite a temporary production interruption at the Limerick, Ireland facility, the company noted that the "interruption did not impact the availability of any of the Company's products" and that production has since "returned to normal levels."
+
+**5. Capital Spending (Capex)**
+Investment in capacity is robust. The company continues to "invest confidently in our pipeline, U.S. manufacturing, and external innovation." Specifically, a new manufacturing facility in Saratoga Springs, New York, is "currently under construction" and has been selected for the FDA PreCheck Pilot Program to streamline the regulatory pathway for new facilities.

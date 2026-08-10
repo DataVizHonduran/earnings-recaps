@@ -1,0 +1,22 @@
+Ticker: CF
+Source: CF_2026-08-05.txt
+Generated: 2026-08-10 15:03 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: CF Industries (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is characterized by a "tight global nitrogen supply-demand balance" ("Outstanding operational performance in a tight global nitrogen supply-demand balance"). Activity remains robust, with the company achieving a 98% available ammonia capacity utilization rate for the first half of 2026 ("98% 1H 2026 Available Ammonia Capacity Utilization").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage pressures. It notes a "recordable incident rate" of 0.16 per 200,000 work hours ("12-month Rolling Average Recordable Incident Rate (5) 0.16"), suggesting stable safety performance.
+
+**3. Pricing Power & Inflation**
+The company notes that its operating results are subject to the "cyclical nature of the Company’s business and the impact of global supply and demand on the Company’s selling prices" ("the cyclical nature of the Company’s business and the impact of global supply and demand on the Company’s selling prices"). There is an explicit mention of potential "impact of tariffs and retaliatory measures on the price and availability of materials" for maintenance and capital projects ("potential impact of tariffs and retaliatory measures on the price and availability of materials for its capital projects and maintenance").
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory levels, though it highlights a reliance on "third party providers of transportation services and equipment" ("reliance on third party providers of transportation services and equipment").
+
+**5. Capital Spending (Capex)**
+Capex is focused on moderate to robust investments in low-carbon technology and capacity expansion. Key projects include the "construction of a low-carbon ammonia production facility" and "carbon capture and sequestration projects" at the Blue Point Complex ("the construction of a low-carbon ammonia production facility with its joint venture partners and scalable infrastructure"). The company also expects the Yazoo City Complex to "resume operations in 1H 2027" ("management currently expects will resume operations in 1H 2027").

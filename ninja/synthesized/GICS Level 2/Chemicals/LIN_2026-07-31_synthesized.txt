@@ -1,0 +1,22 @@
+Ticker: LIN
+Source: LIN_2026-07-31.txt
+Generated: 2026-08-10 15:03 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Linde PLC (Q2 2026)**
+
+**Demand & Activity**
+Demand is showing moderate growth globally, though performance is bifurcated by region and sector. Activity is robust in the electronics, manufacturing, and chemicals & energy markets ("underlying sales increased 4%... primarily in the electronics, manufacturing and chemicals & energy end markets"). Growth is particularly strong in APAC, driven by electronics and project start-ups ("underlying sales increased 8%, driven by 6% volumes"). Conversely, demand in EMEA is softening, specifically within the manufacturing sector ("underlying sales increased 1%, driven by 2% higher pricing and lower volumes, primarily in the manufacturing end market"). Forward-looking demand signals remain robust, particularly in the U.S. electronics sector ("Customer proposal activity remains robust, primarily across the electronics end market").
+
+**Labor & Wages**
+The provided text contains no specific data regarding current hiring, turnover, or wage trends.
+
+**Pricing Power & Inflation**
+The company maintains modest pricing power, implementing price increases across all reporting segments ("underlying sales increased... driven by 2% higher pricing" in Americas and EMEA; "2% higher pricing" in APAC). However, these gains are being partially offset by persistent cost inflation ("higher price and productivity initiatives were offset by cost inflation"), which contributed to a slight contraction in operating margins.
+
+**Supply Chain & Inventory**
+The report does not explicitly detail lead times or inventory levels; however, the company reports a record project backlog, suggesting a strong pipeline of future activity ("increasing the sale of gas backlog to a record $8.1 billion").
+
+**Capital Spending (Capex)**
+Capex remains robust to support capacity expansion and maintenance. The company expects full-year capital expenditures to be between $5.5 billion and $6.0 billion ("to support growth and maintenance requirements including the $8.1 billion contractual sale of gas project backlog").
