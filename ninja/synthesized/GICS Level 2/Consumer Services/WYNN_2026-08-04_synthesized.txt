@@ -1,0 +1,22 @@
+Ticker: WYNN
+Source: WYNN_2026-08-04.txt
+Generated: 2026-08-11 15:06 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Wynn Resorts (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is generally robust, though performance varies by geography. Macau shows strong growth, particularly at Wynn Palace ("Operating revenues from Wynn Palace were $653.4 million... an increase of $113.8 million"). Las Vegas activity remains stable with a recent peak ("monthly record for Adjusted Property EBITDAR in Las Vegas in May"). Conversely, demand at Encore Boston Harbor is softening ("Operating revenues... decreased $6.4 million"). Overall, the company reports "continued healthy demand dynamics throughout our business."
+
+**2. Labor & Wages**
+Not addressed. The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+Not addressed. The provided text contains no specific data regarding price increases or input cost pressures.
+
+**4. Supply Chain & Inventory**
+Not addressed. The provided text contains no mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment in capacity is robust, focused on international diversification. The company is aggressively funding the Wynn Al Marjan Island development in the UAE, with construction "progressing at a rapid pace" and a scheduled opening in "September of 2027." Recent capital contributions to the joint venture totaled "$48.1 million of cash" for the quarter, bringing life-to-date investment to "$1.06 billion."

@@ -1,0 +1,22 @@
+Ticker: ES
+Source: ES_2026-07-30.txt
+Generated: 2026-08-11 15:04 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Eversource Energy (ES)**
+
+**1. Demand & Activity**
+Activity remains stable to moderate, characterized by a strategic shift toward a "pure-play regulated electric and natural gas delivery company" ("positioning Eversource for continued success as a pure-play regulated electric and natural gas delivery company"). There is robust activity in regional infrastructure development, specifically regarding new transmission projects ("preliminary selection by ISO-NE to develop critical transmission infrastructure that will bring power from northern Maine to southern New England").
+
+**2. Labor & Wages**
+Not addressed. The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is exercising moderate pricing power through regulatory mechanisms to offset costs. Revenue growth in the electric and gas segments was driven by "base distribution rate increases" in Massachusetts, New Hampshire, and across all gas businesses ("higher revenues from base distribution rate increases at Eversource’s Massachusetts and New Hampshire electric businesses"). However, these gains were partially offset by persistent pressure from "higher interest expense, depreciation, and property taxes."
+
+**4. Supply Chain & Inventory**
+Not addressed. The provided text contains no mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capex activity is robust and focused on grid modernization and capacity expansion. The company is prioritizing "executing on our strategic investments" ("our priorities remain clear... executing on our strategic investments"). Specific investment activity is noted in the electric transmission and distribution systems ("continued investment in Eversource’s electric transmission system" and "continued investments in the Company’s distribution system").

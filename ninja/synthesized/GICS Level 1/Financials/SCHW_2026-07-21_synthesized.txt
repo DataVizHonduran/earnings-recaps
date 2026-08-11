@@ -1,0 +1,22 @@
+Ticker: SCHW
+Source: SCHW_2026-07-21.txt
+Generated: 2026-08-11 15:05 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Charles Schwab (SCHW)**
+
+**1. Demand & Activity**
+Demand for financial services is **robust**. The firm saw a significant increase in client acquisition and asset inflows, with core net new assets growing 49% year-over-year ("Core net new assets totaled $119.8 billion, up 49% versus 2Q25"). Trading activity is **robust**, reaching record levels ("Daily average trading volume reached a record 11.9 million up 57% versus 2Q25"). Demand for credit products is also **moderate to robust**, evidenced by a 33% year-over-year increase in bank loan balances ("Bank loan balances equaled $67.0 billion at June month-end, up 33% year-over-year").
+
+**2. Labor & Wages**
+The report indicates **moderate** growth in labor costs. Compensation and benefits expenses increased from $1.54 billion in 2Q25 to $1.79 billion in 2Q26 ("Compensation and benefits 1,790 [million] 2026 vs 1,536 [million] 2025"). There were no specific mentions of hiring difficulties or headcount reductions.
+
+**3. Pricing Power & Inflation**
+The firm demonstrates **stable to positive** pricing power through diversified revenue streams. Asset management and administration fees grew 16% year-over-year ("Asset management and administration fees grew by 16% year-over-year to $1.8 billion"). The firm also experienced a **slight** expansion in its net interest margin, increasing 12 basis points quarter-over-quarter to 3.00% ("Net interest margin for the quarter expanded 12 basis points quarter-over-quarter to 3.00%").
+
+**4. Supply Chain & Inventory**
+Not applicable to this service-based financial institution.
+
+**5. Capital Spending (Capex)**
+Investment in technology is **moderate**, specifically targeting artificial intelligence to enhance client experience. The firm recently deployed new generative AI capabilities ("Introduced Portfolio Insights, a generative AI-powered capability that helps investors understand portfolio performance"). General operational spending on occupancy and equipment saw a **slight** increase year-over-year ("Occupancy and equipment 301 [million] 2026 vs 270 [million] 2025").

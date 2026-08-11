@@ -1,0 +1,22 @@
+Ticker: KIM
+Source: KIM_2026-08-04.txt
+Generated: 2026-08-11 15:04 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Kimco Realty (KIM)**
+
+**1. Demand & Activity**
+Demand for retail space is robust, characterized by "strong leasing activity" ("supported robust leasing activity"). This is driven by a combination of "limited new shopping center supply" and "continued consumer demand for the everyday essentials" ("continued consumer demand for the everyday essentials"). Portfolio occupancy has reached an all-time high of 96.4%, with a record high for small-shop occupancy at 92.9% ("Matched all-time high portfolio occupancy of 96.4%").
+
+**2. Labor & Wages**
+Not addressed in the provided text.
+
+**3. Pricing Power & Inflation**
+The company demonstrates strong pricing power, achieving "pro-rata cash rent spreads of 40.4% on comparable new leases" ("Achieved pro-rata cash rent spreads of 40.4%"). This contributed to a moderate increase in same-property net operating income of 3.5% year-over-year ("Grew same property net operating income* (”NOI”) 3.5% year-over-year").
+
+**4. Supply Chain & Inventory**
+Not addressed in the provided text.
+
+**5. Capital Spending (Capex)**
+The company is focused on "strategic capital allocation activities" to enhance financial flexibility ("Together with our strategic capital allocation activities, we further enhanced our financial flexibility"). Recent activity includes the sale of a 253-unit multifamily building for $142.3 million ("Completed the sale of The Milton... for $142.3 million") and the issuance of $600 million in exchangeable senior notes ("Issued $600.0 million 3.50% exchangeable senior notes").

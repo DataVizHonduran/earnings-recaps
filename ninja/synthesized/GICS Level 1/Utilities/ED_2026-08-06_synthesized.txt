@@ -1,0 +1,22 @@
+Ticker: ED
+Source: ED_2026-08-06.txt
+Generated: 2026-08-11 15:04 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Consolidated Edison (ED)**
+
+**1. Demand & Activity**
+Demand is showing moderate growth, driven by structural shifts in energy consumption. Management notes a "vibrant market" and "growing momentum for the electrification of buildings and transportation" ("Our vibrant market and the growing momentum for the electrification of buildings and transportation support our confidence").
+
+**2. Labor & Wages**
+No specific data on current wage levels or hiring trends was provided; however, the company identifies the "failure to retain and attract employees and contractors" as a persistent operational risk ("the failure to retain and attract employees and contractors... could adversely affect it").
+
+**3. Pricing Power & Inflation**
+The company is focused on balancing affordability with cost recovery. While no specific price hikes were detailed, management is "redoubling our efforts to keep our service affordable for all customers" ("redoubling our efforts to keep our service affordable for all customers"). Inflation and tariffs remain listed as ongoing risk factors ("faces risks related to supply chain disruptions, inflation and the imposition of tariffs").
+
+**4. Supply Chain & Inventory**
+The company does not report specific inventory levels but continues to flag supply chain stability as a primary risk to its operations ("faces risks related to supply chain disruptions").
+
+**5. Capital Spending (Capex)**
+Capex is robust and focused on long-term infrastructure and resilience. The company is investing "tens of billions of dollars" in capital projects to meet energy needs, with a specific target of having "28 new substations in service by 2035" ("We expect to have 28 new substations in service by 2035, along with tens of billions of dollars in other capital investments"). Investments are specifically targeted toward "preparing our network for periods of extreme heat" ("investing to further strengthen reliability and system resilience, including preparing our network for periods of extreme heat").

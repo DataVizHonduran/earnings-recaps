@@ -1,0 +1,22 @@
+Ticker: AWK
+Source: AWK_2026-07-29.txt
+Generated: 2026-08-11 15:04 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: American Water Works (AWK)**
+
+**1. Demand & Activity**
+Activity is growing modestly, driven primarily by inorganic expansion. The company added approximately 52,000 customer connections via acquisitions through June 30 ("approx. 52,000 customer connections added from acquisitions"). Growth is further supported by a pending merger with Essential Utilities, which has received three state regulatory approvals.
+
+**2. Labor & Wages**
+Not addressed. The transcript contains no specific mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is exercising robust pricing power through regulatory channels to offset persistent input cost pressures. Revenue growth was driven by "authorized revenue increases from completed general rate cases and infrastructure proceedings." However, the company is facing moderate inflationary pressure on operating expenses, specifically citing "increased production costs from higher purchased water cost and usage and increased purchased power and chemicals costs."
+
+**4. Supply Chain & Inventory**
+Not addressed. The transcript does not provide data on lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capital investment remains robust and on track. The company has a total 2026 investment plan of approximately $3.7 billion ("capital investment plan of $3.7 billion on track"), with $1.8 billion already deployed in the first half of the year for "infrastructure improvements and growth," including $346 million dedicated to regulated acquisitions.
