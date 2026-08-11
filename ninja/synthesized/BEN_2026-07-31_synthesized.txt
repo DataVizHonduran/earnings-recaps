@@ -1,0 +1,22 @@
+Ticker: BEN
+Source: BEN_2026-07-31.txt
+Generated: 2026-08-11 15:04 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Franklin Resources Inc. (BEN)**
+
+**1. Demand & Activity**
+Demand is robust and broad-based, with positive net flows across all asset classes and geographies ("generated positive net flows across every asset class and geography"). There is a notable shift toward integrated public and private asset solutions, with alternative AUM reaching a record $294.2 billion ("Alternative AUM reached a record $294.2 billion"). Growth is particularly strong in private market strategies, ETFs, and retail SMAs ("Demand also remained strong across ETFs, retail SMAs and Canvas"). International activity is also expanding, with AUM reaching a record $525 billion ("International markets reached a record approximately $525 billion in AUM").
+
+**2. Labor & Wages**
+Labor costs are seeing a modest increase. Compensation and benefits expenses rose 6% year-over-year to $958.5 million ("Compensation and benefits 958.5... 6% [change]"). There were no specific mentions of hiring difficulties or headcount reductions.
+
+**3. Pricing Power & Inflation**
+The company is experiencing moderate growth in revenue streams, suggesting stable pricing power. Investment management fees increased 14% year-over-year ("Investment management fees $1,866.2... 14% [change]"), and sales/distribution fees rose 15% ("Sales and distribution fees 404.5... 15% [change]"). There is no mention of input cost pressures or commodity inflation.
+
+**4. Supply Chain & Inventory**
+Not applicable to this service-based financial entity.
+
+**5. Capital Spending (Capex)**
+The company is maintaining a disciplined approach to capital allocation but continues to invest in expanding its platform and capabilities ("investing in new capabilities, deepening client relationships and expanding our platform"). Spending on information systems and technology remained stable, with a slight 1% decrease year-over-year ("Information systems and technology 160.8... (1% [change])").

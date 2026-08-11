@@ -1,0 +1,22 @@
+Ticker: ORLY
+Source: ORLY_2026-07-29.txt
+Generated: 2026-08-11 15:05 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: O'Reilly Automotive (ORLY)**
+
+**1. Demand & Activity**
+Demand remains robust, characterized by solid growth across both professional and DIY customer segments ("delivered solid growth in both professional and DIY during the quarter"). Comparable store sales grew by 6.0% in Q2, leading management to raise full-year guidance to a range of 4% to 6% based on "confidence in the strength of the underlying demand drivers."
+
+**2. Labor & Wages**
+The provided text contains no specific data on wage increases, turnover, or hiring difficulties, though the company lists the "ability to hire and retain qualified employees" as a general forward-looking risk factor.
+
+**3. Pricing Power & Inflation**
+Pricing and margins appear stable. Gross profit as a percentage of sales remained flat at 51.4% for the second quarter compared to the prior year. The company projects a slight increase in gross profit margins for the full year, forecasting a range of 51.5% to 52.0%.
+
+**4. Supply Chain & Inventory**
+Inventory availability is reported as strong, with the company citing "best-in-class parts availability" as a key driver in its effort to take market share. No mentions of lead-time volatility or bloated inventory levels were noted.
+
+**5. Capital Spending (Capex)**
+Investment in physical capacity remains aggressive. The company is on track for "225 to 235 net, new store openings in 2026," having already opened 110 stores year-to-date. Total capital expenditures for the full year are projected to be between $1.3 billion and $1.4 billion.

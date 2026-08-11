@@ -1,0 +1,22 @@
+Ticker: NSC
+Source: NSC_2026-07-23.txt
+Generated: 2026-08-11 15:05 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Norfolk Southern (NSC)**
+
+**1. Demand & Activity**
+Demand is showing moderate growth. The company reported a volume increase of 4% year-over-year ("volume increase of 4% year-over-year") and noted that demand has "improved across key markets" ("demand improved across key markets"). Management describes current demand trends as "encouraging" ("encouraging demand trends").
+
+**2. Labor & Wages**
+Not addressed in the provided text.
+
+**3. Pricing Power & Inflation**
+The company is experiencing persistent inflationary pressure from energy costs, though it possesses the pricing power to pass these costs through via surcharges. Higher fuel expenses created a "110 basis points of headwind to the operating ratio" ("Higher fuel expense... translated to 110 basis points of headwind"), but this was partially offset by "higher fuel surcharges representing six points of the revenue growth" ("higher fuel surcharges representing six points of the revenue growth").
+
+**4. Supply Chain & Inventory**
+Not addressed in the provided text.
+
+**5. Capital Spending (Capex)**
+Not addressed in the provided text.

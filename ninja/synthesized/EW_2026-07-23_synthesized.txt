@@ -1,0 +1,22 @@
+Ticker: EW
+Source: EW_2026-07-23.txt
+Generated: 2026-08-11 15:04 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Edwards Lifesciences (EW)**
+
+**1. Demand & Activity**
+Demand is **robust** and growing across all primary product lines. TAVR sales grew 11.3% ("procedural growth benefited from sustained clinical momentum"), while TMTT saw a significant increase of 47.3% ("mitral and tricuspid procedure growth remained in the double digits"). Geographic demand is stable and balanced, with growth rates "similar in the U.S. and outside of the U.S." and a "modest" increase in competitive position within both the U.S. and European markets.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+Pricing remains **stable** globally ("Average selling prices were stable globally"). The company is experiencing modest input cost relief, noting that gross profit margins were supported by "lower manufacturing expenses," though these gains were partially offset by "foreign exchange headwinds."
+
+**4. Supply Chain & Inventory**
+The transcript does not provide specific data on lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+The company is maintaining a **moderate** pace of strategic investment, focusing on the "strategic prioritization of investments in its expanding structural heart portfolio." This includes a "measured launch" of the SAPIEN M3 system and a "measured rollout" of the ECLIPTIS surgical system later this year.

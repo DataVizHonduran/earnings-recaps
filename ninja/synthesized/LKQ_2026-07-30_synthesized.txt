@@ -1,0 +1,22 @@
+Ticker: LKQ
+Source: LKQ_2026-07-30.txt
+Generated: 2026-08-11 15:05 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: LKQ Corp (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is mixed and geographically divergent. North American activity is showing a modest recovery, returning to positive organic growth for the first time in nine quarters ("North America returned to positive organic growth for the first time in nine quarters"), supported by robust alternative-parts utilization ("record alternative-parts utilization of over 40%"). Conversely, European demand is softening, specifically in the UK and Benelux regions ("lower volumes we witnessed in the UK and Benelux regions"), while the Specialty segment faces moderate headwinds from "continued macro economic pressure on consumers."
+
+**2. Labor & Wages**
+Not addressed. The transcript contains no specific mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is facing persistent pressure from trade policy, specifically noting the impact of new tariffs ("estimated impacts from the U.S. and retaliatory tariffs in effect as of July 1, 2026"). There is no mention of proactive price increases, though the company is focused on "aligning the cost structure with current demand" in Europe to protect margins.
+
+**4. Supply Chain & Inventory**
+The company is currently focused on restoring operational efficiency in Europe following a technical disruption ("actions underway in Europe are focused on restoring service levels"), suggesting a temporary instability in distribution or fulfillment in that region. No specific data on global lead times or inventory levels was provided.
+
+**5. Capital Spending (Capex)**
+Current investment focus is directed toward digital infrastructure and organizational restructuring. The company is managing a "slower-than-expected recovery following the ERP implementation in Germany" and is maintaining a "disciplined focus on cost management" and "capital allocation" amid a broader strategic review of its business segments.
