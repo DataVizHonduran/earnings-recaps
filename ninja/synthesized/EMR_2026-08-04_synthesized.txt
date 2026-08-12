@@ -1,0 +1,22 @@
+Ticker: EMR
+Source: EMR_2026-08-04.txt
+Generated: 2026-08-12 15:02 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Emerson Electric Co. (EMR)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by underlying order growth of 7% ("Demand was robust, with underlying orders up 7%"). Growth is broad-based across North America and Asia ("broad-based growth in North America and Asia"), though Europe shows slight softening with a 1% decline in underlying sales. Product-line activity is strongest in Software Systems ("led by Software Systems") and Test Measurement, while Safety Productivity remains modest. Management cites "secular tailwinds" supporting sustained investment in growth verticals.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is experiencing moderate margin expansion, with pretax margins increasing by 270 bps to 18.8% ("Margin 16.1% 18.8% 270 bps"). While specific pricing actions are not detailed, the overall increase in Adjusted Segment EBITA margins suggests effective cost management or pricing power. Inflation is listed as a general risk factor in the forward-looking statements ("risks and uncertainties... include... inflation").
+
+**4. Supply Chain & Inventory**
+Inventory levels have increased moderately, rising from $2.21 billion to $2.51 billion over the reported period ("Inventories 2,213 2,513"). There are no specific mentions of lead times or supply chain bottlenecks.
+
+**5. Capital Spending (Capex)**
+Capital expenditures remain stable, with $284 million spent over the nine-month period compared to $263 million in the prior year ("Capital expenditures (263) (284)"). The company is currently prioritizing a pivot in capital allocation toward returning cash to shareholders via dividends and repurchases ("As we pivot capital allocation to returning cash to shareholders").

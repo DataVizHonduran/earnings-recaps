@@ -1,0 +1,22 @@
+Ticker: IVZ
+Source: IVZ_2026-07-28.txt
+Generated: 2026-08-12 15:03 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Invesco Ltd. (IVZ)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by record net long-term inflows of $45.1 billion for the quarter ("$45.1 billion of record net long-term inflows for the quarter"). Growth is broad-based geographically, with positive inflows across the Americas, Asia Pacific, and EMEA ("the Americas, Asia Pacific, and EMEA regions achieved net long-term inflows"). Product demand is bifurcated: strong momentum in ETFs, Index, and Private Markets, contrasted by softening demand in Fundamental Equities ("net long-term outflows from Fundamental Equities of $7.7 billion").
+
+**2. Labor & Wages**
+Headcount remains stable to slightly declining, with a modest sequential decrease ("Headcount 7,405... [vs] 7,421"). There is evidence of rising variable labor costs linked to performance, though base salaries have seen a moderate decline due to prior divestitures ("Employee compensation expense increased... primarily due to higher employee variable compensation costs... partially offset by lower salaries").
+
+**3. Pricing Power & Inflation**
+The company is experiencing moderate revenue growth driven by volume (AUM) rather than explicit price hikes ("Net revenue growth was 5%... primarily driven by higher average AUM"). There is no mention of input cost inflation; however, the company reports a "disciplined approach to expense management" ("expenses were flat on a sequential quarter basis"), suggesting a focus on maintaining margins through scale.
+
+**4. Supply Chain & Inventory**
+Not applicable to this service-based financial entity.
+
+**5. Capital Spending (Capex)**
+Investment activity is focused on strategic product positioning and platform scaling ("continuing to invest in the business and positioning our product suite to meet ever-evolving global demand"). There are no specific mentions of new physical facilities, though the company is leveraging its "increasingly scaled platform" to drive operating leverage.

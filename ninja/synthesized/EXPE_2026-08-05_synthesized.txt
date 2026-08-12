@@ -1,0 +1,22 @@
+Ticker: EXPE
+Source: EXPE_2026-08-05.txt
+Generated: 2026-08-12 15:02 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Expedia Group (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is growing robustly, characterized by a 12% year-over-year increase in total Gross Bookings ("Total Gross Bookings grew 12%"). Growth is particularly strong in the B2B sector, which saw a 21% increase ("B2B Gross Bookings grew 21%"), while B2C growth was more modest at 8% ("B2C Gross Bookings grew 8%"). Geographically, non-U.S. points of sale are expanding more rapidly than domestic activity, with 18% growth compared to 12% in the U.S. ("Non-U.S. points of sale 18%"). Lodging demand remains stable to positive, with booked room nights increasing 6% ("Booked Room Nights grew 6%").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is experiencing moderate pricing power in the lodging sector, as evidenced by a 5% increase in the Average Daily Rate (ADR) booked ("Average Daily Rate (ADR) Booked... 5%"). There is no mention of input cost relief or persistent inflationary pressures on operating expenses.
+
+**4. Supply Chain & Inventory**
+Not applicable. The company reports an expansion of its partner network to support growth ("expanded supply across our business").
+
+**5. Capital Spending (Capex)**
+Investment is focused on technology and operational efficiency, specifically leveraging artificial intelligence to accelerate innovation ("leveraging AI as a force multiplier to innovate faster and operate more efficiently"). While specific dollar amounts for future facilities are not listed, the company continues to invest in "personalized consumer product experiences."

@@ -1,0 +1,22 @@
+Ticker: SNA
+Source: SNA_2026-07-23.txt
+Generated: 2026-08-12 15:03 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Snap-on Inc. (SNA)**
+
+**1. Demand & Activity**
+Demand is showing moderate growth overall, though performance varies by segment. The Commercial Industrial Group saw robust organic growth ("11.0% organic gain"), and the Tools Group experienced modest gains in the U.S., Europe, and Asia Pacific ("continuing sales growth in the U.S. Tools Group, the gains in our Asia Pacific and European-based hand tools operations"). Conversely, demand in the Repair Systems Information Group was mixed; growth among independent repair shops was "partially offset by lower activity with OEM dealerships."
+
+**2. Labor & Wages**
+The report does not provide specific data on wage inflation or headcount reductions, but management attributes success to the "distinctive proficiency, and the relentless commitment of Snap-on people."
+
+**3. Pricing Power & Inflation**
+The company is demonstrating pricing power and margin resilience despite a volatile macro environment. Gross margins improved to 51.4% ("achieving improved gross margins, overcoming an environment of significantly increasing turbulence"). Management explicitly notes that organic sales growth is driven in part by "pricing changes."
+
+**4. Supply Chain & Inventory**
+There are no specific mentions of lead times or inventory levels in the provided text.
+
+**5. Capital Spending (Capex)**
+Capex remains stable as the company invests in capacity and market expansion. The company projects full-year 2026 capital expenditures will "approximate $100 million," with $44.3 million already incurred in the first half of the year. Investment is focused on "maintaining capacity for advancement" and expanding into "critical industries" and "adjacent markets."
