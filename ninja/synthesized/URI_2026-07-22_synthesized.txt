@@ -1,0 +1,22 @@
+Ticker: URI
+Source: URI_2026-07-22.txt
+Generated: 2026-08-12 15:03 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: United Rentals (URI)**
+
+**1. Demand & Activity**
+Demand is robust and accelerating, driven primarily by large-scale infrastructure and industrial projects. Management notes that "growth accelerated in the quarter" and cites "tailwinds we see across large projects [and] customer backlogs" as primary drivers. Activity is particularly strong in the specialty rentals segment, where rental revenue increased 24.8% year-over-year ("Specialty rentals segment rental revenue increased 24.8% year-over-year").
+
+**2. Labor & Wages**
+Labor costs are softening relative to total revenue. The company reported a "reduction in labor and benefits expenses as a percentage of revenue," which helped partially offset margin compression in the specialty rentals segment.
+
+**3. Pricing Power & Inflation**
+The company maintains moderate pricing power and efficiency gains. Fleet productivity—a composite of rental rates, utilization, and mix—increased 3.4% year-over-year ("fleet productivity increased 3.4%"). While there is no specific mention of commodity inflation, the company is seeing a "reduction in depreciation as a percentage of revenue" in its general rentals segment.
+
+**4. Supply Chain & Inventory**
+Inventory levels appear stable and well-managed, with a healthy secondary market for equipment. Used equipment sales increased 4.1% year-over-year ("Used equipment sales in the quarter increased 4.1% year-over-year"), suggesting efficient fleet rotation and strong residual value recovery.
+
+**5. Capital Spending (Capex)**
+Capex is expanding robustly to support growth. The company has significantly raised its full-year 2026 guidance for gross rental capital expenditures to a range of $4.85 billion to $5.25 billion, up from the previous outlook of $4.4 billion to $4.8 billion ("gross purchases of $4.85 billion to $5.25 billion").
