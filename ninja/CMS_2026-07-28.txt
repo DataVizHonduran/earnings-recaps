@@ -1,0 +1,654 @@
+Ticker: CMS
+Company: CMS ENERGY CORP
+Filed: 2026-07-28
+Type: PRESS_RELEASE
+Source: https://www.sec.gov/Archives/edgar/data/811156/000110465926087288/tm2621427d1_ex99-1.htm
+
+EX-99.1
+ 2
+ tm2621427d1_ex99-1.htm
+ EXHIBIT 99.1
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Exhibit 99.1 
+
+ 
+
+ 
+
+ 
+
+ CMS Energy Announces Second
+Quarter Results, Strategic Decision on NorthStar Clean Energy Services, Introduces Guidance for 2027 
+
+ 
+
+ JACKSON, Mich., July 28, 2026 &ndash; CMS
+Energy announced today reported earnings per share of $0.37 for the second quarter of 2026, compared to $0.66 per share for 2025. The
+company&rsquo;s adjusted earnings per share for the second quarter were $0.37, compared to $0.71 per share for 2025. For the first six
+months of the year, the company reported $1.47 per share compared to $1.67 per share for the same timeframe in 2025. On an adjusted earnings
+per share basis year to date, the company reported $1.50 per share in 2026 compared to $1.73 per share in 2025. 
+
+ 
+
+ CMS Energy also announced the completion of a strategic review at
+NorthStar Clean Energy, and with Board approval, the company is exiting non-utility renewables development and retaining Michigan-based assets, including
+Dearborn Industrial Generation (or DIG). This will simplify the business, reduce financing needs, and allow the company to focus more
+fully on providing regulated energy services. 
+
+ 
+
+ CMS Energy reaffirmed its 2026 adjusted earnings
+guidance of $3.83 to $3.90 per share (*See below for important information about non-GAAP measures) and long-term adjusted EPS growth
+of 6 to 8 percent, with continued confidence toward the high end. CMS Energy is introducing 2027 earnings guidance of $4.08 to $4.17. 
+
+ 
+
+ CMS Energy (NYSE: CMS) is a Michigan-based energy
+provider featuring Consumers Energy as its primary business. It also owns and operates independent power generation businesses. 
+
+ 
+
+ # # # 
+
+ 
+
+ CMS Energy will hold a webcast to discuss its 2026 second quarter
+results and provide a business and financial outlook on Tuesday, July 28 at 10:00 a.m. (EDT). To participate in the webcast,
+go to CMS Energy&rsquo;s homepage ( cmsenergy.com ) and select &ldquo;Events and Presentations.&rdquo; 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ Important
+information for investors about non-GAAP measures and other disclosures. 
+
+ 
+
+ This news release contains non-Generally Accepted Accounting Principles
+(non-GAAP) measures, such as adjusted earnings. All references to net income refer to net income available to common stockholders and
+references to earnings per share are on a diluted basis. Adjustments could include items such as discontinued operations, asset sales,
+impairments, restructuring costs, business optimization initiative, major enterprise resource planning software implementations, changes
+in accounting principles, voluntary separation program, changes in federal tax policy, regulatory items from prior years, unrealized gains
+or losses from mark-to-market adjustments, recognized in net income related to NorthStar Clean Energy's interest expense, or other items.
+Management views adjusted earnings as a key measure of the company's present operating financial performance and uses adjusted earnings
+for external communications with analysts and investors. Internally, the company uses adjusted earnings to measure and assess performance.
+Because the company is not able to estimate the impact of specific line items, which have the potential to significantly impact, favorably
+or unfavorably, the company's reported earnings in future periods, the company is not providing reported earnings guidance nor is it providing
+a reconciliation for the comparable future period earnings. The company's adjusted earnings should be considered supplemental information
+to assist in understanding our business results, rather than as a substitute for the reported earnings. 
+
+ 
+
+ This news release contains
+&quot;forward-looking statements.&quot; The forward-looking statements are subject to risks and uncertainties that could cause CMS Energy's
+and Consumers Energy's results to differ materially. All forward-looking statements should be considered in the context of the risk and
+other factors detailed from time to time in CMS Energy's and Consumers Energy's Securities and Exchange Commission filings. 
+
+ 
+
+ Investors
+and others should note that CMS Energy routinely posts important information on its website and considers the Investor Relations
+section, www.cmsenergy.com/investor-relations , a channel of
+distribution. 
+
+ 
+
+ Media Contacts: Katie Carey, 517/740-1739 
+
+ 
+
+ Investment Analyst Contact: Travis Uphaus, 517/817-9241 
+
+ 
+
+ 
+
+ 
+ 2 
+ Page 1 of 3 
+ 
+
+ 
+
+ CMS ENERGY CORPORATION 
+
+ Consolidated Statements of
+Income 
+
+ (Unaudited) 
+
+ 
+
+ 
+ 
+ 
+ In Millions, Except Per Share Amounts 
+ 
+ 
+ Three Months Ended 
+ Six Months Ended 
+ 
+ 
+ 6/30/26 
+ 6/30/25 
+ 6/30/26 
+ 6/30/25 
+ 
+ Operating revenue 
+ $ 1,829 
+ $ 1,838 
+ $ 4,559 
+ $ 4,285 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating expenses 
+ 1,565 
+ 1,521 
+ 3,805 
+ 3,474 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating Income 
+ 264 
+ 317 
+ 754 
+ 811 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other income 
+ 75 
+ 137 
+ 150 
+ 187 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest charges 
+ 210 
+ 199 
+ 413 
+ 385 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income Before Income Taxes 
+ 129 
+ 255 
+ 491 
+ 613 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income tax expense 
+ 33 
+ 62 
+ 118 
+ 125 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Income 
+ 96 
+ 193 
+ 373 
+ 488 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loss attributable to noncontrolling interests 
+ (24 ) 
+ (8 ) 
+ (87 ) 
+ (17 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Income Attributable to CMS Energy 
+ 120 
+ 201 
+ 460 
+ 505 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Preferred stock dividends 
+ 3 
+ 3 
+ 5 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Income Available to Common Stockholders 
+ $ 117 
+ $ 198 
+ $ 455 
+ $ 500 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted Earnings Per Average Common Share 
+ $ 0.37 
+ $ 0.66 
+ $ 1.47 
+ $ 1.67 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ Page 2 of 3 
+ 
+
+ 
+
+ CMS ENERGY CORPORATION 
+
+ Summarized Consolidated Balance
+Sheets 
+
+ (Unaudited) 
+
+ 
+
+ 
+ 
+ 
+ In Millions 
+ 
+ 
+ As of 
+ 
+ 
+ 6/30/26 
+ 12/31/25 
+ 
+ Assets 
+ 
+ 
+ 
+ Current assets 
+ 
+ 
+ 
+ Cash and cash equivalents 
+ $ 241 
+ $ 509 
+ 
+ Restricted cash and cash equivalents 
+ 104 
+ 106 
+ 
+ Other current assets 
+ 2,521 
+ 2,857 
+ 
+ Total current assets 
+ 2,866 
+ 3,472 
+ 
+ Non-current assets 
+ 
+ 
+ 
+ Plant, property, and equipment 
+ 32,329 
+ 30,680 
+ 
+ Other non-current assets 
+ 5,710 
+ 5,789 
+ 
+ Total Assets 
+ $ 40,905 
+ $ 39,941 
+ 
+ 
+ 
+ 
+ 
+ Liabilities and Equity 
+ 
+ 
+ 
+ Current liabilities (1) 
+ $ 2,193 
+ $ 2,592 
+ 
+ Non-current liabilities (1) 
+ 9,012 
+ 8,740 
+ 
+ Capitalization 
+ 
+ 
+ 
+ Debt and finance leases (excluding securitization debt) (2) 
+ 18,776 
+ 18,313 
+ 
+ Preferred stock and securities 
+ 224 
+ 224 
+ 
+ Noncontrolling interests 
+ 625 
+ 567 
+ 
+ Common stockholders' equity 
+ 9,550 
+ 8,920 
+ 
+ Total capitalization (excluding securitization debt) 
+ 29,175 
+ 28,024 
+ 
+ Securitization debt (2) 
+ 525 
+ 585 
+ 
+ Total Liabilities and Equity 
+ $ 40,905 
+ $ 39,941 
+ 
+
+ 
+
+ 
+ (1) Excludes
+ debt and finance leases. 
+ 
+ 
+ 
+ 
+ (2) Includes
+ current and non-current portions. 
+ 
+
+ 
+
+ CMS
+ENERGY CORPORATION 
+
+ Summarized
+Consolidated Statements of Cash Flows 
+
+ (Unaudited) 
+
+ 
+
+ 
+ 
+ 
+ In Millions 
+ 
+ 
+ Six Months Ended 
+ 
+ 
+ 6/30/26 
+ 6/30/25 
+ 
+ Beginning of Period Cash and Cash Equivalents, Including Restricted Amounts 
+ $ 615 
+ $ 178 
+ 
+ 
+ 
+ 
+ 
+ Net cash provided by operating activities 
+ 1,327 
+ 1,414 
+ 
+ Net cash used in investing activities 
+ (2,093 ) 
+ (1,880 ) 
+ 
+ Cash flows from operating and investing activities 
+ (766 ) 
+ (466 ) 
+ 
+ Net cash provided by financing activities 
+ 496 
+ 1,213 
+ 
+ 
+ 
+ 
+ 
+ Total Cash Flows 
+ $ (270 ) 
+ $ 747 
+ 
+ 
+ 
+ 
+ 
+ End of Period Cash and Cash Equivalents, Including Restricted Amounts 
+ $ 345 
+ $ 925 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ Page 3 of 3 
+ 
+
+ 
+
+ CMS ENERGY CORPORATION 
+
+ Reconciliation of GAAP Net
+Income to Non-GAAP Adjusted Net Income 
+
+ (Unaudited) 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ In Millions, Except Per Share Amounts 
+ 
+ 
+ Three Months Ended 
+ Six Months Ended 
+ 
+ 
+ 6/30/26 
+ 6/30/25 
+ 6/30/26 
+ 6/30/25 
+ 
+ Net Income Available to Common Stockholders 
+ $ 117 
+ $ 198 
+ $ 455 
+ $ 500 
+ 
+ Reconciling items: 
+ 
+ 
+ 
+ 
+ 
+ Other exclusions from adjusted earnings** 
+ 2 
+ 5 
+ 13 
+ 8 
+ 
+ Tax impact 
+ (1 ) 
+ (1 ) 
+ (4 ) 
+ (2 ) 
+ 
+ State tax policy change 
+ - 
+ 12 
+ - 
+ 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjusted net income &ndash; non-GAAP 
+ $ 118 
+ $ 214 
+ $ 464 
+ $ 518 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Average Common Shares Outstanding - Diluted 
+ 310.8 
+ 299.1 
+ 308.9 
+ 299.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted Earnings Per Average Common Share 
+ 
+ 
+ 
+ 
+ 
+ Reported net income per share 
+ $ 0.37 
+ $ 0.66 
+ $ 1.47 
+ $ 1.67 
+ 
+ Reconciling items: 
+ 
+ 
+ 
+ 
+ 
+ Other exclusions from adjusted earnings** 
+ * 
+ 0.01 
+ 0.04 
+ 0.02 
+ 
+ Tax impact 
+ (* ) 
+ (* ) 
+ (0.01 ) 
+ (* ) 
+ 
+ State tax policy change 
+ - 
+ 0.04 
+ - 
+ 0.04 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjusted net income per share &ndash; non-GAAP 
+ $ 0.37 
+ $ 0.71 
+ $ 1.50 
+ $ 1.73 
+ 
+ 
+
+ * Less than $0.5 million or $0.01 per share. 
+
+ ** Includes major enterprise resource planning software implementations and unrealized gains or losses from mark-to-market adjustments, recognized in net income related to NorthStar Clean Energy's interest expense. 
+
+ 
+
+ Management views adjusted (non-Generally Accepted Accounting Principles) earnings as a key measure of the Company's present operating financial performance and uses adjusted earnings for external communications with analysts and investors. Internally, the Company uses adjusted earnings to measure and assess performance. Adjustments could include items such as discontinued operations, asset sales, impairments, restructuring costs, business optimization initiative, major enterprise resource planning software implementations, changes in accounting principles, voluntary separation program, changes in federal and state tax policy, regulatory items from prior years, unrealized gains or losses from mark-to-market adjustments, recognized in net income related to NorthStar Clean Energy's interest expense, or other items. The adjusted earnings should be considered supplemental information to assist in understanding our business results, rather than as a substitute for reported earnings.
