@@ -1,0 +1,22 @@
+Ticker: BAX
+Source: BAX_2026-07-30.txt
+Generated: 2026-08-12 15:02 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Baxter International Inc. (BAX)**
+
+**1. Demand & Activity**
+Demand is showing modest growth globally, with organic sales increasing 5% ("increasing 5% on both a reported and organic basis"). Growth is broad-based across all segments and divisions, though geographic performance varies slightly, with international sales growing faster (5% organic) than U.S. sales (4% organic). Specific product-line strength is noted in Drug Compounding, IV Solutions ("driven primarily by Drug Compounding and IV Solutions"), and Advanced Surgery ("Continued strong global demand for Advanced Surgery products"). However, activity in Infusion Systems is softening due to a "shipment and installation hold of the Novum IQ LVP."
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage pressures. The company maintains a global workforce of "Approximately 37,500 Baxter team members."
+
+**3. Pricing Power & Inflation**
+The company is experiencing persistent pressure from lagged input costs, specifically noting the "roll through of higher-cost inventory produced at the end of 2025." There is no explicit mention of current price increases; however, the company received a modest one-time benefit from a "tariff refund" related to the IEEPA.
+
+**4. Supply Chain & Inventory**
+Inventory levels appear to have been elevated at the end of the previous year, which is currently impacting margins as that "higher-cost inventory" is processed through the system. No specific data on current lead times was provided.
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for future facilities are not disclosed, the company is focused on "stabilizing the business" and "strengthening the balance sheet" through its Growth and Performance System (GPS). The company tracks "free cash flow" as a primary metric to evaluate the balance between operating cash and "capital expenditures."

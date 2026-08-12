@@ -1,0 +1,22 @@
+Ticker: CMS
+Source: CMS_2026-07-28.txt
+Generated: 2026-08-12 15:02 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: CMS Energy Corp (Q2 2026)**
+
+**1. Demand & Activity**
+Demand appears stable to modest. While quarterly operating revenue remained flat ($1,829M vs $1,838M), six-month revenue showed moderate growth ($4,559M vs $4,285M). The company is strategically narrowing its focus to "regulated energy services" and "Michigan-based assets" while exiting "non-utility renewables development" ("exiting non-utility renewables development and retaining Michigan-based assets").
+
+**2. Labor & Wages**
+The provided text does not contain specific data on hiring, turnover, or wage levels. However, the company references a "voluntary separation program" as a potential adjustment to its earnings, suggesting some headcount optimization ("Adjustments could include... voluntary separation program").
+
+**3. Pricing Power & Inflation**
+There is evidence of moderate input cost pressure. Operating expenses for the second quarter increased to $1,565M from $1,521M year-over-year. Additionally, interest charges have risen modestly to $210M from $199M ("Interest charges 210 [vs] 199"). There is no explicit mention of price hikes to offset these costs.
+
+**4. Supply Chain & Inventory**
+No specific commentary was provided regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment in infrastructure remains robust. Plant, property, and equipment increased by approximately $1.6 billion since year-end 2025 ($32,329M vs $30,680M). Net cash used in investing activities for the first six months was $2,093M, a slight increase over the prior year's $1,880M ("Net cash used in investing activities (2,093) [vs] (1,880)"). The company is also investing in technology, specifically "major enterprise resource planning software implementations."

@@ -1,0 +1,22 @@
+Ticker: CFG
+Source: CFG_2026-07-16.txt
+Generated: 2026-08-12 15:02 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Citizens Financial Group (CFG)**
+
+**1. Demand & Activity**
+Loan demand is showing modest growth, increasing 3% on a spot basis and 2% on an average basis quarter-over-quarter ("growth led by Commercial and Private Bank"). Activity in capital markets is robust, with record second-quarter fees driven by "higher loan syndication and debt and equity underwriting fees." Wealth management demand is also growing, with record fees reflecting "net inflows and market appreciation." Conversely, mortgage production revenue is softening, partially offsetting higher servicing revenue.
+
+**2. Labor & Wages**
+Labor costs are stable to slightly increasing. While salaries decreased 2% sequentially due to "lower payroll taxes given seasonality," they rose 9% year-over-year. This increase is attributed to strategic expansion, specifically "hiring related to the Private Bank and Private Wealth buildout" and performance-based "compensation associated with growth in Capital Markets fees."
+
+**3. Pricing Power & Inflation**
+The company is experiencing moderate pressure on funding costs, with interest-bearing deposit costs increasing 4 basis points to 2.08% ("total cost of funds increased 5 basis points to 1.85%"). However, CFG is maintaining pricing power through "fixed-rate asset repricing," which helped expand the net interest margin to 3.17%.
+
+**4. Supply Chain & Inventory**
+Not applicable. (Financial services entity; no physical inventory or supply chain lead times reported).
+
+**5. Capital Spending (Capex)**
+Investment is focused on technology and organizational restructuring. The company is seeing increased "technology-related costs" and spending "driven by costs to implement the Reimagine the Bank program." Additionally, CFG recently completed the "successful launch of a new Consumer mobile platform."

@@ -1,0 +1,22 @@
+Ticker: NOC
+Source: NOC_2026-07-21.txt
+Generated: 2026-08-12 15:03 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Northrop Grumman (NOC)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by a new record backlog of $104.7 billion ("driven by robust global demand for our products"). Activity is growing across all sectors, with a moderate increase in total sales of 5% year-over-year. Growth is most pronounced in Aeronautics Systems, which saw a 13% increase driven by "higher volume on B-21 and other restricted programs" and the ramp-up of the E-130J TACAMO program.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price increases or commodity inflation. However, there is evidence of moderate cost pressure in the missile prime business, specifically "projecting higher costs to mature production" for the AARGM-ER and development costs for the SiAW, which led to a $68 million unfavorable adjustment.
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory levels. It does note that sales increases in Mission Systems were partially influenced by the "timing of materials on F-35."
+
+**5. Capital Spending (Capex)**
+Capital expenditures are increasing, with Q2 2026 spending rising 31% to $302 million compared to the prior year period ("an increase in capital expenditures"). This suggests a moderate expansion in investment in capacity or facilities to support the growing backlog.

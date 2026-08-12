@@ -1,0 +1,22 @@
+Ticker: PGR
+Source: PGR_2026-07-15.txt
+Generated: 2026-08-12 15:03 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Progressive Corp (PGR)**
+
+**1. Demand & Activity**
+Demand is showing moderate growth across most segments. Total Policies in Force increased by 7% year-over-year, driven primarily by robust growth in Personal Lines, specifically Direct auto (+10%) and Agency auto (+8%) ("Policies in Force... Direct auto 16,721 [from] 15,245"). Commercial Lines activity is growing more modestly at 3% ("Commercial Lines 1,226 [from] 1,189").
+
+**2. Labor & Wages**
+The provided report contains no mentions of hiring, turnover, wage trends, or headcount adjustments.
+
+**3. Pricing Power & Inflation**
+The company demonstrates stable pricing power, with Net Premiums Written (NPW) growing by 5% for the quarter and 6% year-to-date ("Net premiums written... 2026 $21,077 $20,076 5%"). However, there are signs of persistent inflationary pressure on claims costs, as evidenced by a moderate increase in the combined ratio for June (90.0 vs 86.6 in 2025) and a year-to-date increase in losses and loss adjustment expenses from $26.4 billion to $28.4 billion ("Losses and loss adjustment expenses 28,399 26,409").
+
+**4. Supply Chain & Inventory**
+Not applicable. As a financial services provider, the company does not report physical supply chain lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+The report does not specify future capital expenditures for facilities or technology; however, it notes a significant investment portfolio of $97.2 billion ("Total investments 97,221").

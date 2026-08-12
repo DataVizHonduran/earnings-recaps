@@ -1,0 +1,22 @@
+Ticker: GEHC
+Source: GEHC_2026-07-29.txt
+Generated: 2026-08-12 15:02 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: GE HealthCare (GEHC)**
+
+**1. Demand & Activity**
+Demand is generally robust, characterized by "record organic orders growth of 11.1%" and a substantial backlog of $23.9 billion. Growth is moderate to strong in Advanced Imaging Solutions (+5.0% organic) and Pharmaceutical Diagnostics (+14.6% organic), with broad geographic strength across the U.S., EMEA, and Rest of World. Conversely, demand in Patient Care Solutions (PCS) is softening significantly, with organic revenues declining 13.5% ("Patient Care Solutions (PCS) financial performance continued to be challenged").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is facing persistent inflationary pressure on key inputs. Management noted that margins were "negatively impacted by... inflation related to memory chips, oil and freight costs." This pressure is expected to continue, with the company forecasting "approximately $250 million of inflation associated with memory chips, oil and freight and other components" for the full year.
+
+**4. Supply Chain & Inventory**
+Inventory levels have increased moderately, rising from $2.23 billion at year-end 2025 to $2.48 billion as of June 30, 2026. The company is managing a high book-to-bill ratio of 1.15 times, indicating that order intake is currently outpacing shipments.
+
+**5. Capital Spending (Capex)**
+Capital investment is increasing modestly to support growth. Q2 capital expenditures were $100 million, up from $87 million in the prior year. The company explicitly stated it "continues to prioritize investment in capacity expansion and innovation."
