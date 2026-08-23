@@ -1,0 +1,4958 @@
+Ticker: PEG
+Company: PUBLIC SERVICE ENTERPRISE GROUP INC
+Filed: 2026-08-04
+Type: PRESS_RELEASE
+Source: https://www.sec.gov/Archives/edgar/data/788784/000119312526331660/d101695dex99.htm
+
+EX-99
+ 2
+ d101695dex99.htm
+ EX-99
+ 
+ 
+ EX-99 
+ 
+ 
+
+ 
+ Exhibit 99 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Public Service Enterprise Group 
+ 80 Park Plaza 
+ Newark, NJ 07102 
+ PSEG ANNOUNCES SECOND QUARTER 2026 RESULTS 
+ $0.67 PER SHARE NET INCOME 
+ $0.86 PER SHARE NON-GAAP OPERATING EARNINGS 
+ Maintains 2026 Non-GAAP Operating Earnings Guidance of $4.28 - $4.40 Per Share 
+ (NEWARK, N.J. August 4, 2026) Public Service Enterprise Group (NYSE: PEG) reported the following results for the second quarter and six months
+ended June 30, 2026: PSEG Consolidated (unaudited) 
+ Second Quarter Comparative Results 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income 
+ 
+ 
+ Earnings Per Share 
+ 
+ 
+ ($ millions, except per share amounts) 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+
+ 
+ Net Income 
+ 
+ $ 
+ 334 
+ 
+ 
+ $ 
+ 585 
+ 
+ 
+ $ 
+ 0.67 
+ 
+ 
+ $ 
+ 1.17 
+ 
+ 
+ Reconciling Items 
+ 
+ 
+ 91 
+ 
+ 
+ 
+ (201 
+ ) 
+ 
+ 
+ 0.19 
+ 
+ 
+ 
+ (0.40 
+ ) 
+ 
+ Non-GAAP Operating Earnings 
+ 
+ $ 
+ 425 
+ 
+ 
+ $ 
+ 384 
+ 
+ 
+ $ 
+ 0.86 
+ 
+ 
+ $ 
+ 0.77 
+ 
+ 
+ Average Shares Outstanding (Diluted) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 499 
+ 
+ 
+ 
+ 500 
+ 
+ See Attachments 8 and 9 for a complete list of items excluded from Net Income/(Loss) in the
+determination of non-GAAP Operating Earnings. PSEG Consolidated (unaudited) 
+ Six Months Ended June 30 Comparative Results 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income 
+ 
+ 
+ Earnings Per Share 
+ 
+ 
+ ($ millions, except per share amounts) 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+
+ 
+ Net Income 
+ 
+ $ 
+ 1,075 
+ 
+ 
+ $ 
+ 1,174 
+ 
+ 
+ $ 
+ 2.15 
+ 
+ 
+ $ 
+ 2.35 
+ 
+ 
+ Reconciling Items 
+ 
+ 
+ 128 
+ 
+ 
+ 
+ (72 
+ ) 
+ 
+ 
+ 0.26 
+ 
+ 
+ 
+ (0.15 
+ ) 
+ 
+ Non-GAAP Operating Earnings 
+ 
+ $ 
+ 1,203 
+ 
+ 
+ $ 
+ 1,102 
+ 
+ 
+ $ 
+ 2.41 
+ 
+ 
+ $ 
+ 2.20 
+ 
+ 
+ Average Shares Outstanding (Diluted) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 499 
+ 
+ 
+ 
+ 500 
+ 
+ See Attachments 8 and 9 for a complete list of items excluded from Net Income/(Loss) in the
+determination of non-GAAP Operating Earnings. The efficient execution of PSEG s strategic plan
+continues to benefit our customers with a resilient and reliable electric and gas system. In early July, these systems withstood a series of heatwaves and successive thunderstorms accompanied by 70 mile per hour winds that resulted
+in one of the most damaging storms in our history, said Ralph LaRossa, PSEG s chair, president and CEO. 
+ 1 
+
+ 
+
+ 
+ 
+
+ 
+ LaRossa continued, PSE&G reconnected approximately 380,000 customers with nearly all customers
+restored within 24 hours of losing power, demonstrating the value of our system-reliability investments as well as our ability to respond quickly and safely. PSE&G s
+ around-the-clock restoration efforts were led by over 330 crews and over 10 million proactive customer communications. 
+ PSE&G reached a peak summer load of 10,446 MW on July 2, the highest in 14 years, and activated Demand Response part of our Clean
+Energy Future programs during three separate events throughout the early July heatwave. These peak demands amplify the importance of our suite of award-winning Clean Energy Future programs, which now generate more than $1 billion in
+annual customer savings, helping nearly 525,000 residential and business customers save energy and lower utility bills since the program started in 2020. PSE&G s energy efficiency investments have supported approximately 9,300 jobs
+statewide, including a network of more than 1,000 trade and union allies. During the quarter, PSE&G filed with the New Jersey Board of
+Public Utilities to lower residential gas bills by 5%, beginning October 1, continuing to benefit our customers with the lowest gas utility bills in New Jersey and the Mid-Atlantic Region. 
+ PSEG Nuclear also performed well during the quarter, supplying the grid with 7.8 TWh of carbon-free, 24 by 7 baseload generation and achieving a
+capacity factor of 92.0% that included a second consecutive breaker to breaker run at Salem Unit 2. In addition to an exemplary storm
+response, our teams delivered solid financial and operational results for the second quarter and first half of 2026, enabling us to maintain PSEG s full-year 2026 non-GAAP Operating Earnings guidance of
+$4.28 to $4.40 per share. We are also reaffirming PSEG s five-year, non-GAAP Operating Earnings growth outlook of 6% to 8% through 2030 as we continue to pursue opportunities incremental to our long-term
+forecast, including the potential to contract our nuclear output under multi-year agreements. Importantly, our solid balance sheet enables the funding of PSEG s total five-year capital investment program of $24 billion to $28 billion
+without the need to issue new equity or sell assets and provides the opportunity for consistent and sustainable dividend growth, LaRossa concluded. 
+ 2 
+
+ 
+
+ 
+ 
+
+ 
+ PSEG Results by Segment (unaudited) 
+ Second Quarter and Six Months Ended June 30, Comparative Results 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ ($ millions) 
+ 
+ 2Q 2026 
+ 
+ 
+ 2Q 2025 
+ 
+ 
+ YTD 2026 
+ 
+ 
+ YTD 2025 
+ 
+
+ 
+ PSE&G Net Income/Non-GAAP Operating Earnings 
+ 
+ $ 
+ 342 
+ 
+ 
+ $ 
+ 332 
+ 
+ 
+ $ 
+ 919 
+ 
+ 
+ $ 
+ 878 
+ 
+ 
+ PSEG Power & Other Net Income/(Loss) 
+ 
+ 
+ (8 
+ ) 
+ 
+ 
+ 253 
+ 
+ 
+ 
+ 156 
+ 
+ 
+ 
+ 296 
+ 
+ 
+ Total PSEG Net Income 
+ 
+ $ 
+ 334 
+ 
+ 
+ $ 
+ 585 
+ 
+ 
+ $ 
+ 1,075 
+ 
+ 
+ $ 
+ 1,174 
+ 
+ 
+ PSEG Power & Other Non-GAAP Operating
+Earnings 
+ 
+ $ 
+ 83 
+ 
+ 
+ $ 
+ 52 
+ 
+ 
+ $ 
+ 284 
+ 
+ 
+ $ 
+ 224 
+ 
+ 
+ Total PSEG Non-GAAP Operating Earnings 
+ 
+ $ 
+ 425 
+ 
+ 
+ $ 
+ 384 
+ 
+ 
+ $ 
+ 1,203 
+ 
+ 
+ $ 
+ 1,102 
+ 
+ PSE&G s results for the second quarter reflect ongoing investments in Energy Efficiency, Gas System Modernization
+and Transmission. These results were partially offset by higher operation and maintenance costs as well as higher depreciation and interest expense related to incremental investments and a prior year Transmission true up. 
+ PSEG Power & Other results for the quarter reflect higher realized prices and an increase in nuclear generation, partly offset by the absence of zero
+emission certificates which ended May 2025, and higher interest expense and taxes. ### 
+ PSEG will host a conference call to review its second quarter 2026 results, earnings guidance, and other matters with the financial community at 11:00 a.m.
+ET today. Please register to access this event by visiting: https://investor.pseg.com/investor-news-and-events 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ Media Relations: 
+ 
+ Investor Relations: 
+ 
+ (973) 430-7734 
+ 
+ (973) 430-6565 
+ 
+ DL-ENT-pseg.communications@pseg.com 
+ 
+ PSEG-IR-GeneralInquiry@pseg.com 
+ About PSEG Public
+Service Enterprise Group (PSEG) (NYSE: PEG) is a predominantly regulated infrastructure company operating New Jersey s largest transmission and distribution utility, serving approximately 2.4 million electric and 1.9 million natural
+gas customers. PSEG also owns an independent fleet of 3,758 MW of carbon-free, baseload nuclear power generating units in NJ and PA. PSEG aims to power a future where people use energy more efficiently, and it s safer and delivered more
+reliably than ever. PSEG is a member of the S&P 500 Index and has been named to the Dow Jones Best in Class North America Index for 18 consecutive years. PSEG s businesses include Public Service Electric and Gas Co. (PSE&G), PSEG
+Power and PSEG Long Island ( https://corporate.pseg.com ). Non-GAAP Financial Measures 
+ Management uses non-GAAP Operating Earnings in its internal analysis, and in communications with investors and
+analysts, as a consistent measure for comparing PSEG s financial performance to previous financial results. Operating Earnings is a non-GAAP financial measure that differs from Net Income. Non-GAAP Operating Earnings exclude the impact of gains (losses) associated with the Nuclear Decommissioning Trust (NDT),
+ Mark-to-Market (MTM) accounting and other material infrequent items. 
+ 3 
+
+ 
+
+ 
+ 
+
+ 
+ See Attachments 8 and 9 for a complete list of items excluded from Net Income/(Loss) in the determination of
+ non-GAAP Operating Earnings. The presentation of non-GAAP Operating Earnings is intended to complement and should not be considered an alternative to the presentation of
+Net Income/(Loss), which is an indicator of financial performance determined in accordance with GAAP. In addition, non-GAAP Operating Earnings as presented in this report may not be comparable to similarly
+titled measures used by other companies. Due to the forward-looking nature of non-GAAP Operating Earnings
+guidance, PSEG is unable to reconcile this non-GAAP financial measure to the most directly comparable GAAP financial measure because comparable GAAP measures are not reasonably accessible or reliable due to
+the inherent difficulty in forecasting and quantifying measures that would be required for such reconciliation. Namely, we are not able to reliably project without unreasonable effort MTM and NDT gains (losses), for future periods due to market
+volatility. These items are uncertain, depend on various factors, and may have a material impact on our future GAAP results. Forward-Looking
+Statements Certain of the matters discussed in this report about our and our subsidiaries future performance, including, without
+limitation, future revenues, earnings, strategies, prospects, consequences, and all other statements that are not purely historical constitute forward-looking statements within the meaning of the Private Securities Litigation Reform
+Act of 1995. Such forward-looking statements are subject to risks and uncertainties, which could cause actual results to differ materially from those anticipated. Such statements are based on management s beliefs as well as assumptions made by
+and information currently available to management. When used herein, the words anticipate, intend, estimate, believe, expect, plan, should, 
+ hypothetical, potential, forecast, project, variations of such words and similar expressions are intended to identify forward-looking statements. Factors that may cause actual results to differ
+are often presented with the forward-looking statements themselves. Other factors that could cause actual results to differ materially from those contemplated in any forward-looking statements made by us herein are discussed in filings we make with
+the United States Securities and Exchange Commission (SEC), including our Annual Report on Form 10-K and subsequent reports on Form 10-Q and Form 8-K. These factors include, but are not limited to: 
+ 
+ 
+ 
+ 
+ 
+ any inability to successfully develop, obtain regulatory approval for, or construct transmission and
+distribution, and our nuclear generation projects; 
+ 
+ 
+ 
+ 
+ 
+ significant resource adequacy challenges that present affordability and reliability concerns and that could cause
+policymakers to implement responsive measures that could have a material, adverse impact on our business, strategy, growth rates, cash flows, results of operations, and financial condition and increase regulatory uncertainty for utility investment
+initiatives and programs; 
+ 
+ 
+ 
+ 
+ 
+ the physical, financial and transition risks related to climate change, including risks relating to potentially
+increased legislative and regulatory burdens, changing customer preferences and lawsuits; 
+ 
+ 
+ 
+ 
+ 
+ any equipment failures, gas explosions, accidents, critical operating technology or business system failures,
+natural disasters, severe weather events, acts of war, terrorism or other acts of violence, sabotage, physical attacks or security breaches, cyberattacks or other incidents that may impact our ability to provide safe and reliable service to our
+customers; 
+ 
+ 
+ 
+ 
+ 
+ any inability to recover the carrying amount of our long-lived assets; 
+ 
+ 
+ 
+ 
+ 
+ 
+ disruptions or cost increases in our supply chain, including labor shortages; 
+ 
+ 
+ 
+ 
+ 
+ 
+ any inability to maintain sufficient liquidity or access sufficient capital on commercially reasonable terms;
+ 
+ 
+ 
+ 
+ 
+ 
+ the impact of cybersecurity attacks or intrusions or other disruptions to our information technology, operational
+or other systems; 
+ 
+ 
+ 
+ 
+ 
+ failure to attract and retain a qualified workforce; 
+ 
+ 
+ 
+ 
+ 
+ 
+ increases in the costs of equipment, materials, fuel, services and labor; 
+ 
+ 
+ 
+ 
+ 
+ 
+ the impact of our covenants in our debt instruments and credit agreements on our business; 
+ 
+ 
+ 
+ 
+ 
+ 
+ adverse performance of our defined benefit plan trust funds and Nuclear Decommissioning Trust Fund and increases
+in funding requirements; 
+ 
+ 
+ 
+ 
+ 
+ any inability to enter into or extend certain significant contracts; 
+ 
+ 
+ 
+ 
+ 
+ 
+ development, adoption and use of Artificial Intelligence by us and our third-party vendors;
+ 
+ 
+ 
+ 
+ 
+ 
+ fluctuations in, or third-party default risk in wholesale power and natural gas markets, including the potential
+impacts on the economic viability of our generation units; 
+ 
+ 
+ 
+ 
+ 
+ the ability to obtain adequate nuclear fuel supply; 
+ 
+ 
+ 
+ 
+ 
+ 
+ changes in technology related to energy generation, distribution and consumption and changes in customer usage
+patterns; 
+ 
+ 
+ 
+ 
+ 
+ third-party credit risk relating to our sale of nuclear generation output and purchase of nuclear fuel;
+ 
+ 
+ 
+ 
+ 
+ 
+ any inability to meet our commitments under forward sale obligations and Regional Transmission Organization
+rules; 
+ 4 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ risks associated with generation activities at, and operation of, the Peach Bottom plants, which are similar to
+those to which nuclear generation plants that we operate are subject; 
+ 
+ 
+ 
+ 
+ 
+ the impact of changes in state and federal legislation and regulations on our business, including
+PSE&G s ability to recover costs and earn returns on authorized investments; 
+ 
+ 
+ 
+ 
+ 
+ PSE&G s proposed investment projects or programs may not be fully approved by regulators and its
+capital investment may be lower than planned; 
+ 
+ 
+ 
+ 
+ 
+ our ability to receive sufficient financial support for our New Jersey nuclear plants from the markets, and/or
+production tax credits; 
+ 
+ 
+ 
+ 
+ 
+ adverse changes in and non-compliance with energy industry laws,
+policies, regulations and standards, including market structures and transmission planning and transmission returns; 
+ 
+ 
+ 
+ 
+ 
+ risks associated with our ownership and operation of nuclear facilities, including increased nuclear fuel storage
+costs, regulatory risks, such as compliance with the Atomic Energy Act and trade control, environmental and other regulations, as well as operational, financial, environmental and health and safety risks; 
+ 
+ 
+ 
+ 
+ 
+ 
+ changes in or violation of federal, state and local environmental laws and regulations and enforcement;
+ 
+ 
+ 
+ 
+ 
+ 
+ delays in receipt of, or an inability to receive, necessary licenses and permits and siting approvals; and
+ 
+ 
+ 
+ 
+ 
+ 
+ changes in tax laws and regulations. 
+ All of the forward-looking statements made in this report are qualified by these cautionary statements and we cannot assure you that the results or
+developments anticipated by management will be realized or even if realized, will have the expected consequences to, or effects on, us or our business, prospects, financial condition, results of operations or cash flows. Readers are cautioned not to
+place undue reliance on these forward-looking statements in making any investment decision. Forward-looking statements made in this report apply only as of the date of this report. While we may elect to update forward-looking statements from time to
+time, we specifically disclaim any obligation to do so, even in light of new information or future events, unless otherwise required by applicable securities laws. 
+ The forward-looking statements contained in this report are intended to qualify for the safe harbor provisions of Section 27A of the Securities Act of
+1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. 
+ 
+ From time to time, PSEG and PSE&G release important information via postings on their corporate Investor
+Relations website at https://investor.pseg.com . Investors and other interested parties are encouraged to visit the Investor Relations website to review new postings. You can sign up for automatic email alerts regarding new postings at the
+bottom of the webpage at https://investor.pseg.com or by navigating to the Email Alerts webpage here . The information on https://investor.pseg.com and https://investor.pseg.com/resources/email-alerts/default.aspx is not
+incorporated herein and is not part of this press release or the Form 8-K to which it is an exhibit. 
+ 5 
+
+ 
+
+ 
+ 
+
+ 
+ Attachment 1 
+ Public Service Enterprise Group Incorporated 
+ Consolidating Statements of Operations 
+ (Unaudited, $ millions, except per share data) 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended June 30, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PSEG 
+ 
+ 
+ Eliminations 
+ 
+ 
+ PSE&G 
+ 
+ 
+ PSEG Power & Other (a) 
+ 
+
+ 
+ OPERATING REVENUES 
+ 
+ $ 
+ 2,554 
+ 
+ 
+ $ 
+ (117 
+ ) 
+ 
+ $ 
+ 2,137 
+ 
+ 
+ $ 
+ 534 
+ 
+ 
+ OPERATING EXPENSES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Energy Costs 
+ 
+ 
+ 866 
+ 
+ 
+ 
+ (117 
+ ) 
+ 
+ 
+ 776 
+ 
+ 
+ 
+ 207 
+ 
+ 
+ Operation and Maintenance 
+ 
+ 
+ 906 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 545 
+ 
+ 
+ 
+ 361 
+ 
+ 
+ Depreciation and Amortization 
+ 
+ 
+ 321 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 286 
+ 
+ 
+ 
+ 35 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Operating Expenses 
+ 
+ 
+ 2,093 
+ 
+ 
+ 
+ (117 
+ ) 
+ 
+ 
+ 1,607 
+ 
+ 
+ 
+ 603 
+ 
+ 
+ OPERATING INCOME 
+ 
+ 
+ 461 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 530 
+ 
+ 
+ 
+ (69 
+ ) 
+ 
+ Net Gains (Losses) on Trust Investments 
+ 
+ 
+ 144 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 144 
+ 
+ 
+ Net Other Income (Deductions) 
+ 
+ 
+ 41 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ 24 
+ 
+ 
+ Net Non-Operating Pension and Other Postretirement Benefit
+(OPEB) Credits (Costs) 
+ 
+ 
+ 21 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 20 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ Interest Expense 
+ 
+ 
+ (269 
+ ) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (174 
+ ) 
+ 
+ 
+ (95 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INCOME BEFORE INCOME TAXES 
+ 
+ 
+ 398 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 393 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ Income Tax Expense 
+ 
+ 
+ (64 
+ ) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (51 
+ ) 
+ 
+ 
+ (13 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NET INCOME (LOSS) 
+ 
+ $ 
+ 334 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 342 
+ 
+ 
+ $ 
+ (8 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reconciling Items Excluded from Net Income
+(Loss) (b) 
+ 
+ 
+ 91 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 91 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OPERATING EARNINGS (non-GAAP) 
+ 
+ $ 
+ 425 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 342 
+ 
+ 
+ $ 
+ 83 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Earnings Per Share 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NET INCOME 
+ 
+ $ 
+ 0.67 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reconciling Items Excluded from Net
+Income (b) 
+ 
+ 
+ 0.19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OPERATING EARNINGS (non-GAAP) 
+ 
+ $ 
+ 0.86 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended June 30, 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PSEG 
+ 
+ 
+ Eliminations 
+ 
+ 
+ PSE&G 
+ 
+ 
+ PSEG Power & Other (a) 
+ 
+
+ 
+ OPERATING REVENUES 
+ 
+ $ 
+ 2,805 
+ 
+ 
+ $ 
+ (146 
+ ) 
+ 
+ $ 
+ 2,031 
+ 
+ 
+ $ 
+ 920 
+ 
+ 
+ OPERATING EXPENSES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Energy Costs 
+ 
+ 
+ 826 
+ 
+ 
+ 
+ (146 
+ ) 
+ 
+ 
+ 760 
+ 
+ 
+ 
+ 212 
+ 
+ 
+ Operation and Maintenance 
+ 
+ 
+ 854 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 504 
+ 
+ 
+ 
+ 350 
+ 
+ 
+ Depreciation and Amortization 
+ 
+ 
+ 308 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 275 
+ 
+ 
+ 
+ 33 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Operating Expenses 
+ 
+ 
+ 1,988 
+ 
+ 
+ 
+ (146 
+ ) 
+ 
+ 
+ 1,539 
+ 
+ 
+ 
+ 595 
+ 
+ 
+ OPERATING INCOME 
+ 
+ 
+ 817 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 492 
+ 
+ 
+ 
+ 325 
+ 
+ 
+ Net Gains (Losses) on Trust Investments 
+ 
+ 
+ 95 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 95 
+ 
+ 
+ Net Other Income (Deductions) 
+ 
+ 
+ 46 
+ 
+ 
+ 
+ (1 
+ ) 
+ 
+ 
+ 16 
+ 
+ 
+ 
+ 31 
+ 
+ 
+ Net Non-Operating Pension and OPEB Credits
+(Costs) 
+ 
+ 
+ 16 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 18 
+ 
+ 
+ 
+ (2 
+ ) 
+ 
+ Interest Expense 
+ 
+ 
+ (248 
+ ) 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ (161 
+ ) 
+ 
+ 
+ (88 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INCOME BEFORE INCOME TAXES 
+ 
+ 
+ 726 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 365 
+ 
+ 
+ 
+ 361 
+ 
+ 
+ Income Tax Expense 
+ 
+ 
+ (141 
+ ) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (33 
+ ) 
+ 
+ 
+ (108 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NET INCOME 
+ 
+ $ 
+ 585 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 332 
+ 
+ 
+ $ 
+ 253 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reconciling Items Excluded from Net
+Income (b) 
+ 
+ 
+ (201 
+ ) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (201 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OPERATING EARNINGS (non-GAAP) 
+ 
+ $ 
+ 384 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 332 
+ 
+ 
+ $ 
+ 52 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Earnings Per Share 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NET INCOME 
+ 
+ $ 
+ 1.17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reconciling Items Excluded from Net
+Income (b) 
+ 
+ 
+ (0.40 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OPERATING EARNINGS (non-GAAP) 
+ 
+ $ 
+ 0.77 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) 
+ Includes activities at PSEG Power, PSEG Long Island, Energy Holdings, PSEG Services Corporation and the Parent.
+ 
+ 
+ 
+ (b) 
+ See Attachments 8 and 9 for details of items excluded from Net Income (Loss) to compute Operating Earnings (non-GAAP). 
+ 
+
+ 
+ 
+
+ 
+ Attachment 2 
+ Public Service Enterprise Group Incorporated 
+ Consolidating Statements of Operations 
+ (Unaudited, $ millions, except per share data) 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Six Months Ended June 30, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PSEG 
+ 
+ 
+ Eliminations 
+ 
+ 
+ PSE&G 
+ 
+ 
+ PSEG Power & Other (a) 
+ 
+
+ 
+ OPERATING REVENUES 
+ 
+ $ 
+ 6,402 
+ 
+ 
+ $ 
+ (770 
+ ) 
+ 
+ $ 
+ 5,222 
+ 
+ 
+ $ 
+ 1,950 
+ 
+ 
+ OPERATING EXPENSES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Energy Costs 
+ 
+ 
+ 2,373 
+ 
+ 
+ 
+ (770 
+ ) 
+ 
+ 
+ 2,134 
+ 
+ 
+ 
+ 1,009 
+ 
+ 
+ Operation and Maintenance 
+ 
+ 
+ 1,843 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 1,182 
+ 
+ 
+ 
+ 661 
+ 
+ 
+ Depreciation and Amortization 
+ 
+ 
+ 650 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 581 
+ 
+ 
+ 
+ 69 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Operating Expenses 
+ 
+ 
+ 4,866 
+ 
+ 
+ 
+ (770 
+ ) 
+ 
+ 
+ 3,897 
+ 
+ 
+ 
+ 1,739 
+ 
+ 
+ OPERATING INCOME 
+ 
+ 
+ 1,536 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 1,325 
+ 
+ 
+ 
+ 211 
+ 
+ 
+ Net Gains (Losses) on Trust Investments 
+ 
+ 
+ 127 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 127 
+ 
+ 
+ Net Other Income (Deductions) 
+ 
+ 
+ 84 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 36 
+ 
+ 
+ 
+ 48 
+ 
+ 
+ Net Non-Operating Pension and OPEB Credits
+(Costs) 
+ 
+ 
+ 40 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 37 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ Interest Expense 
+ 
+ 
+ (541 
+ ) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (349 
+ ) 
+ 
+ 
+ (192 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INCOME BEFORE INCOME TAXES 
+ 
+ 
+ 1,246 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 1,049 
+ 
+ 
+ 
+ 197 
+ 
+ 
+ Income Tax Expense 
+ 
+ 
+ (171 
+ ) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (130 
+ ) 
+ 
+ 
+ (41 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NET INCOME 
+ 
+ $ 
+ 1,075 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 919 
+ 
+ 
+ $ 
+ 156 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reconciling Items Excluded from Net
+Income (b) 
+ 
+ 
+ 128 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 128 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OPERATING EARNINGS (non-GAAP) 
+ 
+ $ 
+ 1,203 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 919 
+ 
+ 
+ $ 
+ 284 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Earnings Per Share 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NET INCOME 
+ 
+ $ 
+ 2.15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reconciling Items Excluded from Net
+Income (b) 
+ 
+ 
+ 0.26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OPERATING EARNINGS (non-GAAP) 
+ 
+ $ 
+ 2.41 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Six Months Ended June 30, 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PSEG 
+ 
+ 
+ Eliminations 
+ 
+ 
+ PSE&G 
+ 
+ 
+ PSEG Power & Other (a) 
+ 
+
+ 
+ OPERATING REVENUES 
+ 
+ $ 
+ 6,027 
+ 
+ 
+ $ 
+ (680 
+ ) 
+ 
+ $ 
+ 4,695 
+ 
+ 
+ $ 
+ 2,012 
+ 
+ 
+ OPERATING EXPENSES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Energy Costs 
+ 
+ 
+ 2,012 
+ 
+ 
+ 
+ (680 
+ ) 
+ 
+ 
+ 1,854 
+ 
+ 
+ 
+ 838 
+ 
+ 
+ Operation and Maintenance 
+ 
+ 
+ 1,773 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 1,080 
+ 
+ 
+ 
+ 693 
+ 
+ 
+ Depreciation and Amortization 
+ 
+ 
+ 628 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 555 
+ 
+ 
+ 
+ 73 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Operating Expenses 
+ 
+ 
+ 4,413 
+ 
+ 
+ 
+ (680 
+ ) 
+ 
+ 
+ 3,489 
+ 
+ 
+ 
+ 1,604 
+ 
+ 
+ OPERATING INCOME 
+ 
+ 
+ 1,614 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 1,206 
+ 
+ 
+ 
+ 408 
+ 
+ 
+ Net Gains (Losses) on Trust Investments 
+ 
+ 
+ 103 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 103 
+ 
+ 
+ Net Other Income (Deductions) 
+ 
+ 
+ 83 
+ 
+ 
+ 
+ (2 
+ ) 
+ 
+ 
+ 32 
+ 
+ 
+ 
+ 53 
+ 
+ 
+ Net Non-Operating Pension and OPEB Credits
+(Costs) 
+ 
+ 
+ 32 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 35 
+ 
+ 
+ 
+ (3 
+ ) 
+ 
+ Interest Expense 
+ 
+ 
+ (489 
+ ) 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ (318 
+ ) 
+ 
+ 
+ (173 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INCOME BEFORE INCOME TAXES 
+ 
+ 
+ 1,343 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 955 
+ 
+ 
+ 
+ 388 
+ 
+ 
+ Income Tax Expense 
+ 
+ 
+ (169 
+ ) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (77 
+ ) 
+ 
+ 
+ (92 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NET INCOME 
+ 
+ $ 
+ 1,174 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 878 
+ 
+ 
+ $ 
+ 296 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reconciling Items Excluded from Net
+Income (b) 
+ 
+ 
+ (72 
+ ) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (72 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OPERATING EARNINGS (non-GAAP) 
+ 
+ $ 
+ 1,102 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 878 
+ 
+ 
+ $ 
+ 224 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Earnings Per Share 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NET INCOME 
+ 
+ $ 
+ 2.35 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reconciling Items Excluded from Net
+Income (b) 
+ 
+ 
+ (0.15 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OPERATING EARNINGS (non-GAAP) 
+ 
+ $ 
+ 2.20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) 
+ Includes activities at PSEG Power, PSEG Long Island, Energy Holdings, PSEG Services Corporation and the Parent.
+ 
+ 
+ 
+ (b) 
+ See Attachments 8 and 9 for details of items excluded from Net Income to compute Operating Earnings (non-GAAP). 
+ 
+
+ 
+ 
+
+ 
+ Attachment 3 
+ Public Service Enterprise Group Incorporated 
+ Capitalization Schedule 
+ (Unaudited, $ millions) 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ June 30, 2026 
+ 
+ 
+ December 31, 2025 
+ 
+
+ 
+ DEBT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Commercial Paper and Loans 
+ 
+ $ 
+ 950 
+ 
+ 
+ $ 
+ 1,529 
+ 
+ 
+ Long-Term Debt* 
+ 
+ 
+ 23,591 
+ 
+ 
+ 
+ 22,545 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Debt 
+ 
+ 
+ 24,541 
+ 
+ 
+ 
+ 24,074 
+ 
+ 
+ STOCKHOLDERS EQUITY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Common Stock 
+ 
+ 
+ 5,026 
+ 
+ 
+ 
+ 5,062 
+ 
+ 
+ Treasury Stock 
+ 
+ 
+ (1,471 
+ ) 
+ 
+ 
+ (1,435 
+ ) 
+ 
+ Retained Earnings 
+ 
+ 
+ 13,853 
+ 
+ 
+ 
+ 13,446 
+ 
+ 
+ Accumulated Other Comprehensive Loss 
+ 
+ 
+ (79 
+ ) 
+ 
+ 
+ (91 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Stockholders Equity 
+ 
+ 
+ 17,329 
+ 
+ 
+ 
+ 16,982 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Capitalization 
+ 
+ $ 
+ 41,870 
+ 
+ 
+ $ 
+ 41,056 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ * 
+ Includes current portion of Long-Term Debt 
+ 
+
+ 
+ 
+
+ 
+ Attachment 4 
+ Public Service Enterprise Group Incorporated 
+ Condensed Consolidated Statements of Cash Flows 
+ (Unaudited, $ millions) 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Six Months Ended June 30, 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+
+ 
+ Cash Flows From Operating Activities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Income 
+ 
+ $ 
+ 1,075 
+ 
+ 
+ $ 
+ 1,174 
+ 
+ 
+ Adjustments to Reconcile Net Income to Net Cash Flows From Operating Activities 
+ 
+ 
+ 746 
+ 
+ 
+ 
+ 353 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Cash Provided By (Used In) Operating Activities 
+ 
+ 
+ 1,821 
+ 
+ 
+ 
+ 1,527 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Cash Provided By (Used In) Investing Activities 
+ 
+ 
+ (1,451 
+ ) 
+ 
+ 
+ (1,388 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Cash Provided By (Used In) Financing Activities 
+ 
+ 
+ (310 
+ ) 
+ 
+ 
+ (78 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Change in Cash, Cash Equivalents and Restricted Cash 
+ 
+ 
+ 60 
+ 
+ 
+ 
+ 61 
+ 
+ 
+ Cash, Cash Equivalents and Restricted Cash at Beginning of Period 
+ 
+ 
+ 156 
+ 
+ 
+ 
+ 154 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash, Cash Equivalents and Restricted Cash at End of Period 
+ 
+ $ 
+ 216 
+ 
+ 
+ $ 
+ 215 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ Attachment 5 
+ Public Service Electric & Gas Company 
+ Retail Sales (Unaudited)
+ June 30, 2026 
+ Electric Sales 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Sales (millions kWh) 
+ 
+ Three Months Ended 
+ 
+ 
+ Change vs. 2025 
+ 
+ 
+ Six Months Ended 
+ 
+ 
+ Change vs. 2025 
+ 
+
+ 
+ Residential 
+ 
+ 
+ 3,242 
+ 
+ 
+ 
+ 3 
+ % 
+ 
+ 
+ 6,732 
+ 
+ 
+ 
+ 5 
+ % 
+ 
+ Commercial & Industrial 
+ 
+ 
+ 6,316 
+ 
+ 
+ 
+ 1 
+ % 
+ 
+ 
+ 13,100 
+ 
+ 
+ 
+ 2 
+ % 
+ 
+ Other 
+ 
+ 
+ 71 
+ 
+ 
+ 
+ 16 
+ % 
+ 
+ 
+ 168 
+ 
+ 
+ 
+ 4 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 9,629 
+ 
+ 
+ 
+ 2 
+ % 
+ 
+ 
+ 20,000 
+ 
+ 
+ 
+ 3 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gas Sold and Transported 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ Sales (millions therms) 
+ 
+ Three Months Ended 
+ 
+ 
+ Change vs. 2025 
+ 
+ 
+ Six Months Ended 
+ 
+ 
+ Change vs. 2025 
+ 
+ 
+ Firm Sales 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Residential Sales 
+ 
+ 
+ 188 
+ 
+ 
+ 
+ (4 
+ %) 
+ 
+ 
+ 980 
+ 
+ 
+ 
+ 4 
+ % 
+ 
+ Commercial & Industrial 
+ 
+ 
+ 163 
+ 
+ 
+ 
+ 1 
+ % 
+ 
+ 
+ 674 
+ 
+ 
+ 
+ 3 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Firm Sales 
+ 
+ 
+ 351 
+ 
+ 
+ 
+ (1 
+ %) 
+ 
+ 
+ 1,654 
+ 
+ 
+ 
+ 4 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Non-Firm Sales* 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Commercial & Industrial 
+ 
+ 
+ 190 
+ 
+ 
+ 
+ (45 
+ %) 
+ 
+ 
+ 351 
+ 
+ 
+ 
+ (26 
+ %) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Non-Firm Sales 
+ 
+ 
+ 190 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 351 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Sales 
+ 
+ 
+ 541 
+ 
+ 
+ 
+ (23 
+ %) 
+ 
+ 
+ 2,005 
+ 
+ 
+ 
+ (3 
+ %) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ * 
+ Contract Service Gas rate included in non-firm sales
+ Weather Data* 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Three Months Ended 
+ 
+ 
+ Change vs. 2025 
+ 
+ 
+ Six Months Ended 
+ 
+ 
+ Change vs. 2025 
+ 
+ 
+ THI Hours - Actual 
+ 
+ 
+ 5,477 
+ 
+ 
+ 
+ 9 
+ % 
+ 
+ 
+ 5,598 
+ 
+ 
+ 
+ 9 
+ % 
+ 
+ THI Hours - Normal 
+ 
+ 
+ 4,246 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4,267 
+ 
+ 
+ 
+ 
+ 
+ 
+ Degree Days - Actual 
+ 
+ 
+ 457 
+ 
+ 
+ 
+ 23 
+ % 
+ 
+ 
+ 3,018 
+ 
+ 
+ 
+ 10 
+ % 
+ 
+ Degree Days - Normal 
+ 
+ 
+ 468 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,919 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ * 
+ Winter weather as defined by heating degree days (HDD) to serve as a measure for the need for heating. For each
+day, HDD is calculated as HDD = 65&deg;F the average hourly daily temperature. Summer weather is measured by the temperature-humidity index (THI), which takes into account both the temperature and the humidity to measure the need for air
+conditioning. Both measures use data provided by the National Oceanic and Atmospheric Administration based on readings from Newark Liberty International Airport. Comparisons to normal are based on twenty years of historic data.
+ 
+ 
+
+ 
+ 
+
+ 
+ Attachment 6 
+ Nuclear Generation Measures 
+ (Unaudited) 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ GWh Breakdown 
+ 
+ 
+ GWh Breakdown 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended June 30, 
+ 
+ 
+ Six Months Ended June 30, 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+
+ 
+ Nuclear - NJ 
+ 
+ 
+ 4,952 
+ 
+ 
+ 
+ 4,670 
+ 
+ 
+ 
+ 10,044 
+ 
+ 
+ 
+ 10,134 
+ 
+ 
+ Nuclear - PA 
+ 
+ 
+ 2,835 
+ 
+ 
+ 
+ 2,841 
+ 
+ 
+ 
+ 5,732 
+ 
+ 
+ 
+ 5,732 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7,787 
+ 
+ 
+ 
+ 7,511 
+ 
+ 
+ 
+ 15,776 
+ 
+ 
+ 
+ 15,866 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ Attachment 7 
+ Public Service Enterprise Group Incorporated 
+ Statistical Measures 
+ (Unaudited) 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended June 30, 
+ 
+ 
+ Six Months Ended June 30, 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+
+ 
+ Weighted Average Common Shares Outstanding (millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Basic 
+ 
+ 
+ 498 
+ 
+ 
+ 
+ 499 
+ 
+ 
+ 
+ 498 
+ 
+ 
+ 
+ 499 
+ 
+ 
+ Diluted 
+ 
+ 
+ 499 
+ 
+ 
+ 
+ 500 
+ 
+ 
+ 
+ 499 
+ 
+ 
+ 
+ 500 
+ 
+ 
+ Stock Price at End of Period 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 81.16 
+ 
+ 
+ $ 
+ 84.18 
+ 
+ 
+ Dividends Paid per Share of Common Stock 
+ 
+ $ 
+ 0.67 
+ 
+ 
+ $ 
+ 0.63 
+ 
+ 
+ $ 
+ 1.34 
+ 
+ 
+ $ 
+ 1.26 
+ 
+ 
+ Dividend Yield 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.3 
+ % 
+ 
+ 
+ 3.0 
+ % 
+ 
+ Book Value per Common Share 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 34.79 
+ 
+ 
+ $ 
+ 33.43 
+ 
+ 
+ Market Price as a Percent of Book Value 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 233 
+ % 
+ 
+ 
+ 252 
+ % 
+ 
+ 
+
+ 
+ 
+
+ 
+ Attachment 8 
+ Public Service Enterprise Group Incorporated 
+ Consolidated Operating Earnings (non-GAAP) Reconciliation 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Reconciling Items 
+ 
+ Three Months Ended June 30, 
+ 
+ 
+ Six Months Ended June 30, 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ ($ millions, Unaudited) 
+ 
+
+ 
+ Net Income 
+ 
+ $ 
+ 334 
+ 
+ 
+ $ 
+ 585 
+ 
+ 
+ $ 
+ 1,075 
+ 
+ 
+ $ 
+ 1,174 
+ 
+ 
+ (Gain) Loss on Nuclear Decommissioning Trust (NDT) Fund Related Activity, pre-tax 
+ 
+ 
+ (153 
+ ) 
+ 
+ 
+ (108 
+ ) 
+ 
+ 
+ (147 
+ ) 
+ 
+ 
+ (120 
+ ) 
+ 
+ (Gain) Loss on
+ Mark-to-Market (MTM), pre-tax (a) 
+ 
+ 
+ 258 
+ 
+ 
+ 
+ (190 
+ ) 
+ 
+ 
+ 299 
+ 
+ 
+ 
+ (2 
+ ) 
+ 
+ Income Taxes related to Operating Earnings (non-GAAP) 
+reconciling items (b) 
+ 
+ 
+ (14 
+ ) 
+ 
+ 
+ 97 
+ 
+ 
+ 
+ (24 
+ ) 
+ 
+ 
+ 50 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating Earnings (non-GAAP) 
+ 
+ $ 
+ 425 
+ 
+ 
+ $ 
+ 384 
+ 
+ 
+ $ 
+ 1,203 
+ 
+ 
+ $ 
+ 1,102 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PSEG Fully Diluted Average Shares Outstanding (in millions) 
+ 
+ 
+ 499 
+ 
+ 
+ 
+ 500 
+ 
+ 
+ 
+ 499 
+ 
+ 
+ 
+ 500 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ Per Share Impact - Diluted, Unaudited) 
+ 
+ 
+ Net Income 
+ 
+ $ 
+ 0.67 
+ 
+ 
+ $ 
+ 1.17 
+ 
+ 
+ $ 
+ 2.15 
+ 
+ 
+ $ 
+ 2.35 
+ 
+ 
+ (Gain) Loss on NDT Fund Related Activity, pre-tax 
+
+ 
+ 
+ (0.30 
+ ) 
+ 
+ 
+ (0.22 
+ ) 
+ 
+ 
+ (0.29 
+ ) 
+ 
+ 
+ (0.25 
+ ) 
+ 
+ (Gain) Loss on MTM, pre-tax (a) 
+ 
+ 
+ 0.52 
+ 
+ 
+ 
+ (0.38 
+ ) 
+ 
+ 
+ 0.60 
+ 
+ 
+ 
+ — 
+ 
+ 
+ Income Taxes related to Operating Earnings (non-GAAP) 
+reconciling items (b) 
+ 
+ 
+ (0.03 
+ ) 
+ 
+ 
+ 0.20 
+ 
+ 
+ 
+ (0.05 
+ ) 
+ 
+ 
+ 0.10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating Earnings (non-GAAP) 
+ 
+ $ 
+ 0.86 
+ 
+ 
+ $ 
+ 0.77 
+ 
+ 
+ $ 
+ 2.41 
+ 
+ 
+ $ 
+ 2.20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) 
+ Includes the financial impact from positions with forward delivery months. 
+ 
+ 
+ (b) 
+ Income tax effect calculated at the statutory rate except for qualified NDT related activity, which records an
+additional 20% trust tax on income (loss) from qualified NDT Funds. 
+ 
+
+ 
+ 
+
+ 
+ Attachment 9 
+ PSEG Power & Other Operating Earnings (non-GAAP) Reconciliation 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Reconciling Items 
+ 
+ Three Months Ended June 30, 
+ 
+ 
+ Six Months Ended June 30, 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ ($ millions, Unaudited) 
+ 
+
+ 
+ Net Income (Loss) 
+ 
+ $ 
+ (8 
+ ) 
+ 
+ $ 
+ 253 
+ 
+ 
+ $ 
+ 156 
+ 
+ 
+ $ 
+ 296 
+ 
+ 
+ (Gain) Loss on NDT Fund Related Activity, pre-tax 
+
+ 
+ 
+ (153 
+ ) 
+ 
+ 
+ (108 
+ ) 
+ 
+ 
+ (147 
+ ) 
+ 
+ 
+ (120 
+ ) 
+ 
+ (Gain) Loss on MTM, pre-tax (a) 
+ 
+ 
+ 258 
+ 
+ 
+ 
+ (190 
+ ) 
+ 
+ 
+ 299 
+ 
+ 
+ 
+ (2 
+ ) 
+ 
+ Income Taxes related to Operating Earnings (non-GAAP) 
+reconciling items (b) 
+ 
+ 
+ (14 
+ ) 
+ 
+ 
+ 97 
+ 
+ 
+ 
+ (24 
+ ) 
+ 
+ 
+ 50 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating Earnings (non-GAAP) 
+ 
+ $ 
+ 83 
+ 
+ 
+ $ 
+ 52 
+ 
+ 
+ $ 
+ 284 
+ 
+ 
+ $ 
+ 224 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PSEG Fully Diluted Average Shares Outstanding (in millions) 
+ 
+ 
+ 499 
+ 
+ 
+ 
+ 500 
+ 
+ 
+ 
+ 499 
+ 
+ 
+ 
+ 500 
+ 
+ 
+ 
+ 
+ (a) 
+ Includes the financial impact from positions with forward delivery months. 
+ 
+ 
+ (b) 
+ Income tax effect calculated at the statutory rate except for qualified NDT related activity, which records an
+additional 20% trust tax on income (loss) from qualified NDT Funds.
