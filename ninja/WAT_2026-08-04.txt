@@ -1,0 +1,5106 @@
+Ticker: WAT
+Company: WATERS CORP /DE/
+Filed: 2026-08-04
+Type: PRESS_RELEASE
+Source: https://www.sec.gov/Archives/edgar/data/1000697/000119312526331413/d163377dex991.htm
+
+EX-99.1
+ 2
+ d163377dex991.htm
+ EX-99.1
+ 
+ 
+ EX-99.1 
+ 
+ 
+
+ 
+ Exhibit 99.1 
+ For Immediate Release Contact: Caspar Tudor, Head of Investor
+Relations (508) 482-3448 Waters Corporation (NYSE: WAT) Reports Second Quarter 2026
+Financial Results Second Quarter 2026 Highlights 
+ 
+ 
+ 
+ 
+ 
+ Total reported revenue of $1.645 billion surpassed the high end of the guidance range,
+driven by broad-based outperformance across both organic revenue and the acquired businesses. 
+ 
+ 
+ 
+ 
+ 
+ Organic revenue of $828 million grew 7% as reported and 9% in constant currency; the Analytical
+Sciences Division (ASD) delivered 8% instrument growth and double-digit chemistry consumables growth, led by low-double-digit growth in both Pharma and A&G end markets, in constant currency, as the market recovery has entered a broader phase,
+expanding across additional customer segments. 
+ 
+ 
+ 
+ 
+ 
+ Biosciences and Diagnostic Solutions revenue of $817 million exceeded
+guidance by $15 million and grew 4% on a prior year comparable basis, reflecting strong traction from commercial execution and operational improvements under the Company s 180-day 
+growth revitalization plan that drove a faster-than-expected acceleration to mid-single-digit growth. 
+ 
+ 
+ 
+ 
+ 
+ GAAP EPS of ($1.39); Adjusted EPS of $3.05 landed at the high end of the guidance range, as early cost
+actions offset unfavorable foreign exchange translation. 
+ 
+ 
+ 
+ 
+ 
+ The Company is raising all components of its full-year 2026 guidance, given better-than-expected
+results and broad strengthening in end-market conditions. It now expects full-year 2026 organic constant currency revenue growth of 7% to 9%, acquired business reported revenue of
+$3.045 billion, and adjusted EPS of $14.45 to $14.65, reflecting 10-12% growth. 
+ MILFORD, Mass., August 4, 2026 - Waters Corporation (NYSE: WAT), today announced its financial results for the second quarter of 2026. 
+ Overall Financial Results The Company s
+reported revenue for the second quarter of 2026 was $1.645 billion, reflecting $828 million of organic revenue and $817 million of revenue from the recently acquired Biosciences and Diagnostic Solutions businesses. 
+ Organic revenue for the second quarter of 2026 was $828 million, compared to $771 million for the second quarter of 2025, representing an increase of
+7% as reported and 9% in constant currency. Revenue from Biosciences and Diagnostic Solutions was $817 million for the second quarter of
+2026, compared to $783 million on a prior year comparable basis. On a GAAP basis, the Company reported a diluted loss per share of $1.39 for the second
+quarter of 2026, compared to diluted EPS of $2.47 for the second quarter of 2025, reflecting acquisition-related purchase accounting charges, including amortization of acquired intangibles and inventory
+ step-up. Adjusted EPS for the second quarter of 2026 grew 3% to $3.05, compared to $2.95 for the second quarter
+of 2025. Thanks to the hard work of our teams, we delivered industry-leading growth again this quarter, executing ahead of guidance across all
+four divisions, said Udit Batra, Ph.D., President & Chief Executive Officer, Waters Corporation. Organic revenue grew 9% in constant currency, and our newly acquired businesses grew
+ mid-single-digits in their first full quarter under Waters ownership. This performance reflects strong execution across the combined Company as our integration continues to gain momentum, while the recovery
+across our end markets has broadened with previously lagging customer segments now returning to growth. 
+ 
+
+ 
+ 
+
+ 
+ Dr. Batra continued, With momentum building across our portfolio, end markets, and
+synergies, we are raising every component of our full-year 2026 guidance. Looking ahead, as end market conditions continue to strengthen and our growth strategy compounds, Waters is better positioned today than at any point in our recent history,
+with a broader portfolio, a larger installed base, and the clearest set of growth catalysts we have ever had. Analytical Sciences Division
+(ASD) The Analytical Sciences Division the former Waters Division, excluding the Clinical Business Unit delivered
+reported revenue of $669 million in the quarter, compared to $627 million for the second quarter of 2025. Biosciences Division (WBD)
+ The Biosciences Division formerly known as BD Biosciences delivered reported revenue of $368 million in the
+quarter, compared to $358 million for the prior year comparable period. Advanced Diagnostics Division (ADx) 
+ The Advanced Diagnostics Division comprises the former BD Diagnostic Solutions business and the Clinical Business Unit previously reported within Waters
+Division. The Diagnostic Solutions business delivered reported revenue of $449 million in the quarter, compared to $425 million for the prior
+year comparable period. The Clinical Business Unit delivered reported revenue of $72 million in the quarter, compared to $62 million for the second quarter of 2025. 
+ Materials Sciences Division (MSD) The Materials
+Sciences Division formerly known as TA Division delivered reported revenue of $87 million in the quarter, compared to $82 million for the second quarter of 2025. 
+ A description and reconciliation of GAAP to non-GAAP results appear in the tables below and can be found on the
+Company s website www.waters.com in the Investor Relations section. Full-Year and Third Quarter 2026 Financial Guidance 
+ Full-Year 2026 Financial Guidance The Company is raising
+its full-year 2026 organic constant currency revenue growth guidance to the range of 7.0% to 9.0%. Including the effect of currency translation, full-year 2026 organic reported revenue is expected to be in the range of $3.370 billion to
+$3.431 billion. The Company is raising its acquired business revenue expectation and now expects full-year 2026 acquired business reported
+revenue of approximately $3.045 billion on an owned-period basis. Total Company reported revenue for full-year 2026 is expected to be in the
+range of $6.415 billion to $6.476 billion. The Company is raising its full-year 2026 adjusted EPS guidance to the range of $14.45
+to $14.65, which represents 10% to 12% year-over-year adjusted EPS growth and is 12% to 14% on a constant currency basis. Third Quarter 2026 Financial
+Guidance The Company expects third quarter 2026 organic constant currency revenue growth to be in the range of 8% to 10%. Including the effect of
+currency translation, third quarter 2026 organic reported revenue is expected to be in the range of $850 million to $867 million. 
+ 
+
+ 
+ 
+
+ 
+ The Company expects acquired business reported revenue for the third quarter of 2026 to be approximately
+$895 million. Total Company reported revenue for the third quarter of 2026 is expected to be in the range of $1.745 billion to
+$1.762 billion. The Company expects third quarter 2026 adjusted EPS to be in the range of $3.95 to $4.05, which represents 16% to 19%
+year-over-year adjusted EPS growth. Please refer to the tables below for a reconciliation of the projected GAAP to
+ non-GAAP financial outlook for the full-year and third quarter. The Company is unable to provide reconciliations of forward-looking presentations of adjusted EPS guidance measures to the most directly
+comparable GAAP measures. Such reconciliations cannot be prepared without unreasonable efforts due to the inherent difficulty and unpredictability in forecasting and quantifying certain amounts that would be necessary for such reconciliations,
+including acquisition-related amortization, acquisition and restructuring costs, as well as certain legal, advisory and tax costs, or other costs that may arise, which amounts could be significant and could have a material impact on the
+Company s future GAAP financial results. All amounts, other than percentages and per share data, are presented in millions of dollars. Certain totals and percentages may not recalculate due to rounding. 
+ Results for the Biosciences and Diagnostic Solutions businesses for prior year comparable period are the quarterly results for the Biosciences and
+Diagnostic Solutions units for the three months ended June 30, 2025, as reported in the quarterly report on Form 10-Q filed by Becton, Dickinson and Company with the Securities and Exchange
+Commission ( SEC ) on August 7, 2025. This historical financial information reflects the results of operations of these businesses as they were historically managed in conformity with U.S. GAAP. Therefore, such historical
+financial information does not necessarily reflect what these businesses results of operations would have been had they operated as a part of Waters during the period presented, and do not reflect changes that have occurred since the consummation of
+the acquisition of these businesses by Waters, including, among other things, changes in the financing, cash management, operations, cost structure and personnel needs or differences in accounting policies. For example, BD provided certain services,
+such as legal, finance, information technology, human resources, and other infrastructure support to the BDS Businesses prior to their acquisition by Waters. Costs of these services were included in the BDS Businesses results of operations
+through allocations based upon a proportion of revenue or headcount as determined by BD in conformity with GAAP. Such allocated costs may not be indicative or necessary if the BDS Businesses operated as a part of Waters during the period presented,
+nor are they necessarily representative of the costs that may be incurred in the future. Conference Call Details 
+ Waters Corporation will webcast its second quarter 2026 financial results conference call today, August 4, 2026, at 8:00 a.m. Eastern Time. To listen to
+the call and see the accompanying slide presentation, please visit www.waters.com , select Investor Relations under the About Waters section, navigate to Events & Presentations, and
+click on the Webcast. A replay will be available through at least September 1, 2026. About Waters Corporation 
+ Waters Corporation (NYSE: WAT) is a global leader in life sciences and diagnostics, dedicated to accelerating the benefits of pioneering science through
+analytical technologies, informatics, and service. With a focus on regulated, high-volume testing environments, our innovative portfolio harnesses deep scientific expertise across chemistry, physics, and biology. We collaborate with customers around
+the world to advance the release of effective, high-quality medicines, ensure the safety of food and water, and drive better patient outcomes by detecting diseases earlier, managing routine infections, and combating antibiotic resistance. Through a
+shared culture of relentless innovation, our passionate team of ~16,000 colleagues turn scientific challenges into breakthroughs that improve lives worldwide. 
+ 
+
+ 
+ 
+
+ 
+ Non-GAAP Financial Measures 
+ This release contains financial measures, such as organic constant currency growth rates, constant currency growth rates, prior year comparable revenue,
+adjusted earnings per diluted share, and adjusted free cash flow, among others, which are considered non-GAAP financial measures under applicable SEC rules and regulations. These non-GAAP financial measures should be considered supplemental to, and not a substitute for, financial information prepared in accordance with U.S. generally accepted accounting principles (GAAP). The Company s
+definitions of these non-GAAP measures may differ from similarly titled measures used by others. The non-GAAP financial measures used in this release adjust for
+specified items that can be highly variable or difficult to predict. The Company generally uses these non-GAAP financial measures to facilitate management s financial and operational decision-making,
+including evaluation of the Company s historical operating results, comparison to competitors operating results and determination of management incentive compensation. These non-GAAP financial
+measures reflect an additional way of viewing aspects of the Company s operations that, when viewed with GAAP results and the reconciliations to corresponding GAAP financial measures, may provide a more complete understanding of factors and
+trends affecting the Company s business. Because non-GAAP financial measures exclude the effect of items that will increase or decrease the Company s reported results of operations, management
+strongly encourages investors to review the Company s consolidated financial statements and publicly filed reports in their entirety. Definitions of the non-GAAP financial measures and reconciliations to
+the most directly comparable GAAP financial measures are included in the tables accompanying this release. Cautionary Statement 
+ This release contains forward-looking statements regarding future results and events. For this purpose, any statements that are not statements of
+historical fact may be deemed forward-looking statements. Without limiting the foregoing, the words feels, believes, anticipates, plans, expects, intends, 
+ suggests, appears, estimates, projects, and similar expressions, whether in the negative or affirmative, are intended to identify forward-looking statements. Our actual results may differ
+significantly from the results discussed in the forward-looking statements within this release for a variety of reasons, including and without limitation, risks or uncertainties related to our acquisition of Becton, Dickinson and Company s
+Biosciences and Diagnostic Solutions businesses (the BDS Business ), including failure to realize the anticipated benefits of this acquisition, including as a result of delay in integrating the BDS Businesses with the Company on the
+expected timeframe or at all, and the ability of the Company to implement its business strategy and achieve revenue and cost synergies, anticipated progress on Waters research programs, development of new analytical instruments and associated
+software or consumables, manufacturing development and capabilities, our future financial and operational performance, future economic and market conditions, including our expectations about the growth rates of certain markets, our strategic
+initiatives, including our instrument replacement initiatives, our ability to respond and adapt to changing global dynamics, including the potential impacts of tariffs and supply chain challenges, our ability to retain and attract customers in
+various geographies and market segments, our market size and growth opportunities, our competitive positioning, projected costs, technological capabilities and plans, and objectives of management, and other risk factors detailed from time to time in
+Waters reports filed with the SEC. Such factors and others are discussed more fully in the sections entitled Forward-Looking Statements and Risk Factors of the Company s annual report on Form 10-K for the year ended December 31, 2025, as filed with the SEC, which discussions are incorporated by reference in this release, as updated by the Company s subsequent filings with the SEC. The
+forward-looking statements included in this release represent the Company s estimates or views as of the date of this release and should not be relied upon as representing the Company s estimates or views as of any date subsequent to the
+date of this release. Except as required by law, the Company does not assume any obligation to update any forward-looking statements. 
+ 
+
+ 
+ 
+
+ 
+ Waters Corporation and Subsidiaries 
+ Consolidated Statements of Operations 
+ (In millions, except per share data) 
+ (Unaudited) 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended 
+ 
+ 
+ Six Months Ended 
+ 
+ 
+ 
+ 
+ July 4, 2026 
+ 
+ 
+ June 28, 2025 
+ 
+ 
+ July 4, 2026 
+ 
+ 
+ June 28, 2025 
+ 
+
+ 
+ Net revenue 
+ 
+ $ 
+ 1,645 
+ 
+ 
+ $ 
+ 771 
+ 
+ 
+ $ 
+ 2,912 
+ 
+ 
+ $ 
+ 1,433 
+ 
+ 
+ Costs and operating expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of revenue (a) 
+ 
+ 
+ 911 
+ 
+ 
+ 
+ 321 
+ 
+ 
+ 
+ 1,590 
+ 
+ 
+ 
+ 598 
+ 
+ 
+ Selling and administrative expenses 
+ 
+ 
+ 405 
+ 
+ 
+ 
+ 198 
+ 
+ 
+ 
+ 788 
+ 
+ 
+ 
+ 373 
+ 
+ 
+ Research and development expenses 
+ 
+ 
+ 122 
+ 
+ 
+ 
+ 49 
+ 
+ 
+ 
+ 218 
+ 
+ 
+ 
+ 95 
+ 
+ 
+ Purchased intangibles amortization
+ (b) 
+ 
+ 
+ 244 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 396 
+ 
+ 
+ 
+ 24 
+ 
+ 
+ Restructuring charges 
+ 
+ 
+ 49 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 52 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating (loss) income 
+ 
+ 
+ (86 
+ ) 
+ 
+ 
+ 188 
+ 
+ 
+ 
+ (134 
+ ) 
+ 
+ 
+ 340 
+ 
+ 
+ Other (expense) income, net 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (1 
+ ) 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ Interest expense, net 
+ 
+ 
+ (55 
+ ) 
+ 
+ 
+ (10 
+ ) 
+ 
+ 
+ (96 
+ ) 
+ 
+ 
+ (20 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Loss) income from operations before income taxes 
+ 
+ 
+ (141 
+ ) 
+ 
+ 
+ 178 
+ 
+ 
+ 
+ (229 
+ ) 
+ 
+ 
+ 321 
+ 
+ 
+ Benefit (provision) for income taxes 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ (31 
+ ) 
+ 
+ 
+ 21 
+ 
+ 
+ 
+ (52 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net (loss) income 
+ 
+ $ 
+ (136 
+ ) 
+ 
+ $ 
+ 147 
+ 
+ 
+ $ 
+ (208 
+ ) 
+ 
+ $ 
+ 268 
+ 
+ 
+ Net (loss) income per basic common share 
+ 
+ $ 
+ (1.39 
+ ) 
+ 
+ $ 
+ 2.47 
+ 
+ 
+ $ 
+ (2.31 
+ ) 
+ 
+ $ 
+ 4.51 
+ 
+ 
+ Weighted-average number of basic common shares 
+ 
+ 
+ 98,204 
+ 
+ 
+ 
+ 59,515 
+ 
+ 
+ 
+ 90,041 
+ 
+ 
+ 
+ 59,478 
+ 
+ 
+ Net (loss) income per diluted common share 
+ 
+ $ 
+ (1.39 
+ ) 
+ 
+ $ 
+ 2.47 
+ 
+ 
+ $ 
+ (2.31 
+ ) 
+ 
+ $ 
+ 4.50 
+ 
+ 
+ Weighted-average number of diluted common shares and equivalents 
+ 
+ 
+ 98,204 
+ 
+ 
+ 
+ 59,656 
+ 
+ 
+ 
+ 90,041 
+ 
+ 
+ 
+ 59,686 
+ 
+ 
+ 
+ 
+ (a) 
+ Cost of revenue for the three months and six months ended July 4, 2026 includes $155 million and
+$253 million, respectively, of purchase accounting adjustments related to the fair value inventory and fixed asset step up related to the BDS acquisition. 
+ 
+ 
+ (b) 
+ Purchased intangibles amortization for the three and six months ended July 4, 2026 includes
+$232 million and $372 million, respectively, of purchase accounting adjustments related to the amortization of the BDS acquisition purchased intangibles. 
+ 
+
+ 
+ 
+
+ 
+ Waters Corporation and Subsidiaries 
+ Reconciliation of GAAP to Adjusted Non-GAAP 
+ Revenue by Operating Segment, Product & Service, and Geography 
+ Three Months Ended July 4, 2026 and June 28, 2025 
+ (In millions) 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended 
+ 
+ 
+ Reported Growth 
+ 
+ 
+ 
+ 
+ July 4, 2026 
+ 
+ 
+ June 28, 2025 
+ 
+
+ 
+ REVENUE - OPERATING SEGMENT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Analytical Sciences Division (ASD) 
+ 
+ $ 
+ 669 
+ 
+ 
+ $ 
+ 627 
+ 
+ 
+ 
+ 7% 
+ 
+ 
+ Biosciences Division (WBD) 
+ 
+ 
+ 368 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ ** 
+ 
+ 
+ Advanced Diagnostics Division (ADx) 
+ 
+ 
+ 521 
+ 
+ 
+ 
+ 62 
+ 
+ 
+ 
+ 733% 
+ 
+ 
+ Materials Sciences Division (MSD) 
+ 
+ 
+ 87 
+ 
+ 
+ 
+ 82 
+ 
+ 
+ 
+ 6% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Revenue 
+ 
+ $ 
+ 1,645 
+ 
+ 
+ $ 
+ 771 
+ 
+ 
+ 
+ 113% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REVENUE - PRODUCT & SERVICE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product 
+ 
+ $ 
+ 1,220 
+ 
+ 
+ $ 
+ 473 
+ 
+ 
+ 
+ 158% 
+ 
+ 
+ Service 
+ 
+ 
+ 425 
+ 
+ 
+ 
+ 298 
+ 
+ 
+ 
+ 43% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Revenue 
+ 
+ $ 
+ 1,645 
+ 
+ 
+ $ 
+ 771 
+ 
+ 
+ 
+ 113% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REVENUE - GEOGRAPHY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Asia 
+ 
+ $ 
+ 450 
+ 
+ 
+ $ 
+ 266 
+ 
+ 
+ 
+ 69% 
+ 
+ 
+ Americas 
+ 
+ 
+ 690 
+ 
+ 
+ 
+ 280 
+ 
+ 
+ 
+ 146% 
+ 
+ 
+ Europe 
+ 
+ 
+ 505 
+ 
+ 
+ 
+ 225 
+ 
+ 
+ 
+ 125% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Revenue 
+ 
+ $ 
+ 1,645 
+ 
+ 
+ $ 
+ 771 
+ 
+ 
+ 
+ 113% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reconciliation of Organic Revenue Growth 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Reported Revenue (GAAP) 
+ 
+ $ 
+ 1,645 
+ 
+ 
+ $ 
+ 771 
+ 
+ 
+ 
+ 113% 
+ 
+ 
+ Acquired Business Contribution 
+ 
+ 
+ 817 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Organic Reported Revenue 
+ 
+ $ 
+ 828 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Organic Reported Revenue Growth 
+ 
+ 
+ 7% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Currency Translation Impact 
+ 
+ 
+ (2%) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Organic Constant Currency Revenue Growth (a) 
+ 
+ 
+ 9% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reconciliation of Reported Revenue to Prior Year Comparable Revenue (b) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Acquired Business Contribution 
+ 
+ 
+ 817 
+ 
+ 
+ 
+ 783 
+ 
+ 
+ 
+ 4% 
+ 
+ 
+ Reconciliation of Analytical Sciences Division Instrument Revenue 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ASD Instrument Revenue 
+ 
+ $ 
+ 240 
+ 
+ 
+ $ 
+ 229 
+ 
+ 
+ 
+ 5% 
+ 
+ 
+ Currency Translation Impact 
+ 
+ 
+ (3%) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Constant Currency ASD Instrument Revenue Growth 
+ 
+ 
+ 8% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ** 
+ Percentage not meaningful 
+ 
+ 
+ (a) 
+ The Company believes that referring to organic constant currency growth is a useful measure for evaluating the
+underlying performance of revenue. Organic constant currency revenue growth, a non-GAAP financial measure, measures the change in net revenue between current and prior year periods, excluding the impact of foreign currency exchange rate changes
+during the current period and excluding the impact of acquisitions completed within twelve months of the acquisition date. See description of non-GAAP financial measures contained in this release. 
+ 
+ 
+ (b) 
+ The Company believes that referring to comparable revenue is a useful measure for evaluating the underlying
+performance of the business following the acquisition of Biosciences & Diagnostic Solutions ( BDS ). Comparable revenue includes BDS revenue in both the current and prior year comparison periods. Current period revenue includes BDS
+revenue for the full quarter and prior-year comparable revenue includes an estimate of BDS revenue for the equivalent prior-year period. Growth rates are calculated using these comparable revenues. 
+ 
+
+ 
+ 
+
+ 
+ Waters Corporation and Subsidiaries 
+ Reconciliation of GAAP to Adjusted Non-GAAP 
+ Revenue by Operating Segment, Product & Service, and Geography 
+ Six Months Ended July 4, 2026 and June 28, 2025 
+ (In millions) 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Six Months Ended 
+ 
+ 
+ Reported Growth 
+ 
+ 
+ 
+ 
+ July 4, 2026 (b) 
+ 
+ 
+ June 28, 2025 
+ 
+
+ 
+ REVENUE - OPERATING SEGMENT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Analytical Sciences Division (ASD) 
+ 
+ $ 
+ 1,276 
+ 
+ 
+ $ 
+ 1,161 
+ 
+ 
+ 
+ 10% 
+ 
+ 
+ Biosciences Division (WBD) 
+ 
+ 
+ 600 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ ** 
+ 
+ 
+ Advanced Diagnostics Division (ADx) 
+ 
+ 
+ 870 
+ 
+ 
+ 
+ 115 
+ 
+ 
+ 
+ 653% 
+ 
+ 
+ Materials Sciences Division (MSD) 
+ 
+ 
+ 166 
+ 
+ 
+ 
+ 157 
+ 
+ 
+ 
+ 6% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Revenue 
+ 
+ $ 
+ 2,912 
+ 
+ 
+ $ 
+ 1,433 
+ 
+ 
+ 
+ 103% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REVENUE - PRODUCT & SERVICE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product 
+ 
+ $ 
+ 2,139 
+ 
+ 
+ $ 
+ 874 
+ 
+ 
+ 
+ 145% 
+ 
+ 
+ Service 
+ 
+ 
+ 773 
+ 
+ 
+ 
+ 559 
+ 
+ 
+ 
+ 38% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Revenue 
+ 
+ $ 
+ 2,912 
+ 
+ 
+ $ 
+ 1,433 
+ 
+ 
+ 
+ 103% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REVENUE - GEOGRAPHY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Asia 
+ 
+ $ 
+ 800 
+ 
+ 
+ $ 
+ 487 
+ 
+ 
+ 
+ 64% 
+ 
+ 
+ Americas 
+ 
+ 
+ 1,195 
+ 
+ 
+ 
+ 536 
+ 
+ 
+ 
+ 123% 
+ 
+ 
+ Europe 
+ 
+ 
+ 917 
+ 
+ 
+ 
+ 410 
+ 
+ 
+ 
+ 124% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Revenue 
+ 
+ $ 
+ 2,912 
+ 
+ 
+ $ 
+ 1,433 
+ 
+ 
+ 
+ 103% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reconciliation of Organic Revenue Growth 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Reported Revenue (GAAP) 
+ 
+ $ 
+ 2,912 
+ 
+ 
+ $ 
+ 1,433 
+ 
+ 
+ 
+ 103% 
+ 
+ 
+ Acquired Business Contribution 
+ 
+ 
+ 1,337 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Organic Reported Revenue 
+ 
+ $ 
+ 1,575 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Organic Reported Revenue Growth 
+ 
+ 
+ 10% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Currency Translation Impact 
+ 
+ 
+ 0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Organic Constant Currency Revenue Growth
+ (a) 
+ 
+ 
+ 10% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reconciliation of Acquired Company Prior Year Comparable Revenue for Period
+Owned (c) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Prior Year Full
+ Year-To-Date Revenue 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1,575 
+ 
+ 
+ 
+ 
+ 
+ 
+ Less: Revenue Adjustments for Pre-Owned Period 
+ 
+ 
+ 
+ 
+ 
+ 
+ 307 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Current and Prior Year Comparable Revenue 
+ 
+ $ 
+ 1,337 
+ 
+ 
+ $ 
+ 1,268 
+ 
+ 
+ 
+ 5% 
+ 
+ 
+ 
+ 
+ ** 
+ Percentage not meaningful 
+ 
+ 
+ (a) 
+ The Company believes that referring to organic constant currency growth is a useful measure for evaluating the
+underlying performance of revenue. Organic constant currency revenue growth, a non-GAAP financial measure, measures the change in net revenue between current and prior year periods, excluding the impact of
+foreign currency exchange rate changes during the current period and excluding the impact of acquisitions completed within twelve months of the acquisition date. See description of non-GAAP financial measures
+contained in this release. 
+ 
+ 
+ (b) 
+ Waters Corporation revenue for the six months ended July 4, 2026 includes the results of the BDS Business
+acquisition from date of acquisition February 9, 2026 through July 4, 2026. 
+ 
+ 
+ (c) 
+ The Company believes that referring to comparable revenue is a useful measure for evaluating the underlying
+performance of the business following the acquisition of Biosciences & Diagnostic Solutions ( BDS ). Comparable revenue includes BDS revenue in both the current and prior year comparison periods. Current period revenue includes
+BDS revenue from February 9, 2026, the acquisition date, through quarter-end. Prior year comparable revenue includes an estimate of BDS revenue for the equivalent prior year period. Growth rates are
+calculated using these comparable revenues. 
+ 
+
+ 
+ 
+
+ 
+ Waters Corporation and Subsidiaries 
+ Reconciliation of GAAP to Adjusted Non-GAAP Financials 
+ Three and Six Months Ended July 4, 2026 and June 28, 2025 
+ (In millions, except per share data) 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of Revenue 
+ 
+ 
+ Selling & Administrative Expenses (a) 
+ 
+ 
+ Research & Development Expenses 
+ 
+ 
+ Operating (Loss) Income 
+ 
+ 
+ Operating (Loss) Income Percentage 
+ 
+ 
+ Interest Expense, Net 
+ 
+ 
+ (Loss) Income before Income Taxes 
+ 
+ 
+ Benefit (Provision) for Income Taxes 
+ 
+ 
+ Net (Loss) Income 
+ 
+ 
+ Diluted (Loss) Earnings per Share (h) 
+ 
+
+ 
+ Three Months Ended July 4, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ GAAP 
+ 
+ $ 
+ 911 
+ 
+ 
+ $ 
+ 698 
+ 
+ 
+ $ 
+ 122 
+ 
+ 
+ $ 
+ (86) 
+ 
+ 
+ 
+ (5.2 
+ %) 
+ 
+ $ 
+ (55) 
+ 
+ 
+ $ 
+ (141) 
+ 
+ 
+ $ 
+ 5 
+ 
+ 
+ $ 
+ (136) 
+ 
+ 
+ $ 
+ (1.39) 
+ 
+ 
+ Adjustments: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Purchased intangibles amortization and
+ acquisition-related fair value step-ups (b) 
+ 
+ 
+ (155) 
+ 
+ 
+ 
+ (244) 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 399 
+ 
+ 
+ 
+ 24.2 
+ % 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 399 
+ 
+ 
+ 
+ (49) 
+ 
+ 
+ 
+ 350 
+ 
+ 
+ 
+ 3.56 
+ 
+ 
+ Restructuring costs and certain other items
+ (c) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (51) 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 51 
+ 
+ 
+ 
+ 3.1 
+ % 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 51 
+ 
+ 
+ 
+ (6) 
+ 
+ 
+ 
+ 45 
+ 
+ 
+ 
+ 0.46 
+ 
+ 
+ ERP implementation and transformation costs
+ (d) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (9) 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ 0.5 
+ % 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ (1) 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 0.08 
+ 
+ 
+ Acquisition related costs (e) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (37) 
+ 
+ 
+ 
+ (1) 
+ 
+ 
+ 
+ 39 
+ 
+ 
+ 
+ 2.4 
+ % 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 39 
+ 
+ 
+ 
+ (5) 
+ 
+ 
+ 
+ 34 
+ 
+ 
+ 
+ 0.35 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjusted Non-GAAP 
+ 
+ $ 
+ 756 
+ 
+ 
+ $ 
+ 357 
+ 
+ 
+ $ 
+ 121 
+ 
+ 
+ $ 
+ 411 
+ 
+ 
+ 
+ 25.0 
+ % 
+ 
+ $ 
+ (55) 
+ 
+ 
+ $ 
+ 356 
+ 
+ 
+ $ 
+ (56) 
+ 
+ 
+ $ 
+ 301 
+ 
+ 
+ $ 
+ 3.05 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended June 28, 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ GAAP 
+ 
+ $ 
+ 321 
+ 
+ 
+ $ 
+ 213 
+ 
+ 
+ $ 
+ 49 
+ 
+ 
+ $ 
+ 188 
+ 
+ 
+ 
+ 24.4 
+ % 
+ 
+ $ 
+ (10) 
+ 
+ 
+ $ 
+ 178 
+ 
+ 
+ $ 
+ (31) 
+ 
+ 
+ $ 
+ 147 
+ 
+ 
+ $ 
+ 2.47 
+ 
+ 
+ Adjustments: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Purchased intangibles amortization
+ (b) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (12) 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 1.5 
+ % 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ 0.15 
+ 
+ 
+ Restructuring costs and certain other
+items (c) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (4) 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 0.5 
+ % 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ (1) 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 0.05 
+ 
+ 
+ ERP implementation and transformation costs
+ (d) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (5) 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 0.7 
+ % 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ (1) 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 0.06 
+ 
+ 
+ Acquisition related costs (e) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (14) 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ 1.9 
+ % 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 0.20 
+ 
+ 
+ Retention bonus obligation (f) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (1) 
+ 
+ 
+ 
+ (0) 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 0.2 
+ % 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ (0) 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 0.02 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjusted Non-GAAP 
+ 
+ $ 
+ 321 
+ 
+ 
+ $ 
+ 177 
+ 
+ 
+ $ 
+ 48 
+ 
+ 
+ $ 
+ 225 
+ 
+ 
+ 
+ 29.1 
+ % 
+ 
+ $ 
+ (10) 
+ 
+ 
+ $ 
+ 214 
+ 
+ 
+ $ 
+ (38) 
+ 
+ 
+ $ 
+ 176 
+ 
+ 
+ $ 
+ 2.95 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Six Months Ended July 4, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ GAAP 
+ 
+ $ 
+ 1,590 
+ 
+ 
+ $ 
+ 1,237 
+ 
+ 
+ $ 
+ 218 
+ 
+ 
+ $ 
+ (134) 
+ 
+ 
+ 
+ (4.6 
+ %) 
+ 
+ $ 
+ (96) 
+ 
+ 
+ $ 
+ (229) 
+ 
+ 
+ $ 
+ 21 
+ 
+ 
+ $ 
+ (208) 
+ 
+ 
+ $ 
+ (2.31) 
+ 
+ 
+ Adjustments: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Purchased intangibles amortization and acquisition-related fair value step-ups (b) 
+ 
+ 
+ (253) 
+ 
+ 
+ 
+ (396) 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 650 
+ 
+ 
+ 
+ 22.3 
+ % 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 650 
+ 
+ 
+ 
+ (89) 
+ 
+ 
+ 
+ 560 
+ 
+ 
+ 
+ 6.20 
+ 
+ 
+ Restructuring costs and certain other
+items (c) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (55) 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 55 
+ 
+ 
+ 
+ 1.9 
+ % 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 55 
+ 
+ 
+ 
+ (7) 
+ 
+ 
+ 
+ 48 
+ 
+ 
+ 
+ 0.53 
+ 
+ 
+ ERP implementation and transformation costs
+ (d) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (18) 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 18 
+ 
+ 
+ 
+ 0.6 
+ % 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 18 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ 15 
+ 
+ 
+ 
+ 0.17 
+ 
+ 
+ Acquisition related costs (e) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (119) 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 121 
+ 
+ 
+ 
+ 4.2 
+ % 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 121 
+ 
+ 
+ 
+ (18) 
+ 
+ 
+ 
+ 103 
+ 
+ 
+ 
+ 1.14 
+ 
+ 
+ Financing costs (g) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ (1) 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 0.04 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjusted Non-GAAP 
+ 
+ $ 
+ 1,337 
+ 
+ 
+ $ 
+ 648 
+ 
+ 
+ $ 
+ 216 
+ 
+ 
+ $ 
+ 710 
+ 
+ 
+ 
+ 24.4 
+ % 
+ 
+ $ 
+ (92) 
+ 
+ 
+ $ 
+ 619 
+ 
+ 
+ $ 
+ (97) 
+ 
+ 
+ $ 
+ 523 
+ 
+ 
+ $ 
+ 5.79 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Six Months Ended June 28, 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ GAAP 
+ 
+ $ 
+ 598 
+ 
+ 
+ $ 
+ 400 
+ 
+ 
+ $ 
+ 95 
+ 
+ 
+ $ 
+ 340 
+ 
+ 
+ 
+ 23.7 
+ % 
+ 
+ $ 
+ (20) 
+ 
+ 
+ $ 
+ 321 
+ 
+ 
+ $ 
+ (52) 
+ 
+ 
+ $ 
+ 268 
+ 
+ 
+ $ 
+ 4.50 
+ 
+ 
+ Adjustments: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Purchased intangibles amortization
+ (b) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (24) 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 24 
+ 
+ 
+ 
+ 1.6 
+ % 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 24 
+ 
+ 
+ 
+ (6) 
+ 
+ 
+ 
+ 18 
+ 
+ 
+ 
+ 0.30 
+ 
+ 
+ Restructuring costs and certain other
+items (c) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (4) 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 0.3 
+ % 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ (1) 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 0.06 
+ 
+ 
+ ERP implementation and transformation costs
+ (d) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (7) 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 0.5 
+ % 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 0.09 
+ 
+ 
+ Acquisition related costs (e) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (14) 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ 1.0 
+ % 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 0.20 
+ 
+ 
+ Retention bonus obligation (f) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ (1) 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 0.3 
+ % 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ (1) 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 0.05 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjusted Non-GAAP 
+ 
+ $ 
+ 598 
+ 
+ 
+ $ 
+ 347 
+ 
+ 
+ $ 
+ 94 
+ 
+ 
+ $ 
+ 394 
+ 
+ 
+ 
+ 27.5 
+ % 
+ 
+ $ 
+ (20) 
+ 
+ 
+ $ 
+ 374 
+ 
+ 
+ $ 
+ (64) 
+ 
+ 
+ $ 
+ 310 
+ 
+ 
+ $ 
+ 5.20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) Selling & administrative expenses include purchased
+intangibles amortization and restructuring and other charges. (b) The purchased intangibles
+amortization and acquisition-related inventory and fixed asset fair value step-ups, which are non-cash expenses, were excluded to be consistent with how management
+evaluates the performance of its core business against historical operating results and the operating results of competitors over periods of time. 
+ (c) Restructuring costs and certain other items were excluded as the Company believes that the
+cost to consolidate operations, reduce overhead, and certain other income or expense items are not normal and do not represent future ongoing business expenses of a specific function or geographic location of the Company. 
+ (d) ERP implementation and transformation costs represent costs related to the Company s
+initiative to transition from its legacy enterprise resource planning (ERP) system to a new global ERP solution with a cloud-based infrastructure. These costs, which do not represent normal or future ongoing business expenses, are one-time, non-recurring costs related to the establishment of our new global ERP solution that were determined to be non-capitalizable 
+in accordance with accounting standards. (e) Acquisition related costs include all incremental
+costs incurred to effect the business combination, such as advisory, legal, accounting, tax, valuation, other professional fees, and integration costs. The Company believes that these costs are not normal and do not represent future ongoing business
+expenses. (f) In connection with the Wyatt acquisition, the Company recognized a two-year retention bonus obligation that is contingent upon the employee s providing future service and continued employment with Waters. The Company believes that these costs are not normal and do not
+represent future ongoing business expenses. (g) Financing costs relate to certain financing
+fees incurred by the Company to secure access to certain debt facilities in connection with the agreement Waters entered into to acquire the Biosciences and Diagnostics Solutions business of Becton, Dickinson & Company. The Company believes
+that these costs are not normal and do not represent future ongoing business expenses. 
+ (h) Adjusted diluted earnings per share is calculated using diluted
+ weighted-average shares outstanding of 98.5 million and 90.3 million for the three and six months ended July, 4, 2026, respectively. While the Company reported a GAAP net loss for the
+period and therefore excluded potentially dilutive securities from its GAAP diluted earnings per share calculation, adjusted net income was positive for the period. Accordingly, potentially dilutive securities were included in the calculation of
+adjusted diluted earnings per share. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ Waters Corporation and Subsidiaries 
+ Preliminary Condensed Unclassified Consolidated Balance Sheets 
+ (In millions and unaudited) 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ July 4, 2026 
+ 
+ 
+ December 31, 2025 
+ 
+
+ 
+ Cash and cash equivalents 
+ 
+ $ 
+ 539 
+ 
+ 
+ $ 
+ 588 
+ 
+ 
+ Accounts receivable 
+ 
+ 
+ 1,987 
+ 
+ 
+ 
+ 829 
+ 
+ 
+ Inventories 
+ 
+ 
+ 1,377 
+ 
+ 
+ 
+ 572 
+ 
+ 
+ Property, plant and equipment, net 
+ 
+ 
+ 1,489 
+ 
+ 
+ 
+ 642 
+ 
+ 
+ Intangible assets, net 
+ 
+ 
+ 8,521 
+ 
+ 
+ 
+ 558 
+ 
+ 
+ Goodwill 
+ 
+ 
+ 9,421 
+ 
+ 
+ 
+ 1,340 
+ 
+ 
+ Other assets 
+ 
+ 
+ 1,417 
+ 
+ 
+ 
+ 548 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total assets 
+ 
+ $ 
+ 24,751 
+ 
+ 
+ $ 
+ 5,077 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Notes payable and debt 
+ 
+ $ 
+ 5,086 
+ 
+ 
+ $ 
+ 1,407 
+ 
+ 
+ Other liabilities 
+ 
+ 
+ 4,470 
+ 
+ 
+ 
+ 1,108 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total liabilities 
+ 
+ 
+ 9,556 
+ 
+ 
+ 
+ 2,515 
+ 
+ 
+ Total stockholders equity 
+ 
+ 
+ 15,195 
+ 
+ 
+ 
+ 2,562 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total liabilities and stockholders equity 
+ 
+ $ 
+ 24,751 
+ 
+ 
+ $ 
+ 5,077 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ Waters Corporation and Subsidiaries 
+ Preliminary Condensed Consolidated Statements of Cash Flows 
+ Three and Six Months Ended July 4, 2026 and June 28, 2025 
+ (In millions and unaudited) 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended 
+ 
+ 
+ Six Months Ended 
+ 
+ 
+ 
+ 
+ July 4, 2026 
+ 
+ 
+ June 28, 2025 
+ 
+ 
+ July 4, 2026 
+ 
+ 
+ June 28, 2025 
+ 
+
+ 
+ Cash flows from operating activities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net (loss) income 
+ 
+ $ 
+ (136 
+ ) 
+ 
+ $ 
+ 147 
+ 
+ 
+ $ 
+ (208 
+ ) 
+ 
+ $ 
+ 268 
+ 
+ 
+ Adjustments to reconcile net (loss) income to net cash provided by operating activities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stock-based compensation 
+ 
+ 
+ 25 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 45 
+ 
+ 
+ 
+ 26 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 301 
+ 
+ 
+ 
+ 52 
+ 
+ 
+ 
+ 508 
+ 
+ 
+ 
+ 101 
+ 
+ 
+ Acquisition-related inventory and fixed assets fair value
+ step-ups recognized 
+ 
+ 
+ 155 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 253 
+ 
+ 
+ 
+ — 
+ 
+ 
+ Change in operating assets and liabilities and other, net (b) 
+ 
+ 
+ (144 
+ ) 
+ 
+ 
+ (171 
+ ) 
+ 
+ 
+ (401 
+ ) 
+ 
+ 
+ (95 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net cash provided by operating activities 
+ 
+ 
+ 200 
+ 
+ 
+ 
+ 41 
+ 
+ 
+ 
+ 198 
+ 
+ 
+ 
+ 301 
+ 
+ 
+ Cash flows from investing activities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Additions to property, plant, equipment, and software capitalization 
+ 
+ 
+ (49 
+ ) 
+ 
+ 
+ (23 
+ ) 
+ 
+ 
+ (87 
+ ) 
+ 
+ 
+ (48 
+ ) 
+ 
+ Cash acquired in business acquisition 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (35 
+ ) 
+ 
+ 
+ 144 
+ 
+ 
+ 
+ (35 
+ ) 
+ 
+ Investments in unaffiliated companies 
+ 
+ 
+ (0 
+ ) 
+ 
+ 
+ (1 
+ ) 
+ 
+ 
+ (10 
+ ) 
+ 
+ 
+ (1 
+ ) 
+ 
+ Change in deposit asset 
+ 
+ 
+ 51 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 51 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net cash provided by (used in) investing activities 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ (58 
+ ) 
+ 
+ 
+ 97 
+ 
+ 
+ 
+ (85 
+ ) 
+ 
+ Cash flows from financing activities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Proceeds from debt issuances 
+ 
+ 
+ 212 
+ 
+ 
+ 
+ 70 
+ 
+ 
+ 
+ 3,742 
+ 
+ 
+ 
+ 70 
+ 
+ 
+ Payments on debt 
+ 
+ 
+ (340 
+ ) 
+ 
+ 
+ (70 
+ ) 
+ 
+ 
+ (4,040 
+ ) 
+ 
+ 
+ (240 
+ ) 
+ 
+ Payments of debt issuance costs 
+ 
+ 
+ (3 
+ ) 
+ 
+ 
+ (5 
+ ) 
+ 
+ 
+ (28 
+ ) 
+ 
+ 
+ (5 
+ ) 
+ 
+ Proceeds from stock plans 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 15 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ Purchases of treasury shares 
+ 
+ 
+ (2 
+ ) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (14 
+ ) 
+ 
+ 
+ (14 
+ ) 
+ 
+ Other cash flow from financing activities, net 
+ 
+ 
+ (3 
+ ) 
+ 
+ 
+ (1 
+ ) 
+ 
+ 
+ (12 
+ ) 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net cash used in financing activities 
+ 
+ 
+ (123 
+ ) 
+ 
+ 
+ (1 
+ ) 
+ 
+ 
+ (337 
+ ) 
+ 
+ 
+ (174 
+ ) 
+ 
+ Effect of exchange rate changes on cash and cash equivalents 
+ 
+ 
+ (3 
+ ) 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ (7 
+ ) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Increase (Decrease) in cash and cash equivalents 
+ 
+ 
+ 76 
+ 
+ 
+ 
+ (16 
+ ) 
+ 
+ 
+ (49 
+ ) 
+ 
+ 
+ 42 
+ 
+ 
+ Cash and cash equivalents at beginning of period 
+ 
+ 
+ 462 
+ 
+ 
+ 
+ 383 
+ 
+ 
+ 
+ 588 
+ 
+ 
+ 
+ 325 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash and cash equivalents at end of period 
+ 
+ $ 
+ 539 
+ 
+ 
+ $ 
+ 367 
+ 
+ 
+ $ 
+ 539 
+ 
+ 
+ $ 
+ 367 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reconciliation of Free Cash Flow - Adjusted Non-GAAP 
+ (a) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net cash provided by operating activities - GAAP 
+ 
+ $ 
+ 200 
+ 
+ 
+ $ 
+ 41 
+ 
+ 
+ $ 
+ 198 
+ 
+ 
+ $ 
+ 301 
+ 
+ 
+ Adjustments: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Additions to property, plant, equipment, and software capitalization 
+ 
+ 
+ (49 
+ ) 
+ 
+ 
+ (23 
+ ) 
+ 
+ 
+ (87 
+ ) 
+ 
+ 
+ (48 
+ ) 
+ 
+ Tax reform payments 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 120 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 120 
+ 
+ 
+ Litigation settlements received, net 
+ 
+ 
+ (0 
+ ) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (1 
+ ) 
+ 
+ 
+ — 
+ 
+ 
+ Payment of Wyatt retention bonus obligation
+ (c) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 20 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 20 
+ 
+ 
+ Change in deposit asset (d) 
+ 
+ 
+ 51 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 51 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Free Cash Flow - Adjusted Non-GAAP 
+ 
+ $ 
+ 202 
+ 
+ 
+ $ 
+ 159 
+ 
+ 
+ $ 
+ 161 
+ 
+ 
+ $ 
+ 392 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) 
+ The Company defines free cash flow as net cash flow from operations accounted for under GAAP less capital
+expenditures and software capitalizations plus or minus any unusual and non recurring items. Free cash flow is not a GAAP measurement and may not be comparable to free cash flow reported by other companies. 
+ 
+ 
+ (b) 
+ Includes an increase in net receivables of $17 million and $157 million for the three and six months
+ended July 4, 2026, respectively, due from the BDS acquisition TSA provider related to the initial net cash settlement for activities occurring since the acquisition date. 
+ 
+ 
+ (c) 
+ During the six months ended June 28, 2025, the Company made retention payments under the Wyatt retention
+bonus program. The Company believes that these payments are not normal and do not represent future ongoing business expenses. 
+ 
+ 
+ (d) 
+ As part of the BDS acquisition, a portion of the total consideration paid was reflected as a deposit asset on
+the opening balance sheet, which is attributable to the Company s present right to the future economic benefits of the business in those foreign jurisdictions where legal and beneficial title had not transferred to the Company as of
+February 9, 2026. Changes in the deposit asset are driven by changes in the underlying assets and liabilities in those foreign jurisdictions, which represent productive assets and therefore the cash payments (or cash receipts) resulting from
+the changes in these productive assets are classified as investing cash flows. The change in the deposit asset is primarily related to the collection of third party customer receivables that existed as of February 9, 2026. The Company considers
+cash collected from customers as a component of free cash flow as it represents amounts collected from its core operations. 
+ 
+
+ 
+ 
+
+ 
+ Waters Corporation and Subsidiaries 
+ Reconciliation of Projected GAAP to Adjusted Non-GAAP Financial Outlook 
+ (In millions, except per share data) 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Twelve Months Ended 
+ 
+ 
+ Three Months Ended 
+ 
+ 
+ 
+ 
+ December 31, 2026 
+ 
+ 
+ October 3, 2026 
+ 
+ 
+ 
+ 
+ Range 
+ 
+ 
+ Range 
+ 
+
+ 
+ Projected Revenue 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reported revenue 
+ 
+ $ 
+ 6,415 
+ 
+ 
+ - 
+ 
+ $ 
+ 6,476 
+ 
+ 
+ $ 
+ 1,745 
+ 
+ 
+ - 
+ 
+ $ 
+ 1,762 
+ 
+ 
+ Acquired business contribution 
+ 
+ $ 
+ 3,045 
+ 
+ 
+ - 
+ 
+ $ 
+ 3,045 
+ 
+ 
+ $ 
+ 895 
+ 
+ 
+ - 
+ 
+ $ 
+ 895 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Organic reported revenue 
+ 
+ $ 
+ 3,370 
+ 
+ 
+ - 
+ 
+ $ 
+ 3,431 
+ 
+ 
+ $ 
+ 850 
+ 
+ 
+ - 
+ 
+ $ 
+ 867 
+ 
+ 
+ Organic reported revenue growth 
+ 
+ 
+ 6.4 
+ % 
+ 
+ - 
+ 
+ 
+ 8.4 
+ % 
+ 
+ 
+ 6.3 
+ % 
+ 
+ - 
+ 
+ 
+ 8.3 
+ % 
+ 
+ Currency translation impact 
+ 
+ 
+ (0.6 
+ %) 
+ 
+ - 
+ 
+ 
+ (0.6 
+ %) 
+ 
+ 
+ (1.7 
+ %) 
+ 
+ - 
+ 
+ 
+ (1.7 
+ %) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Organic constant currency revenue growth
+ (a) 
+ 
+ 
+ 7.0 
+ % 
+ 
+ - 
+ 
+ 
+ 9.0 
+ % 
+ 
+ 
+ 8.0 
+ % 
+ 
+ - 
+ 
+ 
+ 10.0 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Range 
+ 
+ 
+ Range 
+ 
+ 
+ Projected Earnings Per Diluted Share 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjusted earnings per share 
+ 
+ $ 
+ 14.45 
+ 
+ 
+ - 
+ 
+ $ 
+ 14.65 
+ 
+ 
+ $ 
+ 3.95 
+ 
+ 
+ - 
+ 
+ $ 
+ 4.05 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) 
+ Organic constant currency revenue growth, a non-GAAP financial measure,
+measures the change in net revenue between current and prior year periods, excluding the impact of foreign currency exchange rates during the current period and excluding the impact of acquisitions made within twelve months of the acquisition close
+date. These amounts are estimated at the current foreign currency exchange rates and based on the forecasted geographical revenue in local currency, as well as an assessment of market conditions as of the date of this press release, and may differ
+significantly from actual results. These forward-looking adjustment estimates do not reflect future gains and charges
+that are inherently difficult to predict and estimate due to their unknown timing, effect and/or significance.
