@@ -1,0 +1,22 @@
+Ticker: CHTR
+Source: CHTR_2026-07-24.txt
+Generated: 2026-09-07 18:42 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Charter Communications (CHTR)**
+
+**1. Demand & Activity**
+Demand for core connectivity services is softening. Total customer relationships declined by 1.7% year-over-year, with a moderate decline in residential internet customers ("Spectrum Internet customers declined by 172,000"). Conversely, mobile demand remains robust, with a significant increase in total lines ("Spectrum Mobile lines increased by 406,000"). Video demand continues to soften, though the rate of decline has slowed ("Video customers decreased by 21,000 in the second quarter").
+
+**2. Labor & Wages**
+The company maintains a commitment to a domestic workforce, though specific wage trends were not disclosed ("serviced by 100% US-based employees").
+
+**3. Pricing Power & Inflation**
+Pricing power is mixed and under pressure in the residential segment. Monthly residential revenue per customer saw a slight decline of 1.8% ("Monthly Residential Revenue per Residential Customer... $117.52... (1.8)%"). This was driven by pricing/packaging mix and the absorption of costs for streaming applications. However, the company is utilizing aggressive promotional pricing to capture market share from competitors ("guaranteed $1,000 of savings in their first year"). Small business pricing remains stable to slightly positive ("Monthly Small Business Revenue per Small Business Customer... $165.27... 1.4%").
+
+**4. Supply Chain & Inventory**
+No specific mentions of lead times or inventory levels were provided in the text.
+
+**5. Capital Spending (Capex)**
+Capex remains stable at approximately $2.9 billion for the quarter ("Second quarter capital expenditures totaled $2.9 billion"). Investment is focused on a multi-year technology transition to upgrade network capacity and speeds ("Spectrum expects to complete its network evolution initiative in 2027").

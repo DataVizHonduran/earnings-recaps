@@ -1,0 +1,22 @@
+Ticker: CMG
+Source: CMG_2026-07-29.txt
+Generated: 2026-09-07 18:42 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Chipotle Mexican Grill (CMG)**
+
+**1. Demand & Activity**
+Demand is showing modest growth, characterized by a second consecutive quarter of improving transactions. Comparable restaurant sales increased 2.2%, driven by a 1.0% increase in transactions and a 1.2% increase in average checks ("Comparable restaurant sales increased 2.2%, consisting of a 1.2% increase in average check and a 1.0% increase in transactions"). Digital adoption continues to expand, now representing 38.3% of total food and beverage revenue ("Digital sales represented 38.3% of total food and beverage revenue... an increase from 35.5%").
+
+**2. Labor & Wages**
+Labor costs are experiencing moderate upward pressure. The increase in labor costs as a percentage of revenue was primarily attributed to wage inflation and increased staffing to support hospitality initiatives ("increase was primarily driven by higher employee compensation, including wage inflation... and additional restaurant labor supporting operational execution").
+
+**3. Pricing Power & Inflation**
+The company is exercising pricing power to offset persistent inflationary pressures. While menu price increases provided a benefit ("partially offset by the benefit of menu price increases"), these were countered by inflation in specific commodities and logistics, particularly beef and freight ("increase was driven by inflation, primarily from beef and freight"). Conversely, some relief was noted in dairy and avocado costs ("partially offset by... lower avocado and dairy costs").
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory levels, though it notes that overall food, beverage, and packaging costs rose to 29.7% of revenue due to the aforementioned inflationary pressures ("Food, beverage and packaging costs... were 29.7% of total revenue, an increase from 28.9%").
+
+**5. Capital Spending (Capex)**
+Investment in capacity remains robust. The company is aggressively expanding its physical footprint with plans for 350 to 370 new restaurant openings for the full year ("350 to 370 new restaurant openings"). A significant portion of this investment is focused on high-efficiency drive-thru technology, with approximately 80% of new company-owned sites including a "Chipotlane" ("Around 80% of new company-owned restaurants will have a Chipotlane").

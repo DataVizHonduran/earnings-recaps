@@ -1,0 +1,22 @@
+Ticker: CRM
+Source: CRM_2026-08-26.txt
+Generated: 2026-09-07 18:43 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Salesforce (CRM)**
+
+**1. Demand & Activity**
+Demand is **robust**, particularly within AI and data segments. The company reports "incredible demand for our AI and data products" ("incredible demand for our AI and data products"), with Agentforce and Data 360 ARR growing over 210% year-over-year. Activity is accelerating, evidenced by the "strongest" Net New Annual Order Value (NNAOV) growth in four years ("NNAOV growth is the strongest it's been in four years") and a moderate acceleration in current remaining performance obligation (cRPO) to 14%.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage trends. It does note the existence of "restructuring initiatives" ("charges associated with the Company's restructuring initiatives"), though specific headcount impacts are not quantified.
+
+**3. Pricing Power & Inflation**
+Pricing power appears **stable to strong** for premium offerings, as bookings for "premium SKUs anchored in Sales and Service" more than doubled quarter-over-quarter ("more than doubled Q Q"). There is no mention of input cost inflation or commodity pressure; however, the company is facing a "reduced currency tailwind" due to a strengthening U.S. dollar ("U.S. dollar strengthening in Q2... expects a reduced currency tailwind").
+
+**4. Supply Chain & Inventory**
+Not applicable. As a software-as-a-service (SaaS) provider, the company does not report physical supply chain lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capex is **stable**, with future investments projected at a modest percentage of total revenue ("Capital expenditures... Approximately 1.5% of revenue"). The company continues to invest in technology through both internal R&D ("significant research and development investments") and strategic acquisitions, specifically the pending purchases of Contentful and Fin ("definitive agreements to acquire Contentful and Fin").

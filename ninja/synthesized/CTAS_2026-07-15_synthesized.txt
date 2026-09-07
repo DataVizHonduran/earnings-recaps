@@ -1,0 +1,22 @@
+Ticker: CTAS
+Source: CTAS_2026-07-15.txt
+Generated: 2026-09-07 18:43 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Cintas Corp (CTAS)**
+
+**1. Demand & Activity**
+Demand remains robust, characterized by strong organic growth despite a "dynamic macro environment" ("Our 8.3% organic revenue growth demonstrates our ability to deliver strong results in a dynamic macro environment"). Management expects this trend to persist, forecasting moderate to robust revenue growth of 7.4% to 8.7% for fiscal 2027.
+
+**2. Labor & Wages**
+The report does not explicitly detail wage inflation or hiring difficulties; however, it attributes record margins in part to the performance of its workforce ("all-time high gross margin reflects the outstanding performance of our employee-partners").
+
+**3. Pricing Power & Inflation**
+The company demonstrates strong pricing power and operational efficiency, achieving an all-time high gross margin of 50.7% for the fiscal year ("Gross margin as a percent of revenue was 50.7% for fiscal 2026, an all-time high"). There is no mention of specific input cost pressures or relief.
+
+**4. Supply Chain & Inventory**
+No specific commentary was provided regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment in capacity and technology remains a priority to drive margin expansion ("clear impact of our investments in technology, capacity and talent"). Total capital expenditures for fiscal 2026 were $395.1 million, representing 3.5% of total revenue.

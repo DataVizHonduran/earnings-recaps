@@ -1,0 +1,22 @@
+Ticker: CNC
+Source: CNC_2026-07-28.txt
+Generated: 2026-09-07 18:42 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Centene Corp (CNC)**
+
+**1. Demand & Activity**
+Demand is mixed across business lines. There is robust growth in the Medicare Prescription Drug Plan (PDP) segment ("premium yield and membership growth in the PDP business"), while activity in the Medicaid and Marketplace segments is softening ("partially offset by lower Marketplace and Medicaid membership"). Total at-risk membership declined from 28.0 million to 25.9 million year-over-year.
+
+**2. Labor & Wages**
+The company is pursuing moderate headcount and cost reductions through "enterprise optimization" and "contract exits," with associated severance costs estimated between $355 million and $405 million for the year. Overall SG&A expenses showed slight improvement, attributed to "strong cost management" and "overall discipline in Marketplace SG&A."
+
+**3. Pricing Power & Inflation**
+Centene is exercising moderate pricing power to offset medical cost inflation. The company implemented "rate increases in Marketplace and in the Medicaid business to address medical trend." These actions, combined with "improved pricing and risk transfer," contributed to a decrease in the consolidated Health Benefits Ratio (HBR) from 93.0% to 89.6%.
+
+**4. Supply Chain & Inventory**
+Not applicable. (The company reports "days in claims payable" as 47 days, a slight decrease of one day from the previous quarter, driven by the "timing of state directed payments").
+
+**5. Capital Spending (Capex)**
+No specific new facility or technology investments were detailed; however, the company is focused on "restoring profitability" and maintaining an "industry-leading cost structure." Management increased its full-year total revenue guidance by $6.0 billion, citing strength in "premium tax revenue, Marketplace, and Medicaid."
