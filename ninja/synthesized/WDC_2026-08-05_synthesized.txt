@@ -1,0 +1,22 @@
+Ticker: WDC
+Source: WDC_2026-08-05.txt
+Generated: 2026-09-07 18:54 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Western Digital (WDC)**
+
+**1. Demand & Activity**
+Demand is robust and expanding, driven primarily by cloud and data-intensive workloads. Management reports "broadening demand" ("characterized by broadening demand, deeper customer engagement") and expresses high confidence in the "durability of demand" ("continued confidence in the durability of demand") as global data creation accelerates. Revenue growth is strong, with a 44% year-over-year increase in Q4 and a positive outlook for Q1FY27.
+
+**2. Labor & Wages**
+The provided text contains no specific data on wage increases, turnover, or headcount reductions. However, the company lists the "hiring and retention of key employees" as a general risk factor in its forward-looking statements.
+
+**3. Pricing Power & Inflation**
+The company is experiencing significant margin expansion, suggesting strong pricing power or favorable product mix. Non-GAAP gross margins increased from 41.3% (Q4FY25) to 54.4% (Q4FY26), with further expansion expected to 55-56% in the coming quarter ("further margin expansion"). While "inflation" is cited as a general market risk, current financial results indicate it is not currently offsetting the company's ability to scale profitability.
+
+**4. Supply Chain & Inventory**
+Inventory levels have seen a modest increase, rising from $1.29 billion to $1.51 billion year-over-year. While the company does not explicitly characterize these levels as lean or bloated, it identifies "difficulties or delays in manufacturing or other supply chain disruptions" and "dependence on a limited number of qualified suppliers" as ongoing risk factors.
+
+**5. Capital Spending (Capex)**
+Specific future Capex guidance was not provided; however, there is a modest increase in net property, plant, and equipment, which rose from $2.34 billion to $2.48 billion year-over-year. The company emphasizes a strategic focus on "scale, technology leadership, and operational discipline" to capitalize on "secular data growth."

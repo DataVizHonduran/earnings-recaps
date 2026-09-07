@@ -1,0 +1,22 @@
+Ticker: XEL
+Source: XEL_2026-07-30.txt
+Generated: 2026-09-07 18:55 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Xcel Energy (XEL)**
+
+**1. Demand & Activity**
+Demand appears to be **softening** in the short term. Total operating revenues for the second quarter declined to $3.12 billion from $3.29 billion in 2025. This was driven by a decrease in both electric revenues ($2.74B vs $2.88B) and natural gas revenues ($365M vs $396M). Management explicitly identifies "risks associated with the growth of large load customers" as a forward-looking concern.
+
+**2. Labor & Wages**
+The company reports **moderate** pressure regarding human capital. Management cites "challenging labor market conditions" and specifically notes the ongoing "ability to attract and retain a qualified workforce" as a risk factor to operational execution.
+
+**3. Pricing Power & Inflation**
+Pricing is characterized by **stable** regulatory recovery, though input costs are volatile. Earnings growth was "primarily driven by increased recovery of electric infrastructure investments" (indicating successful rate-base recovery). While current quarter fuel and purchased power costs decreased, the company remains wary of "rising energy prices and fuel costs" and "inflation rates" as persistent risks.
+
+**4. Supply Chain & Inventory**
+Supply chain conditions remain a **moderate** headwind. The company continues to monitor "supply chain constraints and their impact on capital expenditures," suggesting that lead times or material availability may still impede the pace of infrastructure deployment.
+
+**5. Capital Spending (Capex)**
+Investment activity remains **robust**. The company is focused on "increased recovery of electric infrastructure investments" and continues to project "estimated base capital expenditures" and "projected capital additions" as core components of its long-term financial outlook and regulatory filings.
