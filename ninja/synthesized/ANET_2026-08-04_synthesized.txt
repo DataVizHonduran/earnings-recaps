@@ -1,0 +1,22 @@
+Ticker: ANET
+Source: ANET_2026-08-04.txt
+Generated: 2026-09-07 18:40 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Arista Networks (ANET)**
+
+**1. Demand & Activity**
+Demand is robust and broad-based, characterized by significant growth in AI infrastructure and enterprise campus networking. The company achieved its first $3+ billion revenue quarter, with total revenue increasing 37.7% year-over-year ("strong, broad-based growth, with revenue up 37.7%"). Activity is specifically driven by the adoption of AI fabric platforms and "continued momentum in the enterprise campus" ("Arista 2.0 platform strategy is compelling").
+
+**2. Labor & Wages**
+The report does not explicitly detail hiring difficulties or wage inflation; however, there is a moderate increase in stock-based compensation expenses, suggesting continued investment in talent retention ("Stock-based compensation expense... $120.4 [million] vs $85.2 [million] in Q2 2025").
+
+**3. Pricing Power & Inflation**
+The company maintains stable to strong pricing power, as evidenced by a slight increase in non-GAAP operating margins to 49.9% from 48.8% ("GAAP and non-GAAP operating margin of 45.4% and 49.9%, respectively"). There is no mention of persistent input cost pressure or commodity inflation.
+
+**4. Supply Chain & Inventory**
+Inventory levels have increased moderately to support growth, though the report does not specify lead times. Inventories rose to $2.54 billion from $2.25 billion at the end of 2025 ("Inventories $ 2,535.3 [million] vs $ 2,247.1 [million]").
+
+**5. Capital Spending (Capex)**
+Capex is increasing modestly to support technological advancements and infrastructure. Purchases of property and equipment for the first six months of 2026 were $84.2 million, compared to $52.4 million in the prior year period ("Purchases of property and equipment (84.2) [million] vs (52.4) [million]"). Investment is focused on next-generation 1.6-terabit portfolios and liquid-cooled AI options ("Introduced 1.6 Tbps AI fabric platforms, including liquid-cooled options").

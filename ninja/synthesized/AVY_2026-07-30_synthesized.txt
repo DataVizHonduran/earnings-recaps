@@ -1,0 +1,22 @@
+Ticker: AVY
+Source: AVY_2026-07-30.txt
+Generated: 2026-09-07 18:41 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Avery Dennison (AVY)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by strong organic sales growth of 7.6% ("stronger-than-anticipated sales growth"). Activity is particularly strong in the Materials Group, where base categories saw "low double digits" growth and high-value categories grew "mid-single digits." The Solutions Group experienced modest organic growth of 2.6%, with apparel categories showing "high single digits" strength.
+
+**2. Labor & Wages**
+The company is experiencing moderate upward pressure on labor costs. Margin expansions in both the Materials and Solutions groups were "partially offset by higher employee-related costs."
+
+**3. Pricing Power & Inflation**
+Avery Dennison maintains modest pricing power, with Materials Group prices up "low single digits." The company is seeing a net benefit from the combination of pricing and raw material costs, specifically citing "raw material re-engineering" as a driver for margin expansion.
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific data regarding current lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+The company continues to invest in growth and efficiency, specifically noting ongoing "investment in development activities and new production facilities." Management also highlighted the use of a "productivity playbook" to drive operational excellence and margin expansion.

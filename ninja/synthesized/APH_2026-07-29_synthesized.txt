@@ -1,0 +1,22 @@
+Ticker: APH
+Source: APH_2026-07-29.txt
+Generated: 2026-09-07 18:41 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Amphenol Corp (APH)**
+
+**1. Demand & Activity**
+Demand is robust and growing across most sectors. The company reported record sales and orders, with a book-to-bill ratio of 1.23:1. Growth is particularly exceptional in the IT datacom market ("exceptional organic growth in the IT datacom market"), while broader activity is described as accelerating ("The revolution in electronics continues to accelerate").
+
+**2. Labor & Wages**
+Not addressed. The transcript contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is realizing strong profitability, though specific pricing actions were not detailed. A notable positive impact on margins came from the recovery of trade-related costs ("net benefit related to the recovery of IEEPA tariffs").
+
+**4. Supply Chain & Inventory**
+Not addressed. The transcript does not provide specific data on lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment is focused on inorganic growth and capacity expansion through an "active and successful acquisition program." Recent activity includes the acquisition of El.Com and Wilder Technologies to expand capabilities in high-voltage cable assemblies and high-speed digital test solutions ("expanded our range of high-technology interconnect products, both through our organic innovation efforts as well as through our successful acquisition program").

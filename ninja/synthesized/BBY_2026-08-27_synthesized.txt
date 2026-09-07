@@ -1,0 +1,22 @@
+Ticker: BBY
+Source: BBY_2026-08-27.txt
+Generated: 2026-09-07 18:41 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Best Buy (BBY)**
+
+**1. Demand & Activity**
+Domestic demand is showing moderate growth, with comparable sales increasing 4.5% ("Domestic comparable sales % change 4.5%"). Activity is robust in computing, home theater, and emerging categories like AI glasses ("largest drivers on a weighted basis being computing, home theater, and a collection of emerging categories"), while demand in traditional gaming is softening ("partially offset by a decline in the traditional gaming category"). Conversely, international demand is slightly declining ("International comparable sales % change (1.8)%").
+
+**2. Labor & Wages**
+The company is experiencing modest upward pressure on labor costs, specifically regarding employee pay ("Adjusted SG A increased primarily due to (1) higher compensation expense, including incentive compensation").
+
+**3. Pricing Power & Inflation**
+Pricing power appears mixed. While the domestic gross profit rate increased to 24.0%, this was driven by high-margin services and a one-time windfall ("primarily driven by growth in Marketplace and Best Buy Ads, and IEEPA tariff refunds") rather than product pricing, as the company noted "lower product margin rates" offset these gains.
+
+**4. Supply Chain & Inventory**
+The company reports stable and improving operational efficiency, noting recent efforts to enhance "fulfillment speed and execution across our supply chain." No specific mentions of bloated inventory or lead-time delays were provided.
+
+**5. Capital Spending (Capex)**
+Capital investment remains stable, with planned expenditures for the fiscal year held steady at approximately $750 million ("Capital expenditures of approximately $750 million, which is unchanged").

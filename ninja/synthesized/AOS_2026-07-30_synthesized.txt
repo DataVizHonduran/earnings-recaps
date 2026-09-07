@@ -1,0 +1,22 @@
+Ticker: AOS
+Source: AOS_2026-07-30.txt
+Generated: 2026-09-07 18:40 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: A.O. Smith (AOS)**
+
+**1. Demand & Activity**
+Demand is mixed and diverging by geography and product. North American activity is characterized by "softer residential water heater demand" ("continued softness in residential water heater industry volumes"), though this was offset by "robust" growth in the boiler segment ("21% boiler sales growth"). International demand is softening significantly, particularly in China, where sales decreased 28% in local currency due to "continued weak consumer demand and a challenging market environment."
+
+**2. Labor & Wages**
+The report does not explicitly detail wage inflation or hiring difficulties; however, the company is pursuing "footprint optimization" through "targeted restructuring actions" in the North America water treatment business to improve profitability ("restructuring plan designed to improve profitability and accelerate growth through footprint optimization").
+
+**3. Pricing Power & Inflation**
+The company maintains modest pricing power, though it is being eroded by input costs. While sales were supported by "carryover pricing actions," these gains were "largely offsetting" higher costs for "steel and other input costs" ("higher steel and other input costs largely offsetting realized pricing in the quarter").
+
+**4. Supply Chain & Inventory**
+The company reports stable operations but notes ongoing risks regarding the "ability to obtain commodities, components, parts and accessories on a timely basis" and "volatility in fuel and other material prices." Working capital management was a primary driver of increased cash flow ("primarily driven by working capital management").
+
+**5. Capital Spending (Capex)**
+Recent capital deployment has focused on inorganic growth via acquisition ("cash borrowed under a new term loan used to acquire Leonard Valve"). The company is also investing in "footprint optimization" and "brand rationalization" within its water treatment segment to drive long-term efficiency.

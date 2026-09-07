@@ -1,0 +1,22 @@
+Ticker: AMAT
+Source: AMAT_2026-08-13.txt
+Generated: 2026-09-07 18:40 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Applied Materials (AMAT)**
+
+**1. Demand & Activity**
+Demand is **robust**, characterized by "unprecedented demand" driven by the global adoption of AI ("As the rapid global adoption of AI drives unprecedented demand for our materials engineering solutions"). Growth is particularly strong in DRAM, leading-edge foundry-logic, and advanced packaging ("expect continued strong revenue growth... particularly in DRAM as well as leading-edge foundry-logic and advanced packaging"). Management reports high visibility and expects growth to persist through 2027 ("Based on the increased demand visibility... we expect another strong growth year... in 2027").
+
+**2. Labor & Wages**
+Not addressed. The transcript contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is demonstrating **moderate to strong** pricing power and value capture, evidenced by 13 consecutive quarters of year-over-year gross margin expansion ("demonstrating the increasing value we create by enabling better chips, systems and fab returns"). There were no specific mentions of input cost inflation or relief.
+
+**4. Supply Chain & Inventory**
+Not addressed. The transcript does not provide specific data on lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capex is **expanding** to meet long-term demand projections. The company is increasing manufacturing capacity to support needs through the end of the decade ("making additional manufacturing capacity investments to support projected demand through the end of the decade"). This includes a specific $500 million investment in Singapore to more than double advanced cleanroom capacity ("The new US$500 million Tampines Campus more than doubles Applied s advanced cleanroom capacity in Singapore").
