@@ -1,0 +1,22 @@
+Ticker: BMY
+Source: BMY_2026-07-30.txt
+Generated: 2026-09-07 18:41 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Bristol Myers Squibb (BMY)**
+
+**1. Demand & Activity**
+Demand is **moderate** overall, with a stark divergence between product lifecycles. The "Growth Portfolio" is seeing **robust** expansion, increasing 15% ("Growth Portfolio revenues increased 15%"), driven by strong performance in Opdivo Qvantig, Reblozyl, and Camzyos. Conversely, the "Legacy Portfolio" is **softening**, declining 4% ("Legacy Portfolio revenues... decreased 4%"), as growth in Eliquis was "more than offset by expected continued generic impacts." Geographic demand is **stable**, with both U.S. and International revenues increasing 6%.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is experiencing **slight** margin compression. Gross margin decreased by 120 basis points ("Gross margin decreased from 72.5% to 71.3%"), which management attributes primarily to "a change in product mix" rather than raw input inflation. SG&A expenses rose 7% to 8%, driven by "investments in new product launches."
+
+**4. Supply Chain & Inventory**
+The provided text contains no mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment is focused on technology and R&D. The company is expanding its AI infrastructure through a collaboration with NVIDIA to deploy "Vera Rubin NVL72" for predictive modeling and training large AI models ("deploy NVIDIA's newest AI infrastructure... for running predictive models at scale"). Additionally, R&D spending increased 15% on a GAAP basis, partly due to the "purchase of a priority review voucher."

@@ -1,0 +1,22 @@
+Ticker: BSX
+Source: BSX_2026-07-29.txt
+Generated: 2026-09-07 18:42 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Boston Scientific (BSX)**
+
+**1. Demand & Activity**
+Demand is growing moderately across all segments and regions, though growth rates vary. Cardiovascular demand is robust (7.8% organic growth), while Urology is nearly flat (0.8% organic growth). Geographically, activity is strongest in LACA (16.2% operational growth) and APAC (11.2% operational growth), with more modest growth in the U.S. (6.2%) and EMEA (4.2%). Management notes they are continuing to "navigate a dynamic environment" ("continuing to navigate a dynamic environment").
+
+**2. Labor & Wages**
+The provided text contains no specific data on current hiring, turnover, or wage levels. However, the company lists "labor shortages and increases in labor costs" as potential systemic risks to future performance ("Risks and uncertainties... include... labor shortages and increases in labor costs").
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price increases or specific commodity cost relief. It identifies "cost increases" and "manufacturing, distribution and supply chain disruptions" as general risk factors ("Risks and uncertainties... include... manufacturing, distribution and supply chain disruptions and cost increases").
+
+**4. Supply Chain & Inventory**
+There are no specific updates on current lead times or inventory levels. Like labor, "supply chain disruptions" are cited as a general risk factor rather than a current operational status ("Risks and uncertainties... include... manufacturing, distribution and supply chain disruptions").
+
+**5. Capital Spending (Capex)**
+The company is prioritizing "highest-impact opportunities" and strategic investments in technology and capacity. This is evidenced by a $1.5 billion investment in MiRus LLC to secure proprietary biomaterials and a TAVR system ("Invested $1.5 billion in MiRus LLC... in return for an approximately 34% equity stake"). The company also continues to invest in clinical trials for new product pipelines, such as the FARADIGM trial ("Commenced enrollment in the pivotal FARADIGM clinical trial").

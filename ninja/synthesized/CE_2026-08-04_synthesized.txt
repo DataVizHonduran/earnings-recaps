@@ -1,0 +1,22 @@
+Ticker: CE
+Source: CE_2026-08-04.txt
+Generated: 2026-09-07 18:42 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Celanese Corp (CE)**
+
+**1. Demand & Activity**
+Demand is showing modest growth, with a 4% sequential increase in total volume ("4 percent increase in volume"). Growth is particularly robust in targeted platforms including medical and electronics ("continued momentum across targeted growth platforms, particularly in medical and electronics"). Activity in the Acetyl Chain saw a moderate sequential volume increase of 6%, driven by strength in the Western Hemisphere ("volume gains in the Western Hemisphere").
+
+**2. Labor & Wages**
+Not explicitly discussed. The company is focused on structural headcount and capacity reductions via facility closures in South Korea and Belgium to reduce fixed costs ("expected to deliver in excess of $50 million of annualized fixed-cost savings").
+
+**3. Pricing Power & Inflation**
+The company demonstrated robust pricing power in Q2, with a total price increase of 14% ("14 percent increase in price"), led by a significant 22% increase in the Acetyl Chain ("22 percent in price"). However, outlook for the next quarter suggests softening margins due to rising input costs ("impact of higher raw material costs in Engineered Materials").
+
+**4. Supply Chain & Inventory**
+Supply chain conditions are stabilizing, though the company is currently managing inventory adjustments related to network optimizations ("inventory-related actions associated with our nylon 6,6 and Lanaken footprint optimizations"). The company is leveraging its global network to maintain reliability of supply ("position as a reliable supplier via the business's integrated global network").
+
+**5. Capital Spending (Capex)**
+Capex remains disciplined and focused on deleveraging rather than aggressive expansion ("Capital expenditures remained disciplined and aligned with the Company's deleveraging priorities"). Investment is currently directed toward "footprint actions" and the optimization of the manufacturing network, such as transitioning production from South Korea to more efficient assets in China and India ("transitioned production to larger, more efficient assets in China and India").
