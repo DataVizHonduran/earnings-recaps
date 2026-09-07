@@ -1,0 +1,22 @@
+Ticker: ACGL
+Source: ACGL_2026-07-28.txt
+Generated: 2026-09-07 18:39 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Arch Capital Group Ltd. (ACGL)**
+
+**1. Demand & Activity**
+Demand is softening across primary insurance and reinsurance lines, while remaining stable in mortgage operations. Gross premiums written declined slightly overall, with the Insurance segment down 2.9% ("Gross premiums written by the insurance segment... were 2.9% lower"). Reinsurance demand was flat ("Gross premiums written by the reinsurance segment... were 0.2% higher"), though net premiums written fell 10.4% due to strategic non-renewals and share reductions. Mortgage activity was stable, with international growth offsetting a "reduction in U.S. monthly premium volume."
+
+**2. Labor & Wages**
+Not addressed. The transcript contains no specific mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is experiencing moderate pressure on loss ratios, though it maintains a "meaningful competitive advantage" based on expertise rather than just capacity. The combined ratio excluding catastrophic activity rose slightly to 82.5% from 80.9% ("Combined ratio excluding catastrophic activity and prior year development... 82.5%, compared to 80.9%"). The Insurance segment saw a modest increase in its underwriting expense ratio, partly driven by "transitional expenses associated with the MCE Acquisition."
+
+**4. Supply Chain & Inventory**
+Not applicable. As a financial services provider, the company does not report physical supply chain or inventory metrics.
+
+**5. Capital Spending (Capex)**
+No new facility or technology investments were disclosed. Recent capital activity focused on the integration of the "U.S. MidCorp and Entertainment insurance businesses from Allianz (MCE Acquisition)."

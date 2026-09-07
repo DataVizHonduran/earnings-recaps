@@ -1,0 +1,22 @@
+Ticker: ALB
+Source: ALB_2026-08-05.txt
+Generated: 2026-09-07 18:40 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Albemarle Corp (ALB)**
+
+**1. Demand & Activity**
+Demand is described as resilient across core markets, including electric vehicles, semiconductors, and energy storage ("continue to see resilient demand fundamentals"). Activity is mixed by segment: Specialties is seeing moderate growth, specifically in bromine specialties ("stronger-than-expected pricing and volume performance"), though the company anticipates "expected softness in automotive and petrochemicals."
+
+**2. Labor & Wages**
+Not addressed. The transcript contains no mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is exercising robust pricing power. Net sales increased 31% year-over-year, driven by significant price hikes in Energy Storage (+73%) and Specialties (+11%). Management is actively managing "cost escalations driven by the conflict in the Middle East" through "proactive management" and "ongoing cost and productivity improvements" ($100 million run-rate achieved YTD).
+
+**4. Supply Chain & Inventory**
+Supply conditions are stable, though impacted by a specific operational disruption. A fire at the Talison CGP3 facility occurred on June 9, but the company expects "minimal impact to Energy Storage sales volume" because of "better-than-planned output from the Wodgina mine."
+
+**5. Capital Spending (Capex)**
+Capex is softening. The full-year 2026 forecast has been reduced to approximately $500 million, a 15% decrease compared to 2025, which management attributes to "ongoing capital efficiency improvements."

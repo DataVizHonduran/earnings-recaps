@@ -1,0 +1,22 @@
+Ticker: AAP
+Source: AAP_2026-08-20.txt
+Generated: 2026-09-07 18:39 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Advance Auto Parts (AAP)**
+
+**1. Demand & Activity**
+Demand is mixed and volatile. The professional (Pro) channel showed modest growth, specifically noting that "Main Street Pro trends outpacing overall Pro trends" ("low-single-digit growth in the Pro channel"). Conversely, demand in the DIY channel is softening, as "tighter household budgets constrained spending more than we anticipated" ("total enterprise sales performance was impacted by the DIY channel").
+
+**2. Labor & Wages**
+Not addressed in the provided text.
+
+**3. Pricing Power & Inflation**
+The company is demonstrating moderate pricing power through "expansion in product margin supported by our merchandising initiatives" ("increase in gross profit as a percentage of net sales... primarily driven by expansion in product margin"). Additionally, the company received some relief from previous trade costs via "$26 million in refunds related to tariffs" ("refunds related to tariffs that were previously paid").
+
+**4. Supply Chain & Inventory**
+Not addressed in the provided text.
+
+**5. Capital Spending (Capex)**
+Specific future facility or technology spending was not detailed, though the company highlighted a shift in cash flow dynamics, achieving a "return to positive year to date free cash flow" ("following two years of outflows").

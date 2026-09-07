@@ -1,0 +1,22 @@
+Ticker: ADSK
+Source: ADSK_2026-08-27.txt
+Generated: 2026-09-07 18:39 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Autodesk, Inc. (ADSK)**
+
+**1. Demand & Activity**
+Demand is **robust** and growing across all primary product families and geographic regions. Revenue grew 16% year-over-year, with particular strength in the "Make" product line (up 26%) and the AECO family (up 17%). Management reports "consistent execution and momentum" ("We delivered strong second quarter results with consistent execution and momentum") and has increased full-year growth guidance based on "higher underlying growth expectations" ("We have increased our fiscal 27 billings and revenue growth guidance to reflect higher underlying growth expectations").
+
+**2. Labor & Wages**
+The report does not specify wage inflation or hiring difficulties, but it notes a "sales reorganization" that is "proceeding as expected" ("Our sales reorganization is proceeding as expected"). Management references "go-to-market optimization" as a driver for margin improvement ("benefits from our go-to-market optimization").
+
+**3. Pricing Power & Inflation**
+The company is demonstrating **moderate** pricing power through a strategic shift in contract structures. Autodesk is actively "reducing multi-year discounts" and "winding down multi-year Maintenance-to-Subscription renewals" ("Reflects our sustained program reducing multi-year discounts"). This strategy is explicitly intended to improve "price realization over time" ("The reduction of discounting for multi-year contracts benefits price realization over time").
+
+**4. Supply Chain & Inventory**
+Not applicable. As a software provider, the company does not maintain physical inventory. However, management notes that their AI tools are designed to help customers "ease endemic capacity constraints" and manage "scarce resources" ("AI... can ease endemic capacity constraints... and help our customers do more with scarce resources").
+
+**5. Capital Spending (Capex)**
+Capital investment remains **stable**. The company projects approximately $70 million in capital expenditures for the fiscal year ("Free cash flow is cash flow from operating activities less approximately $70 million of capital expenditures"). Investment focus is currently directed toward the integration of the MaintainX acquisition and the development of AI-driven "project intelligence" ("The future of AI for the built world will belong to the trusted platform").
