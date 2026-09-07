@@ -1,0 +1,22 @@
+Ticker: PSA
+Source: PSA_2026-07-29.txt
+Generated: 2026-09-07 18:51 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Public Storage (PSA)**
+
+**1. Demand & Activity**
+Demand is **softening** for existing assets but remains **robust** for new developments. Same-store revenues declined slightly by 0.6% in Q2 ("Revenues $1,006,549 $1,012,439 (0.6)%"), and realized annual rental income per occupied square foot saw a modest decrease of 0.8% ("$21.89 $22.06 (0.8)%"). However, occupancy remains stable, increasing slightly to 92.5% ("Average Occupancy 92.5% 92.3% 0.2%"). Non-same store revenue growth remains strong at 25.6% ("Revenues and net operating income from this non-same store pool grew 25.6%").
+
+**2. Labor & Wages**
+Not explicitly discussed. The company noted expected "G&A savings" ("driven by enhanced customer experience, NOI opportunity, tenant reinsurance uplift, and G&A savings") resulting from the NSA merger, suggesting a focus on operational efficiency.
+
+**3. Pricing Power & Inflation**
+Pricing power is **softening**, as evidenced by a slight decline in both realized and available rental rates ("Realized annual rental income per Occupied square foot... (0.8)%"). The company is facing moderate inflationary pressure on operations, with direct costs of operations increasing by 4.3% in the quarter ("Direct Cost of Operations (227,671) (218,358) 4.3%") and indirect costs rising by 5.7% ("Indirect Cost of Operations (32,505) (30,748) 5.7%").
+
+**4. Supply Chain & Inventory**
+Not applicable. (The company reports on real estate square footage rather than physical goods inventory).
+
+**5. Capital Spending (Capex)**
+Investment in capacity is **robust**. The company is aggressively expanding through acquisitions, including the merger with NSA and the $1.2 billion acquisition of PS Canada ("agreement to acquire PS Canada for US$1.2 billion"). Additionally, there is a moderate commitment to organic growth, with $691.7 million earmarked for ongoing development and expansion projects ("these development and expansion projects are expected to deliver 4.0 million net rentable square feet at an aggregate cost of approximately $691.7 million").

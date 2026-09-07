@@ -1,0 +1,22 @@
+Ticker: OXY
+Source: OXY_2026-08-05.txt
+Generated: 2026-09-07 18:50 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Occidental Petroleum (OXY)**
+
+**1. Demand & Activity**
+Activity is robust, with global production exceeding expectations. Growth is particularly strong in the Permian and Gulf of Mexico regions ("Total global production averaged 1,433 thousand barrels of oil equivalent per day... exceeding the high end of guidance, with the Permian and Gulf of America business units outperforming").
+
+**2. Labor & Wages**
+No specific mentions of hiring, turnover, or wage pressures were provided in the text.
+
+**3. Pricing Power & Inflation**
+The company is experiencing significant positive price momentum for liquids, though natural gas remains a headwind. Realized crude oil prices saw a robust quarterly increase ("Average worldwide realized crude oil prices increased 38% from the previous quarter to $96.78 per barrel"), while natural gas prices were notably weak ("Average domestic realized gas prices were negative $1.48 per thousand cubic feet"). Management continues to pursue "cost efficiencies" to protect margins.
+
+**4. Supply Chain & Inventory**
+No specific data on lead times or inventory levels was provided. However, midstream activity improved due to "transportation capacity optimizations" ("Quarter-over-quarter improvement was driven by... higher gas margins from transportation capacity optimizations").
+
+**5. Capital Spending (Capex)**
+Capital investment remains moderate and disciplined, with a focus on advanced recovery and resource improvement. Quarterly capex was $1.6 billion ("capital expenditures of $1.6 billion"). The company is prioritizing a "value-based development approach" to drive "significant free cash flow growth by 2030."

@@ -1,0 +1,22 @@
+Ticker: PAYC
+Source: PAYC_2026-08-05.txt
+Generated: 2026-09-07 18:50 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Paycom Software, Inc. (PAYC)**
+
+**1. Demand & Activity**
+Demand appears robust, characterized by moderate growth in total revenues (up 9.8% year-over-year) and a strong expansion in recurring revenue streams (up 11.0%). Management indicates "strong momentum" driven by "new product innovation and continued automation across our platform."
+
+**2. Labor & Wages**
+Not addressed. The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+Not explicitly addressed. While the company is raising its full-year outlook, there is no specific commentary regarding price increases or the impact of input cost inflation.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a cloud-based software provider, the company reports no physical supply chain or inventory constraints.
+
+**5. Capital Spending (Capex)**
+The company is prioritizing investment in technology and product development, specifically focusing on an "automation strategy" to drive efficiency and growth ("reflecting the strength of our automation strategy and disciplined execution").

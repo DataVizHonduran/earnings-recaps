@@ -1,0 +1,7 @@
+Ticker: PFGC
+Source: PFGC_2026-08-12.txt
+Generated: 2026-09-07 18:50 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+The provided document is a news release header and contact information page; it does not contain the earnings transcript, financial results, or management commentary required to perform this analysis. No economic signals regarding demand, labor, pricing, supply chain, or capital spending were present in the text.

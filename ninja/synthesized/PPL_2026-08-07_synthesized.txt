@@ -1,0 +1,22 @@
+Ticker: PPL
+Source: PPL_2026-08-07.txt
+Generated: 2026-09-07 18:50 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: PPL Corp (Q2 2026)**
+
+**Demand & Activity:**
+Demand is growing robustly, driven primarily by large-scale industrial energy users. There is significant expansion in the data center pipeline across Pennsylvania and Kentucky. In Pennsylvania, the pipeline reached 31.8 GW in advanced planning ("data center pipeline grew to 31.8 gigawatts (GW) in advanced stages of planning"), while Kentucky's pipeline grew to 13.7 GW ("pipeline in the Louisville Gas and Electric Company (LG E) and Kentucky Utilities Company (KU) service territories grew to 13.7 GW").
+
+**Labor & Wages:**
+Not addressed.
+
+**Pricing Power & Inflation:**
+The company is successfully utilizing regulatory mechanisms to raise prices and offset costs. In Kentucky, earnings were supported by "higher retail rates effective January 1, 2026," though these were partially offset by "higher operating costs, higher depreciation expense and higher interest expense." The company notes a reliance on "improved rate recovery and capital tracking mechanisms" to maintain earnings growth.
+
+**Supply Chain & Inventory:**
+Not addressed.
+
+**Capital Spending (Capex):**
+Capex plans are robust and expanding to meet infrastructure needs. PPL identifies a potential generation investment upside of $10 billion to $12 billion through 2032 ("economic development in Pennsylvania and Kentucky could present potential generation investment upside of $10 billion to $12 billion through 2032"). Specific investments include modernizing the grid and improving resilience ("investments are designed to modernize the grid, improve system resilience and support growing demand"). In Kentucky, the company anticipates an incremental investment need of $3.5 billion to $4.0 billion between 2027 and 2032 for additional generation.
