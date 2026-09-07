@@ -1,0 +1,22 @@
+Ticker: GEN
+Source: GEN_2026-08-06.txt
+Generated: 2026-09-07 18:45 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Gen Digital Inc. (GEN)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by broad-based growth across the company's portfolio. The firm reported a "beat-and-raise" start to the fiscal year, with non-GAAP revenue and bookings both increasing by 11% ("broad-based growth across both of our segments"). Management indicated strong momentum, raising full-year revenue guidance to a range of $5.375 billion to $5.475 billion ("Further Accelerates in Q1 FY27 and Raises Full Year Guidance").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage trends. However, "Accrued compensation and benefits" on the balance sheet decreased from $115 million to $75 million over the quarter.
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate pricing power or volume growth, as evidenced by the 11% increase in non-GAAP revenue. While the company lists "the impact of inflation" as a general risk factor in its forward-looking statements, there is no mention of specific input cost pressures or relief in the current period's operational results.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a digital services provider, the company does not report physical supply chain lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment is focused on technology and product evolution rather than physical capacity. The company is "continuing to invest in innovation" ("continuing to invest in innovation") and specifically highlighted the "successful development of new products and upgrades" as a key driver for future market acceptance. Research and development spending increased modestly to $118 million from $109 million year-over-year.

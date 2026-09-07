@@ -1,0 +1,28 @@
+Ticker: FOX
+Source: FOX_2026-08-06.txt
+Generated: 2026-09-07 18:45 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Fox Corp (FY2026)**
+
+**1. Demand & Activity**
+Demand for advertising is robust, particularly in digital and event-driven segments, though traditional linear demand shows signs of softening.
+*   **Advertising:** Robust growth driven by major sporting events and digital platforms ("Advertising revenue increased 78%, primarily due to the current year broadcast of the FIFA Men's World Cup... and continued digital growth led by the Tubi AVOD service").
+*   **Distribution:** Modest growth in revenue, but underlying demand is softening due to cord-cutting ("contractual price increases were partially offset by the impact of net subscriber declines").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate pricing power in its distribution and advertising contracts, though it faces rising operational costs for content.
+*   **Pricing Power:** Stable to moderate; the company is successfully implementing rate hikes ("Distribution revenue increased... as contractual price increases were partially offset by the impact of net subscriber declines" and "higher news and sports pricing").
+*   **Input Costs:** Moderate pressure from content and production expenses ("increase in expenses was primarily due to higher sports programming rights amortization and production costs").
+
+**4. Supply Chain & Inventory**
+Not applicable. (No mentions of physical supply chains or inventory levels).
+
+**5. Capital Spending (Capex)**
+Investment is focused on digital transformation and strategic expansion.
+*   **Technology/Capacity:** Robust investment in streaming infrastructure and inorganic growth ("successfully launched our direct-to-consumer streaming service, FOX One" and "announced the acquisition of Roku which will transform the scope and growth profile of our company").
+*   **Operational Spend:** Increased spending on digital content ("increase in expenses was primarily due to costs associated with the launch of FOX One and higher digital content costs").

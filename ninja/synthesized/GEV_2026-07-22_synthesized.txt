@@ -1,0 +1,32 @@
+Ticker: GEV
+Source: GEV_2026-07-22.txt
+Generated: 2026-09-07 18:46 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: GE Vernova (GEV)**
+
+**1. Demand & Activity**
+Demand is robust and growing in Power and Electrification, while softening in Wind.
+*   **Power & Electrification:** Robust growth driven by gas equipment and grid infrastructure ("robust growth in Power and Electrification"). Data center demand is accelerating rapidly ("data center orders reaching over $5 billion year-to-date, more than double our 2025 total").
+*   **Geographic/Product Variance:** Strong demand for grid equipment specifically in North America ("continued strong demand for grid equipment with strength in North America").
+*   **Wind:** Activity is declining due to previous weakness in onshore equipment ("decreased (40)% organically due to lower equipment at Onshore Wind... as a result of soft orders in the first half of 2025").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is exercising moderate to robust pricing power, though some inflationary headwinds persist.
+*   **Pricing:** Margins are expanding due to "favorable price and disciplined underwriting" and "higher volume, price, and productivity."
+*   **Inflation:** Input costs continue to provide a slight drag on margins ("partially offset by the impact of inflation").
+
+**4. Supply Chain & Inventory**
+While specific lead times are not detailed, the massive growth in backlog suggests a high-demand environment with significant future delivery obligations.
+*   **Backlog:** The backlog is expanding substantially ("Backlog growth of $13.0 B sequentially").
+*   **Capacity:** The company is aggressively scaling output to meet demand, targeting 20 GW of annual gas turbine output in Q3 2026, rising to 30 GW by 2030 ("implementing actions to produce 30 GW in 2030").
+
+**5. Capital Spending (Capex)**
+Capex is robust, focused on expanding production capacity and technological advancement.
+*   **Capacity:** Recent spending is targeted at increasing output in Power and Electrification ("Invested $0.4 billion in capital expenditures, including to increase production in Power and Electrification").
+*   **Long-term Commitment:** The company has a significant multi-year investment plan ("commitment to invest $6 billion in capex from 2025 through 2028").
+*   **R&D:** Substantial investment in energy transition tech ("commitment to invest $5 billion in R&D from 2025 through 2028").

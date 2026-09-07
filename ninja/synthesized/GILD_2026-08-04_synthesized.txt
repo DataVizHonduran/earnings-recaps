@@ -1,0 +1,31 @@
+Ticker: GILD
+Source: GILD_2026-08-04.txt
+Generated: 2026-09-07 18:46 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Gilead Sciences (GILD)**
+
+**1. Demand & Activity**
+Demand is **robust** across core portfolios, though bifurcated by product line. HIV and oncology segments show strong growth, while COVID-19 and cell therapy demand is softening.
+*   **HIV/Oncology:** Robust growth in HIV ("HIV sales grew 12%") and oncology ("Trodelvy... sales increased 26%... primarily driven by higher demand").
+*   **Liver Disease:** Moderate growth ("Liver Disease portfolio sales increased 10%... primarily reflecting higher demand for Livdelzi").
+*   **COVID-19/Cell Therapy:** Softening demand for Veklury ("decreased 81%... primarily driven by lower rates of COVID-19-related hospitalizations") and cell therapy ("decreased 14%... reflecting ongoing competitive headwinds").
+
+**2. Labor & Wages**
+The report does not explicitly detail wage inflation or hiring difficulties; however, it notes a moderate increase in operational spending related to organizational changes.
+*   **Operating Expenses:** Higher costs attributed to "integration costs related to the acquisitions" and "higher HIV promotional activities."
+
+**3. Pricing Power & Inflation**
+The company demonstrates **robust** pricing power, particularly within its HIV franchise, which is a primary driver of revenue growth.
+*   **Pricing:** Growth in HIV products was "primarily driven by higher average realized price and demand," with specific mentions for Biktarvy and Descovy ("primarily driven by higher average realized price").
+*   **Margins:** Product gross margins remain **stable** ("Product gross margin remained relatively flat at 79.3%").
+
+**4. Supply Chain & Inventory**
+Inventory levels appear **stable**, contributing positively to specific product sales.
+*   **Inventory:** Biktarvy sales growth was supported in part by "favorable inventory dynamics."
+
+**5. Capital Spending (Capex)**
+Investment is heavily skewed toward **aggressive** inorganic growth and R&D rather than physical capacity.
+*   **Acquisitions:** Significant capital deployment for technology and pipeline expansion, with "year-to-date cash outflows of $11.3 billion related to acquisitions" (including Arcellx, Tubulis, and Ouro Medicines).
+*   **R&D:** Continued investment in clinical pipelines, though some oncology activity has softened ("partially offset by lower oncology clinical study activity").
