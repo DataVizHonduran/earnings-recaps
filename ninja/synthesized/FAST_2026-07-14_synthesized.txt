@@ -1,0 +1,22 @@
+Ticker: FAST
+Source: FAST_2026-07-14.txt
+Generated: 2026-09-07 18:45 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Fastenal Co (FAST)**
+
+**1. Demand & Activity**
+Demand is **robust**, with daily sales increasing 14.7% year-over-year ("broad-based demand across core end markets"). Growth is particularly strong in the manufacturing sector, driven by "key account customers with significant managed spend." Direct materials (OEM production) are "slightly outpacing" indirect materials (MRO), signaling "continued strength with manufacturing customers." Non-residential construction continues a moderate growth trend, marking its "fifth time in fifteen consecutive quarters" of expansion.
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is exercising **moderate** pricing power, with product pricing contributing an increase of "approximately 290 basis points" to net sales in Q2 2026, a significant acceleration from the 140–170 basis points seen in the prior year. However, the company is facing "gross margin headwinds" specifically related to "unfavorable price cost," suggesting persistent input cost pressures.
+
+**4. Supply Chain & Inventory**
+The report does not explicitly detail lead times or inventory levels, though it notes that "working capital changes associated with strong sales growth" impacted operating cash flow. The company continues to expand its "customer Sites," where it maintains "inventory tailored to local demand."
+
+**5. Capital Spending (Capex)**
+Investment is focused on digital infrastructure and capacity expansion. The company is aggressively deploying "FMI Technology" (automated vending and stocking), signing 6,993 weighted devices in Q2 with a full-year target of "27,000 and 29,000 MEUs." There is a strategic emphasis on "expansion of digital technologies" and "new customer site growth" to increase penetration.

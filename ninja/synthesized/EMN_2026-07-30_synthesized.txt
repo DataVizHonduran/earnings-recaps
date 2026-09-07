@@ -1,0 +1,22 @@
+Ticker: EMN
+Source: EMN_2026-07-30.txt
+Generated: 2026-09-07 18:45 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Eastman Chemical Co (EMN)**
+
+**1. Demand & Activity**
+Demand is mixed. The company reports robust growth in Chemical Intermediates, driven by "increased volume availability" and "supply disruptions" ("24 percent higher sales volume mix"). Specialty businesses show modest growth in stable end markets, though "continued weak demand in key discretionary end markets" persists. The Fibers segment is softening, specifically due to "continued weakness in the textiles end market" and "inventory destocking in acetate tow" ("10 percent lower sales volume mix").
+
+**2. Labor & Wages**
+The report does not explicitly detail hiring or turnover; however, it notes a negative impact on margins from "higher variable compensation expense" ("EBIT decreased as... more than offset by... higher variable compensation expense").
+
+**3. Pricing Power & Inflation**
+Pricing power is moderate to robust. The company is successfully implementing price increases in specialty businesses to "offset higher raw material and distribution costs" ("4 percent higher selling prices"). In Chemical Intermediates, prices rose significantly due to "tightening market conditions due to the ongoing Middle East conflict" ("14 percent higher selling prices"). Inflationary pressures remain a headwind, specifically "putting pressure on accounts receivable" and impacting cash flow.
+
+**4. Supply Chain & Inventory**
+Supply chains are dynamic and volatile. The company is leveraging "integrated U.S.-based assets" to maintain reliability amid "uncertain global environment." There is evidence of supply-side constraints globally, as the company benefited from "significant spread expansion due to the impact on supply chains of the Middle East conflict." Inventory levels in the Fibers segment are currently being reduced via "customer buying patterns to continue with inventory destocking."
+
+**5. Capital Spending (Capex)**
+Capex is stable and disciplined, with planned spending of "approximately $400 million this year." Strategic investment is focused on the "commercial ramp up of the Kingsport methanolysis facility" and developing "capital-efficient set of options to serve the packaging market."

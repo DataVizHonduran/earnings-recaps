@@ -1,0 +1,22 @@
+Ticker: DTE
+Source: DTE_2026-07-31.txt
+Generated: 2026-09-07 18:44 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: DTE Gas Company**
+
+**1. Demand & Activity**
+Demand appears **stable to slightly softening**. Operating revenues for the three months ended June 30, 2026, were $311 million, a modest decrease from $313 million in the prior year period ("Operating Revenues $ 311 [2026] $ 313 [2025]").
+
+**2. Labor & Wages**
+The provided financial statements contain no specific commentary regarding hiring, turnover, or wage pressures. However, "Operation and maintenance" expenses saw a moderate increase from $148 million to $158 million on a quarterly basis ("Operation and maintenance 158 148").
+
+**3. Pricing Power & Inflation**
+The company utilizes a regulatory recovery model for input costs. While the "Cost of gas" decreased slightly in the most recent quarter ($36 million vs $43 million), the company continues to rely on the "Gas Cost Recovery mechanism authorized by the MPSC that allows DTE Gas to recover through rates its natural gas costs" ("GCR A Gas Cost Recovery mechanism...").
+
+**4. Supply Chain & Inventory**
+Inventory levels are **lean**, with a moderate reduction in gas inventories from $45 million at year-end 2025 to $33 million by June 2026 ("Inventories Gas 33 45"). Materials and supplies remained stable ("Materials and supplies 39 38").
+
+**5. Capital Spending (Capex)**
+Investment in infrastructure is **robust**. Plant and equipment expenditures for the first six months of 2026 increased to $347 million, up from $276 million in the same period in 2025 ("Plant and equipment expenditures (347) (276)"). This trend is further supported by an increase in total property, plant, and equipment to $9.5 billion ("Property, plant, and equipment 9,517 9,212").
