@@ -1,0 +1,22 @@
+Ticker: DGX
+Source: DGX_2026-07-23.txt
+Generated: 2026-09-07 18:43 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Quest Diagnostics (DGX)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by strong organic growth across physician, hospital, and consumer channels ("robust top- and bottom-line growth"). Requisition volume grew significantly by 13.1% year-over-year ("Requisition volume 13.1%"). Growth is particularly strong in Advanced Diagnostics, specifically for Alzheimer’s, cardiometabolic, and endocrine testing ("Grew revenues by double-digits in several areas of Advanced Diagnostics").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments. Total headcount is noted at approximately 60,000 employees.
+
+**3. Pricing Power & Inflation**
+The company is experiencing softening pricing power, as revenue per requisition declined by 2.8% year-over-year ("Revenue per requisition (2.8)%"). While total revenues increased, this suggests that volume growth is offsetting a decline in average price per test. There is no specific commentary on input cost relief or commodity inflation.
+
+**4. Supply Chain & Inventory**
+Inventory levels have increased moderately, rising from $189 million at year-end 2025 to $233 million by June 30, 2026 ("Inventories 233 [vs] 189"). There are no mentions of lead time disruptions or bloated stock.
+
+**5. Capital Spending (Capex)**
+Capital investment is increasing robustly. Quarterly Capex rose 27% year-over-year to $138 million ("Capital expenditures $138 [vs] $108"). Spending is directed toward operational excellence and technology, specifically extending "automation solutions to improve quality and productivity" in lab processing and launching "IntelliDraw" for specimen collection. Full-year Capex is projected to remain stable at approximately $550 million ("Capital expenditures Approximately $550 million").

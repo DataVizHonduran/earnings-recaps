@@ -1,0 +1,28 @@
+Ticker: DE
+Source: DE_2026-08-20.txt
+Generated: 2026-09-07 18:43 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Deere & Co (DE)**
+
+**1. Demand & Activity**
+Demand is mixed and bifurcated by segment and geography. Large Ag is experiencing a moderate decline, with the company signaling that 2026 will likely "mark the bottom of the current ag equipment cycle."
+*   **Large Ag:** Softening globally, specifically down 15-20% in U.S./Canada and South America ("Large Ag Down 15 to 20%").
+*   **Small Ag & Turf:** Stable to modestly growing ("Flat to up 5%").
+*   **Construction & Forestry:** Robust growth in U.S. construction ("Construction Equipment Up 5 to 10%") and roadbuilding ("Up ~10%"), though global forestry is softening ("Down ~10%").
+*   **Regional:** U.S. conditions are described as "stable," while Brazil and Europe are "softer."
+
+**2. Labor & Wages**
+The report does not provide specific current wage data but identifies "attracting, developing, engaging, and retaining qualified employees" and the "impact of workforce reductions on company culture" as ongoing risk factors.
+
+**3. Pricing Power & Inflation**
+Deere maintains moderate pricing power, utilizing "favorable price realization" to offset volume declines in several segments.
+*   **Pricing:** Positive price realization was noted across Production & Precision Ag, Small Ag, and Construction & Forestry ("partially offset by favorable price realization").
+*   **Costs:** Input pressures persist, with mentions of "higher production costs" impacting operating profits in the Ag segments.
+
+**4. Supply Chain & Inventory**
+Inventory levels are transitioning. The company notes "improving used-equipment inventories," suggesting a normalization of the supply-demand imbalance seen in previous cycles. No specific lead-time data was provided, though "delays or disruptions in the company’s supply chain" remain a listed risk.
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for future facilities are not detailed, the company is prioritizing investment in "advanced technologies" and the "Smart Industrial Operating Model" to drive long-term value.

@@ -1,0 +1,22 @@
+Ticker: DIS
+Source: DIS_2026-08-05.txt
+Generated: 2026-09-07 18:44 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Walt Disney Co (Q3 FY2026)**
+
+**1. Demand & Activity**
+Demand is generally robust, though geographically bifurcated. Domestic parks and experiences saw strong activity, with revenue increasing 11% ("led by 11% revenue growth at our domestic parks and experiences"). Global Experiences volume grew by roughly 6% ("driven by roughly 6% volume"). However, there is notable softening in Asian markets ("offset softness at our Asia parks, which we expect to continue in fiscal Q4"). Consumer demand for specific IP remains strong, particularly for *Toy Story 5*, which drove the strongest growth in Consumer Products revenue in 20 quarters.
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, wage increases, or headcount reductions.
+
+**3. Pricing Power & Inflation**
+The company continues to exercise moderate pricing power. Global Experiences revenue was supported by a 3% rate increase ("driven by roughly 6% volume and 3% rate across the global portfolio"), while domestic parks saw 4% per capita spending growth. In the digital sector, SVOD subscription revenue grew 15%, driven by both "rate and volume." There is a signal of softening demand in the advertising market ("marketplace supply growth, which created a softer overall demand environment relative to fiscal Q2").
+
+**4. Supply Chain & Inventory**
+The report does not explicitly detail lead times or inventory levels. However, it notes a one-time $100 million tariff refund ("recorded approximately $100 million in a tariff refund this quarter"), suggesting a reversal of previous input cost pressures.
+
+**5. Capital Spending (Capex)**
+Disney is maintaining a robust investment posture in content and technology. The company plans to "roughly triple the number of local original series on Disney+" over the next three years to drive international growth. Additionally, the company continues to invest in physical capacity through the "expanding Disney Cruise Line portfolio" and the integration of "advanced technologies to power our storytelling."
