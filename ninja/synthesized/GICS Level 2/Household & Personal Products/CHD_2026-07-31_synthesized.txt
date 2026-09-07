@@ -1,0 +1,22 @@
+Ticker: CHD
+Source: CHD_2026-07-31.txt
+Generated: 2026-09-07 18:42 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Church & Dwight (CHD)**
+
+**1. Demand & Activity**
+Demand is showing moderate growth, with organic sales increasing by 5.8%. Growth is robust in international markets, while domestic demand is growing at a more modest pace ("Organic Sales +5.8%: Domestic +5.1% | Int’l +9.1%").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is experiencing slight margin expansion, with adjusted gross margins increasing by 40 basis points ("Adjusted Gross Margin 45.4% (+40 bps)"). There is no specific commentary on current pricing actions or commodity cost relief.
+
+**4. Supply Chain & Inventory**
+The provided text contains no mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+The provided text contains no specific plans for future capacity, technology, or facility investments.

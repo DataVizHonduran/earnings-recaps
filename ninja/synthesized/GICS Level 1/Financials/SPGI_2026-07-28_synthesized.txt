@@ -1,0 +1,22 @@
+Ticker: SPGI
+Source: SPGI_2026-07-28.txt
+Generated: 2026-09-07 18:51 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: S&P Global (SPGI)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by record performance in core segments and strong adoption of new technology. Pro forma revenue increased 11% year-over-year ("pro forma revenue of $3.678 billion, which increased 11% year over year"), with specific strength noted in the Ratings and Indices businesses ("record results in two of our benchmark businesses - Ratings and Indices"). Additionally, there is rapid growth in digital transformation services ("continued rapid adoption and expansion of our AI solutions").
+
+**2. Labor & Wages**
+The report does not provide specific data on wage inflation, hiring difficulties, or headcount reductions, though management attributes performance to the quality of its workforce ("dedication and talent of our employees").
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate to robust pricing power and operational efficiency, as evidenced by significant margin expansion. Adjusted operating margins increased 200 basis points ("adjusted operating margin increased 200 basis points"), driven by growth across the Ratings, Indices, and Market Intelligence divisions. There are no mentions of input cost pressures or commodity inflation.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a financial services and data provider, the company does not maintain physical inventories or traditional supply chains. However, it has streamlined its internal product organization ("combined our supply chain products within our Energy division").
+
+**5. Capital Spending (Capex)**
+Capital expenditures are stable and projected to remain flat year-over-year. The company expects full-year 2026 capex to be between $190 million and $210 million ("Capital Expenditures $190 to $210 million"), matching the previous year's guidance.

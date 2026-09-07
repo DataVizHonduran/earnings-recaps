@@ -1,0 +1,22 @@
+Ticker: BR
+Source: BR_2026-08-04.txt
+Generated: 2026-09-07 18:41 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Broadridge Financial Solutions (BR)**
+
+**1. Demand & Activity**
+Demand is **robust**, characterized by steady growth in recurring revenues (8% growth constant currency). Activity is particularly strong in Regulatory services (14% growth) and Equity revenue position growth (14%). However, demand is **softening** in specific areas, notably mutual fund proxy revenues, which contributed to a 10% decrease in event-driven revenues for the quarter ("Event-driven revenues decreased $8 million, or 10%... primarily due to lower mutual fund proxy revenues").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is experiencing significant input cost pressure from postage, which it is successfully passing through to customers. Distribution revenues rose 8% in the quarter, driven primarily by "postage rate increases of approximately $32 million." Overall operating expenses rose 8% due to "higher distribution expenses, volume-related expenses and the impact of acquisitions."
+
+**4. Supply Chain & Inventory**
+Not applicable. As a financial technology and services provider, the company does not report physical supply chain lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment is focused on digital transformation and technology. The company is increasing spending to integrate "Agentic AI to drive growth and productivity" and is building infrastructure for "tokenized assets." Corporate losses were partially attributed to "higher technology spending, including the impact of investments."

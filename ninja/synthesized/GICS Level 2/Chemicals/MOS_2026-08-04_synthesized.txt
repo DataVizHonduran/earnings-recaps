@@ -1,0 +1,22 @@
+Ticker: MOS
+Source: MOS_2026-08-04.txt
+Generated: 2026-09-07 18:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Mosaic Co. (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is softening, particularly in Brazil, where activity is described as "soft demand" ("primarily due to curtailed domestic production and soft demand"). Overall business conditions are "challenging" ("Business conditions remained challenging in the second quarter"). This has led to moderate production curtailments in the Phosphate segment, including the complete idling of the Faustina facility and a significant reduction in operating rates at Bartow ("Faustina has been completely idled and Bartow is currently running at 40%").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is experiencing modest pricing power, with higher phosphate and potash prices partially offsetting cost pressures ("partially offset by higher phosphate and potash prices"). However, there is persistent inflationary pressure from raw materials, specifically sulfur, which is creating "affordability challenges" ("driven primarily by sulfur availability and affordability challenges"). Sulfur contract prices have risen to $705 per long ton for the third quarter.
+
+**4. Supply Chain & Inventory**
+Supply chain constraints are evident in the availability of key inputs, leading to the idling of commodity fertilizer production in Brazil ("Commodity fertilizer production is in the process of being idled in Brazil as a result of sulfur affordability and availability"). There is no specific mention of finished goods inventory levels or lead times.
+
+**5. Capital Spending (Capex)**
+Capital spending is being moderately reduced as the company prioritizes financial flexibility and cost-cutting ("reduced capital expenditures"). The 2026 outlook for capital expenditures was lowered to $1.2 billion from a previous estimate of $1.25 billion ("Capital expenditures in 2026 are now expected to be $1.20 billion, down from the previous expectation of $1.25 billion"). The company is also reallocating "underperforming capital" and pursuing strategic alternatives for assets in Brazil.

@@ -1,0 +1,25 @@
+Ticker: CRL
+Source: CRL_2026-08-05.txt
+Generated: 2026-09-07 18:43 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Charles River Laboratories (CRL)**
+
+**1. Demand & Activity**
+Demand is showing signs of a modest recovery, characterized as "continuing to strengthen" ("demand environment continued to strengthen in the second quarter"). Growth is uneven across segments:
+*   **DSA:** Robust improvement, recording the "highest net book-to-bill in nearly four years" ("highest net book-to-bill in nearly four years"), with broad-based gains across global biopharma and small/mid-sized biotech clients.
+*   **Manufacturing:** Moderate growth, specifically driven by "higher revenue in the Microbial Solutions business."
+*   **RMS:** Softening demand, particularly "lower revenue for small research models in North America" ("lower revenue for small research models in North America"), though partially offset by growth in China.
+
+**2. Labor & Wages**
+The report does not provide specific data on hiring, turnover, or wage levels. However, the company is pursuing "restructuring and efficiency initiatives" involving "site consolidation" and "severance" ("Costs associated with restructuring and efficiency initiatives... include site consolidation... severance").
+
+**3. Pricing Power & Inflation**
+There are no explicit mentions of price increases. The company is experiencing persistent pressure on margins in the DSA segment due to "higher study-related direct costs" ("non-GAAP operating margin decreased... primarily as a result of higher study-related direct costs in the DSA segment").
+
+**4. Supply Chain & Inventory**
+The company noted a prior "inventory charge associated with an NHP [non-human primate] supply matter" ("reductions to a previous $27 million inventory charge associated with an NHP supply matter"). However, the resolution of government investigations has allowed some of these assets to be "subsequently utilized" ("certain NHPs were subsequently utilized").
+
+**5. Capital Spending (Capex)**
+Investment is focused on digitalization and automation rather than physical capacity expansion. The company introduced an "enhanced digital pathology solution" utilizing an "AI-enabled, end-to-end workflow" to improve "turnaround times and increased pathologist efficiency" ("introduced an enhanced digital pathology solution to drive efforts to further digitize and automate the Company").

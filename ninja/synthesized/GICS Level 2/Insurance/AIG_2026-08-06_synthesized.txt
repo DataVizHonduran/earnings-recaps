@@ -1,0 +1,22 @@
+Ticker: AIG
+Source: AIG_2026-08-06.txt
+Generated: 2026-09-07 18:40 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: AIG (Q2 2026)**
+
+**1. Demand & Activity**
+Demand for insurance services is growing robustly, with Net Premiums Written (NPW) increasing 9% year-over-year ("Net premiums written grew 9% year-over-year on a constant dollar basis"). Growth is broad-based across all three business segments, though there is a notable geographic and product variance: activity is strong in International Commercial Property and Marine ("primarily driven by Property and Marine"), while North America Property lines acted as a drag on overall growth ("partially offset by North America Property lines").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, wage trends, or headcount adjustments.
+
+**3. Pricing Power & Inflation**
+Pricing power is softening and becoming more fragmented. The company notes a transition from a period of broad price increases to a "more selective environment" ("transitioned from an extended phase of broad positive pricing into a more selective environment"). Specific rate pressure is evident in North America Property and International Financial Lines ("partially offset by Financial Lines due to continued rate pressure"). However, the company achieved a modest improvement in its expense ratio ("improved expense ratio"), suggesting some stability in internal operating costs.
+
+**4. Supply Chain & Inventory**
+Not applicable to this business model.
+
+**5. Capital Spending (Capex)**
+The provided text contains no specific mentions of future capital expenditures for technology, facilities, or capacity.

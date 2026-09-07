@@ -1,0 +1,22 @@
+Ticker: NVR
+Source: NVR_2026-07-23.txt
+Generated: 2026-09-07 18:50 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: NVR Inc. (Q2 2026)**
+
+**1. Demand & Activity**
+Demand signals are mixed. New order volume showed moderate growth, increasing 9% year-over-year ("New orders in the second quarter of 2026 increased by 9% to 5,885 units"). However, actual completions are softening, with settlements declining 8% ("Settlements in the second quarter of 2026 decreased by 8% to 5,058 units"). This divergence has led to a moderate increase in the backlog, which rose 9% on a unit basis ("backlog of homes sold but not settled... increased on a unit basis by 9%"). Mortgage activity is softening, with closed loan production down 13% ("Mortgage closed loan production... totaled $1.35 billion, a decrease of 13%").
+
+**2. Labor & Wages**
+The provided report does not contain specific data on current hiring, turnover, or wage trends, though it lists "shortages of labor" as a general systemic risk factor.
+
+**3. Pricing Power & Inflation**
+Pricing power is softening due to macroeconomic headwinds. The average sales price for new orders decreased 5% year-over-year ("average sales price of new orders... was $437,100, a decrease of 5%"), and average settlement prices fell 3% ("average settlement price... was $450,700, a decrease of 3%"). Profit margins were negatively impacted by "pricing pressure due to continued affordability challenges and weak consumer sentiment," as well as "higher lot costs."
+
+**4. Supply Chain & Inventory**
+Inventory levels appear to be increasing. Total inventory—including lots and housing units—rose from $1.72 billion to $2.24 billion ("Inventory... 2,235,289" vs. 2025's "1,723,560"). Specifically, unsold lots and housing units saw a modest increase ("Unsold lots and housing units 307,698" vs. 252,029).
+
+**5. Capital Spending (Capex)**
+There are no specific announcements regarding new capacity or technology investments. Property, plant, and equipment saw a slight decrease ("Property, plant and equipment, net 99,248" vs. 103,770).

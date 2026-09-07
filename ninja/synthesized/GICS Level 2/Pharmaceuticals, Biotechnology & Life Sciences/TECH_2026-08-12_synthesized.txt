@@ -1,0 +1,22 @@
+Ticker: TECH
+Source: TECH_2026-08-12.txt
+Generated: 2026-09-07 18:52 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: BIO-TECHNE Corp (TECH)**
+
+**1. Demand & Activity**
+Demand is generally stable to modestly growing. Full-year organic revenue remained flat ("Organic revenue remained flat from the prior year"), though the fourth quarter showed a modest uptick in organic growth of 3%. Activity varies by segment: the Diagnostics and Spatial Biology segment saw robust organic growth of 8% in Q4 ("Organic revenue increased 8% for the fourth quarter"), while the Protein Sciences segment experienced slight organic growth of 1% in Q4 but a slight decline of 1% for the full year ("Organic revenue for the segment decreased 1% for the fiscal year").
+
+**2. Labor & Wages**
+Not addressed. The report does not provide specific data on hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is experiencing moderate pressure from product mix and competition. Operating margins in the Protein Sciences segment were negatively impacted by "unfavorable volume and product mix." Additionally, the company noted risks associated with "the impact of the growing number of producers of biotechnology research products and related price competition." Conversely, the company has implemented "ongoing profitability initiatives" to support margins in the Diagnostics segment.
+
+**4. Supply Chain & Inventory**
+Not addressed. There are no mentions of lead times, freight costs, or inventory levels.
+
+**5. Capital Spending (Capex)**
+Not addressed. The report does not specify future investment plans for facilities or technology, though it notes the company is currently undergoing an acquisition by Merck KGaA ("Bio-Techne entered into an agreement to be acquired by Merck KGaA").

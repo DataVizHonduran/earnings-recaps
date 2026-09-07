@@ -1,0 +1,22 @@
+Ticker: NUE
+Source: NUE_2026-07-27.txt
+Generated: 2026-09-07 18:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Nucor Corp (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by a "second consecutive quarterly record for Nucor steel mill shipments" ("second consecutive quarterly record for Nucor steel mill shipments"). Growth is attributed to "investment across key sectors of the U.S. economy" and "supportive federal trade policies" ("Investment across key sectors of the U.S. economy, combined with supportive federal trade policies"). Outlook for Q3 suggests stable volumes for steel mills but higher volumes for steel products ("steel products segment, we expect increased earnings due to both higher volumes").
+
+**2. Labor & Wages**
+Not addressed. The report mentions a workforce of "more than 33,000 Nucor teammates" ("more than 33,000 Nucor teammates") and a focus on safety, but provides no data on hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is exercising moderate to robust pricing power. Q2 earnings were driven by "higher average selling prices" in the steel mills segment ("experienced higher average selling prices and higher volumes"). This trend is expected to persist into Q3 with "higher realized pricing across all major product categories" for steel mills and "higher realized pricing" for steel products ("higher realized pricing across all major product categories").
+
+**4. Supply Chain & Inventory**
+Not explicitly detailed. The report notes a "reduction to cost of products sold... related to cash refunds associated with prior periods raw materials procurement costs" ("reduction to cost of products sold in the amount of $130 million related to cash refunds"), suggesting some retrospective relief on input costs, but does not comment on current lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Nucor is pursuing a growth strategy through continued investment in capacity and diversification ("execute our growth strategy through investments to expand our capabilities and strengthen our position as the market leader"). Specific project costs were not disclosed in the release.

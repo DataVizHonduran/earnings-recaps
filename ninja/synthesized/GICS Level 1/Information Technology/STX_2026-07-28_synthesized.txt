@@ -1,0 +1,22 @@
+Ticker: STX
+Source: STX_2026-07-28.txt
+Generated: 2026-09-07 18:52 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Seagate Technology (STX)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by significant growth in the cloud sector. Annual revenue grew 34% ("grew annual revenue 34%"), driven primarily by "robust cloud data center demand." Management expects this momentum to persist into 2027, citing "durable long-term demand for mass capacity storage" fueled by AI-driven data generation and "strengthening exabyte demand."
+
+**2. Labor & Wages**
+Not addressed. The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is experiencing strong pricing power or favorable product mix, as evidenced by a moderate to robust expansion in margins. GAAP gross margins increased from 37.4% in FQ4 2025 to 52.3% in FQ4 2026 ("GAAP gross margin of 52.3%"). There is minimal expected pressure from external macroeconomic shocks, with "minimal expected impact from global tariff policies and or the current conflict in the Middle East."
+
+**4. Supply Chain & Inventory**
+Inventory levels appear stable with a slight increase. Net inventories rose from $1.44 billion to $1.57 billion year-over-year ("Inventories, net $1,571 [vs] $1,440"). The company notes an ongoing focus on the "ability to optimize our level of production and meet market and industry expectations."
+
+**5. Capital Spending (Capex)**
+Investment in technology and capacity is ongoing, with a focus on next-generation storage platforms. The company is prioritizing the "Mozaic platform and differentiated HAMR technology roadmap" to enable customer scaling. This is reflected in a moderate increase in net property, equipment, and leasehold improvements, which rose to $2.03 billion from $1.66 billion ("Property, equipment and leasehold improvements, net $2,034 [vs] $1,657").

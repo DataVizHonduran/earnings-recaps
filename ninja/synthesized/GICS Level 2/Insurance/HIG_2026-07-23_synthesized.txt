@@ -1,0 +1,22 @@
+Ticker: HIG
+Source: HIG_2026-07-23.txt
+Generated: 2026-09-07 18:46 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: The Hartford (HIG)**
+
+**1. Demand & Activity**
+Demand is showing moderate growth across commercial and benefits lines, though consumer-facing segments are softening. Business Insurance saw modest growth with written premiums increasing 5% ("Business Insurance premium growth of 5%"). Employee Benefits also experienced moderate growth in fully insured ongoing premiums of 5% ("Employee Benefits fully insured ongoing premium growth of 5%"). Conversely, Personal Insurance activity was constrained by a "competitive market" ("growth was impacted by a competitive market").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is maintaining pricing discipline, though it is facing some persistent pressure in specific loss categories. While overall premiums are rising, there is evidence of increasing costs in the commercial sector, specifically regarding "general liability and commercial auto liability reserves" ("partially offset by an increase in general liability and commercial automobile reserves"). Additionally, the Employee Benefits segment is seeing pressure from "an increase in the group disability loss ratio" ("driven by an increase in the group disability loss ratio").
+
+**4. Supply Chain & Inventory**
+Not applicable to this business model.
+
+**5. Capital Spending (Capex)**
+The company is actively investing in digital transformation and operational efficiency. Management highlighted ongoing investments in "technology, data, artificial intelligence and customer-focused risk insights" to strengthen its competitive position. These investments are partially reflected in the Employee Benefits segment, which noted "higher technology costs" as an offset to lower commissions ("partially offset by higher technology costs").

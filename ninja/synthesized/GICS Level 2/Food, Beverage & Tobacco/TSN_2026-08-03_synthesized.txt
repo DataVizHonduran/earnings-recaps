@@ -1,0 +1,22 @@
+Ticker: TSN
+Source: TSN_2026-08-03.txt
+Generated: 2026-09-07 18:53 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Tyson Foods (TSN)**
+
+**1. Demand & Activity**
+Demand is mixed across protein lines. Chicken and Prepared Foods show robust activity, with the former achieving "seven consecutive quarters of growth" ("fueled by continued strength in our Chicken and Prepared Foods segments"). Conversely, Beef demand appears softening, with quarterly volumes declining significantly ("Beef... Volume Change (15.9)%"). International activity is also softening, with quarterly volumes down ("International... Volume Change (3.5)%").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, wage increases, or headcount reductions.
+
+**3. Pricing Power & Inflation**
+The company is exercising moderate pricing power across most segments to offset volume declines or support growth. Average prices increased in Beef (12.1%), Chicken (2.2%), and Prepared Foods (1.6%) for the quarter. International pricing saw a more robust increase ("International... Avg. Price Change 11.4%"). Pork pricing remained stable, showing a slight decline ("Pork... Avg. Price Change (0.3)%").
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory levels. However, it notes a general outlook for domestic protein production to increase by approximately 1% in fiscal 2026 ("USDA indicates domestic protein production... will increase approximately 1%").
+
+**5. Capital Spending (Capex)**
+Capex plans are stable, with projected investments between $0.7 billion and $0.9 billion for fiscal 2026 ("We expect capital expenditures of $0.7 billion to $0.9 billion"). These funds are earmarked for "profit improvement projects as well as projects for maintenance and repairs."

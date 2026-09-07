@@ -1,0 +1,22 @@
+Ticker: SYF
+Source: SYF_2026-08-17.txt
+Generated: 2026-09-07 18:52 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Analysis: Synchrony Financial (SYF)**
+
+**1. Demand & Activity**
+Loan demand appears **stable to modestly growing**. Period-end loan receivables have trended upward over the last quarter, rising from $100.1 billion in March 2026 to $102.6 billion in July 2026 ("Period-end loan receivables $ 102.6... $ 100.1"). However, credit quality shows signs of **softening**; while the 30+ delinquency rate has remained relatively stable around 4.2% to 4.7%, the adjusted net charge-off rate peaked at 5.8% in early 2026 before moderating to 4.9% by July 2026 ("Adjusted net charge-off rate... 5.8% [Feb/Mar]... 4.9% [Jul]").
+
+**2. Labor & Wages**
+Not addressed in the provided data.
+
+**3. Pricing Power & Inflation**
+Not addressed in the provided data.
+
+**4. Supply Chain & Inventory**
+Not applicable.
+
+**5. Capital Spending (Capex)**
+Not addressed in the provided data.

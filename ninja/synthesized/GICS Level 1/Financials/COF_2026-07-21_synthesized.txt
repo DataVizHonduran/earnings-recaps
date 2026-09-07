@@ -1,0 +1,22 @@
+Ticker: COF
+Source: COF_2026-07-21.txt
+Generated: 2026-09-07 18:42 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Capital One Financial Corp (Q2 2026)**
+
+**1. Demand & Activity**
+Demand for credit is showing modest growth across most product lines. Total loans held for investment increased by 2% ("period-end loans held for investment in the quarter increased $9.4 billion, or 2 percent"). Growth was most robust in the Consumer Banking and Auto sectors, both seeing a 4% increase in period-end loans ("Consumer Banking period-end loans increased $3.6 billion, or 4 percent"; "Auto period-end loans increased $3.6 billion, or 4 percent"). Credit card demand remained stable, with a slight 2% increase in period-end balances ("Credit Card period-end loans increased $4.9 billion, or 2 percent").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is experiencing modest improvements in yield, with the net interest margin increasing by 14 basis points ("Net interest margin of 8.01 percent, an increase of 14 basis points"). There is evidence of softening funding costs, as the rate paid on interest-bearing deposits decreased ("Interest-bearing deposits rate paid decreased 9 basis points to 2.91 percent").
+
+**4. Supply Chain & Inventory**
+Not applicable to this financial services entity.
+
+**5. Capital Spending (Capex)**
+While specific facility spending is not detailed, the company is incurring moderate expenses related to technology and business integration. Significant outlays are being directed toward the integration of Discover and Brex ("Discover integration expenses $298 [million]"; "Brex integration expenses $96 [million]"). The company continues to emphasize its position as a "technology-based financial services company" having migrated "entirely to the public cloud."

@@ -1,0 +1,22 @@
+Ticker: FIS
+Source: FIS_2026-08-04.txt
+Generated: 2026-09-07 18:45 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: FIS (Q2 2026)**
+
+**Demand & Activity**
+Demand for financial technology modernization is robust, particularly among banking clients. Management notes that "Banks are investing decisively behind modernization and AI" ("Banks are investing decisively behind modernization and AI"). Activity is strongest in the Banking Solutions segment, which saw moderate pro forma revenue growth of 6.1% ("Pro Forma basis, revenue increased 6.1%"), while Capital Market Solutions experienced slight growth of 3.2% ("increased by 3.5% on a GAAP basis and 3.2% on an adjusted basis").
+
+**Labor & Wages**
+Labor costs are exerting modest upward pressure on margins in specific business lines. In the Capital Market Solutions segment, EBITDA margins contracted slightly, "reflecting higher labor costs" ("reflecting higher labor costs and the timing of certain customer-related expenses").
+
+**Pricing Power & Inflation**
+The company is experiencing expanding margins, though this is attributed more to "favorable revenue mix" and "cost savings" ("reflecting favorable revenue mix, and the impact of continued cost management") than explicit price hikes. There is no mention of commodity or freight inflation.
+
+**Supply Chain & Inventory**
+Not applicable. As a software and services provider, there are no mentions of physical supply chain constraints or inventory levels.
+
+**Capital Spending (Capex)**
+Investment is currently focused on inorganic growth and technology integration. The company recently completed the "Total Issuing Solutions acquisition" ("With the Total Issuing Solutions acquisition ahead of plan"). However, the company has "paused tuck-in M&A activity to accelerate deleveraging" ("paused tuck-in M&A activity to accelerate deleveraging") to reach a target gross leverage of 2.8x.

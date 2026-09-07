@@ -1,0 +1,25 @@
+Ticker: ICE
+Source: ICE_2026-07-30.txt
+Generated: 2026-09-07 18:47 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Intercontinental Exchange (ICE)**
+
+**1. Demand & Activity**
+Demand is generally **robust**, characterized by "record open interest across our exchange complex" ("record open interest across our exchange complex"). Growth is uneven across product lines:
+*   **Strong Growth:** Financials (+21%), Ags and Metals (+35%), and Cash Equities/Options (+15%) saw significant increases.
+*   **Softening:** Energy revenues declined moderately (-13% constant currency).
+*   **Stable/Modest:** Mortgage technology showed modest growth (+5%), with a notable increase in transaction revenues (+11%).
+
+**2. Labor & Wages**
+Labor costs are **stable to slightly increasing**. Compensation and benefits expenses rose from $499 million in 2Q25 to $509 million in 2Q26 ("Compensation and benefits... 509 [vs] 499"). There were no specific mentions of hiring difficulties or headcount reductions.
+
+**3. Pricing Power & Inflation**
+The company demonstrates **moderate** pricing power, particularly in recurring revenue streams. Recurring revenues grew 8% overall, with specific strength in Fixed Income Data and Analytics (+9%) and Data and Network Technology (+11%). There is no mention of input cost relief or inflationary pressure on operating expenses.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a financial technology and data provider, ICE does not report physical supply chain lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment in technology and capacity remains **robust**. The company is "continuing to invest across the platform" ("continuing to invest across the platform") and has projected 2026 capital expenditures of approximately $850 million ("2026 Capital Expenditures ~$850 million").

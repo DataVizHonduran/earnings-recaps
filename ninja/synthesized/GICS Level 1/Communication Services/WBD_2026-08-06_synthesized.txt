@@ -1,0 +1,31 @@
+Ticker: WBD
+Source: WBD_2026-08-06.txt
+Generated: 2026-09-07 18:54 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Warner Bros. Discovery (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is mixed, characterized by robust growth in digital streaming offset by softening in traditional linear and theatrical segments.
+*   **Streaming:** Robust growth in global subscribers and expansion into new markets ("dynamic underlying growth in global streaming subscribers").
+*   **Linear TV:** Softening demand, specifically a "10% decrease in domestic linear pay TV subscribers" and "17% domestic audience declines."
+*   **Studios:** Softening theatrical demand ("Theatrical revenue decreased 46% ex-FX"), though gaming activity is robust ("Games revenue increased 45% ex-FX").
+*   **Advertising:** Softening overall, though ad-lite streaming is growing; however, the absence of the NBA created a significant headwind ("negatively impacted the year-over-year growth rate by 20% ex-FX").
+
+**2. Labor & Wages**
+The report does not explicitly detail wage inflation or hiring difficulties, but indicates a trend toward headcount or overhead reduction.
+*   **Overhead:** Modest reductions in corporate and linear costs ("primarily driven by lower overhead costs").
+
+**3. Pricing Power & Inflation**
+The company demonstrates slight pricing power in the linear space, though it is insufficient to offset volume declines.
+*   **Pricing:** Slight increase in domestic affiliate rates ("partially offset by a 1% increase in domestic affiliate rates").
+*   **Input Costs:** No specific mention of commodity or energy inflation; however, international expansion is driving higher content costs ("higher international content costs to support HBO Max launches").
+
+**4. Supply Chain & Inventory**
+Not applicable. (The company operates in digital/content services; no physical inventory or lead-time data provided).
+
+**5. Capital Spending (Capex)**
+Capital expenditures remain stable, with a strategic shift toward content investment.
+*   **Facilities/Tech:** Capex for property and equipment was stable, decreasing slightly by 2% ("Purchases of property and equipment (276) [vs] (281)").
+*   **Content Investment:** Increased spending on intellectual property ("Free cash flow was... primarily driven by higher net content investment").

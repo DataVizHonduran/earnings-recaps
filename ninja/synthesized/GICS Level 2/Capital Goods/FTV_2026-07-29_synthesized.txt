@@ -1,0 +1,22 @@
+Ticker: FTV
+Source: FTV_2026-07-29.txt
+Generated: 2026-09-07 18:45 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Fortive Corp (FTV)**
+
+**1. Demand & Activity**
+Demand is showing **robust** growth, with core revenue accelerating to 6.7% ("Core revenue growth accelerated to 6.7%"). Activity is strongest in the Intelligent Operating Solutions segment, which saw a moderate increase in core revenue to 7.4% ("Intelligent Operating Solutions... 7.4% (reported core)"), while Advanced Healthcare Solutions experienced more modest growth at 5.3% ("Advanced Healthcare Solutions... 5.3% (reported core)"). Management attributes this trajectory to "investments in innovation acceleration, commercial acceleration, and recurring customer value."
+
+**2. Labor & Wages**
+The provided text contains no specific data on current hiring trends, wage inflation, or headcount reductions. However, the company lists the "ability to recruit and retain key employees" and "labor matters" as general risk factors in its forward-looking statements.
+
+**3. Pricing Power & Inflation**
+The company is demonstrating **robust** pricing power and operational efficiency, evidenced by a significant expansion in GAAP net earnings margins from 11.0% to 14.3% ("GAAP net earnings margin of 14.3%... up 330 bps"). While "commodity costs and surcharges" are noted as general risk factors, the current financial results suggest these are being effectively managed or offset.
+
+**4. Supply Chain & Inventory**
+Current state is not explicitly detailed in the results; however, the company identifies "supply chain constraints" and the "reliance on sole sources of supply" as ongoing systemic risks to its operations.
+
+**5. Capital Spending (Capex)**
+Fortive is maintaining a strategy of "disciplined capital allocation" ("commitment to disciplined capital allocation with a focus on best relative returns"). While specific facility spend is not quantified, the company is actively investing in "innovation acceleration" and "commercial acceleration" to drive its medium-term growth framework.

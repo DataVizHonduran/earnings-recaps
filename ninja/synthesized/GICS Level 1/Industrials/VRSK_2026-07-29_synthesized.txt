@@ -1,0 +1,22 @@
+Ticker: VRSK
+Source: VRSK_2026-07-29.txt
+Generated: 2026-09-07 18:54 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Verisk Analytics (VRSK)**
+
+**1. Demand & Activity**
+Demand is showing moderate growth, characterized by a "sequential acceleration" in revenue. Growth is robust in the claims segment, specifically driven by "anti-fraud analytics and property and restoration solutions." Underwriting demand is also expanding, supported by "selling expanded solutions to new and existing customers within catastrophe and risk solutions."
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage pressures. The company notes general "operational discipline" and "continued cost discipline" in managing the business.
+
+**3. Pricing Power & Inflation**
+The company demonstrates stable pricing power, reporting revenue increases "primarily due to an annual increase in prices" linked to enhancements in its models and content. While there is no mention of commodity or freight inflation, the company is experiencing persistent pressure from "higher net interest expense" and "increased legal fees."
+
+**4. Supply Chain & Inventory**
+Not applicable. As a data analytics and technology provider, the company does not report physical inventory or supply chain lead times.
+
+**5. Capital Spending (Capex)**
+Capex is increasing moderately, with quarterly expenditures up 22% year-over-year ($68.1 million vs $55.8 million). Investment is focused on technology and data, as the company continues to "invest in our proprietary datasets" and "invest at scale in advanced technologies, including AI."

@@ -1,0 +1,22 @@
+Ticker: FOXA
+Source: FOXA_2026-08-06.txt
+Generated: 2026-09-07 18:45 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Fox Corp (FOXA)**
+
+**1. Demand & Activity**
+Demand for advertising is robust, particularly in digital and event-driven segments, though traditional viewership shows mixed signals. Quarterly advertising revenue grew 78% ("primarily due to the current year broadcast of the FIFA Men's World Cup... and continued digital growth led by the Tubi AVOD service"). However, traditional cable demand is softening, as distribution growth was "partially offset by the impact of net subscriber declines."
+
+**2. Labor & Wages**
+Not addressed. The transcript contains no specific mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate pricing power in its distribution and advertising channels. Distribution revenue growth was supported by "contractual price increases" and "higher average rates at the Company's owned and operated television stations." Similarly, full-year cable advertising growth was driven in part by "higher news and sports pricing." Input costs are rising, specifically regarding content acquisition, with higher expenses attributed to "higher sports programming rights amortization and production costs."
+
+**4. Supply Chain & Inventory**
+Not applicable. As a media entity, there are no mentions of physical supply chain lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment is focused on digital transformation and inorganic growth. The company is expanding its technological footprint through the "launch of our direct-to-consumer streaming service, FOX One" and has announced a transformative "acquisition of Roku which will transform the scope and growth profile of our company."

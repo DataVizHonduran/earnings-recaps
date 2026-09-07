@@ -1,0 +1,22 @@
+Ticker: CINF
+Source: CINF_2026-07-27.txt
+Generated: 2026-09-07 18:42 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Cincinnati Financial Corp (CINF)**
+
+**1. Demand & Activity**
+Demand for insurance products is showing modest growth. Net written premiums increased 3% for the quarter and 5% for the first six months ("Consolidated net written premiums for the quarter and the first half of the year increased 3% and 5%, respectively"). However, there is a softening in new business acquisition, with agency new business written premiums declining 13% in Q2 ("$353 million second-quarter 2026 property casualty new business written premiums, down 13%"), driven specifically by the personal lines segment.
+
+**2. Labor & Wages**
+The report does not provide specific data on hiring, turnover, or wage levels. It notes that claims associates have been "busy" due to elevated catastrophe losses ("our field and headquarters claims associates have been busy"), but does not link this to labor shortages or cost increases.
+
+**3. Pricing Power & Inflation**
+The company is exercising moderate pricing power to offset costs. Growth in premiums is partially attributed to "price increases" ("3% growth in second-quarter net written premiums, including price increases"). In commercial lines, renewal pricing increases are characterized as being "near the high end of the low-single-digit percent range." The company remains disciplined, utilizing "data-driven analytics" to identify and "walk away from an account that is underpriced."
+
+**4. Supply Chain & Inventory**
+Not applicable. As a financial services provider, CINF does not report on physical supply chains or inventories.
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for technology or facility upgrades are not disclosed, the company is investing in geographic and product diversification to mitigate risk ("maturing of our plans to increase both product and geographic diversification"). The company is also expanding its distribution network, having appointed "more than 200 agencies" in the first half of 2026 to fuel future growth.

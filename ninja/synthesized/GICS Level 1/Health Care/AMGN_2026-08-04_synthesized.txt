@@ -1,0 +1,22 @@
+Ticker: AMGN
+Source: AMGN_2026-08-04.txt
+Generated: 2026-09-07 18:40 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Amgen Inc. (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is robust for growth-driver products, though softening in legacy lines. Total product sales grew 9% ("driven by volume growth"), with significant strength in General Medicine (Repatha +37%, EVENITY +38%) and Oncology (IMDELLTRA +115%). Conversely, demand is declining for Prolia (-32%) and XGEVA (-34%) as "multiple biosimilars have launched globally."
+
+**2. Labor & Wages**
+Not addressed. The report contains no specific mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+Pricing power is mixed and bifurcated by product lifecycle. The company is exercising moderate pricing power in Rare Disease (KRYSTEXXA +23% net selling price) and Established Products (+15% net selling price). However, pricing is softening for legacy inflammation and oncology drugs; Enbrel saw a "22% lower net selling price" attributed to "U.S. Medicare Part D price setting under the Inflation Reduction Act" and "increased 340B Program mix." Input costs show persistent pressure, as non-GAAP cost of sales increased due to "higher manufacturing costs" ("Cost of Sales as a percentage of product sales increased 1.9 percentage points").
+
+**4. Supply Chain & Inventory**
+Inventory levels appear to be normalizing or leaning, as evidenced by KRYSTEXXA sales being "partially offset by lower inventory levels." No mentions of lead time disruptions or bloated stockpiles.
+
+**5. Capital Spending (Capex)**
+Investment is focused on R&D and pipeline expansion. Research and Development expenses increased 10% on a non-GAAP basis, primarily driven by "higher spend in both Later-Stage Clinical Programs, primarily those related to MariTide" ("R D expenses increased 10%"). Specific facility or capacity capex figures were not detailed beyond the general calculation of free cash flow.

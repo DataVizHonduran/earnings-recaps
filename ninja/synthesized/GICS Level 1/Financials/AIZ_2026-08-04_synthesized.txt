@@ -1,0 +1,22 @@
+Ticker: AIZ
+Source: AIZ_2026-08-04.txt
+Generated: 2026-09-07 18:40 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Assurant, Inc. (AIZ)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by strong growth across primary business segments. Global Lifestyle is seeing significant momentum, particularly in mobile growth and "global supply chain and device protection programs" ("primarily driven by Connected Living growth from global supply chain volumes"). Global Housing activity is also growing, specifically within "specialty products and lender-placed" insurance ("primarily driven by Homeowners due to growth in specialty products and lender-placed").
+
+**2. Labor & Wages**
+The company is experiencing moderate upward pressure on labor costs. Corporate expenses have increased, specifically citing "higher employee-related expenses" ("mainly driven by higher employee-related expenses") as a primary driver for the increased Adjusted EBITDA loss in the Corporate and Other segment.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price hikes; however, the company is benefiting from favorable cost trends in specific areas. There is evidence of relief in reinsurance costs, which has contributed to growth in the housing segment ("benefitted from lower catastrophe reinsurance costs").
+
+**4. Supply Chain & Inventory**
+Supply chain activity is a positive driver of volume for the Global Lifestyle segment. The company specifically attributes earnings and revenue growth to "global supply chain and device protection programs" ("primarily driven by global mobile growth, including global supply chain and device protection programs").
+
+**5. Capital Spending (Capex)**
+Assurant is maintaining a strategy of moderate organic investment to expand capacity and capabilities. The company is prioritizing "organic investments to support our Home Warranty business" ("mainly driven by... organic investments to support our Home Warranty business") and intends to continue "funding organic investments and M&A" to support overall business growth.

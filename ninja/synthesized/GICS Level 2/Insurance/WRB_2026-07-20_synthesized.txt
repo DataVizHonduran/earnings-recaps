@@ -1,0 +1,22 @@
+Ticker: WRB
+Source: WRB_2026-07-20.txt
+Generated: 2026-09-07 18:54 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: W. R. Berkley Corporation (WRB)**
+
+**1. Demand & Activity**
+Demand for insurance products is growing modestly. The company reported record gross premiums written of $4.1 billion, with the Insurance segment specifically seeing growth in gross and net premiums written of 5.4% and 3.7%, respectively ("Insurance segment grew gross and net premiums written by 5.4% and 3.7%, respectively, to record levels"). Management notes continued "attractive opportunities across select liability lines."
+
+**2. Labor & Wages**
+Not addressed. The provided text contains no specific mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is exercising robust pricing power, focusing on "favorable pricing" to drive risk-adjusted returns ("By focusing on business that offers appropriate risk-adjusted returns and favorable pricing"). While general inflation is listed as a forward-looking risk, current results show strong underwriting performance with a reported combined ratio of 90.0%. Additionally, the company is benefiting from a higher interest rate environment, with net investment income growing 10.4% to a record $418.7 million ("Net investment income from fixed-maturity securities increased 11.9%, reflecting growth in invested assets and a higher portfolio yield").
+
+**4. Supply Chain & Inventory**
+Not applicable. As a financial services provider, the company does not report physical supply chain or inventory metrics.
+
+**5. Capital Spending (Capex)**
+No specific plans for capacity or facility investments were disclosed. The company is currently focused on "disciplined capital management," prioritizing the return of capital to shareholders via dividends and repurchases ("Total capital returned to shareholders was $334.1 million").

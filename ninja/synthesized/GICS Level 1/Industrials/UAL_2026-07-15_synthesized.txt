@@ -1,0 +1,22 @@
+Ticker: UAL
+Source: UAL_2026-07-15.txt
+Generated: 2026-09-07 18:53 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: United Airlines (UAL)**
+
+**1. Demand & Activity**
+Demand is **robust**, characterized by strong growth across all segments. Close-in demand remains particularly strong, with contracted business revenue increasing 27% ("Close-in demand remained robust with contracted business revenue up 27%"). Growth is broad-based: premium revenue rose 16%, Basic Economy 11%, and cargo 23% ("Premium revenue was up 16%... cargo revenue was up 23%"). The economy cabin is showing a **moderate** recovery with two consecutive quarters of positive unit revenue growth ("The economy cabin continues to recover with unit revenue up 12%").
+
+**2. Labor & Wages**
+The report does not explicitly detail wage increases or hiring difficulties, but notes **stable** operational execution during record-breaking volume ("United employees delivered for customers throughout the quarter, which included the 10 highest-volume passenger days in United history").
+
+**3. Pricing Power & Inflation**
+UAL demonstrates **robust** pricing power, with yields increasing 12% ("Yields were up 12% during the quarter, showing strong demand"). However, the company faces **significant** inflationary pressure from energy costs, anticipating a nearly $6 billion increase in fuel expenses for 2026 ("United expects nearly $6 billion in added fuel expense for full-year 2026"). The company is actively passing these costs to consumers, expecting to recover 80% to 90% of the increase by Q3 and 100% by Q4 ("In the third quarter the Company expects to recover approximately 80% to 90% of the increase, and 100% by the fourth quarter").
+
+**4. Supply Chain & Inventory**
+Supply chain signals are **stable**, with the company successfully taking delivery of new aircraft types ("Took delivery of United's first A321XLR aircraft").
+
+**5. Capital Spending (Capex)**
+Capex is focused on **moderate** capacity expansion and **robust** technology upgrades. Key investments include the rollout of Starlink connectivity, with nearly 1,000 aircraft expected to be equipped by year-end ("nearly 1,000 expected by year end"). The company is also funding new aircraft deliveries for the current and following year ("fund new aircraft deliveries this year and next") and investing in cabin enhancements like the "Relax Row" ("investing in customers throughout the aircraft, including the United Relax Row").

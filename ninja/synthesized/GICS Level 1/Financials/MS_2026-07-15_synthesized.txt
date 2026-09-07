@@ -1,0 +1,22 @@
+Ticker: MS
+Source: MS_2026-07-15.txt
+Generated: 2026-09-07 18:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Morgan Stanley (2Q 2026)**
+
+**1. Demand & Activity**
+Demand is **robust** across primary business lines. Institutional Securities saw **moderate to strong** growth in Investment Banking, specifically via higher M&A transactions in the Americas ("Advisory revenues increased... particularly in the Americas") and increased IPO/follow-on activity ("higher IPOs, follow-on offerings and convertibles"). Equity activity was **robust** globally, with "notable strength in Asia" driven by "favorable market conditions." Wealth Management experienced **robust** growth in client engagement, adding record net new assets of $148 billion ("Wealth Management added a record $148 billion in net new assets").
+
+**2. Labor & Wages**
+The firm reports **moderate** increases in labor costs, though these are tied to performance rather than systemic wage inflation. Compensation expenses rose in Institutional Securities and Wealth Management, primarily "driven by higher revenues" and "higher compensable revenues," respectively. Conversely, Investment Management saw a **slight** decrease in compensation due to "lower compensation associated with carried interest."
+
+**3. Pricing Power & Inflation**
+The firm demonstrates **stable** pricing power through fee-based structures. Revenue growth was driven by "strong asset management fees" and "higher average AUM." While not explicitly discussing commodity inflation, the firm noted **moderate** pressure from "higher execution-related expenses" and "higher brokerage and clearing expenses."
+
+**4. Supply Chain & Inventory**
+Not applicable. (The firm operates in financial services; no physical supply chain or inventory signals reported).
+
+**5. Capital Spending (Capex)**
+Investment in technology is **moderate and ongoing**. The firm cited increased "technology spend" as a driver for higher non-compensation expenses in both Wealth Management and Investment Management. Management indicated a commitment to "invest in our core businesses" using accreted capital to maintain "incremental flexibility."

@@ -1,0 +1,22 @@
+Ticker: DHI
+Source: DHI_2026-07-21.txt
+Generated: 2026-09-07 18:44 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: D.R. Horton (DHI)**
+
+**1. Demand & Activity: Softening**
+New home demand is being pressured by "affordability constraints and cautious consumer sentiment" ("affordability constraints and cautious consumer sentiment continue to impact new home demand"). While home closures saw a modest increase of 4% year-over-year, net sales orders remained flat ("Net sales orders... flat with the same quarter of fiscal 2025"). Additionally, the cancellation rate has increased slightly to 20%, up from 17% in the prior year ("cancellation rate... for the quarter was 20% compared to 17% in the prior year quarter").
+
+**2. Labor & Wages: Not Addressed**
+The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation: Softening**
+The company is experiencing limited pricing power, relying on increased incentives to drive volume. Management expects "sales incentives to remain elevated during the fourth quarter" ("we expect sales incentives to remain elevated during the fourth quarter"). While specific commodity costs were not detailed, the homebuilding pre-tax profit margin decreased 10% year-over-year ("Homebuilding pre-tax income decreased 10%").
+
+**4. Supply Chain & Inventory: Stable**
+Inventory levels appear managed, though a portion of the stock is aging. The company holds 38,000 total homes in inventory, with 23,300 unsold ("At quarter end, the Company had 38,000 homes in inventory, of which 23,300 were unsold"). A small fraction of completed inventory has been held for over six months ("600 that had been completed for greater than six months").
+
+**5. Capital Spending (Capex): Stable**
+The company is maintaining a "balanced approach to capital allocation" ("Consistent with our balanced approach to capital allocation"). There are no specific mentions of new capacity expansions or technology investments, with a primary focus on "disciplined capital allocation" ("We remain focused on disciplined capital allocation").

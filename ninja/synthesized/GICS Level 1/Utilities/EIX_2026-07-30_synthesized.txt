@@ -1,0 +1,22 @@
+Ticker: EIX
+Source: EIX_2026-07-30.txt
+Generated: 2026-09-07 18:44 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Edison International (EIX)**
+
+**1. Demand & Activity**
+Demand signals are stable, though the company notes potential risks regarding "lower than expected load growth" ("impact of lower than expected load growth... which could affect SCE’s ability to obtain regulatory approval"). Activity is currently focused on "wildfire mitigation" and "electrification needs" to maintain system integrity.
+
+**2. Labor & Wages**
+The company identifies a persistent need to "attract, manage, develop and retain a skilled workforce," specifically highlighting the importance of both internal employees and "contract workers" ("ability of Edison International and SCE to effectively attract, manage, develop and retain a skilled workforce, including its contract workers").
+
+**3. Pricing Power & Inflation**
+Pricing is driven by regulatory decisions rather than market fluctuations, with recent earnings growth attributed to the "adoption of the 2025 GRC final decision" ("primarily due to the adoption of the 2025 GRC final decision in the third quarter of 2025"). However, the company notes persistent pressure from "inflation, and rising interest rates" which may impact cost recovery.
+
+**4. Supply Chain & Inventory**
+Supply chain conditions remain a point of concern, with the company citing "supply chain constraints" and the "availability and cost of spare parts" as ongoing risks to the execution of its strategic plans ("factors such as supply chain constraints... availability and cost of spare parts").
+
+**5. Capital Spending (Capex)**
+Capex is robust and targeted, with significant investment directed toward "wildfire mitigation" and "grid infrastructure" ("directing mitigation to areas where it can provide the greatest safety benefit"). Future spending is tied to the "capital investment program" and the "ability to update its grid infrastructure to... meet electrification needs."

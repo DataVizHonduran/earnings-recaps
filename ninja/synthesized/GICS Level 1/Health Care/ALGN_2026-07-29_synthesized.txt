@@ -1,0 +1,22 @@
+Ticker: ALGN
+Source: ALGN_2026-07-29.txt
+Generated: 2026-09-07 18:40 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Align Technology (ALGN)**
+
+**1. Demand & Activity**
+Demand for clear aligners is growing moderately, with volume increasing 7.4% year-over-year ("record Clear Aligner shipments of 691.8 thousand increased 7.4% year-over-year"). This growth is bifurcated by geography: robust double-digit expansion in APAC, EMEA, and Latin America, contrasted with stable performance in North America ("driven by continued double-digit expansion across APAC, EMEA, and Latin America, together with stable performance in North America"). Conversely, demand for capital equipment is softening ("reflecting softness in the capital equipment market"), leading to a 10.8% decline in Systems and Services revenues.
+
+**2. Labor & Wages**
+Not addressed. The transcript contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is experiencing a mix of pricing dynamics. Clear Aligner Average Selling Prices (ASPs) exceeded internal expectations ("Clear Aligner ASPs... exceeded our expectations"). However, in the hardware segment, there is a deliberate shift toward lower-priced options to maintain adoption ("reflecting... a mix shift toward lower-priced scanners and flexible acquisition models"). Gross margins improved modestly on a non-GAAP basis, up 1.8 points year-over-year, though results were slightly dampened by foreign exchange headwinds ("unfavorably impacted by foreign exchange by approximately 0.8 points year-over-year").
+
+**4. Supply Chain & Inventory**
+Not addressed. The transcript contains no specific data regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+The company is prioritizing investment in digital innovation and business model flexibility over traditional hardware sales. This includes a strategic pivot toward leasing and rental programs to lower the barrier to entry for customers ("transition toward lease and rental models that increase access to care"). Management indicates a continued commitment to investing in "innovation, support our customers, and return capital to shareholders" via a strong balance sheet.

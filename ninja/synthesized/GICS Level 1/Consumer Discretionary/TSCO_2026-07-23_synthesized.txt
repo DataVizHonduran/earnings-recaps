@@ -1,0 +1,22 @@
+Ticker: TSCO
+Source: TSCO_2026-07-23.txt
+Generated: 2026-09-07 18:53 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Tractor Supply Co. (TSCO)**
+
+**1. Demand & Activity: Softening**
+Overall demand is softening, evidenced by a 1.5% decrease in comparable store sales ("Comparable Store Sales Decreased 1.5%"). Activity is bifurcated by product type: "needs-based businesses continue to perform well" and consumables remain "resilient," while discretionary and "big-ticket items" saw softness, particularly in May ("May results were pressured by softness in seasonal categories, including big-ticket items"). The companion animal segment is underperforming the company average ("companion animal continued to perform below the Company average").
+
+**2. Labor & Wages: Stable/Not Disclosed**
+The report does not specify wage increases or hiring difficulties, though it notes a general increase in SG&A expenses partly due to "higher medical claims" ("higher medical claims and legal settlement expenses").
+
+**3. Pricing Power & Inflation: Moderate Pressure**
+The company is actively managing its "price-value position" to maintain competitiveness ("incremental investments to strengthen the Company's price-value position"). While facing "higher freight expense," these costs were more than offset by "disciplined product cost management and tariff-related benefits" ("primarily attributable to disciplined product cost management and tariff-related benefits that more than offset higher freight expense").
+
+**4. Supply Chain & Inventory: Mixed/Restructuring**
+While general lead times are not mentioned, the company is aggressively right-sizing its footprint in the pet sector, including an inventory write-down of $5.9 million linked to the "planned closure of approximately 75 Petsense stores" ("inventory write-down of $5.9 million related to the planned closure of approximately 75 Petsense stores").
+
+**5. Capital Spending (Capex): Moderate/Strategic**
+Investment remains focused on physical expansion and strategic acquisitions. The company opened 28 new Tractor Supply stores and three Petsense stores in Q2 ("opened 28 new Tractor Supply stores and three new Petsense by Tractor Supply stores"). Additionally, the company is "evaluating where we allocate capital and resources" to improve productivity ("evaluating where we allocate capital and resources and making disciplined choices").

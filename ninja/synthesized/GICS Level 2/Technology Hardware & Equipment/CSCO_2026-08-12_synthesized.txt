@@ -1,0 +1,22 @@
+Ticker: CSCO
+Source: CSCO_2026-08-12.txt
+Generated: 2026-09-07 18:43 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Cisco Systems (CSCO)**
+
+**1. Demand & Activity**
+Demand is **robust** and expanding, characterized by a "networking supercycle" ("Broad-based, record high demand for Cisco technology with a networking supercycle underway"). Growth is broad-based across all geographies, with Q4 revenue increases in the Americas (18%), EMEA (19%), and APJC (14%). Product-line demand is particularly strong in Networking, which grew 40% year-over-year in Q4 ("Networking product orders grew 40% year over year in Q4"). There is significant momentum in AI infrastructure, with $9.3 billion in orders for FY 2026 ("Significant momentum and raised expectations for AI infrastructure from hyperscalers").
+
+**2. Labor & Wages**
+The company reports **robust** productivity gains. While specific wage data is absent, the firm achieved its highest efficiency levels in three decades ("Cisco achieved its highest productivity metrics in 30 years measured by revenue, non-GAAP operating margin, and earnings per employee").
+
+**3. Pricing Power & Inflation**
+The company is demonstrating **moderate** pricing power or favorable mix, as evidenced by an increase in GAAP total gross margin from 63.2% to 64.1% in Q4 ("Total gross margin... 64.1%... as compared with 63.2%"). There is no specific mention of input cost pressures or commodity relief.
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Cisco is maintaining a focus on **moderate** strategic investments to support future growth ("make the strategic investments to capitalize on the significant growth opportunities we see ahead"). The company continues to expand its capabilities through targeted acquisitions in the observability and security sectors ("closed the acquisitions Galileo Technologies, Inc... [and] Astrix Securities Ltd").

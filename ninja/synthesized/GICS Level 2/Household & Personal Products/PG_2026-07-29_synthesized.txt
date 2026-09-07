@@ -1,0 +1,22 @@
+Ticker: PG
+Source: PG_2026-07-29.txt
+Generated: 2026-09-07 18:50 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Procter & Gamble (PG)**
+
+**1. Demand & Activity**
+Demand is generally **stable to softening**. Organic sales for the April-June quarter were unchanged ("Organic sales... were unchanged versus the prior year"). Activity varies by segment: Beauty saw **robust** growth driven by volume in Asia Pacific and Europe ("Hair Care organic sales increased mid-single digits driven by volume growth"), while Health Care and Baby, Feminine and Family Care experienced **modest** declines ("Oral Care organic sales decreased mid-single digits driven by a volume decline").
+
+**2. Labor & Wages**
+The company is actively pursuing headcount and overhead reductions as part of a broader restructuring effort to improve cost structures ("productivity savings, which includes reductions across marketing and overhead costs"). There are significant non-core restructuring costs associated with streamlining the organization ("expects to incur non-core restructuring costs of approximately $1 to $1.6 billion").
+
+**3. Pricing Power & Inflation**
+Pricing power remains **modest** and is being used selectively to offset costs or drive innovation ("one percent increase from higher pricing"). However, the company faces persistent inflationary pressure. Management anticipates a **moderate** headwind for fiscal 2027 due to rising input costs ("estimate a headwind of approximately $1 billion after-tax driven by higher raw materials, energy and transportation costs"). Recent quarterly margins were pressured by "higher commodity costs" (40 basis points).
+
+**4. Supply Chain & Inventory**
+The report does not provide specific lead-time data, but indicates a focus on "integrated execution" to maintain value. The company is leveraging a "strong productivity program" to fund investments and offset volatility in the geopolitical and economic environment.
+
+**5. Capital Spending (Capex)**
+Capex remains **stable**, with planned investments focused on capacity and technology to support growth. For fiscal 2027, capital spending is projected to be a consistent percentage of revenue ("estimated to be in the range of four and a half to five and a half percent of fiscal 2027 net sales").

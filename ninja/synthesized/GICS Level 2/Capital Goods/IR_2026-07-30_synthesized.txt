@@ -1,0 +1,22 @@
+Ticker: IR
+Source: IR_2026-07-30.txt
+Generated: 2026-09-07 18:47 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Ingersoll Rand (IR)**
+
+**1. Demand & Activity**
+Demand is showing modest to robust growth, though performance varies by sector and region. Life Sciences experienced "low double-digit growth," while Precision Technologies saw "mid single-digit growth." Industrial activity is mixed; while there was "healthy compressor activity particularly in North America," this was offset by "the timing of long cycle project orders in the blower and vacuum business in Europe" and "ongoing impact from the Middle East." Overall organic order growth for the Industrial Technologies and Services segment remained "approximately flat."
+
+**2. Labor & Wages**
+The provided text contains no specific data on current wage trends, hiring difficulty, or headcount changes, though the company notes a general risk regarding the "ability to retain and hire key personnel."
+
+**3. Pricing Power & Inflation**
+Pricing power appears limited in certain markets, with the company facing "challenges in offsetting inflationary impacts with price primarily in China." This contributed to a decline in Adjusted EBITDA margins for the Industrial Technologies and Services segment.
+
+**4. Supply Chain & Inventory**
+The transcript does not provide specific commentary on lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capital investment remains stable and disciplined. The company reported investing "$27 million in capital expenditures" during the second quarter and has set full-year guidance for CAPEX at "2% of sales." Additionally, the company is pursuing inorganic growth through M&A, including the acquisition of "Fai Filtri s.r.l." and a "U.S.-based blower manufacturer."

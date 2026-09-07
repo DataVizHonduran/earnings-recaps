@@ -1,0 +1,22 @@
+Ticker: WSM
+Source: WSM_2026-08-26.txt
+Generated: 2026-09-07 18:55 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Williams-Sonoma, Inc. (WSM)**
+
+**1. Demand & Activity**
+Demand is robust, with the company reporting strong growth across all brands and channels. Management indicates they are gaining market share and outperforming the broader industry despite headwinds in the housing market ("comp came in at 6.2%," "delivering compounding results despite the housing market").
+
+**2. Labor & Wages**
+Labor costs are showing modest improvement through efficiency. The company reported "employment expense leverage" contributing to a decrease in the SG&A rate ("employment expense leverage... of -120bps" on a non-GAAP basis). There were no mentions of hiring difficulties or headcount reductions, though a one-time discretionary 401(k) contribution was made to employees.
+
+**3. Pricing Power & Inflation**
+The company is facing persistent inflationary pressure from trade policy, specifically tariffs, which have moderately compressed merchandise margins ("lower merchandise margins of -230bps primarily driven by tariff costs"). While the company received a significant one-time windfall from IEEPA tariff refunds, the forward-looking outlook assumes that "all tariffs currently in place will remain" and that "oil prices will remain elevated."
+
+**4. Supply Chain & Inventory**
+Inventory levels remain stable and lean, with only a slight increase year-over-year ("Merchandise inventories +1.0% to the second quarter LY"). The company noted modest gains from "supply chain efficiencies" (+30bps) contributing to gross margins.
+
+**5. Capital Spending (Capex)**
+The provided text does not specify new facility investments or technology spending; however, the company maintains a "strong liquidity position of $1.0 billion in cash" to support ongoing operations and stockholder returns.

@@ -1,0 +1,22 @@
+Ticker: TGT
+Source: TGT_2026-08-19.txt
+Generated: 2026-09-07 18:52 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Target Corp (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is showing moderate growth, with net sales increasing 5.3% ("net sales grew 5.3 percent over last year"). Activity is broad-based across demographics and categories, though digital demand is growing more robustly than in-store activity ("Digital comparable sales grew 8.7 percent" vs. store growth of "2.7 percent"). Specific strength was noted in "Fun 101" (double-digit growth) and "Food Beverage and Beauty" (high single-digit growth).
+
+**2. Labor & Wages**
+Labor costs are experiencing modest upward pressure. The company reported an increase in SG&A expenses driven by "higher compensation costs, including additional hours for field teams and higher incentive compensation."
+
+**3. Pricing Power & Inflation**
+The company is exhibiting limited pricing power, opting instead to lower prices to maintain competitiveness and attract value-seeking consumers ("lowered prices on more than 10,000 items over the past year"). However, the company received a significant one-time relief from input costs via "tariff refund benefits of $1.65" per share, which substantially boosted gross margins.
+
+**4. Supply Chain & Inventory**
+Inventory levels appear stable to slightly elevated, increasing from $12.88 billion to $13.25 billion year-over-year. The company noted that current margin expansion reflects a favorable comparison against "last year's elevated markdowns and purchase order cancellation costs," suggesting a normalization of supply chain volatility.
+
+**5. Capital Spending (Capex)**
+Capital investment is robust and accelerating. Second quarter capex was $1.4 billion, a 27% increase over the prior year ("27 percent higher than last year"), primarily directed toward "increased investments in store remodels and new stores."

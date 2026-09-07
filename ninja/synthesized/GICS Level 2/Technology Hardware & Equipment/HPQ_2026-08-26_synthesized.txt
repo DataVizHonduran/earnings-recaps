@@ -1,0 +1,22 @@
+Ticker: HPQ
+Source: HPQ_2026-08-26.txt
+Generated: 2026-09-07 18:46 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: HP Inc. (Q3 FY26)**
+
+**1. Demand & Activity**
+Demand is mixed but showing robust growth in high-end segments. Personal Systems revenue grew moderately (up 18%), driven by strong gains in Commercial PS (up 22%) and Consumer PS (up 10%), specifically within "premium products" and "AI PCs" ("increased both total sales and share in premium products"). However, unit volumes are softening significantly, with total PS units down 16% ("Consumer PS units down 19% and Commercial PS units down 14%"). Printing demand is slightly declining, with net revenue down 2% ("Consumer Printing net revenue was down 2% and Commercial Printing net revenue was down 1%").
+
+**2. Labor & Wages**
+Not addressed.
+
+**3. Pricing Power & Inflation**
+The company is experiencing persistent cost pressures but is utilizing strategic offsets. Management noted the need to "navigate through a challenging cost environment" and is working to "mitigate near-term cost pressures" ("building on that momentum to further mitigate near-term cost pressures"). There is a noted reliance on "tariff refunds" to bolster current EPS ("inclusive of an $0.11 favorable impact from tariff refunds").
+
+**4. Supply Chain & Inventory**
+Inventory levels remain stable, while specific component constraints are easing. Inventory ended the quarter "flat quarter over quarter at 73 days" ("Inventory ended the quarter at $10.3 billion, flat quarter over quarter"). There have been "meaningful improvements in memory supply and higher fulfillment rates" resulting from strategies to address "environmental constraints" ("led to meaningful improvements in memory supply").
+
+**5. Capital Spending (Capex)**
+Investment remains modest and focused on long-term growth and technology. The company reported net investments in property, plant, equipment, and purchased intangibles of $187 million ("net investments in property, plant, equipment and purchased intangibles of $187 million") as it continues to "invest for long-term profitable growth" ("continuing to invest for long-term profitable growth").

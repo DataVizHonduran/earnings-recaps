@@ -1,0 +1,22 @@
+Ticker: MRNA
+Source: MRNA_2026-07-31.txt
+Generated: 2026-09-07 18:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Moderna, Inc. (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is mixed and transitioning. COVID-19 vaccine demand is softening in the U.S. and South America ("Lower COVID vaccine sales in the U.S. and South America"), though this was modestly offset by government partnerships in the UK and new procurement contracts in the EU ("joint procurement contract with the European Commission... for up to 24 million doses"). The company is pivoting toward a multi-product portfolio to drive a targeted "up to 10% revenue growth" for 2026.
+
+**2. Labor & Wages**
+Not explicitly detailed; however, the company reports a moderate reduction in overhead, noting "continued discipline across the organization" as SG&A expenses decreased by 6% year-over-year.
+
+**3. Pricing Power & Inflation**
+The report does not mention price increases. However, there is evidence of improving operational efficiency and cost relief in production, with cost of sales decreasing 22% due to "continued manufacturing productivity improvements and operational efficiencies."
+
+**4. Supply Chain & Inventory**
+Inventory levels appear bloated, with significant write-downs impacting the bottom line. The company reported "$41 million of inventory write-downs" during the second quarter. Additionally, the company is managing "unutilized manufacturing capacity costs," though these are trending lower.
+
+**5. Capital Spending (Capex)**
+Capital investment remains stable and modest relative to total spend. Planned capital expenditures for the full year 2026 are projected to be between "$0.2 to $0.3 billion." Investment is primarily focused on the advancement of the clinical pipeline and R&D.

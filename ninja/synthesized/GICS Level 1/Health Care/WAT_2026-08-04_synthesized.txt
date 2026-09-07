@@ -1,0 +1,22 @@
+Ticker: WAT
+Source: WAT_2026-08-04.txt
+Generated: 2026-09-07 18:54 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Waters Corp (WAT)**
+
+**1. Demand & Activity**
+Demand is showing robust growth and broadening across customer segments. Organic revenue grew 9% in constant currency, with the Analytical Sciences Division seeing 8% instrument growth and "double-digit chemistry consumables growth" ("led by low-double-digit growth in both Pharma and A&G end markets"). Management notes that the "market recovery has entered a broader phase" and "previously lagging customer segments [are] now returning to growth."
+
+**2. Labor & Wages**
+Not addressed. The report mentions a total workforce of "~16,000 colleagues" but provides no specific data on hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+Not explicitly addressed. While the company reported "industry-leading growth" and raised full-year guidance, there were no specific mentions of price increases or the status of input cost inflation/relief.
+
+**4. Supply Chain & Inventory**
+Not addressed. The transcript mentions "inventory step-up" solely in the context of GAAP purchase accounting charges related to acquisitions, providing no signal on operational lead times or inventory health.
+
+**5. Capital Spending (Capex)**
+Not explicitly detailed. The company is focused on "integration" of recently acquired Biosciences and Diagnostic Solutions businesses and is executing a "180-day growth revitalization plan," but specific future facility or technology spend was not disclosed.

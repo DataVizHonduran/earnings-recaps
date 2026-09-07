@@ -1,0 +1,22 @@
+Ticker: PFE
+Source: PFE_2026-08-04.txt
+Generated: 2026-09-07 18:50 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Pfizer Inc. (PFE)**
+
+**1. Demand & Activity**
+Demand is **moderate** and bifurcated. Non-COVID revenues grew 5% operationally, with "robust" growth in launched and acquired products (18% operational growth). Specific strength is noted in oncology and obesity programs ("oncology portfolio remains a source of strength"). However, demand for COVID-19 products is **softening** significantly, with Paxlovid down 95% operationally ("driven primarily by lower COVID-19 infections") and Comirnaty down 34% ("lower utilization in the U.S.").
+
+**2. Labor & Wages**
+The report does not explicitly detail wage inflation or hiring difficulties, but indicates a focus on headcount and operational efficiency through "expansion of productivity enhancement initiatives" and a "cost realignment program" intended to realize $2.5 billion in additional savings.
+
+**3. Pricing Power & Inflation**
+Pricing power is **mixed**. The company is seeing "higher net price in the U.S." for Eliquis due to "pricing dynamics, including lower rebates," but is experiencing "net price erosion" for the Vyndaqel family in the U.S. due to "new payer contracts" and "price erosion in certain international markets" for other lines. Cost of sales increased 8% year-over-year, though this was attributed to "unfavorable change in sales mix" and accounting impairments rather than raw commodity inflation.
+
+**4. Supply Chain & Inventory**
+Inventory levels are not explicitly characterized as lean or bloated; however, the company noted a "favorable impact associated with transition to a wholesaler distribution model in the U.S." in the prior-year period for Padcev, suggesting a stabilized distribution channel.
+
+**5. Capital Spending (Capex)**
+Investment in future capacity and technology remains **robust**. The company deployed $5.3 billion into "internal research and development projects" during the first six months of 2026, with specific spending increases in "oncology and obesity product candidates." Additionally, the company is pursuing growth through business development, including the "completed licensing agreement with Innovent Biologics, Inc."

@@ -1,0 +1,31 @@
+Ticker: LOW
+Source: LOW_2026-08-19.txt
+Generated: 2026-09-07 18:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Lowe’s Companies Inc. (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is overall stable but bifurcated. There is robust growth in the professional and digital segments, while consumer-led discretionary spending is softening.
+*   **Pro/Online:** Strong performance in "Pro and home services sales" and a "15.7% increase in online sales."
+*   **DIY:** Facing "persistent DIY macro pressures" and "pressure in discretionary DIY spending."
+*   **Outlook:** Future demand is viewed as "dynamic," with full-year comparable sales revised to "flat as compared to prior year."
+
+**2. Labor & Wages**
+The report does not provide specific data on wage increases or headcount changes, though it acknowledges general risks regarding "shortages, and other disruptions in the labor supply."
+
+**3. Pricing Power & Inflation**
+The company is experiencing modest headwinds from inflation and trade policy, though partially offset by regulatory recoveries.
+*   **Costs:** Management notes ongoing risks from "inflation and its impacts on discretionary spending and on our costs."
+*   **Trade:** The company recognized a "benefit from IEEPA tariff refunds," though it remains cautious regarding "additional tariffs" in the second half of the year.
+
+**4. Supply Chain & Inventory**
+Inventory levels have increased moderately.
+*   **Inventory Levels:** Merchandise inventory rose to $17.7 billion from $16.3 billion year-over-year ("Merchandise inventory - net 17,737" vs "16,342").
+*   **Lead Times:** No specific mentions of lead time fluctuations.
+
+**5. Capital Spending (Capex)**
+Investment remains stable, focused on strategic growth and infrastructure.
+*   **Planned Spend:** Capital expenditures are projected to be "up to $2.5 billion" for the fiscal year.
+*   **Strategic Focus:** Investments are being directed toward the "Total Home strategy" and the integration of recent acquisitions, including "Foundation Building Materials (FBM) and Artisan Design Group (ADG)."

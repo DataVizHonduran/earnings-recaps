@@ -1,0 +1,22 @@
+Ticker: AEP
+Source: AEP_2026-07-30.txt
+Generated: 2026-09-07 18:40 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: American Electric Power (AEP)**
+
+**1. Demand & Activity**
+Demand is growing robustly, driven primarily by large-scale industrial and technology users. The company reports "robust customer demand across its system" ("AEP continues to see robust customer demand across its system"), specifically noting "accelerating load growth" ("As electricity demand accelerates"). Growth is most pronounced in Texas, with total contracted load growth through 2030 expanding to 69 GW, fueled by "hyperscalers, data centers and industrials" ("The agreements include a diverse set of customers, including hyperscalers, data centers and industrials").
+
+**2. Labor & Wages**
+Not addressed. The transcript provides no specific data regarding hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+Pricing activity is mixed and varies by region. AEP is implementing "large load tariffs" to ensure that new growth funds its own infrastructure ("ensure growth helps pay for growth"). However, some residential areas are seeing price relief; the company noted a "distribution base rate decrease for customers in Ohio" and the "lowest increase in a base rate request in Virginia in nearly 30 years" ("completion of a $1.4 billion securitization that allowed Appalachian Power to file its lowest increase").
+
+**4. Supply Chain & Inventory**
+The company is taking a proactive approach to secure long-lead equipment to avoid bottlenecks. AEP has already "secured approximately 13 GW of gas-fired turbine capacity" for deployment through 2031 ("bringing its total secured capacity to approximately 13 GW") and is evaluating an additional 10 GW to maintain "visibility and flexibility in AEP’s generation planning" ("This proactive approach provides greater visibility and flexibility").
+
+**5. Capital Spending (Capex)**
+Capital investment is robust and expanding. AEP is executing a "five-year, $78 billion capital plan" ("supported by AEP’s five-year, $78 billion capital plan") through 2030. Additionally, the company has "line of sight to incremental capital investments of more than $10 billion," including a fuel cell project in Wyoming and transmission opportunities in Ohio ("line of sight to incremental capital investments of more than $10 billion").

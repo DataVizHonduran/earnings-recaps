@@ -1,0 +1,22 @@
+Ticker: DPZ
+Source: DPZ_2026-07-20.txt
+Generated: 2026-09-07 18:44 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Domino’s Pizza (DPZ)**
+
+**1. Demand & Activity**
+Demand is stable to modestly growing. The company reported "meaningful order count growth" ("Domino’s drove meaningful order count growth") across both delivery and carryout channels in the U.S., contrasting with a broader "pressure on consumer demand" within the U.S. Quick Service Restaurant (QSR) industry. Geographically, U.S. same-store sales showed slight growth of 0.1%, while international same-store sales saw a slight decline of 0.1% (excluding currency impacts). Global retail sales grew modestly by 3.0%.
+
+**2. Labor & Wages**
+Not addressed in the provided text.
+
+**3. Pricing Power & Inflation**
+Not addressed in the provided text.
+
+**4. Supply Chain & Inventory**
+The company indicates that increased order volume is providing a positive feedback loop for its logistics operations, noting that new customer orders "power our supply chain business" ("their orders power our supply chain business"). No specific mentions of lead times or inventory levels were provided.
+
+**5. Capital Spending (Capex)**
+Investment remains focused on physical expansion. The company continues to grow its footprint with "global net store growth of 209 stores" ("Global net store growth of 209 stores"), consisting of 26 net openings in the U.S. and 183 internationally.

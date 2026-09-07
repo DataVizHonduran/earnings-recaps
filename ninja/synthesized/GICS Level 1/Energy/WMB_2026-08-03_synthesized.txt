@@ -1,0 +1,22 @@
+Ticker: WMB
+Source: WMB_2026-08-03.txt
+Generated: 2026-09-07 18:54 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Williams Companies (WMB)**
+
+**1. Demand & Activity**
+Demand for energy infrastructure is growing robustly, particularly driven by LNG exports, power generation, and industrial growth ("capture rising demand for reliable energy infrastructure"). Activity is strong in the Gulf Coast and Haynesville regions to serve "growing LNG and power demand." The company is seeing "higher gathering volumes" in the West and "higher volumes at Ohio Valley Midstream."
+
+**2. Labor & Wages**
+Not addressed.
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate pricing power, noting that "Transco’s higher net rates" benefited year-to-date results. However, there is persistent pressure from rising overhead, as results were "partially offset by an increase in operating and administrative expenses."
+
+**4. Supply Chain & Inventory**
+The company is actively managing long-lead procurement for its Power Innovation segment, specifically noting "cash purchases of certain reimbursable long-lead Power Innovation equipment."
+
+**5. Capital Spending (Capex)**
+Capex is expanding robustly to support capacity and technology. Capital investments (excluding acquisitions) rose to $1.642 billion in 2Q 2026 compared to $1.039 billion in 2Q 2025. Investment is focused on "Power Innovation projects" (e.g., Socrates phase two) and the "acquisition of Momentum Midstream." A new joint venture with Blackstone has added "$5.34 billion of low-cost capital to fuel near-term Power Innovation projects."

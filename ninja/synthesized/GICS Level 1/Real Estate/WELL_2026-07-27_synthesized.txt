@@ -1,0 +1,22 @@
+Ticker: WELL
+Source: WELL_2026-07-27.txt
+Generated: 2026-09-07 18:54 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Welltower Inc. (WELL)**
+
+**1. Demand & Activity**
+Demand is robust, particularly within the Seniors Housing Operating (SHO) segment. The company reports strong growth in both utilization and pricing, with organic same-store revenue increasing 9.2% year-over-year ("resulting from 330 basis points (bps) of average occupancy growth and 5.2% growth in Revenue Per Occupied Room (RevPOR)"). Demand in other segments remains stable but modest, with projected same-store NOI growth for Outpatient Medical and Long-Term Post-Acute Care both ranging from 2.0% to 3.0%.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company demonstrates robust pricing power in the seniors housing sector, evidenced by a 5.2% increase in "Revenue Per Occupied Room (RevPOR)." While the report does not explicitly detail input cost relief or persistent inflationary pressures, the "outsized levels of cash flow growth" suggest that revenue gains are currently outpacing operating expenses.
+
+**4. Supply Chain & Inventory**
+Not applicable. (The company operates in real estate; no mentions of physical inventory or supply chain lead times were provided).
+
+**5. Capital Spending (Capex)**
+Capital deployment is aggressive and robust. The company has closed or is under contract to close $15.5 billion of pro rata gross investments year-to-date ("including $9.4 billion completed in the six months ended June 30, 2026"). This includes a significant expansion into the Canadian market via the acquisition of 38 seniors housing communities ("pro rata purchase price of C$4.1 billion") and the acquisition of five properties currently under development ("expected to be completed by the end of 2027"). Simultaneously, the company is strategically rotating capital by divesting a large Outpatient Medical portfolio ("valued at approximately $7.2 billion").

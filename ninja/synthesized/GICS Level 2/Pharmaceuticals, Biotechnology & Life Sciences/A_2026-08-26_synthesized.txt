@@ -1,0 +1,22 @@
+Ticker: A
+Source: A_2026-08-26.txt
+Generated: 2026-09-07 18:41 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Agilent Technologies (A)**
+
+**1. Demand & Activity**
+Demand is showing robust growth, characterized by "improving end markets" and "stronger demand in key regions" ("We are seeing improving end markets, stronger demand in key regions"). Growth is broad-based across all business segments, with the Life Sciences and Diagnostics Markets Group leading with 10% core growth ("LDG reported third-quarter revenue of $746 million, growth of 11% reported and 10% core"), followed by the Applied Markets Group at 7% core and the Agilent CrossLab Group at 5% core.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage trends. The company currently employs "approximately 18,000 people worldwide."
+
+**3. Pricing Power & Inflation**
+The company is experiencing moderate margin expansion, though it notes ongoing "competitive, pricing and gross-margin pressures" as a risk factor. A notable short-term financial tailwind was provided by "tariff refunds," which contributed a $17 million net benefit to non-GAAP net income ("including a $17 million net benefit from tariff refunds").
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on current lead times or inventory levels, though it lists the "ability of its supply chain to adapt to changes in demand" as a general operational risk.
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for future facilities are not disclosed, the company is investing in "innovative product launches" and an "operational transformation" via the "Ignite Operating System" to drive sustainable outperformance.

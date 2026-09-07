@@ -1,0 +1,22 @@
+Ticker: AKAM
+Source: AKAM_2026-08-06.txt
+Generated: 2026-09-07 18:40 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Akamai Technologies (AKAM)**
+
+**1. Demand & Activity**
+Demand is mixed but showing robust growth in high-growth segments. Cloud Infrastructure Services (CIS) is experiencing robust expansion, with revenue up 39% year-over-year ("Cloud Infrastructure Services revenue of $99 million, up 39% year-over-year"). Security demand remains moderate, increasing 10% year-over-year ("Security revenue of $604 million, up 10% year-over-year"). Conversely, demand for legacy services is softening, with Delivery and other cloud applications revenue declining 6% ("Delivery and other cloud applications revenue was $396 million, down 6% year-over-year"). Geographically, activity is stable to modest, with U.S. revenue up 4% and international revenue up 6%.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage trends. However, the company continues to utilize stock-based compensation as a significant expense ("Stock-based compensation $146,290" [thousands] for the quarter).
+
+**3. Pricing Power & Inflation**
+There are no direct mentions of price increases or specific input cost pressures (commodities/energy). The company's ability to secure large, multi-year commitments suggests stable pricing power in the AI infrastructure space ("signed numerous customers to multi-year CIS contracts, collectively worth over $2.8 billion").
+
+**4. Supply Chain & Inventory**
+Not applicable. As a technology services and software provider, the company does not report traditional physical inventory levels or supply chain lead times.
+
+**5. Capital Spending (Capex)**
+Investment in technology and capacity is ongoing to support AI and cloud expansion. The company is aggressively scaling its infrastructure to capture AI-driven demand, evidenced by a major new contract to "power robotics development" ("commits to more than $600 million over four years for Cloud Infrastructure Services"). Balance sheet data shows a moderate increase in net property and equipment from $2.33 billion at year-end 2025 to $2.64 billion as of June 2026.

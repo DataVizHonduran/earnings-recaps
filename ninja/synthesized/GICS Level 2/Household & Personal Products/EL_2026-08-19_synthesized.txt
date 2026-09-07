@@ -1,0 +1,22 @@
+Ticker: EL
+Source: EL_2026-08-19.txt
+Generated: 2026-09-07 18:45 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Estée Lauder (EL)**
+
+**1. Demand & Activity**
+Demand is showing **moderate** growth and acceleration. Organic net sales rose 3% for the full year, accelerating to 5% in the fourth quarter ("organic sales growth accelerated to 5% for our fourth consecutive quarter of growth"). Growth was broad across all geographic regions, with specific **robust** activity in Korea, where retail sales growth moved from "high single-digit to double-digit." The company expects to "accelerate organic sales growth" in fiscal 2027, specifically targeting "accelerating growth in North America."
+
+**2. Labor & Wages**
+Labor costs remained **stable** overall, though there was a slight uptick in compensation tied to performance. Non-consumer-facing expenses were flat, as "increased employee incentive costs—driven by the Company's better-than-expected fiscal 2026 performance" were offset by operational efficiencies.
+
+**3. Pricing Power & Inflation**
+The company is experiencing **mixed** inflationary pressures. Gross margins expanded by 150 basis points, but this was "partially offset by inflation and the impact of incremental tariffs." The company noted a "more competitive approach to procurement" to mitigate these costs and received a $38 million benefit from tariff refunds in Q4 to offset a full-year tariff impact of $102 million.
+
+**4. Supply Chain & Inventory**
+Inventory health is **improving**. The company reported "lower excess and obsolescence" as part of its Profit Recovery and Growth Plan (PRGP), suggesting a shift toward leaner inventory management and reduced waste.
+
+**5. Capital Spending (Capex)**
+Capex is **softening** in absolute terms but shifting in strategic focus. Total capital expenditures decreased to $457 million from $602 million the prior year ("reflecting the Company’s strategic focus on optimizing its overall investments"). Spending is now heavily skewed toward growth-driving activities, with "consumer-facing [investments]... represented over 75% of total capital expenditures."

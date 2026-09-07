@@ -1,0 +1,22 @@
+Ticker: CNP
+Source: CNP_2026-07-28.txt
+Generated: 2026-09-07 18:42 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: CenterPoint Energy (CNP)**
+
+**1. Demand & Activity**
+Demand is experiencing robust growth, particularly driven by large-scale industrial users in the Houston region. The company reports an "unprecedented and dynamic era of growth" ("unprecedented and dynamic era of growth"), specifically noting approximately 14 gigawatts of eligible base or studied load projects. This represents a projected increase of more than 65% over current peak system demand ("more than a 65% increase from our current Houston Electric peak system demand of 21 gigawatts").
+
+**2. Labor & Wages**
+Not addressed.
+
+**3. Pricing Power & Inflation**
+The company is seeing modest relief in operations and maintenance (O&M) costs, which contributed to a favorable variance in quarterly results ("O&M contributed $0.02 per share of favorable variance compared to last year"). However, there is persistent pressure from rising financing costs ("partially offset by... $0.01 per share of unfavorability from increased interest expense").
+
+**4. Supply Chain & Inventory**
+Not addressed.
+
+**5. Capital Spending (Capex)**
+Capex plans are expanding to accommodate accelerating demand and urban redevelopment. The company increased its 10-year capital investment plan by $1.2 billion, bringing the total to $66.7 billion ("Increases 10-year capital investment plan by $1.2 billion... 10-year capital investment plan now totals $66.7 billion"). These investments are specifically targeted at "accelerating demand from large load customers in Houston" and the "Downtown Houston Revitalization project."

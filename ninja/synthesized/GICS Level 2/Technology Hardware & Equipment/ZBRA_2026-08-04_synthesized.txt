@@ -1,0 +1,22 @@
+Ticker: ZBRA
+Source: ZBRA_2026-08-04.txt
+Generated: 2026-09-07 18:55 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Zebra Technologies (ZBRA)**
+
+**1. Demand & Activity**
+Demand is robust and broad-based, characterized by strong momentum in digitization and automation. Organic net sales grew 9.2% year-over-year, with moderate growth in the Connected Frontline segment (+7.5%) and more robust growth in Asset Visibility Automation (+11.4%). Management notes "broad-based demand for our innovative solutions" and "strong demand momentum" driven by trends in "automation and Physical AI."
+
+**2. Labor & Wages**
+Not addressed. The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is experiencing significant margin expansion, though this is attributed to specific regulatory and currency tailwinds rather than explicit price hikes. Gross margins increased to 53.0% (up from 47.6%), "primarily due to IEEPA tariff recoveries and favorable foreign currency exchange."
+
+**4. Supply Chain & Inventory**
+Supply chain conditions appear to be stabilizing or improving. Management specifically cited "progress on productivity and memory supply" as a key driver supporting their increased full-year outlook. The company continues to leverage "long-standing supplier relationships to support our growth."
+
+**5. Capital Spending (Capex)**
+Capital investment remains modest relative to overall scale. For the first six months of 2026, the company "invested $26 million in capital expenditures." Management indicated a general commitment to "invest for growth" while maintaining a balanced approach to shareholder returns.

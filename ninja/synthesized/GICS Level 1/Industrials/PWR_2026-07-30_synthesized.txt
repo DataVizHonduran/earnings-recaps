@@ -1,0 +1,22 @@
+Ticker: PWR
+Source: PWR_2026-07-30.txt
+Generated: 2026-09-07 18:51 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Quanta Services (PWR)**
+
+**1. Demand & Activity**
+Demand is **robust** and accelerating, characterized by "compounding strength and momentum" ("reflect the compounding strength and momentum of our operating model"). Growth is driven by customer acceleration in the electric grid, power generation, and mission-critical infrastructure ("customers accelerate investment in the electric grid, power generation and mission-critical infrastructure"). Specific strength is noted in the data center and mission-critical facility markets ("growing data center and mission-critical facility markets"), with activity spanning the U.S. and Australia. Total backlog has reached a "record level."
+
+**2. Labor & Wages**
+The company continues to rely on and expand its "craft-skilled workforce" ("execution certainty our self-perform capabilities and craft-skilled workforce deliver"). Growth in headcount is being driven primarily through aggressive acquisitions of specialized firms to deepen technical capabilities in electrical, mechanical, and fabrication disciplines ("deepen our self-perform, craft-skilled capabilities").
+
+**3. Pricing Power & Inflation**
+The provided text does not explicitly detail specific price increases or commodity inflation; however, the company reports "strong double-digit growth" in revenue and adjusted EBITDA, suggesting an ability to maintain or expand margins amid current market conditions.
+
+**4. Supply Chain & Inventory**
+The company is actively investing to mitigate supply chain constraints for its customers. It has formed a joint venture to expand domestic manufacturing of high-voltage circuit breakers to provide "critical-path supply chain solutions to customers" ("enhances its ability to offer critical-path supply chain solutions to customers amid rising electricity demand").
+
+**5. Capital Spending (Capex)**
+Investment is focused on capacity expansion and vertical integration. This includes the acquisition of multiple firms to bolster "geographic density" and "fabrication and modular facilities" ("fabrication and modular facilities spanning more than 400,000 square feet"). Additionally, the company is investing in domestic manufacturing via a "refurbished facility" in Pennsylvania to produce high-voltage gas circuit breakers.

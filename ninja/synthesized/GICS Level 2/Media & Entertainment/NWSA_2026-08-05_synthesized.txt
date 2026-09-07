@@ -1,0 +1,22 @@
+Ticker: NWSA
+Source: NWSA_2026-08-05.txt
+Generated: 2026-09-07 18:50 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: News Corp (NWSA)**
+
+**1. Demand & Activity**
+Demand is **robust** across core digital segments. Digital Real Estate Services saw strong growth, specifically in Australia where residential performance was led by "double-digit growth in yield and listing volumes." In the U.S., Realtor.com experienced "strong demand for premium offerings." Dow Jones reported a **moderate** increase in total average subscriptions (up 7%), while Book Publishing saw **robust** revenue growth (15%) supported by a "strong frontlist" and "accelerated growth in digital revenues."
+
+**2. Labor & Wages**
+Labor trends are mixed. While the company noted "increases in employee... costs" within the Dow Jones segment, overall full-year profitability was partially supported by "lower employee costs in the Other segment." No specific mentions of hiring difficulties or turnover were provided.
+
+**3. Pricing Power & Inflation**
+The company demonstrates **stable** pricing power. Dow Jones reported circulation revenue growth driven by the "conversion of customers from introductory promotions to higher pricing." There is a strategic shift toward monetizing intellectual property in the AI ecosystem, with the company entering "trusted content relationships with OpenAI and Meta" while taking "aggressive action" against unauthorized use of its data.
+
+**4. Supply Chain & Inventory**
+Not applicable. The report focuses on digital services and publishing; no mentions of physical supply chain constraints or inventory bloating were noted.
+
+**5. Capital Spending (Capex)**
+Investment is focused on digital transformation and technology. The company cited "reinvestment in, News Corp’s core growth engines" and a "transformation to a digital-first company." Specific expenditures were noted as "increases in... technology costs" within the Dow Jones segment to support growth.

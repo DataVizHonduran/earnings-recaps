@@ -1,0 +1,22 @@
+Ticker: MCD
+Source: MCD_2026-08-04.txt
+Generated: 2026-09-07 18:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: MCD (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is showing modest growth globally, though performance is bifurcated. Global comparable sales increased slightly (1.3%), but the U.S. market is experiencing softening traffic, with growth driven by higher spending per visit rather than volume ("driven by positive check growth... partly offset by negative comparable guest counts"). International demand remains more robust, particularly in Japan, Germany, Australia, and the U.K., while China is seeing a decline ("partly offset by negative comparable sales in China").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company continues to exercise modest pricing power to offset costs, as evidenced by positive check growth in the U.S. ("driven by positive check growth, including favorable product mix"). There is no specific commentary on the current state of commodity or freight inflation.
+
+**4. Supply Chain & Inventory**
+The provided text contains no mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+The company is focused on organizational restructuring and operational modernization. While specific dollar amounts for physical capacity are not detailed, there is a clear investment in internal efficiency and "modernizing ways of working" through its "Accelerating the Organization" initiative ("restructuring charges associated with the Company's internal effort to modernize ways of working").

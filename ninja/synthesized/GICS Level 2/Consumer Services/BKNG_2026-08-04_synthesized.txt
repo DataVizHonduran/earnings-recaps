@@ -1,0 +1,22 @@
+Ticker: BKNG
+Source: BKNG_2026-08-04.txt
+Generated: 2026-09-07 18:41 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Booking Holdings Inc. (Q2 2026)**
+
+**1. Demand & Activity**
+Demand remains **robust** overall, with room nights growing 5% and gross bookings increasing 9% year-over-year ("Room nights grew 5%... Gross bookings grew 9%"). Activity is supported by **stable** domestic travel trends ("supported by healthy domestic travel trends"). However, there is **softening** in specific segments due to geopolitical tensions, specifically "softer long-haul international travel demand" and "some pressure on inbound travel to the Middle East."
+
+**2. Labor & Wages**
+Labor costs appear **stable**. Personnel expenses for the quarter were $900 million, nearly flat compared to $896 million in the prior year period ("Personnel... 900 [vs] 896"). There were no mentions of hiring difficulties or wage inflation.
+
+**3. Pricing Power & Inflation**
+The company demonstrates **modest** pricing power, with average daily rates (ADRs) for alternative accommodations increasing by approximately 2% on a constant currency basis ("CC ADRs increased by about 2%"). Input cost pressures are present in technology infrastructure, with **moderate** increases in "higher cloud computing costs and software license fees."
+
+**4. Supply Chain & Inventory**
+Not applicable. As a digital platform, the company does not maintain physical inventory or traditional supply chain lead times.
+
+**5. Capital Spending (Capex)**
+Investment in physical capacity is **stable**, with additions to property and equipment at $183 million, consistent with the prior year's $185 million ("Additions to property and equipment (183) [vs] (185)"). The company is prioritizing technology and operational efficiency through a "Transformation Program" aimed at achieving annual run-rate savings of approximately $650 million by the end of 2027 ("Increased our expected annual run-rate savings through the Transformation Program... to approximately $650 million").

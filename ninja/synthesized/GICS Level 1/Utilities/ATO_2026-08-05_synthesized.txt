@@ -1,0 +1,22 @@
+Ticker: ATO
+Source: ATO_2026-08-05.txt
+Generated: 2026-09-07 18:41 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Atmos Energy (ATO)**
+
+**1. Demand & Activity:** 
+Activity appears stable, with the company continuing to serve a consistent customer base of "approximately 3.4 million distribution customers" across eight states. No specific growth or contraction trends were noted for the quarter.
+
+**2. Labor & Wages:** 
+The company identifies a persistent risk regarding human capital, specifically the potential "failure to attract and retain a qualified workforce," though no specific headcount reductions or wage spikes were reported for the current period.
+
+**3. Pricing Power & Inflation:** 
+The company is utilizing regulatory mechanisms to adjust revenue, having "implemented $355.0 million in annualized regulatory outcomes." However, it notes ongoing pressure from "increased costs of providing health care benefits" and "pension and postretirement health care benefits."
+
+**4. Supply Chain & Inventory:** 
+The company reports no immediate disruptions but maintains a cautious outlook regarding the "availability and accessibility of contracted gas supplies, interstate pipeline, and or storage services."
+
+**5. Capital Spending (Capex):** 
+Investment is robust and focused on infrastructure resilience. Capital expenditures for the third quarter were $3.1 billion, with "over 85% focused on safety and reliability." The company expects total fiscal 2026 capital expenditure to be "approximately $4.2 billion."

@@ -1,0 +1,22 @@
+Ticker: EOG
+Source: EOG_2026-08-04.txt
+Generated: 2026-09-07 18:45 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: EOG Resources (Q2 2026)**
+
+**1. Demand & Activity**
+Activity remains **robust**, characterized by moderate growth in production volumes. Total Crude Oil and Condensate volumes rose slightly to 548.8 MBbld in Q2 2026 from 546.5 MBbld in Q1 ("Total 548.8"). Natural gas activity is **stable**, with U.S. volumes holding steady at 2,784 MMcfd ("United States 2,784").
+
+**2. Labor & Wages**
+The provided data contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company experienced **robust** pricing gains in the crude sector. The composite average price for Crude Oil and Condensate increased significantly to $98.15/Bbl in Q2 2026 from $72.47/Bbl in Q1 ("Composite $98.15"). Conversely, natural gas pricing showed **softening**, dropping to $2.89/Mcf in Q2 from $3.76/Mcf in Q1 ("Composite $2.89"). Operating expenses for gathering, processing, and transportation remained **stable** to slightly increasing, moving from $654 million to $676 million ("Gathering, Processing and Transportation Costs 676").
+
+**4. Supply Chain & Inventory**
+Inventory levels appear **stable** with a slight modest decline, moving from $955 million at the start of the year to $930 million by the end of Q2 ("Inventories 930"). There are no mentions of lead time disruptions.
+
+**5. Capital Spending (Capex)**
+Investment in capacity remains **robust**. The company continues a steady cadence of investment in oil and gas properties, with Q2 additions totaling $1.638 billion ("Additions to Oil and Gas Properties (1,638)"). Spending on other property, plant, and equipment remained **stable** at $144 million for the quarter ("Additions to Other Property, Plant and Equipment (144)").

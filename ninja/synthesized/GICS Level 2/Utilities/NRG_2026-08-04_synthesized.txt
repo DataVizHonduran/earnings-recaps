@@ -1,0 +1,22 @@
+Ticker: NRG
+Source: NRG_2026-08-04.txt
+Generated: 2026-09-07 18:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: NRG Energy (Q2 2026)**
+
+**1. Demand & Activity**
+Demand signals are mixed by segment. Retail load in Texas experienced a modest decline due to weather ("30% decrease in heating degree days... leading to lower retail load"). However, there is robust growth in industrial load, specifically from AI and cloud hyperscalers, driving a "Bring Your Own Power" strategy for a 1.2 GW facility in Texas ("this is the model for how large load growth should work"). Additionally, the smart home segment saw moderate growth in activity ("higher new customer adds").
+
+**2. Labor & Wages**
+Not addressed.
+
+**3. Pricing Power & Inflation**
+The company is experiencing persistent input cost pressure, noting "higher supply costs" in Texas and "higher power supply costs during Winter Storm Fern" in the East. These were partially offset by moderate pricing gains in specific markets, such as "higher realized capacity prices in the East" and an "increase in monthly recurring service margin per customer" within the Vivint segment.
+
+**4. Supply Chain & Inventory**
+Not addressed.
+
+**5. Capital Spending (Capex)**
+Capex is focused on robust capacity expansion in Texas to meet increasing energy demands. The company is investing in new-build generation, having achieved commercial operations at the 415 MW T.H. Wharton facility ("NRG's first new build generation asset in nearly a decade"). Further investment is underway with two additional Texas Energy Fund projects that remain "on time and on budget," with a goal to bring 1.5 GW of new power online by mid-2028.

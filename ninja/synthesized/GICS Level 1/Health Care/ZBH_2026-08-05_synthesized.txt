@@ -1,0 +1,9 @@
+Ticker: ZBH
+Source: ZBH_2026-08-05.txt
+Generated: 2026-09-07 18:55 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided document, there is **insufficient data** to perform an economic signal analysis.
+
+The attached text is a partial press release header containing only corporate contact information (Media and Investor relations) and the company address. It does not contain the earnings transcript, financial results, or management commentary required to extract signals regarding demand, labor, pricing, supply chain, or capital spending.

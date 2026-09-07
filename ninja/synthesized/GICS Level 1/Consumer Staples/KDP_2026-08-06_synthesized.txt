@@ -1,0 +1,22 @@
+Ticker: KDP
+Source: KDP_2026-08-06.txt
+Generated: 2026-09-07 18:47 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Keurig Dr Pepper (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is mixed across product lines. U.S. Refreshment Beverages showed robust growth, with volume mix increasing 6.5% ("U.S. Refreshment Beverages generated double-digit top- and bottom-line growth"). KDP International also saw moderate growth in volume mix of 6.5% ("KDP International net sales... increased 19.6%"). Conversely, U.S. Coffee demand is softening, with volume mix declining 8.2% ("balanced against U.S. Coffee pressures").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company continues to exercise moderate pricing power across all segments to offset persistent cost pressures. Legacy net sales were supported by "favorable net price realization of 4.2%," with specific increases in U.S. Refreshment Beverages (3.5%), U.S. Coffee (5.0%), and International (5.9%). However, margins remain under pressure from "the impact of inflationary pressures" and specific regional costs such as the "Mexico beverage tax."
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+While specific facility spend is not detailed, the company is focused on significant organizational transformation and integration costs related to the JDE Peet’s acquisition ("meaningful progress on our integration and separation work"). The company is prioritizing "balance sheet deleveraging" and targeting a "pro-forma management leverage ratio of 4.1x at Year-End."

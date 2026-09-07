@@ -1,0 +1,22 @@
+Ticker: TER
+Source: TER_2026-07-29.txt
+Generated: 2026-09-07 18:52 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Teradyne, Inc. (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by a "second consecutive quarter of record revenue" ("Second consecutive quarter of record revenue"). Growth is particularly strong in the semiconductor memory sector, driven by "continued strength in DRAM and a resurgence in NAND final test" ("Record Memory revenue driven by continued strength in DRAM and a resurgence in NAND final test"). Overall revenue grew 104% year-over-year.
+
+**2. Labor & Wages**
+No mentions of hiring, turnover, or wage pressures were provided in the text.
+
+**3. Pricing Power & Inflation**
+No specific mentions of pricing adjustments or input cost inflation/relief were provided in the text.
+
+**4. Supply Chain & Inventory**
+No mentions of lead times or inventory levels were provided in the text.
+
+**5. Capital Spending (Capex)**
+No specific plans for future capacity or facility investments were provided in the text.

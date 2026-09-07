@@ -1,0 +1,22 @@
+Ticker: ISRG
+Source: ISRG_2026-07-16.txt
+Generated: 2026-09-07 18:47 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Intuitive Surgical (ISRG)**
+
+**1. Demand & Activity: Robust**
+Demand for robotic-assisted surgery is growing strongly across both primary product lines. Worldwide procedures increased approximately 16% year-over-year ("Worldwide procedures (da Vinci and Ion combined) grew approximately 16%"). Growth is particularly robust for the Ion endoluminal system ("Ion procedures grew approximately 36%") and remains moderate to strong for da Vinci ("da Vinci procedures grew approximately 15%"). System placements are also increasing, driven by the adoption of newer technology ("da Vinci surgical system placements included 246 da Vinci 5 systems, compared with 180 in the second quarter of 2025").
+
+**2. Labor & Wages: Not Addressed**
+The provided text contains no specific mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation: Moderate / Mixed**
+The company demonstrates pricing power through increased system costs ("higher da Vinci system average selling prices"). However, it faces persistent inflationary pressure from trade policy. Management notes a specific headwind from tariffs, which are expected to impact margins by approximately 1.0% of revenue ("This range includes an estimated impact from tariffs of 1.0% of revenue"). There is a noted risk that further tariffs could have a "material" adverse impact.
+
+**4. Supply Chain & Inventory: Stable**
+There are no specific mentions of lead times or inventory levels; however, the increase in the installed base suggests a stable flow of hardware to customers ("grew its da Vinci surgical system installed base to 11,710 systems").
+
+**5. Capital Spending (Capex): Not Addressed**
+The report does not detail specific future expenditures for facilities or capacity, though it notes a general increase in operating expenses ("Non-GAAP* operating expense growth of 11% to 13% in 2026").

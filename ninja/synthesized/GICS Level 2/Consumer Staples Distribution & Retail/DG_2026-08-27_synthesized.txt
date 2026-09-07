@@ -1,0 +1,22 @@
+Ticker: DG
+Source: DG_2026-08-27.txt
+Generated: 2026-09-07 18:43 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Dollar General (DG)**
+
+**1. Demand & Activity**
+Demand is showing moderate growth. The company reports a "fifth consecutive quarter of customer traffic growth" ("fifth consecutive quarter of customer traffic growth") and positive comparable sales across all four merchandising categories: consumables, seasonal, home products, and apparel ("growth in each of the consumables, seasonal, home products, and apparel categories"). Same-store sales increased 3.5%, driven by a 2.0% increase in traffic and a 1.5% increase in average transaction amounts ("reflecting increases of 2.0% in customer traffic and 1.5% in average transaction amount").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is experiencing mixed input cost pressures. Gross profit margins improved, aided by "lower distribution costs" ("lower distribution costs") and "tariff refunds" ("primarily attributable to tariff refunds"). However, these gains were partially offset by "increased transportation costs" ("partially offset by increased markdowns and increased transportation costs"), suggesting persistent volatility in logistics pricing.
+
+**4. Supply Chain & Inventory**
+Inventory levels appear stable and lean. Total merchandise inventories remained flat year-over-year at $6.6 billion, which represents a slight decrease on a per-store basis ("a decrease of 2.7% on an average per-store basis").
+
+**5. Capital Spending (Capex)**
+Capex remains robust, with full-year expectations in the range of $1.4 billion to $1.5 billion ("expect capital expenditures... in the range of $1.4 billion to $1.5 billion"). Recent spending focused heavily on existing store infrastructure, including "improvements, upgrades, remodels and relocations" ($414 million) and "distribution and transportation-related projects" ($168 million). The company is aggressively pursuing a real estate expansion and modernization strategy, planning approximately 4,730 total projects for the fiscal year, including 460 new stores across the U.S. and Mexico ("opening approximately 450 new stores in the United States and approximately 10 new stores in Mexico").

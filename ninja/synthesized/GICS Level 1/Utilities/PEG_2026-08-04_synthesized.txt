@@ -1,0 +1,22 @@
+Ticker: PEG
+Source: PEG_2026-08-04.txt
+Generated: 2026-09-07 18:50 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: PSEG (Q2 2026)**
+
+**1. Demand & Activity**
+Demand for electricity showed robust short-term growth, with peak summer load reaching 10,446 MW on July 2, the "highest in 14 years." The company noted a continued reliance on "Demand Response" programs to manage these peaks.
+
+**2. Labor & Wages**
+The report indicates stable labor support for energy efficiency initiatives, which have "supported approximately 9,300 jobs statewide," including a network of "more than 1,000 trade and union allies." However, the company lists "labor shortages" as a potential risk factor for supply chain disruptions.
+
+**3. Pricing Power & Inflation**
+Pricing signals are mixed. PSEG Power saw "higher realized prices" for nuclear generation. Conversely, the company is exercising downward pricing pressure on consumers, having filed "to lower residential gas bills by 5%, beginning October 1." On the cost side, the company reported "higher operation and maintenance costs" as well as "higher depreciation and interest expense."
+
+**4. Supply Chain & Inventory**
+The company did not provide specific lead-time data but explicitly identified "disruptions or cost increases in our supply chain" as a continuing risk factor.
+
+**5. Capital Spending (Capex)**
+Capex plans are robust and long-term. PSEG is executing a "total five-year capital investment program of $24 billion to $28 billion," focusing on "Energy Efficiency, Gas System Modernization and Transmission." The company intends to fund this via its balance sheet "without the need to issue new equity or sell assets."

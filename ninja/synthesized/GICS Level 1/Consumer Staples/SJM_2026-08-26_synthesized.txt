@@ -1,0 +1,22 @@
+Ticker: SJM
+Source: SJM_2026-08-26.txt
+Generated: 2026-09-07 18:51 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: J.M. Smucker Co. (SJM)**
+
+**1. Demand & Activity**
+Demand is mixed and fragmented across product lines. Coffee and frozen handhelds (Uncrustables) show modest growth, while sweet baked goods are softening. Overall volume mix was slightly positive for the quarter ("1 percentage point increase from volume mix"), but the full-year outlook suggests a transition to "neutral volume mix" with a projected net sales decrease of 1.0% to 2.0%. Specific weakness was noted in "snack cakes and breakfast" ("Volume mix decreased net sales by 8 percentage points").
+
+**2. Labor & Wages**
+The report does not provide specific data on hiring, turnover, or wage rates. However, there is a noted increase in overhead costs, specifically a projected "increase of SDA [selling, distribution, and administrative] expenses of approximately 8.0 percent versus the prior year."
+
+**3. Pricing Power & Inflation**
+The company is exercising moderate pricing power, particularly in the coffee segment, to offset costs. Net sales growth was primarily driven by a "4 percentage point increase from net price realization, primarily driven by higher net pricing for coffee." While some segments saw "higher costs" (Pet Foods, Sweet Baked Snacks), the company benefited from a significant one-time windfall of "tariff refunds received of approximately $115.0 million."
+
+**4. Supply Chain & Inventory**
+There are no specific mentions of lead times or inventory levels. The company notes it continues to operate in a "dynamic and evolving external environment" involving "geopolitical, macroeconomic, and policy changes."
+
+**5. Capital Spending (Capex)**
+Capital investment remains stable. The company has maintained its full-year capital expenditures guidance at "$325.0 million," focusing on "investments we continue to make in our brands and capabilities."

@@ -1,0 +1,22 @@
+Ticker: L
+Source: L_2026-08-03.txt
+Generated: 2026-09-07 18:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Loews Corp (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is moderate to robust across diversified segments. Hospitality saw growth in both volume and pricing, specifically at "Universal Orlando Resort properties and the Miami Beach Hotel post renovation" ("higher average daily rates and occupied room nights"). Insurance demand is stable, with net earned premiums growing 3% ("Net earned premiums grew by 3%"). Energy activity is growing, supported by "higher contracting rates on gas transportation and higher product sales."
+
+**2. Labor & Wages**
+Not addressed. The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+Pricing power is evident in hospitality and energy, but insurance is facing inflationary headwinds. Hotels successfully implemented "higher average daily rates." Boardwalk Pipelines realized "higher contracting rates." Conversely, the insurance segment is experiencing "higher loss cost trends" and "lower-than-expected rate in certain lines," which contributed to a higher underlying loss ratio ("increased by 2.6 points compared to the prior year second quarter").
+
+**4. Supply Chain & Inventory**
+Not addressed. The provided text contains no mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment in capacity is ongoing, with recent completions contributing to current revenue growth. The company noted improvements in the energy segment driven by "recently completed growth projects." No specific future dollar amounts for upcoming Capex were disclosed in the release.

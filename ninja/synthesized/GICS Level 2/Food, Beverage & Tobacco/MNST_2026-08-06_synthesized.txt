@@ -1,0 +1,22 @@
+Ticker: MNST
+Source: MNST_2026-08-06.txt
+Generated: 2026-09-07 18:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Monster Beverage Corp (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is robust overall, driven by strong expansion in the energy drink category. Growth is particularly pronounced in international markets, where net sales rose 34.6% ("net sales to customers outside the United States increased 34.6 percent"). While the core Monster Energy Drinks segment saw robust growth of 21.6% ("increased 21.6 percent to $2.36 billion"), demand in the Alcohol Brands segment is softening, declining 15.2% ("decreased 15.2 percent to $32.2 million").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is exercising moderate pricing power to offset persistent input cost pressures. Gross profit margins were supported by "pricing actions and product sales mix," though these gains were "partially offset by increased aluminum can costs... and increased freight-in costs."
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+While specific facility expenditures are not detailed, the company is increasing investment in intangible growth drivers. There is a moderate increase in spending on "social, digital, media and other marketing expenses" to "reach a broader consumer audience and increase household penetration."

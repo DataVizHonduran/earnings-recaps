@@ -1,0 +1,22 @@
+Ticker: SPG
+Source: SPG_2026-08-10.txt
+Generated: 2026-09-07 18:51 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Simon Property Group (SPG)**
+
+**1. Demand & Activity**
+Demand for premier retail space is robust. The company reports "consistent broad-based leasing demand" and "accelerated traffic increases" (Eli Simon, CEO). Retailer performance is strong, with reported sales per square foot increasing 13.9% year-over-year to $838 ("Reported retailer sales per square foot... an increase of 13.9%"). Occupancy remains stable at 96.0% ("Occupancy at June 30, 2026 was 96.0%, unchanged from June 30, 2025").
+
+**2. Labor & Wages**
+Not addressed in the provided text.
+
+**3. Pricing Power & Inflation**
+The company is demonstrating moderate pricing power. Base minimum rent per square foot increased 6.3% year-over-year to $62.42 ("Base minimum rent per square foot... an increase of 6.3%"). This contributed to a moderate increase in domestic property Net Operating Income (NOI) of 8.5% for the quarter ("Domestic property Net Operating Income (NOI) increased 8.5%").
+
+**4. Supply Chain & Inventory**
+Not addressed in the provided text.
+
+**5. Capital Spending (Capex)**
+The company continues to invest in growth through acquisitions and development. Recent activity includes "the contribution from acquisitions completed over the past year" (Eli Simon, CEO). While specific future project totals are not listed in the release, the company maintains significant liquidity of $9.3 billion to support general corporate purposes and operations ("Simon had approximately $9.3 billion of liquidity").

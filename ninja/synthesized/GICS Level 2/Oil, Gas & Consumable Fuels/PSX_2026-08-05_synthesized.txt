@@ -1,0 +1,22 @@
+Ticker: PSX
+Source: PSX_2026-08-05.txt
+Generated: 2026-09-07 18:51 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Phillips 66 (PSX)**
+
+**1. Demand & Activity**
+Demand for energy products appears robust, characterized by record-level throughput in specific segments. Midstream activity saw a moderate increase in volumes, though this was partially a recovery from previous weather disruptions ("higher volumes largely driven by the absence of last quarter’s Winter Storm Fern impacts"). The company reported "record NGL fractionation volumes and LPG export volumes," and maintained strong refining utilization at 96% ("Delivered strong Refining utilization of 96%").
+
+**2. Labor & Wages**
+The company reports a modest reduction in labor-related overhead. Corporate losses decreased in part due to a decline in "employee-related costs" ("Corporate and Other pre-tax loss decreased... primarily due to lower net interest expense and employee-related costs"). There were no mentions of hiring difficulties or wage inflation.
+
+**3. Pricing Power & Inflation**
+The company is experiencing robust margin expansion across multiple business lines. Refining margins grew significantly due to market conditions ("Margins were primarily driven by an increase in market crack spreads"). Similarly, Renewable Fuels saw gains from "higher regulatory credits from higher pricing," and Marketing and Specialties benefited from "higher global marketing margins."
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific data regarding lead times or inventory levels. Operational stability was noted following the completion of "successful turnarounds at the Wood River and Humber refineries."
+
+**5. Capital Spending (Capex)**
+Capex remains disciplined but active, with a focus on expanding Permian Basin and Gulf Coast capacity. Recent investments include the "full production at Dos Picos II" and the announced construction of the "300 MMCFD Zeus Gas Plant in the Permian Basin and a 100 thousand barrels per day (MBD) Coastal Bend NGL Fractionator." Additionally, large-scale chemical projects in Texas and Qatar are progressing, with "full operations expected in 2027."

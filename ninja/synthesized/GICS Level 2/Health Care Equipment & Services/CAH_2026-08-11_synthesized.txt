@@ -1,0 +1,22 @@
+Ticker: CAH
+Source: CAH_2026-08-11.txt
+Generated: 2026-09-07 18:42 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Cardinal Health (CAH)**
+
+**1. Demand & Activity**
+Demand is generally robust, though varied by segment. Pharmaceutical and Specialty Solutions saw moderate growth, driven by "brand and specialty pharmaceutical sales growth from existing customers." Conversely, the Global Medical Products and Distribution segment experienced a slight softening, with fourth-quarter revenue decreasing 2% "primarily driven by lower distribution volumes." Activity in ancillary services (Nuclear, Logistics, and At-Home Solutions) remains robust, with revenue increasing 7% in the quarter.
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is benefiting from specific regulatory relief rather than general pricing power. A significant positive impact was noted from "the recognition of the IEEPA tariff refund" ($100 million), which bolstered segment profits. There are no specific mentions of input cost inflation or general price increases.
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory levels. However, the company is expanding its logistical footprint to improve "operational flexibility."
+
+**5. Capital Spending (Capex)**
+Capex is stable, with projected expenditures of "$700 million" for fiscal year 2027. Investment is focused on capacity and technology, specifically a "new distribution center in Indianapolis set to open in 2027 featuring advanced robotics and automation."

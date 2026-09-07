@@ -1,0 +1,22 @@
+Ticker: SWKS
+Source: SWKS_2026-07-28.txt
+Generated: 2026-09-07 18:52 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Skyworks Solutions (SWKS)**
+
+**1. Demand & Activity**
+Demand is showing moderate growth across key segments. Mobile demand is described as "healthy" ("Mobile performed well on healthy demand"), with a robust sequential increase expected in the high-teens range due to seasonal product launches ("expect Mobile to grow sequentially in the high-teens range"). Broad Markets are experiencing moderate year-over-year growth, specifically driven by "double-digit gains in automotive and data center" ("Broad Markets delivered another quarter of year-over-year growth, led by double-digit gains in automotive and data center").
+
+**2. Labor & Wages**
+Not addressed. The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+Not addressed. The provided text contains no mentions of pricing adjustments or input cost trends.
+
+**4. Supply Chain & Inventory**
+Not addressed. The provided text contains no mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+While specific facility spending is not detailed, the company is aggressively investing in technology and capacity through a pending combination with Qorvo and the development of new product lines. This includes targeting "next-generation AI data centers, electric vehicle platforms and industrial high-power applications" ("Introduced latest power and gate driver technologies, targeting next-generation AI data centers..."). The company is also securing significant financing to support this expansion, anticipating "approximately $2 Billion of Acquisition Debt Financing."

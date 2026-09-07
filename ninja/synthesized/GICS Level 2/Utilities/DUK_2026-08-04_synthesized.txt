@@ -1,0 +1,22 @@
+Ticker: DUK
+Source: DUK_2026-08-04.txt
+Generated: 2026-09-07 18:44 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Duke Energy (DUK)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by growth in several key jurisdictions. Management explicitly links its financial performance to the need to serve "growing jurisdictions" ("recovery of infrastructure investments to reliably serve customers in our growing jurisdictions") and notes that the company is operating in "some of the most economically attractive states in the country" ("seize the growth opportunities in some of the most economically attractive states").
+
+**2. Labor & Wages**
+Not addressed. The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is seeing moderate success in recovering costs through regulatory channels, though it faces persistent headwinds from financing costs. There is evidence of "constructive regulatory outcomes" ("achieving constructive regulatory outcomes") to support investments. However, earnings were "partially offset by... interest expense" ("partially offset by higher depreciation on a growing asset base and interest expense"), suggesting that the cost of capital remains a pressure point.
+
+**4. Supply Chain & Inventory**
+Not addressed. The provided text contains no mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capex is robust and focused on capacity expansion and modernization. The company is aggressively investing in "critical infrastructure" ("As we build the critical infrastructure our customers and communities need") and "electric grid upgrades and efficient generation resources" ("invests in electric grid upgrades and efficient generation resources to strengthen the system and serve growing energy needs"). This investment is described as essential to maintain reliability and support regional economic growth ("Generation build supports growth in jurisdictions, fuels vibrant economies").

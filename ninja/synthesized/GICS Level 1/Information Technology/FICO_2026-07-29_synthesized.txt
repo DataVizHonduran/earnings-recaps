@@ -1,0 +1,29 @@
+Ticker: FICO
+Source: FICO_2026-07-29.txt
+Generated: 2026-09-07 18:45 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Fair Isaac Corp (FICO)**
+
+**1. Demand & Activity**
+Demand is robust overall, though divergent by product line. B2B scoring solutions saw strong growth, while software demand is mixed.
+* **Scores:** Robust growth, specifically in B2B ("B2B revenue increased 49%").
+* **Software:** Modest growth overall ("Software revenues... were up 2% year-over-year"), with a sharp divide between platform-based demand ("62% increase in platform ARR") and legacy systems ("17% decline in non-platform ARR").
+* **Consumer:** Modest growth in B2C ("B2C revenue increased 5%").
+
+**2. Labor & Wages**
+The report does not provide specific data on wage inflation or headcount changes. However, the company identifies the ability to "recruit and retain key technical and managerial personnel" as a continuing risk factor.
+
+**3. Pricing Power & Inflation**
+FICO demonstrates strong pricing power, particularly within its core scoring business.
+* **Pricing:** Robust increases in B2B pricing ("primarily attributable to a higher mortgage origination scores unit price").
+* **Input Costs:** Not explicitly detailed, though cost of revenues remained stable year-over-year ($87.0M vs $87.6M).
+
+**4. Supply Chain & Inventory**
+Not applicable. As a software and analytics provider, the company does not report physical inventory or traditional supply chain lead times.
+
+**5. Capital Spending (Capex)**
+Investment in technology remains stable.
+* **Technology:** Continued investment in internal software development ("Capitalized internal-use software costs" of $26.5M for the first nine months).
+* **Facilities:** Modest spending on physical infrastructure ("Purchases of property and equipment" of $1.4M for the first nine months).

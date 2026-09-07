@@ -1,0 +1,22 @@
+Ticker: KMI
+Source: KMI_2026-07-22.txt
+Generated: 2026-09-07 18:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Kinder Morgan (KMI)**
+
+**1. Demand & Activity**
+Demand for natural gas infrastructure is growing robustly, driven by "increasing LNG exports, rising power demand, and industrial expansion" ("demand for natural gas infrastructure continues to grow"). Specifically, natural gas transport volumes rose 7% year-over-year, with growth noted in LNG deliveries, exports to Mexico, and power generation in Arizona ("higher power generation demand in Arizona"). Natural gas gathering volumes saw a robust increase of 26%. Conversely, refined products activity is softening, with volumes down 5% due to "temporary West Coast supply disruptions" and a high-price environment.
+
+**2. Labor & Wages**
+Not addressed.
+
+**3. Pricing Power & Inflation**
+The company is experiencing modest pricing gains in specific segments. Terminals benefited from "higher rates and ancillary fees" at Houston Ship Channel facilities, and the Jones Act tanker fleet saw "higher average charter rates." Additionally, the company noted that "higher commodity prices" positively impacted contributions from the Products Pipelines and CO2 business segments.
+
+**4. Supply Chain & Inventory**
+Not addressed.
+
+**5. Capital Spending (Capex)**
+Capex activity is robust, with a significant focus on expanding natural gas capacity. KMI is internally funding a project backlog of $9.6 billion, of which 92% is dedicated to natural gas ("Natural gas projects account for approximately 92% of our project backlog"). Recent investments include the $235 million Cumberland project and the Gulf Coast Express expansion. Future large-scale investments include the $3.5 billion SSE4 project and the $1.7 billion MSX project, both aimed at increasing pipeline capacity. The company is also targeting "additional data center development" via the Amarillo Expansion project.

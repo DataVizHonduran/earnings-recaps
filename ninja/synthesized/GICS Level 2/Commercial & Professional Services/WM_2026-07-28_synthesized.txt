@@ -1,0 +1,22 @@
+Ticker: WM
+Source: WM_2026-07-28.txt
+Generated: 2026-09-07 18:54 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Waste Management (WM)**
+
+**1. Demand & Activity**
+Demand is mixed but generally stable. Core Collection and Disposal volumes saw a slight decline of 1.8% ("Collection and Disposal volume declined 1.8%"), though this was largely due to a high prior-year baseline from wildfire cleanup. Excluding those anomalies, landfill volumes grew modestly by 1.7% ("landfill volumes grew 1.7%"). There is evidence of intentional softening in the residential sector to improve margins, though these losses are stabilizing ("residential volume losses have begun to slow"). Conversely, activity in recycling and renewable energy is robust, driven by new capacity ("increased volumes in the recycling and renewable energy businesses as a result of completed growth projects").
+
+**2. Labor & Wages**
+The company reports positive trends in workforce stability, noting a reduction in employee churn which has contributed to improved margins ("success in reducing frontline turnover").
+
+**3. Pricing Power & Inflation**
+WM demonstrates robust pricing power, with core price increases of 5.7% ("driven by core price of 5.7%"). The company is successfully passing through costs via energy surcharges ("higher energy surcharges"). While fuel-related expenses have increased ("despite higher fuel-related expenses"), these are being offset by productivity gains and automation. However, commodity pricing for recycled materials and natural gas has softened compared to the prior year (e.g., recycled commodities fell from $84 to $75 per ton).
+
+**4. Supply Chain & Inventory**
+Not explicitly addressed; however, the company is successfully integrating new capacity into its network.
+
+**5. Capital Spending (Capex)**
+Investment remains focused on sustainability, automation, and capacity expansion. Recent completions include three renewable natural gas facilities in South Carolina and Florida ("completed three new renewable natural gas facilities") and a new recycling facility in Denver, Colorado ("added about 60,000 tons of annual processing capacity"). The company maintains a "significant technology runway" to drive further operational efficiency.

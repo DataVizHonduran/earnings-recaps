@@ -1,0 +1,22 @@
+Ticker: KEYS
+Source: KEYS_2026-08-18.txt
+Generated: 2026-09-07 18:47 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Keysight Technologies (KEYS)**
+
+**1. Demand & Activity**
+Demand is robust and growing rapidly across all primary segments. The company reported a "second consecutive record quarter with orders over $2 billion" ("second consecutive record quarter with orders over $2 billion"). Growth is particularly strong in commercial communications, which saw a 56% increase, while aerospace, defense, and government grew by 14% ("reflecting 56 percent growth in commercial communications and 14 percent growth in aerospace, defense, and government"). Demand is also expanding across semiconductor, automotive, and energy markets ("reflecting growth across the semiconductor, general electronics and automotive and energy markets").
+
+**2. Labor & Wages**
+The provided text contains no specific commentary regarding hiring difficulties, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail pricing actions or specific input cost relief. However, the company lists "impacts of global economic conditions such as inflation" as a general risk factor in its forward-looking statements ("impacts of global economic conditions such as inflation or recession").
+
+**4. Supply Chain & Inventory**
+Inventory levels appear stable. Current inventory stands at $1.047 billion, a slight decrease from $1.050 billion in the prior period ("Inventory $ 1,047 $ 1,050"). The company continues to manage modest "excess and obsolete inventory-related charges" of $29 million ("Excess and obsolete inventory-related charges 29").
+
+**5. Capital Spending (Capex)**
+Capital investment in physical assets remains stable. For the nine months ended July 31, 2026, investments in property, plant, and equipment totaled $97 million, compared to $90 million in the prior year ("Investments in property, plant and equipment (97) (90)"). The company also continues modest investment in business acquisitions ("Acquisitions of businesses and intangible assets, net of cash acquired (33)").

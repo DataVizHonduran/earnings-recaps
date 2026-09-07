@@ -1,0 +1,22 @@
+Ticker: GLW
+Source: GLW_2026-07-28.txt
+Generated: 2026-09-07 18:46 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Corning Inc. (GLW)**
+
+**1. Demand & Activity**
+Demand is **robust** and accelerating, driven primarily by AI infrastructure. Optical Communications saw strong growth, particularly in Enterprise Networks ("Gen AI product sales growing significantly faster"), with a 32% year-over-year increase. Solar demand is expanding rapidly ("Solar grew sales 90%"). Conversely, demand in Glass Innovations and Automotive remains **stable** to modest ("Glass Innovations... [up] 1%," "Automotive... [up] 2%"), while Life Sciences and Emerging Growth Businesses are **softening** ("sales... [down] 15%").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is demonstrating **moderate** pricing power or operational efficiency, as evidenced by expanding margins ("expanded core gross margin 120 basis points to 39.6%"). There are no specific mentions of input cost relief or inflationary pressures.
+
+**4. Supply Chain & Inventory**
+The report does not explicitly detail lead times or inventory levels, though the completion of a "maintenance shutdown and equipment upgrade at Corning’s solar wafer facility" suggests a transition toward higher production capacity.
+
+**5. Capital Spending (Capex)**
+Capex is focused on **robust** capacity expansion in the U.S. to meet AI-driven demand. Specifically, the company is expanding "U.S.-based optical connectivity manufacturing capacity by 10x and expand its U.S. fiber production capacity by more than 50%." Additionally, the company is pursuing an aggressive long-term growth strategy ("Springboard Plan") to scale annualized sales to $20 billion by the end of 2026 and $40 billion by 2030.

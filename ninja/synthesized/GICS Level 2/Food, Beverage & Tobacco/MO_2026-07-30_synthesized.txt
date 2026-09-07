@@ -1,0 +1,22 @@
+Ticker: MO
+Source: MO_2026-07-30.txt
+Generated: 2026-09-07 18:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Altria Group, Inc. (MO)**
+
+**1. Demand & Activity**
+Demand is mixed and softening in certain segments. Smokeable product revenues grew slightly, though this was offset by "lower shipment volume" and a shift toward "a higher percentage of discount shipment volume relative to premium" ("volume mix change"). The company notes "increased macroeconomic uncertainty facing adult nicotine consumers (ANCs)" and "moderated e-vapor industry growth" impacting overall volumes. Conversely, the smoke-free portfolio is expanding, with Helix expanding to "120,000 stores nationwide."
+
+**2. Labor & Wages**
+Not addressed.
+
+**3. Pricing Power & Inflation**
+The company maintains moderate pricing power; second-quarter smokeable product revenue growth was "primarily driven by higher pricing." There are no specific mentions of input cost relief or persistent inflationary pressures on commodities or freight.
+
+**4. Supply Chain & Inventory**
+Not addressed.
+
+**5. Capital Spending (Capex)**
+Capex is increasing. Full-year 2026 expectations were raised to "between $375 million and $450 million" (up from $300M–$375M). This increase "primarily reflects investments to support our plan to consolidate USSTC’s manufacturing operations." Additionally, the company is making "investments in support of our contract manufacturing capabilities."

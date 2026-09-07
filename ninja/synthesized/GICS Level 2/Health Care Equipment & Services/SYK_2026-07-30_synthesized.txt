@@ -1,0 +1,22 @@
+Ticker: SYK
+Source: SYK_2026-07-30.txt
+Generated: 2026-09-07 18:52 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Stryker Corp (SYK)**
+
+**1. Demand & Activity**
+Demand is robust, driven primarily by increased unit volume across all major segments. Organic net sales grew 9.0%, with MedSurg and Neurotechnology showing strong growth of 9.2% ("Organic net sales increased 9.2% in the quarter including 9.1% from increased unit volume") and Orthopaedics growing 8.6% ("Organic net sales increased 8.6% in the quarter from increased unit volume"). Management indicates regained momentum following a previous cyber incident ("enter the second half of 2026 with regained momentum").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+Pricing power is modest. Current growth is almost entirely volume-driven, with only a slight contribution from pricing in the MedSurg segment ("0.1% from higher prices"). Looking forward, the company expects a "modestly positive pricing impact" for the full year. While the "Cautionary Statement" lists inflationary pressures and pricing pressures as general risk factors, the financial results show a decrease in cost of sales (down 4.1% year-over-year), suggesting some relief in input costs.
+
+**4. Supply Chain & Inventory**
+Inventory levels have increased slightly, rising from $5.31 billion at year-end 2025 to $5.52 billion as of June 30, 2026. There are no specific mentions of lead times, though "supply chain disruptions" remain listed as a general risk factor.
+
+**5. Capital Spending (Capex)**
+Specific future project plans are not detailed; however, net property, plant, and equipment increased modestly from $3.88 billion to $3.96 billion over the six-month period. The company continues to invest in its pipeline, with research, development, and engineering expenses increasing 6.6% in the quarter ("Research, development and engineering expenses 434 407 6.6").

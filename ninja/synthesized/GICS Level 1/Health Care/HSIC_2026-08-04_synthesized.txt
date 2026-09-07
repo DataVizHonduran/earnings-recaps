@@ -1,0 +1,28 @@
+Ticker: HSIC
+Source: HSIC_2026-08-04.txt
+Generated: 2026-09-07 18:46 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Henry Schein Inc. (HSIC)**
+
+**1. Demand & Activity**
+Demand is showing robust growth across all primary business segments. Internal local currency sales growth accelerated in Q2, with particularly strong momentum in dental merchandise.
+*   **Dental Merchandise:** Robust growth ("Global Dental Distribution merchandise sales... increased 9.7%, and by 5.9% internal sales growth").
+*   **Dental Equipment:** Modest growth ("Global Dental Distribution equipment sales... increased 3.8%, and by 2.2% internal sales growth").
+*   **Medical Distribution:** Moderate growth ("Global Medical Distribution sales... increased 4.0%, and by 3.9% internal sales growth").
+*   **Technology:** Robust growth ("Global Technology sales... increased 8.2%, and reflects 9.1% internal sales growth").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company reports strong margin expansion, suggesting effective pricing or cost management, though specific mentions of price hikes or commodity relief are absent.
+*   **Margins:** Improving ("delivered strong sales performance and margin improvement in the second quarter").
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific data regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for facilities are not listed, the company is actively investing in operational efficiency and business simplification.
+*   **Operational Investment:** Ongoing focus on "value creation initiatives" to "simplify our business" and "drive operational rigor."
