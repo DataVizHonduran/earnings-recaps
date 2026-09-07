@@ -1,0 +1,22 @@
+Ticker: ROK
+Source: ROK_2026-08-04.txt
+Generated: 2026-09-07 18:51 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Rockwell Automation (ROK)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by strong organic sales growth of 10% ("Our 10% organic sales growth... reflects healthy customer demand"). Activity is particularly strong in the semiconductor, data center, and warehouse automation sectors, with modest improvements noted in automotive and life sciences ("Continued strength in semiconductor, data center, and warehouse automation, as well as improving activity in automotive and life sciences"). Software demand is growing at a high single-digit rate ("software ARR up high single digits year over year").
+
+**2. Labor & Wages**
+The report makes no specific mentions of hiring difficulties, turnover, or wage adjustments, though it notes a "highly engaged team" ("With a... highly engaged team, we are well positioned").
+
+**3. Pricing Power & Inflation**
+The company is experiencing negative pricing pressure, suggesting a lack of pricing power or strategic price reductions to maintain volume ("partially offset by negative price cost"). This trend was consistent across the Intelligent Devices and Software Control segments ("driven by higher sales volume... partially offset by negative price cost").
+
+**4. Supply Chain & Inventory**
+There are no specific mentions of lead times or inventory levels in the provided text.
+
+**5. Capital Spending (Capex)**
+The company is continuing to invest in technology and product development to drive growth ("expanding margins and investing in innovation"). No specific dollar amounts for facility or capacity expansion were disclosed.

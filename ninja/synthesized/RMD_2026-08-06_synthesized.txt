@@ -1,0 +1,22 @@
+Ticker: RMD
+Source: RMD_2026-08-06.txt
+Generated: 2026-09-07 18:51 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: ResMed Inc. (RMD)**
+
+**1. Demand & Activity**
+Demand is robust and growing globally. Revenue increased 9% in Q4, driven by "strong demand across sleep devices, masks, accessories, and software solutions" ("driven by strong demand across sleep devices..."). Growth is broad-based, with moderate to robust gains in the Americas (8% growth) and the Rest of World (10% growth in constant currency) ("Americas Sleep and Breathing Health revenue grew 8%, Rest of World Sleep and Breathing Health grew 10%").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is seeing moderate margin expansion, though not explicitly attributed to price hikes. Non-GAAP gross margin increased 90 basis points to 62.3%, which management attributes "predominantly from productivity pipeline execution" ("predominantly from productivity pipeline execution"). There is no mention of specific commodity or freight cost relief.
+
+**4. Supply Chain & Inventory**
+The provided text does not contain specific data regarding current lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment remains stable with a focus on technology and inorganic growth. The company continues "investment in innovation and growth initiatives" ("maintaining investment in innovation and growth initiatives"), which includes the acquisition of Noctrix Health ("Completed acquisition of Noctrix Health") and the expansion of digital capabilities ("enhance our digital capabilities to benefit our patients").

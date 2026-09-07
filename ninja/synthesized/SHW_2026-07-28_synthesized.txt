@@ -1,0 +1,22 @@
+Ticker: SHW
+Source: SHW_2026-07-28.txt
+Generated: 2026-09-07 18:51 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Sherwin-Williams (SHW)**
+
+**1. Demand & Activity**
+Demand remains **softening** and lacks meaningful recovery, though the company is seeing modest volume growth through market share gains. Overall demand is described as having "no meaningful improvement" ("no meaningful improvement in demand"). However, specific professional segments showed robust activity, led by a "double-digit percentage increase in protective and marine" and "high-single digit percentage increase in commercial." Outlook for the second half remains cautious as indicators "point to continued demand softness" ("leading indicators we track point to continued demand softness in the second half").
+
+**2. Labor & Wages**
+Labor costs are experiencing a **moderate** increase. The company reported an "increase in employee-related costs" ("increase in employee-related costs") and is investing in additional headcount to drive growth, specifically "investments in additional sales reps and stores" ("investments in additional sales reps and stores"). Simultaneously, the company is pursuing "targeted restructuring actions" to improve productivity ("restructuring actions that are expected to generate approximately $17 million of annual savings").
+
+**3. Pricing Power & Inflation**
+The company is exercising **robust** pricing power to counter persistent inflationary pressures. Management noted that "broad-based cost inflation continues across raw materials, energy, logistics and packaging" ("broad-based cost inflation continues across raw materials, energy, logistics and packaging"). In response, SHW is implementing aggressive pricing actions, including a planned "8% price increase in Paint Stores Group effective September 1" ("announced 8% price increase in Paint Stores Group effective September 1").
+
+**4. Supply Chain & Inventory**
+Inventory and lead time specifics were not detailed; however, the company is realizing "supply chain efficiencies" ("favorable mix, supply chain efficiencies") within its Consumer Brands Group to support margin expansion.
+
+**5. Capital Spending (Capex)**
+Investment is focused on **moderate** capacity and infrastructure expansion. The company is incurring "higher costs in the Administrative function related to the new global headquarters and technology center" ("higher costs... related to the new global headquarters and technology center") and continuing "growth investments" ("driven by continued growth investments") in its store network.
