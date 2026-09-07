@@ -1,0 +1,22 @@
+Ticker: MPWR
+Source: MPWR_2026-07-30.txt
+Generated: 2026-09-07 18:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Monolithic Power Systems (MPWR)**
+
+**1. Demand & Activity**
+Demand is robust and growing across all end markets. Growth is most pronounced in Enterprise Data, driven by "strong, broad-based ordering patterns" ("Enterprise Data growing 45%... strong, broad-based ordering patterns") specifically for AI and server applications. Other sectors show moderate to slight growth, including Communications (up 18% QoQ) and Industrial (up 12.7% QoQ). Automotive demand remains stable with a modest sequential increase of 3.1% ("increased 3.1% from the first quarter of 2026").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+Pricing and input costs appear stable. Gross margins remained flat sequentially at 55.2% (GAAP), suggesting a stable pass-through of costs or steady pricing power amidst current inflationary conditions.
+
+**4. Supply Chain & Inventory**
+Inventory levels are softening. While absolute internal inventory increased to $675.8 million, the "days of inventory" metric declined, indicating that production is aligning more efficiently with rising demand ("Days of inventory of 140 days... was 17 days lower than at the end of the first quarter"). The company continues to "expand and diversify our global supply chain" to ensure "supply stability" ("continuously expand and diversify our global supply chain allowing us to... maintain supply stability").
+
+**5. Capital Spending (Capex)**
+The company is aggressively expanding capacity to support long-term growth and a shift toward becoming a "full solution provider." Management has "extended our capacity goal significantly beyond $6B" ("extended our capacity goal significantly beyond $6B to support future revenue growth").

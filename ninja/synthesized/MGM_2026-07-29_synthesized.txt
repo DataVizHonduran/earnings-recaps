@@ -1,0 +1,28 @@
+Ticker: MGM
+Source: MGM_2026-07-29.txt
+Generated: 2026-09-07 18:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: MGM Resorts International (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is mixed across geographies, showing robust growth in digital and luxury gaming but softening in regional and hotel sectors. 
+*   **Las Vegas Strip:** Moderate growth in gaming activity, with casino revenue increasing 17% ("Casino revenue $536 [vs] $457"). However, hotel demand is softening, evidenced by a 4% decline in Average Daily Rate ("Average daily rate (ADR) $242 [vs] $252").
+*   **Regional Operations:** Stable to slightly growing on a same-store basis ("Same-store revenue... an increase of 3%"), though overall regional revenue declined 4%.
+*   **MGM China:** Relatively flat activity ("Revenue of $1.1 billion... relatively flat"), though the company notes "market share gains."
+*   **Digital:** Robust growth ("20% year-over-year revenue growth at MGM Digital").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+Pricing power appears to be softening in the hospitality sector. The company experienced a modest decline in its ability to maintain room rates in Las Vegas ("Average daily rate (ADR) $242 [vs] $252"). There are no mentions of input cost relief or persistent inflationary pressures on commodities or energy.
+
+**4. Supply Chain & Inventory**
+The provided text contains no mentions of supply chain lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+The company is pursuing a strategy of targeted investment in high-capacity and luxury assets.
+*   **International Expansion:** Significant long-term investment is directed toward the "largest integrated resort in the world, MGM Osaka, on track for 2030 opening."
+*   **Domestic Luxury:** Management intends to continue allocating "growth capital to drive significant returns on investment with meaningful opportunities at our Las Vegas luxury offerings."

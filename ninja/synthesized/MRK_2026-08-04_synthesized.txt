@@ -1,0 +1,31 @@
+Ticker: MRK
+Source: MRK_2026-08-04.txt
+Generated: 2026-09-07 18:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Merck & Co. (MRK)**
+
+**1. Demand & Activity**
+Demand is generally **robust**, with total worldwide sales growing 5% ("Total Worldwide Sales Were $16.6 Billion (5% Growth)"). 
+*   **Oncology & Respiratory:** Strong growth driven by "higher global demand in metastatic indications" and "continued uptake in the U.S." for Winrevair.
+*   **Animal Health:** Moderate growth of 8%, specifically "higher demand for ruminant and poultry products."
+*   **Vaccines/Diabetes:** Softening demand noted in U.S. vaccines ("lower demand in the U.S.") and diabetes ("decline primarily due to lower demand... due to competition").
+*   **Geographic Variance:** Robust demand in Asia Pacific and Europe for Gardasil, while some international markets saw declines.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company demonstrates mixed pricing power:
+*   **Positive:** Some products saw "higher net pricing in the U.S." (ProQuad, M-M-R II, and Bridion).
+*   **Negative:** Other lines experienced "lower net pricing" (Lenvima) or declines due to "net pricing in the U.S. due to competition" (Januvia/Janumet).
+*   **Input Costs:** Not explicitly detailed, though gross margins decreased to 73.5% from 77.5%, primarily attributed to "higher amortization of intangible assets and inventory write-downs" rather than commodity inflation.
+
+**4. Supply Chain & Inventory**
+The report does not mention lead times or general supply chain constraints. However, it notes a negative impact on margins from "inventory write-downs."
+
+**5. Capital Spending (Capex)**
+While specific facility spend is not listed, the company is investing heavily in technology and portfolio expansion:
+*   **IT/Admin:** SG&A increased 10%, partly due to "investments in IT."
+*   **R&D/Acquisitions:** Massive increase in R&D spending to $9.7 billion, including a "$5.7 billion charge" related to acquisitions and the advancement of new clinical assets (MK-4208).

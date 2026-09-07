@@ -1,0 +1,22 @@
+Ticker: MHK
+Source: MHK_2026-07-30.txt
+Generated: 2026-09-07 18:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Mohawk Industries (MHK)**
+
+**1. Demand & Activity**
+Demand remains mixed and generally soft. Residential channels are described as "soft" ("Residential channels remained soft during the quarter"), with the new home construction market "pressured" and existing home sales hindered by "affordability challenges." Conversely, the commercial sector continues to "outperform residential." While the company saw moderate volume growth in Q2, this was partially driven by "initial stocking of new product placements" and customers increasing inventory ahead of price hikes.
+
+**2. Labor & Wages**
+The company reports persistent upward pressure on labor costs, citing "higher labor, overhead, material, energy and transportation costs" as a primary driver for recent pricing actions. There are no specific mentions of hiring difficulties or headcount reductions, though the firm is pursuing "organizational realignment" and "productivity gains" to offset these costs.
+
+**3. Pricing Power & Inflation**
+MHK is actively exercising pricing power to combat persistent inflation. The company "executed pricing increases" across many products and geographies ("Across many of our products and geographies, we executed pricing increases"). Management indicates that input cost pressures are ongoing, noting that "higher input costs will flow through inventory" in the second half of the year and "additional price increases may be required."
+
+**4. Supply Chain & Inventory**
+Inventory levels are being "proactively" managed by the company ("proactively managing... our inventory levels and costs"). There is evidence of strategic inventory pulling by customers to avoid upcoming price increases ("limited increases in inventory by some customers ahead of announced price increases"). No specific mentions of lead time volatility were provided.
+
+**5. Capital Spending (Capex)**
+The company is shifting investment toward operational efficiency and "capacity optimization." MHK has initiated projects for "warehouse consolidation and capacity optimization," which will require "capital expenditures of approximately $50 million" through 2027.

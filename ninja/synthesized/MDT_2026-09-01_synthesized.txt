@@ -1,0 +1,22 @@
+Ticker: MDT
+Source: MDT_2026-09-01.txt
+Generated: 2026-09-07 18:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Medtronic (MDT)**
+
+**1. Demand & Activity**
+Demand is **robust** and broad-based across all major business segments. Organic revenue grew 13.7% in Q1, leading the company to raise its full-year organic growth guidance to 7.25%–7.75% ("raises fiscal 2027 guidance"). Growth is particularly strong in Cardiovascular, which grew 18.9% organic ("led by 15% growth in Cardiac Rhythm Management and 88% growth in Cardiac Ablation Solutions"), and the Diabetes business, which saw a 14.9% organic increase ("Diabetes business revenue... increased 14.9% organic").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail pricing actions or specific input cost pressures. However, the company reports "disciplined financial management" ("The combination of strong operating performance and disciplined financial management drove revenue and adjusted EPS ahead of expectations") and an expansion in GAAP operating margin by 120 basis points, suggesting stable to improving cost control.
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment activity is focused on **moderate** strategic expansion through acquisitions and technology partnerships. The company is making "targeted investments in innovation, portfolio development, and commercial execution" ("We continue to make targeted investments... that will support sustainable long-term value creation"). Recent activity includes the completion of acquisitions for Scientia Vascular and SPR Therapeutics ("Completed acquisitions of Scientia Vascular and SPR Therapeutics, Inc.") and a strategic partnership to expand robotic-assisted surgery ("strategic partnership with Cornerstone Robotics").
