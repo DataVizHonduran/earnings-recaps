@@ -1,0 +1,22 @@
+Ticker: NWS
+Source: NWS_2026-08-05.txt
+Generated: 2026-09-07 18:50 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: News Corp (NWS)**
+
+**1. Demand & Activity**
+Demand is **robust** across core growth engines. Digital Real Estate Services saw strong activity, specifically in Australia with "double-digit growth in yield and listing volumes" (REA Group). In the U.S., there is "strong demand for premium offerings" via Realtor.com. Dow Jones experienced **moderate** growth in digital circulation and a "10% increase in digital advertising revenues." Book Publishing demand is **robust**, supported by a "strong frontlist" and "accelerated growth in digital revenues."
+
+**2. Labor & Wages**
+Labor trends are mixed. The company reported "lower employee costs in the Other segment" contributing to full-year EBITDA. However, Dow Jones noted that revenue gains were "partially offset by increases in employee and technology costs." No specific mentions of hiring difficulty or turnover were provided.
+
+**3. Pricing Power & Inflation**
+The company demonstrates **moderate** pricing power. Dow Jones reported circulation revenue increases "driven by the conversion of customers from introductory promotions to higher pricing." There is no mention of input cost inflation or commodity pressure; however, the company is aggressively pursuing new revenue streams via AI, noting "trusted content relationships with OpenAI and Meta."
+
+**4. Supply Chain & Inventory**
+Not applicable. The company operates primarily in digital and information services. Book Publishing noted "higher backlist sales," but no signals regarding bloated or lean physical inventory levels were disclosed.
+
+**5. Capital Spending (Capex)**
+Investment is focused on digital transformation and technology. The CEO highlighted a "sustained focus on, and reinvestment in, News Corp’s core growth engines" to support its "transformation to a digital-first company." Specific dollar amounts for future facility or capacity expansions were not provided.

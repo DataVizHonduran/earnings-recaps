@@ -1,0 +1,22 @@
+Ticker: MTCH
+Source: MTCH_2026-08-04.txt
+Generated: 2026-09-07 18:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Match Group (MTCH)**
+
+**1. Demand & Activity**
+Demand is mixed but showing signs of a modest recovery in key segments. Tinder is experiencing softening declines, with year-over-year DAU declines narrowing to 4% ("the best result in 10 quarters") and improved trends among women and in top revenue countries. Conversely, Hinge is seeing robust growth, with revenue up 22% Y Y and global MAU increasing 13% Y Y ("Hinge grew revenue 86% Y Y across its European expansion markets"). Overall payer counts have declined moderately, falling 6% Y Y to 13.3 million.
+
+**2. Labor & Wages**
+The report does not explicitly detail hiring difficulties or wage inflation. However, there is evidence of moderate cost discipline within administrative functions, as general and administrative expenses decreased 22% Y Y ("General and administrative expense... $106,468 [vs] $136,555").
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate pricing power, successfully increasing the average revenue per paying user. Revenue per payer (RPP) grew 6% Y Y to $21.13. This pricing growth has partially offset the decline in the total number of paying users.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a digital services provider, the company reports no physical supply chain or inventory constraints.
+
+**5. Capital Spending (Capex)**
+Investment is focused on technology and product innovation rather than physical capacity. The company is prioritizing "product-led turnaround" efforts, including updates to recommendation algorithms and the expansion of "In-person Events" into 26 global cities by September ("Tinder Events... expanded into nine additional U.S. and European cities"). Product development spending remains stable year-over-year at approximately $115 million per quarter.

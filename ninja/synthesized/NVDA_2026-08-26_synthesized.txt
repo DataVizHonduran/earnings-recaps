@@ -1,0 +1,22 @@
+Ticker: NVDA
+Source: NVDA_2026-08-26.txt
+Generated: 2026-09-07 18:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: NVIDIA (Q2 FY2027)**
+
+**1. Demand & Activity**
+Demand is **robust** and accelerating globally, driven by a transition from single-lab dominance to a broad ecosystem of startups and frontier labs ("demand is accelerating," "strong momentum across the U.S. and around the world"). Data Center activity is particularly strong, with a "full steam" infrastructure buildout ("AI infrastructure buildout is at full steam"). However, demand signals from China are notably absent from future projections ("not assuming any Data Center compute revenue from China in its outlook").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company maintains **stable** to strong pricing power, evidenced by gross margins remaining high at 75.0% ("GAAP and non-GAAP gross margins were both 75.0%"). There are no specific mentions of input cost pressures or commodity inflation.
+
+**4. Supply Chain & Inventory**
+Supply chain activity is characterized by the rapid scaling of new architectures. The Vera Rubin platform has transitioned into "full production" ("Vera Rubin, now in full production"), and new switch systems are currently being deployed globally ("arriving across the world’s gigascale AI factories"). No mentions of bloated inventory or specific lead-time delays were noted.
+
+**5. Capital Spending (Capex)**
+Investment is focused on expanding physical infrastructure and strategic capacity. This includes securing "land, power and shell capacity" in Ohio ("Secured land, power and shell capacity... at the PORTS-Pike Technology Campus") and mobilizing significant third-party capital via partnerships with financial institutions to fund AI infrastructure ("mobilize over $500 billion of third-party capital for the buildout of AI infrastructure").

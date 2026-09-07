@@ -1,0 +1,22 @@
+Ticker: ON
+Source: ON_2026-08-03.txt
+Generated: 2026-09-07 18:50 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: onsemi (ON)**
+
+**1. Demand & Activity**
+Demand is showing moderate growth overall, with significant divergence across product lines. Activity is robust in AI-driven applications, specifically AI data centers, which is described as the "fastest-growing business" with revenue expected to "more than double in 2026" ("reflecting strengthening demand, particularly across AI-driven applications"). In contrast, the Automotive and Sensing segments (AMG) are experiencing stable to slightly softening activity, with a 2% year-over-year revenue decline ("AMG... (2)% Year-over-Year Change").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage pressures. The company noted "disciplined cost management" ("driven by gross margin expansion and disciplined cost management"), but did not attribute this to specific labor actions.
+
+**3. Pricing Power & Inflation**
+The company is demonstrating moderate pricing power and efficiency gains, evidenced by expanding margins. Non-GAAP gross margins increased from 37.6% to 39.3% year-over-year ("gross margin expansion"). There are no specific mentions of commodity or freight inflation, though the company reports "operating leverage" is improving.
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory volume. However, the company indicates a positive outlook on the flow of goods as "demand continues to improve" ("as demand continues to improve, we are increasingly confident in our ability to drive profitable growth").
+
+**5. Capital Spending (Capex)**
+While specific facility spend is not detailed, the company is pursuing inorganic growth and capacity expansion through the "planned acquisition of Synaptics" to expand "capabilities in connected compute" ("expanding capabilities in connected compute at accretive gross margins to support a market expansion").
