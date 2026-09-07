@@ -1,0 +1,22 @@
+Ticker: TOL
+Source: TOL_2026-08-18.txt
+Generated: 2026-09-07 18:53 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Toll Brothers (TOL)**
+
+**1. Demand & Activity:**
+Demand appears mixed but resilient among high-end consumers. While home sales revenues and deliveries saw a moderate decline year-over-year, net signed contracts grew modestly ("grew net signed contracts by 5% year over year"). Management describes the current environment as a "challenging market" but notes the "resilience of our affluent customer base."
+
+**2. Labor & Wages:**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation:**
+The company maintains stable pricing power in the luxury segment, with average delivered prices remaining robust (FY2026 guidance: "$995,000 - $1,000,000"). However, there is evidence of margin compression; adjusted home sales gross margins softened to 25.6% from 27.5% in the prior year ("Adjusted home sales gross margin... was 25.6%, compared to FY 2025's third quarter... 27.5%").
+
+**4. Supply Chain & Inventory:**
+Inventory levels appear stable, though the company is managing some impairments. The company ended the quarter with approximately 75,500 lots owned or optioned ("approximately 75,500 lots owned and optioned"), a slight decrease from the prior year.
+
+**5. Capital Spending (Capex):**
+Investment in capacity is expanding moderately. The company is actively pursuing "disciplined land investments" ("spent approximately $451.9 million on land to purchase approximately 2,784 lots") and expects a robust increase in its operational footprint ("on track to grow community count by 8% to 10% in fiscal 2026").

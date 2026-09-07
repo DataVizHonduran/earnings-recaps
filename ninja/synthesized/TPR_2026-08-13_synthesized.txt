@@ -1,0 +1,22 @@
+Ticker: TPR
+Source: TPR_2026-08-13.txt
+Generated: 2026-09-07 18:53 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Tapestry, Inc. (TPR)**
+
+**1. Demand & Activity**
+Demand is **robust** overall, though divergent by brand and region. The Coach brand saw strong growth ("24% (+23% Constant Currency) Growth at Coach Brand"), while Kate Spade experienced a **moderate** decline ("(10)%... (11)% [Constant Currency]" for the full year). Geographically, demand is **robust** in Greater China ("revenue grew 28% in the fourth quarter and 35% for the full year") and Europe ("grew 19% in the fourth quarter and 23% for the full year"), while Japan is **softening** ("(10)%... (7)% [Constant Currency]" for the full year). North American demand remains **stable to modest** ("revenue grew 7% in the fourth quarter and 15% for the full year").
+
+**2. Labor & Wages**
+Not addressed.
+
+**3. Pricing Power & Inflation**
+The company demonstrates **robust** pricing power, particularly within its core luxury segment. Average Unit Retail (AUR) for Coach handbags increased at a "mid-teens percentage rate in both Q4 and FY26." This pricing strength contributed to an expansion of gross margins, which increased by "240 bps" for the full year.
+
+**4. Supply Chain & Inventory**
+Not addressed.
+
+**5. Capital Spending (Capex)**
+Specific facility or technology spend is not detailed; however, the company is executing an "Amplify growth strategy" focused on "Fashion Innovation and Product Excellence" and "Compelling Experiences to Drive Global Growth." The company maintains a "strong financial position" and "significant free cash flow generation" to support these strategic pillars.

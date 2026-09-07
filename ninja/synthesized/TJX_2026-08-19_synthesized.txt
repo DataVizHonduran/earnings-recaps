@@ -1,0 +1,22 @@
+Ticker: TJX
+Source: TJX_2026-08-19.txt
+Generated: 2026-09-07 18:52 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: TJX Companies (Q2 FY27)**
+
+**1. Demand & Activity**
+Demand is moderate to robust, with consolidated comparable sales increasing 4% ("consolidated comparable sales increased 4%"). Growth is uneven across segments: activity is robust in HomeGoods, TJX Canada, and TJX International, all seeing increases of 6% to 7% ("delivered terrific comp sales increases of 6% to 7%"), while demand at Marmaxx was slight and below expectations ("sales at Marmaxx were below our expectations").
+
+**2. Labor & Wages**
+The company is experiencing modest upward pressure on labor costs, noting that adjusted SG&A increases were primarily "driven by incremental store wage and payroll costs" ("driven by incremental store wage and payroll costs").
+
+**3. Pricing Power & Inflation**
+The company reports a modest improvement in profitability driven by "an increase in merchandise margin" ("driven by an increase in merchandise margin"). While not explicitly citing price hikes, the company benefited significantly from a one-time windfall of tariff refunds ("received aggregate refunds of $331 million for a portion of the IEEPA tariffs").
+
+**4. Supply Chain & Inventory**
+Inventory levels remain stable and well-aligned with demand, increasing only 2% on a per-store reported basis ("up 2% on a reported basis"). The company reports that the availability of branded goods in the broader marketplace is currently "outstanding" ("Availability of branded, quality merchandise continues to be outstanding").
+
+**5. Capital Spending (Capex)**
+TJX is accelerating its physical expansion plans, signaling robust confidence in long-term growth. The company intends to increase its store growth rate to 4% starting in FY28 ("planning to accelerate our store openings to 4% starting next year") with a long-term global target of 7,500 stores ("increases long-term global store target to 7,500 stores").
