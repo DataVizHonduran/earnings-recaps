@@ -1,0 +1,25 @@
+Ticker: HRL
+Source: HRL_2026-08-27.txt
+Generated: 2026-09-07 18:46 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Hormel Foods (HRL)**
+
+**1. Demand & Activity**
+Overall demand is softening, characterized by a "consumer environment that remains under pressure." Activity varies significantly by channel:
+*   **Retail:** Softening; organic volume declined 9% ("Retail Volume down 9% organic volume down 9%"), though value-added turkey and priority brands like SPAM and Applegate showed resilience.
+*   **Foodservice:** Robust; this segment outperformed industry trends with 12 consecutive quarters of organic growth ("Foodservice once again outperformed industry trends").
+*   **International:** Softening; organic volume declined 11% ("International... organic volume down 11%"), though branded export demand remained "resilient."
+
+**2. Labor & Wages**
+The provided text contains no specific data on current hiring, turnover, or wage trends, though it lists "labor relations and labor availability risks" as a general forward-looking risk factor.
+
+**3. Pricing Power & Inflation**
+Pricing power is moderate to declining as the company faces "lower commodity-based pricing in portions of the business." However, there is evidence of input cost relief in specific categories, notably "favorable pork input costs" in the Foodservice segment. These gains were partially offset by "higher logistics expenses" in both Retail and Foodservice.
+
+**4. Supply Chain & Inventory**
+Inventory levels are stable with a slight increase, rising by $54 million to a total of $1.8 billion ("Inventories were $1.8 billion at quarter end, an increase of $54 million"). No specific mentions of lead time volatility were noted.
+
+**5. Capital Spending (Capex)**
+Capex is stable, totaling $68 million for the quarter (compared to $72 million YoY). Investment is currently focused on "infrastructure enhancements and investments in data and technology."

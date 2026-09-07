@@ -1,0 +1,22 @@
+Ticker: HST
+Source: HST_2026-08-05.txt
+Generated: 2026-09-07 18:46 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Host Hotels & Resorts (HST)**
+
+**1. Demand & Activity**
+Demand is robust and broad-based, characterized by "strong leisure and group demand" ("strong leisure and group demand, which drove an increase in rates"). Growth is particularly evident in the leisure transient segment and resorts, bolstered by the FIFA World Cup ("driven by strong transient leisure business, particularly at resorts and in connection with the FIFA World Cup matches"). Management notes the "durability of demand," specifically among "affluent consumers" who continue to prioritize travel.
+
+**2. Labor & Wages**
+The company is experiencing persistent upward pressure on labor costs, noting "increases in wage expense" ("higher room rates offset wage expense increases"). While these costs are rising, they are currently being absorbed by strong top-line revenue growth.
+
+**3. Pricing Power & Inflation**
+HST demonstrates robust pricing power, achieving "solid rate growth across the portfolio" ("Comparable hotel RevPAR growth of 7.0%... driven by solid rate growth"). The company has successfully utilized room rate increases to offset inflationary pressures from wages ("average room rate increases, which offset increases in wage expense"). Additionally, there is growth in ancillary spending, specifically "increases in food and beverage revenues."
+
+**4. Supply Chain & Inventory**
+Not explicitly addressed regarding general supply chains. Inventory mentions are limited to specific real estate development costs for condominium units ("Inventory spend for condo development").
+
+**5. Capital Spending (Capex)**
+Capex activity is moderate and focused on asset modernization and maintenance. The company is executing "Transformational Capital Programs" with Marriott and Hyatt, with a full-year 2026 forecast for total capital expenditures ranging from $550 million to $630 million ("Total Capital Expenditures $550 [to] $630"). This includes significant "Renewals and Replacements" and ROI-driven projects to maintain portfolio quality.

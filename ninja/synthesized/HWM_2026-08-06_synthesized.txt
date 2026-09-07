@@ -1,0 +1,22 @@
+Ticker: HWM
+Source: HWM_2026-08-06.txt
+Generated: 2026-09-07 18:47 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Howmet Aerospace (HWM)**
+
+**1. Demand & Activity**
+Demand is robust across most major segments. Commercial aerospace is seeing "more robust build rates" supported by "record backlogs," while engine spares needs "continue to increase." Defense markets remain healthy, specifically for missiles, drones, and collaborative combat aircraft. Demand in the gas turbines market is described as "extraordinary," with customers actively increasing their outlooks. The North American commercial transportation market is showing signs of a "modest" recovery, with volumes increasing 7% sequentially from Q1 2026.
+
+**2. Labor & Wages**
+Labor activity is mixed by segment. The Engine Products segment saw a moderate increase in headcount, absorbing "approximately 485 net headcount" to support expected revenue growth. Conversely, the Forged Wheels segment implemented "cost reductions, including lower net headcount," in response to previously lower volumes.
+
+**3. Pricing Power & Inflation**
+The company demonstrates strong pricing power and the ability to pass through costs. In the Forged Wheels segment, revenue growth was driven by "an increase in aluminum and other inflationary cost pass through," which offset an 8% decline in commercial transportation volumes.
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capex is increasing to support organic growth. The company reported $104 million in capital expenditures for the quarter and noted that "capital expenditure requirements continue to increase." Management explicitly signaled a need to "increase this further in 2027" to support future growth in the aerospace and gas turbines markets.

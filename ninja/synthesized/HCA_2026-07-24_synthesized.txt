@@ -1,0 +1,22 @@
+Ticker: HCA
+Source: HCA_2026-07-24.txt
+Generated: 2026-09-07 18:46 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided press release for HCA Healthcare (2Q 2026), the economic signals are as follows:
+
+**1. Demand & Activity**
+Demand appears **robust**, evidenced by a significant increase in top-line growth. Revenues increased 8.7 percent to $20.230 billion ("Revenues increased 8.7 percent to $20.230 billion").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, wage increases, or headcount changes.
+
+**3. Pricing Power & Inflation**
+The document does not explicitly detail pricing actions or specific input cost pressures (commodities/freight); however, the growth in revenues suggests a capacity to maintain or increase pricing in line with demand.
+
+**4. Supply Chain & Inventory**
+The provided text contains no mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+The provided text does not list specific future capital investment plans or facility expansions.
