@@ -1,0 +1,22 @@
+Ticker: KMB
+Source: KMB_2026-08-04.txt
+Generated: 2026-09-07 18:47 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Kimberly-Clark (KMB)**
+
+**1. Demand & Activity**
+Demand is generally stable to modestly growing, though geographic variance is evident. Organic sales growth was "broadly in line with the prior year" for Q2, while the first half of the year saw a "1.3 percent increase in volume from broad growth within each segment." However, activity in China is softening due to a "discrete disruption stemming from false allegations regarding the quality of certain diaper brands," which "significantly impacted the Company’s diaper sales in China."
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+Pricing power appears moderate but is being offset by persistent cost pressures. The company reported "unfavorable pricing net of cost inflation" for the first half of the year. To maintain competitiveness, KMB is making "planned investments to... improve price value tiers across the portfolio." Some margin relief was achieved through "one-time tariff refunds and strong productivity savings."
+
+**4. Supply Chain & Inventory**
+The report does not specify lead times or inventory levels, but it notes ongoing "supply chain related investments" that have acted as a partial offset to gross margin gains.
+
+**5. Capital Spending (Capex)**
+Investment in technology and capacity is robust. The company is advancing its "sustainable materials innovation platform" by "announcing the construction of an alternative natural fibers pilot plant in the Southwest of the United States." Additionally, the company is pursuing inorganic growth via the "pending acquisition of Kenvue," expected to close by year-end.

@@ -1,0 +1,22 @@
+Ticker: J
+Source: J_2026-08-04.txt
+Generated: 2026-09-07 18:47 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Jacobs Solutions Inc. (J)**
+
+**1. Demand & Activity**
+Demand is **robust** and accelerating, characterized by "strong business momentum" ("Raising FY 2026 Guidance for the Third Consecutive Quarter"). Growth is broad-based across the Infrastructure Advanced Facilities (IAF) segment, specifically driven by "Data Center, Semiconductor, Energy Power, Transportation and Water sectors" ("revenue growth was broad-based"). There is particular strength in "Life Sciences Advanced Manufacturing" and a significant ramp-up in "spending on the AI build-out" ("As spending on the AI build-out has ramped up"). This is reflected in a record backlog of $28.9 billion, up 27.3% year-over-year.
+
+**2. Labor & Wages**
+The provided text contains no specific updates on current hiring, turnover, or wage trends. However, the company lists "labor shortages" as a general risk factor in its forward-looking statements.
+
+**3. Pricing Power & Inflation**
+The company reports "solid quarter-over-quarter improvement in our margin profile" ("Top-tier revenue growth, paired with good operating performance, drove solid... improvement"). While specific pricing actions are not detailed, the company notes that general "inflation and the actions taken by monetary authorities" remain systemic risks to the broader operating environment.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a professional services and engineering firm, the company does not report traditional physical inventory levels or commodity lead times.
+
+**5. Capital Spending (Capex)**
+There is a **robust** trend of increased capital investment from the company's client base. Private sector and utility clients "continue to boost capital spending" ("Our private sector and utility clients continue to boost capital spending"), particularly for the delivery of "increasingly complex manufacturing and compute facilities" ("help deliver increasingly complex manufacturing and compute facilities").

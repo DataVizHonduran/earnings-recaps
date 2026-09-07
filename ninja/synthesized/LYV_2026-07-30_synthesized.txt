@@ -1,0 +1,22 @@
+Ticker: LYV
+Source: LYV_2026-07-30.txt
+Generated: 2026-09-07 18:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Live Nation Entertainment (LYV)**
+
+**1. Demand & Activity**
+Demand for live events remains **robust** globally, characterized by record ticket sales and attendance. Global fan count grew 10% to 49 million ("Underlying demand trends remain robust"). Growth is particularly strong in international markets, where stadium, arena, and festival attendance all increased by over 20% ("International markets powered growth across all segments"). In the U.S., demand is mixed by venue type: amphitheaters and arenas saw double-digit growth, while stadium attendance declined due to timing ("U.S. attendance at amphitheaters and arenas up double digits, while stadium attendance declined due to show timing").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is exercising **modest** pricing power, though it is intentionally limiting increases to maintain affordability. Price hikes across major U.S. venue types were in the "low- to mid-single-digit" range ("low- to mid-single-digit price increases across stadiums, arenas, and amphitheaters"). Management noted that ticket price growth has continued to trail inflation over a five-year horizon ("U.S. get-in ticket price increases continuing to trail inflation over the past five years"). Onsite spending for food and beverage grew by "high single digits" in the U.S. and Europe.
+
+**4. Supply Chain & Inventory**
+Not applicable. The company reports "all-time-high deferred revenue" ($6.4 billion), which serves as a leading indicator for accelerating activity in the second half of the year ("pointing to accelerating stadium and amphitheater activity in the second half").
+
+**5. Capital Spending (Capex)**
+Capex is focused on **robust** capacity expansion. Full-year expenditures are projected at $1.1 billion, with $800 million dedicated specifically to venue expansion and enhancement ("$800 million of total capital expenditures is for venue expansion and enhancement projects"). The company is aggressively increasing its footprint, with a pipeline of over 25 large venues expected to open through 2027 to add capacity for an incremental 15 million fans ("Current pipeline of more than 25 large... venues expected to open through the end of 2027").

@@ -1,0 +1,22 @@
+Ticker: LHX
+Source: LHX_2026-07-29.txt
+Generated: 2026-09-07 18:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: L3Harris Technologies (LHX)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by a record backlog of $42 billion and a book-to-bill ratio of 1.2x. Revenue grew 8% in Q2, driven by "new program starts and strong execution" ("Revenue of $5.9 billion, up 8%"). Growth is broad-based across segments, with particular strength in Missile Solutions (up 14%) due to "increased production and development volumes on key missile and munitions programs" and Space Mission Systems (up 7%) driven by "higher volumes on missionized aircraft programs" and "classified space programs."
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is experiencing moderate margin expansion, with segment operating margins increasing to 16.0% ("up 10 bps"). This was primarily driven by "increased volume and improved program performance" ("Segment operating income grew across all segments"). There is no explicit mention of price hikes or specific commodity/freight inflation relief, though the company notes a "complex threat environment" is driving the need for capabilities "at scale."
+
+**4. Supply Chain & Inventory**
+Inventory levels appear stable, with a slight increase from $1.22 billion to $1.27 billion ("Inventories, net $1,272 [vs] $1,219"). While the company lists "supply chain disruptions" as a general risk factor in its forward-looking statements, there are no reports of current lead-time bottlenecks impacting Q2 delivery.
+
+**5. Capital Spending (Capex)**
+Capex is stable and targeted toward capacity and technology. The company anticipates total annual capital expenditures of approximately $600 million ("capital expenditures are anticipated to be approximately $600 million"). Management explicitly references "planned investments and capacity expansion" as key components of their forward-looking strategy.
