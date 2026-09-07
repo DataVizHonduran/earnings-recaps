@@ -1,0 +1,22 @@
+Ticker: USFD
+Source: USFD_2026-08-06.txt
+Generated: 2026-09-07 18:54 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: US Foods (USFD)**
+
+**1. Demand & Activity**
+Demand is showing moderate growth, characterized by a "challenging but stable industry environment" ("challenging but stable industry environment"). Activity is bifurcated by customer segment: robust growth in independent restaurants (+5.1%), hospitality (+4.4%), and healthcare (+3.5%), which was partially offset by softening demand in the chain segment (-1.5%) ("independent restaurant case volume increased 5.1%... partially offset by a 1.5% decrease in chain volume").
+
+**2. Labor & Wages**
+The report does not provide specific data on current wage trends or headcount changes, though it acknowledges general systemic risks regarding "increased labor costs and continued access to qualified labor" ("increased labor costs and continued access to qualified labor").
+
+**3. Pricing Power & Inflation**
+The company is experiencing modest inflationary pressure, with net sales growth driven in part by "food cost inflation of 2.3%" ("driven by case volume growth and food cost inflation of 2.3%"). However, the company is successfully managing these costs through "cost productivity improvements" and "improved cost of goods sold" ("expanded margins again this quarter through a combination of... cost productivity improvements").
+
+**4. Supply Chain & Inventory**
+The report does not explicitly detail current lead times or inventory levels. It notes a "favorable year-over-year LIFO adjustment" of $19 million, suggesting a positive impact from accounting for inventory cost flows ("a $19 million favorable year-over-year LIFO adjustment").
+
+**5. Capital Spending (Capex)**
+Capex is increasing modestly to support infrastructure and digitalization. Year-to-date investment totaled $174 million, a $13 million increase over the prior year, directed toward "information technology, property and equipment and construction of and improvements to distribution facilities" ("investments in information technology, property and equipment and construction of and improvements to distribution facilities").

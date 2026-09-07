@@ -1,0 +1,22 @@
+Ticker: UBER
+Source: UBER_2026-08-05.txt
+Generated: 2026-09-07 18:53 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Uber Technologies, Inc. (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is robust and growing across all primary business lines. Total trips grew 18% year-over-year to 3.9 billion ("Trips during the quarter grew 18% year-over-year"), supported by a moderate increase in user engagement ("monthly Trips per MAPC growth of 2% YoY"). Growth is broad-based, with Gross Bookings increasing across Mobility (20%), Delivery (25%), and Freight (25%) on a constant currency basis. The company reports strong new user acquisition, noting they have "added more first-time users over the past twelve months than in any period over the past five years."
+
+**2. Labor & Wages**
+The provided text contains no specific data regarding hiring, turnover, or wage adjustments. The company notes a general strategic risk regarding the "ability to attract drivers, consumers and other partners to our platform," but provides no current-quarter labor market signals.
+
+**3. Pricing Power & Inflation**
+The company demonstrates strong top-line growth, though revenue growth (11% constant currency) lagged behind Gross Bookings growth (22% constant currency), as "Business model changes negatively impacted total revenue YoY growth by 8 percentage points." While specific price hike data is absent, the company cites "rising inflation and interest rates" as general external risks in its forward-looking statements.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a platform-based service provider, Uber does not report traditional physical inventory or supply chain lead times.
+
+**5. Capital Spending (Capex)**
+Investment is focused on technology and future capacity. Management is "investing from a position of strength" to "build the world’s largest platform for autonomous vehicles." The company maintains significant liquidity to support these goals, with trailing twelve-month free cash flow exceeding $10 billion for the first time.

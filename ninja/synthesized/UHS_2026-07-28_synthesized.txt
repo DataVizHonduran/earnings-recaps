@@ -1,0 +1,22 @@
+Ticker: UHS
+Source: UHS_2026-07-28.txt
+Generated: 2026-09-07 18:53 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided press release, the economic signals for Universal Health Services (UHS) are as follows:
+
+**1. Demand & Activity**
+Demand appears **robust**, as evidenced by a significant increase in top-line growth. Net revenues grew by 8.3% year-over-year ("Net revenues increased by 8.3% to $4.638 billion during the second quarter of 2026").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is benefiting from **moderate** to **robust** increases in government reimbursements, specifically through state-directed payment programs. A notable positive signal came from Florida ("a favorable net pre-tax impact of $100 million... in connection with the Florida Medicaid managed care directed payment program"). There is no mention of input cost inflation or commodity pressures.
+
+**4. Supply Chain & Inventory**
+The provided text contains no mentions of supply chain lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+The company has engaged in **moderate** capacity expansion, specifically in the acute care sector, though new facilities may face initial ramp-up costs ("a newly constructed, 142-bed acute care hospital located in Washington, D.C., that was completed and opened in April, 2025").
