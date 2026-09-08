@@ -1,0 +1,22 @@
+Ticker: AMD
+Source: AMD_2026-08-04.txt
+Generated: 2026-09-08 17:50 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: AMD (Q2 2026)**
+
+**1. Demand & Activity**
+Demand is **robust** and expanding, driven primarily by AI compute requirements. Data Center activity is seeing **strong** growth, with revenue more than doubling year-over-year ("Data Center revenue more than doubled year-over-year"). Demand for EPYC processors and Instinct GPUs remains high, with expectations for further acceleration in H2 2026 ("expect Data Center sales to accelerate in the second half of 2026"). Client business demand is **moderate** ("strong demand for AMD Ryzen processors"), while Gaming activity is **softening** significantly ("Gaming business revenue was $779 million, down 31% year-over-year"). Embedded demand is showing **modest** improvement ("demand strengthened across multiple end markets").
+
+**2. Labor & Wages**
+The report does not provide specific data on wage inflation or hiring difficulties; however, it notes historical "workforce rebalancing charges" within its acquisition-related costs (Footnote 1).
+
+**3. Pricing Power & Inflation**
+AMD is demonstrating **robust** pricing power and margin expansion. Non-GAAP gross margins increased significantly to 56%, up from 43% the previous year ("Gross margin 56%... Up 13 ppts"). There are no mentions of persistent input cost pressures or commodity inflation.
+
+**4. Supply Chain & Inventory**
+Inventory levels appear **stable**, though the company previously faced significant headwinds due to regulatory constraints. The report references a prior $800 million charge related to "U.S. Government's export control on AMD Instinct MI308 data center GPU products" in Q2 2025, suggesting that previous inventory bloat in specific product lines was a result of policy shifts rather than organic demand failure.
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for facilities are not disclosed, the company is investing in technology expansion and strategic acquisitions to increase capacity for AI workloads. This includes the acquisition of MEXT for "predictive memory technology" and the deployment of "up to 2 gigawatts of MI450 Series GPUs" via a strategic partnership with Anthropic.

@@ -1,0 +1,22 @@
+Ticker: ROST
+Source: ROST_2026-08-20.txt
+Generated: 2026-09-08 17:50 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Ross Stores (ROST)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by strong growth in both customer acquisition and retention. Comparable store sales increased by a "very strong 10%" in Q2, primarily driven by customer traffic ("comparable store sales growth once again primarily driven by customer traffic"). This growth is attributed to a combination of "an increase in new customers and higher engagement from existing customers."
+
+**2. Labor & Wages**
+The provided text contains no specific updates on current labor costs or hiring trends for the period. However, the company lists "labor shortages, increased turnover, or increased labor costs" as ongoing general risk factors.
+
+**3. Pricing Power & Inflation**
+The company is experiencing significant input cost relief via regulatory recoveries, specifically noting "approximately $253 million from IEEPA tariff refunds," which contributed 405 basis points to the operating margin. While the company monitors "continuing inflation" as a general risk to consumer confidence, current results show strong margin expansion.
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on current lead times or inventory levels. It notes the general operational necessity to "effectively manage our inventories, markdowns, and inventory shortage" and identifies "disruptions in our supply chain" as a potential risk to timely product delivery.
+
+**5. Capital Spending (Capex)**
+Investment in physical capacity is accelerating. The company is increasing its 2026 expansion target to "115 new locations" (approximately 90 Ross and 25 dd’s DISCOUNTS), having already opened 47 stores in the second quarter. Management cited the "success of our expansion strategy across both new and existing markets" as the driver for this increased commitment.
