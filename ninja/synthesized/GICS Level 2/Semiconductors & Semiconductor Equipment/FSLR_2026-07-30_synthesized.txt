@@ -1,0 +1,22 @@
+Ticker: FSLR
+Source: FSLR_2026-07-30.txt
+Generated: 2026-09-08 17:50 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: First Solar (FSLR)**
+
+**1. Demand & Activity**
+Demand remains **robust**, characterized by a significant long-term contracted backlog of 45.1 GW extending through 2030 ("demonstrating continued demand for our differentiated technology platform"). While net sales saw a **slight** year-over-year decrease of 4%, this was attributed to specific "customer contract terminations" rather than a systemic decline in market interest, as the company simultaneously achieved "record second-quarter and first-half sales volume."
+
+**2. Labor & Wages**
+The provided text contains no specific data on wage increases or headcount reductions, though the company identifies the ability to "attract, train, retain, and successfully integrate key talent" as a general operational risk.
+
+**3. Pricing Power & Inflation**
+The company maintains **stable** financial performance with an increase in net income per share (up 23% YoY). While specific pricing hikes are not detailed, the outlook is sensitive to "freight-related costs" and the "supply and price of key raw materials," indicating a continued monitoring of input cost volatility.
+
+**4. Supply Chain & Inventory**
+Supply chain conditions appear **stable**, with a strategic emphasis on a "domestic manufacturing footprint" to ensure "delivery certainty." The company explicitly notes its process "does not rely on Chinese crystalline silicon supply chains," mitigating specific geopolitical supply risks.
+
+**5. Capital Spending (Capex)**
+Capex activity is **moderate to robust**, with 2026 guidance maintained between $0.8B and $1.0B. Current spending is primarily directed toward capacity expansion, specifically the "South Carolina finishing facility."
