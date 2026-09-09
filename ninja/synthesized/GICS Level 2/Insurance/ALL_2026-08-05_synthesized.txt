@@ -1,0 +1,15 @@
+Ticker: ALL
+Source: ALL_2026-08-05.txt
+Generated: 2026-09-09 17:45 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Demand for insurance products is robust. Total policies in force increased 3.8% ("Total policies in force... 215,935 [thousand]... 3.8% [increase]"). Growth was moderate across the Property-Liability segment ("Policies in force increased by 2.6%, led by growth in auto and homeowners insurance policies"), with a significant spike in new homeowners business ("16.4% increase in new business"). Additionally, Protection Services saw moderate revenue growth of 7.8% ("primarily due to continued Protection Plans growth").
+
+**Labor & Wages:** Not mentioned.
+
+**Pricing Power & Inflation:** The company exhibits robust pricing power, particularly in homeowners insurance, where average gross written premiums increased 5.8% ("reflects rate increases and higher home replacement costs"). Despite these increases, the company is facing persistent inflationary pressure via "higher loss costs" which impacted the underlying combined ratio for homeowners.
+
+**Supply Chain & Inventory:** Not applicable.
+
+**Capital Spending (Capex):** Specific capital expenditure figures were not provided, though the company is investing in "enhanced direct distribution capabilities" and "expanded distribution" as part of its "Transformative Growth" strategy.

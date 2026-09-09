@@ -1,0 +1,15 @@
+Ticker: STE
+Source: STE_2026-08-05.txt
+Generated: 2026-09-09 17:46 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Overall demand is stable ("stable underlying demand"). Growth is robust in Healthcare consumables and services ("share gains in consumables and services are fueling our performance"), while demand for AST capital equipment is softening ("13% decline in capital equipment revenue"). Life Sciences activity is moderate, led by strong capital equipment growth ("17% growth in capital equipment revenue").
+
+**Labor & Wages:** Labor costs are exerting modest pressure on margins within the AST segment ("partially offset by... labor"). The company is executing a targeted restructuring plan involving facility closures, with expenditures including "Associate retention, severance and benefits."
+
+**Pricing Power & Inflation:** The company maintains robust pricing power across its business lines ("primarily reflects improved price"). However, these gains are being partially offset by persistent inflationary and tariff pressures ("somewhat offset by inflation and increased tariff costs").
+
+**Supply Chain & Inventory:** Not discussed.
+
+**Capital Spending (Capex):** Capex is increasing robustly to expand capacity and optimize the U.S. distribution network through a new Center of Excellence in North Carolina ("accelerate
