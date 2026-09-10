@@ -1,0 +1,22 @@
+Ticker: AXON
+Source: AXON_2026-08-05.txt
+Generated: 2026-09-10 17:36 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: AXON**
+
+**1. Demand & Activity**
+Demand is **robust** across both new and existing customer bases ("Demand remained robust among both new and existing customers"). Growth is broad-based, with **moderate to strong** expansion in Software Services (+36%) and Connected Devices (+35%). Activity is particularly **robust** in newer markets, where international and enterprise bookings approximately tripled year-over-year ("Momentum was also particularly strong in newer markets, with international and enterprise bookings each approximately tripling year over year").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company demonstrates **robust** pricing power through the adoption of "premium software offerings, including the AI Era Plan." While specific input cost inflation is not detailed, the company noted a positive impact from "global tariff refunds received in the quarter," which supported operating income and Adjusted EBITDA.
+
+**4. Supply Chain & Inventory**
+Inventory levels appear to be increasing to keep pace with strong activity, as the company noted "continued inventory investment to support customer demand" as a factor impacting free cash flow. There are no mentions of lead-time constraints or bloated stock.
+
+**5. Capital Spending (Capex)**
+The company is maintaining **disciplined investment** to drive future growth ("supported by disciplined investment and execution"). Specific expenditures are directed toward scaling new product offerings and expanding the "Axon Ecosystem" of sensors and AI-powered intelligence.

@@ -1,0 +1,22 @@
+Ticker: AVGO
+Source: AVGO_2026-09-02.txt
+Generated: 2026-09-10 17:36 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Broadcom Inc. (AVGO)**
+
+**1. Demand & Activity**
+Demand is **robust**, driven primarily by AI infrastructure. AI semiconductor revenue grew 221% year-over-year in Q3, with management expecting this momentum to accelerate further in Q4 ("Demand for our custom AI accelerators and networking continues to be very strong"). Growth is concentrated in the semiconductor segment, which saw a 127% year-over-year increase in net revenue ("Semiconductor solutions... +127%"). Infrastructure software demand remains positive but is more moderate, growing 29% year-over-year ("Infrastructure software... +29%").
+
+**2. Labor & Wages**
+The provided text contains no specific data regarding current hiring, turnover, or wage trends. The company notes a general strategic dependency on its "ability to attract and retain qualified personnel," but provides no operational updates on labor costs or headcount.
+
+**3. Pricing Power & Inflation**
+Pricing power appears **stable to strong**, as evidenced by significant revenue growth and the maintenance of high margins. Non-GAAP operating margins are expected to remain flat at a high level of 66% ("expect to maintain our non-GAAP operating margin at 66%, flat from a year ago"). There were no mentions of input cost pressures or commodity inflation.
+
+**4. Supply Chain & Inventory**
+The report does not provide specific updates on lead times or inventory levels. However, the company acknowledges a structural "dependence on contract manufacturing and outsourced supply chain" and the ongoing need to "accurately estimate customers demand and adjust our manufacturing and supply chain accordingly."
+
+**5. Capital Spending (Capex)**
+Capital expenditures remain **modest** relative to total cash flow. The company spent $0.5 billion on capital expenditures during the third quarter ("spent $0.5 billion on capital expenditures"), resulting in a high free cash flow conversion rate of 46% of revenue.
