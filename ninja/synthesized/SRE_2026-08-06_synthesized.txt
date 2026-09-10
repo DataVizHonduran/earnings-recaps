@@ -1,0 +1,22 @@
+Ticker: SRE
+Source: SRE_2026-08-06.txt
+Generated: 2026-09-10 17:38 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Sempra (SRE)**
+
+**1. Demand & Activity**
+Demand is robust, particularly in Texas, where the company reports "unprecedented growth in electric demand" ("Texas continues to experience unprecedented growth in electric demand"). This is evidenced by a new all-time peak load of 91 GW in July. There is significant forward-looking demand for large-load interconnections, with approximately 44 GW of requests in Oncor’s territory ("approximately 44 GW of large-load requests in Oncor's service territory are expected to be eligible").
+
+**2. Labor & Wages**
+No specific mentions of hiring difficulties, turnover, or wage pressures were provided in the text.
+
+**3. Pricing Power & Inflation**
+The company is successfully utilizing regulatory mechanisms to align pricing with the current economic environment. In Texas, new base rates and surcharges were implemented to "better align Oncor's cost structure with today's operating environment" ("The updated base rates better align Oncor's cost structure with today's operating environment"). In California, the company is pursuing "balanced" rate case applications to support safety and reliability while maintaining "disciplined cost management" ("maintaining disciplined cost management and a focus on customer affordability").
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific data regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capex is robust and expanding. Sempra invested over $6 billion in the first half of 2026 ("invested capital expenditures of over $6 billion") as part of a record five-year plan totaling approximately $65 billion through 2030 ("record five-year 2026-2030 capital plan of approximately $65 billion"). Investment is heavily concentrated in Texas and California (95%), with specific high-voltage transmission projects in Texas expected to require "more than $7 billion of incremental investment" ("require more than $7 billion of incremental investment").

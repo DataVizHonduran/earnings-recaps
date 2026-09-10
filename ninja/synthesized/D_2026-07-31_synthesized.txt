@@ -1,0 +1,19 @@
+Ticker: D
+Source: D_2026-07-31.txt
+Generated: 2026-09-10 17:37 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided press release for Dominion Energy (D), there is insufficient data to provide a detailed economic signal analysis. The document is a high-level financial summary rather than a full earnings transcript.
+
+**1. Demand & Activity:** Not specified. The company reaffirmed "long-term growth guidance" but provided no specific commentary on current demand trends.
+
+**2. Labor & Wages:** Not mentioned.
+
+**3. Pricing Power & Inflation:** Not mentioned.
+
+**4. Supply Chain & Inventory:** Not mentioned.
+
+**5. Capital Spending (Capex):** Not mentioned.
+
+**Summary Note:** The provided text is a press release announcing second-quarter results and reaffirming guidance; it does not contain the qualitative management commentary or the Q&A session typically found in a full earnings transcript required to extract "Ground Truth" economic signals.
