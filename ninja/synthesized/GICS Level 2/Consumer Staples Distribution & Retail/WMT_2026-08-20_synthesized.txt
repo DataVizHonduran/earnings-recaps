@@ -1,0 +1,15 @@
+Ticker: WMT
+Source: WMT_2026-08-20.txt
+Generated: 2026-09-11 17:44 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Demand remains robust, particularly in digital channels, with global eCommerce sales increasing 23% ("strong growth in revenue, including eCommerce"). Walmart U.S. saw modest growth in comparable sales of 2.6%, supported by a slight increase in transactions ("led by growth in transactions"), though this was partially offset by "pharmacy deflation related to new maximum fair price regulation." International and Sam’s Club activity was robust, with the latter driven by "increased transactions and total unit volumes."
+
+**Labor & Wages:** Data is limited, though the company noted that operating expenses were negatively impacted by higher "associate healthcare costs."
+
+**Pricing Power & Inflation:** Pricing remains a strategic lever. While gross profit rates rose, the company is actively offsetting costs to benefit consumers, noting a "prioritization of remaining tariff refunds into price investments." Inflation continues to be a factor in cost structures, specifically cited as a driver for inventory valuation.
+
+**Supply Chain & Inventory:** Inventory levels have seen a moderate increase, with global inventory up 6.7% ("due to strategic initiatives and inflation"). Sam’s Club reported a more pronounced increase of 8.0%, primarily linked to "higher fuel costs and volumes."
+
+**Capital Spending (Capex):** Investment in capacity and technology remains stable, with fiscal year guidance set at "Approximately 4.0% of net sales."

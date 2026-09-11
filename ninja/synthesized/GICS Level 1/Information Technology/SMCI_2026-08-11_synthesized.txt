@@ -1,0 +1,13 @@
+Ticker: SMCI
+Source: SMCI_2026-08-11.txt
+Generated: 2026-09-11 17:43 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Robust. Demand for AI infrastructure is accelerating ("demand accelerates"), evidenced by the addition of "several hundred enterprise and other customers" and the generation of "more than $60 billion in new orders." The company entered fiscal 2027 with a "record backlog" and projects significant growth, with full-year sales guidance between $65.0 billion and $72.0 billion.
+
+**Labor & Wages:** Not mentioned.
+
+**Pricing Power & Inflation:** Moderate improvement. The company is seeing increased profitability attributed to a "richer enterprise customer mix" and "broader adoption" of its building block architecture. However, management notes a potential risk that "average sales prices for our server solutions could decline" if customers shift away from latest-generation products.
+
+**Supply Chain & Inventory:** Inventory levels have increased substantially, rising from $4.68 billion in June 2025 to $12.89 billion in June 2026, indicating a significant build-up to support scaling

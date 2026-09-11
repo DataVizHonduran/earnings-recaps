@@ -1,0 +1,15 @@
+Ticker: PRU
+Source: PRU_2026-08-04.txt
+Generated: 2026-09-11 17:40 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Demand is generally robust across U.S. lines, highlighted by "record second quarter sales" in Individual Life and "strong growth in disability product sales" within Group Insurance. There is "continued strong momentum" in retail annuities and the "Premier middle-market segment." However, activity is softening in specific areas, including a "trend away from active equities" and a significant decline in international sales "primarily driven by the Prudential of Japan sales suspension."
+
+**Labor & Wages:** Not mentioned.
+
+**Pricing Power & Inflation:** Not explicitly discussed. The company noted "higher expenses to support continued business growth" in its U.S. Businesses and Group Insurance segments, but did not attribute this to inflationary pressures or pricing adjustments.
+
+**Supply Chain & Inventory:** Not applicable.
+
+**Capital Spending (Capex):** Modest investment is directed toward "distribution and product diversification to meet evolving customer needs" and the ongoing "platform integration" within the PGIM global investment management business.
