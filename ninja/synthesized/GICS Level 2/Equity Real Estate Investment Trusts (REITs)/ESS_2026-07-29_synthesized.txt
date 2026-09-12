@@ -1,0 +1,22 @@
+Ticker: ESS
+Source: ESS_2026-07-29.txt
+Generated: 2026-09-12 16:52 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Essex Property Trust (ESS)**
+
+**1. Demand & Activity**
+Demand is showing modest growth, characterized by stable financial occupancies across the portfolio (96.3% vs. 96.2% YoY). Activity is bifurcated by geography: Northern California is seeing robust growth, particularly in San Francisco (7.0% revenue increase), while Southern California remains stable to slight (1.5% revenue increase). Overall same-property revenue grew by 2.7% year-over-year ("Achieved same-property revenue... growth of 2.7%").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company maintains moderate pricing power, driven primarily by increases in scheduled rents, which rose 2.2% year-over-year ("Scheduled Rents 2.2%"). Inflationary pressure on operating expenses is persistent but varies by region; while Northern California saw a slight decrease in expenses (-1.2%), the Seattle Metro area experienced robust expense growth (14.2%). The company has revised its full-year same-property operating expense guidance to a range of 2.5% to 3.0%.
+
+**4. Supply Chain & Inventory**
+Not applicable. The company reports stable occupancy levels with no mentions of lead times or bloated inventory.
+
+**5. Capital Spending (Capex)**
+The company continues to engage in strategic investment and disposition activity. Recent activity includes the disposition of a 218-unit community in San Jose ("sold a 218-unit apartment home community... for a total contract price of $105.3 million") and the origination of two preferred equity investments totaling $36.2 million ("originated two preferred equity investments in stabilized apartment communities").

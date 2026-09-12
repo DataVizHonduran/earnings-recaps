@@ -1,0 +1,22 @@
+Ticker: NTAP
+Source: NTAP_2026-09-02.txt
+Generated: 2026-09-12 16:53 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: NetApp (NTAP)**
+
+**1. Demand & Activity:**
+Demand is robust, characterized by record-setting growth across key segments. Total net revenues increased 30% year-over-year ("record quarterly net revenues of $2.03 billion, an increase of 30% year-over-year"). Growth is particularly strong in all-flash arrays, which rose 47% ("Record all-flash array net revenue of $1.3 billion... an increase of 47% year-over-year"), and Public Cloud services, which grew 28% ("Record Public Cloud net revenue of $206 million... an increase of 28% year-over-year"). Management attributes this momentum to AI and hybrid multi-cloud initiatives ("organizations choose the NetApp Platform to power their AI and hybrid multi-cloud initiatives").
+
+**2. Labor & Wages:**
+Not mentioned.
+
+**3. Pricing Power & Inflation:**
+Not mentioned.
+
+**4. Supply Chain & Inventory:**
+Not mentioned.
+
+**5. Capital Spending (Capex):**
+The company is pursuing strategic growth through technology acquisitions to expand its AI capabilities ("Acquired DataPelago, Inc., an AI data infrastructure company, to help customers simplify and accelerate AI deployment at scale"). General investment in innovation continues to be a priority ("Through continued innovation and strategic investments, we are enabling customers to address their most critical needs").
