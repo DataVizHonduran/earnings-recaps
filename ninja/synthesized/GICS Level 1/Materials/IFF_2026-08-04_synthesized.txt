@@ -1,0 +1,22 @@
+Ticker: IFF
+Source: IFF_2026-08-04.txt
+Generated: 2026-09-13 17:21 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: IFF (Q2 2026)**
+
+**Demand & Activity**
+Demand is growing moderately across continuing operations, with currency-neutral sales increasing 6% ("led by broad-based growth"). Growth is robust in the Scent segment, particularly in Fragrance Ingredients ("double-digit growth"), while Taste and Health Biosciences saw modest to moderate gains ("mid-single digit growth"). Geographically, Taste reported "broad-based growth in all regions," though Fine Fragrance activity was slightly dampened by geopolitical headwinds ("impacted by the Middle East conflict").
+
+**Labor & Wages**
+The report does not explicitly detail wage inflation or hiring difficulties. However, the company is pursuing moderate headcount or overhead reductions to address "stranded costs" following the Food Ingredients divestiture, aiming to "eliminate approximately two thirds of these costs within the first year."
+
+**Pricing Power & Inflation**
+IFF demonstrates modest pricing power, specifically within the Taste segment, where EBITDA growth was supported by "favorable net pricing." Overall profitability was bolstered by "productivity gains" and "disciplined margin execution," suggesting a stable to improving cost environment relative to pricing.
+
+**Supply Chain & Inventory**
+There are no specific mentions of lead times or inventory bloating/leaness in the provided text.
+
+**Capital Spending (Capex)**
+The company is prioritizing portfolio transformation and debt reduction over capacity expansion. While specific facility investment figures are absent, the company is focused on "innovation pipelines" and intends to use divestiture proceeds to "reduce outstanding debt by over $1 billion" and fund share repurchases. Free cash flow generation remains robust ("totaled $378 million, increasing $284 million year-over-year").
