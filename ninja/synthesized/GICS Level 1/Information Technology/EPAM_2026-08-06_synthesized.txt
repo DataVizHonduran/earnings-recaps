@@ -1,0 +1,15 @@
+Ticker: EPAM
+Source: EPAM_2026-08-06.txt
+Generated: 2026-09-14 19:10 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Demand is growing at a modest pace, though near-term projections suggest a softening trend. Second quarter revenues increased 4.5% year-over-year ("Revenues increased to $1.415 billion, a year-over-year increase of... 4.5%"), driven in part by "continued AI-native momentum." However, growth is expected to decelerate in the third quarter, with projected year-over-year growth of 1.7% at the midpoint of the range ("expects revenues... reflecting year-over-year growth of 1.7% at the midpoint").
+
+**Labor & Wages:** Headcount remains stable. The number of delivery professionals saw a slight increase of 0.3% from the end of the first quarter ("approximately 56,650 delivery professionals, an increase of 0.3% from March 31, 2026"). There were no specific mentions of wage pressures or hiring difficulties.
+
+**Pricing Power & Inflation:** The provided text contains no direct signals regarding price increases or input cost pressures.
+
+**Supply Chain & Inventory:** Not applicable for this service-based business model.
+
+**Capital Spending (Capex):** No specific plans for capacity or facility investments were disclosed, though the company is focused on "build[ing] the next generation forward-deployed engineering organization."
