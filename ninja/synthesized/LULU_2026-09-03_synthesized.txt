@@ -1,0 +1,13 @@
+Ticker: LULU
+Source: LULU_2026-09-03.txt
+Generated: 2026-09-14 19:11 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Demand is softening, characterized by a moderate decline in net revenue ("decreased 4% to $2.4 billion") and a more pronounced drop in comparable sales ("decreased 9%"). This weakness is most acute in the Americas, where comparable sales fell significantly ("Americas comparable sales decreased 12%"), while international activity remains more stable despite a slight dip in comps ("International comparable sales decreased 3%"). Management expects continued softening through the year, revising the full-year revenue outlook to a "decline of 5% to 7%."
+
+**Labor & Wages:** Not discussed.
+
+**Pricing Power & Inflation:** No specific current pricing actions or input cost trends were noted. Gross margins were bolstered by a one-time regulatory event rather than organic pricing power or cost relief ("$134.5 million of tariff refunds... increased gross margin by 560 basis points").
+
+**Supply Chain &

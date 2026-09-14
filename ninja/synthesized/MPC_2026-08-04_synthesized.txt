@@ -1,0 +1,20 @@
+Ticker: MPC
+Source: MPC_2026-08-04.txt
+Generated: 2026-09-14 19:11 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity**
+Consumer demand remains stable ("resilient consumer demand"), while regional demand for jet fuel is growing ("supporting growing regional demand"). Global demand for U.S. energy and infrastructure needs for natural gas and NGLs appear robust, driving midstream expansion ("meet global demand for U.S. energy"; "growing natural gas and NGL infrastructure needs").
+
+**Labor & Wages**
+Not mentioned.
+
+**Pricing Power & Inflation**
+The company exhibits strong pricing power, with results driven by higher crack spreads across all regions ("driven primarily by higher crack spreads in all regions"). Refining operating costs saw a slight increase, though this was attributed to operational downtime rather than broad inflationary pressure ("Refining operating costs were $5.72 per barrel... versus $5.34 per barrel... primarily driven by decreased utilization due to planned downtime").
+
+**Supply Chain & Inventory**
+Not mentioned.
+
+**Capital Spending (Capex)**
+Capital investment is robust and focused on capacity and yield enhancement. MPC’s 2026 spending outlook is $1.5 billion ("2026 capital spending outlook... is $1.5 billion"), with 65% dedicated to value-enhancing investments. Midstream investment is also accelerating, with MPLX increasing its 2026 growth capital outlook by $500 million to $2.9 billion ("increasing its
