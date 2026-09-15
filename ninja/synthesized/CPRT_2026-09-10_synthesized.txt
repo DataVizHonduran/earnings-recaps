@@ -1,0 +1,22 @@
+Ticker: CPRT
+Source: CPRT_2026-09-10.txt
+Generated: 2026-09-15 18:03 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided press release, the economic signals for Copart Inc. are as follows:
+
+**1. Demand & Activity**
+Demand appears stable to slightly growing. Revenue for the quarter increased by 2.4% ("increase in revenue of $27.3 million, or 2.4 %"), while full-year revenue saw a slight increase of 0.4% ("increase in revenue of $19.3 million, or 0.4 %"). The company maintains a robust global footprint, operating at "over 250 locations in 11 countries" and selling "more than 4 million units in the last year."
+
+**2. Labor & Wages**
+Not discussed.
+
+**3. Pricing Power & Inflation**
+There are signals of modest softening in profitability. Despite the slight increase in revenue, gross profit declined by 5.5% for the quarter ("decrease in gross profit of $28.3 million, or (5.5)%") and 0.8% for the full year ("decrease in gross profit of $15.8 million, or (0.8)%"), suggesting that input costs may be rising or pricing power is under pressure.
+
+**4. Supply Chain & Inventory**
+Not discussed.
+
+**5. Capital Spending (Capex)**
+Not discussed.
