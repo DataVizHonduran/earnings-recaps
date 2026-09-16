@@ -1,0 +1,22 @@
+Ticker: CAT
+Source: CAT_2026-08-04.txt
+Generated: 2026-09-16 18:02 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Caterpillar Inc. (2Q 2026)**
+
+**Demand & Activity**
+Demand is robust and expanding across all primary segments, characterized by "broadening momentum" ("Strong order rates and a growing backlog reflect broadening momentum across all three of our primary segments"). Growth is most pronounced in North America, particularly within Construction Industries, where sales rose 50% ("In North America, sales increased primarily due to higher sales volume"). Specific strength was noted in data center applications for Power Generation ("primarily in data center applications") and equipment sales to end users ("Higher sales volume was mainly driven by higher sales of equipment to end users").
+
+**Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**Pricing Power & Inflation**
+The company maintains moderate to strong pricing power, contributing significantly to revenue growth via "favorable price realization of $595 million." However, some cost pressures persist in production, as evidenced by "unfavorable manufacturing costs of $149 million," which were attributed to "increased period manufacturing costs."
+
+**Supply Chain & Inventory**
+Inventory levels appear to be shifting to support higher throughput, with specific mentions of "the impact from changes in dealer inventories" driving higher sales volume in North America. There is no specific mention of lead time durations or bloated inventory.
+
+**Capital Spending (Capex)**
+The provided text does not detail specific future capital expenditure plans for capacity or technology.
