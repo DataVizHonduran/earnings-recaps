@@ -1,0 +1,22 @@
+Ticker: LEN
+Source: LEN_2026-09-16.txt
+Generated: 2026-09-18 17:37 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Lennar Corp (LEN)**
+
+**1. Demand & Activity: Softening**
+Demand is softening as higher mortgage rates and declining consumer confidence drive buyers to delay purchases ("consumer confidence has declined as rates and affordability have driven more consumers to slow their purchase decision"). New orders decreased 9% year-over-year, and the company moderated its full-year delivery targets ("moderating our target full-year 2026 deliveries to approximately 80,000 to 81,000 homes"). Despite this, the company notes a persistent structural housing shortage ("housing shortages continue to drive demand").
+
+**2. Labor & Wages: Not Addressed**
+The provided text contains no specific mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation: Softening / Mixed**
+Pricing power is limited by affordability constraints, necessitating price reductions and incentives to maintain volume ("average sales price... reflecting approximately 12.0% in incentives, along with base price adjustments necessary to sustain volume"). While the company is seeing modest relief in construction costs ("construction cost per square foot improved another 1% sequentially, 6% year over year"), these gains are partially offset by higher land costs and broader inflationary pressures ("Rates are responding as inflation remains above the Fed’s target").
+
+**4. Supply Chain & Inventory: Lean**
+Inventory levels are lean and improving, with a focus on high turnover to maintain efficiency ("reduced our completed, unsold inventory to 1.8 homes per community from 2.1 homes per community last quarter"). Cycle times have reached a record low, indicating robust operational efficiency ("cycle time reached a new record low of 116 days").
+
+**5. Capital Spending (Capex): Stable**
+The company is prioritizing the maintenance of production volume and the creation of supply over aggressive expansion or waiting for market recovery ("prioritized volume to create needed supply for the market"). No specific new facility or technology investment figures were disclosed beyond the general strategy of leveraging scale.

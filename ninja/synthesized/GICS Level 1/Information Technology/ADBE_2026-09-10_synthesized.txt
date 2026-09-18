@@ -1,0 +1,29 @@
+Ticker: ADBE
+Source: ADBE_2026-09-10.txt
+Generated: 2026-09-18 17:36 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Adobe Inc. (Q3 FY2026)**
+
+**1. Demand & Activity: Robust**
+Demand is growing strongly, driven by AI integration and user base expansion. The company reported record revenue and a significant milestone in user acquisition.
+*   **Overall:** Robust growth in AI-driven revenue ("AI-first ARR grew more than 150% year over year") and user reach ("major milestone of 1 billion monthly active users").
+*   **Product Line Variance:** Growth is broad-based but slightly more pronounced in the Business Professionals and Consumers segment (16% growth) compared to Creative and Marketing Professionals (13% growth).
+*   **Outlook:** Management expects continued momentum ("deepening engagement with agentic experiences to deliver long-term durable growth").
+
+**2. Labor & Wages: Stable/Not Specified**
+The provided text does not contain specific data on wage inflation, headcount reductions, or hiring difficulties. It only notes a general risk regarding the "failure to recruit and retain key personnel" as a standard forward-looking risk factor.
+
+**3. Pricing Power & Inflation: Moderate**
+While specific price hike percentages are not listed, the company is successfully expanding its revenue stream through a tiered acquisition strategy.
+*   **Strategy:** Utilizing a "freemium strategy" to expand the user base, suggesting a focus on volume and conversion rather than immediate price increases.
+*   **Input Costs:** No specific mentions of commodity or freight pressures; however, R&D and Sales & Marketing expenses have increased year-over-year (R&D rose from $1.088B to $1.288B).
+
+**4. Supply Chain & Inventory: Not Applicable**
+As a software-as-a-service (SaaS) provider, Adobe does not report physical supply chain lead times or inventory levels.
+
+**5. Capital Spending (Capex): Moderate/Increasing**
+Investment is heavily skewed toward technology and AI innovation.
+*   **Technology Investment:** Significant increase in Research and Development spending ("Research and development [was] $1,288 [million]" vs $1,088 million in the prior year).
+*   **Strategic Focus:** Continued investment in "AI innovation" and "agentic experiences" to maintain market leadership.
