@@ -1,0 +1,22 @@
+Ticker: LLY
+Source: LLY_2026-08-05.txt
+Generated: 2026-09-19 17:06 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Eli Lilly (LLY)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by significant volume growth globally. Worldwide revenue increased 48% ("driven by a 60% increase in volume"), with particularly strong momentum in the U.S. ("U.S. volume was driven by Zepbound and Mounjaro") and international markets ("Revenue outside the U.S. increased 80%... driven by a 113% increase in volume").
+
+**2. Labor & Wages**
+The report does not provide specific data on hiring, turnover, or wage inflation. It notes "accelerated vesting of employee equity awards" as part of acquisition and integration costs, but provides no broader labor market signals.
+
+**3. Pricing Power & Inflation**
+Pricing power is softening as the company faces downward pressure on realized prices. Worldwide realized prices decreased 13% ("partially offset by a 13% decrease in realized prices"). In the U.S., prices declined 3% ("primarily driven by Zepbound and Mounjaro"), while international prices saw a moderate decline of 36% ("driven primarily by the addition of Mounjaro to the National Reimbursement Drug List (NRDL) in China"). However, the company is seeing some input cost relief, as gross margin expansion was "primarily driven by improved cost of production."
+
+**4. Supply Chain & Inventory**
+Specific lead times or inventory levels are not detailed; however, the company is actively scaling to meet demand, noting that "new manufacturing capacity [is] coming online."
+
+**5. Capital Spending (Capex)**
+Capital investment remains robust to support long-term capacity expansion. The company has "committed an additional $4.5 billion to expand Indiana manufacturing sites." Additionally, the company is aggressively pursuing business development, completing multiple acquisitions in Q2 2026 to build its infectious disease and therapeutic portfolios.
