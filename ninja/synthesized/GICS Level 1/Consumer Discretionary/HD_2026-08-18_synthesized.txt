@@ -1,0 +1,22 @@
+Ticker: HD
+Source: HD_2026-08-18.txt
+Generated: 2026-09-21 19:11 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Home Depot (HD)**
+
+**1. Demand & Activity**
+Demand is modest but broad-based, though characterized by a shift in consumer behavior toward smaller-scale activity. Comparable sales grew slightly (1.7% overall; 1.3% in the U.S.), while comparable customer transactions softened slightly ("Comparable customer transactions... (1.0)%"). Management noted that "customers continued to engage in smaller projects" ("broad based demand across the business as customers continued to engage in smaller projects").
+
+**2. Labor & Wages**
+The report provides no specific data on wage inflation or hiring difficulties, though it acknowledges a large workforce of "over 470,000 associates" and credits "associates focus on customer service" for recent results.
+
+**3. Pricing Power & Inflation**
+The company is experiencing moderate upward pressure from input costs, specifically in energy and fuel. However, these are being partially mitigated by regulatory offsets. Guidance notes that "IEEPA tariff refunds... are expected to partially offset unplanned fuel, energy, and other product input costs" ("Guidance includes IEEPA tariff refunds"). Average ticket prices increased moderately (2.8% for the quarter).
+
+**4. Supply Chain & Inventory**
+Inventory levels have increased moderately, with merchandise inventories rising to $26.8 billion from $24.8 billion year-over-year. The company continues to focus on "on-shelf availability, and in-stock positions" as part of its strategic initiatives.
+
+**5. Capital Spending (Capex)**
+Capital investment remains stable and focused on capacity and footprint expansion. The company projects capital expenditures of "approximately 2.5% of total sales" and plans to open "approximately 15 new stores" in the current fiscal year.
