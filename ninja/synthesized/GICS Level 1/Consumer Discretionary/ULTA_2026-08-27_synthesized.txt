@@ -1,0 +1,29 @@
+Ticker: ULTA
+Source: ULTA_2026-08-27.txt
+Generated: 2026-09-24 18:20 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Ulta Beauty (Q2 FY2026)**
+
+**1. Demand & Activity**
+Demand remains robust, characterized by moderate growth in comparable sales and strong overall net sales. Growth is being driven by a combination of organic traffic and strategic expansion into luxury segments via the Space NK acquisition.
+*   **Signal:** Moderate growth ("Comparable sales increased 3.8%").
+*   **Trend:** Positive outlook ("raised our financial guidance for the year").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments. SG&A increases were attributed to corporate acquisitions rather than labor cost inflation.
+*   **Signal:** Not disclosed ("SG&A expenses increased 8.2%... primarily due to the acquisition of Space NK").
+
+**3. Pricing Power & Inflation**
+Pricing power appears stable, though gross margins saw a slight compression due to the shift in product mix following the Space NK acquisition rather than inflationary input pressures.
+*   **Signal:** Stable to slight softening in margins ("gross profit decreased to 39.1% compared to 39.2%, primarily due to the impact of the Space NK business mix").
+
+**4. Supply Chain & Inventory**
+Inventory levels are stable, with the company reporting improved management efficiency that offset the needs of new store openings and brand launches.
+*   **Signal:** Stable ("Merchandise inventories... remaining flat compared to the prior year primarily due to improved inventory management").
+
+**5. Capital Spending (Capex)**
+Investment in capacity and technology remains steady, focusing on physical footprint expansion and digital infrastructure.
+*   **Signal:** Moderate and consistent ("invested $139.5 million in capital expenditures to support new stores, relocations, remodels, and investments in information technology").
+*   **Outlook:** Stable ("Capital expenditures $400 million to $450 million [no change]").
