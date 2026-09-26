@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Beige Book — Q3 2026</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Georgia', serif;
+         background: #f4f1eb; color: #2c2c2c; line-height: 1.7; }
+
+  /* ── Header ── */
+  .masthead { background: #1a1a2e; color: #f0e6d3; padding: 40px 48px; }
+  .masthead h1 { font-size: 2.2em; letter-spacing: .02em; margin-bottom: 6px; }
+  .masthead .sub { color: #a89880; font-size: .9em; }
+
+  /* ── Layout ── */
+  .wrapper { max-width: 1100px; margin: 0 auto; padding: 40px 24px 80px; display: grid;
+             grid-template-columns: 220px 1fr; gap: 40px; }
+
+  /* ── Sidebar TOC ── */
+  .sidebar { position: sticky; top: 24px; align-self: start; }
+  .sidebar h3 { font-size: .75em; text-transform: uppercase; letter-spacing: .1em;
+               color: #888; margin-bottom: 12px; }
+  .sidebar ul { list-style: none; }
+  .sidebar li { margin: 6px 0; }
+  .sidebar a { color: #444; text-decoration: none; font-size: .88em; }
+  .sidebar a:hover { color: #1a1a2e; text-decoration: underline; }
+
+  /* ── Exec Summary ── */
+  .exec-panel { background: #fffdf7; border: 1px solid #e8dcc8;
+                border-radius: 6px; padding: 32px 36px; margin-bottom: 40px;
+                grid-column: 1 / -1; }
+  .exec-panel h2 { font-size: 1.3em; color: #1a1a2e; border-bottom: 2px solid #d4b896;
+                   padding-bottom: 10px; margin-bottom: 20px; }
+  .exec-panel p { margin: 12px 0; }
+  .exec-panel ul { margin: 12px 0 12px 20px; }
+  .exec-panel li { margin: 6px 0; }
+  .exec-meta { font-size: .78em; color: #aaa; margin-top: 20px; }
+
+  /* ── Sector sections ── */
+  .sector { background: white; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,.07);
+            padding: 28px 32px; margin-bottom: 28px; }
+  .sector-header { padding-left: 14px; margin-bottom: 18px; }
+  .sector-header h2 { font-size: 1.25em; color: #1a1a2e; }
+  .sector-body h2 { font-size: 1em; color: #1a1a2e; margin: 18px 0 6px;
+                    border-bottom: 1px solid #eee; padding-bottom: 4px; }
+  .sector-body h3 { font-size: .95em; color: #444; margin: 14px 0 4px; font-style: italic; }
+  .sector-body p  { margin: 8px 0; font-size: .93em; }
+  .sector-body ul { margin: 8px 0 8px 18px; }
+  .sector-body li { margin: 4px 0; font-size: .93em; }
+  .sector-body strong { color: #1a1a2e; }
+
+  /* ── Footer ── */
+  .footer { text-align: center; color: #aaa; font-size: .8em; padding: 20px;
+            grid-column: 1 / -1; }
+
+  @media (max-width: 720px) {
+    .wrapper { grid-template-columns: 1fr; }
+    .sidebar { display: none; }
+    .exec-panel { grid-column: 1; }
+    .footer { grid-column: 1; }
+  }
+</style>
+</head>
+<body>
+
+<div class="masthead">
+  <h1>📋 Beige Book — Q3 2026</h1>
+  <div class="sub">S&amp;P 500 Earnings Intelligence · 11 GICS Sectors · Generated 2026-09-26 10:52 UTC · Model: google/gemma-4-31B-it</div>
+</div>
+
+<div class="wrapper">
+
+  <div class="sidebar">
+    <h3>Sectors</h3>
+    <ul>
+      <li><a href="#executive-summary">Executive Summary</a></li>
+      <li><a href="#consumer-discretionary">Consumer Discretionary</a></li><li><a href="#consumer-staples">Consumer Staples</a></li><li><a href="#energy">Energy</a></li><li><a href="#financials">Financials</a></li><li><a href="#health-care">Health Care</a></li><li><a href="#industrials">Industrials</a></li><li><a href="#information-technology">Information Technology</a></li><li><a href="#communication-services">Communication Services</a></li><li><a href="#materials">Materials</a></li><li><a href="#real-estate">Real Estate</a></li><li><a href="#utilities">Utilities</a></li>
+    </ul>
+  </div>
+
+  <div>
+
+    <section class="exec-panel" id="executive-summary">
+      <h2>Executive Summary</h2>
+      <p><strong>Overall Activity:</strong> Economic activity across the eleven sectors was generally robust, though growth remained highly bifurcated by end-market and geography. While digital infrastructure and professional services experienced strong momentum, activity in residential-linked sectors was moderate to softening. Overall, the broad economic tempo remains positive, albeit characterized by uneven performance across product lines.</p>
+
+<p><strong>Dominant Cross-Sector Themes:</strong></p>
+<ul>
+<li><strong>AI-Driven Infrastructure Investment:</strong> Robust demand for data center capacity and technical hardware was reported across Information Technology, Industrials, Communication Services, Real Estate, and Utilities.</li>
+<li><strong>Residential Market Softening:</strong> Moderate to slight declines in demand linked to housing and home improvement were noted in Consumer Discretionary, Industrials, and Materials.</li>
+<li><strong>International Growth Divergence:</strong> Robust acceleration in Asia Pacific and Latin American markets contrasted with stable or softening North American demand in Consumer Staples, Consumer Discretionary, and Financials.</li>
+<li><strong>Product Portfolio Bifurcation:</strong> A shift toward high-growth or premium offerings amid softening legacy or value-tier demand was observed in Health Care, Consumer Staples, and Information Technology.</li>
+</ul>
+
+<p><strong>Notable Divergences:</strong> The Utilities and Real Estate sectors broke from the residential softening trend, reporting robust growth driven specifically by the expansion of hyperscale data centers and digital infrastructure. Conversely, the Energy sector showed a sharp internal divergence, where robust crude oil production was offset by softening activity in U.S. natural gas due to infrastructure constraints.</p>
+
+<p><strong>Outlook:</strong> Contacts noted a continued reliance on AI-related capital expenditures to drive near-term growth. Several firms indicated that while long-term demand signals remain positive, short-term activity may be tempered by affordability constraints in consumer-facing segments. Management commentary suggests a cautious but stable outlook for the remainder of the year.</p>
+      <div class="exec-meta">Generated by google/gemma-4-31B-it · 2026-09-26 10:52 UTC</div>
+    </section>
+
+    
+        <section class="sector" id="consumer-discretionary">
+            <div class="sector-header" style="border-left:5px solid #e74c3c">
+                <h2>Consumer Discretionary</h2>
+            </div>
+            <div class="sector-body">
+                <h2>Sector Consensus</h2>
+
+<p>Demand across the Consumer Discretionary sector is generally robust, though activity is increasingly bifurcated by product line and geography. A majority of firms, including <strong>AMZN</strong>, <strong>BKNG</strong>, <strong>CCL</strong>, <strong>HLT</strong>, and <strong>EBAY</strong>, report strong top-line growth and healthy underlying demand. Within this consensus, signals diverge sharply by end-market: travel and leisure services (e.g., <strong>CCL</strong>, <strong>HLT</strong>) are seeing record bookings and strengthening trends, while high-ticket durables and housing (e.g., <strong>DHI</strong>, <strong>LEN</strong>) are experiencing softening due to affordability constraints. Geographically, North American demand remains a primary driver for many, but several firms report moderate to robust acceleration in expansion markets, specifically India and Brazil (<strong>ABNB</strong>), and the APEC region (<strong>MAR</strong>). Conversely, activity is softening across EMEA and Asia Pacific for several services providers, often attributed to geopolitical volatility in the Middle East (<strong>ABNB</strong>, <strong>BKNG</strong>, <strong>MAR</strong>).</p>
+
+<h2>Divergences & Outliers</h2>
+
+<p>Several firms contradict the broader sector's robust growth trend, primarily driven by specific end-market exposure or customer concentration:</p>
+
+<ul>
+<li>  <strong>DHI</strong> and <strong>LEN</strong> [Consumer Durables & Apparel]: Both report softening demand and declining new orders. The mechanism is a direct sensitivity to mortgage rates and housing affordability, which has dampened consumer sentiment in the residential construction market.</li>
+<li>  <strong>LULU</strong> [Consumer Durables & Apparel]: Reports a moderate decline in net revenue and a significant drop in Americas comparable sales. This diverges from the retail consensus, reflecting a specific softening in North American apparel demand.</li>
+<li>  <strong>APTV</strong> [Automobiles & Components]: Reports modest and fragmented growth. Unlike the robust growth in digital services, Aptiv is constrained by a "dynamic" automotive landscape and a customer mix that acts as a headwind, particularly in EMEA.</li>
+</ul>
+
+<h2>Key Thematic Headings</h2>
+
+<p><strong>Consumer/Business Demand</strong></p>
+<p>Demand is robust in travel and digital marketplaces, with <strong>CCL</strong> reporting record bookings extending into 2028 and <strong>EBAY</strong> seeing accelerated GMV growth of 18%. However, demand is softening in the housing sector, where <strong>LEN</strong> reports a 9% year-over-year decrease in new orders. In the QSR space, <strong>MCD</strong> notes a bifurcation where U.S. growth is driven by higher spending per visit despite negative guest counts.</p>
+
+<p><strong>Labor Markets & Wages</strong></p>
+<p>Labor costs are experiencing moderate upward pressure in the services and food sectors, with <strong>CMG</strong> citing wage inflation and higher benefits expenses. <strong>BBY</strong> also reports higher compensation expenses impacting SG&A. In contrast, some firms are mitigating labor reliance through technology, such as <strong>ABNB</strong>, which reports that over 40% of customer support issues are now resolved without a human agent.</p>
+
+<p><strong>Price & Cost Pressures</strong></p>
+<p>Moderate pricing power persists in travel, evidenced by <strong>EXPE</strong> reporting a 7% increase in Average Daily Rate (ADR). However, persistent commodity inflation is weighing on margins for manufacturers and retailers, with <strong>F</strong> noting $2 billion in commodity headwinds led by aluminum and <strong>APTV</strong> citing increased commodity costs. Some firms, such as <strong>DHI</strong>, are forced to use elevated sales incentives rather than price hikes to sustain volume.</p>
+
+<p><strong>Inventory & Logistics</strong></p>
+<p>Logistics efficiency is improving for large-scale distributors, with <strong>AMZN</strong> expanding ultra-fast delivery to tens of millions of customers. Inventory levels remain lean in specialized sectors, as <strong>CCL</strong> reports having less inventory available for sale than the prior year. Conversely, some retail and automotive firms report moderate inventory builds, with <strong>GM</strong> and <strong>HD</strong> both noting year-over-year increases in merchandise and vehicle inventories.</p>
+            </div>
+        </section>
+        <section class="sector" id="consumer-staples">
+            <div class="sector-header" style="border-left:5px solid #e67e22">
+                <h2>Consumer Staples</h2>
+            </div>
+            <div class="sector-body">
+                <h2>Sector Consensus</h2>
+
+<p>Consumer Staples activity is generally <strong>stable to modest</strong>, though performance is heavily bifurcated by product category and geography. A broad consensus exists among firms such as <strong>Coca-Cola</strong>, <strong>Procter & Gamble</strong>, <strong>Mondelez</strong>, and <strong>Kimberly-Clark</strong> that demand is recovering or growing in international markets—particularly Asia Pacific and Latin America—while North American demand is <strong>softening</strong> or remaining flat. Within the food and beverage group, firms like <strong>PepsiCo</strong> and <strong>Monster Beverage</strong> report <strong>robust</strong> activity in energy and refreshment beverages, whereas <strong>Campbell’s</strong> and <strong>General Mills</strong> note <strong>modest</strong> to <strong>slight</strong> declines in grocery and canned goods. A common theme across the sector is the shift toward "affordability initiatives" and "value tiers" to retain price-sensitive consumers.</p>
+
+<h2>Divergences & Outliers</h2>
+
+<p>Several firms deviate from the broader sector trend of softening domestic demand or modest growth:</p>
+
+<ul>
+<li>  <strong>Costco [Distribution & Retail]:</strong> Reports <strong>robust</strong> growth with comparable sales up 9.8%, contradicting the "value-seeking" softness seen in branded consumer goods. This is driven by a high-volume membership model that captures the shift toward bulk-buying.</li>
+<li>  <strong>Monster Beverage [Food, Beverage & Tobacco]:</strong> While many food firms report volume declines, Monster sees <strong>robust</strong> international expansion (net sales up 34.6% to non-U.S. customers), driven by the specific high-growth trajectory of the global energy drink category.</li>
+<li>  <strong>Clorox [Household & Personal Products]:</strong> Unlike the stable inventory levels reported by peers, Clorox experienced a significant <strong>softening</strong> in sales due to a technical inventory drawdown. This was caused by retailers over-ordering in advance of an ERP system transition, creating a transitory but severe headwind.</li>
+<li>  <strong>Philip Morris International [Food, Beverage & Tobacco]:</strong> Shows a sharp internal divergence; while combustibles are <strong>softening</strong> (volumes down 5.1%), its smoke-free portfolio (IQOS) is seeing <strong>robust</strong> double-digit growth, reflecting a structural shift in end-market consumption.</li>
+</ul>
+
+<h2>Key Thematic Headings</h2>
+
+<p><strong>Consumer/Business Demand</strong></p>
+<p>Demand is fragmented, with <strong>Coca-Cola</strong> and <strong>Kenvue</strong> reporting <strong>robust</strong> growth in specialized segments like zero-sugar beverages and skin health. Conversely, <strong>Campbell’s</strong> and <strong>General Mills</strong> report <strong>softening</strong> demand in North American retail, citing weaker consumer sentiment and price elasticity. <strong>Hormel Foods</strong> notes a stark divergence between its <strong>robust</strong> foodservice segment and its <strong>softening</strong> retail volume.</p>
+
+<p><strong>Labor Markets & Wages</strong></p>
+<p>Labor signals are sparse but lean toward cost optimization and restructuring. <strong>Kenvue</strong> and <strong>Procter & Gamble</strong> are actively pursuing headcount and overhead reductions to improve operating leverage. <strong>Dollar Tree</strong> and <strong>Campbell's</strong> report <strong>softening</strong> payroll or incentive compensation expenses, while <strong>Kroger</strong> notes moderate upward pressure from planned investments in associate wages.</p>
+
+<p><strong>Price & Cost Pressures</strong></p>
+<p>Most firms maintain <strong>moderate</strong> pricing power, but it is increasingly offset by persistent input costs. <strong>Colgate-Palmolive</strong> and <strong>Campbell’s</strong> specifically cite tariffs as a primary driver of margin pressure. <strong>Hershey</strong> and <strong>Altria</strong> continue to exercise <strong>robust</strong> pricing to mitigate commodity inflation, while <strong>Kimberly-Clark</strong> is intentionally lowering prices to stimulate trial and competitiveness.</p>
+
+<p><strong>Inventory & Logistics</strong></p>
+<p>Supply chain conditions have largely stabilized, though logistics costs remain volatile. <strong>Clorox</strong> is concluding a major retailer inventory correction following a system transition, while <strong>Dollar General</strong> maintains <strong>stable</strong> and lean inventory levels. <strong>Monster Beverage</strong> reports strained logistics, citing "out-of-orbit production" costs as demand currently outpaces optimized distribution capacity.</p>
+            </div>
+        </section>
+        <section class="sector" id="energy">
+            <div class="sector-header" style="border-left:5px solid #f39c12">
+                <h2>Energy</h2>
+            </div>
+            <div class="sector-body">
+                <h2>Sector Consensus</h2>
+
+<p>Activity across the energy sector is generally robust, characterized by strong production growth in the U.S. Permian Basin and expanding global energy infrastructure. Firms such as <strong>ExxonMobil</strong>, <strong>Chevron</strong>, <strong>Diamondback Energy</strong>, <strong>Devon Energy</strong>, and <strong>EOG Resources</strong> report production levels meeting or exceeding guidance, with a particular emphasis on "advantaged" long-lived assets. However, signals diverge sharply by product line: while crude oil and liquids demand remains robust, U.S. natural gas activity is softening. This is evidenced by production curtailments at <strong>APA Corp</strong> and depressed realizations at <strong>Devon Energy</strong> due to infrastructure constraints at the Waha hub. Conversely, midstream and infrastructure firms like <strong>Kinder Morgan</strong>, <strong>Williams Companies</strong>, and <strong>Targa Resources</strong> report robust growth in natural gas transport and gathering, driven by rising power demand from data centers and LNG export capacity.</p>
+
+<h2>Divergences & Outliers</h2>
+
+<p>While the broader sector reports robust activity, <strong>Halliburton</strong> [Energy Equipment & Services] and <strong>SLB</strong> [Energy Equipment & Services] report mixed or softening organic demand. This divergence is driven by their specific end-market mix; both firms cite significant disruptions in the Middle East that have dampened activity across multiple product service lines, contrasting with the robust U.S. land performance seen by upstream producers. Additionally, <strong>Phillips 66</strong> [Oil, Gas & Consumable Fuels] reports softening demand for transportation fuels, specifically gasoline and diesel, which contradicts the robust upstream production trends. This is attributed to a shift in consumer demand and temporary supply disruptions on the West Coast.</p>
+
+<h2>Key Thematic Headings</h2>
+
+<p><strong>Consumer/Business Demand</strong></p>
+<p>Demand is bifurcated between traditional fuels and new power infrastructure. <strong>Chevron</strong> and <strong>Phillips 66</strong> note softening demand for gasoline and diesel, while <strong>Williams Companies</strong> and <strong>EQT Corp</strong> report robust growth in natural gas demand driven by data center development in Ohio and Appalachia. <strong>Baker Hughes</strong> reports record IET orders of $4.9 billion, specifically linked to power systems and LNG.</p>
+
+<p><strong>Labor Markets & Wages</strong></p>
+<p>Labor data is sparse, though some firms report modest overhead pressures. <strong>Chevron</strong> notes slight upward pressure on overhead due to higher employee benefit costs, and <strong>Phillips 66</strong> previously cited higher employee-related costs. <strong>Devon Energy</strong> reports a stable labor transition following its merger with Coterra, suggesting a lack of acute hiring friction in the field.</p>
+
+<p><strong>Price & Cost Pressures</strong></p>
+<p>Pricing power is robust for liquids but weak for domestic gas. <strong>Occidental Petroleum</strong> and <strong>Diamondback Energy</strong> report robust crude realizations, while <strong>APA Corp</strong> and <strong>Occidental Petroleum</strong> report negative realized prices for U.S. natural gas. To counter persistent inflation, <strong>ExxonMobil</strong> is pursuing "Structural Cost Savings" with a $20 billion target by 2030, and <strong>Chevron</strong> has captured $3 billion in annual run-rate savings.</p>
+
+<p><strong>Inventory & Logistics</strong></p>
+<p>Logistics are characterized by strategic capacity expansion and geopolitical volatility. <strong>Williams Companies</strong> is proactively managing "long-lead Power Innovation equipment" to avoid bottlenecks, while <strong>ExxonMobil</strong> reports that Middle East disruptions have impacted financial hedges and physical shipments. <strong>Targa Resources</strong> reports a stable execution environment, completing the East Driver processing plant ahead of schedule.</p>
+            </div>
+        </section>
+        <section class="sector" id="financials">
+            <div class="sector-header" style="border-left:5px solid #27ae60">
+                <h2>Financials</h2>
+            </div>
+            <div class="sector-body">
+                <h2>Sector Consensus</h2>
+
+<p>Demand across the Financials sector is generally robust, though activity levels diverge significantly by product line and geography. Asset management and investment services are seeing strong momentum, with record inflows and AUM growth reported by BlackRock (BLK), Blackstone (BX), and BNY (BK). Banking activity is similarly robust, particularly in commercial lending and consumer spending, as noted by Bank of America (BAC), Fifth Third Bancorp (FITB), and Huntington Bancshares (HBAN). However, the insurance industry presents a more fragmented signal; while AIG and Allstate (ALL) report robust top-line growth, others like Arch Capital (ACGL) and Brown & Brown (BRO) describe demand as stable to softening. Geographically, growth is moderate to robust in international markets for Chubb (CB) and FactSet (FDS), while some U.S.-centric segments, such as Aon’s (AON) U.S. wealth advisory demand, are softening.</p>
+
+<h2>Divergences & Outliers</h2>
+
+<p>Several firms contradict the broader trend of robust demand or stable labor costs. Brown & Brown (BRO) is a notable outlier in the insurance brokerage space, reporting flat to slightly negative organic revenue growth, which contrasts with the robust growth seen at AIG. This divergence is driven by a "challenging growth environment" for organic brokerage services, forcing a reliance on acquisitions for total revenue growth. In labor markets, Cboe Global Markets (CBOE) diverges from the general trend of modest workforce expansion by executing a strategic realignment to reduce its workforce by approximately 20%. Conversely, while many firms report stable headcounts, Citizens Financial Group (CFG) is aggressively expanding its headcount specifically to build out its Private Bank and Private Wealth segments.</p>
+
+<h2>Key Thematic Headings</h2>
+
+<p><strong>Consumer/Business Demand</strong></p>
+<p>Demand for high-end financial products and commercial credit is robust. American Express (AXP) reports the highest quarterly Card Member spending growth in three years, driven by premium products. Bank of America (BAC) notes a 9% increase in combined credit/debit card spend and growth across every business segment. In the insurance sector, Allstate (ALL) reports a record amount of new business, specifically a 16.4% increase in new homeowners business.</p>
+
+<p><strong>Labor Markets & Wages</strong></p>
+<p>Labor costs are experiencing moderate upward pressure, often linked to performance or strategic growth. BNY (BK) cites employee merit increases as a driver for a 5% increase in noninterest expenses, and Blackstone (BX) reports a 26% year-over-year increase in fee-related compensation. Some firms are offsetting these costs through efficiency; Arthur J. Gallagher (AJG) reports savings from headcount controls. FactSet (FDS) notes that higher employee compensation in technical roles has negatively impacted operating margins.</p>
+
+<p><strong>Price & Cost Pressures</strong></p>
+<p>Pricing power is stable in asset management but softening in specific insurance lines. BlackRock (BLK) reports 10% organic base fee growth, and Cboe (CBOE) saw a 21% increase in multi-listed options revenue per contract. However, Chubb (CB) reports that global property insurance conditions are "soft or softening," leading to inadequate price levels. Allstate (ALL) is navigating a mixed environment, raising homeowners premiums by 5.8% while lowering auto premiums to capture market share.</p>
+
+<p><strong>Inventory & Logistics</strong></p>
+<p>As a service-oriented sector, traditional physical inventory is not applicable, but technology infrastructure serves as the primary capacity constraint. CME Group (CME) is managing the logistics of a transition to the Google Cloud. Capital One (COF) is incurring significant integration expenses to merge the technology stacks of Discover and Brex. Assurant (AIZ) uniquely notes that global supply chain volumes are a positive driver for its connected device protection programs.</p>
+            </div>
+        </section>
+        <section class="sector" id="health-care">
+            <div class="sector-header" style="border-left:5px solid #16a085">
+                <h2>Health Care</h2>
+            </div>
+            <div class="sector-body">
+                <h2>Sector Consensus</h2>
+
+<p>Demand across the Health Care sector is generally <strong>robust</strong>, though highly bifurcated by product lifecycle and geography. A majority of firms, including <strong>AbbVie</strong>, <strong>Amgen</strong>, <strong>Bristol Myers Squibb</strong>, and <strong>Biogen</strong>, report strong growth in "growth portfolios" or new product launches (e.g., immunology and rare disease) while experiencing <strong>moderate</strong> to <strong>sharp</strong> softening in legacy portfolios due to biosimilar competition and generic impacts. In the equipment and services space, <strong>Dexcom</strong>, <strong>Edwards Lifesciences</strong>, and <strong>Boston Scientific</strong> report robust demand, particularly in international markets. However, signals diverge by end-market: while specialized diagnostics and cardiovascular devices show strength, demand for nutrition products (<strong>Abbott Laboratories</strong>) and patient care solutions (<strong>GE HealthCare</strong>) is softening. Geographically, growth is more robust in APAC and EMEA than in North America for firms like <strong>Align Technology</strong> and <strong>Becton Dickinson</strong>.</p>
+
+<h2>Divergences & Outliers</h2>
+
+<ul>
+<li>  <strong>DaVita Inc. [Health Care Equipment & Services]:</strong> Contradicts the sector's general silence on labor by reporting persistent upward pressure on costs driven specifically by increased compensation expenses for patient care and administration.</li>
+<li>  <strong>Cardinal Health [Health Care Equipment & Services]:</strong> Diverges from the broader trend of stable pricing by reporting significant profit decreases in its medical products segment due to direct exposure to tariffs.</li>
+<li>  <strong>Charles River Laboratories [Pharmaceuticals, Biotechnology & Life Sciences]:</strong> Unlike the robust growth seen in other life sciences firms, CRL has experienced softening organic revenue, driven by lower demand for research models in North America.</li>
+<li>  <strong>Centene Corp [Health Care Equipment & Services]:</strong> While many firms report growth, Centene is actively pursuing headcount reductions and "enterprise optimization," resulting in substantial severance costs.</li>
+</ul>
+
+<h2>Key Thematic Headings</h2>
+
+<p><strong>Consumer/Business Demand</strong></p>
+<p>Demand is robust for high-innovation products, such as <strong>AbbVie’s</strong> Skyrizi and <strong>Biogen’s</strong> Leqembi, but softening for legacy lines like <strong>Amgen’s</strong> Prolia. In the equipment sector, <strong>Dexcom</strong> reports strong double-digit international growth, while <strong>GE HealthCare</strong> sees record organic orders despite a decline in Patient Care Solutions. <strong>Quest Diagnostics</strong> reports robust growth in the consumer channel and double-digit gains in Alzheimer’s testing.</p>
+
+<p><strong>Labor Markets & Wages</strong></p>
+<p>Labor signals are largely absent across the sector, though <strong>DaVita</strong> reports that increased compensation expenses are driving up patient care costs. <strong>Centene Corp</strong> is focused on cost management through "enterprise optimization" and contract exits. <strong>Elevance Health</strong> noted a rise in its operating expense ratio driven by targeted investments in its workforce.</p>
+
+<p><strong>Price & Cost Pressures</strong></p>
+<p>Pricing power is mixed; <strong>Cigna</strong> and <strong>Centene</strong> are implementing premium rate increases to offset medical cost trends. Conversely, <strong>Amgen</strong> reports a 22% lower net selling price for Enbrel due to Medicare Part D price setting under the Inflation Reduction Act. Input cost pressures are evident at <strong>GE HealthCare</strong>, which cites inflation in memory chips, oil, and freight as a drag on margins.</p>
+
+<p><strong>Inventory & Logistics</strong></p>
+<p>Inventory levels are generally stable but increasing for some, such as <strong>Quest Diagnostics</strong> and <strong>Dexcom</strong>. <strong>Biogen</strong> and <strong>Amgen</strong> report that short-term revenue is being impacted by inventory dynamics and stocking for high-dose regimens. Logistics risks are highlighted by <strong>Align Technology</strong>, which cites potential shipping freight disruptions stemming from military action in the Middle East.</p>
+            </div>
+        </section>
+        <section class="sector" id="industrials">
+            <div class="sector-header" style="border-left:5px solid #2980b9">
+                <h2>Industrials</h2>
+            </div>
+            <div class="sector-body">
+                <h2>Sector Consensus</h2>
+
+<p>Demand across the Industrials sector is generally robust, though growth is increasingly bifurcated by end-market. A strong consensus exists regarding the exceptional surge in data center and AI-related infrastructure, which is driving significant order growth for firms such as <strong>Eaton (ETN)</strong>, <strong>GE Vernova (GEV)</strong>, <strong>Carrier (CARR)</strong>, and <strong>Generac (GNRC)</strong>. Similarly, broad-based momentum is evident in professional services and distribution, with <strong>Cintas (CTAS)</strong>, <strong>Fastenal (FAST)</strong>, and <strong>W.W. Grainger (GWW)</strong> reporting robust organic growth. However, signals diverge sharply in residential markets; while some firms see stability, others report moderate softening in residential HVAC and water heating. Geographically, North American activity remains robust, whereas demand in China and Europe is frequently described as softening or facing headwinds.</p>
+
+<h2>Divergences & Outliers</h2>
+
+<p>Several firms contradict the broader sector's robust growth trend, primarily due to specific end-market concentrations. <strong>Builders FirstSource (BLDR)</strong> is a notable outlier, reporting softening demand and declining net sales driven by a weak housing starts environment and affordability challenges. Similarly, <strong>A.O. Smith (AOS)</strong> reports softening global demand, specifically citing robust weakness in China due to poor consumer demand. Within the capital goods group, <strong>Deere & Co (DE)</strong> shows a sharp divergence between its segments: while Construction & Forestry is robust, Large Agriculture is experiencing a moderate decline, signaling a cyclical bottom in the ag equipment market. These divergences are driven by a high sensitivity to interest rates and consumer discretionary spending in the residential and agricultural sectors, contrasting with the secular growth seen in data centers and defense.</p>
+
+<h2>Key Thematic Headings</h2>
+
+<p><strong>Consumer/Business Demand</strong></p>
+<p>Business demand is accelerating in high-tech infrastructure, with <strong>GE Vernova (GEV)</strong> booking $2.4 billion in data center equipment orders and <strong>Eaton (ETN)</strong> seeing a 42% order acceleration in Electrical Americas. Conversely, consumer-facing demand is lagging, as <strong>A.O. Smith (AOS)</strong> reports a 28% local currency sales decrease in China. In the aerospace sector, <strong>GE Aerospace (GE)</strong> reports robust demand with a commercial services backlog exceeding $210 billion.</p>
+
+<p><strong>Labor Markets & Wages</strong></p>
+<p>Labor conditions are generally stable, though some firms report persistent upward pressure on compensation. <strong>FedEx (FDX)</strong> cites headwinds from higher wage rates and variable incentive compensation, while <strong>Delta Air Lines (DAL)</strong> notes a continuation of higher crew costs. In contrast, <strong>Cummins (CMI)</strong> reports a challenging talent market, specifically citing difficulties in attracting and retaining key personnel.</p>
+
+<p><strong>Price & Cost Pressures</strong></p>
+<p>Most firms maintain moderate to robust pricing power, though it is often used to offset input inflation. <strong>Fastenal (FAST)</strong> reported product pricing contributing approximately 290 to 350 basis points to net sales, while <strong>Caterpillar (CAT)</strong> realized favorable price gains of $426 million to $595 million. However, these gains are frequently countered by costs, such as <strong>Caterpillar (CAT)</strong> noting unfavorable manufacturing costs driven by higher tariffs.</p>
+
+<p><strong>Inventory & Logistics</strong></p>
+<p>Inventory levels are generally stabilizing or increasing to support record backlogs. <strong>AMETEK (AME)</strong> saw a modest inventory increase to $1.20 billion, and <strong>GE Aerospace (GE)</strong> reports improved throughput due to double-digit increases in material input from priority suppliers. In the transportation sector, <strong>FedEx (FDX)</strong> is actively retiring aircraft to better align air network capacity with shifting volume levels.</p>
+            </div>
+        </section>
+        <section class="sector" id="information-technology">
+            <div class="sector-header" style="border-left:5px solid #8e44ad">
+                <h2>Information Technology</h2>
+            </div>
+            <div class="sector-body">
+                <h2>Sector Consensus</h2>
+
+<p>Demand across the Information Technology sector is robust, primarily catalyzed by the global build-out of AI infrastructure and the integration of agentic AI capabilities. This momentum is evident across diverse industry groups, with firms such as Broadcom [Semiconductors], Arista Networks [Technology Hardware], and Salesforce [Software & Services] reporting significant revenue acceleration. In the semiconductor space, Applied Materials and AMD cite unprecedented demand for AI compute and materials engineering. However, signals diverge by end-market; while data center and enterprise networking demand is robust, consumer-facing segments show more varied results. For example, HP Inc. [Technology Hardware] reports robust growth in premium AI PCs but notes a softening in total unit volumes and consumer printing. Similarly, Corning [Technology Hardware] reports robust expansion in solar and optical communications, while its automotive and life sciences segments are stable to softening.</p>
+
+<h2>Divergences & Outliers</h2>
+
+<p>Certain firms deviate from the broader robust growth trend due to specific end-market exposure or structural shifts. Accenture [Software & Services] reports only modest overall revenue growth, with a slight decline in Health & Public Service, contrasting with the robust growth seen in its Communications and Financial Services verticals. This divergence is driven by a fragmented demand environment where large-scale AI transformation is strong, but general bookings are softening. HP Inc. [Technology Hardware] serves as a notable outlier regarding pricing and costs; unlike the margin expansion seen at HPE or Analog Devices, HP Inc. reports persistent inflationary pressure on raw materials and a softening of gross profit margins due to a lower-margin hardware mix. Additionally, Akamai [Software & Services] reports a mixed demand profile where robust growth in Cloud Infrastructure is offset by softening demand for legacy delivery services.</p>
+
+<h2>Key Thematic Headings</h2>
+
+<p><strong>Consumer/Business Demand</strong></p>
+<p>Business demand is robust, particularly for AI-driven infrastructure and software. Broadcom reports AI semiconductor revenue growth of 221% year-over-year, while Salesforce notes that Agentforce and Data 360 ARR grew over 210%. In the hardware sector, Cisco reports a "networking supercycle" with networking product orders growing 40% year-over-year.</p>
+
+<p><strong>Labor Markets & Wages</strong></p>
+<p>Labor signals are generally stable, though some firms are prioritizing efficiency over expansion. Cognizant [Software & Services] is implementing "Project Leap" to properly size its workforce, anticipating up to $270 million in severance costs. Conversely, CDW [Technology Hardware] reports moderate upward pressure on labor costs, citing higher compensation and performance-based incentives.</p>
+
+<p><strong>Price & Cost Pressures</strong></p>
+<p>Pricing power is robust for high-value AI offerings but constrained in commodity hardware. Autodesk [Software & Services] is improving price realization by reducing multi-year discounts. In contrast, HP Inc. [Technology Hardware] is navigating rising commodity costs and relying on tariff refunds to bolster financial performance.</p>
+
+<p><strong>Inventory & Logistics</strong></p>
+<p>Inventory levels are increasing moderately as firms buffer for AI-driven growth. Apple [Technology Hardware] saw inventories rise to $11.09 billion from $5.72 billion year-over-year, and Arista Networks [Technology Hardware] increased inventories to $2.54 billion. Applied Materials [Semiconductors] has intentionally increased its build plan and logistics capacity to ensure operational readiness.</p>
+            </div>
+        </section>
+        <section class="sector" id="communication-services">
+            <div class="sector-header" style="border-left:5px solid #2c3e50">
+                <h2>Communication Services</h2>
+            </div>
+            <div class="sector-body">
+                <h2>Sector Consensus</h2>
+
+<p>Demand across the Communication Services sector is mixed but generally robust in digital, wireless, and AI-driven segments, while traditional linear and connectivity services are softening. A strong consensus exists regarding the acceleration of AI integration and infrastructure investment, with firms like Alphabet, Meta, and T-Mobile aggressively expanding technical capacity. Wireless demand remains robust, as evidenced by record additions at Comcast and strong growth at AT&T and T-Mobile. Conversely, a moderate decline in residential broadband and traditional video is a common theme for Charter and Comcast. Divergences appear in end-markets: while digital advertising and streaming show robust momentum (Netflix, Alphabet, Fox), traditional linear television and copper-based legacy services are softening (Warner Bros. Discovery, AT&T).</p>
+
+<h2>Divergences & Outliers</h2>
+
+<p>Certain firms deviate from the broader sector's demand and cost signals based on their specific business models. Alphabet and Meta are outliers in capital intensity, with robust AI-driven capex far exceeding the modest technology spend of gaming firms like Take-Two. In the labor market, Meta is a notable outlier, reporting a significant workforce contraction of 8,000 employees, while Alphabet reports moderate headcount growth. Disney and Live Nation diverge from the digital-first trend, reporting robust demand in physical "Experiences" and live venues, though Disney notes geographic divergence with softening demand in Asian parks. Finally, Alphabet is an outlier in physical asset management, reporting a significant increase in inventory from $2.4 billion to $10.0 billion, a signal absent in the predominantly service-oriented firms of the sector.</p>
+
+<h2>Key Thematic Headings</h2>
+
+<p><strong>Consumer/Business Demand</strong></p>
+<p>Demand is bifurcated between legacy services and next-generation platforms. Alphabet reports search queries at an all-time high and meaningful acceleration in Google Cloud, while Netflix sees robust membership growth in Japan. Conversely, Charter and Comcast report softening residential broadband demand, and Warner Bros. Discovery notes a 10% decrease in domestic linear pay TV subscribers.</p>
+
+<p><strong>Labor Markets & Wages</strong></p>
+<p>Labor signals are fragmented, with some firms expanding and others contracting. Alphabet reports moderate headcount growth, increasing to 198,933 employees. In contrast, Meta experienced a significant headcount reduction of approximately 8,000 employees in May 2026, and Verizon reported severance charges of $397 million related to organizational restructuring.</p>
+
+<p><strong>Price & Cost Pressures</strong></p>
+<p>Pricing power is strongest in digital subscriptions and premium services but weak in residential connectivity. Netflix and News Corp report successful price increases and conversions from introductory promotions to higher rates. However, Comcast and Charter report softening residential broadband revenue driven by lower average rates, while Meta notes persistent inflationary pressure on hardware component pricing.</p>
+
+<p><strong>Inventory & Logistics</strong></p>
+<p>Physical inventory signals are rare, as most firms operate digital models, but significant movements exist in hardware. Alphabet reported a substantial inventory build-up, rising to $10.0 billion in Q2 2026. Verizon notes a softening in hardware demand as consumers extend device lifecycles, while Live Nation uses record deferred revenue as a leading indicator for upcoming venue activity.</p>
+            </div>
+        </section>
+        <section class="sector" id="materials">
+            <div class="sector-header" style="border-left:5px solid #d35400">
+                <h2>Materials</h2>
+            </div>
+            <div class="sector-body">
+                <h2>Sector Consensus</h2>
+
+<p>Demand across the Materials sector is generally moderate, though characterized by significant bifurcation across end-markets and geographies. A broad consensus exists among firms such as <strong>Nucor</strong>, <strong>Steel Dynamics</strong>, <strong>Vulcan Materials</strong>, <strong>Linde</strong>, and <strong>Air Products</strong> that infrastructure, electronics, and public construction are driving robust activity. Conversely, signals diverge sharply in the automotive and residential construction sectors, where firms like <strong>Albemarle</strong> and <strong>Sherwin-Williams</strong> report softness. Geographically, activity is stable to robust in the Americas and Asia, while a consistent trend of softening demand is reported across Europe, particularly within the chemicals and packaging segments.</p>
+
+<h2>Divergences & Outliers</h2>
+
+<p>While the broader sector reports moderate growth, <strong>Mosaic</strong> [Chemicals] stands as a notable outlier with softening demand and challenging business conditions, leading to the idling of production facilities in Brazil and the U.S. This divergence is driven by a volatile global nitrogen/phosphate balance and severe raw material constraints, specifically sulfur affordability. In the packaging space, <strong>Amcor</strong> [Containers & Packaging] contradicts the stability seen in other packaging firms by reporting softening organic volumes in North America and Europe, a result of a specific end-market mix shift where declines in healthcare and nutrition offset gains in pet food. Additionally, <strong>Dow</strong> [Chemicals] reports weak pricing power with local prices down 7%, contrasting with the robust pricing power exercised by <strong>Albemarle</strong> and <strong>Vulcan Materials</strong>.</p>
+
+<h2>Key Thematic Headings</h2>
+
+<p><strong>Consumer/Business Demand</strong></p>
+<p>Demand is robust in high-tech and industrial infrastructure, with <strong>Ecolab</strong> reporting 29% growth in Global High-Tech and <strong>Nucor</strong> achieving record steel mill shipments. Conversely, consumer-facing segments are lagging, as <strong>Sherwin-Williams</strong> notes soft DIY demand in North America and <strong>Amcor</strong> reports lower volumes in healthcare. Business investment remains strong in data centers, cited as a growth driver by both <strong>Dow</strong> and <strong>Ecolab</strong>.</p>
+
+<p><strong>Labor Markets & Wages</strong></p>
+<p>Labor signals are sparse but lean toward moderate upward pressure. <strong>Avery Dennison</strong> and <strong>Sherwin-Williams</strong> both report that employee-related costs have partially offset margin expansions. <strong>International Paper</strong> notes that selling and administrative expenses rose due to planned annual wage increases. Some firms are countering these pressures with restructuring, as <strong>Mosaic</strong> implements cost-saving initiatives to streamline support functions.</p>
+
+<p><strong>Price & Cost Pressures</strong></p>
+<p>Robust pricing power is evident in metals and aggregates, with <strong>Vulcan Materials</strong> reporting widespread pricing growth and <strong>Newmont</strong> benefiting from sharply higher realized gold prices. However, these gains are often offset by geopolitical cost escalations; <strong>Freeport-McMoRan</strong> and <strong>Albemarle</strong> both cite higher costs for energy and consumables linked to conflict in the Middle East. <strong>Ecolab</strong> has responded to these pressures by introducing a global energy surcharge.</p>
+
+<p><strong>Inventory & Logistics</strong></p>
+<p>Inventory levels are diverging based on risk appetite; <strong>Amcor</strong> is intentionally bloating inventories to secure service levels amid Middle East instability, while <strong>Steel Dynamics</strong> reports that customer inventories remain lean and below historical norms. Logistics disruptions are a recurring theme, with <strong>DuPont</strong> and <strong>Albemarle</strong> noting supply chain pressures in the Middle East. <strong>Air Products</strong> is mitigating these risks by repositioning its ISO container fleet to manage supply flows.</p>
+            </div>
+        </section>
+        <section class="sector" id="real-estate">
+            <div class="sector-header" style="border-left:5px solid #c0392b">
+                <h2>Real Estate</h2>
+            </div>
+            <div class="sector-body">
+                <h2>Sector Consensus</h2>
+
+<p>Demand across the real estate sector is generally <strong>robust</strong>, though activity is highly bifurcated by asset class. A strong consensus exists regarding the acceleration of digital infrastructure, with <strong>Equinix (EQIX)</strong>, <strong>Digital Realty (DLR)</strong>, <strong>Iron Mountain (IRM)</strong>, and <strong>American Tower (AMT)</strong> all reporting robust demand driven by AI-driven workloads and cloud adoption. Similarly, retail and experiential assets—including <strong>Simon Property Group (SPG)</strong>, <strong>Kimco Realty (KIM)</strong>, and <strong>VICI Properties (VICI)</strong>—report robust leasing activity and stable-to-high occupancy. However, signals diverge significantly in the residential and life science markets; while <strong>AvalonBay (AVB)</strong> sees improving demand due to easing supply, <strong>Alexandria Real Estate Equities (ARE)</strong> reports softening demand linked to a deceleration in FDA drug approvals.</p>
+
+<h2>Divergences & Outliers</h2>
+
+<p><strong>Alexandria Real Estate Equities (ARE) [Equity REITs]</strong> contradicts the broader sector's expansionary trend by actively reducing capital spend and pivoting toward capital preservation. This divergence is driven by a softening in the life science end-market, specifically a decline in the leading indicator of FDA drug approvals. <strong>Crown Castle (CCI) [Equity REITs]</strong> also diverges from the robust growth seen in other infrastructure firms, reporting softening demand and a projected decrease in site rental revenues. This is a result of a strategic shift to a "pure-play" tower model following the divestiture of its Fiber Solutions and Small Cell businesses. <strong>Camden Property Trust (CPT) [Equity REITs]</strong> reports weakening pricing power and declining new lease rates, contrasting with the robust rent growth seen in the retail and senior housing segments.</p>
+
+<h2>Key Thematic Headings</h2>
+
+<p><strong>Consumer/Business Demand</strong></p>
+<p>Demand is robust for specialized and high-income segments, with <strong>Federal Realty (FRT)</strong> citing the resilience of the higher-income consumer and <strong>Host Hotels (HST)</strong> noting durable demand from affluent leisure travelers. In the business sector, <strong>Equinix (EQIX)</strong> reports that 60% of its largest deals are AI-related. Conversely, <strong>UDR, Inc.</strong> reports geographic divergence, with robust growth in the West and Northeast but softening demand in the Southeast and Southwest.</p>
+
+<p><strong>Labor Markets & Wages</strong></p>
+<p>Labor signals are sparse but indicate persistent upward pressure in service-heavy sectors. <strong>Host Hotels (HST)</strong> explicitly notes increases in wage expenses, which are currently being offset by higher room rates. <strong>CBRE</strong> reports higher incentive compensation linked to strong performance, while <strong>Extra Space Storage (EXR)</strong> shows mixed signals, with a 1.5% increase in payroll in one period followed by a 2.3% decrease in the next.</p>
+
+<p><strong>Price & Cost Pressures</strong></p>
+<p>Pricing power is robust in retail and senior housing, where <strong>Regency Centers (REG)</strong> reports blended rent spreads of 12.1% and <strong>Welltower (WELL)</strong> reports 5.2% growth in Revenue Per Occupied Room. However, residential operators face a squeeze; <strong>AvalonBay (AVB)</strong> notes that operating expenses grew at 4.7%, outpacing its 1.6% revenue increase. <strong>Extra Space Storage (EXR)</strong> reports robust inflationary pressure in insurance, which rose 12.3%.</p>
+
+<p><strong>Inventory & Logistics</strong></p>
+<p>Capacity expansion is aggressive in data centers and senior housing, with <strong>Digital Realty (DLR)</strong> maintaining a pipeline of 8.5 gigawatts of buildable IT capacity and <strong>Ventas (VTR)</strong> increasing 2026 investment expectations to $4.5 billion. In the residential sector, <strong>UDR, Inc.</strong> attributes its positive outlook to "waning supply" of apartment homes. <strong>Prologis (PLD)</strong> reports a slight softening in U.S. space utilization, moving from 85.3% to 84.4%.</p>
+            </div>
+        </section>
+        <section class="sector" id="utilities">
+            <div class="sector-header" style="border-left:5px solid #7f8c8d">
+                <h2>Utilities</h2>
+            </div>
+            <div class="sector-body">
+                <h2>Sector Consensus</h2>
+
+<p>The Utilities sector is experiencing robust long-term demand growth, primarily catalyzed by the rapid expansion of data centers, hyperscalers, and large-scale industrial loads. This trend is most pronounced in Texas and the Southeast, as evidenced by reports from <strong>American Electric Power (AEP)</strong>, <strong>CenterPoint Energy (CNP)</strong>, <strong>Sempra (SRE)</strong>, and <strong>NextEra Energy (NEE)</strong>. Capital spending remains robust across the majority of firms, with a sector-wide pivot toward grid modernization, transmission expansion, and decarbonization. <strong>Exelon (EXC)</strong> and <strong>FirstEnergy (FE)</strong> both highlight multi-billion dollar long-term capital plans to enhance system reliability. Pricing power is generally stable to moderate, as firms like <strong>Ameren (AEE)</strong> and <strong>Eversource (ES)</strong> successfully utilize regulatory channels to implement rate increases and recover infrastructure costs. However, signals diverge regarding short-term retail activity; while industrial demand is accelerating, retail sales for <strong>Alliant Energy (LNT)</strong> and <strong>Ameren (AEE)</strong> have shown slight softening due to weather anomalies.</p>
+
+<h2>Divergences & Outliers</h2>
+
+<p>While the broader sector is focused on capacity expansion for new loads, <strong>PG&E (PCG)</strong> stands as an outlier in pricing strategy, actively reducing bundled electric rates for vulnerable customers by 23% and targeting internal O&M cost reductions of 2–4%. Unlike the growth-centric focus of the Southeast, <strong>Edison International (EIX)</strong> reports a more cautious demand outlook, citing the risk of "lower than expected load growth" which could impact its ability to secure regulatory approvals. Additionally, <strong>CMS Energy (CMS)</strong> is diverging from the general expansion trend by strategically narrowing its focus to Michigan-based assets and exiting non-utility renewables development to optimize its regulated energy services portfolio.</p>
+
+<h2>Key Thematic Headings</h2>
+
+<p><strong>Consumer/Business Demand</strong></p>
+<p>Demand is bifurcated between robust industrial growth and weather-sensitive retail activity. <strong>CenterPoint Energy (CNP)</strong> reports an "unprecedented" era of growth in Houston with 12.2 GW of committed industrial load, while <strong>PPL Corp (PPL)</strong> sees a data center pipeline reaching 31.8 GW in Pennsylvania. Conversely, <strong>NRG Energy (NRG)</strong> and <strong>Alliant Energy (LNT)</strong> note that mild winter temperatures led to lower retail load and decreased sales volumes.</p>
+
+<p><strong>Labor Markets & Wages</strong></p>
+<p>Labor conditions are characterized by persistent risks regarding the attraction and retention of skilled personnel. <strong>Atmos Energy (ATO)</strong> and <strong>NiSource (NI)</strong> explicitly identify the failure to attract a qualified workforce as a continuing risk factor. <strong>Alliant Energy (LNT)</strong> reports that higher operating and maintenance expenses in the second quarter were primarily related to labor costs.</p>
+
+<p><strong>Price & Cost Pressures</strong></p>
+<p>Firms are leveraging regulatory mechanisms to offset persistent inflationary and financing pressures. <strong>Duke Energy (DUK)</strong> and <strong>Entergy (ETR)</strong> both cite higher interest expenses as a drag on earnings despite constructive regulatory outcomes. <strong>American Water Works (AWK)</strong> reports moderate inflationary pressure on production, specifically citing increased costs for purchased power and chemicals.</p>
+
+<p><strong>Inventory & Logistics</strong></p>
+<p>Supply chain stability remains a primary risk, with firms shifting toward proactive procurement for long-lead equipment. <strong>American Electric Power (AEP)</strong> has already secured 13 GW of gas-fired turbine capacity to avoid bottlenecks. <strong>Edison International (EIX)</strong> and <strong>Southern Company (SO)</strong> continue to flag supply chain constraints and the availability of spare parts as risks to project execution.</p>
+            </div>
+        </section>
+
+  </div>
+
+  <div class="footer">
+    Beige Book Q3 2026 · Synthesized from S&amp;P 500 earnings transcripts via SEC EDGAR ·
+    AI analysis by google/gemma-4-31B-it · 2026-09-26 10:52 UTC
+  </div>
+
+</div>
+</body>
+</html>
