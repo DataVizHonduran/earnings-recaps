@@ -1,0 +1,22 @@
+Ticker: BBWI
+Source: BBWI_2026-08-26.txt
+Generated: 2026-09-26 17:41 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Bath & Body Works (BBWI)**
+
+**1. Demand & Activity:**
+Overall demand is softening, with total net sales declining moderately by 2.3% ("net sales of $1.5 billion, down 2.3%"). However, activity is bifurcated by channel: U.S. and Canada store sales are declining ("Stores - U.S. and Canada... (5.4%)"), while direct-to-consumer digital demand is seeing modest growth ("first direct net sales growth since 2021"). International activity remains robust ("International and Other... 24.9%"). Management notes that underlying trends "remain pressured," though there is sequential improvement in the Body Care category.
+
+**2. Labor & Wages:**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation:**
+The company is seeing moderate pricing power through product innovation ("stronger AUR on new product innovation"). While specific commodity trends are not detailed, the company received a significant one-time benefit from "approximately $80 million of tariff refunds," suggesting previous pressure from trade costs.
+
+**4. Supply Chain & Inventory:**
+Inventory levels appear to be leaning lower compared to the prior year, suggesting a move toward leaner stock levels ("Inventories 883 [million] vs 977 [million]"). There are no mentions of lead time disruptions.
+
+**5. Capital Spending (Capex):**
+Investment is currently focused on digital infrastructure and "business transformation activities" ("investments we've made over the past year... strengthening the customer proposition through a more seamless and engaging shopping experience"). The company is also moderately expanding its physical footprint, opening 37 company-operated stores while closing 27.
