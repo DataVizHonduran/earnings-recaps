@@ -1,0 +1,22 @@
+Ticker: DRI
+Source: DRI_2026-09-24.txt
+Generated: 2026-09-26 17:42 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Darden Restaurants (DRI)**
+
+**1. Demand & Activity**
+Demand is showing modest growth across the portfolio. Blended same-restaurant sales increased 3.2% on a comparable calendar basis ("Blended same-restaurant sales... increased 3.2% on a comparable calendar basis"). Activity varies by brand, with robust growth at LongHorn Steakhouse (6.8%) and slight growth at Olive Garden (1.0%) ("LongHorn Steakhouse 6.8%," "Olive Garden 1.0%").
+
+**2. Labor & Wages**
+Labor costs are experiencing moderate upward pressure, with restaurant labor expenses increasing from $988 million to $1.03 billion year-over-year ("Restaurant labor 1,028.9 [vs] 988.0"). The company identifies the "inability to hire, train, reward, and retain restaurant team members" and "increased labor... costs" as ongoing risk factors.
+
+**3. Pricing Power & Inflation**
+The company is facing persistent input cost pressures. Food and beverage costs rose from $929.1 million to $984.9 million ("Food and beverage 984.9 [vs] 929.1"). Management explicitly cites the risk of a "failure to address cost pressures" and the need to "achieve some economies of scale in purchasing" to mitigate these headwinds.
+
+**4. Supply Chain & Inventory**
+The report does not provide specific lead-time data, but it flags "shortages, delays, or interruptions in the delivery of food and other products and services from our third-party vendors and suppliers" as a primary operational risk.
+
+**5. Capital Spending (Capex)**
+Investment remains focused on capacity expansion and brand maintenance. The company continues to open new locations, with the total number of company-owned restaurants increasing from 2,165 to 2,218 ("Darden Continuing Operations 2,218 [vs] 2,165"). Management intends to "invest in our people and brands, and deploy capital in ways that support long-term shareholder value."
