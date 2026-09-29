@@ -1,0 +1,17 @@
+Ticker: RH
+Source: RH_2026-09-10.txt
+Generated: 2026-09-29 19:14 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: RH (Q2 2026)**
+
+**Analysis Note:** The provided text is a press release announcing the availability of results and a conference call; it does not contain the actual shareholder letter or transcript text. Consequently, there are no specific economic data points available for extraction.
+
+*   **Demand & Activity:** Not disclosed in provided text.
+*   **Labor & Wages:** Not disclosed in provided text.
+*   **Pricing Power & Inflation:** Not disclosed in provided text.
+*   **Supply Chain & Inventory:** Not disclosed in provided text.
+*   **Capital Spending (Capex):** Not disclosed in provided text.
+
+**Conclusion:** The source document is a notification of earnings release rather than the earnings report itself. No "Ground Truth" signals can be identified from this specific text.

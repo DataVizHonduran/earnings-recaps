@@ -1,0 +1,22 @@
+Ticker: INTU
+Source: INTU_2026-08-25.txt
+Generated: 2026-09-29 19:14 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Intuit Inc. (FY2026)**
+
+**1. Demand & Activity**
+Demand is **robust** overall, with total annual revenue increasing 14% ("Total revenue increased 14 percent to $21.4 billion"). Growth is particularly strong in AI-driven initiatives ("Big Bets which collectively grew 34 percent"). However, demand for traditional tax filing is **softening**, with a modest decline in total U.S. TurboTax units ("Total U.S. TurboTax Units... (2)%"). Credit Karma activity remains **robust**, driven by personal loans, auto insurance, and credit cards ("Credit Karma revenue increased 16 percent... driven by strength in personal loans, auto insurance, and credit cards"). International demand is **stable** ("Total international online revenue increased 10 percent on a constant currency basis").
+
+**2. Labor & Wages**
+The report does not provide specific data on hiring difficulty or wage inflation. However, the company is treating share-based compensation as a core, recurring operating expense ("the company views share-based compensation as a recurring component of the compensation program").
+
+**3. Pricing Power & Inflation**
+The company demonstrates **moderate** pricing power, specifically within its business segment ("QuickBooks Online Accounting revenue increased 20 percent driven by higher effective prices"). There are no mentions of input cost pressures or commodity inflation.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a financial technology platform, the company does not report physical supply chain lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment is focused on technology and AI scaling. Management is taking a "disciplined approach to investments" ("taking a disciplined approach to investments as we scale our Big Bets") to transition into an "AI-driven expert platform" ("Our strategy is to win as an AI-driven expert platform").
