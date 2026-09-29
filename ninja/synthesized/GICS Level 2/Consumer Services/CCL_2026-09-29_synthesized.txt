@@ -1,0 +1,24 @@
+Ticker: CCL
+Source: CCL_2026-09-29.txt
+Generated: 2026-09-29 19:13 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Carnival Corp (CCL)**
+
+**1. Demand & Activity**
+Demand is robust and accelerating. Booking volumes are "meaningfully ahead of last year" and are "far outpacing capacity growth." This strength extends into the medium term, with 2027 booked occupancy and pricing at "record levels," and 2028 already showing an "excellent start at higher occupancy and prices than last year."
+
+**2. Labor & Wages**
+Not explicitly detailed; however, the company notes "stronger cost discipline" and was recognized for "excellence in employee satisfaction" by TIME.
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate pricing power, achieving "all-time high net yields" and "sustained track record of high-quality same-ship yield growth." Inflationary pressures are present but mixed:
+*   **Energy:** Persistent pressure from a "spike in fuel prices," which created a "$131 million unfavorable net impact."
+*   **Operations:** Adjusted cruise costs (excluding fuel) increased by 1.8% to 2.2%, partly due to "elevated logistics costs as a result of disruption from the Middle East conflict."
+
+**4. Supply Chain & Inventory**
+Not applicable/not mentioned. Capacity growth is described as "intentionally measured" and remained "flat" over the next twelve months.
+
+**5. Capital Spending (Capex)**
+Investment remains steady with a focus on fleet modernization and destination enhancement. Recent activity includes "reinvesting in our business" through the "Evolution program" for ship transformations and the unveiling of the "next-generation Ace class" arriving in 2029. Fourth quarter 2026 capex is projected at $0.3 billion for newbuilds and $0.9 billion for non-newbuilds.
