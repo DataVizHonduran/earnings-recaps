@@ -1,0 +1,9 @@
+Ticker: ORCL
+Source: ORCL_2026-09-10.txt
+Generated: 2026-09-30 18:59 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided document, there is insufficient data to perform a Beige Book style analysis. The attached text is a **Press Release header/contact page** containing only corporate contact information for Investor Relations and Corporate Communications.
+
+It does not contain an earnings transcript, financial results, management commentary, or operational data. Consequently, no signals regarding demand, labor, pricing, supply chain, or capital spending are available for extraction.
