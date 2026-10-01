@@ -1,0 +1,17 @@
+Ticker: AZO
+Source: AZO_2026-09-22.txt
+Generated: 2026-10-01 19:22 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: AutoZone (AZO)**
+
+**Demand & Activity:** Demand is modest but strengthening. The company faced a "difficult selling environment" during the first eight weeks of the quarter, though results "strengthened" in the final eight weeks. Domestic same-store sales grew a modest 1.6% for the quarter, while international demand remains more robust, with same-store sales increasing 10.7% (constant currency). Management expects sales to "accelerate in the new fiscal year" across all three operating countries.
+
+**Labor & Wages:** Not explicitly detailed in the financial results, though the company lists "wage inflation" and the "ability to hire, train and retain qualified employees" as ongoing risk factors.
+
+**Pricing Power & Inflation:** The company is seeing modest relief from specific input costs, notably a "145 basis point impact from tariff refunds" which boosted quarterly gross margins. However, these gains were partially offset by a "higher commercial mix," suggesting a shift in customer composition.
+
+**Supply Chain & Inventory:** Inventory levels are increasing to support expansion. Total merchandise inventories rose 10.1% year-over-year, "driven primarily by growth initiatives." The company is actively working to "improve our inventory offering" and "speed of delivery" for both DIY and professional segments.
+
+**Capital Spending (Capex):** Investment in capacity is robust. The company opened 374 new stores during the fiscal year, including 175 in the most recent quarter (97 U.S., 68 Mexico, 10 Brazil). This includes a specific focus on "Mega Hub stores in the U.S." to expand distribution capabilities.
