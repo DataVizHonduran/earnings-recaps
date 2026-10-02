@@ -1,0 +1,22 @@
+Ticker: SNPS
+Source: SNPS_2026-08-26.txt
+Generated: 2026-10-02 19:06 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Synopsys Inc. (SNPS)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by "broad-based strength" ("Results were driven by broad-based strength across the business"). Growth is primarily driven by "unprecedented complexity" and "AI-driven demand strength" for silicon IP and engineering solutions ("AI is driving unprecedented complexity and increasing demand..."). Specific product-line outperformance was noted in Design Automation (EDA), while the design IP business has "returned to year-over-year growth" ("expectations for double-digit growth in EDA").
+
+**2. Labor & Wages**
+The report does not provide specific commentary on hiring difficulty, turnover, or wage inflation. However, the company recorded "Restructuring charges" of $2.16 million for the quarter and $236.3 million for the first nine months of the fiscal year ("Restructuring charges... 2,164 [thousand]").
+
+**3. Pricing Power & Inflation**
+There is no explicit mention of price increases or input cost pressures (commodities/freight). The company is seeing margin expansion, raising its full-year non-GAAP operating margin guidance ("we are raising our full year revenue, non-GAAP operating margin, EPS and cash flow guidance").
+
+**4. Supply Chain & Inventory**
+Not applicable. As a provider of software and IP solutions, the company does not report physical inventory levels or hardware lead times.
+
+**5. Capital Spending (Capex)**
+Capital investment remains stable and modest relative to total revenue. The company projects capital expenditures of approximately $225 million for the fourth quarter ("Capital Expenditures... ~$225 [million]").

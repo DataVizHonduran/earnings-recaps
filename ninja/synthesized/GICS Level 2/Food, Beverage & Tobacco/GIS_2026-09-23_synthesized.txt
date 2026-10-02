@@ -1,0 +1,22 @@
+Ticker: GIS
+Source: GIS_2026-09-23.txt
+Generated: 2026-10-02 19:05 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: General Mills (GIS)**
+
+**1. Demand & Activity**
+Overall organic demand is stable but fragmented. North American retail demand is softening, with organic net sales down 3% ("Organic net sales were down 3 percent"), while North American Foodservice and International markets show moderate growth, both up 4% ("Organic net sales were up 4 percent"). Management notes a "continued challenging consumer backdrop" and expects category growth to remain below historical averages.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+Pricing power is modest and shifting. While the company saw "favorable net price realization and mix" in several segments, it has completed its "base price investment actions" as of fiscal 2026. Inflationary pressure remains a factor, as adjusted operating profit was hindered by "higher input costs" in North America, though the International segment saw "lower input costs."
+
+**4. Supply Chain & Inventory**
+Inventory levels are creating slight headwinds. Retailer inventory adjustments have negatively impacted sales growth in the North American Retail segment ("driven by changes in retailer inventory") and are expected to be a "low-single-digit headwind" for the North America Pet segment for the full year.
+
+**5. Capital Spending (Capex)**
+Capital investment is modest and trending slightly lower, totaling $90 million for the quarter compared to $110 million in the prior year ("Capital investments totaled $90 million compared to $110 million a year ago"). The company is currently prioritizing "product innovation and renovation" and cost-saving productivity programs over large-scale capacity expansion.
