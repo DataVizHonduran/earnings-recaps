@@ -1,0 +1,22 @@
+Ticker: KMX
+Source: KMX_2026-09-29.txt
+Generated: 2026-10-03 17:51 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: CarMax Inc. (KMX)**
+
+**1. Demand & Activity**
+Demand is showing robust growth. Combined retail and wholesale unit sales increased 14.7% ("Combined retail and wholesale unit sales of 387,735, an increase of 14.7%"), with comparable store used unit sales rising 13.0% ("comparable store used unit sales increased 13.0%"). Activity is further supported by an expansion into the Tier 2 credit spectrum ("CAF financed 22% of Tier 2 volume versus 10% a year ago").
+
+**2. Labor & Wages**
+The company is actively pursuing headcount reductions to lower overhead. Management noted that SG&A increases were "partially offset by savings from actions taken to reduce field and corporate payroll as part of our targeted SG A reductions." The company is targeting a total of "$200 million in exit rate savings by the end of fiscal 2027."
+
+**3. Pricing Power & Inflation**
+Pricing power is softening as the company prioritizes volume over per-unit margins. Retail gross profit per unit declined by $111 ("reflecting the continuation of pricing actions implemented to support an improved sales trend"). However, the company is successfully offsetting some margin compression through higher-margin ancillary products, specifically Extended Protection Plans ("EPP margin per retail unit of $623, an increase of $46 per unit").
+
+**4. Supply Chain & Inventory**
+Inventory acquisition is growing moderately. The company bought 310,107 vehicles, a 5.9% increase over the prior year. While consumer sourcing remained stable ("bought from consumers, flat compared to last year"), there was a robust increase in dealer-sourced inventory ("bought through dealers, an increase of 53.7%").
+
+**5. Capital Spending (Capex)**
+Investment is focused on modest physical expansion and technological efficiency. Recent activity includes opening new stores and an auction center in Texas and Washington ("opened an offsite auction center and store in Conroe, Texas, and a store in Richland, Washington"). Future spending is directed toward "Lower reconditioning costs through technology and operational efficiency" and enhancing the "logistics network."
