@@ -1,0 +1,22 @@
+Ticker: MKC
+Source: MKC_2026-10-01.txt
+Generated: 2026-10-03 17:51 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: McCormick & Co (MKC)**
+
+**1. Demand & Activity**
+Demand is generally stable to modest, though divergent by segment. Organic sales grew a modest 1.9%, primarily driven by pricing rather than volume. The Consumer segment saw softening volume ("1% decline in volume and product mix"), while Flavor Solutions experienced modest growth ("1% increase in volume and product mix"). Geographically, APAC showed robust organic growth (4.4%), while the Americas Consumer segment saw a slight decline (-0.3%). Management expects total volumes to remain "stable" for the remainder of the year.
+
+**2. Labor & Wages**
+The report does not explicitly detail hiring or turnover; however, it notes a "build back of incentive compensation" within SG&A expenses, suggesting a return to previous variable pay levels.
+
+**3. Pricing Power & Inflation**
+The company maintains robust pricing power, with organic sales growth driven almost entirely by price increases ("Organic sales increased 2%, driven by price"). However, this is being countered by persistent inflationary pressures. Management noted that margins were "partially offset by higher commodity and freight costs" and specifically cited "increased inflationary costs, including costs related to the Middle East conflict."
+
+**4. Supply Chain & Inventory**
+Specific lead-time data was not provided. However, the company is actively managing costs through its "Comprehensive Continuous Improvement (CCI) program" to offset freight and input pressures. There is a notable strategic exit from a "development-stage pepper sourcing project in Malaysia," resulting in a non-cash impairment charge.
+
+**5. Capital Spending (Capex)**
+Investment is focused on technology and brand equity rather than physical plant expansion. The company is pursuing "increased brand marketing investments and technology investments" to drive long-term growth. Additionally, significant resources are currently allocated to "integration planning for the proposed Unilever Foods combination."
