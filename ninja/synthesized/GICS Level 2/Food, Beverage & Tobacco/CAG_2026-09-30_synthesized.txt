@@ -1,0 +1,26 @@
+Ticker: CAG
+Source: CAG_2026-09-30.txt
+Generated: 2026-10-04 18:04 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Conagra Brands (CAG)**
+
+**1. Demand & Activity: Softening**
+Overall demand is softening, with organic net sales decreasing 1.1% ("organic net sales decreased 1.1%"). This decline is primarily driven by a volume decrease of 2.1% ("driven by a 1.0% positive impact from price/mix and a 2.1% volume decrease"). Activity varies by segment:
+*   **Grocery & Snacks:** Moderate decline in volume (-5.4%).
+*   **Refrigerated & Frozen:** Slight decline in volume (-0.1%).
+*   **International:** Slight decline in volume (-0.7%).
+*   **Foodservice:** Robust growth in volume (+2.5%), though partially attributed to order timing ("Volumes benefited approximately 150 basis points due to timing of customer orders").
+
+**2. Labor & Wages: Not Addressed**
+The provided text contains no specific mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation: Mixed/Persistent Pressure**
+Pricing power is fragmented across product lines. The company achieved a modest price/mix increase in Grocery & Snacks (+3.4%) and International (+1.6%), but saw a slight decrease in Refrigerated & Frozen (-1.5%). Input cost pressures remain persistent, as "the negative impact of cost of goods sold inflation" was cited as a primary headwind across all four business segments.
+
+**4. Supply Chain & Inventory: Stable**
+There are no specific mentions of lead times or inventory bloating/leaness. The company did note a modest benefit from "approximately $4 million in tariff refunds."
+
+**5. Capital Spending (Capex): Stable/Moderate**
+Capex for the first quarter was $124 million, a slight decrease from $147 million in the prior year. The company maintains a stable outlook for the full fiscal year, projecting capital expenditures of "approximately $550 million."
