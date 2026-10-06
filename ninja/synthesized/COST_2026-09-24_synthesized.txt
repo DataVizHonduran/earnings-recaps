@@ -1,0 +1,22 @@
+Ticker: COST
+Source: COST_2026-09-24.txt
+Generated: 2026-10-06 19:24 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Costco Wholesale Corp (FY2026)**
+
+**1. Demand & Activity**
+Demand remains robust across all primary markets. Total company comparable sales grew by 8.4% for the fiscal year. Growth was most pronounced in "Digitally-Enabled" sales, which saw robust expansion of 20.9% ("Digitally-Enabled 20.9%"). Geographic demand was moderate to strong, with the U.S. leading comparable growth at 8.2%, followed by "Other International" at 9.8% and Canada at 7.8%.
+
+**2. Labor & Wages**
+The company identifies "rising costs associated with employees (generally including health-care costs and wages)" as a persistent risk factor. While specific wage percentage increases were not disclosed, the balance sheet shows a modest increase in "Accrued salaries and benefits," rising from $5.2 billion to $5.6 billion year-over-year.
+
+**3. Pricing Power & Inflation**
+Costco is experiencing some input cost relief, specifically noting a "non-recurring benefit... from IEEPA tariff refunds," a portion of which was used for "increased member values." However, the company continues to monitor "inflation or deflation" and "energy and certain commodities" as ongoing risks to the operating environment.
+
+**4. Supply Chain & Inventory**
+Inventory levels have increased moderately to support growth, with "Merchandise inventories" rising from $18.1 billion to $19.3 billion. There are no indications of bloated stock or significant lead-time disruptions; however, the company remains attentive to "actions of vendors" and "geopolitical conditions (including tariffs and global conflicts)."
+
+**5. Capital Spending (Capex)**
+Investment in capacity and facilities is expanding. Capital expenditures for "Additions to property and equipment" grew from $5.5 billion to $6.4 billion over the fiscal year, signaling a moderate acceleration in physical footprint or technology upgrades.

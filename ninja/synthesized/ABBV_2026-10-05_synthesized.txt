@@ -1,0 +1,19 @@
+Ticker: ABBV
+Source: ABBV_2026-10-05.txt
+Generated: 2026-10-06 19:23 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Analysis: AbbVie Inc. (Q3 2026)**
+
+The provided document is a financial guidance table regarding Adjusted Diluted EPS and acquired IPR&D (In-Process Research and Development) expenses. It does not contain a transcript of management commentary, operational updates, or qualitative business discussions.
+
+As a result, there are no "Ground Truth" economic signals available for the requested categories:
+
+*   **Demand & Activity:** Not mentioned.
+*   **Labor & Wages:** Not mentioned.
+*   **Pricing Power & Inflation:** Not mentioned.
+*   **Supply Chain & Inventory:** Not mentioned.
+*   **Capital Spending (Capex):** Not mentioned.
+
+The document is limited to quantitative EPS guidance and the impact of milestone expenses ("Guidance including Q3 2026 acquired IPR D and milestones expense").
