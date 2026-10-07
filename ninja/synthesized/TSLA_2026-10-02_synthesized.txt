@@ -1,0 +1,22 @@
+Ticker: TSLA
+Source: TSLA_2026-10-02.txt
+Generated: 2026-10-07 19:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: TSLA (Q3 2026)**
+
+**Demand & Activity**
+Activity appears **stable to moderately robust**, with deliveries exceeding production for the quarter. Total vehicle deliveries reached 486,532 units ("delivered over 486,000 vehicles"), with the Model 3/Y remaining the primary driver of volume ("Model 3 Y... 478,237"). Energy storage deployment remains a significant activity stream ("deployed 13.7 GWh of energy storage products").
+
+**Labor & Wages**
+No data provided. The document does not mention hiring, turnover, or wage trends.
+
+**Pricing Power & Inflation**
+No specific pricing actions were disclosed. The company noted that final financial performance will depend on "average selling price" and "cost of sales," but provided no current directional trend on pricing power or input cost inflation.
+
+**Supply Chain & Inventory**
+Inventory levels appear **lean**, as deliveries exceeded production by approximately 22,000 units ("produced over 464,000 vehicles, delivered over 486,000 vehicles"), suggesting a drawdown of existing vehicle inventory to meet demand.
+
+**Capital Spending (Capex)**
+No specific future capital expenditure plans or facility investment targets were disclosed in this production and delivery update.
