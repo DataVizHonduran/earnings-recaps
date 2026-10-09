@@ -1,0 +1,22 @@
+Ticker: MU
+Source: MU_2026-09-30.txt
+Generated: 2026-10-09 19:22 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Micron Technology (MU)**
+
+**1. Demand & Activity**
+Demand is robust and accelerating, driven primarily by the transition to "Super Intelligence" (SI). Activity is particularly strong in AI-related memory, with the company expecting an "even stronger fiscal 2027" ("AI-driven demand... position Micron for a record fiscal 2027"). Growth is evident across all business units, with notable strength in the Core Data Center and Cloud Memory segments. Specific product momentum is highlighted by the server LPDDR SOCAMM portfolio, where revenue "more than doubled sequentially in the fourth quarter of 2026."
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, wage adjustments, or headcount changes.
+
+**3. Pricing Power & Inflation**
+The company exhibits strong pricing power, reflected in a moderate to robust expansion of gross margins. Non-GAAP gross margins rose to 87.0% in FQ4-26 from 45.7% in FQ4-25 ("Gross margin... 87.0% [vs] 45.7%"). This suggests significant ability to pass costs to customers or a shift toward higher-value AI product mixes. There are no mentions of input cost pressures or commodity inflation.
+
+**4. Supply Chain & Inventory**
+Inventory levels appear stable and well-managed relative to the massive scale of revenue growth. While inventories increased slightly to $10.37 billion from $8.57 billion in the prior quarter ("Inventories $10,372 [vs] $8,567"), this growth is modest compared to the surge in quarterly revenue. Lead times were not explicitly discussed, but "Strategic Customer Agreements" are cited as providing "confidence in the durability" of performance.
+
+**5. Capital Spending (Capex)**
+Capital investment is robust and increasing to support capacity and technology transitions. The company invested $27.37 billion for the full year 2026 ("Investments in capital expenditures, net... were $27.37 billion for the full year of 2026"). Management explicitly stated they are "increasing our investments in technology, products and manufacturing to help drive SI forward."

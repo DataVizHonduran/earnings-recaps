@@ -1,0 +1,22 @@
+Ticker: PEP
+Source: PEP_2026-10-08.txt
+Generated: 2026-10-09 19:22 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: PepsiCo (PEP)**
+
+**1. Demand & Activity**
+Demand is showing moderate growth globally, though performance varies by region. International markets are robust, with "organic volume growth within Asia Pacific Foods, International Beverages Franchise and Latin America Foods." In North America, demand is stabilizing; convenient foods saw "savory snacks volume growth and volume market share improvement," though the company is acting with "urgency to sustainably improve our performance in North America."
+
+**2. Labor & Wages**
+The report does not provide specific data on hiring or turnover. However, it notes a general increase in "certain operating cost increases" that have partially offset productivity gains.
+
+**3. Pricing Power & Inflation**
+Pricing power remains stable but is being utilized selectively. Organic revenue growth was aided by "effective net pricing," though North American convenient foods experienced "lower effective net pricing." The company faces persistent inflationary pressure, noting the need for cost reductions to "mitigate the impacts of rising input cost inflation." Some relief was noted via "a 4-percentage-point favorable impact of tariff refunds."
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capital investment remains stable and disciplined, with guidance for capital spending to remain "Below 5% of net revenue." Future investments are being prioritized toward "innovation, effective brand building, and sharper marketplace execution."
