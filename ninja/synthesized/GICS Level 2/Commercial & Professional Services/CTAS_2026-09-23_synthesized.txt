@@ -1,0 +1,22 @@
+Ticker: CTAS
+Source: CTAS_2026-09-23.txt
+Generated: 2026-10-10 18:22 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Cintas Corp (CTAS)**
+
+**1. Demand & Activity**
+Demand remains robust, characterized by record-breaking top-line growth. Organic revenue grew by 8.9% in the first quarter, and the company has raised its full-year revenue guidance to a range of $12.15 billion to $12.27 billion ("Organic revenue growth of 8.9% and a record gross margin reflect the value we continue to provide our customers").
+
+**2. Labor & Wages**
+The company continues to prioritize human capital to support growth, though specific wage figures were not disclosed. Management highlighted ongoing investments in "talent" as a primary driver of their record operating margins ("impact of our ongoing investments in technology, capacity and talent").
+
+**3. Pricing Power & Inflation**
+Cintas demonstrates strong pricing power, evidenced by a record gross margin of 51.5%, a 120-basis point increase over the prior year ("Gross margin as a percent of revenue was 51.5%... an increase of 120 basis points"). While current results are strong, the company notes potential risks from "greater than anticipated operating costs including energy and fuel costs."
+
+**4. Supply Chain & Inventory**
+No specific commentary was provided regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment in capacity and infrastructure remains a priority to support scaling and operational efficiency ("impact of our ongoing investments in technology, capacity and talent"). Additionally, the company is pursuing significant inorganic expansion through the proposed acquisition of UniFirst Corporation ("We remain excited about the substantial value we expect to create... through the transaction").
