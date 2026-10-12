@@ -1,0 +1,15 @@
+Ticker: FDS
+Source: FDS_2026-09-30.txt
+Generated: 2026-10-12 22:01 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Analysis Note:** The provided document is not an earnings transcript, but rather the **Amended and Restated By-Laws** of FactSet Research Systems Inc. (EX-3.1). As a legal governance document, it contains no data regarding economic signals, financial performance, or operational outlook.
+
+**1. Demand & Activity:** Not addressed.
+**2. Labor & Wages:** Not addressed.
+**3. Pricing Power & Inflation:** Not addressed.
+**4. Supply Chain & Inventory:** Not addressed.
+**5. Capital Spending (Capex):** Not addressed.
+
+**Conclusion:** No "Ground Truth" economic signals are present in the provided text.
