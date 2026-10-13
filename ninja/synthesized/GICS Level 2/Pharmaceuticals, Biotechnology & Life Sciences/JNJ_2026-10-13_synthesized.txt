@@ -1,0 +1,22 @@
+Ticker: JNJ
+Source: JNJ_2026-10-13.txt
+Generated: 2026-10-13 20:08 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Johnson & Johnson (Q3 2026)**
+
+**Demand & Activity**
+Demand is robust overall, characterized by "accelerating momentum" ("accelerating momentum of our focused portfolio"). Growth is geographically bifurcated: U.S. demand is strong (9.1% operational growth), while international demand remains stable to modest (1.9% adjusted operational growth). Product-line variance is notable; Innovative Medicine saw robust growth (7.9% operational) driven by oncology and immunology, while MedTech experienced modest growth (2.5% operational), supported by cardiovascular and vision products.
+
+**Labor & Wages**
+The provided text contains no mentions of hiring difficulties, turnover, wage adjustments, or headcount changes.
+
+**Pricing Power & Inflation**
+The report does not explicitly detail pricing actions or specific input cost pressures. However, the company's ability to raise full-year guidance suggests stable margins and effective revenue management ("increasing 2026 guidance with estimated reported sales of $101.2 Billion").
+
+**Supply Chain & Inventory**
+There are no specific mentions of lead times or inventory levels in the provided text.
+
+**Capital Spending (Capex)**
+The company is maintaining a strategy of strategic investment in high-growth areas and technology to drive long-term expansion ("strategic investments in high-growth areas, gives us clearer line of sight to double-digit growth"). Recent activity includes the acquisition of Firefly Bio, Inc. and a collaboration with Sail Biomedicines to advance "in vivo CAR-T Programs." Additionally, the company is investing in robotic surgical capacity with the market authorization of the OTTAVA system ("world’s first table-integrated soft tissue robotic system").
