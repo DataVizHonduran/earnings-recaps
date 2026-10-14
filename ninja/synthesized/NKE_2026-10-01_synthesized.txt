@@ -1,0 +1,17 @@
+Ticker: NKE
+Source: NKE_2026-10-01.txt
+Generated: 2026-10-14 18:25 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: NIKE, Inc. (Q1 FY27)**
+
+**Demand & Activity:** Demand is softening globally, with revenues down 4% reported ("down 4 percent on a reported basis"). Activity is bifurcated by geography: North America shows modest growth ("growth in North America"), while demand is declining moderately in EMEA and robustly in Greater China ("declines in Greater China and EMEA"). Product-line demand is mixed, with footwear seeing significant weakness in China ("Footwear... -22%") and Converse experiencing a sharp decline ("down 28 percent... across all territories"). The outlook remains weak, with revenues expected to "decline high-single digits in fiscal 2027."
+
+**Labor & Wages:** The company is actively reducing headcount and costs through its "Pace" operating model. There is a noted reduction in current spending ("Operating overhead expense was... down 6 percent, primarily due to lower wage-related expense"). Future labor reductions are expected, with approximately $1.0 billion in pre-tax charges primarily consisting of "employee-related costs" through fiscal 2031.
+
+**Pricing Power & Inflation:** While specific price hikes were not detailed, gross margins expanded slightly by 60 basis points ("Gross margin expanded 60 basis points to 42.8 percent"). This improvement was driven by easing input costs rather than pricing power, specifically citing "lower warehousing and logistics costs."
+
+**Supply Chain & Inventory:** Inventory levels are stable to slightly lean, decreasing 3% to $7.8 billion ("Inventories... down 3 percent"). The company is currently focused on "modernize[ing] NIKE's global supply chain" as part of its Pace transformation to improve efficiency.
+
+**Capital Spending (Capex):** Capex is being directed toward digital and operational infrastructure. Key investments include the "establishment of a new campus in India to fuel its enterprise capabilities" and broader efforts to "modernize NIKE's global supply chain."

@@ -1,0 +1,22 @@
+Ticker: LW
+Source: LW_2026-10-06.txt
+Generated: 2026-10-14 18:25 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Lamb Weston (LW)**
+
+**1. Demand & Activity**
+Demand is mixed by geography. North American activity is robust, with sales volume growing for the seventh consecutive quarter, increasing 7% ("driven by higher demand from existing customers and customer wins"). Conversely, international demand is softening, particularly in EMEA, which "continues to face challenging market conditions" and saw a 6% decline in sales volume.
+
+**2. Labor & Wages**
+The report does not provide specific data on hiring, turnover, or wage levels. It notes a general increase in "outside services and fixed expense," though these were "mostly offset" by internal cost savings programs.
+
+**3. Pricing Power & Inflation**
+Pricing power appears modest to weak, as the company reported a 2% decrease in price mix due to "price and trade support for customers" and a shift toward private-label products. Inflationary pressures remain persistent; the company continues to experience "unexpected inflationary pressure across key input costs and freight expense," which they are managing via supplier negotiations and hedging.
+
+**4. Supply Chain & Inventory**
+Inventory levels are being managed through network optimization. The company is actively balancing utilization, including "ending production at Broekhuizenvorst" to optimize fulfillment. In North America, capacity optimization has led to a "moderate" improvement in efficiency, specifically an "approximate 10 percentage point increase in utilization."
+
+**5. Capital Spending (Capex)**
+Capex remains stable, with a full-year outlook of $380 to $410 million. Recent spending ($91 million in Q1) is directed toward "ongoing investments in the reliability of production facilities as well as strategic optimization investments."
