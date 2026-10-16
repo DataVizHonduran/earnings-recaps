@@ -1,0 +1,22 @@
+Ticker: CFG
+Source: CFG_2026-10-16.txt
+Generated: 2026-10-16 17:54 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Citizens Financial Group (CFG)**
+
+**1. Demand & Activity**
+Loan demand is showing modest growth, with average loans increasing 1% quarter-over-quarter ("Average loans up 1% QoQ"). Activity is bifurcated by product line: growth is led by the Private Bank and retail segments ("growth led by Private Bank and retail"), while capital markets activity is softening, specifically in loan syndication and underwriting ("reflecting lower loan syndication and debt and equity underwriting fees"). Wealth management demand is robust, reaching record levels ("Wealth fees increased $7 million to $109 million, a new record").
+
+**2. Labor & Wages**
+Labor costs are seeing moderate increases, primarily driven by strategic expansion and benefit costs. Salaries and employee benefits rose $5 million QoQ, attributed to the "continued Private Bank Wealth buildout, an increase in Commercial, as well as higher medical benefit costs." The company remains focused on "attracting great talent."
+
+**3. Pricing Power & Inflation**
+The company is experiencing slight upward pressure on funding costs, though overall deposit costs remain "well controlled." Total deposit costs increased 3 basis points quarter-over-quarter ("total deposit costs increased 3 bps QoQ"). This was partially offset by the benefit of "fixed-rate asset repricing," allowing the company to maintain a stable net interest margin.
+
+**4. Supply Chain & Inventory**
+*Not applicable. No mentions of physical supply chains or inventory levels in the provided financial transcript.*
+
+**5. Capital Spending (Capex)**
+Investment in technology and infrastructure remains a priority. The company reported a moderate increase in equipment and software spending, which rose $7 million QoQ ("largely due to higher technology-related costs"). Management highlighted a continued commitment to "advancing our AI, technology and cybersecurity agenda" and implementing the "Reimagine the Bank program."
