@@ -1,0 +1,22 @@
+Ticker: FAST
+Source: FAST_2026-10-14.txt
+Generated: 2026-10-16 17:54 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Fastenal Co (FAST)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by strong daily sales growth of 15.5% year-over-year ("strong daily sales growth"). Activity is broad-based across core end markets, though direct materials (OEM production) are currently outpacing indirect materials (MRO), reflecting "continued strength with manufacturing customers." Growth is most pronounced in heavy manufacturing (DSR increase of 20.2%) and among large contract customers ("Contract sales continue to outperform"). There was also a "modest improvement in industrial production" during the first nine months of 2026.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, wage increases, or headcount reductions.
+
+**3. Pricing Power & Inflation**
+The company maintains moderate pricing power, with product pricing contributing an increase of approximately 240 basis points to net sales in the third quarter ("The impact of product pricing on net sales... was an increase of approximately 240 basis points"). There is no specific mention of input cost relief or persistent commodity/freight pressure.
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on lead times or overall inventory levels (bloated vs. lean). However, it notes a strategic shift toward "more efficient, digital stocking locations" to improve fulfillment processing.
+
+**5. Capital Spending (Capex)**
+Investment is focused on technology and digital infrastructure. The company is aggressively expanding its Fastenal Managed Inventory (FMI) footprint, signing 7,484 weighted FASTBin and FASTVend devices in Q3 ("Our goal for weighted FASTBin and FASTVend device signings in 2026 is between 27,000 and 29,000 MEUs"). There is also continued investment in "expansion of digital technologies" and "new customer site growth."

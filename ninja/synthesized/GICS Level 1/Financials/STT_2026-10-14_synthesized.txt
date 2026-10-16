@@ -1,0 +1,22 @@
+Ticker: STT
+Source: STT_2026-10-14.txt
+Generated: 2026-10-16 17:56 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: State Street Corp (STT)**
+
+**1. Demand & Activity:**
+Demand is robust, characterized by moderate to strong growth in core asset servicing and management. Assets Under Custody/Administration (AUC/A) grew 14.5% year-over-year to $59.17 trillion ("Assets under custody and or administration... $59,173 [billion]"), and Assets Under Management (AUM) rose 15.8% to $6.31 trillion ("Assets under management... $6,306 [billion]"). Fee revenue reflects this growth, particularly in management fees, which increased 20% year-over-year ("Management fees... 20.0%").
+
+**2. Labor & Wages:**
+Labor costs are seeing modest upward pressure. Compensation and employee benefits expenses increased 7.7% compared to the same quarter last year ("Compensation and employee benefits... 7.7%"), though they showed a slight sequential decline from the prior quarter ("3Q26 vs. 2Q26... (3.2%)").
+
+**3. Pricing Power & Inflation:**
+The company demonstrates moderate pricing power and favorable interest rate positioning. Total fee revenue grew 11% year-over-year ("Total fee revenue... 11.0%"). Net interest income has seen robust growth, increasing 20.8% year-over-year ("Net interest income... 20.8%"), suggesting the company is successfully capturing higher yields on its balance sheet.
+
+**4. Supply Chain & Inventory:**
+Not applicable. (Financial services entity; no physical inventory or traditional supply chain reported).
+
+**5. Capital Spending (Capex):**
+Investment in technology remains a priority, with moderate growth in infrastructure spending. Expenses for information systems and communications rose 14.9% year-over-year ("Information systems and communications... 14.9%"), indicating continued investment in digital capabilities and systems.

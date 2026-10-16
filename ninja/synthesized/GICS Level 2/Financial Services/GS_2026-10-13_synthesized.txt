@@ -1,0 +1,22 @@
+Ticker: GS
+Source: GS_2026-10-13.txt
+Generated: 2026-10-16 17:55 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Goldman Sachs (3Q26)**
+
+**1. Demand & Activity**
+Demand for investment banking services is robust compared to the prior year, though showing signs of softening sequentially. There is moderate growth in M&A volumes and equity underwriting, specifically IPOs and secondary offerings ("increase in completed mergers and acquisitions volumes," "higher net revenues from initial public offerings"). Debt underwriting also saw growth, particularly in investment-grade activity ("significantly higher net revenues from investment-grade activity"). However, the forward-looking pipeline is softening ("Investment banking fees backlog decreased compared with the end of the second quarter of 2026"). Asset management demand remains stable to moderate, supported by higher average assets under supervision ("impact of higher average assets under supervision").
+
+**2. Labor & Wages**
+Headcount saw a slight increase during the quarter, attributed to seasonal hiring cycles ("Headcount increased 3%... reflecting the timing of campus hires"). Compensation costs are trending higher, though this is linked to firm performance rather than external wage pressure ("higher compensation and benefits expenses (reflecting improved operating performance)").
+
+**3. Pricing Power & Inflation**
+The report does not explicitly mention price hikes or input cost inflation. However, operating expenses increased moderately, driven by transaction-based costs and performance-linked compensation ("increase in operating expenses... primarily reflected significantly higher transaction based expenses").
+
+**4. Supply Chain & Inventory**
+Not applicable. (No mentions of physical supply chains or inventories).
+
+**5. Capital Spending (Capex)**
+The provided text does not detail specific future capital expenditures for facilities or technology. Current financial activity is focused on liquidity management, with global core liquid assets averaging $574 billion.
