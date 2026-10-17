@@ -1,0 +1,22 @@
+Ticker: TFC
+Source: TFC_2026-10-16.txt
+Generated: 2026-10-17 16:56 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Truist Financial Corp (TFC)**
+
+**1. Demand & Activity:**
+Loan demand is softening. Average total loans decreased by $2.3 billion or 0.7% sequentially ("decrease in average total loans of $2.3 billion, or 0.7%"). However, deposit growth remains modest, with average deposits increasing $5.8 billion or 1.4% quarter-over-quarter ("Average deposits increased $5.8 billion, or 1.4%"). Wealth management activity is robust, achieving record quarterly income ("record quarterly income for wealth management").
+
+**2. Labor & Wages:**
+Personnel expenses are seeing moderate increases. Costs rose 3.4% sequentially, driven primarily by benefit costs and incentive pay for revenue-generating roles ("Personnel expense increased primarily due to higher employee benefit expenses... higher incentive expense related to revenue generating businesses").
+
+**3. Pricing Power & Inflation:**
+The company maintains stable pricing power via asset repricing. Net Interest Margin (NIM) increased slightly by two basis points ("NIM - TE (1) was up two basis points"). The yield on the average total loan portfolio rose modestly to 5.71% ("yield on the average total loan portfolio was 5.71%, up three basis points"), while the average cost of deposits also edged up ("average cost of total deposits was 1.59%, up three basis points").
+
+**4. Supply Chain & Inventory:**
+Not applicable for this financial services entity.
+
+**5. Capital Spending (Capex):**
+Investment in technology infrastructure remains a priority, contributing to a moderate increase in professional fees ("Professional fees and outside processing expense increased primarily due to continued investment in technology infrastructure"). Management indicates a strategic shift to reallocate resources toward high-growth capabilities ("focusing our resources, capital, and expenses on the businesses and capabilities that will help us become the most important financial partner").
