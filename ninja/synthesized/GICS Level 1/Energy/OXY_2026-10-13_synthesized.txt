@@ -1,0 +1,22 @@
+Ticker: OXY
+Source: OXY_2026-10-13.txt
+Generated: 2026-10-18 17:11 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Occidental Petroleum (OXY)**
+
+**1. Demand & Activity**
+Activity levels appear **stable**, with total company production remaining "within Occidental's guidance range." However, there was a **moderate** temporary disruption in the Gulf of America due to "a third-party gas pipeline constraint and maintenance activities," which led to curtailed production in September.
+
+**2. Labor & Wages**
+The provided text contains no specific data on current hiring, turnover, or wage trends, though the company lists "supply, transportation and labor constraints" as general risk factors.
+
+**3. Pricing Power & Inflation**
+Pricing remains **robust** for oil, with worldwide realized prices ($85.91/Bbl) tracking closely with WTI index prices. However, domestic natural gas realizations are **softening** significantly relative to the index, with domestic realized prices ($1.61/Mcf) representing only "54 % as a percentage of average NYMEX" ($2.97/Mcf). Domestic lease operating costs are noted at "$8.54" per boe.
+
+**4. Supply Chain & Inventory**
+Supply chain conditions are experiencing **moderate** friction. The company specifically cited "capacity constraints in, or other limitations on the pipeline systems" as a factor impacting the ability to deliver oil and natural gas.
+
+**5. Capital Spending (Capex)**
+Specific expenditure figures were not provided, but the company continues to focus on "field developments, expansion projects, capital expenditures, [and] efficiency projects," as well as investments in "low-carbon ventures businesses."
