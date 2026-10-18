@@ -1,0 +1,22 @@
+Ticker: ACN
+Source: ACN_2026-10-01.txt
+Generated: 2026-10-18 17:11 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Accenture (ACN)**
+
+**1. Demand & Activity**
+Demand is moderate to robust, characterized by "broad-based growth across all geographic markets, industry groups and types of work" ("broad-based growth across our business"). Q4 revenue grew 7% in local currency, exceeding guidance. Growth is most robust in Communications, Media & Technology (11% local currency growth in Q4) and moderate in Products (4% local currency growth in Q4). The outlook for FY27 suggests a slight softening or stabilization, with projected revenue growth of 3% to 6% in local currency.
+
+**2. Labor & Wages**
+The report does not explicitly detail wage inflation or hiring difficulties; however, the company referenced "business optimization costs" in both FY25 and FY26 ("excludes business optimization costs recorded during the first quarter of fiscal 2026 and the fourth quarter of fiscal 2025"), suggesting periodic structural adjustments to the workforce or operations.
+
+**3. Pricing Power & Inflation**
+Direct commentary on pricing is absent, but the company demonstrated stable to improving profitability. The GAAP operating margin increased by 370 basis points in Q4 ("GAAP operating margin... 15.3%, compared with GAAP operating margin of 11.6%"), and the full-year adjusted operating margin saw a modest increase of 20 basis points.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a professional services firm, there are no physical inventory or lead-time metrics. However, Days Services Outstanding (DSOs) saw a slight increase to 50 days from 47 days ("DSOs, were 50 days at August 31, 2026, compared with 47 days at August 31, 2025"), indicating a modest slowing in payment collections.
+
+**5. Capital Spending (Capex)**
+Investment in physical capacity is modest but increasing. Property and equipment additions rose from $0.60 billion in FY25 to $0.74 billion in FY26 ("Less Property Equipment Additions $(0.74) $(0.60)"). Q4 spending on equipment was $0.25 billion.
