@@ -1,0 +1,22 @@
+Ticker: KMB
+Source: KMB_2026-10-15.txt
+Generated: 2026-10-19 19:43 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Kimberly-Clark (KMB)**
+
+**1. Demand & Activity**
+Demand is showing modest growth overall, though the company is underperforming its broader market. Weighted average category growth is currently "approximately 1.7 percent on a trailing 12-month basis," but KMB expects organic sales growth to be "approximately 100 basis points below" that benchmark. Activity is specifically softening in China due to "previously disclosed China social media disruptions."
+
+**2. Labor & Wages**
+Not addressed in the provided text.
+
+**3. Pricing Power & Inflation**
+The company faces potential headwinds regarding pricing and input costs. Management notes risks from "potential competitive pressures on selling prices" and remains cautious regarding the "prices and availability of our raw materials" and "energy costs."
+
+**4. Supply Chain & Inventory**
+Supply chain conditions are characterized as unstable, with management citing risks from "government trade or similar regulatory actions" that could result in "negative impacts on our supply chain." No specific data on inventory levels was provided.
+
+**5. Capital Spending (Capex)**
+Investment activity is focused on strategic expansion and operational efficiency. The company is pursuing a "pending acquisition of Kenvue Inc." and is working to realize "anticipated charges and savings from the 2024 Transformation Initiative."
