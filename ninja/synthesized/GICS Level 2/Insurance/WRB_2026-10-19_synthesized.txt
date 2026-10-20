@@ -1,0 +1,22 @@
+Ticker: WRB
+Source: WRB_2026-10-19.txt
+Generated: 2026-10-20 18:24 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: W. R. Berkley Corp (WRB)**
+
+**1. Demand & Activity**
+Demand for specialty insurance remains modest but positive. Gross premiums written for the Insurance segment grew 4.9% ("Gross and net premiums written for the Insurance segment grew 4.9% and 3.2%, respectively"). Management notes that demand is fragmented across different product lines as market cycles have "decoupled" ("As the cycles for various product lines have decoupled, the breadth of our offering... allows for greater stability").
+
+**2. Labor & Wages**
+No specific data provided regarding wage inflation, headcount reductions, or hiring difficulties. The company mentions a general need to "attract and retain key personnel" as a standard risk factor, but provides no current operational updates.
+
+**3. Pricing Power & Inflation**
+The company maintains moderate pricing power, implementing stable rate increases. Average rate increases, excluding workers' compensation, were approximately 4.0% ("Average rate increases excluding workers' compensation were approximately 4.0%"). Management attributes strong underwriting results to a "commitment to rate adequacy" ("Our underwriting results have consistently been outstanding due to our unwavering commitment to rate adequacy").
+
+**4. Supply Chain & Inventory**
+Not applicable. As a financial services provider, the company does not maintain physical inventories or traditional supply chains.
+
+**5. Capital Spending (Capex)**
+Investment is focused on digital transformation rather than physical capacity. The company is increasing its utilization of technology to improve operational efficiency ("greater utilization of technology is enabling us to further leverage our underwriting and claims expertise"). Capital management remains disciplined, with a focus on maintaining "substantial flexibility to support future opportunities."
