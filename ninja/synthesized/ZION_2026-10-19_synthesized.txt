@@ -1,0 +1,22 @@
+Ticker: ZION
+Source: ZION_2026-10-19.txt
+Generated: 2026-10-20 18:24 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Zions Bancorporation (3Q26)**
+
+**1. Demand & Activity**
+Loan demand is currently **flat** sequentially, though it shows **modest** year-over-year growth. Activity is being dampened by a "highly competitive market" and an "increased pace of loan payoffs" ("produced flat loan growth compared to the second quarter"). Conversely, deposit activity is **robust**, with customer deposits growing "nearly 10% annualized from second quarter levels."
+
+**2. Labor & Wages**
+Labor costs are seeing **slight** upward pressure. Salaries and employee benefits increased by $8 million year-over-year, primarily driven by "higher incentive compensation accruals" and "increased employee benefits costs" ("Salaries and employee benefits expense increased $8 million").
+
+**3. Pricing Power & Inflation**
+The company is facing a **softening** yield environment. The net yield on average loans and leases declined by 28 basis points to 5.63% ("primarily reflecting lower interest rates"). While the company is seeing some relief in funding costs—with the total cost of deposits declining to 1.59% from 1.67% year-over-year—this is being partially offset by a "shift in deposit mix toward higher-cost interest-bearing deposits."
+
+**4. Supply Chain & Inventory**
+Not applicable. (Financial services entity).
+
+**5. Capital Spending (Capex)**
+Investment in technology and infrastructure remains **stable to modest**. Technology, telecom, and information processing expenses rose 9% year-over-year ("Technology, telecom, and information processing expense... [up] 6% [sequentially]"). The company also engaged in strategic capacity expansion via the acquisition of the Basis Multifamily Finance platform to better serve "fast-growing western markets" ("This multifamily finance platform becomes an important strategic advantage").
