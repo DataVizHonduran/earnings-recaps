@@ -1,0 +1,22 @@
+Ticker: SCHW
+Source: SCHW_2026-10-15.txt
+Generated: 2026-10-21 18:31 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Charles Schwab (SCHW)**
+
+**1. Demand & Activity: Robust**
+Demand for financial services and brokerage activity is growing strongly. Core net new assets saw a robust increase of 38% year-over-year ("Core net new assets totaled $190.4 billion, up 38% versus 3Q25"), supported by 1.2 million new account openings. Activity is particularly strong in wealth management and specialized trading, with net flows into Schwab Wealth Advisory increasing 55% and daily average trading volume up 44% ("Daily average trading volume equaled 10.7 million up 44% versus 3Q25").
+
+**2. Labor & Wages: Moderate Increase**
+The company is experiencing a moderate increase in labor costs. Compensation and benefits expenses rose 6% year-over-year ("Compensation and benefits... 2026 $1,756 [million] 2025 $1,653 [million] Change 6%"). There were no specific mentions of hiring difficulties or headcount reductions.
+
+**3. Pricing Power & Inflation: Stable to Positive**
+Schwab demonstrates stable pricing power through its fee-based services and interest margins. Asset management and administration fees grew by 14% ("Asset management and administration fees grew by 14% year-over-year to $1.9 billion"), and the net interest margin expanded quarter-over-quarter to 3.04% ("Net interest margin expanded quarter-over-quarter to 3.04%").
+
+**4. Supply Chain & Inventory: Not Applicable**
+As a financial services provider, there are no physical supply chain or inventory signals.
+
+**5. Capital Spending (Capex): Moderate Investment in Technology**
+Investment is focused on digital transformation and AI integration. The company is expanding its technological capabilities through the introduction of "Charley," an AI-powered assistant ("Introduced Charley, a new AI-powered assistant"), and a partnership with Anthropic to provide AI tools for independent RIAs ("Partnered with Anthropic to bring Claude for Financial Advisors directly to the independent RIAs").

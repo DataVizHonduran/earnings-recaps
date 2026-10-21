@@ -1,0 +1,22 @@
+Ticker: CME
+Source: CME_2026-10-21.txt
+Generated: 2026-10-21 18:30 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: CME Group (Q3 2026)**
+
+**1. Demand & Activity: Robust**
+Demand for risk management and hedging is growing strongly, driven by increased global uncertainty. Average daily volume (ADV) reached a record 29.4 million contracts, with "double-digit volume growth across all six asset classes" ("double-digit volume growth across all six asset classes"). International activity is also expanding, with non-U.S. ADV hitting a third-quarter high of 9 million contracts ("non-U.S. ADV reached a third-quarter high of 9 million contracts").
+
+**2. Labor & Wages: Not Addressed**
+The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation: Moderate to Robust**
+The company demonstrates strong pricing power in its data services, with market data revenue increasing by 20% to a record $243 million ("Market data revenue totaled a record $243 million... an increase of 20%"). The total average rate per contract remained stable at $0.679. There were no mentions of input cost inflation or commodity price pressures affecting operations.
+
+**4. Supply Chain & Inventory: Not Applicable**
+As a financial exchange, the company does not maintain physical inventories or traditional supply chains.
+
+**5. Capital Spending (Capex): Moderate**
+Investment is focused on digital transformation and infrastructure modernization. The company reports "strong progress" in its transition to the cloud to expand market access ("made strong progress in our cloud migration"). Management noted the ongoing need to manage "variable costs associated with CME Group’s transition to the Google Cloud" and the temporary "duplicative costs of maintaining both on-premise and Google Cloud environments" during the migration.

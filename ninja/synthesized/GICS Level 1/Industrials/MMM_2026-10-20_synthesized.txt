@@ -1,0 +1,22 @@
+Ticker: MMM
+Source: MMM_2026-10-20.txt
+Generated: 2026-10-21 18:31 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: 3M Co. (Q3 2026)**
+
+**Demand & Activity:**
+Demand is showing modest growth. Adjusted organic sales increased by 3.3% year-on-year ("adjusted organic sales up 3.3% year-on-year"), with a positive outlook for the remainder of the year ("Adjusted total sales growth of 4.5 percent"). Activity is particularly robust in data center infrastructure and government contracting, highlighted by an expanded relationship with Amazon for optical connectivity ("deploy and scale 3M’s optical connectivity and other Data Center related products") and increased awards for defense and healthcare ("growing work with government partners around the world").
+
+**Labor & Wages:**
+The report does not provide specific data on current wage trends or hiring levels, though it lists "increased demand and wages" as a general risk factor for the availability and cost of components. The company is focusing on "improving productivity through structural transformation" to drive margin expansion.
+
+**Pricing Power & Inflation:**
+The company is experiencing moderate margin expansion, with adjusted operating margins rising 110 basis points year-on-year ("Adjusted operating income margin of 26.2%... up 110 bps YoY"). While specific pricing actions are not detailed, the company cites "disciplined execution" and "productivity" as primary drivers of this performance.
+
+**Supply Chain & Inventory:**
+There are no specific updates on current lead times or inventory levels. However, the company continues to monitor risks related to the "availability and cost of purchased components, compounds, raw materials and energy" and potential "supply chain interruptions."
+
+**Capital Spending (Capex):**
+Investment is focused on strategic technology partnerships and capacity expansion in precision optics. This includes a direct investment to acquire a 4.7% stake in Genius Electronic Optical Co., Ltd. ("investing to acquire 4.7% of GSEO's common shares") to scale manufacturing for Expanded Beam Optics (EBO) solutions.
