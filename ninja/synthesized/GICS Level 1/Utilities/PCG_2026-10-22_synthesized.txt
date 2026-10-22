@@ -1,0 +1,22 @@
+Ticker: PCG
+Source: PCG_2026-10-22.txt
+Generated: 2026-10-22 18:26 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: PG&E Corp (PCG)**
+
+**1. Demand & Activity:**
+Demand is showing robust growth in specific high-load sectors. The company reports significant expansion in data center activity, having "energized 174 megawatts of new data center projects since 2024." Additionally, there is moderate growth in electrification, evidenced by connecting "over 4,240 electric customers and 3,000 EV charging ports to the grid."
+
+**2. Labor & Wages:**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage trends.
+
+**3. Pricing Power & Inflation:**
+The company is focused on cost containment and regulatory pricing. Management is targeting a "2-4% non-fuel operating and maintenance (O&M) cost reduction target." Regarding new load, the company indicates that "with appropriate pricing," new data center demand could actually reduce costs for existing customers.
+
+**4. Supply Chain & Inventory:**
+No specific data on lead times or inventory levels was provided in the release.
+
+**5. Capital Spending (Capex):**
+Capex is undergoing a moderate contraction and strategic pivot. The company is "implementing previously announced $2 billion reduction to 2027 capital plan." However, investment remains focused on resilience and risk mitigation, highlighted by a "5,000-mile undergrounding plan" intended to significantly reduce wildfire risk and outages.
