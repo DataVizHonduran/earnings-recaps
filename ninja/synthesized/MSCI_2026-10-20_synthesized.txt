@@ -1,0 +1,22 @@
+Ticker: MSCI
+Source: MSCI_2026-10-20.txt
+Generated: 2026-10-22 18:26 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: MSCI Inc. (Q3 2026)**
+
+**1. Demand & Activity: Robust**
+Demand is growing strongly across most segments, particularly in the Index and Analytics lines. The company reports "robust demand for both our traditional and newer solutions" ("robust demand for both our traditional and newer solutions"). Growth is broad-based, with "best-ever quarter both with asset owners and in Asia-Pacific" ("best-ever quarter both with asset owners and in Asia-Pacific"). Specific strength was noted in asset-based fees, which grew 24.9% due to "record ETF AUM linked to MSCI indexes" ("record ETF AUM linked to MSCI indexes").
+
+**2. Labor & Wages: Stable to Moderate Increase**
+Headcount remains stable, with a negligible 0.1% increase to 6,259 employees ("reflecting a 0.1% increase"). However, there is evidence of moderate upward pressure on labor costs, as the company saw "higher compensation and benefits costs primarily driven by higher incentive compensation and salaries" ("higher compensation and benefits costs primarily driven by higher incentive compensation and salaries").
+
+**3. Pricing Power & Inflation: Moderate Pressure**
+While the company maintains strong revenue growth, it is experiencing persistent pressure from third-party input costs. Operating expenses rose 12.8%, "primarily reflecting higher non-compensation costs as a result of higher information technology costs, professional fees and market data costs" ("higher non-compensation costs as a result of higher information technology costs, professional fees and market data costs"). Additionally, the company is facing higher financing costs, noting "higher interest expense as a result of higher debt levels" ("higher interest expense as a result of higher debt levels").
+
+**4. Supply Chain & Inventory: Not Applicable**
+As a provider of decision support tools and services, the company does not report physical supply chain lead times or inventory levels.
+
+**5. Capital Spending (Capex): Stable**
+The company continues to invest in its technological infrastructure, with Q3 Capex totaling $50.7 million ("Capex was $50.7 million"). Investment is specifically focused on digital transformation, as the company seeks to adapt for "today’s AI-first world" ("transform our business for today’s AI-first world"), including the "capitalization of costs related to internally developed software projects" ("increased capitalization of costs related to internally developed software projects").

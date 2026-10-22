@@ -1,0 +1,22 @@
+Ticker: CSX
+Source: CSX_2026-10-21.txt
+Generated: 2026-10-22 18:25 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: CSX Corp (Q3 2026)**
+
+**1. Demand & Activity**
+Demand is showing moderate growth. Total volume increased by 5% year-over-year ("Total volume up 5%"), with robust growth specifically noted in the intermodal sector ("intermodal volume increasing by 7%"). Management indicates a broadening customer base ("move more freight, for more customers").
+
+**2. Labor & Wages**
+The provided text contains no specific data regarding hiring, turnover, or wage adjustments, though it attributes performance to the "hard work of our railroaders."
+
+**3. Pricing Power & Inflation**
+The company is demonstrating moderate pricing power. Revenue growth was driven by a combination of higher volumes and successful price increases across multiple business lines ("higher volume and pricing across merchandise, intermodal, and coal"). Additionally, the company is successfully passing through energy costs via "increased fuel surcharge revenue."
+
+**4. Supply Chain & Inventory**
+There are no specific mentions of lead times or inventory levels in the provided press release.
+
+**5. Capital Spending (Capex)**
+The document does not list specific dollar amounts or new projects for capital expenditures, though it references "financial and operational initiatives" as a factor in future performance.

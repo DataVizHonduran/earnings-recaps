@@ -1,0 +1,22 @@
+Ticker: UAL
+Source: UAL_2026-10-20.txt
+Generated: 2026-10-22 18:27 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: United Airlines (UAL)**
+
+**Demand & Activity:**
+Demand is robust and growing across all segments. The company reported record quarterly revenue and carried a record 49.5 million customers ("United carried a record 49.5 million customers during Q3"). Growth is broad-based, with significant strength in cargo (+23%) and contracted business revenue (+26%), the latter indicating "strong and resilient close-in demand across all industries." International expansion remains aggressive, with 10 new destinations planned for summer 2027.
+
+**Labor & Wages:**
+The report does not explicitly detail wage hikes or hiring difficulties, but indicates moderate investment in labor capacity. The company completed a four-year expansion of its Denver Flight Training Center, now "enabling training for 860 pilots daily."
+
+**Pricing Power & Inflation:**
+UAL demonstrates strong pricing power, evidenced by a 16% year-over-year increase in total revenue per available seat mile (TRASM), the "best quarterly unit revenue growth since the pandemic." However, the company faces persistent inflationary pressure from energy costs; fuel expense rose by $1.8 billion compared to Q3 2025 as "jet fuel prices remained volatile."
+
+**Supply Chain & Inventory:**
+Not explicitly addressed in terms of parts or traditional inventory; however, the rollout of Starlink technology is proceeding steadily, with the company "equipping approximately three more aircraft per day."
+
+**Capital Spending (Capex):**
+Capex is focused on capacity expansion and technology. Key investments include the deployment of the Airbus A321XLR and the fleet-wide rollout of Starlink Wi-Fi, expected to be complete "by the end of 2027." Additionally, the company is investing in physical infrastructure, including a "new concourse in Terminal B at Houston's George Bush Intercontinental Airport" and modernization plans for Washington Dulles International Airport.
