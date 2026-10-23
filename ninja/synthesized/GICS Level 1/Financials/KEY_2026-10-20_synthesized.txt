@@ -1,0 +1,22 @@
+Ticker: KEY
+Source: KEY_2026-10-20.txt
+Generated: 2026-10-23 18:13 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided financial statements for KeyCorp (KEY), the following economic signals are identified:
+
+**1. Demand & Activity**
+Loan demand appears to be growing modestly. Total loans increased from $105.9 billion in September 2025 to $112.9 billion in September 2026 ("Loans $ 112,993... $ 105,902"). Activity in investment banking and debt placement fees showed moderate growth over the nine-month period ("Investment banking and debt placement fees... $ 580 $ 537").
+
+**2. Labor & Wages**
+Personnel costs are increasing, suggesting moderate upward pressure on wages or headcount. Personnel expenses rose from $2.13 billion for the first nine months of 2025 to $2.34 billion in 2026 ("Personnel... $ 2,344 $ 2,127").
+
+**3. Pricing Power & Inflation**
+The company is experiencing stable to improving net interest margins. Net interest income grew from $3.42 billion to $3.77 billion over the nine-month period ("Net interest income... $ 3,772 $ 3,421"), while interest expenses on deposits saw a moderate decline ("Interest expense Deposits... $ 1,832 $ 2,231"), suggesting a reduction in the cost of funding.
+
+**4. Supply Chain & Inventory**
+Not applicable. (The provided data is a financial balance sheet for a banking institution; no physical supply chain or inventory metrics were reported).
+
+**5. Capital Spending (Capex)**
+Investment in technology and facilities remains stable. Computer processing expenses saw a slight increase ("Computer processing... $ 335 $ 319"), and premises and equipment assets remained relatively flat ("Premises and equipment $ 636... $ 606").

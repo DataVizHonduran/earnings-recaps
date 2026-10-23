@@ -1,0 +1,22 @@
+Ticker: OMC
+Source: OMC_2026-10-22.txt
+Generated: 2026-10-23 18:14 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Omnicom Group (OMC)**
+
+**1. Demand & Activity**
+Demand is growing robustly, characterized by 7.2% organic revenue growth in core operations ("organic growth of $400.8 million, or 7.2%"). Activity is concentrated in Integrated Media, which accounts for 53% of core revenue ("$3.2 billion, or 53.0%, for Integrated Media"). Geographically, the U.S. remains the primary driver of activity, representing 60.2% of core operations ("$3.6 billion, or 60.2%, for the United States"). Management notes a strategic shift toward "high-demand services" ("we’re focused on high-demand services").
+
+**2. Labor & Wages**
+Labor costs are increasing moderately, though primarily driven by inorganic expansion and revenue scaling rather than wage inflation. Salary and related costs rose by $1.1 billion, attributed to the IPG acquisition and general growth ("Salary and related costs increased $1.1 billion to $2.9 billion, due to revenue growth and the acquisition of IPG"). The company is actively pursuing "cost-reduction synergies" to streamline operations ("on track to deliver $900 million in cost-reduction synergies in 2026").
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price hikes; however, the company is successfully expanding margins through operational efficiencies and synergies ("related margin increased to 18.2% from 16.2%, primarily due to cost reduction synergies and organic revenue growth"). While the company lists "inflation or stagflation" as a general risk, there is no evidence of current persistent input cost pressure impacting the bottom line.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a professional services firm, OMC does not maintain physical inventory. Management monitors "supply chain issues affecting the distribution of our clients products" as a secondary risk factor ("labor and supply chain issues affecting the distribution of our clients products... could cause economic uncertainty").
+
+**5. Capital Spending (Capex)**
+Investment is focused on human capital and digital transformation rather than physical capacity. The company is prioritizing spending on "agentic technology" to improve client outcomes ("continue investing in our people and agentic technology to drive measurable business outcomes"). There are also ongoing costs associated with real estate repositioning following the IPG merger ("repositioning costs, primarily related to real estate and other exit charges").

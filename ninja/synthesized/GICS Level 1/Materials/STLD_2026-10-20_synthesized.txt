@@ -1,0 +1,22 @@
+Ticker: STLD
+Source: STLD_2026-10-20.txt
+Generated: 2026-10-23 18:15 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Steel Dynamics (STLD)**
+
+**1. Demand & Activity**
+Demand is robust and growing across multiple segments. The domestic steel market remains strong, driven by "improving manufacturing activity, onshoring, and continued investment in infrastructure, energy, healthcare, and computing" ("...support healthy steel consumption"). Long-product demand is "extremely strong," specifically for railroad rail and structural steel. Steel fabrication saw a "healthy performance" with sequential shipments increasing 18%, while the order backlog is now "50 percent higher than a year ago" and extends into Q2 2027. Aluminum demand in targeted consumer sectors also "remains strong and is forecast to continue to grow."
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is exercising moderate to robust pricing power. Steel pricing "strengthened" as "spot availability tightened," with average external selling prices increasing $102 sequentially to $1,400 per ton. Value-added flat-rolled spreads expanded as imports abated. Regarding input costs, the company is seeing modest relief in raw materials; average ferrous scrap costs "decreased $8 per ton sequentially to $404 per ton."
+
+**4. Supply Chain & Inventory**
+Supply conditions are tightening, characterized by "low customer inventories" and "historically low import levels." This has led to a situation where "lead times extended and spot availability tightened across flat-rolled and structural steel products."
+
+**5. Capital Spending (Capex)**
+Capex remains active, with $411 million invested year-to-date. Significant investment is directed toward the aluminum platform, where the company is continuing to "commission, qualify, and ramp up" a state-of-the-art mill. Specifically, the first of two Continuous Annealing and Solution Heat (CASH) lines is operational, with the second expected to be "operational early in the first quarter 2027."

@@ -1,0 +1,22 @@
+Ticker: EMR
+Source: EMR_2026-10-13.txt
+Generated: 2026-10-23 18:12 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Emerson Electric Co (EMR)**
+
+**1. Demand & Activity**
+Demand appears to be growing at a moderate pace. Net sales for the first nine months of Fiscal Year 2026 reached $13.78 billion, reflecting a steady upward trend compared to the same period in Fiscal Year 2025 (e.g., Q3 2026 sales of $4.87 billion vs. Q3 2025 sales of $4.55 billion). 
+
+**2. Labor & Wages**
+The provided financial tables do not contain qualitative commentary regarding hiring, turnover, or wage pressures. However, the company continues to incur "Restructuring and related costs" ($164 million for the first nine months of FY2026), suggesting ongoing organizational adjustments.
+
+**3. Pricing Power & Inflation**
+The company is demonstrating robust margin expansion. Adjusted EBITA as a percentage of sales increased from 24.2% in FY2024 to 26.5% for the first nine months of FY2026. This suggests effective pricing power or cost management, though specific mentions of input cost relief are absent. Notably, the company received "IEEPA tariff refunds" of $82 million in Q3 2026, providing a modest one-time offset to costs.
+
+**4. Supply Chain & Inventory**
+The provided data does not include specific commentary on lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+While specific facility investment figures are not detailed, the company remains active in portfolio optimization, as evidenced by ongoing "Acquisition divestiture fees and related costs" ($54 million for the first nine months of FY2026).

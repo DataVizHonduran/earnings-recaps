@@ -1,0 +1,22 @@
+Ticker: TXN
+Source: TXN_2026-10-21.txt
+Generated: 2026-10-23 18:15 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Texas Instruments (TXN)**
+
+**1. Demand & Activity**
+Demand is showing robust growth, with revenue increasing 28% year-over-year. This expansion is characterized by "continued broad growth in industrial, automotive and data center" ("continued broad growth in industrial, automotive and data center"). Activity is particularly strong in the Analog segment, which saw a 32% revenue increase.
+
+**2. Labor & Wages**
+The provided text contains no specific data on current hiring, turnover, or wage adjustments, though the company notes the general risk regarding the "ability to retain, train and recruit skilled personnel" ("Ability to retain, train and recruit skilled personnel").
+
+**3. Pricing Power & Inflation**
+There are no explicit mentions of price hikes or specific input cost relief. The company acknowledges the ongoing risk of "availability and cost of key materials, utilities, manufacturing equipment" ("Availability and cost of key materials, utilities, manufacturing equipment").
+
+**4. Supply Chain & Inventory**
+Inventory levels appear stable to slightly lean. Total inventories decreased from $4.83 billion in Q3 2025 to $4.67 billion in Q3 2026 ("Inventories: $4,672 [vs] $4,829"). Specifically, finished goods saw a modest decline ("Finished goods: $1,693 [vs] $1,938").
+
+**5. Capital Spending (Capex)**
+Capital investment remains moderate but significant, with $2.6 billion invested over the trailing 12 months ("invested $2.6 billion in capital expenditures"). The company continues to emphasize the strategic "benefit of 300mm production" ("benefit of 300mm production") and is utilizing "U.S. CHIPS and Science Act (CHIPS Act) incentives" ("plus proceeds from U.S. CHIPS and Science Act (CHIPS Act) incentives") to support its manufacturing footprint.
