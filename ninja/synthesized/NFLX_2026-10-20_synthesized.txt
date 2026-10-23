@@ -1,0 +1,22 @@
+Ticker: NFLX
+Source: NFLX_2026-10-20.txt
+Generated: 2026-10-23 18:13 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: NFLX (Q3 2026)**
+
+**1. Demand & Activity**
+Demand remains robust, characterized by "continued, healthy retention in every region globally" and improved churn in the US. Growth is driven by a combination of membership increases and advertising revenue. Geographic strength is noted in India, where a "very successful slate" drove significant viewing, and France, where a new partnership is "generating incremental viewing." However, ad revenue growth is slightly softening due to a "slightly slower than expected rollout of some ad product capabilities."
+
+**2. Labor & Wages**
+The company is undergoing moderate headcount reductions. Management noted "recently announced headcount reductions" that will result in a "120 basis points negative impact" on Q4 operating margins. These organizational changes are intended to allow the company to "aggressively invest in high impact areas."
+
+**3. Pricing Power & Inflation**
+Netflix continues to exercise moderate pricing power. Member response to "2026 price changes is consistent with prior adjustments and our expectations," which management views as an indicator that engagement "remains healthy." The company notes that its value proposition allows it to "occasionally raise prices." No specific mentions of input cost inflation or commodity pressures were provided.
+
+**4. Supply Chain & Inventory**
+Not applicable. (The company operates a digital service model; no physical inventory or lead-time issues reported).
+
+**5. Capital Spending (Capex)**
+Investment is focused on technology and content. The company is continuing to "invest in our ad tech stack (Netflix Ads Suite)" and "product capabilities, including our new TV UI." Future capacity expansion includes introducing the advertising tier to "15 new countries in 2027." General spending remains focused on "differentiated, exclusive, professionally-produced entertainment."

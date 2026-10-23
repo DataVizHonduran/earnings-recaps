@@ -1,0 +1,22 @@
+Ticker: UNH
+Source: UNH_2026-10-13.txt
+Generated: 2026-10-23 18:15 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: UnitedHealth Group (Q3 2026)**
+
+**1. Demand & Activity:**
+Demand appears **stable to softening** across different segments. While Optum continues to serve a robust base of over 120 million patients, the Employer & Individual segment saw a modest contraction in membership ("number of people served contracted by 165,000... due to employer attrition"). Medicare & Retirement revenues also saw a slight decline ("$42.4 billion compared to $43.4 billion... due to changes in membership and product mix").
+
+**2. Labor & Wages:**
+The report does not explicitly detail wage inflation or hiring difficulties, but indicates a moderate focus on human capital as part of broader operational upgrades ("accelerating investments in technology, processes and people to improve care delivery").
+
+**3. Pricing Power & Inflation:**
+The company demonstrates robust pricing power and disciplined cost management. Management explicitly attributes improved margins to "pricing discipline" and "benefit and pricing alignment." There is a concerted effort to combat pharmacy inflation through a new "fee-based pharmacy care model" to decouple pricing from drug list prices and volume ("bringing greater clarity, predictability and affordability").
+
+**4. Supply Chain & Inventory:**
+Not applicable. (No mentions of physical supply chain lead times or inventory levels).
+
+**5. Capital Spending (Capex):**
+Capex is focused on moderate, ongoing technology and operational modernization. The company is prioritizing "operational agentification" and the streamlining of administrative processes ("reflects ongoing investments to modernize operations and streamline administrative processes"). Additionally, there is a significant strategic commitment of $1 billion to the United Health Foundation to expand rural and behavioral health capacity ("Committed $1 billion to the United Health Foundation to support key initiatives").

@@ -1,0 +1,22 @@
+Ticker: PNC
+Source: PNC_2026-10-15.txt
+Generated: 2026-10-23 18:14 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: PNC Financial Services (Q3 2026)**
+
+**1. Demand & Activity**
+Demand is moderate and bifurcated. Commercial activity is robust, with average commercial loans increasing 4% ("driven by strong new production and increased utilization"). Conversely, consumer demand is softening, as average consumer loans decreased 1% ("primarily due to lower residential mortgage loans"). Deposit growth remains stable, with a 4% increase in spot deposits ("driven by higher commercial interest-bearing deposits").
+
+**2. Labor & Wages**
+Not explicitly discussed. The report focuses on overall noninterest expenses rather than specific headcount or wage data.
+
+**3. Pricing Power & Inflation**
+The company is experiencing modest pricing gains on assets, though offset by rising input costs for funding. Net interest income increased 2% ("driven by commercial loan growth and higher yields on interest-earning assets, partially offset by increased funding costs").
+
+**4. Supply Chain & Inventory**
+Not applicable. (No mentions of physical supply chains or inventories).
+
+**5. Capital Spending (Capex)**
+Investment is focused on inorganic growth and integration. The company is actively spending on the expansion of its footprint, specifically noting "integration costs related to the FirstBank acquisition of $36 million" in the third quarter.
