@@ -1,0 +1,22 @@
+Ticker: GE
+Source: GE_2026-10-20.txt
+Generated: 2026-10-24 17:17 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: GE Aerospace (Q3 2026)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by significant growth in both orders and revenue. Commercial services are a primary driver, with a substantial backlog exceeding $170 billion ("expect 2027 commercial services to grow low-double-digits supported by our over $170 billion commercial services backlog"). Total orders rose 49%, with specific strength in the LEAP engine program ("LEAP growing 26%"). Defense activity remains stable with modest growth in revenue ("Defense Propulsion Technologies... Revenue of $3.5 billion grew 7%").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is exercising pricing power to offset persistent inflationary pressures. Profit growth in both Commercial and Defense segments was supported by "higher services volume and price" ("Profit of $2.9 billion was up 21% from higher services volume and price"). However, inflation continues to exert a slight negative impact on margins ("Margins contracted (10) basis points from mix and inflation").
+
+**4. Supply Chain & Inventory**
+Supply chain conditions are improving, with a moderate increase in the flow of materials from key partners ("Increased material input from priority suppliers double-digits year-over-year"). This improved throughput has contributed to record internal shop visit output and higher engine deliveries.
+
+**5. Capital Spending (Capex)**
+Investment in capacity and technology is robust. GE is expanding its industrial footprint through the acquisition of Consolidated Precision Products to increase "mission-critical castings capacity" ("agreement to acquire Consolidated Precision Products (CPP) to expand mission-critical castings capacity"). Additionally, the company maintains significant investment in future technology, spending "over $3 billion in annual R&D to advance current and future technologies."

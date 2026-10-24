@@ -1,0 +1,24 @@
+Ticker: IBM
+Source: IBM_2026-10-21.txt
+Generated: 2026-10-24 17:19 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: IBM (Q3 2026)**
+
+**1. Demand & Activity**
+Demand is growing moderately overall, characterized by "accelerated revenue growth" (up 5% YoY). Activity is bifurcated by product line:
+*   **Robust:** Software demand is strong, particularly in Data (up 19%) and Hybrid Cloud (up 11%), driven by clients "deploying Super Intelligence" to transform operating models. Distributed Infrastructure also saw robust growth (up 31%).
+*   **Softening:** Demand for IBM Z is declining significantly (down 20%), and Consulting revenues remain largely flat (up 2% at constant currency).
+
+**2. Labor & Wages**
+The report does not specify wage increases or hiring difficulties, but it highlights a focus on internal efficiency, noting "tangible returns through our productivity initiatives inside IBM" to fuel profit growth. The company lists the "ability to attract and retain key employees" as a general risk factor.
+
+**3. Pricing Power & Inflation**
+There is no explicit mention of price hikes or commodity cost relief. However, gross profit margins showed a slight softening, with the total GAAP margin down 50 basis points to 56.8%.
+
+**4. Supply Chain & Inventory**
+Inventory levels have increased moderately, rising to $1.9 billion from $1.2 billion at year-end 2025. There are no specific mentions of lead times or supply chain bottlenecks.
+
+**5. Capital Spending (Capex)**
+Investment activity is robust, primarily focused on inorganic growth and technology. The company "invested $11.4 billion in acquisitions this year" to expand its business capabilities. Additionally, R&D spending has increased moderately, rising from $2.1 billion to $2.4 billion year-over-year.

@@ -1,0 +1,22 @@
+Ticker: MKTX
+Source: MKTX_2026-10-23.txt
+Generated: 2026-10-24 17:20 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: MarketAxess (MKTX)**
+
+**1. Demand & Activity**
+Demand for electronic trading is mixed but showing robust growth in specific high-value segments. While total commission revenue remained stable ("Total commission revenue of $179.9 million was flat compared to the prior year"), there is robust activity in large-scale trading. Specifically, there was a "21% Increase in Block Trading ADV and 37% Increase in Portfolio Trading ADV," with growth described as "broad-based" across U.S. Credit, Emerging Markets, and Eurobond sectors. Additionally, demand for data and analytics is growing moderately ("Strong Information Services Revenue Growth of 10%").
+
+**2. Labor & Wages**
+Not addressed in the provided text.
+
+**3. Pricing Power & Inflation**
+The company is not explicitly mentioning price hikes, but is seeing moderate growth in services-based revenue ("6% growth in services revenue"). There is a stated internal focus on maintaining "Expense Discipline" to manage costs.
+
+**4. Supply Chain & Inventory**
+Not applicable (Financial Services).
+
+**5. Capital Spending (Capex)**
+Not addressed in the provided text.
