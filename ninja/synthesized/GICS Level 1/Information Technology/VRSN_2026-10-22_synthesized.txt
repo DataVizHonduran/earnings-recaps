@@ -1,0 +1,22 @@
+Ticker: VRSN
+Source: VRSN_2026-10-22.txt
+Generated: 2026-10-24 17:20 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Verisign Inc. (Q3 2026)**
+
+**1. Demand & Activity**
+Demand for core registry services remains robust. The domain name base grew by 6.1% year-over-year ("grown the domain name base by 6.1% year-over-year"), with a notable increase in new registrations, rising from 10.6 million in Q3 2025 to 13.1 million in Q3 2026 ("processed 13.1 million new domain name registrations... compared with 10.6 million for the third quarter of 2025"). Renewal rates remained stable, showing a slight softening from 75.5% to 75.2% ("final .com and .net renewal rate... was 75.2 percent compared to 75.5 percent").
+
+**2. Labor & Wages**
+The report does not provide specific data on wage inflation or headcount changes, though the company lists the ability to "attract, retain and motivate highly skilled employees" as a general risk factor.
+
+**3. Pricing Power & Inflation**
+There is no mention of active price increases in the current period. However, the company identifies "wholesale price increases" and "increases in the cost of compute and network hardware" as potential risks to future performance.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a digital infrastructure provider, the company does not maintain physical inventory or report traditional supply chain lead times.
+
+**5. Capital Spending (Capex)**
+Investment in technology and infrastructure is moderate but increasing. Capital expenditures for property and equipment totaled $33.6 million for the first nine months of 2026, up from $18.3 million in the prior year period ("Purchases of property and equipment (33.6) (18.3)"). The company is also investing in new product development, specifically the ".web top-level domain" and the "Verisign Informed" high-assurance validation service.

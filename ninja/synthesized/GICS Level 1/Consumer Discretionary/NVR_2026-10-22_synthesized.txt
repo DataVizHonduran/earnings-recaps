@@ -1,0 +1,22 @@
+Ticker: NVR
+Source: NVR_2026-10-22.txt
+Generated: 2026-10-24 17:20 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: NVR Inc. (Q3 2026)**
+
+**1. Demand & Activity: Softening**
+Demand is softening, characterized by a modest decline in new orders (down 7% to 4,391 units) and settlements (down 7% to 5,268 units). Consumer sentiment is weak, evidenced by a slight increase in the cancellation rate to 21% (compared to 19% in Q3 2025). While the unit backlog grew by 10%, overall activity is constrained by "pricing pressure due to continued affordability challenges and weak consumer sentiment."
+
+**2. Labor & Wages: Stable/Not Specified**
+The report does not provide specific updates on current hiring, turnover, or wage trends, though "shortages of labor" remain listed as a general risk factor.
+
+**3. Pricing Power & Inflation: Softening/Pressure**
+Pricing power is softening; the average sales price of new orders decreased by 5% to $442,100. The company is facing margin compression, with gross profit margins decreasing to 18.3% from 21.0%. This decline was driven by "higher lot costs" and "pricing pressure due to continued affordability challenges."
+
+**4. Supply Chain & Inventory: Moderate Growth**
+Inventory levels are increasing. Lots controlled at the end of the period rose to 185,300 units (up from 175,300). Additionally, the company recognized "contract land deposit impairments totaling approximately $24.8 million," suggesting some valuation pressure on land assets.
+
+**5. Capital Spending (Capex): Modest**
+Capex remains modest and stable. Property, plant, and equipment (net) saw a slight increase to $109.8 million from $103.7 million at the end of 2025. No major new capacity or technology investments were detailed.
