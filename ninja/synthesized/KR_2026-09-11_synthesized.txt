@@ -1,0 +1,15 @@
+Ticker: KR
+Source: KR_2026-09-11.txt
+Generated: 2026-10-25 17:33 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Demand & Activity:** Demand is softening. Identical sales without fuel grew a modest 0.2% ("Identical Sales without fuel increased 0.2%"), a significant deceleration from 3.4% in the prior year. Management lowered full-year identical sales guidance to a range of 0.2% to 0.8% ("updating our identical sales without fuel guidance to a new range of 0.2% to 0.8%"), citing the "macro environment." However, eCommerce activity remains robust ("Adjusted eCommerce sales grew +20%").
+
+**Labor & Wages:** Upward pressure on labor costs persists. The company reported an increase in the OG&A rate, driven in part by "planned investments in associate wages" and "increased health care costs."
+
+**Pricing Power & Inflation:** Pricing dynamics are mixed. The company is facing headwinds from "greater value delivered for customers" (indicating promotional pricing or lower price points to maintain volume) and "higher shrink." These were partially offset by "sourcing initiatives" and "tariff refunds."
+
+**Supply Chain & Inventory:** The company reports moderate pressure on logistics, specifically noting "higher transportation costs" as a primary driver for the decrease in the overall gross margin rate. No specific mentions of inventory bloat or lead-time volatility were provided.
+
+**Capital Spending (Capex):** Investment remains stable. The company reaffirmed its full-year capital expenditure guidance of $3.8 to $4.0 billion ("Cap Ex $3.8 - $4.0 billion") and stated it remains "committed to investing in the business to drive long-term sustainable net earnings growth."

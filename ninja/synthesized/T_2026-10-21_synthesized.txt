@@ -1,0 +1,22 @@
+Ticker: T
+Source: T_2026-10-21.txt
+Generated: 2026-10-25 17:33 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: AT&T (T)**
+
+**1. Demand & Activity**
+Demand for advanced connectivity is robust, characterized by a record quarter for internet net additions ("769,000 total consumer and business Advanced Connectivity internet net adds, a record quarter"). Growth is broad-based across fiber, fixed wireless, and postpaid phone segments ("driven by net adds across fiber, fixed wireless, and postpaid phone"). Conversely, demand for legacy copper-based services continues to soften ("lower Legacy revenues from lower demand for services").
+
+**2. Labor & Wages**
+The company is undergoing workforce adjustments, as evidenced by the reporting of "employee separation charges" within its operating expenses. No specific mentions of hiring difficulties or wage inflation were provided.
+
+**3. Pricing Power & Inflation**
+AT&T demonstrates moderate pricing power in its wireless segment, though gains are partially tempered by incentives ("pricing actions that were partially offset by promotional discounts"). The company is experiencing some inflationary pressure in operating costs, specifically noting "higher advertising and higher bad debt expenses driven by subscriber growth," as well as "increased wireless equipment costs."
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific data regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capex remains significant but is trending toward a modest reduction in the long term. The company is "lowering its long-term outlook for capital investment," with projected annual spending of "$22 billion to $23 billion range annually in 2027 and 2028." Despite the lower outlook, investment in fiber capacity remains a priority, with a goal to reach "more than 60 million locations with fiber by end of 2030."
