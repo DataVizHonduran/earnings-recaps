@@ -1,0 +1,25 @@
+Ticker: GPC
+Source: GPC_2026-10-20.txt
+Generated: 2026-10-25 17:32 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Genuine Parts Company (GPC)**
+
+**1. Demand & Activity**
+Demand is showing modest growth across all segments, though activity levels vary by product line. The Industrial segment is seeing robust growth, while Automotive demand remains slight to moderate.
+*   **Industrial:** Robust growth with a "5.5% increase in comparable sales."
+*   **North America Automotive:** Modest growth with a "1.7% increase in comparable sales."
+*   **International Automotive:** Slight growth with a "1.1% increase in comparable sales."
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage trends. The company notes a total workforce of "more than 65,000 teammates."
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail pricing actions or input cost relief. However, margin compression in North America Automotive (down "40 basis points") suggests some pressure on profitability despite sales growth.
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific commentary regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment in capacity and acquisitions remains stable. The company reported "net cash used in investing activities was $361 million," which specifically included "$314 million for capital expenditures and $69 million for acquisitions."

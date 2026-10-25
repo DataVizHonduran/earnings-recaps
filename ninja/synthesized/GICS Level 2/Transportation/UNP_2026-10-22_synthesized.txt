@@ -1,0 +1,22 @@
+Ticker: UNP
+Source: UNP_2026-10-22.txt
+Generated: 2026-10-25 17:34 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Union Pacific (UNP)**
+
+**1. Demand & Activity**
+Demand is growing robustly, characterized by a 6% increase in revenue carloads ("efficiently handling six percent volume growth"). Management indicates they are currently "meeting increased customer demand" despite a "mixed economic forecast."
+
+**2. Labor & Wages**
+Labor productivity has seen moderate gains, with workforce productivity increasing by 5% to 1,219 car miles per employee ("Workforce productivity was 1,219 car miles per employee, a 5% increase"). There were no specific mentions of wage inflation or hiring difficulties.
+
+**3. Pricing Power & Inflation**
+The company maintains strong pricing power, with gains exceeding inflationary pressures ("Pricing dollars in excess of inflation dollars"). However, input costs are seeing persistent pressure from energy, as higher fuel prices unfavorably impacted the operating ratio by 140 basis points ("Higher fuel price unfavorably impacted operating ratio 140 basis points").
+
+**4. Supply Chain & Inventory**
+Operational efficiency is stable to improving. Freight car velocity increased by 1% and average terminal dwell improved by 2% ("Average terminal dwell was 19.9 hours, a 2% improvement"), suggesting fluid movement of goods through the network.
+
+**5. Capital Spending (Capex)**
+Investment in capacity and infrastructure remains steady, with a defined expenditure target ("Capital plan of $3.5 billion").

@@ -1,0 +1,22 @@
+Ticker: JPM
+Source: JPM_2026-10-13.txt
+Generated: 2026-10-25 17:32 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: JPMorgan Chase (3Q26)**
+
+**1. Demand & Activity**
+Demand remains **robust** across most sectors, though some areas are **softening**. Consumer spending and business investment are described as "strong" ("U.S. economy continued to be fueled by strong business investment and ongoing consumer spending"). Specifically, credit card demand is "robust" ("growth continued to be robust in Card, with strong demand for our set of products") and card sales volume rose 10% YoY. Investment banking and markets activity saw "strong levels of client activity," although this "moderate[d] somewhat during the quarter." Home lending activity is **softening**, with revenue down 3% due to "lower production revenue."
+
+**2. Labor & Wages**
+Labor costs are increasing, driven by **moderate** headcount growth and higher pay. Noninterest expense rose 12% YoY, "predominantly driven by higher compensation," which included "growth in the number of front office employees" and "higher compensation for advisors and bankers."
+
+**3. Pricing Power & Inflation**
+The firm maintains **stable** to positive pricing power through higher net yields and fee growth. Card Services revenue grew 15%, driven by "higher net yield." However, management notes persistent macroeconomic headwinds, specifically citing "sticky inflation" and "rising interest rates" as forces that "continue to shift under the surface."
+
+**4. Supply Chain & Inventory**
+*Not applicable/Not mentioned.*
+
+**5. Capital Spending (Capex)**
+Investment in technology and infrastructure remains **robust**. The firm reported "higher technology expense" as a primary driver of increased noninterest expenses across both the Corporate and Consumer (CCB) segments. Management reaffirmed that "investing in the franchise" remains at the top of their capital hierarchy.

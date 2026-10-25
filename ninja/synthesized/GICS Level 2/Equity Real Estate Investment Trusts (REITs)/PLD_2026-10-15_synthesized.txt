@@ -1,0 +1,22 @@
+Ticker: PLD
+Source: PLD_2026-10-15.txt
+Generated: 2026-10-25 17:33 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Prologis (PLD)**
+
+**1. Demand & Activity**
+Demand appears **moderate to robust**, characterized by steady leasing activity and high utilization. The U.S. market remains the primary driver, contributing 84% of NOI. Leading indicators show a "U.S. Space Utilization" of 84.0% (Average 85.3%) and a "U.S. IBI Activity Index" diffusion index of 59.1 (Average 57.7), suggesting stable to slightly expanding activity.
+
+**2. Labor & Wages**
+The provided data contains no specific mentions of hiring difficulties, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company demonstrates **robust** pricing power. Management projects a "Same store NOI - cash" increase of 7.00% to 7.50% and a "Same store NOI - net effective" increase of 5.50% to 6.00% for 2026. Rental revenues grew from $2.05B in Q3 2025 to $2.21B in Q3 2026 ("Rental $ 2,205,269 $ 2,054,200").
+
+**4. Supply Chain & Inventory**
+While specific lead times are not detailed, "New Lease Negotiation Gestation" is currently at 50 days (Average 54), indicating a **stable** pace of transaction closures.
+
+**5. Capital Spending (Capex)**
+Investment in capacity remains **robust**, with a significant pivot toward data infrastructure. The company has a "Data Center Power Pipeline 5.8GW secured or in advanced stage." Future capacity expansion is aggressive, with 2026 "Development starts" guided between $6.0B and $6.75B and "Development stabilizations" expected between $2.75B and $3.25B.

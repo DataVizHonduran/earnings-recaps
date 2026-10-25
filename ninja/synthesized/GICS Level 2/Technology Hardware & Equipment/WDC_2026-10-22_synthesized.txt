@@ -1,0 +1,22 @@
+Ticker: WDC
+Source: WDC_2026-10-22.txt
+Generated: 2026-10-25 17:34 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Western Digital (WDC)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by strong momentum in the AI-driven data economy. The company reports significant growth in storage requirements, specifically noting "robust exabyte growth" ("robust exabyte growth") and a broadening customer base into new market areas ("broaden the customer base to new areas of the market"). Revenue grew 55% year-over-year, with a positive outlook for the next quarter.
+
+**2. Labor & Wages**
+The provided text contains no specific data on wage increases or headcount changes. However, the company identifies the "hiring and retention of key employees" ("hiring and retention of key employees") as a general operational risk.
+
+**3. Pricing Power & Inflation**
+WDC is exercising moderate to robust pricing power. Management explicitly cited "improved pricing" ("improved pricing") as a primary driver of strong financial performance and margin expansion. While inflation is listed as a general risk factor ("inflation"), there is no evidence of current input cost pressure impacting the bottom line.
+
+**4. Supply Chain & Inventory**
+Inventory levels have increased moderately, rising from $1.51 billion to $1.78 billion over the last quarter ("Inventories 1,781 [vs] 1,511"). The company continues to monitor "difficulties or delays in manufacturing or other supply chain disruptions" ("difficulties or delays in manufacturing or other supply chain disruptions") as a potential risk.
+
+**5. Capital Spending (Capex)**
+Capital investment in property, plant, and equipment has increased robustly, with quarterly spending rising to $227 million compared to $73 million in the prior year period ("Purchases of property, plant and equipment, net (227) [vs] (73)"). This aligns with ongoing "technology transitions to meet the growing demand for storage" ("executing well through our technology transitions").

@@ -1,0 +1,22 @@
+Ticker: GM
+Source: GM_2026-10-20.txt
+Generated: 2026-10-25 17:31 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: General Motors (Q3 2026)**
+
+**1. Demand & Activity**
+Demand appears **moderate** to **robust** in North America, while **softening** significantly in international markets. North American EBIT-adjusted grew 43.4% year-over-year ("GMNA EBIT-adjusted $ 3,592 [vs] $ 2,506"). Conversely, international activity is declining, with GMI EBIT-adjusted falling 87.7% ("GMI EBIT-adjusted $ 28 [vs] $ 226") and China equity income dropping 60.3% ("China equity income (loss) $ 32 [vs] $ 80").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is demonstrating **robust** pricing power or a favorable product mix, as evidenced by expanding margins despite revenue growth of only 2.9% ("Revenue $ 50,015 [vs] $ 48,591"). EBIT-adjusted margins improved from 6.9% to 8.2% ("EBIT-adjusted margin 8.2% [vs] 6.9%"), suggesting that price increases or cost efficiencies are outpacing inflation.
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific commentary on lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capex remains **stable** and significant, with the company maintaining a consistent investment outlook for the remainder of the year. Full-year capital expenditures are projected to be between $10 billion and $12 billion ("Less Capital expenditures 10.0-12.0").
