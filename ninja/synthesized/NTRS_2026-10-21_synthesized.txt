@@ -1,0 +1,22 @@
+Ticker: NTRS
+Source: NTRS_2026-10-21.txt
+Generated: 2026-10-26 19:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Northern Trust Corp (NTRS)**
+
+**1. Demand & Activity**
+Demand is moderate to robust, characterized by organic growth across all business lines. Total assets under custody administration and management grew compared to the prior-year quarter, supported by "favorable markets and net client inflows" ("Total assets under custody administration and assets under custody increased... primarily driven by favorable markets and net client inflows"). Specifically, Global Family Office fees saw robust growth, increasing 16% year-over-year due to "favorable markets and asset inflows" ("GFO fees increased both sequentially and from the prior-year quarter primarily due to favorable markets and asset inflows").
+
+**2. Labor & Wages**
+The company is implementing disciplined cost controls. While specific wage data is absent, the firm reported "disciplined expense management" ("disciplined expense management generated more than 600 basis points of positive operating leverage"). Evidence of headcount reductions is present via a "severance-related charge" of $51.0 million recognized in the prior quarter ("Noninterest Expense included... a $51.0 million severance-related charge").
+
+**3. Pricing Power & Inflation**
+Pricing power appears stable, with revenue growth driven primarily by asset-based fees and market conditions rather than explicit price hikes. The company is benefiting from higher trading volumes and spreads in securities lending ("Securities Lending fees increased from the prior-year quarter primarily due to higher trading volumes and spreads"). There is no mention of persistent input cost inflation.
+
+**4. Supply Chain & Inventory**
+Not applicable to this financial services entity.
+
+**5. Capital Spending (Capex)**
+The company maintains a focus on strategic growth and technology, though specific dollar amounts for new facilities are not disclosed. Management indicated a continued commitment to "investing in growth" ("we remain focused on supporting our clients, investing in growth and delivering sustainable long-term value"). The firm also engaged in portfolio optimization, including a "repositioning of the portfolio" regarding available-for-sale debt securities ("loss on available for sale debt securities sold in conjunction with a repositioning of the portfolio").

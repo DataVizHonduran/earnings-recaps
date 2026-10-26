@@ -1,0 +1,22 @@
+Ticker: ROL
+Source: ROL_2026-10-21.txt
+Generated: 2026-10-26 19:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Rollins, Inc. (ROL)**
+
+**1. Demand & Activity**
+Demand is showing a bifurcated trend. While overall revenue growth remains stable ("record of 100 consecutive quarters of revenue growth"), residential demand is softening. Management noted that "Residential customer acquisition remained under pressure in the third quarter," leading to a strategic shift in marketing to address an "evolving" customer acquisition landscape.
+
+**2. Labor & Wages**
+Labor costs remain a significant component of the cost structure, though specific wage inflation trends were not detailed. The company continues to prioritize human capital to maintain service standards, stating they "continue to invest in our people and the service quality that builds customer loyalty."
+
+**3. Pricing Power & Inflation**
+The company is experiencing moderate margin compression, with the quarterly operating margin decreasing by 140 basis points. This is driven by rising operational costs, specifically a notable increase in "Insurance and claims" (which rose from $11.1M to $23.0M in the cost of services category) and "Fleet expenses" (increasing from $39.0M to $45.5M).
+
+**4. Supply Chain & Inventory**
+Not addressed in the provided text.
+
+**5. Capital Spending (Capex)**
+Capital investment remains modest. The company reported $6 million in capital expenditures for the quarter. Future investment remains focused on "accretive M&A" and updating marketing capabilities to improve "visibility in AI- and LLM-driven discovery."
