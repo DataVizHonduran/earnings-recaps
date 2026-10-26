@@ -1,0 +1,22 @@
+Ticker: UDR
+Source: UDR_2026-10-21.txt
+Generated: 2026-10-26 19:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: UDR, Inc.**
+
+**1. Demand & Activity**
+Demand remains stable to modest. Weighted average physical occupancy is robust at 96.5% for 3Q 2026 ("Weighted Average Physical Occupancy 96.5%"). Same-store revenue growth is modest, trending at 1.6% year-over-year ("Year-Over-Year Same-Store (SS) Growth: Revenue 1.6%").
+
+**2. Labor & Wages**
+The report does not explicitly detail hiring or wage trends; however, the company is incurring moderate severance costs, suggesting some headcount reductions or organizational restructuring ("Severance costs 4,438" in 3Q 2026).
+
+**3. Pricing Power & Inflation**
+The company maintains modest pricing power, evidenced by positive lease rate growth. Effective blended lease rate growth is moderate at 2.0% for the quarter ("Effective Blended Lease Rate Growth 2.0%"). However, operating expenses are growing faster than revenues, indicating persistent inflationary pressure on inputs ("SS Growth... Revenue 1.6%... Expense 2.2%").
+
+**4. Supply Chain & Inventory**
+Not applicable. The company is focused on portfolio optimization rather than physical inventory. Activity includes the strategic divestment of assets in Seattle and Nashville ("Sold two apartment communities, one each in Seattle and Nashville") and the acquisition of properties in California and Oregon ("acquired a 483-home apartment community in Inland Empire, CA, and... a 286-home in Portland, OR").
+
+**5. Capital Spending (Capex)**
+Investment is focused on strategic partnerships and portfolio reallocation rather than new capacity. The company is forming a robust strategic partnership with Apollo ("expected formation of a $2.0 billion strategic partnership with Apollo") and expanding a joint venture with LaSalle Investment Management ("Expanded its joint venture with LaSalle Investment Management to approximately $958.3 million"). There are also modest investments in technology transitions ("Software transition related costs... 3,329").

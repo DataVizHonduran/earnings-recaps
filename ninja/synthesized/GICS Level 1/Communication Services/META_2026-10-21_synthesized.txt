@@ -1,0 +1,17 @@
+Ticker: META
+Source: META_2026-10-21.txt
+Generated: 2026-10-26 19:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Meta Platforms, Inc. (Q3 2026)**
+
+**1. Demand & Activity:** Robust. Revenue grew 26% year-over-year ("Revenue was $64.60 billion, an increase of 26%"), driven by moderate growth in user engagement and strong ad velocity. Ad impressions increased 10% ("Ad impressions delivered across our Family of Apps increased by 10% year-over-year"), and the company expects to "sustain strong overall revenue growth throughout 2027."
+
+**2. Labor & Wages:** Softening. Headcount has declined significantly, suggesting a continued focus on lean operations or restructuring ("Headcount was 66,775 as of September 30, 2026, a decrease of 15% year-over-year").
+
+**3. Pricing Power & Inflation:** Robust. The company demonstrates strong pricing power in its advertising business, with a double-digit increase in unit pricing ("Average price per ad increased by 14% year-over-year"). No specific mentions of commodity or freight inflation were noted.
+
+**4. Supply Chain & Inventory:** Stable. While specific lead times were not disclosed, the company reports sufficient infrastructure flexibility to meet current and near-term needs ("Our current capacity and what is scheduled to come online gives us the flexibility to allocate resources").
+
+**5. Capital Spending (Capex):** Robust/Aggressive. Investment in AI infrastructure is accelerating. Full-year 2026 capex is projected between $135-145 billion ("anticipate 2026 capital expenditures... to be in the range of $135-145 billion"). Management indicated they will "continue investing aggressively" beyond 2026 to support AI initiatives and core business growth.

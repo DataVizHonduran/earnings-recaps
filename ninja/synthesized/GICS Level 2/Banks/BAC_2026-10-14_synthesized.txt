@@ -1,0 +1,22 @@
+Ticker: BAC
+Source: BAC_2026-10-14.txt
+Generated: 2026-10-26 19:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Bank of America (3Q26)**
+
+**1. Demand & Activity**
+Demand is moderate to robust across most segments. Consumer activity is growing, evidenced by an 8% increase in combined credit/debit card spend ("Combined credit / debit card spend of $266 billion, up 8%"). Commercial activity is also expanding, with growth noted across corporate, commercial, and business banking ("Average loans and leases increased 8%, with growth across corporate, commercial and business banking"). However, investment banking activity is softening ("investment banking fees... down 11%").
+
+**2. Labor & Wages**
+The report does not explicitly detail hiring difficulties or wage inflation. It notes a broad workforce of "more than 200,000 teammates," focusing on the integration of AI to improve productivity rather than headcount changes ("Our disciplined investments in AI are helping teammates serve clients better, work faster").
+
+**3. Pricing Power & Inflation**
+The bank is experiencing modest positive momentum in pricing, reflected in an increase in net interest yield ("Net interest yield (FTE) of 2.16% increased 15 bps"). Revenue growth was supported by higher asset management fees ("asset management fees, up 16%"). There is no mention of input cost relief or specific inflationary pressures on operations.
+
+**4. Supply Chain & Inventory**
+Not applicable.
+
+**5. Capital Spending (Capex)**
+Investment is focused on technology and digital transformation. The bank is prioritizing "disciplined investments in AI" with over 300 approved use cases to create a "competitive advantage." Additionally, noninterest expenses in consumer banking rose 5%, specifically "driven by investments in technology and brand."
