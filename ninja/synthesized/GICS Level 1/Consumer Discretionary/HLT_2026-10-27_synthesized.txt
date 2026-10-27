@@ -1,0 +1,22 @@
+Ticker: HLT
+Source: HLT_2026-10-27.txt
+Generated: 2026-10-27 19:18 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Hilton Worldwide Holdings Inc. (HLT)**
+
+**1. Demand & Activity:**
+Demand remains robust, characterized by moderate growth in both occupancy and average daily rate (ADR). System-wide comparable RevPAR increased 5.8% in Q3 ("due to an increase in both occupancy and ADR"). Activity is expanding globally, with notable growth in the Middle East Africa region ("more than 20 signings during the quarter") and luxury debuts in India and Hawaii. However, a slight softening is expected in Q4 due to geopolitical headwinds ("fourth quarter is expected to be affected by... increased impact from the Middle East").
+
+**2. Labor & Wages:**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation:**
+The company continues to demonstrate moderate pricing power, as evidenced by the increase in ADR contributing to RevPAR growth ("comparable RevPAR increased 5.8 percent... due to an increase in both occupancy and ADR"). There is no specific commentary regarding input cost relief or persistent inflationary pressures on commodities or energy.
+
+**4. Supply Chain & Inventory:**
+Not applicable. The company reports a robust development pipeline of 543,100 rooms ("representing growth of 5 percent from September 30, 2025"), with nearly half of these rooms currently under construction.
+
+**5. Capital Spending (Capex):**
+Investment in capacity and technology remains stable. The company is prioritizing technology innovation with the appointment of a new CTO to "strengthen the Company's commitment to lead the industry in technology innovation." Projected capital expenditures and contract acquisition costs for the full year are estimated between $350 million and $375 million ("excluding amounts reimbursed by third parties").
