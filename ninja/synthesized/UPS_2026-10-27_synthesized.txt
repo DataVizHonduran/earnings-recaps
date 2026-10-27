@@ -1,0 +1,22 @@
+Ticker: UPS
+Source: UPS_2026-10-27.txt
+Generated: 2026-10-27 19:19 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: UPS (3Q 2026)**
+
+**Demand & Activity:**
+Demand is showing moderate growth across all business segments. The U.S. Domestic segment saw a modest revenue increase of 4.5%, while the International segment grew by 7.1%. Activity in Supply Chain Solutions was robust, increasing 18.2%, specifically driven by "growth in forwarding and logistics, including healthcare." Management indicates a strong outlook heading into the peak season ("entering the holiday shipping season from a position of strength").
+
+**Labor & Wages:**
+The provided text contains no specific updates on current wage increases, hiring difficulties, or headcount reductions for the quarter.
+
+**Pricing Power & Inflation:**
+The company demonstrates stable to strong pricing power, with revenue growth driven significantly by increases in yield. U.S. Domestic revenue per piece increased 6.1%, while International revenue per piece saw a robust increase of 15.0%.
+
+**Supply Chain & Inventory:**
+The report does not provide specific data on customer inventory levels or lead times; however, it notes a focus on "greater network efficiency" and the deployment of the "most automated and efficient network in [their] history."
+
+**Capital Spending (Capex):**
+Capital investment remains stable. The company confirmed its full-year 2026 capital expenditures are expected to be "approximately $3.0 billion."

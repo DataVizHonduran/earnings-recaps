@@ -1,0 +1,22 @@
+Ticker: PFG
+Source: PFG_2026-10-26.txt
+Generated: 2026-10-27 19:19 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Principal Financial Group (PFG)**
+
+**1. Demand & Activity:**
+Demand is moderate to robust across several diversified lines. Retirement and Income Solutions saw "recurring deposits of $13 billion, up 8%" and "SMB momentum with transfer deposits up 21%." Specialty Benefits experienced growth, with "premium & fees increased 6% with sales up 10%." However, activity in the Investment Management segment was slightly softer, as "operating revenues less pass-through expenses decreased $7.9 million primarily due to lower management fees."
+
+**2. Labor & Wages:**
+No specific mentions of hiring difficulty, turnover, or wage pressures were provided in the report.
+
+**3. Pricing Power & Inflation:**
+The company is seeing modest growth in premiums and fees, though specific pricing actions are not detailed. Financial performance was impacted by "lower variable investment income" across multiple segments, including Retirement and Income Solutions and Corporate.
+
+**4. Supply Chain & Inventory:**
+Not applicable to this financial services entity.
+
+**5. Capital Spending (Capex):**
+The company is pursuing growth through strategic acquisitions, noting a "modest contribution from the 9/1 Beam Benefits acquisition." No specific facility or technology capex figures were disclosed.

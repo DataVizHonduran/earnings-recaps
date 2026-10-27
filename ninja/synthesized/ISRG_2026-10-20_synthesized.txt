@@ -1,0 +1,17 @@
+Ticker: ISRG
+Source: ISRG_2026-10-20.txt
+Generated: 2026-10-27 19:18 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Intuitive Surgical (ISRG)**
+
+**Demand & Activity:** Robust. Worldwide procedure volume grew approximately 15% year-over-year ("Worldwide procedures (da Vinci and Ion combined) grew approximately 15%"). Growth is broad-based, though the Ion platform is expanding more rapidly at 31% compared to da Vinci’s 14% ("da Vinci procedures grew approximately 14%, and Ion procedures grew approximately 31%"). System placements also showed moderate growth, with da Vinci placements increasing to 546 from 427 in the prior year period ("The Company placed 546 da Vinci surgical systems, compared with 427 in the third quarter of 2025").
+
+**Labor & Wages:** Not addressed. The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**Pricing Power & Inflation:** Stable to softening due to external trade pressures. While revenue grew 22%, the company is facing persistent headwinds from tariffs, which are expected to impact gross profit margins by approximately 0.9% of revenue ("This range includes an estimated impact from tariffs of 0.9% of revenue"). There was a modest offset from one-time tariff refunds ("benefit of $22 million... related to refunds for tariffs paid in prior periods").
+
+**Supply Chain & Inventory:** Not addressed. The text does not provide specific data on lead times or inventory levels.
+
+**Capital Spending (Capex):** Moderate. The company continues to invest in physical infrastructure, as evidenced by cash outflows for fixed assets ("decrease of $1.83 billion during the quarter, primarily driven by... purchases of property, plant, and equipment").
