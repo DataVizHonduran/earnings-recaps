@@ -1,0 +1,24 @@
+Ticker: SNA
+Source: SNA_2026-10-22.txt
+Generated: 2026-10-28 19:28 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Snap-on Inc. (SNA)**
+
+**1. Demand & Activity**
+Demand is mixed and experiencing "accelerated turbulence" ("Mixed sales results reflect accelerated turbulence"). 
+*   **Robust Growth:** Activity in critical industries and precision torque is expanding ("record-setting performance in the Commercial Industrial Group, led by gains in the critical industries").
+*   **Softening:** Demand is declining in the Tools Group across both U.S. and international operations ("organic sales decline... due to lower sales both in the U.S. and in the segment's international operations"). Additionally, there is reduced activity within OEM dealerships ("organic decrease is primarily due to reduced activity with OEM dealerships").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company maintains stable pricing power, as evidenced by resilient margins despite macro headwinds ("resilience that kept gross margins strong"). However, significant input cost pressure is noted in the form of energy prices, specifically diesel, which has disrupted the distribution channel ("unprecedentedly accelerated rise in diesel prices").
+
+**4. Supply Chain & Inventory**
+Inventory levels in the mobile van channel are softening as franchisees intentionally reduce holdings in response to high operating costs ("prompted franchisees to reduce inventories despite very stable demand from their technician customers").
+
+**5. Capital Spending (Capex)**
+Capex remains stable and targeted toward innovation and capacity expansion. The company projects full-year 2026 capital expenditures to be approximately $100 million ("project that capital expenditures in 2026 will approximate $100 million"), with a focus on developing "customized solutions" and "innovations identified through customer connection."

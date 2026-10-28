@@ -1,0 +1,22 @@
+Ticker: CCI
+Source: CCI_2026-10-21.txt
+Generated: 2026-10-28 19:25 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Crown Castle Inc. (CCI)**
+
+**1. Demand & Activity: Softening**
+Organic growth in site rental billings is softening, declining to 3.8% (excluding DISH) from 4.1% in the prior year period ("which compares to 4.1% in the third quarter 2025 on a comparable basis"). Core leasing activity is expected to finish the year toward the "bottom end" of the projected $60 million to $70 million range. Overall site rental revenues declined 4.5% year-over-year, though this was heavily impacted by specific customer terminations ("unfavorable $61 million and $5 million impact from DISH Terminations and Sprint Cancellations").
+
+**2. Labor & Wages: Not Addressed**
+The provided transcript contains no specific mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation: Stable/Moderate**
+The company continues to realize modest gains through contractual escalators, contributing 2.7% to organic growth ("Escalators... $25 [million] 2.7%"). There is evidence of modest operational cost relief, with a projected $5 million decrease in site rental costs of operations attributed to "additional operational efficiencies."
+
+**4. Supply Chain & Inventory: Not Addressed**
+The transcript does not provide data on lead times or inventory levels.
+
+**5. Capital Spending (Capex): Robust**
+Capex activity is increasing, with Q3 expenditures rising 57% year-over-year to $66 million ("increased 57% compared to $42 million... from continuing operations"). This growth is primarily driven by a strategic shift toward land ownership ("primarily driven by a $24 million increase in land capital expenditures"). The company has further increased its full-year discretionary capex outlook by $40 million to support "higher ground lease buyout activity."

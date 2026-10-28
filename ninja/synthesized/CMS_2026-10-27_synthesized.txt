@@ -1,0 +1,22 @@
+Ticker: CMS
+Source: CMS_2026-10-27.txt
+Generated: 2026-10-28 19:25 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: CMS Energy Corp (Q3 2026)**
+
+**Demand & Activity**
+Demand appears moderate to growing, as evidenced by a modest increase in operating revenue, which rose from $2,021 million in Q3 2025 to $2,183 million in Q3 2026 ("Operating revenue $ 2,183 [vs] $ 2,021").
+
+**Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage trends.
+
+**Pricing Power & Inflation**
+The report does not explicitly detail pricing actions or input cost relief. However, operating expenses saw a robust increase, rising from $1,540 million in Q3 2025 to $2,136 million in Q3 2026 ("Operating expenses 2,136 [vs] 1,540"), though a significant portion of this is attributed to "asset impairment and restructuring activities associated with NorthStar Clean Energy."
+
+**Supply Chain & Inventory**
+There are no mentions of lead times or inventory levels.
+
+**Capital Spending (Capex)**
+Investment activity remains robust. The company reported $3.11 billion in net cash used in investing activities for the first nine months of 2026 ("Net cash used in investing activities (3,111)"). Management indicated a commitment to "long-term utility investments needed to serve our customers and grow our communities."
