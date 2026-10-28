@@ -1,0 +1,22 @@
+Ticker: PSA
+Source: PSA_2026-10-26.txt
+Generated: 2026-10-28 19:27 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Public Storage (PSA)**
+
+**1. Demand & Activity**
+Demand is showing modest improvement, characterized by "improving industry fundamentals" ("demonstrates the strength and scalability of our platform as well as improving industry fundamentals"). Management reports "encouraging momentum" driven by "lower customer churn, higher occupancy and strong move-in rates" ("we saw lower customer churn, higher occupancy and strong move-in rates"). Same-store occupancy saw a slight increase to 92.2% from 91.9% ("Average Occupancy 92.2% 91.9% 0.3%").
+
+**2. Labor & Wages**
+No specific mentions of wage inflation, hiring difficulties, or headcount reductions. The company noted it earned the "Great Place to Work Certification for the 5th consecutive year."
+
+**3. Pricing Power & Inflation**
+Pricing power remains stable to slightly positive, with realized annual rental income per occupied square foot increasing modestly by 0.2% ("Realized annual rental income per square foot... Occupied square foot $ 22.29 $ 22.24 0.2%"). Input cost pressure appears moderate; direct costs of operations rose 2.0% for the quarter ("Direct Cost of Operations (226,132 ) (221,685 ) 2.0%"), though the company lowered its full-year expense growth guidance by 50 basis points ("Expense growth 1.5%... Prior Guidance 2.0% 3.0% (0.5)%").
+
+**4. Supply Chain & Inventory**
+Not applicable (Real Estate/Service).
+
+**5. Capital Spending (Capex)**
+Investment in capacity is robust, focused on aggressive inorganic growth and facility expansion. The company is executing a "value creation engine" through significant acquisitions, including National Storage Affiliates and Public Storage Canada ("Closed the acquisitions of National Storage Affiliates and Public Storage Canada"). Additionally, the company has substantial ongoing development and expansion projects totaling $788.9 million, with $466.6 million yet to be incurred over the next 18 to 24 months ("aggregate development and expansion costs, $466.6 million remains to be incurred").

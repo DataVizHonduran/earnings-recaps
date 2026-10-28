@@ -1,0 +1,17 @@
+Ticker: IQV
+Source: IQV_2026-10-27.txt
+Generated: 2026-10-28 19:25 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: IQVIA (IQV)**
+
+**1. Demand & Activity:** Robust. Demand indicators are strengthening across both clinical and commercial segments, characterized by favorable RFP flow, clinical trial starts, and pipeline growth ("Multiple demand indicators continue to validate the strengthening market environment"). Growth is accelerating, with organic growth rates doubling for commercial and nearly tripling for clinical services year-over-year ("organic growth acceleration year-over-year to double the rate for commercial and nearly triple the rate for clinical"). Net new bookings grew a robust 15% year-over-year to $3.2 billion.
+
+**2. Labor & Wages:** Stable/Not Disclosed. The report does not provide specific data on wage inflation, hiring difficulties, or headcount reductions, though it notes a global workforce of approximately 95,000 employees.
+
+**3. Pricing Power & Inflation:** Moderate. While specific pricing actions are not detailed, the company is achieving margin expansion through "excellent execution" and higher win rates ("the team's ongoing excellent execution delivered margin expansion"). There is no mention of persistent input cost pressures or commodity inflation.
+
+**4. Supply Chain & Inventory:** Stable. As a service-based provider, traditional inventory is not applicable; however, the company maintains a substantial contracted backlog of $32.6 billion ("R DS contracted backlog was $32.6 billion"). Management recently conducted a detailed review to remove inactive trials, resulting in a $2.1 billion adjustment to backlog estimates to ensure accuracy.
+
+**5. Capital Spending (Capex):** Moderate/Technology-Focused. Investment is primarily directed toward AI integration and capacity expansion via acquisitions. The company has deployed over 400 AI agents to date ("increased penetration of AI-powered solutions with over 400 AI agents deployed to date") and expects 250 basis points of revenue contribution from acquisitions by year-end ("anticipates 250 basis points of contribution from acquisitions").

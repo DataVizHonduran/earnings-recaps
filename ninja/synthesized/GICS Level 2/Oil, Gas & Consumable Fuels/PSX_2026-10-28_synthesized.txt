@@ -1,0 +1,25 @@
+Ticker: PSX
+Source: PSX_2026-10-28.txt
+Generated: 2026-10-28 19:27 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Phillips 66 (PSX)**
+
+**1. Demand & Activity**
+Activity is mixed across segments. Refining demand appears robust, with crude capacity utilization increasing to 98% ("Crude Capacity Utilization 98% 96% 2%") and record inputs in the Central Corridor. However, Renewable Fuels activity is softening, with production declining ("Renewable Fuels Produced (MBD) 47 53 (6)"). Midstream activity remains stable, though gas transportation margins have declined ("lower margins associated with gas transportation").
+
+**2. Labor & Wages**
+The company reports modest upward pressure on labor costs, noting that corporate losses were partially offset by "higher employee-related costs."
+
+**3. Pricing Power & Inflation**
+Pricing dynamics are volatile. The company experienced robust refining margins driven by "an increase in market crack spreads." Conversely, the Marketing and Specialties segment saw a decrease in fuel margins, which management attributed to a "rising price environment." In the Chemicals segment, there was a moderate decline in polyethylene margins, though this was "partially offset by higher polyethylene volumes and lower costs."
+
+**4. Supply Chain & Inventory**
+Inventory impacts are creating moderate pressure on the Renewable Fuels segment, contributing to a decrease in pre-tax income ("lower margins, including inventory impacts"). No specific mentions of lead times or bloated inventories were provided.
+
+**5. Capital Spending (Capex)**
+Capex remains focused on capacity expansion and infrastructure. Key investments include:
+* **Midstream:** Final investment decision reached for the Western Gateway Pipeline system, expected in-service by 2029 ("expected in-service date in 2029").
+* **Chemicals:** Progression of the Golden Triangle and Ras Laffan Polymers Projects, with operations expected in 2027 ("full operations for both expected in 2027").
+* **Refining:** Expansion of the Coastal Bend project, with a full ramp-up to 350 MBD expected in early 2027 ("full ramp-up to 350 MBD in early 2027").

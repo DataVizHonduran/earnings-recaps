@@ -1,0 +1,22 @@
+Ticker: JBHT
+Source: JBHT_2026-10-15.txt
+Generated: 2026-10-28 19:26 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: JB Hunt (Q3 2026)**
+
+**1. Demand & Activity**
+Demand is generally robust, though fragmented by service line. Intermodal demand was "strong throughout the quarter," particularly in the Eastern network where there is "strong demand for road-to-rail conversion" (Intermodal volume increased 8%). Integrated Capacity Solutions (ICS) saw robust growth with volume increasing 22%. Conversely, Final Mile Services (FMS) experienced softening activity, with a "10% decline in Final Mile Services (FMS) stops" driven by strategic "business losses" to improve portfolio quality.
+
+**2. Labor & Wages**
+Labor costs are exerting moderate upward pressure. The company reported "higher professional driver personnel expenses" across multiple segments, including Intermodal and Dedicated Contract Services (DCS). Additionally, the company noted increased "group medical claims expense" as a headwind to operating income.
+
+**3. Pricing Power & Inflation**
+The company is demonstrating moderate pricing power. Revenue per load increased significantly in ICS (up 29%) and Truckload (up 29%), driven by "increases in both contractual and transactional rates." In the Dedicated segment, growth was supported by "contracted indexed-based price escalators." However, these gains are being partially offset by inflationary pressures in "purchased transportation," "equipment-related cost," and "insurance premiums."
+
+**4. Supply Chain & Inventory**
+Direct commentary on lead times or inventory levels was absent. However, operational efficiency is improving, with "trailer turns in the quarter were up 3%" due to "better network balance" and "improved asset utilization."
+
+**5. Capital Spending (Capex)**
+Capital investment has softened significantly. Net capital expenditures for the first nine months of 2026 were approximately $291.1 million, a modest decline compared to $490.9 million for the same period in 2025.
