@@ -1,0 +1,22 @@
+Ticker: HBAN
+Source: HBAN_2026-10-22.txt
+Generated: 2026-10-29 19:29 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Huntington Bancshares (HBAN)**
+
+**1. Demand & Activity**
+Loan demand is softening. Average total loans and leases decreased by $806 million quarter-over-quarter ("Average total loans and leases were down 0.4% compared to the prior quarter"). This decline was driven by moderate contractions in Commercial Real Estate (CRE), which fell 4% ("$854 million, or 4%, decrease in average commercial real estate loans"), and total consumer loans, specifically residential mortgages and automobile loans ("Average consumer loans decreased $503 million, or 1%"). Conversely, demand for Commercial and Industrial (C&I) loans showed slight growth ("$553 million, or 1%, increase in average commercial and industrial loans").
+
+**2. Labor & Wages**
+Not addressed. The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is experiencing modest upward pressure on funding costs. The average cost of total deposits increased by 2 basis points quarter-over-quarter ("The average cost of total deposits increased 2 basis points quarter-over-quarter"). However, the bank maintained a stable net interest margin (NIM) of 3.25%, supported by higher yields on investment securities ("NIM of 3.25% was up 4 basis points driven by higher yields on investment securities").
+
+**4. Supply Chain & Inventory**
+Not applicable. As a financial institution, the company does not report on physical supply chains or inventories.
+
+**5. Capital Spending (Capex)**
+Specific technology or facility spend was not detailed; however, the company is focused on integration and synergy realization from recent acquisitions ("achieving our targeted cost and revenue synergies" regarding partnerships with Veritex and Cadence). The company maintains a "disciplined growth strategy" ("Our results reflect our disciplined growth strategy, in line with our aggregate moderate-to-low risk profile").

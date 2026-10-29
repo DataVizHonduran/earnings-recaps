@@ -1,0 +1,22 @@
+Ticker: FTNT
+Source: FTNT_2026-10-28.txt
+Generated: 2026-10-29 19:29 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Fortinet (FTNT)**
+
+**1. Demand & Activity**
+Demand is **robust** and broad-based, characterized by strong momentum in AI-driven security infrastructure. Product revenue showed significant growth, and the company raised its full-year billings guidance for the third time this year ("reflect strong execution and broad-based demand across our entire portfolio"). Growth is specifically driven by the "convergence of networking and security" and the emergence of "entirely new attack surfaces" created by AI.
+
+**2. Labor & Wages**
+The provided text contains no specific data on current wage increases or headcount changes, though the company lists the "ability to attract and retain personnel" as a general risk factor.
+
+**3. Pricing Power & Inflation**
+The company maintains strong margins (Non-GAAP operating margin of 38%), suggesting stable pricing power. However, management notes potential headwinds from "pricing pressure" and the "effects of inflation or stagflation" as general risks to future performance.
+
+**4. Supply Chain & Inventory**
+Current conditions are not explicitly detailed as a present disruption, but the company continues to monitor "actual or perceived vulnerabilities in our supply chain" and the risk of "excess product inventory" resulting from macroeconomic volatility and inflation.
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for facilities are not disclosed, there is a **moderate to robust** investment in technology and R&D. The company is aggressively expanding its AI capabilities, evidenced by the launch of the "FortiGuard Inline AI Security Service" and the "FortiLink SASE service" to secure distributed locations.

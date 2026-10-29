@@ -1,0 +1,22 @@
+Ticker: AAL
+Source: AAL_2026-10-22.txt
+Generated: 2026-10-29 19:28 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: American Airlines (AAL)**
+
+**Demand & Activity:**
+Demand is robust across all segments and geographies. Total unit revenue increased 14.5% year-over-year, with particular strength in international markets, led by Latin America ("Latin America entity up 21.1%"). Premium demand remains strong ("Premium passenger unit revenue increased 18.5%"), and business travel continues a sustained recovery, with managed corporate revenue seeing its sixth consecutive quarter of double-digit growth ("increasing 27.6% year over year"). However, future network growth is expected to soften ("expects network growth in 2027 to slow from 2026 levels").
+
+**Labor & Wages:**
+The report does not specify wage increases or hiring difficulties, but notes a focus on productivity and operational efficiency through the "reengineering" of work processes ("improving productivity and simplifying processes").
+
+**Pricing Power & Inflation:**
+The company demonstrates moderate pricing power, evidenced by record revenue growth and a successful increase in the "upsell rate from Basic Economy to Main Cabin." However, these gains are being offset by severe inflationary pressure in energy costs. Fuel expenses rose by $1.9 billion year-over-year ("historic fuel cost pressure"), with average prices reaching $3.85 per gallon in Q3 and projected to nearly double in Q4 to approximately $4.70 per gallon.
+
+**Supply Chain & Inventory:**
+Not explicitly addressed; however, the company is managing a large-scale fleet modernization and retrofit program.
+
+**Capital Spending (Capex):**
+Investment in technology and capacity is robust. Key initiatives include a massive connectivity upgrade to equip more than 1,000 aircraft with Starlink Wi-Fi ("largest in-flight connectivity upgrade in the airline’s history"), the expansion of the premium lounge network, and a narrowbody retrofit program to increase premium seating to 40% of capacity. Additionally, the company is investing in "technology, automation and artificial intelligence" to drive annual run rate savings of nearly $1 billion.

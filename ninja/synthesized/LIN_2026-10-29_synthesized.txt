@@ -1,0 +1,22 @@
+Ticker: LIN
+Source: LIN_2026-10-29.txt
+Generated: 2026-10-29 19:30 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Linde PLC (Q3 2026)**
+
+**1. Demand & Activity**
+Demand is growing moderately, with underlying sales increasing 5% ("underlying sales increased 5% from 3% price attainment and 2% volumes"). Activity is most robust in the electronics, chemicals, and energy sectors ("primarily in the electronics, chemicals & energy, and manufacturing end markets"). Geographically, growth is strongest in the Americas and APAC, while EMEA shows more modest gains ("Americas... underlying sales increased 9%," "APAC... underlying sales increased 8%," "EMEA... underlying sales increased 3%"). Forward-looking demand signals remain robust, particularly in the semiconductor space ("Customer proposal activity remains robust, particularly across electronics").
+
+**2. Labor & Wages**
+The provided text contains no specific data on current hiring, turnover, or wage trends, though the company lists the "ability to attract, hire, and retain qualified personnel" as a general risk factor.
+
+**3. Pricing Power & Inflation**
+Linde continues to exercise moderate pricing power to offset costs, with overall underlying sales driven by 3% price attainment ("underlying sales increased 5% from 3% price attainment"). Pricing strength is most pronounced in the Americas ("driven by 6% higher pricing"). The company is utilizing cost pass-through mechanisms to maintain margins ("flat when excluding the effects of cost pass-through").
+
+**4. Supply Chain & Inventory**
+Specific lead times and inventory levels were not disclosed; however, the company maintains a robust project pipeline ("Project backlog $11 billion").
+
+**5. Capital Spending (Capex)**
+Capital investment remains robust to support capacity expansion and maintenance. Full-year 2026 capex is projected between $5.5 billion and $6.0 billion ("Full-year capital expenditures are expected to be in the range of $5.5 billion to $6.0 billion to support growth and maintenance requirements"). This includes significant investment in gas project backlogs ("including the $7.9 billion contractual sale of gas project backlog").
