@@ -1,0 +1,22 @@
+Ticker: WST
+Source: WST_2026-10-29.txt
+Generated: 2026-10-29 19:30 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: West Pharmaceutical Services (WST)**
+
+**1. Demand & Activity**
+Demand is robust overall, characterized by strong growth in high-end segments. High-Value Product (HVP) Components saw robust organic growth of 20.3% ("HVP Components net sales... rose 20.3% on an organic basis"). Standard Products experienced modest organic growth of 3.1% ("Standard Products net sales... rose 3.1% on an organic basis"). Conversely, demand in the West Vantage segment is softening, with organic net sales declining 6.6% ("West Vantage... declined 6.6% on an organic basis").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is demonstrating strong pricing power and operational efficiency, evidenced by significant margin expansion. Gross profit margins increased from 35.3% to 37.5% year-to-date, and the company reported "strong operating income margin expansion" ("The robust sales performance drove strong operating income margin expansion").
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific data regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capital investment plans are being moderated. Full-year 2026 capital spending guidance was revised downward from a previous range of $250–$275 million to a new range of $215–$220 million ("Full-year 2026 capital spending guidance is updated to a range of $215 million to $220 million, down from the prior range of $250 million to $275 million").

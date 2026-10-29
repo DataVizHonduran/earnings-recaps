@@ -1,0 +1,22 @@
+Ticker: NUE
+Source: NUE_2026-10-26.txt
+Generated: 2026-10-29 19:30 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Nucor Corp (Q3 2026)**
+
+**1. Demand & Activity**
+Demand is currently robust across key end markets ("Supported by robust demand across key end markets"). Activity in the steel mills and steel products segments grew sequentially due to increased volumes ("increase in the steel mills segment was due to... increased volumes"). However, the outlook for Q4 suggests a seasonal softening in activity ("seasonally lower volumes").
+
+**2. Labor & Wages**
+Not addressed. The report mentions safety milestones ("making 2026 the safest summer in Nucor history") but provides no data on hiring, turnover, or wage inflation.
+
+**3. Pricing Power & Inflation**
+The company is demonstrating moderate pricing power in finished goods, with higher average selling prices contributing to earnings growth in both the steel mills and steel products segments ("higher average selling prices," "higher average realized pricing"). Conversely, the raw materials segment is experiencing softening pricing ("earnings decreased due to lower pricing and shipments"). Input costs remain a headwind, as growth in the mills segment was "partially offset by higher costs of products sold."
+
+**4. Supply Chain & Inventory**
+Not addressed. The provided text contains no specific mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment in capacity and technology remains robust. The company is actively expanding its footprint and capabilities through several major projects, including the "first heat at our West Virginia sheet mill in September" and the "start-up of our second galvanizing line at Nucor Steel Berkeley." Management notes these investments are intended to strengthen their position in "attractive markets."

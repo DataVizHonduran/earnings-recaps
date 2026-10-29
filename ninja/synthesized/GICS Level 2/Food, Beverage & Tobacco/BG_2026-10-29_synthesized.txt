@@ -1,0 +1,22 @@
+Ticker: BG
+Source: BG_2026-10-29.txt
+Generated: 2026-10-29 19:28 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Bunge Global SA (BG)**
+
+**1. Demand & Activity**
+Demand remains robust over the long term ("long-term demand drivers for our business remain strong"), though current activity is mixed by region and product. Softseed processing volumes saw moderate growth across all regions ("Softseed processing volumes increased across all regions"). Soybean processing showed regional variance: stable in the U.S. ("Processing volumes in the U.S. were in line with last year"), stronger in Europe, but softening in South America and Asia. Tropical oils faced modest headwinds due to "geopolitical trade disruptions."
+
+**2. Labor & Wages**
+The report does not provide specific data on hiring, turnover, or wage inflation. It notes a slight decrease in corporate expenses, partially attributed to "performance-based compensation."
+
+**3. Pricing Power & Inflation**
+The company is benefiting from a "more favorable margin environment" in softseed processing. However, Tropical Oils and Specialty Ingredients experienced "near-term margin impacts associated with geopolitical trade disruptions." There is no specific mention of broad input cost relief or persistent commodity inflation.
+
+**4. Supply Chain & Inventory**
+The company is navigating a "complex environment marked by geopolitical uncertainty, shifting trade flows and evolving government policy." While specific lead times are not disclosed, the company is leveraging an "expanded, more connected global network" to manage these disruptions.
+
+**5. Capital Spending (Capex)**
+Bunge is actively pursuing growth investments and capacity expansion. The company recently "started production at Bunge Chevron Ag Renewables' new oilseed processing line in Destrehan, La." and continues to progress "major growth investments" and "Viterra-related synergies."
