@@ -1,0 +1,17 @@
+Ticker: EQT
+Source: EQT_2026-10-27.txt
+Generated: 2026-10-30 19:05 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: EQT Corp (Q3 2026)**
+
+**Demand & Activity:** Demand is moderate to robust in specific growth corridors, though overall sales volumes have softened. The company is targeting "growing demand at the Clarington hub in Ohio" via the new POWER Pipeline and has secured a "10-year LNG sales agreement with Ignitis Group" in Lithuania, indicating stable long-term international demand. However, total sales volume declined to 583 Bcfe from 634 Bcfe year-over-year ("Total sales volume (Bcfe) 583 634 (-51)").
+
+**Labor & Wages:** Not explicitly discussed. The report notes higher "professional service costs" and "long-term incentive compensation costs" contributing to increased SG&A ("Selling, general and administrative expense increased... due primarily to higher long-term incentive compensation costs").
+
+**Pricing Power & Inflation:** Pricing is under moderate pressure, though mitigated by strategic optimization. The company noted "downward pressure on natural gas prices during the quarter," but utilized "marketing efforts" and a "curtailment strategy" to maintain a realized pricing differential that was "favorable to guidance." Per-unit operating costs remained stable to low, coming in at "the low end of guidance" ($1.09 per Mcfe).
+
+**Supply Chain & Inventory:** Inventory and lead times were not explicitly detailed; however, the company is actively expanding its storage capacity to increase "optimization flexibility" by contracting for 7 Bcf of additional storage at the Leaf River Energy Center ("increases EQT's Gulf Coast storage capacity up to 11 Bcf").
+
+**Capital Spending (Capex):** Capex is modest and trending below previous expectations due to efficiency gains. Q3 spending was "10% below the low-end of guidance," driven by "lower-than-expected upstream and midstream spending." Future investment remains focused on infrastructure and capacity, with Q4 maintenance capex projected at "$540 - $610 million" and strategic growth capex at "$185 - $225 million."

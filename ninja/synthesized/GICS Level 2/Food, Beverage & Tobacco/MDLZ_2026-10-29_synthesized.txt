@@ -1,0 +1,22 @@
+Ticker: MDLZ
+Source: MDLZ_2026-10-29.txt
+Generated: 2026-10-30 19:06 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Mondelez International (MDLZ)**
+
+**Demand & Activity**
+Demand is showing moderate growth, characterized as "broad based volume growth" ("driven by broad based volume growth"). Activity is robust in Emerging Markets, particularly in Latin America and Asia/Middle East/Africa, where organic net revenue grew 4.1% in Q3. Conversely, demand is softening in Europe, which saw a modest decline in organic net revenue of 2.1% ("Europe... (2.1)"). The company is expanding into "high-growth permissible indulgence" via the acquisition of Undercover Snacks ("expansion in the high-growth permissible indulgence segment").
+
+**Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage trends.
+
+**Pricing Power & Inflation**
+The company maintains modest pricing power, contributing to organic growth ("Organic Net Revenue growth was driven by... higher net pricing"). There is evidence of input cost relief, as margins were bolstered by "lower raw material costs" and "lower manufacturing costs driven by productivity." However, these gains are partially offset by "incremental costs due to geopolitical conflicts."
+
+**Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory levels.
+
+**Capital Spending (Capex)**
+Investment is focused on digital infrastructure and brand expansion. The company is currently incurring "higher costs incurred for the ERP System Implementation program" and is "significantly reinvesting in our brands, innovation, and distribution."

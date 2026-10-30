@@ -1,0 +1,22 @@
+Ticker: TSLA
+Source: TSLA_2026-10-21.txt
+Generated: 2026-10-30 19:07 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: TSLA (Q3 2026)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by a "largest backlog for our passenger vehicles in four years." Activity is particularly strong in North America, seeing a "nearly twenty percentage point sequential increase" in deliveries. International demand is also moderate to strong, with record deliveries in Canada, Australia, Japan, and Taiwan. Energy storage demand remains robust, driven by "rising data center demand" and the "highest-ever order rate and backlog."
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, wage adjustments, or headcount reductions.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price hikes; however, it notes a competitive advantage for the Tesla Semi in a "transportation market where energy is one of the largest components of total cost per mile." There is no mention of broad commodity inflation, though the company is actively pursuing "LFP supply domestication in the U.S." to stabilize its supply chain.
+
+**4. Supply Chain & Inventory**
+Inventory levels are lean, with global vehicle inventory at "11 days of supply" (down from 15 in Q2). However, supply chain constraints persist in battery production, as "battery availability continued to be the limiting factor in increasing auto volumes." The company is mitigating this by "securing future supply" and expanding internal cell manufacturing.
+
+**5. Capital Spending (Capex)**
+Capex remains robust, with $4.7B spent in Q3. Investment is focused on capacity expansion and technology, specifically "R&D and Capex spend across our businesses, including SI, robotics and energy." Key projects include the "Austin Fab" (commissioning in 2027), the "Megafactory Texas" (50 GWh capacity), and a plan to reach "400 MW of SI training compute by the end of the year."

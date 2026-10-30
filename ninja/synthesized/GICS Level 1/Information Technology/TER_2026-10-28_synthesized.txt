@@ -1,0 +1,22 @@
+Ticker: TER
+Source: TER_2026-10-28.txt
+Generated: 2026-10-30 19:06 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided press release, here is the economic signal summary for Teradyne (TER):
+
+**1. Demand & Activity**
+Demand is **robust**, characterized by significant growth in AI-related sectors. The company reported "Record revenue in Memory and Integrated Systems Test driven by all things AI" and noted that its Robotics division "delivered its highest third quarter revenue to date" while achieving profitability. Overall revenue grew 70% compared to the prior year ("Revenue up 70%... from Q3'25").
+
+**2. Labor & Wages**
+Not mentioned.
+
+**3. Pricing Power & Inflation**
+Not mentioned.
+
+**4. Supply Chain & Inventory**
+Not mentioned.
+
+**5. Capital Spending (Capex)**
+Not mentioned.

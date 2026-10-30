@@ -1,0 +1,24 @@
+Ticker: CHD
+Source: CHD_2026-10-30.txt
+Generated: 2026-10-30 19:05 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided document, the available data is limited to a high-level press release summary. Most "ground truth" operational details (labor, supply chain, capex) were not included in the provided text snippet.
+
+**1. Demand & Activity**
+Demand appears **stable to modest**, with the company reporting a slight increase in top-line activity.
+*   Net sales grew by a slight margin ("Net Sales +1.0% reflecting strategic Portfolio actions").
+*   Overall performance was characterized as "strong" ("CHURCH & DWIGHT DELIVERS STRONG THIRD QUARTER RESULTS").
+
+**2. Labor & Wages**
+*   No mentions of hiring, turnover, or wage pressures in the provided text.
+
+**3. Pricing Power & Inflation**
+*   The document does not explicitly detail pricing actions or specific input cost pressures, though it notes that organic sales exceeded previous outlooks ("Q3 NET SALES, ORGANIC SALES AND ADJUSTED EPS EXCEED OUTLOOK").
+
+**4. Supply Chain & Inventory**
+*   No mentions of lead times or inventory levels in the provided text.
+
+**5. Capital Spending (Capex)**
+*   No mentions of future capacity or facility investments in the provided text.

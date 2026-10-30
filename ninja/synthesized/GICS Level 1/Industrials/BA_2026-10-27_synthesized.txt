@@ -1,0 +1,22 @@
+Ticker: BA
+Source: BA_2026-10-27.txt
+Generated: 2026-10-30 19:04 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Boeing (BA)**
+
+**1. Demand & Activity**
+Demand remains robust, characterized by record-level backlogs across multiple segments. Total company backlog grew to a record $745 billion ("Total company backlog at quarter end grew to a record $745 billion"). Commercial demand is strong with 300 net orders booked in the quarter ("Commercial Airplanes booked 300 net orders"). Defense activity is expanding, highlighted by the selection for the F A-XX next-generation fighter and a contract to expand PAC-3 Seeker production ("Defense, Space Security was selected by the U.S. Navy for a contract to design, build and deliver the F A-XX").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is experiencing persistent cost pressures in the commercial sector. Operating margins were negatively impacted by "higher estimated supply chain costs" ("Commercial Airplanes... operating margin of (6.5) percent primarily reflects... higher estimated supply chain costs"). There is no mention of price increases to offset these pressures.
+
+**4. Supply Chain & Inventory**
+Supply chain conditions remain a headwind for commercial operations. The company is working toward "stabilized production" for the 737 program at 47 per month ("The 737 program continues to progress toward stabilized production of 47 per month"), while the 787 program is described as "stable" at 8 per month ("The 787 program remains stable at a production rate of 8 per month").
+
+**5. Capital Spending (Capex)**
+Capital investment is moderate to robust, with a focus on expanding domestic manufacturing capacity. Additions to property, plant, and equipment totaled $1.03 billion for the quarter, driven by site-specific investments ("Additions to property, plant and equipment primarily reflects higher investments in Charleston and St. Louis sites").

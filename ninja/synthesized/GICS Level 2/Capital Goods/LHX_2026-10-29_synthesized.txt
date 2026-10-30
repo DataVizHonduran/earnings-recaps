@@ -1,0 +1,22 @@
+Ticker: LHX
+Source: LHX_2026-10-29.txt
+Generated: 2026-10-30 19:06 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: L3Harris Technologies (LHX)**
+
+**Demand & Activity**
+Demand is robust, characterized by a record backlog of $53.2 billion and a high book-to-bill ratio of 3.2x ("underscoring the consistently strong demand for our mission-critical capabilities"). Growth is broad-based but particularly strong in the Space Mission Systems and Missile Solutions segments, which saw "double-digit growth." Activity is heavily driven by large-scale munitions and propulsion contracts, including significant awards for THAAD and PAC-3 MSE systems ("to scale propulsion production").
+
+**Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**Pricing Power & Inflation**
+The company is experiencing moderate margin expansion, with operating income margin increasing 200 bps to 13.0% ("driven by higher revenues and continued management of corporate expenses"). There is no explicit mention of price hikes or specific commodity inflation, though the company notes "lower interest expense" as a contributor to EPS growth.
+
+**Supply Chain & Inventory**
+Inventory levels appear stable, with net inventories increasing slightly from $1.22 billion to $1.28 billion year-over-year. While the company lists "supply chain disruptions" as a general risk factor, current activity focuses on scaling production to meet "rising demand for munitions."
+
+**Capital Spending (Capex)**
+Capex is robust and focused on capacity expansion. The company is investing in production facilities to address munitions demand, recently opening the "Arsenal of Freedom solid rocket motor production facility... one of approximately 60 new facilities being built." Full-year capital expenditures are anticipated to be approximately $600 million ("capital expenditures are anticipated to be approximately $600 million").
