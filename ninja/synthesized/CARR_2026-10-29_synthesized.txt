@@ -1,0 +1,26 @@
+Ticker: CARR
+Source: CARR_2026-10-29.txt
+Generated: 2026-10-30 19:05 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Carrier Global Corp (CARR)**
+
+**1. Demand & Activity**
+Demand is robust overall, characterized by a record $8.5 billion backlog ("up 60% versus last year"). Growth is highly bifurcated by sector:
+*   **Data Centers:** Experiencing explosive growth ("data center orders up 300%").
+*   **Americas:** Strong activity in both Residential (up over 30%) and Commercial (up 25%) sectors.
+*   **Europe:** Modest organic growth (12%), with strong demand for heat pumps and air conditioning (up 35% each), though offset by softening in boilers ("high-single digit declines").
+*   **Transportation:** Softening demand, as growth in Container was "more than offset by Truck and Trailer."
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company maintains moderate pricing power, noting that margin expansion was "predominantly due to favorable volume and price." However, this is being countered by persistent inflationary pressures. Management remains "vigilant" regarding "industry-wide macro pressures, including tariffs and increasing input costs" ("impact of increased input costs and tariffs").
+
+**4. Supply Chain & Inventory**
+While specific lead times are not disclosed, there is evidence of inventory volatility in Europe, where margin gains were "offset by increases in inventory-related reserves."
+
+**5. Capital Spending (Capex)**
+Capital investment is increasing modestly. Quarterly Capex rose to $139 million compared to $117 million in the prior year period, with nine-month spending totaling $350 million versus $261 million year-over-year.

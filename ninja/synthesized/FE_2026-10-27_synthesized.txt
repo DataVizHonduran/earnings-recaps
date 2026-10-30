@@ -1,0 +1,22 @@
+Ticker: FE
+Source: FE_2026-10-27.txt
+Generated: 2026-10-30 19:06 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: FirstEnergy Corp (FE)**
+
+**1. Demand & Activity**
+Demand is growing robustly, particularly among large-load customers and within specific geographic regions. The company reports 7.9 gigawatts of contracted demand from large-load customers, which has "nearly double since the beginning of the year," with another 4 gigawatts under active negotiation. In West Virginia, activity is increasing as "electricity demand grows across the state," prompting the development of the Maidsville Energy Center to support "economic development."
+
+**2. Labor & Wages**
+Not addressed. The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+Not addressed. The provided text does not discuss price adjustments or specific input cost pressures.
+
+**4. Supply Chain & Inventory**
+The company is proactively managing long-lead equipment to avoid delays. Specifically, FirstEnergy has already "secured turbines through a reservation agreement with Siemens" for future generation projects to ensure they have the "equipment needed to move forward."
+
+**5. Capital Spending (Capex)**
+Capital investment is robust and expanding. The company is executing a five-year, $36 billion "Energize365" plan to "modernize the grid, renew distribution infrastructure and strengthen transmission reliability," deploying $4.9 billion in the first nine months of 2026 alone. Furthermore, due to surging demand, the company expects "at least a 25% increase" in its current $19 billion transmission investment plan when it rolls forward to the 2027–2031 period.
