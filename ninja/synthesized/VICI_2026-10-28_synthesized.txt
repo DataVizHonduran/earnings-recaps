@@ -1,0 +1,22 @@
+Ticker: VICI
+Source: VICI_2026-10-28.txt
+Generated: 2026-10-30 19:07 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: VICI Properties (Q3 2026)**
+
+**1. Demand & Activity:**
+Demand for experiential real estate remains robust, evidenced by moderate revenue growth and portfolio expansion. The company is actively diversifying its tenant base and strengthening its presence in the "dynamic region of Alberta" ("further diversifying our tenant base and further strengthening our presence in the dynamic region of Alberta") through new master lease agreements.
+
+**2. Labor & Wages:**
+Not addressed.
+
+**3. Pricing Power & Inflation:**
+The company maintains stable pricing power through structured lease escalations tied to inflation. New agreements include rent increases linked to the "greater of 1.25% and the change in Canadian CPI (capped at 2.50%)" ("escalation equal to the greater of 1.25% and the change in Canadian CPI").
+
+**4. Supply Chain & Inventory:**
+Not applicable.
+
+**5. Capital Spending (Capex):**
+Future investment is mandated through tenant lease obligations rather than direct corporate capex. New lease terms require a "minimum capital expenditure requirement equal to 1.0% of annual net revenue at each property" ("minimum capital expenditure requirement equal to 1.0% of annual net revenue at each property").
