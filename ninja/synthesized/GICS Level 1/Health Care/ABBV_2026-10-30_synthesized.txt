@@ -1,0 +1,28 @@
+Ticker: ABBV
+Source: ABBV_2026-10-30.txt
+Generated: 2026-10-31 18:23 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: AbbVie Inc. (Q3 2026)**
+
+**1. Demand & Activity**
+Demand is **robust** across core therapeutic areas, though divergent by product line. Immunology and Neuroscience are seeing strong growth, while Aesthetics is **softening**.
+*   **Immunology:** Robust growth driven by Skyrizi (+22.9% operational) and Rinvoq (+24.3% operational), offsetting a significant decline in Humira ("decrease of 30.6 percent on an operational basis").
+*   **Neuroscience:** Robust activity, with Vraylar (+14.3%) and Qulipta (+38.5% operational) contributing to a 19.5% operational increase.
+*   **Oncology:** Stable to modest growth ("increase of 0.9 percent on an operational basis").
+*   **Aesthetics:** Softening demand, with overall portfolio revenues decreasing 1.8% operationally, specifically impacted by Juvederm ("decrease of 11.8 percent on an operational basis").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, wage pressures, or headcount adjustments.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price hikes or specific input cost relief. However, the company maintains a **robust** adjusted gross margin ratio of 85.1%, suggesting strong pricing power and effective cost management relative to revenues.
+
+**4. Supply Chain & Inventory**
+The provided text contains no mentions of lead times, logistics, or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment is focused on inorganic growth and R&D to expand capacity in the immunology pipeline.
+*   **M&A:** Completed the acquisition of Apogee Therapeutics to deepen a "robust immunology pipeline."
+*   **R&D:** Continued investment in clinical trials and regulatory submissions, with specific mentions of supporting "regulatory submissions for lutikizumab in HS in the second half of 2027."

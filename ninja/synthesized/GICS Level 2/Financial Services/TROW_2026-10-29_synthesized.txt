@@ -1,0 +1,22 @@
+Ticker: TROW
+Source: TROW_2026-10-29.txt
+Generated: 2026-10-31 18:30 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: T. Rowe Price (TROW)**
+
+**1. Demand & Activity: Softening**
+Overall demand is softening, characterized by net client outflows of $28.3 billion during the quarter ("Net client outflows of $28.3 billion"). Activity is bifurcated by product line: robust growth in Alternatives and Multi-asset segments, while Equity experienced significant declines ("Equity Net cash flows (25.6) [billion]"). The firm is attempting to pivot toward new delivery channels to stabilize demand ("continue to expand our ETF, SMA, and model portfolio businesses").
+
+**2. Labor & Wages: Stable to Modest Reduction**
+Headcount has seen a modest reduction year-over-year, though it ticked up slightly from the previous quarter ("employed 7,640 associates... a decrease of 2.4% from 7,830 associates at September 30, 2025"). Wage pressures appear stable, with recent increases in compensation driven by incentive structures rather than base pay ("increase from Q3 2025 was primarily driven by a higher interim bonus accrual... partially offset by lower salaries").
+
+**3. Pricing Power & Inflation: Softening**
+The firm is experiencing softening pricing power as the asset mix shifts toward lower-cost products. The annualized effective fee rate (EFR) declined both year-over-year and sequentially ("EFR without performance-based fees 37.8 [bps]... decreased from 39.1 basis points in Q3 2025 and 38.1 basis points in Q2 2026"). This is attributed to a "mix shift in assets under management toward lower fee products."
+
+**4. Supply Chain & Inventory: Not Applicable**
+As a financial services provider, the company does not maintain physical inventories or traditional supply chains.
+
+**5. Capital Spending (Capex): Moderate Investment**
+Investment is focused on technology and operational scalability through external partnerships. The firm has shifted its cost structure to reflect an "outsourcing and expansion of the firm's technology capabilities through trusted vendor partnerships," resulting in a moderate increase in technology, occupancy, and facility costs ("Technology, occupancy, and facility costs... $205.1 [million]... [up] 4.0% [from Q3 2025]").

@@ -1,0 +1,22 @@
+Ticker: VLO
+Source: VLO_2026-10-22.txt
+Generated: 2026-10-31 18:30 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Valero Energy Corp (Q3 2026)**
+
+**Demand & Activity**
+Demand for transportation fuels appears robust, with refining operations running at "near-record utilization rates" ("Our refineries operated at near-record utilization rates"). Activity in the ethanol segment is growing, with production volumes reaching a "new quarterly record" ("Ethanol production volumes averaged 4.8 million gallons per day... setting a new quarterly record"). Renewable diesel activity also showed moderate growth, with sales averaging 3.4 million gallons per day.
+
+**Labor & Wages**
+The provided text contains no mentions of hiring, turnover, or wage adjustments.
+
+**Pricing Power & Inflation**
+The company is experiencing significant margin expansion, evidenced by a robust increase in refining operating income from $1.6 billion to $8.8 billion year-over-year. While the company notes "the impact of inflation and crude oil and petroleum product market disruptions on margins and costs" as a general risk factor, current financial results indicate strong pricing power or favorable commodity spreads.
+
+**Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory levels, though it notes a "$526 million unfavorable impact from working capital," which may suggest modest fluctuations in inventory or receivables.
+
+**Capital Spending (Capex)**
+Capital investment is stable, totaling $432 million for the quarter, with the vast majority ($371 million) dedicated to "sustaining the business, including costs for turnarounds, catalysts and regulatory compliance." The company is selectively investing in capacity and technology, recently completing the "St. Charles FCC Unit optimization project" to increase the "production capacity of higher value products" ("increases the production capacity of higher value products, including alkylate and gasoline").

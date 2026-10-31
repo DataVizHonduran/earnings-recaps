@@ -1,0 +1,22 @@
+Ticker: HSY
+Source: HSY_2026-10-29.txt
+Generated: 2026-10-31 18:29 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: HSY (Q3 2026)**
+
+**Demand & Activity:**
+Demand is softening, characterized by a moderate decline in organic volume of approximately 10 points ("Volume declined approximately 10 points"). This weakness is attributed to "elasticity impacts" in North America Confectionery and International markets, as "consumers grow more cautious." However, activity in North America Salty Snacks remains robust, providing a partial offset to the broader confectionery decline.
+
+**Labor & Wages:**
+The provided text contains no specific mentions of hiring, turnover, or wage adjustments.
+
+**Pricing Power & Inflation:**
+The company continues to exercise moderate pricing power, with organic net price realization contributing approximately 11 points to sales growth ("driven by net price realization of approximately 11 points"). Input cost pressures have eased, with margins benefiting from "lower net commodity costs" and "tariff refunds," although these gains were partially offset by "higher freight and logistics expenses."
+
+**Supply Chain & Inventory:**
+The report does not provide specific data on lead times or inventory levels, though it notes "shipment timing" as a factor in International volume declines.
+
+**Capital Spending (Capex):**
+Investment remains stable and disciplined. The company projects full-year capital expenditures of approximately $450 million ("Capital expenditures of approximately $450 million"). Additionally, there is a continued focus on "capability and technology investments" and an "Agility Automation Initiative" expected to yield $100 million in savings.

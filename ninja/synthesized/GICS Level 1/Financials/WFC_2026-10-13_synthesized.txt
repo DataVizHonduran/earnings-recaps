@@ -1,0 +1,22 @@
+Ticker: WFC
+Source: WFC_2026-10-13.txt
+Generated: 2026-10-31 18:30 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Wells Fargo (Q3 2026)**
+
+**1. Demand & Activity**
+Demand is showing robust growth across several key segments. Consumer activity is strong, evidenced by a 15% year-over-year increase in auto originations ("auto originations increased 15% from a year ago") and the opening of over 660,000 new credit card accounts. Corporate activity is also expanding, with M&A revenue increasing 30% and investment grade underwriting fees rising 33%. Management notes that "consumers are spending more" and "business customers are doing well," though they acknowledge that "consumer sentiment remains mixed."
+
+**2. Labor & Wages**
+The company is actively reducing headcount to drive efficiency, reporting an "8% reduction in headcount" as part of broader efficiency initiatives. Despite these cuts, the broader economic environment is characterized by "high employment levels and consistent wage growth," which management views as a positive force outweighing current risks.
+
+**3. Pricing Power & Inflation**
+The company is experiencing persistent inflationary pressure, citing "higher oil prices and persistent inflation" as risks to the economy. In terms of pricing, the bank is benefiting from "wider deposit spreads" in consumer banking and "wider loan spreads" in the auto sector. However, they are facing "higher deposit costs reflecting growth in interest-bearing commercial deposits."
+
+**4. Supply Chain & Inventory**
+Not applicable. (No mentions of physical supply chains or inventory levels in the provided financial transcript).
+
+**5. Capital Spending (Capex)**
+Investment is focused on technology and infrastructure rather than physical capacity. Management highlighted "investment in AI infrastructure" as a strong positive force and noted an "increase in technology and equipment expense" to improve capabilities and position the company for "continued future growth."
