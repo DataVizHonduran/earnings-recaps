@@ -1,0 +1,22 @@
+Ticker: EBAY
+Source: EBAY_2026-10-28.txt
+Generated: 2026-10-31 18:25 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: eBay Inc. (Q3 2026)**
+
+**1. Demand & Activity:**
+Demand is robust, characterized by strong growth in "recommerce" and specialized categories. Gross Merchandise Volume (GMV) grew 15% as-reported ("GMV was $23.2 billion, up 15%"). Growth is particularly aggressive in live shopping, with GMV growth remaining "well into the triple digits year over year" ("GMV growth remained well into the triple digits year over year"). Consumer adoption of secondhand goods is increasing, with monthly purchase rates rising from 35% in 2025 to 47% in 2026 ("47% of consumers surveyed purchase secondhand goods at least monthly, up from 35% in 2025").
+
+**2. Labor & Wages:**
+The provided text contains no mentions of hiring, turnover, wage pressures, or headcount adjustments.
+
+**3. Pricing Power & Inflation:**
+The company is demonstrating moderate pricing power through the expansion of its advertising business, which generated $607 million in revenue ("total advertising offerings generated $607 million of revenue"). There is no specific commentary regarding input cost inflation or relief in freight and energy.
+
+**4. Supply Chain & Inventory:**
+As a marketplace platform, eBay does not hold traditional inventory; however, it is actively expanding its logistics infrastructure to reduce friction. The company is scaling its "Managed Shipping" and "International Shipping" hubs to streamline the movement of goods across 190 markets ("enable sellers to reach buyers in more than 190 markets by shipping to a domestic eBay hub").
+
+**5. Capital Spending (Capex):**
+Investment is focused on technology and strategic acquisitions to expand capacity in the circular economy. The company made a significant investment in the acquisition of Depop for $1.4 billion to strengthen its "leadership in circular fashion and recommerce" ("paid $1.4 billion in cash"). Additionally, the company is investing in AI-powered listing technology and authentication services across the U.S., U.K., and Europe ("expanded the latest generation of its AI-powered Magical Listing technology").

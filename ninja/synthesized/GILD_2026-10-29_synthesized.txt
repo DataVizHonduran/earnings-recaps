@@ -1,0 +1,22 @@
+Ticker: GILD
+Source: GILD_2026-10-29.txt
+Generated: 2026-10-31 18:29 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Gilead Sciences (GILD)**
+
+**1. Demand & Activity**
+Demand is **robust** across core portfolios, though bifurcated by product line. HIV demand is strong, particularly in prevention ("HIV prevention sales nearly doubled year-over-year"), and Oncology demand is growing ("Trodelvy... sales increased 42%... primarily driven by higher demand"). Conversely, demand for COVID-19 treatments is **softening** ("Veklury sales decreased 69%... primarily driven by lower rates of COVID-19-related hospitalizations"), and Cell Therapy is facing "ongoing competitive headwinds."
+
+**2. Labor & Wages**
+The company is experiencing **moderate** upward pressure on labor costs. Operating expenses increased due to "higher employee-related costs" within both R&D and SG&A functions ("R&D expenses... increased... primarily driven by higher employee-related and clinical materials costs").
+
+**3. Pricing Power & Inflation**
+Gilead demonstrates **robust** pricing power. Growth in several key product lines was explicitly attributed to "higher average realized price," specifically within the HIV portfolio ("HIV product sales increased 18%... primarily driven by higher average realized price") and the Liver Disease portfolio ("higher average realized price for chronic hepatitis C virus (HCV) and chronic hepatitis B virus products").
+
+**4. Supply Chain & Inventory**
+Inventory dynamics are described as **favorable**, contributing positively to the sales growth of Biktarvy and Descovy ("primarily driven by higher demand, higher average realized price and favorable inventory dynamics"). No significant lead-time disruptions or bloated inventory levels were noted.
+
+**5. Capital Spending (Capex)**
+Investment in technology and infrastructure is **robust**. The company is executing a massive long-term expansion, including the "opening of new Research Center to expand capabilities in oncology, inflammation and research data science," which serves as the first of three projects supporting a "$32 billion investment in U.S. research, development and manufacturing."

@@ -1,0 +1,22 @@
+Ticker: APA
+Source: APA_2026-10-07.txt
+Generated: 2026-10-31 18:23 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided supplemental information for Q3 2026, there is insufficient qualitative data to provide a comprehensive Beige Book analysis. The document is a financial data sheet rather than a narrative transcript.
+
+**1. Demand & Activity:**
+Data is limited to realized prices, which suggest stable to robust international demand relative to domestic markets, with international oil priced significantly higher than U.S. oil ("Oil (bbl) United States $87.50... International $98.50").
+
+**2. Labor & Wages:**
+Not mentioned.
+
+**3. Pricing Power & Inflation:**
+The company is a price-taker in commodity markets. Realized prices for NGLs showed a moderate increase, though management attributes this to accounting and volume timing rather than market pricing power ("The increase compared to prior quarters primarily reflects low volumes and the timing of revenue recognition").
+
+**4. Supply Chain & Inventory:**
+Not mentioned.
+
+**5. Capital Spending (Capex):**
+Specific future capacity plans are not detailed, though current operational costs include "Dry hole costs (before tax) $25 million," indicating ongoing exploration activity.

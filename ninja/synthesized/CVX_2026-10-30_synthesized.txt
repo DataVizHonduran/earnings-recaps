@@ -1,0 +1,22 @@
+Ticker: CVX
+Source: CVX_2026-10-30.txt
+Generated: 2026-10-31 18:24 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Chevron Corp (3Q 2026)**
+
+**Demand & Activity**
+Demand for refined products appears stable to softening. U.S. refined product sales were "relatively flat" ("Refined product sales were relatively flat compared to the year-ago period"), while international sales saw a moderate decline of 9% due to "supply disruptions from the Middle East conflict" ("Refined product sales decreased 9 percent from the year-ago period"). However, the company views the broader energy market as "supply-constrained" ("reinvesting to bring more energy to a supply-constrained market").
+
+**Labor & Wages**
+No specific mentions of hiring, turnover, or wage pressures were provided in the report.
+
+**Pricing Power & Inflation**
+The company is experiencing robust pricing power and higher realizations. Earnings growth was driven by "higher margins on refined product sales and higher crude oil realizations" ("primarily due to reliable operations with higher margins on refined product sales and higher crude oil realizations"). Additionally, the company is aggressively pursuing input cost relief, specifically targeting a "50 percent" reduction in Bakken midstream costs to strengthen competitiveness ("signed agreements to reduce Bakken midstream costs by approximately 50 percent").
+
+**Supply Chain & Inventory**
+Supply chains are experiencing moderate disruption in specific regions. International downstream activity was hampered by "supply disruptions from the Middle East conflict" ("Refined product sales decreased 9 percent... due to supply disruptions from the Middle East conflict"). Conversely, U.S. refinery utilization is robust, operating "near capacity" at a record 98% ("reflecting reliable crude unit capacity utilization of nearly 98 percent").
+
+**Capital Spending (Capex)**
+Capex remains moderate but targeted toward high-growth capacity. While quarterly spend was lower due to reduced Permian Basin activity ("Capex in the third quarter of 2026 was lower than last year largely due to lower spend in the Permian Basin"), the company is committing to robust long-term investment, including a plan to invest "$7 billion over the next five years" in Venezuela ("joint ventures plan to invest $7 billion over the next five years").
