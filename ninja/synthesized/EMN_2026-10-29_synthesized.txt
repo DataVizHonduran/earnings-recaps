@@ -1,0 +1,22 @@
+Ticker: EMN
+Source: EMN_2026-10-29.txt
+Generated: 2026-11-01 18:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Eastman Chemical Co (EMN)**
+
+**1. Demand & Activity:**
+Demand is softening in key sectors, though results vary by segment. There is "softening underlying demand in automotive and consumer durables," and the company expects "sequential demand declines" due to "normal seasonality and some additional customer caution." Conversely, activity in Chemical Intermediates is robust, driven by "tight market conditions due to the ongoing conflict in the Middle East."
+
+**2. Labor & Wages:**
+The report does not explicitly detail hiring or turnover; however, it notes a moderate increase in labor-related costs, citing "higher variable compensation expense" as a factor that partially offset EBIT growth.
+
+**3. Pricing Power & Inflation:**
+The company is exercising robust pricing power to combat persistent inflationary pressures. Management is "taking additional price actions across the company" to offset "higher raw material and distribution costs" linked to the Middle East conflict. They remain on track to implement "approximately $500 million of selling price increases in 2026."
+
+**4. Supply Chain & Inventory:**
+Inventory levels appear stable following previous corrections, with EBIT benefiting from "improved asset utilization after actions to reduce inventory in third quarter 2025." The company expects to further "release working capital in the fourth quarter."
+
+**5. Capital Spending (Capex):**
+Investment is focused on technology and sustainability. The company is scaling its "circular platform," supported by a "reinstatement of a $375 million U.S. Department of Energy (DOE) award," which is expected to drive "significant revenue growth in 2026 and 2027." General "capital expenditures" remain a priority for the use of available cash.

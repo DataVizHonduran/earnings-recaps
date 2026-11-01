@@ -1,0 +1,22 @@
+Ticker: LLY
+Source: LLY_2026-10-29.txt
+Generated: 2026-11-01 18:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Eli Lilly (LLY)**
+
+**1. Demand & Activity**
+Demand is **robust** globally, particularly for metabolic health products. Total revenue increased 39% year-over-year, driven by a 53% increase in volume ("driven by broad global consumer demand for Mounjaro and Zepbound"). Growth is evident both domestically, with U.S. volume up 41% ("The increase in U.S. volume was driven by Zepbound and Mounjaro"), and internationally, where volume grew 76% ("Revenue outside the U.S. increased 47%... driven by a 76% increase in volume").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+Pricing power is **softening** as volume growth is partially offset by declining realized prices. Worldwide realized prices decreased 15% ("driven by a 53% increase in volume, partially offset by a 15% decrease in realized prices"). In the U.S., prices fell 7%, primarily due to Zepbound and rebate adjustments ("The decline in realized prices was primarily driven by Zepbound"). Internationally, prices fell 29%, largely due to regulatory pricing in China ("driven primarily by the inclusion of Mounjaro on the National Reimbursement Drug List (NRDL) in China"). However, the company reports "improved cost of production" contributing to a modest increase in gross margin.
+
+**4. Supply Chain & Inventory**
+The company reports it is "executing well across the value chain," though specific lead times or inventory levels were not disclosed.
+
+**5. Capital Spending (Capex)**
+Investment in capacity is **robust**. The company is actively expanding its physical footprint to meet demand ("new manufacturing expansions in Texas and Virginia") and continues to invest in "drug-making and technology capabilities." Additionally, R&D spending increased 23% to $4.2 billion ("driven by continued investments in the company's early and late-stage portfolio").
