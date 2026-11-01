@@ -1,0 +1,22 @@
+Ticker: XEL
+Source: XEL_2026-10-29.txt
+Generated: 2026-11-01 18:51 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Xcel Energy (XEL)**
+
+**1. Demand & Activity**
+Demand for electric services appears moderate to robust, evidenced by a modest increase in electric operating revenues ($3.89B vs $3.64B YoY). However, activity was impacted by "unseasonably warm weather" ("The change in earnings per share was primarily driven by... unseasonably warm weather"). The company notes ongoing risks associated with the "growth of large load customers" ("risks associated with the growth of large load customers").
+
+**2. Labor & Wages**
+The labor market remains challenging. The company explicitly identifies "challenging labor market conditions" and cites difficulties regarding its "ability to attract and retain a qualified workforce" ("challenging labor market conditions and our ability to attract and retain a qualified workforce").
+
+**3. Pricing Power & Inflation**
+The company is actively seeking to recover costs through regulatory channels, noting "increased recovery of electric infrastructure investments" ("primarily driven by increased recovery of electric infrastructure investments"). Inflationary pressures persist, with the company citing "inflation rates" and "rising energy prices and fuel costs" as ongoing risk factors ("commodity risks associated with energy markets and production rising energy prices and fuel costs").
+
+**4. Supply Chain & Inventory**
+Supply chain conditions remain a point of concern, specifically regarding their impact on the timing and execution of capital projects ("supply chain constraints and their impact on capital expenditures").
+
+**5. Capital Spending (Capex)**
+Capex activity is robust and expanding. The company is executing an "updated five-year investment plan" to extend its growth cycle ("our updated five-year investment plan gives us a clear path to extend this growth cycle"). Investments are focused on "clean generation and high-voltage transmission" ("one of the nation s largest builders of clean generation and high-voltage transmission").

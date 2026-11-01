@@ -1,0 +1,22 @@
+Ticker: POOL
+Source: POOL_2026-10-22.txt
+Generated: 2026-11-01 18:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Pool Corporation (POOL)**
+
+**1. Demand & Activity:**
+Demand is showing modest growth, with net sales increasing 4% to $1.5 billion. This activity is characterized by "solid maintenance growth" and "continued improvement in building materials" ("supported by price, solid maintenance growth and continued improvement in building materials").
+
+**2. Labor & Wages:**
+Operating expenses increased 5%, driven in part by moderate upward pressure on labor costs, specifically "higher performance-based compensation resulting from increased sales" and "increases in employee insurance" ("reflecting higher performance-based compensation... increases in employee insurance").
+
+**3. Pricing Power & Inflation:**
+The company maintains moderate pricing power, with price increases contributing 3% to total sales growth ("increase primarily reflected 3% growth from price"). However, margins are facing slight pressure from "higher inbound freight costs" ("decrease was primarily driven by higher inbound freight costs").
+
+**4. Supply Chain & Inventory:**
+Inventory levels are being managed leanly, with a deliberate reduction of 3% despite the growth in sales ("reducing inventory by 3% while growing sales").
+
+**5. Capital Spending (Capex):**
+The company is investing in "strategic initiatives" via outside fees, though specific facility or capacity dollar amounts were not disclosed ("outside fees related to our strategic initiatives").

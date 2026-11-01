@@ -1,0 +1,22 @@
+Ticker: URI
+Source: URI_2026-10-21.txt
+Generated: 2026-11-01 18:50 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: United Rentals (URI)**
+
+**1. Demand & Activity:**
+Demand is **robust**, characterized by strong momentum across both general and specialty rental segments. Management notes high customer confidence and significant backlogs, particularly regarding large-scale projects ("momentum we see across large projects"). Activity is growing, as evidenced by a 6.5% increase in fleet productivity ("strong demand as reflected in a 6.5% increase in fleet productivity").
+
+**2. Labor & Wages:**
+The company is seeing **moderate** efficiency gains in its workforce. While specific wage figures are not disclosed, the company reported improved margins driven by "efficiencies in... labor and benefits" ("impact of efficiencies in depreciation, labor and benefits").
+
+**3. Pricing Power & Inflation:**
+URI maintains **robust** pricing power and is benefiting from operational efficiencies. Rental revenue grew 17.8% year-over-year, supported by a 7.9% increase in average original equipment at cost (OEC) ("primarily due to a 7.9% increase in average original equipment at cost"). The company is successfully expanding margins through cost controls in repairs, maintenance, and delivery ("efficiencies in... repairs and maintenance, and delivery expenses").
+
+**4. Supply Chain & Inventory:**
+Inventory levels appear **stable** and are being managed aggressively to support growth. The company is actively cycling its fleet, with used equipment sales increasing 4.5% year-over-year ("Used equipment sales in the quarter increased 4.5% year-over-year"), suggesting a healthy flow of equipment through the system.
+
+**5. Capital Spending (Capex):**
+Capex is **robust** and increasing to meet demand. The company has raised its full-year 2026 gross rental capital expenditure guidance to a range of $5.2 billion to $5.5 billion, up from the previous outlook of $4.85 billion to $5.25 billion ("gross purchases of $5.2 billion to $5.5 billion").

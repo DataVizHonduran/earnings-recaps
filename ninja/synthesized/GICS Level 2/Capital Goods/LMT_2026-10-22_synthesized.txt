@@ -1,0 +1,17 @@
+Ticker: LMT
+Source: LMT_2026-10-22.txt
+Generated: 2026-11-01 18:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Lockheed Martin (LMT)**
+
+**1. Demand & Activity:** Robust. Demand is growing across all four business segments, evidenced by a record backlog of $292 billion ("Backlog grew 27% since the second quarter of 2026"). Growth is particularly strong in Missiles and Fire Control, driven by "production ramps" for PAC-3, THAAD, GMLRS, and PrSM ("increase was primarily attributable to higher sales... due to production ramps"). Aeronautics also saw robust volume increases in F-35 production and sustainment ("higher volume on production and sustainment contracts").
+
+**2. Labor & Wages:** Not addressed. The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation:** Stable to Softening. There are no mentions of price increases. However, the company is experiencing cost pressures on specific programs; notably, costs for F-35 Lot 20 "began to exceed the current contractual authorization and funding," creating a risk to future financial condition without additional government funding.
+
+**4. Supply Chain & Inventory:** Stable. While specific lead times are not detailed, the company is successfully executing "munition ramps" and "higher volume" deliveries across multiple platforms, suggesting that supply chain constraints are not currently impeding the ability to scale production.
+
+**5. Capital Spending (Capex):** Moderate. The company continues to invest in capacity and technology, with Q3 capital expenditures totaling $439 million. The full-year 2026 outlook for Capex is projected between $2.1 billion and $2.3 billion ("Capital expenditures $2,100 - $2,300"). Additionally, the company is investing in digital transformation, integrating "AI and Autonomy" and "digital technologies" to drive growth.

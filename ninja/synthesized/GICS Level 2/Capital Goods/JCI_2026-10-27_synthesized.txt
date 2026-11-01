@@ -1,0 +1,25 @@
+Ticker: JCI
+Source: JCI_2026-10-27.txt
+Generated: 2026-11-01 18:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Johnson Controls (JCI)**
+
+**Demand & Activity**
+Demand is **robust** overall, characterized by significant momentum in the Americas and APAC, though it remains **softening** in EMEA. Growth is primarily driven by mission-critical infrastructure, specifically data centers ("increase in orders and backlog was supported by sustained demand for data centers").
+*   **Americas:** Robust growth; organic sales increased 14% ("Organic sales also increased 14% led by continued strength in both Applied HVAC Controls").
+*   **APAC:** Moderate to robust growth; organic sales increased 13% ("led by 15% growth in Product and Systems").
+*   **EMEA:** Softening/Stable; organic sales grew a modest 3%, hampered by geopolitical volatility ("continued pressure in the region due to the conflicts in the Middle East").
+
+**Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage inflation. The company noted "productivity and simplification improvements" ("continued productivity and simplification improvements, led to margin expansion"), but did not attribute this to labor cost changes.
+
+**Pricing Power & Inflation**
+The company demonstrates **moderate** pricing power, particularly in EMEA, where it helped offset regional headwinds ("increases were primarily driven by favorable pricing and productivity improvements"). While the "Cautionary Statement" mentions risks regarding "global price inflation," the current results show margin expansion driven by "strong operating leverage on higher revenue" ("primarily driven by strong operating leverage on higher revenue and favorable business mix").
+
+**Supply Chain & Inventory**
+The report does not provide specific data on current lead times or inventory levels. However, the company maintains a **robust** backlog of $23.0 billion, which increased 43% organically year-over-year ("Backlog of $23.0 billion increased 43% organically year-over-year"), suggesting a strong pipeline of future activity.
+
+**Capital Spending (Capex)**
+Specific future Capex figures were not disclosed; however, the company is focused on "transformation costs" and "cost reduction actions across corporate functions" ("decrease year-over-year is primarily due to ongoing cost reduction actions"). The outlook emphasizes "operating leverage" rather than aggressive capacity expansion.

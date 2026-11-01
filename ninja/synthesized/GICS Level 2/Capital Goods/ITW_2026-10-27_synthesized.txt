@@ -1,0 +1,22 @@
+Ticker: ITW
+Source: ITW_2026-10-27.txt
+Generated: 2026-11-01 18:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Illinois Tool Works (ITW)**
+
+**Demand & Activity:**
+Demand is growing moderately overall, with organic revenue growth of 3.8% ("Organic revenue growth was 3.8 percent"). Activity is robust in capex-related segments, specifically Welding and Test Measurement and Electronics ("accelerating demand in our capex-related segments, Welding and Test Measurement and Electronics"), and remains strong in Polymers Fluids. Geographic performance is led by moderate growth in North America ("led by 6.0 percent growth in North America"). However, demand is softening in Automotive OEM, Construction Products, and Specialty Products (Organic revenue: -2.1%, -0.8%, and -1.2% respectively).
+
+**Labor & Wages:**
+The provided text contains no specific mentions of hiring, turnover, or wage pressures.
+
+**Pricing Power & Inflation:**
+The company maintains robust pricing power, which is currently offsetting inflationary pressures. Price increases have more than compensated for rising input costs ("price increases and other actions more than offset rising raw material costs"), resulting in a favorable impact on operating margins.
+
+**Supply Chain & Inventory:**
+Inventory levels have increased modestly, rising from $1.66 billion at year-end 2025 to $1.82 billion as of Q3 2026. There are no specific mentions of current lead times or supply chain bottlenecks in the results.
+
+**Capital Spending (Capex):**
+While specific dollar amounts for new facilities are not listed, the company is investing in "Customer-Back Innovation" to drive above-market growth ("goal of 3 percent-plus Customer-Back Innovation yield"). Net plant and equipment remained stable at $2.25 billion.

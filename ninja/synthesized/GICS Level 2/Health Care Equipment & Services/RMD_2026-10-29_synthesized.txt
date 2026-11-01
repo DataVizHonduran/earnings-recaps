@@ -1,0 +1,22 @@
+Ticker: RMD
+Source: RMD_2026-10-29.txt
+Generated: 2026-11-01 18:50 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: ResMed Inc. (RMD)**
+
+**1. Demand & Activity**
+Demand is robust and growing globally, particularly for sleep devices and masks/accessories. Core constant currency revenue increased 7% ("driven by continued global demand for our sleep and breathing health solutions"). Growth is moderate and balanced across geographies, with Americas Sleep and Breathing Health revenue up 7% and Rest of World Sleep and Breathing Health up 8% ("On a core constant currency basis...").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is seeing modest margin expansion, though it is attributed to internal efficiencies rather than explicit price hikes. Non-GAAP gross margin increased 50 basis points to 62.5%, which was "predominantly from productivity pipeline execution." There is no mention of specific commodity or freight cost relief.
+
+**4. Supply Chain & Inventory**
+The provided text does not contain specific data regarding current lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment in technology and innovation remains a priority. The company is utilizing strong free cash flow and divestiture proceeds to "invest in innovation and growth initiatives" and "extending the reach of our digital health ecosystem." Research and development expenses saw a moderate increase of 15% year-over-year ("Research and development expenses... $103 [million] vs $89 [million]").
