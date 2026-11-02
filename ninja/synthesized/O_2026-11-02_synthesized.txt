@@ -1,0 +1,22 @@
+Ticker: O
+Source: O_2026-11-02.txt
+Generated: 2026-11-02 22:43 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Realty Income Corp (O)**
+
+**1. Demand & Activity**
+Demand for commercial real estate remains stable, with portfolio occupancy holding steady at 98.8% ("portfolio occupancy was 98.8%... as compared to 98.8% as of June 30, 2026"). Investment activity is robust, with the company reaffirming a $10.0 billion annual investment target ("reaffirming our $10.0 billion investment volume target"). There is a notable strategic shift toward industrial and data center assets; in Q3, these represented 57.3% and 11.7% of new cash income, respectively ("new properties are 31.0% retail, 57.3% industrial, and 11.7% data center").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company demonstrates modest pricing power through lease renewals, achieving a slight positive rent spread on re-leased properties ("Rent Recapture Rate of 103.5% on the re-leased units"). Same-store rental revenue grew by a modest 1.1% year-over-year ("Same Store Rental Revenue... % Increase... 1.1%"). Management notes that "economic and cost of capital volatility persists," though they maintain a "leverage-neutral spread of approximately 170 basis points."
+
+**4. Supply Chain & Inventory**
+Not applicable for this business model; however, the company is actively managing its property pipeline through both acquisitions and development ("Total real estate development... $145.2 [million]").
+
+**5. Capital Spending (Capex)**
+Capital allocation is robust and expanding globally. The company is aggressively investing in capacity via acquisitions and a new strategic joint venture in Europe with KKR ("Expanded our private capital platform into Europe through a strategic joint venture with KKR, supported by an initial $528.0 million investment"). Total investments for the first nine months of 2026 reached $7.9 billion ("Total investments... $7,901.5 [million]").
