@@ -1,0 +1,24 @@
+Ticker: CAT
+Source: CAT_2026-10-29.txt
+Generated: 2026-11-02 22:40 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Caterpillar Inc. (3Q 2026)**
+
+**1. Demand & Activity**
+Demand is **robust**, characterized by "strong order rates and a record backlog" ("strong order rates and a record backlog"). Growth is broad-based across all primary segments, with consolidated sales increasing 17% year-over-year.
+*   **Geographic Variance:** Activity is strongest in North America, where consolidated sales rose 24% ("North America... $12,017 [to] $20,682"). Demand is **softening** in the Asia Pacific region, where consolidated revenues declined 2% ("Asia Pacific... (2%)").
+*   **Product Variance:** Power Generation saw **robust** growth, particularly in "data center applications" ("primarily in data center applications").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+Caterpillar continues to exercise **moderate to robust** pricing power. The company reported "favorable price realization of $663 million" contributing to total revenue growth ("favorable price realization of $663 million"). While specific input cost inflation was not detailed, the company noted "favorable impacts from commodity hedges" ("partially offset by favorable impacts from commodity hedges").
+
+**4. Supply Chain & Inventory**
+Inventory levels appear to be in a state of flux. While overall sales volume increased, some growth in Latin America was specifically "driven by the impact from changes in dealer inventories" ("primarily driven by the impact from changes in dealer inventories"), suggesting a shift in channel stocking. Lead times were not explicitly mentioned.
+
+**5. Capital Spending (Capex)**
+The provided text does not disclose specific future capital expenditure plans or facility investments.

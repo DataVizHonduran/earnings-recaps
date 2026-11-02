@@ -1,0 +1,30 @@
+Ticker: COF
+Source: COF_2026-10-20.txt
+Generated: 2026-11-02 22:41 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Capital One Financial Corp (Q3 2026)**
+
+**1. Demand & Activity**
+Loan demand is showing modest growth overall, though activity varies by product line. Consumer Banking and Auto loans saw moderate growth, while Credit Card and Commercial Banking demand remained relatively stable.
+*   **Consumer Banking/Auto:** Moderate growth ("Consumer Banking period-end loans increased... 4 percent," "Auto period-end loans increased... 4 percent").
+*   **Credit Card/Commercial:** Stable/Slight growth ("Credit Card period-end loans increased... less than 1 percent," "Commercial Banking period-end loans increased... 1 percent").
+*   **Deposits:** Softening ("Period-end total deposits decreased $3.6 billion, or 1 percent").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is experiencing a slight increase in the cost of funding, though net interest margins have improved.
+*   **Funding Costs:** Slight increase ("Interest-bearing deposits rate paid increased 3 basis points to 2.94 percent").
+*   **Margins:** Robust improvement ("Net interest margin of 8.41 percent, an increase of 40 basis points").
+*   **Operating Costs:** Modest decline in overhead ("Total non-interest expense decreased 2 percent," "4 percent decrease in marketing").
+
+**4. Supply Chain & Inventory**
+Not applicable for this financial services entity.
+
+**5. Capital Spending (Capex)**
+Investment is currently focused on technology and the integration of acquired entities to drive long-term efficiency.
+*   **Integration/Tech:** Robust investment in synergy realization ("Discover integration continues to go well," "Brex integration expenses $47 [million]").
+*   **General Strategy:** Sustained investment ("We continue to invest to deliver sustained growth and value creation over the long-term").

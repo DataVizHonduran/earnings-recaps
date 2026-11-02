@@ -1,0 +1,22 @@
+Ticker: MOH
+Source: MOH_2026-10-21.txt
+Generated: 2026-11-02 22:43 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Molina Healthcare (MOH)**
+
+**1. Demand & Activity**
+Demand is softening, characterized by a moderate decline in membership. Premium revenue decreased 4% year-over-year, primarily driven by "lower membership in Medicaid and Marketplace" ("The lower premium revenue reflects the impact of lower membership in Medicaid and Marketplace").
+
+**2. Labor & Wages**
+Not explicitly discussed. However, the company reports "continued operating discipline" regarding its General and Administrative (G&A) ratio, which remained stable at 6.4% ("reflecting continued operating discipline").
+
+**3. Pricing Power & Inflation**
+The company is experiencing persistent inflationary pressure in service costs, though it appears to be stabilizing. Medical cost trends remain "at elevated levels," but management notes an "apparent plateauing of medical cost trend" ("With the apparent plateauing of medical cost trend, which remains at elevated levels"). There is evidence of modest pricing power via government reimbursement, with management citing the "strength of recent rate updates for 2027" as a catalyst for a potential recovery in Medicaid margins.
+
+**4. Supply Chain & Inventory**
+Not applicable for this service-sector entity. Claims processing remains stable, with days in claims payable at 44 days, which is "consistent with June 30, 2026."
+
+**5. Capital Spending (Capex)**
+Specific future facility or technology investment plans were not detailed; however, the company is undergoing a strategic pivot by exiting the "traditional MAPD product" for 2027 ("performance of the traditional MAPD product, which the Company previously announced it will exit for 2027").

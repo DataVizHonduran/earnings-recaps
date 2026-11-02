@@ -1,0 +1,22 @@
+Ticker: CLX
+Source: CLX_2026-11-02.txt
+Generated: 2026-11-02 22:41 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Clorox Co (CLX)**
+
+**1. Demand & Activity**
+Demand appears **moderate**, though current growth figures are heavily skewed by the "lapping" of previous inventory disruptions. Organic sales increased 18% ("reflecting the impact of lapping the ERP transition-related inventory drawdown"), but the underlying outlook for organic growth is more modest at 3.5% to 4.5%. Geographically, activity is **robust** in Latin America ("supported by strong shipments across several regions, particularly in Latin America").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is experiencing **persistent** inflationary pressure. Management notes the "cost environment has become more challenging" with "higher inflationary pressures reflected in our updated outlook." Specifically, gross margins were squeezed by "higher commodity costs and higher manufacturing and logistics costs." While the company is taking "pricing actions," these are currently being "more than offset" by "higher-than-normal inflationary headwinds."
+
+**4. Supply Chain & Inventory**
+Inventory levels have **stabilized** following a period of volatility. The company has moved past a significant "ERP transition-related inventory drawdown" that occurred in fiscal year 2026, which had previously resulted in "lower shipments." Current activity reflects a return to normal shipping patterns as they "lap" that drawdown.
+
+**5. Capital Spending (Capex)**
+Investment is focused on **moderate** productivity and innovation. The company is "continuing to advance productivity initiatives and capabilities" and investing in "consumer-inspired innovation" across its product portfolio (e.g., new formats for Burt’s Bees and Purell). There are no mentions of major new facility construction, but there is ongoing spending related to the "integrating [of] GOJO."

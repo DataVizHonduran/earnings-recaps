@@ -1,0 +1,22 @@
+Ticker: AMZN
+Source: AMZN_2026-10-29.txt
+Generated: 2026-11-02 22:40 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Amazon (Q3 2026)**
+
+**1. Demand & Activity**
+Demand is **robust**, characterized by strong growth in cloud services and modest gains in retail. AWS experienced "fastest growth in nearly five years" with sales increasing 39% ("AWS segment sales increased 39% year-over-year"). Retail demand remains positive but more tempered, with North America sales increasing 6% and International sales increasing 5% ("North America segment sales increased 6% year-over-year"). Specific product-line strength is noted in groceries, which are growing "about 3x faster than the rest of the store."
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is focusing on value-based pricing to capture market share, reporting that it helped U.S. customers "save billions" through "everyday low prices" ("averaging over $1,000 per customer each year"). There is no specific mention of input cost inflation or relief, though the company reports "improving margins" in its retail segment.
+
+**4. Supply Chain & Inventory**
+Logistics activity is **robust**, with a significant shift toward ultra-fast fulfillment. The company achieved its "fastest Q3 speeds ever," with 1.5 billion items arriving same-day or overnight ("more than 1.5 billion items arriving same-day or overnight in the quarter"). No specific data on inventory bloating or lead-time constraints was provided.
+
+**5. Capital Spending (Capex)**
+Capex is **expanding aggressively**, driven by artificial intelligence infrastructure. The company reported a substantial year-over-year increase of $94.8 billion in property and equipment purchases ("increase of $94.8 billion in purchases of property and equipment"), explicitly stating this "primarily reflects investments in artificial intelligence." Future investment remains high, with projected AWS revenue growth rates of "over 40% both in 2027 and in 2028."

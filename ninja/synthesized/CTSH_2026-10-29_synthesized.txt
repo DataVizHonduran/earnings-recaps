@@ -1,0 +1,22 @@
+Ticker: CTSH
+Source: CTSH_2026-10-29.txt
+Generated: 2026-11-02 22:41 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Cognizant (CTSH)**
+
+**1. Demand & Activity**
+Demand is showing modest growth overall, though performance is bifurcated. Financial Services is experiencing robust activity ("double-digit growth in Financial Services"), while broader momentum is more tempered, as evidenced by a moderate decline in quarterly bookings ("Bookings in the third quarter declined 7% year-over-year"). The company notes a shift in AI demand from experimental to operational ("AI market is moving from capability to value realization").
+
+**2. Labor & Wages**
+Headcount is expanding slightly ("increase of 10,100 from September 30, 2025"), and voluntary attrition remains stable ("Voluntary Attrition - Tech Services was 12.6%"). However, the company is actively pursuing productivity gains through automation and restructuring, including targeted headcount reductions via "Project Leap" ("$150 million to $200 million of employee severance and other personnel related costs").
+
+**3. Pricing Power & Inflation**
+The company is demonstrating moderate pricing power or operational efficiency, as evidenced by consistent margin expansion ("seventh consecutive quarter of year-over-year adjusted operating margin expansion"). There is a clear trend toward improving labor productivity via AI to offset costs ("continued improvement in revenue and adjusted operating income per employee").
+
+**4. Supply Chain & Inventory**
+Not applicable. (No mentions of physical supply chain constraints or inventory levels).
+
+**5. Capital Spending (Capex)**
+Investment is focused on technology and human capital rather than physical capacity. The company is directing significant funds toward AI infrastructure and workforce upskilling through "Project Leap" ("funding investments in our integrated offerings, AI capabilities and partnerships... and upskilling our workforce"). Total estimated costs for this transformation program are moderate ("$180 million to $250 million").

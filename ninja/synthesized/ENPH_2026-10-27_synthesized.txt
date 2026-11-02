@@ -1,0 +1,17 @@
+Ticker: ENPH
+Source: ENPH_2026-10-27.txt
+Generated: 2026-11-02 22:42 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Enphase Energy (Q3 2026)**
+
+**1. Demand & Activity:** Demand is softening globally. U.S. residential solar demand is described as "soft" ("smaller than anticipated increase due to soft residential solar demand"), with U.S. sell-through declining 35% year-over-year. European demand is also softening, particularly in France, exacerbated by "summer seasonality and continued weakness in certain solar markets" ("European sell-through declined 12% sequentially"). Management expects a further moderate decline in Q4, with sell-through projected to be "down 10%, compared with the third quarter of 2026."
+
+**2. Labor & Wages:** No specific mentions of hiring, turnover, or wage pressures were provided in the report.
+
+**3. Pricing Power & Inflation:** The company is facing modest margin pressure. Non-GAAP gross margins declined slightly to 45.0% from 46.8%, primarily "driven by product mix." There is persistent pressure from trade policy, as "reciprocal tariffs reduced gross margin by approximately 1.3 percentage points."
+
+**4. Supply Chain & Inventory:** While specific lead times were not disclosed, global sell-through was "below our expectation of 10% growth," suggesting a misalignment between supply/shipments and end-market absorption.
+
+**5. Capital Spending (Capex):** Capex remains modest and is trending slightly lower, totaling $11.5 million in Q3 compared to $14.4 million in Q2. Investment is currently focused on R&D for new technology, specifically the IQ Solid-State Transformer (IQ SST) for AI data centers, with "power modules for our IQ SST are now being built in the United States to assemble and validate full-scale IQ SST racks."
