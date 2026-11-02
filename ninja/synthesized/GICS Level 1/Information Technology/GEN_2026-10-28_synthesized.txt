@@ -1,0 +1,22 @@
+Ticker: GEN
+Source: GEN_2026-10-28.txt
+Generated: 2026-11-02 22:42 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Gen Digital Inc. (GEN)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by six consecutive quarters of double-digit bookings growth ("delivered our sixth consecutive quarter of double-digit bookings growth"). The company reports a "record high customer count" and notes that "customer demand is strong," particularly as they expand services to address an "increasingly agentic AI world."
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate pricing power or volume growth, as evidenced by a 12% year-over-year increase in net revenues ("Revenue of $1.369 billion, up 12%"). While the company lists "the impact of inflation" as a general risk factor in its forward-looking statements, there is no indication of current persistent input cost pressure impacting margins.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a digital services provider, the company does not report physical supply chain lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment is focused on technology and platform scalability rather than physical capacity. The company is maintaining "continued investment in our platform" to build a "security and trust layer" for AI agents. Management indicates they remain "disciplined about investment" while prioritizing "highest potential opportunities."

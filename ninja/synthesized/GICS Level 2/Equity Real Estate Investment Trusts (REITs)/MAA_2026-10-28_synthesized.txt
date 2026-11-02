@@ -1,0 +1,11 @@
+Ticker: MAA
+Source: MAA_2026-10-28.txt
+Generated: 2026-11-02 22:42 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided document, there is **insufficient data** to provide an economic analysis.
+
+The attached text is a **Table of Contents** and a series of hyperlinks for an earnings release (Exhibit 99.1), but it does not contain the actual financial narratives, management commentary, or data tables required to identify economic signals.
+
+The document lists sections such as "Earnings Release," "Financial Highlights," and "Consolidated Statements of Operations," but the substantive content of those sections was not included in the provided text.

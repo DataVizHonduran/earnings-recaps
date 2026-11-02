@@ -1,0 +1,22 @@
+Ticker: GRMN
+Source: GRMN_2026-10-28.txt
+Generated: 2026-11-02 22:42 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Garmin Ltd. (GRMN)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by record-breaking top-line growth. Consolidated revenue increased by 12% year-over-year ("Record consolidated revenue of $1.99 billion, a 12% increase compared to the prior year quarter"). Activity remains strong in the aviation sector, specifically regarding flight deck retrofits ("delivery of our 1,000th G1000 integrated flight deck retrofit for King Air aircraft").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is experiencing moderate to robust margin expansion, suggesting strong pricing power or efficient cost management. Both gross and operating margins expanded compared to the prior year ("Gross and operating margins expanded to 63.3% and 30.8% respectively").
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for Capex are not listed, the company is actively investing in product development and technology expansion, specifically within its wearable and aviation lines ("expanding our flagship performance smartwatch lineup" and the deployment of the "certified autonomous system" Autoland).

@@ -1,0 +1,22 @@
+Ticker: PHM
+Source: PHM_2026-10-22.txt
+Generated: 2026-11-02 22:43 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: PulteGroup (PHM) 3Q 2026**
+
+**1. Demand & Activity: Softening**
+Demand is declining as affordability constraints push buyers to the sidelines. Net new orders decreased 6% year-over-year ("net new orders totaled 6,208 homes, which is down 6% from the prior year"), and closings fell 9% ("a 9% decrease in closings to 6,876 homes"). Management attributes this to "rising mortgage rates, widespread inflation, and global unrest," noting that interest rates have "stretched affordability even further" and "pushed even more consumers to the sidelines." Activity remains more robust in the "move-up and active-adult" segments, which now comprise over 60% of the business.
+
+**2. Labor & Wages: Stable/Not Specified**
+The provided text contains no specific updates regarding current hiring, turnover, or wage adjustments for the quarter.
+
+**3. Pricing Power & Inflation: Softening**
+Pricing power is moderating as the company balances sales pace against affordability. The average sales price of closed homes saw a slight decrease of 1% ("a 1% decrease in the average sales price of homes closed to $561,000"). Gross margins declined to 24.8% from 26.2% in the prior year, impacted by "land impairments recorded in the period" ($26 million).
+
+**4. Supply Chain & Inventory: Moderate Growth**
+Inventory levels are increasing. The unit backlog grew 4% to 10,298 homes, with the total backlog value increasing 3% to $6.4 billion. House and land inventory on the balance sheet rose to $14.1 billion from $12.9 billion at year-end 2025. Management indicated they are continuing to "align production accordingly" to match the slowing pace of sales.
+
+**5. Capital Spending (Capex): Disciplined**
+Specific new facility or technology expenditures were not detailed, but management emphasized a "disciplined" approach to the "allocation of capital" amid the current economic environment.

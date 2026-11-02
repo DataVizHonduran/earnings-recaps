@@ -1,0 +1,22 @@
+Ticker: STZ
+Source: STZ_2026-10-06.txt
+Generated: 2026-11-02 22:44 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Constellation Brands (STZ)**
+
+**1. Demand & Activity**
+Demand is **moderate to robust**, characterized by category-leading share gains despite mixed internal volume trends. The Beer business saw a modest increase in shipment volumes (+5.5%) and outperformed the total category by 4 percentage points ("outperforming the total beer category by 4 percentage points in year-over-year dollar and volume sales"). However, underlying depletion trends were slightly softening for core brands, with Modelo Especial and Corona Extra declining approximately 2% and 5% respectively, though offset by robust growth in Pacifico (+19%) and Victoria (+15%). The Wine and Spirits segment showed robust growth, with depletions increasing 10.2%.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is experiencing modest input cost relief, specifically regarding trade costs. Operating margins in the Wine and Spirits segment improved due to "favorability in COGS from recoveries of U.S. tariffs." In the Beer business, "lower tariff expenses and favorable fixed cost absorption" were noted, though these gains were offset by increased internal spending on marketing and SG&A.
+
+**4. Supply Chain & Inventory**
+There are no specific mentions of lead times or inventory bloating; however, the company reports a stable flow of goods with shipment volumes increasing across both primary business segments.
+
+**5. Capital Spending (Capex)**
+Capital investment remains stable and disciplined. The company has projected total capital expenditures of $800 million for fiscal 2027 ("Capital expenditures $800 million"). Additionally, the company is pursuing strategic growth through acquisitions, recently spending $75 million at close to acquire the SpikedAde brand to expand into the "fast-growing RTD category."
