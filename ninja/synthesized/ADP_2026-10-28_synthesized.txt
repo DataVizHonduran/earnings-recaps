@@ -1,0 +1,22 @@
+Ticker: ADP
+Source: ADP_2026-10-28.txt
+Generated: 2026-11-03 20:27 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: ADP Q1 FY2027**
+
+**1. Demand & Activity**
+Demand remains **moderate** to **robust**. Total revenues increased 6% organically, with Employer Services revenue growing 6% and PEO Services increasing 7%. Growth is driven by clients seeking help with the "complexity of work" ("The complexity of work is growing faster than employers can manage alone"). Activity in the U.S. payroll sector shows **slight** growth, with U.S. pays per control increasing 2% in Q1, with a projected increase of "about 1%" for the full year.
+
+**2. Labor & Wages**
+Labor demand appears **stable** to **modestly growing**. The PEO segment reported a **slight** increase in the average worksite employee count, which rose 2% to approximately 771,000 ("Average worksite employees paid by PEO Services increased 2%"). There are no specific mentions of wage inflation or hiring difficulties in the provided text.
+
+**3. Pricing Power & Inflation**
+The company demonstrates **moderate** pricing power and margin expansion, with adjusted EBIT margins increasing 130 basis points to 26.8%. While specific price hike percentages are not listed, the company is seeing significant gains from interest rate environments; interest on funds held for clients increased 15% to $329 million, with the average yield increasing 30 basis points to 3.6% ("The average interest yield on client funds increased 30 basis points to 3.6%").
+
+**4. Supply Chain & Inventory**
+Not applicable. As a service-based HCM provider, ADP does not report physical supply chain lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment is focused on technology and digital transformation. The company is maintaining a "disciplined investment approach" to accelerate its "AI transformation" ("Our ongoing commitment to a disciplined investment approach is enabling us to drive our AI transformation forward"). Research and development spending remained **stable** quarter-over-quarter at approximately $251 million.
