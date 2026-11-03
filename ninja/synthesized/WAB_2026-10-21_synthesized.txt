@@ -1,0 +1,22 @@
+Ticker: WAB
+Source: WAB_2026-10-21.txt
+Generated: 2026-11-03 20:31 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Wabtec (WAB)**
+
+**1. Demand & Activity:**
+Demand is robust across the portfolio, with sales increasing 8.1% year-over-year ("translate healthy customer demand into profitable growth"). Growth is broad-based across Freight and Transit segments. Specifically, Digital sales saw strong growth (+24.2%), and Services grew (+6.7%) due to "core services demand and higher modernization deliveries." However, activity is mixed in Equipment; mining sales increased, but were "partially offset by lower locomotive deliveries." International and industrial demand remains moderate, offsetting "lower North America rail build." The multi-year backlog grew significantly by 22.9% ("provide strong visibility").
+
+**2. Labor & Wages:**
+Not addressed in the provided text.
+
+**3. Pricing Power & Inflation:**
+The company is experiencing moderate margin expansion, with Adjusted Operating Margin increasing 1.9 points to 22.9%. This was driven by "improved gross margins" and "lower operating expenses as a percentage of revenue," suggesting effective cost management or pricing power, though specific mentions of price hikes or commodity relief were absent.
+
+**4. Supply Chain & Inventory:**
+Not addressed in the provided text.
+
+**5. Capital Spending (Capex):**
+Wabtec is maintaining a steady investment in technology to enhance its competitive position ("investing in technologies that will advance the future of transportation"). Growth has also been driven by strategic acquisitions, including Frauscher Sensor Technologies and Dellner Couplers.
