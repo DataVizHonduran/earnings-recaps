@@ -1,0 +1,22 @@
+Ticker: EQIX
+Source: EQIX_2026-10-28.txt
+Generated: 2026-11-03 20:28 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Equinix (EQIX)**
+
+**1. Demand & Activity:**
+Demand is **robust**, characterized by record-breaking activity and double-digit growth in key metrics. This is driven by a broad base of traditional and AI-related workloads ("robust demand and strengthening pricing"). Growth is particularly strong in interconnection services, with Fabric revenue increasing 24% year-over-year ("Fabric revenue up 24% year over year").
+
+**2. Labor & Wages:**
+No specific mentions of hiring difficulties, turnover, or wage pressures were provided in the report.
+
+**3. Pricing Power & Inflation:**
+The company is demonstrating **moderate to robust** pricing power, citing "strengthening pricing" as a contributor to record annualized gross bookings of $533 million. There were no specific mentions of input cost relief or persistent inflationary pressures on commodities or energy.
+
+**4. Supply Chain & Inventory:**
+While specific lead times were not detailed, the company has successfully "accelerated new capacity delivery," indicating a capable supply chain for infrastructure expansion. The company is delivering significantly more capacity than previously forecasted ("nearly 40% more cabinets planned for delivery in 2026 than initially anticipated").
+
+**5. Capital Spending (Capex):**
+Investment in capacity and technology remains **robust**. Total capital expenditures for 2026 are projected between $5 billion and $6 billion ("Total capital expenditures are expected to range between $5 and $6 billion"). Significant investments are being directed toward AI-ready infrastructure, including liquid cooling environments ("production-ready liquid cooling environments") and long-term regional investments, such as over $1.6 billion in Texas ("reinforcing more than $1.6 billion in long-term investment across the state").

@@ -1,0 +1,22 @@
+Ticker: GEHC
+Source: GEHC_2026-10-28.txt
+Generated: 2026-11-03 20:28 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**GE HealthCare (GEHC) Economic Signal Summary**
+
+**Demand & Activity:**
+Demand is robust, with organic revenue growth of 6.2% and organic orders increasing 4.0% ("driven by healthy demand"). Growth is broad-based across all segments, though particularly strong in Pharmaceutical Diagnostics, which saw organic revenue growth of 13.8% ("Segment Revenues... PDx... YoY % Organic change 13.8%"). The book-to-bill ratio of 1.03 indicates a slight expansion of the $23.7 billion backlog.
+
+**Labor & Wages:**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage pressures.
+
+**Pricing Power & Inflation:**
+The company demonstrates moderate pricing power, noting that margin expansion was "driven by volume, price and cost productivity." However, these gains were "partially offset by inflation," suggesting that persistent inflationary pressures remain a headwind despite the ability to raise prices.
+
+**Supply Chain & Inventory:**
+Inventory levels appear to be increasing. Inventories rose to $2.6 billion as of September 30, 2026, compared to $2.2 billion at the end of 2025 ("Inventories 2,608 [vs] 2,234"). Cash flow statements indicate a significant cash outlay for inventory build-up during the first nine months of the year ("Inventories (430)").
+
+**Capital Spending (Capex):**
+Capital spending remains stable, with quarterly expenditures of $114 million compared to $110 million in the prior year ("Capital expenditures of $114 million compared to $110 million in the prior year"). The company is shifting toward strategic inorganic investment, evidenced by the planned $945 million acquisition of SOFIE Biosciences to establish a "final mile" footprint for radiopharmaceutical supply.

@@ -1,0 +1,17 @@
+Ticker: HII
+Source: HII_2026-10-29.txt
+Generated: 2026-11-03 20:29 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: HII (Q3 2026)**
+
+**1. Demand & Activity:** Robust. Total revenues increased 10.8% year-over-year ("revenues of $3.5 billion were up 10.8% from the third quarter of 2025"). Demand is particularly strong in shipbuilding, with new contract awards totaling $32.4 billion in Q3, securing approximately 90% of expected shipbuilding revenue through 2030 ("secured approximately 90 percent of our expected shipbuilding revenue through 2030"). Growth is driven by higher volumes in submarines, aircraft carriers ("higher volumes in submarines and aircraft carriers"), and amphibious assault ships ("primarily driven by higher volumes in amphibious assault ships").
+
+**2. Labor & Wages:** Stable. The company employs 46,000 people across three divisions ("employs 46,000 people across three divisions"). While there are no specific mentions of wage inflation or hiring difficulties, the company is actively pursuing automation to augment labor productivity ("accelerate the development and deployment of advanced automation across U.S. Navy shipbuilding programs").
+
+**3. Pricing Power & Inflation:** Moderate. The company is seeing positive impacts from contract adjustments and incentives, particularly in the Virginia-class submarine program ("primarily driven by contract adjustments and incentives in the Virginia-class submarine program"). There is no specific mention of raw material inflation or commodity relief in the provided text.
+
+**4. Supply Chain & Inventory:** Stable. The company is utilizing "distributed shipbuilding" to manage production capacity ("Expanded distributed shipbuilding to amphibious ships"). There are no reports of bloated inventories or critical lead-time delays, though the company continues to secure long-lead materials for future hulls ("Awarded long-lead time materials contract for the construction of planned aircraft carrier CVN 82").
+
+**5. Capital Spending (Capex):** Moderate. Capex is projected at 4% to 5% of sales ("Capital Expenditures 4% - 5% of Sales"). Investment is focused on expanding capacity for high-growth sectors, specifically unmanned systems ("Expanded unmanned production facility by 25% to meet growing global maritime demand").

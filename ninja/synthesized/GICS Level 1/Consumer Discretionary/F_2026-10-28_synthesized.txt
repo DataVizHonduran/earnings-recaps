@@ -1,0 +1,22 @@
+Ticker: F
+Source: F_2026-10-28.txt
+Generated: 2026-11-03 20:28 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Ford Motor Co. (Q3 2026)**
+
+**Demand & Activity**
+Demand is softening, with total wholesale units declining by 9% year-over-year ("Wholesale Units... 1,049 (9)%"). This weakness is most pronounced in the EV segment, where wholesales dropped 31% ("Ford Model e Segment Wholesales... (31)%"). Activity in the gas/hybrid (Ford Blue) and commercial (Ford Pro) segments also saw modest declines in volume, partly attributed to "product discontinuations" and the "impact of the Middle East conflict."
+
+**Labor & Wages**
+The report does not provide specific data on wage increases or headcount changes, though it notes that the ability to "attract, develop, grow, support, and reward talent" remains critical to competitiveness.
+
+**Pricing Power & Inflation**
+The company is facing persistent inflationary pressure, specifically regarding raw materials. Ford anticipates "commodity headwinds approaching $2.5 billion year-over-year" and is focused on performing "in the face of rising inflationary costs." To offset this, the company expects modest pricing power, projecting "U.S. industry pricing about 100 basis points higher year-over-year."
+
+**Supply Chain & Inventory**
+Supply chain conditions remain a risk factor, with the company noting it is "highly dependent on its suppliers to deliver components" and that shortages of raw materials have previously "disrupted Ford’s operations." No specific current lead-time data was provided, but the company is pursuing "material cost reduction objectives" to improve margins.
+
+**Capital Spending (Capex)**
+Capex remains robust as the company invests in its technological transition. Full-year capital expenditures are expected to be between "$9.5 billion to $10.5 billion." Investments are focused on the "Universal Electric Vehicle platform," "Ford Energy," and "smarter investments" to improve capital efficiency.

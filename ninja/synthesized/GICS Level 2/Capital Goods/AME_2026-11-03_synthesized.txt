@@ -1,0 +1,22 @@
+Ticker: AME
+Source: AME_2026-11-03.txt
+Generated: 2026-11-03 20:27 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: AMETEK (AME)**
+
+**1. Demand & Activity**
+Demand is robust and broad-based. The company reported record sales of $2.22 billion, driven by "strong organic sales and orders growth" ("Continued strong organic sales and orders growth"). Growth is consistent across primary segments, with the Electronic Instruments Group seeing "robust sales growth" ("EIG delivered excellent results... with robust sales growth") and the Electromechanical Group experiencing "outstanding, broad-based organic sales growth" ("driven by outstanding, broad-based organic sales growth"). Outlook remains positive, with Q4 sales expected to increase in the "low 20% range" ("overall sales are expected to be up in the low 20% range").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, wage inflation, or headcount adjustments.
+
+**3. Pricing Power & Inflation**
+The company is demonstrating moderate to strong pricing power and operational efficiency, evidenced by "core margin expansion" of 110 basis points ("an excellent 110 basis points of core margin expansion"). While specific commodity price trends are not detailed, the ability to grow adjusted operating profit by 20% suggests that revenue growth is outpacing input cost pressures.
+
+**4. Supply Chain & Inventory**
+Inventory levels have increased moderately, rising from $1.11 billion in 2025 to $1.37 billion in 2026 (Consolidated Balance Sheet). The company notes that "supply chain disruptions" remain a general risk factor in its forward-looking statements ("risks related to... supply chain disruptions"), but no current acute bottlenecks were reported in the executive commentary.
+
+**5. Capital Spending (Capex)**
+Capital investment is stable but increasing. Quarterly capital expenditures rose to $33.2 million from $20.9 million in the prior year period (Reconciliations Table). The company continues to prioritize "disciplined capital deployment" primarily through a "strategic acquisition strategy" ("the value of our disciplined capital deployment and acquisition strategy"), highlighted by the recent acquisition of Indicor Instrumentation ("completed the acquisition of Indicor Instrumentation").

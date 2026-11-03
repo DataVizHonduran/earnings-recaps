@@ -1,0 +1,22 @@
+Ticker: MTB
+Source: MTB_2026-10-16.txt
+Generated: 2026-11-03 20:29 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: M&T Bank Corp (3Q26)**
+
+**1. Demand & Activity**
+Loan demand is showing moderate growth. Average loans increased by $2.6 billion sequentially, driven primarily by robust activity in commercial real estate (+$1.6 billion), followed by modest gains in consumer (+$634 million) and residential real estate (+$367 million) balances ("Average loans grew $2.6 billion in the recent quarter"). Deposit growth is also described as "strong" ("results were highlighted by strong loan and deposit growth").
+
+**2. Labor & Wages**
+The company reports slight upward pressure on personnel costs, though this is attributed to calendar effects rather than systemic wage inflation ("higher personnel costs from an additional working day in the recent quarter"). No mentions of hiring difficulties or headcount reductions were noted.
+
+**3. Pricing Power & Inflation**
+The bank is experiencing modest pressure on margins. The net interest margin declined slightly to 3.65% from 3.70% ("Net interest margin 3.65% 3.70%"). While the bank saw "lower rates paid on average interest-bearing deposits" year-over-year, this was partially offset by "lower yields received on loans."
+
+**4. Supply Chain & Inventory**
+Not applicable. (Financial services entity).
+
+**5. Capital Spending (Capex)**
+Investment in technology is ongoing, with a focus on infrastructure modernization. The company reported increased spending on "outside data processing and software costs" ("Noninterest expense reflects increases in outside data processing and software costs"). Additionally, the bank recently completed the "implementation of a new general ledger platform during the second quarter of 2026."

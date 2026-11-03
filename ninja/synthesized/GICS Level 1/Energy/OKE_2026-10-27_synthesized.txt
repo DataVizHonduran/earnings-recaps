@@ -1,0 +1,22 @@
+Ticker: OKE
+Source: OKE_2026-10-27.txt
+Generated: 2026-11-03 20:29 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: ONEOK (OKE)**
+
+**Demand & Activity:**
+Demand and throughput are growing robustly, particularly in the Permian Basin. The company reported a 6% increase in NGL raw feed throughput, driven by a 16% surge in the Gulf Coast/Permian region ("16% increase in the Gulf Coast/Permian region"). Refined products volumes shipped grew by 6%, and Permian natural gas volumes processed increased by 4% ("4% increase in Permian region natural gas volumes processed"). Management expects "meaningful earnings growth" in 2027 based on "growing energy demand."
+
+**Labor & Wages:**
+Labor costs are experiencing moderate upward pressure linked to operational expansion. The company noted multiple increases in "employee-related costs associated with the growth of ONEOK’s operations" across its NGL, Refined Products, and Natural Gas segments (e.g., "$7 million of higher employee-related costs associated with the growth of ONEOK’s operations").
+
+**Pricing Power & Inflation:**
+Pricing signals are mixed. The company is benefiting from "higher realized condensate and natural gas prices" in some areas, though this was partially offset by "lower realized NGL prices" ("lower realized NGL prices, net of hedging"). There is evidence of softening fee rates in certain regions, specifically a "decrease from lower average fee rates and narrower product price differentials in the Gulf Coast/Permian and Mid-Continent regions."
+
+**Supply Chain & Inventory:**
+Inventory levels for unfractionated NGLs have increased, which acted as a drag on exchange services earnings ("$45 million decrease from higher inventory of unfractionated NGLs"). No specific mentions of lead-time constraints or bloated equipment inventories were provided.
+
+**Capital Spending (Capex):**
+Capex is expanding moderately to support capacity growth and acquisitions. Total 2026 capital expenditure guidance is approximately $3.5 billion ("Total 2026 capital expenditure guidance is expected to be approximately $3.5 billion"). This increase is attributed to "enhanced growth opportunities" and the integration of the Brazos Permian Midland acquisition.

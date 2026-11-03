@@ -1,0 +1,25 @@
+Ticker: PNR
+Source: PNR_2026-10-27.txt
+Generated: 2026-11-03 20:30 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Pentair plc (PNR)**
+
+**Demand & Activity**
+Overall demand is softening, with core sales declining 5% in Q3. Activity is bifurcated by product line:
+*   **Pool:** Robust decline, with sales down 18% ("Pool sales were down 18 percent compared to sales for the same period last year").
+*   **Flow & Water Solutions:** Modest growth, with core sales increasing 1% in both segments ("core sales grew 1 percent in the third quarter").
+*   **Outlook:** Management expects a moderate recovery in Q4 (sales up 7% to 9%) and anticipates "robust growth in 2027."
+
+**Labor & Wages**
+The provided text contains no specific mentions of current hiring trends, wage increases, or headcount reductions.
+
+**Pricing Power & Inflation**
+The company does not explicitly detail current price hikes, but identifies "pricing pressures" and "inflation volatility" regarding raw materials, logistics, and labor as ongoing risk factors ("the impact of raw material, logistics and labor costs and other inflation volatility").
+
+**Supply Chain & Inventory**
+Inventory levels in the Pool segment have undergone a significant correction. The company has completed a "right-sizing" effort with distributors to lean out bloated stocks ("reflected the completion of the inventory realignment with our major channel partners").
+
+**Capital Spending (Capex)**
+While specific dollar amounts for facilities are not listed, the company is investing in growth through inorganic expansion, specifically the "acquisition of Taco Group Holdings (Taco)."

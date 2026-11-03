@@ -1,0 +1,25 @@
+Ticker: PPG
+Source: PPG_2026-10-27.txt
+Generated: 2026-11-03 20:30 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: PPG Industries (Q3 2026)**
+
+**1. Demand & Activity:**
+Demand is showing moderate growth, with organic sales increasing 5% ("solid 5% increase in organic sales"). Activity is bifurcated by sector:
+*   **Robust:** Aerospace ("double-digit percentage organic sales growth") and Packaging coatings ("organic sales increased by a double-digit percentage").
+*   **Moderate/Stable:** Protective and marine coatings ("14th consecutive quarter of sales volume growth") and Latin American architectural coatings ("supported by strong retail sales").
+*   **Softening:** Automotive OEM coatings saw a "low single-digit percentage" organic decrease, though the company is gaining market share relative to global production.
+
+**2. Labor & Wages:**
+The transcript contains no specific mentions of hiring difficulties, turnover, or wage inflation.
+
+**3. Pricing Power & Inflation:**
+The company maintains robust pricing power, utilizing "selling price actions in all regions" to offset persistent input costs. Overall net sales increased 7%, driven partly by a 3% increase in selling prices ("commercial actions fully offset the impact of cost of goods sold inflation"). However, inflation remains a headwind in the Industrial Coatings segment, where "cost of goods sold inflation remains high," leading to margin contraction.
+
+**4. Supply Chain & Inventory:**
+No specific mentions of lead times or inventory levels were provided in the text.
+
+**5. Capital Spending (Capex):**
+While specific dollar amounts for new facilities are not listed, the company is investing in operational efficiency and "productivity enhancements, footprint optimization, and structural cost actions" specifically within the European Architectural business to improve efficiency.
