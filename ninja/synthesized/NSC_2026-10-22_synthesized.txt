@@ -1,0 +1,22 @@
+Ticker: NSC
+Source: NSC_2026-10-22.txt
+Generated: 2026-11-04 20:47 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Norfolk Southern (NSC)**
+
+**1. Demand & Activity**
+Demand for rail services showed modest growth, with volumes increasing 3% year-over-year ("volume increase of 3% year-over-year"). Management noted that a "tighter trucking market" has increased the competitive appeal of rail, suggesting a shift in modal share ("a tighter trucking market highlighted rail's competitive advantages").
+
+**2. Labor & Wages**
+Not addressed in the provided text.
+
+**3. Pricing Power & Inflation**
+The company is experiencing persistent inflationary pressure from energy costs ("disciplined cost control despite rising fuel costs"). However, NSC has successfully passed some of these costs through to customers, as higher fuel surcharges contributed significantly to revenue growth ("higher fuel surcharges representing eight points of the revenue growth").
+
+**4. Supply Chain & Inventory**
+Not addressed in the provided text.
+
+**5. Capital Spending (Capex)**
+Management indicated a commitment to moderate future investment in infrastructure to support anticipated growth and improve network resilience ("focused on investing in a stronger, more resilient rail network that can support growth we see on the horizon").

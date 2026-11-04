@@ -1,0 +1,22 @@
+Ticker: SBUX
+Source: SBUX_2026-10-29.txt
+Generated: 2026-11-04 20:47 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: SBUX**
+
+**Demand & Activity:**
+Demand is showing moderate growth in North America, with U.S. comparable coffeehouse sales increasing 7.7% in Q4 ("U.S. comparable coffeehouse sales increased 7.7%"). This was supported by a modest increase in transactions ("2.4% increase in comparable transactions"). Conversely, international demand is softening, characterized by a decline in comparable transactions ("International... partially offset by a 2.8% decline in comparable transactions").
+
+**Labor & Wages:**
+The company has made moderate labor investments to support its strategic turnaround, which acted as a headwind to full-year margin expansion ("partially offset by labor investments largely in support of Back to Starbucks"). No specific mentions of hiring difficulty or turnover were provided.
+
+**Pricing Power & Inflation:**
+SBUX demonstrates robust pricing power, with average tickets increasing significantly in both North America (5.0%) and International (3.7%) markets during Q4. Growth in North America was specifically attributed to "pricing," "strength in product mix," and "customer food attach" ("primarily due to strength in product mix and customer food attach, pricing and higher delivery sales").
+
+**Supply Chain & Inventory:**
+The provided text contains no mentions of lead times, commodity costs, freight, or inventory levels.
+
+**Capital Spending (Capex):**
+The company is pursuing a moderate expansion of its physical footprint, with plans to open approximately 1,200 net new coffeehouses globally in fiscal 2027 ("Approximately 1,200 net new coffeehouses globally... led by International"). This is coupled with a strategic pruning of underperforming assets, including the closure of 250 North American stores in September 2026 ("closed approximately 250 company-operated North America coffeehouses that do not deliver the coffeehouse experience").
