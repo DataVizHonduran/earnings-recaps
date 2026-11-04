@@ -1,0 +1,22 @@
+Ticker: DGX
+Source: DGX_2026-10-22.txt
+Generated: 2026-11-04 20:42 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Quest Diagnostics (DGX)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by strong organic growth across physician, hospital, and consumer channels ("continued strength across our physician, hospital and consumer channels"). This activity is driven by an aging population and a shift toward preventative care ("fulfilling the expanding clinical care needs of an aging population as well as the increasing number of people focused on prevention and wellness"). Requisition volume grew moderately to robustly, increasing 14.5% year-over-year.
+
+**2. Labor & Wages**
+The report does not provide specific commentary on hiring difficulties, turnover, or wage inflation. However, the company is leveraging technology to offset labor requirements, noting "productivity gains from automation and AI."
+
+**3. Pricing Power & Inflation**
+The company is experiencing softening pricing power, as evidenced by a decline in revenue per requisition, which fell 4.2% year-over-year ("Revenue per requisition (4.2)%"). There is no specific mention of input cost relief or persistent commodity inflation.
+
+**4. Supply Chain & Inventory**
+Inventory levels have increased modestly, rising from $189 million to $218 million year-over-year. There are no mentions of lead time disruptions or bloated stock levels.
+
+**5. Capital Spending (Capex)**
+Capital investment is growing moderately, with Q3 expenditures up 15% year-over-year ("Capital expenditures $166 $144 15.0%"). Future spending is directed toward technology and capacity, specifically the deployment of Epic solutions in the first lab by fall 2027 ("expect to deploy Epic solutions in our first lab in the fall of 2027") and the acquisition of outreach lab assets in the Northeastern U.S. Full-year Capex guidance remains stable at approximately $550 million.

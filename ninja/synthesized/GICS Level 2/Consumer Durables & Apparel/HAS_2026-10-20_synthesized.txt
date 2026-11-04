@@ -1,0 +1,22 @@
+Ticker: HAS
+Source: HAS_2026-10-20.txt
+Generated: 2026-11-04 20:45 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Hasbro (HAS)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by a fourth consecutive quarter of double-digit revenue growth ("delivered a fourth consecutive quarter of double-digit revenue growth"). Activity is particularly strong in the Wizards and Digital Gaming segment, led by Magic The Gathering, which surpassed $600 million in quarterly revenue for the first time ("Magic The Gathering topped $600 million in quarterly revenue for the first time"). Consumer Products demand is growing modestly, supported by specific brand momentum in Marvel and Transformers ("Consumer Products Segment Revenues were up 4%").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is benefiting from significant cost relief via government refunds, though it remains wary of future inflationary and trade pressures. Current results were bolstered by "approximately $55 million of tariff refunds." However, management notes that future tariffs could "increase our product costs," "result in higher prices of our products," and potentially "impact consumer spending."
+
+**4. Supply Chain & Inventory**
+Inventory levels were not explicitly detailed; however, the company noted previous "disruptions from the previously disclosed unauthorized network access" which were more than offset by strong brand performance. The company continues to monitor "shipping delays or difficulties" as a general risk factor.
+
+**5. Capital Spending (Capex)**
+Capital allocation is focused on a balanced approach of maintaining the core business and reducing leverage. Priorities include "Invest in core business" and continuing to "pay down debt," including $226 million deployed year-to-date toward debt reduction ("deployed $226 million toward debt reduction through open-market bond repurchases").

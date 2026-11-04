@@ -1,0 +1,22 @@
+Ticker: GLW
+Source: GLW_2026-10-27.txt
+Generated: 2026-11-04 20:45 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Corning Inc. (GLW)**
+
+**1. Demand & Activity**
+Demand is robust overall, driven by powerful growth in Optical Communications, where Gen AI product sales grew "more than 100% year over year." Enterprise Networks saw a moderate to robust increase in sales (up 84%). Solar demand is growing, though the production ramp is occurring "at a slower pace than anticipated." Conversely, demand in the Glass Innovations segment is softening relative to the broader market, as TV, notebook, and smartphone markets "have been impacted by memory pricing."
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is experiencing a favorable pricing environment in the Solar segment, specifically noting that U.S. trade action under Section 232 "improves the overall pricing environment and demand for U.S.-made solar products." Core gross margins expanded by 150 basis points, suggesting strong pricing power or efficiency gains.
+
+**4. Supply Chain & Inventory**
+The report does not explicitly detail lead times or inventory levels; however, the company notes it is "steadily added capacity" to meet demand, supported by long-term customer agreements.
+
+**5. Capital Spending (Capex)**
+Capital investment is robust. The company invested "more than half a billion in capital expenditures" during the third quarter to address demand for innovations. Management continues to add capacity, utilizing long-term customer agreements to "share the cost and risk of expansions."

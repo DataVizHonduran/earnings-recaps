@@ -1,0 +1,22 @@
+Ticker: MPWR
+Source: MPWR_2026-10-29.txt
+Generated: 2026-11-04 20:47 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Monolithic Power Systems (MPWR)**
+
+**1. Demand & Activity**
+Demand is robust and accelerating, particularly in high-growth technology sectors. Enterprise Data saw strong growth driven by AI and server applications ("strong demand across our existing customers," "higher sales of our power management solutions for AI and server applications"). Communications and Industrial sectors also showed moderate to robust sequential growth ("Communications... up 42.5% from the second quarter," "Industrial revenue... increased 30.2%"). Automotive demand remains stable to modest ("increased 15.0% from the second quarter"). Conversely, Storage and Computing demand is softening ("decreased 3.8% from the second quarter").
+
+**2. Labor & Wages**
+The report does not explicitly mention hiring difficulties, turnover, or wage inflation. However, there is a significant increase in stock-based compensation, suggesting aggressive talent retention or incentive strategies ("Total stock-based compensation... was $106.3 million in the third quarter... compared with $53.5 million in the second quarter").
+
+**3. Pricing Power & Inflation**
+Pricing power appears stable, with gross margins remaining flat to slightly increasing ("Non-GAAP gross margin... 55.7%, 0.1 percentage points higher than the second quarter"). There are no specific mentions of input cost pressures or commodity inflation.
+
+**4. Supply Chain & Inventory**
+Inventory levels are increasing in absolute terms but are being managed relative to rapid sales growth. While internal inventories rose ("$764.9 million, up from $675.8 million"), the days of inventory based on current revenue actually declined ("130 days... was 10 days lower than at the end of the second quarter"). The company is actively diversifying its supply chain to ensure stability ("continuously expand and diversify our global supply chain allowing us to... maintain supply stability").
+
+**5. Capital Spending (Capex)**
+The company is aggressively expanding capacity to support projected growth. Current capacity supports $6 billion in annual revenue, with a clear trajectory for significant expansion ("expect to have $8 billion of capacity in place by the second half of 2027 on our way to $10 billion").

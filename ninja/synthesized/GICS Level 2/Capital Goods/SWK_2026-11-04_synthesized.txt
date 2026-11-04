@@ -1,0 +1,22 @@
+Ticker: SWK
+Source: SWK_2026-11-04.txt
+Generated: 2026-11-04 20:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Stanley Black & Decker (SWK)**
+
+**Demand & Activity**
+Demand is showing moderate growth, characterized by a 4% increase in organic revenue ("organic growth* in the quarter, which was up 4 percent"). Activity is robust in the U.S. retail and commercial industrial channels ("strength in U.S. retail and commercial industrial channels"), particularly within power tools. Geographically, North America is seeing modest growth (+6% organically), while Europe remains stable (+1% organically). However, demand is softening in the automotive sector, which weighed on the Engineered Fastening segment ("impacted by automotive demand pressure").
+
+**Labor & Wages**
+The report does not provide specific data on wage inflation or hiring difficulty, though it notes ongoing "restructuring costs" and "costs associated with footprint actions," suggesting a focus on organizational efficiency.
+
+**Pricing Power & Inflation**
+Pricing power is softening, as the company experienced a total pricing decline of 2% ("Higher volume (+6%) was offset by pricing (-2%)"). This was most evident in the Tools Outdoor segment, where pricing fell 3%. While gross margins expanded significantly, this was primarily driven by a one-time windfall rather than organic pricing strength, as margins included a substantial "benefit of approximately 430 basis points from net tariff refunds."
+
+**Supply Chain & Inventory**
+The provided text does not contain specific updates regarding current lead times or inventory levels.
+
+**Capital Spending (Capex)**
+The company is maintaining a balanced approach to capital, prioritizing "growth investments" and "investing for growth in a dynamic macro environment." Specific mentions include "costs associated with footprint actions" and "investing in the business to advance our strategic priorities," indicating ongoing adjustments to manufacturing and operational capacity.

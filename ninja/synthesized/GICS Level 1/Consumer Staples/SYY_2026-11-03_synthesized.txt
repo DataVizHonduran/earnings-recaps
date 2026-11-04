@@ -1,0 +1,22 @@
+Ticker: SYY
+Source: SYY_2026-11-03.txt
+Generated: 2026-11-04 20:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Sysco Corp (SYY)**
+
+**1. Demand & Activity**
+Demand is showing modest growth. The company reaffirmed its outlook for local volume growth of approximately 2.5% for the full fiscal year ("confirming it remained confident in delivering on its previously stated local volume growth of approximately 2.5%").
+
+**2. Labor & Wages**
+No specific mentions of hiring difficulties, turnover, or wage adjustments were provided in this release.
+
+**3. Pricing Power & Inflation**
+The company identifies potential risks from "periods of significant or prolonged inflation or deflation" and "changes in global trade policies and tariffs," though it does not report current pricing actions or specific input cost relief in this document ("risks and uncertainties include... periods of significant or prolonged inflation or deflation and their impact on our product costs").
+
+**4. Supply Chain & Inventory**
+Current state is stable, though the company notes general risks regarding "risk of interruption of supplies and increase in product costs." No specific data on lead times or inventory levels was provided.
+
+**5. Capital Spending (Capex)**
+Investment is focused on technology and inorganic expansion. The company has launched a "multi-year Artificial Intelligence (AI) and Technology business modernization" and is pursuing growth through the "Jetro Restaurant Depot acquisition."

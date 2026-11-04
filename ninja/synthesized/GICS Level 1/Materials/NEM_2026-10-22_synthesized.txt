@@ -1,0 +1,25 @@
+Ticker: NEM
+Source: NEM_2026-10-22.txt
+Generated: 2026-11-04 20:47 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Newmont Corp (NEM)**
+
+**1. Demand & Activity**
+Activity remains stable, with the company on track to meet full-year production guidance of 5.3 million attributable gold ounces ("on track to achieve our full-year 2026 production guidance"). Quarterly gold production increased slightly by 1% to 1.3 million ounces, supported by a recovery at the Cadia site ("driven by higher production at Cadia after the recovery from the seismic event").
+
+**2. Labor & Wages**
+No specific mentions of labor shortages, wage inflation, or headcount adjustments were provided in the text.
+
+**3. Pricing Power & Inflation**
+The company is benefiting from a robust commodity price environment, with realized gold prices trending significantly higher (Q3 2026 realized price of $4,546/oz vs. 2025 average of $3,498/oz). There are signals of modest cost relief, as the company improved its full-year cost outlook for both CAS and AISC ("improved full-year cost guidance to $925 and $1,520 per ounce, respectively").
+
+**4. Supply Chain & Inventory**
+No specific commentary on lead times or inventory levels was provided.
+
+**5. Capital Spending (Capex)**
+Capex remains robust and disciplined, focused on sustaining existing assets and high-return growth.
+*   **Sustaining Capex:** Moderate investment of $1.95 billion planned for 2026, targeting critical infrastructure and tailings solutions ("expects to spend $1.95 billion in 2026 in sustaining capital").
+*   **Development Capex:** Moderate investment of $1.4 billion planned for 2026 to advance high-return projects ("expects to invest $1.4 billion of development capital in 2026").
+*   **Key Projects:** Advancing the Red Chris Block Cave toward a 2027 investment decision and accelerating the Tanami Expansion, with commercial production now expected in H1 2027 ("advancing project ahead of schedule").

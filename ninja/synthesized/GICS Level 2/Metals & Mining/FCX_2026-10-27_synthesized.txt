@@ -1,0 +1,22 @@
+Ticker: FCX
+Source: FCX_2026-10-27.txt
+Generated: 2026-11-04 20:43 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Freeport-McMoRan (FCX)**
+
+**1. Demand & Activity**
+Demand is characterized as growing, with the company positioning itself to support a "growing market" ("support a growing market and build value for stakeholders"). Activity is robust in Indonesia, where the Grasberg ramp-up is meeting expectations with "significant growth expected in 2027 and 2028."
+
+**2. Labor & Wages**
+No specific mentions of hiring difficulties, turnover, or wage adjustments were provided in the text.
+
+**3. Pricing Power & Inflation**
+The company is experiencing robust pricing power, noting that "favorable pricing for our products, particularly for copper and molybdenum, drove strong margins" ("Favorable pricing for our products... drove strong margins"). However, there is evidence of moderate input cost pressure; average unit net cash costs for copper rose to $2.07 per pound in Q3 2026, compared to $1.40 in Q3 2025 ("Unit net cash costs per pound... $2.07 [2026] $1.40 [2025]").
+
+**4. Supply Chain & Inventory**
+Inventory levels are currently bloated due to processing bottlenecks. Copper production exceeded sales by approximately 11% in Q3, "primarily reflecting in-process inventories at smelting operations in Indonesia" ("primarily reflecting in-process inventories at smelting operations in Indonesia"). Similar deferrals are expected for the full year 2026, totaling approximately 100 million pounds of copper and 70 thousand ounces of gold ("reflecting deferrals of approximately 100 million pounds of copper and 70 thousand ounces of gold associated with inventory held at PTFI s smelting operations").
+
+**5. Capital Spending (Capex)**
+Capex remains robust, with a heavy focus on capacity expansion. Total capital expenditures for 2026 are expected to approximate $4.4 billion, with $3.0 billion dedicated to "major mining projects" ("Capital expenditures are expected to approximate $4.4 billion, including $3.0 billion for major mining projects"). Future investments include "potential significant brownfield expansions in the U.S." and a "potential major expansion at El Abra in Chile" ("potential significant brownfield expansions in the U.S. Potential major expansion at El Abra in Chile").

@@ -1,0 +1,22 @@
+Ticker: PKG
+Source: PKG_2026-10-22.txt
+Generated: 2026-11-04 20:47 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided document, the available information is limited to a high-level financial summary. Most "Ground Truth" economic signals regarding labor, pricing, supply chain, and capex were not included in this specific press release snippet.
+
+**1. Demand & Activity**
+Demand appears to be growing moderately, as evidenced by a robust increase in net sales year-over-year ("Third quarter net sales were $2.6 billion in 2026 and $2.3 billion in 2025").
+
+**2. Labor & Wages**
+Not mentioned.
+
+**3. Pricing Power & Inflation**
+Not mentioned.
+
+**4. Supply Chain & Inventory**
+Not mentioned.
+
+**5. Capital Spending (Capex)**
+Not mentioned.

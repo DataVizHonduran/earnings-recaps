@@ -1,0 +1,22 @@
+Ticker: MPC
+Source: MPC_2026-11-03.txt
+Generated: 2026-11-04 20:46 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Marathon Petroleum Corp (Q3 2026)**
+
+**1. Demand & Activity**
+Demand appears robust, characterized by full capacity utilization in refining and growth in specific fuel sectors. Crude capacity utilization reached 100% ("Crude capacity utilization was 100%"), and the company is expanding capabilities to meet "growing demand" for higher-value jet fuel. Midstream activity is also expanding, driven by "increased rates and throughputs" and confidence in "long-term fundamentals of the energy market."
+
+**2. Labor & Wages**
+The report does not explicitly detail hiring or turnover; however, there is evidence of moderate upward pressure on corporate costs linked to employee pay, as corporate expense variances were "primarily due to higher expenses related to incentive compensation."
+
+**3. Pricing Power & Inflation**
+The company is experiencing significant pricing strength driven by market conditions rather than internal price hikes. Margins expanded robustly, with R&M margins rising to $45.70 per barrel from $17.60 per barrel year-over-year, "driven primarily by higher market crack spreads in all regions." Input costs for refining operations remained stable, with operating costs at $5.60 per barrel compared to $5.59 per barrel in the prior year ("Refining operating costs were $5.60 per barrel... versus $5.59 per barrel").
+
+**4. Supply Chain & Inventory**
+No specific mentions of lead times or inventory bloat were provided. However, the company is actively increasing its supply of "high-value ULSD to domestic and export markets" via new infrastructure.
+
+**5. Capital Spending (Capex)**
+Capex is focused on strategic reallocation and capacity expansion. MPC’s 2026 outlook is $1.5 billion, with 65% dedicated to "value-enhancing investments" (primarily in the Gulf Coast). Additionally, MPLX is deploying $2.9 billion in organic growth capital, with over 90% allocated to "natural gas and NGL infrastructure" in the Permian and Marcellus basins. The company is also pivoting its footprint via the "divestiture of Mid-Con assets" to reinvest in higher-return regions.

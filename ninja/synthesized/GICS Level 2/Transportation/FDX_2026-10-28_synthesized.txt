@@ -1,0 +1,22 @@
+Ticker: FDX
+Source: FDX_2026-10-28.txt
+Generated: 2026-11-04 20:44 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: FedEx Corp (FDX)**
+
+**1. Demand & Activity**
+Demand is showing robust growth across key segments. The company reported "higher package volumes" domestically and "higher international export volume" and "increased freight weight" globally. Management indicated they are "winning across high-value market segments" and revised their full-year revenue growth forecast upward to 12% (from 11%).
+
+**2. Labor & Wages**
+Labor costs remain a persistent headwind. Operating results were "partially offset by... higher wage rates and variable compensation expenses" and "higher salaries and benefits expenses" within the U.S. Domestic segment.
+
+**3. Pricing Power & Inflation**
+FedEx is exercising moderate pricing power, citing "increased package base yields" as a primary driver of improved results. The company has announced a formal rate increase of "an average of 5.9%" effective January 4, 2027. However, these gains are being tempered by inflationary pressures in the supply chain, specifically "increased purchased transportation rates."
+
+**4. Supply Chain & Inventory**
+While specific inventory levels were not detailed, the company noted significant volatility in the global trade environment, citing the "financial impact of global trade policy changes" as a drag on international operating results.
+
+**5. Capital Spending (Capex)**
+Capital investment remains stable and focused on efficiency. The company maintained its capital spending forecast at $3.9 billion, which "prioritizes investments in network optimization and efficiency improvement, including fleet and facility modernization and automation."
