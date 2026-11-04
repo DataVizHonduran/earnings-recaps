@@ -1,0 +1,3388 @@
+Ticker: IDXX
+Company: IDEXX LABORATORIES INC /DE
+Filed: 2026-11-02
+Type: PRESS_RELEASE
+Source: https://www.sec.gov/Archives/edgar/data/874716/000110465926120892/tm2628647d1_ex99-1.htm
+
+EX-99.1
+ 2
+ tm2628647d1_ex99-1.htm
+ EXHIBIT 99.1
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Exhibit 99.1 
+
+ 
+
+ 
+
+ 
+
+ IDEXX Laboratories Announces Third Quarter Results 
+
+ 
+
+ 
+ 
+ &squarf; 
+ Achieves third quarter revenue growth of 10% as reported and organic and CAG Diagnostics recurring revenue growth of 11% as reported and organic. 
+ 
+ 
+
+ 
+ 
+ &squarf; 
+ Double-digit organic revenue growth was led by strong volume expansion, including benefits from IDEXX's innovations and excellent commercial execution. 
+ 
+ 
+
+ 
+ 
+ &squarf; 
+ Places over 1,900 IDEXX inVue Dx &trade; analyzers during the quarter, driving installed base to nearly 11,000 instruments. 
+ 
+ 
+
+ 
+ 
+ &squarf; 
+ Delivers EPS of $4.01, an increase of 18% as reported and 22% on a comparable basis, with operating margin up 100 basis points as reported and 60 basis points on a comparable basis. 
+ 
+ 
+
+ 
+ 
+ &squarf; 
+ Increases 2026 revenue guidance to $4,741 million - $4,767 million, up $32 million at midpoint, reflecting strong CAG Diagnostics recurring revenue performance. 
+ 
+ 
+
+ 
+ 
+ &squarf; 
+ Outlook for 2026 reported revenue growth raised to 10.1% - 10.8%, and CAG Diagnostics recurring revenue reported growth raised to 11.0% - 11.7%, with projected 2026 organic revenue growth of 9.3% - 10.0% and CAG Diagnostics recurring revenue organic growth of 10.3% - 11.0%. 
+ 
+ 
+
+ 
+ 
+ &squarf; 
+ Raises 2026 EPS outlook to $14.96 - $15.16, reflecting a $0.25 increase compared to prior guidance midpoint, led by a raised revenue outlook while supporting acquisition impacts. 
+ 
+ 
+
+ WESTBROOK, Maine, November 2, 2026 &mdash; IDEXX Laboratories, Inc.
+(Nasdaq: IDXX), a global leader in pet healthcare innovation, today announced third quarter results. 
+
+ 
+
+ Third Quarter Results 
+
+ 
+
+ The Company reports revenues of $1,214 million for the third quarter
+of 2026, an increase of 10% as reported and organic, driven by Companion Animal Group (&quot;CAG&quot;) growth of 10% as reported and
+organic. 
+
+ 
+
+ Third quarter earnings per diluted share (&ldquo;EPS&rdquo;) were $4.01,
+an increase of 18% as reported and 22% on a comparable basis. Third quarter EPS included $0.03 per share benefit from a non-operating
+gain on an equity investment, $0.01 per share in tax benefits from share-based compensation, and $0.04 per share benefit from year-over-year
+currency changes, while absorbing acquisition impacts. 
+
+ 
+
+ 
+
+ 
+ 
+ IDEXX Announces Third Quarter Results November 2, 2026 Page 2 of 17 
+ 
+
+ 
+
+ &ldquo;IDEXX delivered exceptional third quarter results, reflecting
+strong commercial execution and momentum from our innovation-driven growth strategy,&rdquo; said Mike Erickson, President and Chief Executive
+Officer. &ldquo;Innovations like IDEXX inVue Dx with FNA, and IDEXX Cancer Dx becoming a multi-cancer panel, are helping practices detect
+disease earlier and work more efficiently. In software, we advanced our capabilities with the acquisition of CoVet, an AI clinical assistant
+that supports veterinary team productivity and diagnostics utilization, creating more value for our customers and shareholders.&quot; 
+
+ 
+
+ Third Quarter Performance Highlights 
+
+ 
+
+ Companion Animal Group (&ldquo;CAG&rdquo;) 
+
+ 
+
+ CAG revenue growth was led by CAG Diagnostics recurring revenue growth
+of 11% as reported and organic, including 13% reported and 14% organic gains in International regions and 10% reported and organic growth
+in the U.S., outpacing sector growth levels. 
+
+ 
+
+ Additional U.S. companion animal practice key metrics are available
+in the Q3 2026 Earnings Snapshot accessible on the IDEXX website, www.idexx.com/investors . 
+
+ 
+
+ Strong same-store volume growth, IDEXX innovation benefits, net
+customer gains and premium instrument installed base expansion drove double-digit CAG Diagnostics recurring revenue growth. 
+
+ 
+
+ 
+ 
+ 
+ &squarf; 
+ IDEXX VetLab &trade; consumables revenues grew 14% reported and 15% organic, supported by net new customer growth, including 11% expansion of the IDEXX global premium instrument installed base, utilization expansion with benefits from recent product launches and net price gains. 
+ 
+ 
+
+ 
+ 
+ 
+ &squarf; 
+ Reference laboratory diagnostic and consulting services generated 10% reported and organic revenue growth, driven by testing volume growth, net new customer gains, and price realization. 
+ 
+ 
+
+ 
+ 
+ 
+ &squarf; 
+ Rapid assay products revenues increased 1% as reported and on an organic basis, driven by net price benefits, offsetting lower testing volumes. 
+ 
+ 
+
+ CAG Diagnostics capital instrument revenues were flat on an as reported
+and an organic basis, with benefits from over 1,900 IDEXX inVue Dx placements during the quarter. 
+
+ 
+
+ Veterinary software, services and diagnostic imaging systems revenues
+grew 11% on a reported and 10% on an organic basis for the quarter, with benefits from a strong quarter of diagnostic imaging systems
+installations, led by ImageVue &trade; DR50 Plus. 
+
+ 
+
+ 
+
+ 
+ 
+ IDEXX Announces Third Quarter Results November 2, 2026 Page 3 of 17 
+ 
+
+ 
+
+ Water 
+
+ 
+
+ Water revenues grew 8% as reported and organic for the quarter, driven
+by growth in North America. 
+
+ 
+
+ Livestock, Poultry and Dairy (&ldquo;LPD&rdquo;) 
+
+ 
+
+ LPD revenues increased 3% as reported and organic for the quarter,
+led by growth in the Americas. 
+
+ 
+
+ Gross Profit and Operating Profit 
+
+ 
+
+ Gross profit increased 12% as reported and 12% on a comparable basis.
+Gross margin of 62.9% increased 110 basis points as reported and 90 basis points on a comparable basis, supported by strong recurring
+revenue volume gains, operational productivity initiatives, and net price realization. 
+
+ 
+
+ Operating margin was 33.1% for the quarter, higher than the prior year
+period by 100 basis points as reported and by 60 basis points on a comparable basis. Operating margin results reflect a 10% operating
+expense increase as reported and 11% growth on a comparable basis. Operating expense growth supported expansion of IDEXX's commercial
+capabilities and advancement of the Company's innovation agenda, while absorbing acquisition impacts, including transaction-related costs. 
+
+ 
+
+ 2026 Growth and Financial Performance Outlook 
+
+ 
+
+ The Company is updating its full year revenue growth guidance range
+to $4,741 million - $4,767 million, or reported growth of 10.1% - 10.8%, an increase of $32 million at midpoint, including $5 million
+related to the recent CoVet acquisition. The Company is increasing its outlook for organic revenue growth to 9.3% - 10.0%, an increase
+of 0.6% at midpoint, reflecting operational performance. 
+
+ 
+
+ The Company lowered its full year reported operating margin outlook
+to 32.1% - 32.3%, bringing the projected full year operating profit margin expansion to 50 - 70 basis points as reported and on a comparable
+basis. The updated guidance includes acquisition-related impacts. 
+
+ 
+
+ The Company updated its EPS outlook range to $14.96 - $15.16, a $0.25
+increase compared to prior guidance midpoint, reflecting 15% reported and 16% comparable growth. 
+
+ 
+
+ 
+
+ 
+ 
+ IDEXX Announces Third Quarter Results November 2, 2026 Page 4 of 17 
+ 
+
+ 
+
+ The following table provides the Company's updated outlook for annual
+key financial metrics in 2026 with a comparison to the prior outlook: 
+
+ 
+
+ Amounts in millions except per share data and percentages 
+
+ 
+
+ 
+ 
+ 2026 Growth and Financial Performance Outlook 
+ Updated 
+ Prior 
+ 
+ Revenue 
+ $4,741 - $4,767 
+ $4,700 - $4,745 
+ 
+ Reported growth 
+ 10.1% - 10.8% 
+ 9.1% - 10.3% 
+ 
+ Organic growth 
+ 9.3% - 10.0% 
+ 8.5% - 9.7% 
+ 
+ CAG Diagnostics Recurring Revenue Growth 
+ 
+ 
+ 
+ Reported growth 
+ 11.0% - 11.7% 
+ 10.1% - 11.3% 
+ 
+ Organic growth 
+ 10.3% - 11.0% 
+ 9.5% - 10.7% 
+ 
+ Operating Margin 
+ 32.1% - 32.3% 
+ 32.3% - 32.5% 
+ 
+ Operating margin expansion 
+ 50 bps - 70 bps 
+ 70 bps - 90 bps 
+ 
+ Comparable margin expansion 
+ 50 bps - 70 bps 
+ 70 bps - 90 bps 
+ 
+ EPS 
+ $14.96 - $15.16 
+ $14.69 - $14.94 
+ 
+ Reported growth 
+ 14% - 16% 
+ 12% - 14% 
+ 
+ Comparable growth 
+ 15% - 16% 
+ 13% - 15% 
+ 
+ Other Key Metrics 
+ 
+ 
+ 
+ Net interest expense 
+ ~$32 
+ ~$35 
+ 
+ Share-based compensation tax benefit 
+ ~$19 
+ ~$19 
+ 
+ Share-based compensation tax rate benefit 
+ ~1.3% 
+ ~1.3% 
+ 
+ Effective tax rate 
+ ~20.5% 
+ ~21.1% 
+ 
+ Share-based compensation EPS impact 
+ ~$0.24 
+ ~$0.24 
+ 
+ Reduction in average shares outstanding 
+ ~2% 
+ 1.5% - 2% 
+ 
+ Operating Cash Flow (% of Net Income) 
+ 110% - 120% 
+ 110% - 120% 
+ 
+ Free Cash Flow (% of Net Income) 
+ 95% - 100% 
+ 90% - 100% 
+ 
+ Capital Expenditures 
+ ~$160 
+ ~$180 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ IDEXX Announces Third Quarter Results November 2, 2026 Page 5 of 17 
+ 
+
+ 
+
+ The following table outlines estimates of foreign currency exchange
+rate impacts, net of foreign currency hedging transactions, and foreign currency exchange rate assumptions reflected in the above financial
+performance outlook for 2026. 
+
+ 
+
+ 
+ 
+ Estimated Foreign Currency Exchange Rate Impacts 
+ 
+ 2026 
+ 
+ Revenue growth rate impact 
+ 
+ ~0.7% 
+ 
+ CAG Diagnostics recurring revenue growth rate impact 
+ 
+ ~0.7% 
+ 
+ Operating margin growth impact 
+ 
+ ~30 bps 
+ 
+ EPS impact 
+ 
+ ~$0.25 
+ 
+ EPS growth impact 
+ 
+ ~2% 
+ 
+ 
+ 
+ 
+ 
+ Go-Forward Foreign Currency Exchange Rate Assumptions 
+ 
+ 2026 
+ 
+ In U.S. dollars 
+ 
+ 
+ 
+ euro 
+ 
+ $1.12 
+ 
+ British pound 
+ 
+ $1.32 
+ 
+ Canadian dollar 
+ 
+ $0.70 
+ 
+ Australian dollar 
+ 
+ $0.69 
+ 
+ Relative to the U.S. dollar 
+ 
+ 
+ 
+ Japanese yen 
+ 
+ &yen;160 
+ 
+ Chinese renminbi 
+ 
+ &yen;6.80 
+ 
+ Brazilian real 
+ 
+ R$5.05 
+ 
+
+ 
+
+ Conference Call and Webcast Information 
+
+ 
+
+ IDEXX Laboratories, Inc. will host a conference call today at
+8:30 a.m. (ET) to discuss its third quarter 2026 results and management&rsquo;s outlook. Individuals can access a live webcast of
+the conference call through a link on the IDEXX website, www.idexx.com/investors . An archived edition of the webcast will be available
+after 1:00 p.m. (ET) via the same link and will remain available for one year. The live call also will be accessible by telephone.
+To listen to the live conference call, please dial 1-800-330-6730 or 1-213-279-1575 and reference passcode 715328. 
+
+ 
+
+ 2027 VMX Event 
+
+ 
+
+ IDEXX Laboratories, Inc.
+will host an Investor and Analyst Session at VMX in Orlando, Florida on Monday, January 18th at 1:00 p.m. (ET), highlighting
+IDEXX's next point-of-care analyzer, IDEXX MultiCue Dx &trade; . On-site participation is limited and advance registration
+for the in-person event is required; institutional investors and analysts interested in attending should contact investorrelations@idexx.com.
+A live webcast and accompanying slide presentations will be available at www.idexx.com/investors. An archived webcast replay of the event
+will be available approximately one hour following the event via the same link . 
+
+ 
+
+ 
+
+ 
+ 
+ IDEXX Announces Third Quarter Results November 2, 2026 Page 6 of 17 
+ 
+
+ 
+
+ About IDEXX Laboratories, Inc. 
+
+ 
+
+ IDEXX is a global leader in pet healthcare innovation. Our diagnostic
+and software products and services create clarity in the complex, constantly evolving world of veterinary medicine. We support longer,
+fuller lives for pets by delivering insights and solutions that help the veterinary community around the world make confident decisions&mdash;to
+advance medical care, improve efficiency, and build thriving practices. Our innovations also help measure the safety of milk and water
+across the world and maintain the health and well-being of people and livestock. IDEXX Laboratories, Inc. is a member of the S&P
+500 &reg; Index. Headquartered in Maine, IDEXX employs approximately 11,000 people and offers solutions and products
+to customers in more than 175 countries and territories. For more information about IDEXX, visit www.idexx.com . 
+
+ 
+
+ Note Regarding Forward-Looking Statements 
+
+ 
+
+ This earnings release and the statements to be made in the accompanying
+earnings conference call contain forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995, including
+statements about the Company&rsquo;s business prospects and estimates of the Company&rsquo;s financial results for future periods. Forward-looking
+statements are included above under &quot;2026 Growth and Financial Performance Outlook&quot; and elsewhere and can be identified by
+the use of words such as &quot;expects&quot;, &quot;may&quot;, &quot;can&quot;, &quot;anticipates&quot;, &quot;intends&quot;, &quot;would&quot;,
+&quot;will&quot;, &quot;plans&quot;, &quot;believes&quot;, &quot;estimates&quot;, &quot;projected&quot;, &quot;should&quot;, and similar
+words and expressions. Our forward-looking statements include statements relating to our expectations regarding financial performance;
+revenue growth and EPS outlooks; operating and free cash flow forecast; projected impact of foreign currency exchange rates and interest
+rates; projected operating margins and expenses and capital expenditures; projected tax, tax rate and EPS benefits from share-based compensation
+arrangements; projected effective tax rates, reduction of average shares outstanding and net interest expense; projected net price realization;
+trends and other factors impacting the pet healthcare industry, including pet population demographics and U.S. clinical visits, and their
+anticipated effects on the Company; IDEXX inVue Dx analyzer placements; IDEXX Cancer Dx TM testing panel expansion; CoVet acquisition-related
+impacts; and CoVet integration plans. These statements are intended to provide management's expectations or forecasts of future events
+as of the date of this earnings release; are based on management's estimates, projections, beliefs, and assumptions as of the date of
+this earnings release; and are not guarantees of future performance. These forward-looking statements involve known and unknown risks
+and uncertainties that may cause the Company's actual results, levels of activity, performance or achievements to be materially different
+from those expressed or implied by these forward-looking statements. These risks and uncertainties include, among other things, the adverse
+impact, and the duration, of macroeconomic events, conditions, and uncertainties, such as geopolitical instability (including wars, terrorist
+attacks, and armed conflicts), general economic uncertainty, changes in U.S. and other countries&rsquo; tariff and trade policies, severe
+weather and other natural conditions, our ability to successfully integrate CoVet, and supply chain challenges on our business, results
+of operations, liquidity, financial condition, and stock price, as well as the matters described under the headings &quot;Business,&quot;
+&quot;Risk Factors,&quot; &quot;Legal Proceedings,&quot; &quot;Management's Discussion and Analysis of Financial Condition and Results
+of Operations&quot; and &quot;Quantitative and Qualitative Disclosures About Market Risk&quot; in the Company&rsquo;s Annual Report on
+Form 10-K for the year ended December 31, 2025 and in the corresponding sections of the Company's Quarterly Report on Form 10-Q
+for the quarters ended March 31, 2026, June 30, 2026, and September 30, 2026, as well as those described from time to
+time in the Company&rsquo;s other filings with the U.S. Securities and Exchange Commission available at www.sec.gov. The Company specifically
+disclaims any obligation to publicly update any forward-looking statement, whether as a result of new information, future events or otherwise. 
+
+ 
+
+ Statement Regarding Non-GAAP Financial Measures 
+
+ 
+
+ The following defines terms and conventions and provides reconciliations
+regarding certain measures used in this earnings release and/or the accompanying earnings conference call that are not required by, or
+presented in accordance with, generally accepted accounting principles in the United States of America (&quot;GAAP&quot;), otherwise referred
+to as non-GAAP financial measures. To supplement the Company&rsquo;s consolidated results presented in accordance with GAAP, the Company
+has disclosed non-GAAP financial measures that exclude or adjust certain items. Management believes these non-GAAP financial measures
+provide useful supplemental information for its and investors&rsquo; evaluation of the Company&rsquo;s business performance and liquidity
+and are useful for period-over-period comparisons of the performance of the Company&rsquo;s business and its liquidity and to the performance
+and liquidity of our peers. While management believes that these non-GAAP financial measures are useful in evaluating the Company&rsquo;s
+business, this information should be considered as supplemental in nature and should not be considered in isolation or as a substitute
+for the related financial information prepared in accordance with GAAP. In addition, these non-GAAP financial measures may not be the
+same as similarly titled measures reported by other companies. 
+
+ 
+
+ 
+
+ 
+ 
+ IDEXX Announces Third Quarter Results November 2, 2026 Page 7 of 17 
+ 
+
+ 
+
+ Constant currency - Constant currency references are non-GAAP
+financial measures which exclude the impact of changes in foreign currency exchange rates and are consistent with how management evaluates
+our performance and comparisons with prior and future periods. We estimate the net impacts of currency on our revenue, gross profit, operating
+profit, and EPS results by restating results to the average exchange rates or exchange rate assumptions for the comparative period, which
+includes adjusting for the estimated impacts of foreign currency hedging transactions and certain impacts on our effective tax rates.
+These estimated currency changes impacted third quarter 2026 results as follows: increased gross profit growth by 0.2%, increased gross
+margin expansion 20 basis points, decreased operating expense growth by 0.9%, increased operating profit growth by 1.2%, increased operating
+profit margin growth by 40 basis points, and increased EPS growth by 1.2%. Constant currency revenue growth represents the percentage
+change in revenue during the applicable period, as compared to the prior year period, excluding the impact of changes in foreign currency
+exchange rates. See the supplementary analysis of results below for revenue percentage change from currency for the three and nine months
+ended September 30, 2026 and refer to the 2026 Growth and Financial Performance Outlook section of this earnings release for estimated
+foreign currency exchange rate impacts on 2026 projections and estimates. 
+
+ 
+
+ Growth and organic revenue growth - All references to growth
+and organic growth refer to growth compared to the equivalent prior year period unless specifically noted. Organic revenue growth is a
+non-GAAP financial measure that represents the percentage change in revenue, as compared to the same period for the prior year, net of
+the effect of changes in foreign currency exchange rates, certain business acquisitions, and divestitures. Management believes that reporting
+organic revenue growth provides useful information to investors by facilitating easier comparisons of our revenue performance with prior
+and future periods and to the performance of our peers. Organic revenue growth should be considered in addition to, and not as a replacement
+of or a superior measure to, revenue growth reported in accordance with GAAP. See the supplementary analysis of results below for a reconciliation
+of reported revenue growth to organic revenue growth for the three and nine months ended September 30, 2026. Please refer to the
+constant currency note above for a summary of foreign currency exchange rate impacts. Please refer to the 2026 Growth and Financial Performance
+Outlook section of this earnings release for estimated full year 2026 organic revenue growth for the Company and CAG Diagnostics recurring
+revenue growth. The percentage change in revenue resulting from acquisitions represents revenues during the current year period, limited
+to the initial 12 months from the date of the acquisition, that are directly attributable to business acquisitions. Revenue from acquisitions
+is expected to have an immaterial impact on projected full year 2026 revenue growth and no impact on CAG Diagnostics recurring revenue
+growth. 
+
+ 
+
+ We exclude from organic revenue growth the effect of changes in foreign
+currency exchange rates because changes in foreign currency exchange rates are not under management&rsquo;s control, are subject to volatility,
+and can obscure underlying business trends. We calculate the impact on revenue resulting from changes in foreign currency exchange rates
+by applying the difference between the weighted average exchange rates during the current period and the comparable prior year period
+to foreign currency denominated revenues for the prior year period. 
+
+ 
+
+ We also exclude from organic revenue growth the effect of certain business
+acquisitions and divestitures because the nature, size, and number of these transactions can vary dramatically from period to period,
+and because they either require or generate cash as an inherent consequence of the transaction, and therefore can also obscure underlying
+business and operating trends. We consider acquisitions to be a business when all three elements of inputs, processes, and outputs are
+present, consistent with ASU 2017-01, &ldquo; Business Combinations: (Topic 805) Clarifying the Definition of a Business .&rdquo;
+We do not consider acquired assets to be a business if substantially all the fair value of the assets acquired is concentrated in a single
+identifiable asset or group of similar identifiable assets. A typical acquisition that we do not consider a business is a customer relationship
+asset acquisition, which does not have all elements necessary to operate a business, such as employees or infrastructure. Revenue from
+these customers acquired is included in organic revenue growth because we believe the efforts required to convert and retain these acquired
+customers are similar in nature to our efforts to obtain and retain our existing customer base. 
+
+ 
+
+ Comparable growth metrics - Comparable gross profit growth,
+comparable gross margin gain (or growth), comparable operating expense growth, comparable operating profit growth and comparable operating
+margin gain (or growth) are non-GAAP financial measures and exclude the impact of changes in foreign currency exchange rates and non-recurring
+or unusual items (if any). Please refer to the constant currency note above for a summary of foreign currency exchange rate impacts. Management
+believes that reporting comparable gross profit growth, comparable gross margin gain (or growth), comparable operating expense growth,
+comparable operating profit growth and comparable operating margin gain (or growth) provides useful information to investors because it
+enables better period-over-period comparisons of the fundamental financial results by excluding items that vary independent of performance
+and provides greater transparency to investors regarding key metrics used by management. Comparable gross profit growth, comparable gross
+margin gain (or growth), comparable operating expense growth, comparable operating profit growth and comparable operating margin gain
+(or growth) should be considered in addition to, and not as replacements of or superior measures to, gross profit growth, gross margin
+gain, operating expense growth, operating profit growth and operating margin gain reported in accordance with GAAP. 
+
+ 
+
+ 
+
+ 
+ 
+ IDEXX Announces Third Quarter Results November 2, 2026 Page 8 of 17 
+ 
+
+ 
+
+ The reconciliation of these non-GAAP financial measures is as follows: 
+
+ 
+
+ 
+ 
+ 
+ 
+ Three Months Ended 
+ 
+ 
+ Year-over-Year 
+ 
+ 
+ Nine Months Ended 
+ 
+ 
+ Year-over-Year 
+ 
+ 
+ 
+ 
+ September 30, 
+ 
+ 
+ September 30, 
+ 
+ 
+ 
+ 
+ 
+ September 30, 
+ 
+ 
+ September 30, 
+ 
+ 
+ 
+ 
+ 
+ Dollar amounts in thousands 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+ 
+ Change 
+ 
+ 
+ 2026 
+ 
+ 
+ 2025 
+ 
+ 
+ Change 
+ 
+ 
+ Gross profit and growth (as reported) 
+ 
+ $ 
+ 764,298 
+ 
+ 
+ $ 
+ 683,354 
+ 
+ 
+ 
+ 12 
+ % 
+ 
+ $ 
+ 2,266,124 
+ 
+ 
+ $ 
+ 2,001,465 
+ 
+ 
+ 
+ 13 
+ % 
+ 
+ Gross margin and margin gain 
+ 
+ 
+ 62.9 
+ % 
+ 
+ 
+ 61.8 
+ % 
+ 
+ 
+ 110 
+ bps 
+ 
+ 
+ 63.4 
+ % 
+ 
+ 
+ 62.3 
+ % 
+ 
+ 
+ 120 
+ bps 
+ 
+ Less: comparability adjustments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Change from currency 
+ 
+ 
+ 1,091 
+ 
+ 
+ 
+ &mdash; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 29,073 
+ 
+ 
+ 
+ &mdash; 
+ 
+ 
+ 
+ 
+ 
+ 
+ Comparable gross profit and growth 
+ 
+ $ 
+ 763,207 
+ 
+ 
+ $ 
+ 683,354 
+ 
+ 
+ 
+ 12 
+ % 
+ 
+ $ 
+ 2,237,051 
+ 
+ 
+ $ 
+ 2,001,465 
+ 
+ 
+ 
+ 12 
+ % 
+ 
+ Comparable gross margin and margin gain 
+ 
+ 
+ 62.7 
+ % 
+ 
+ 
+ 61.8 
+ % 
+ 
+ 
+ 90 
+ bps 
+ 
+ 
+ 63.3 
+ % 
+ 
+ 
+ 62.3 
+ % 
+ 
+ 
+ 100 
+ bps 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating expenses and growth (as reported) 
+ 
+ $ 
+ 361,950 
+ 
+ 
+ $ 
+ 328,508 
+ 
+ 
+ 
+ 10 
+ % 
+ 
+ $ 
+ 1,075,624 
+ 
+ 
+ $ 
+ 957,039 
+ 
+ 
+ 
+ 12 
+ % 
+ 
+ Less: comparability adjustments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Change from currency 
+ 
+ 
+ (3,043 
+ ) 
+ 
+ 
+ &mdash; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4,685 
+ 
+ 
+ 
+ &mdash; 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loss on equity investment 
+ 
+ 
+ &mdash; 
+ 
+ 
+ 
+ &mdash; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5,000 
+ 
+ 
+ 
+ &mdash; 
+ 
+ 
+ 
+ 
+ 
+ 
+ Now-concluded litigation matter 
+ 
+ 
+ &mdash; 
+ 
+ 
+ 
+ &mdash; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &mdash; 
+ 
+ 
+ 
+ (8,600 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Comparable operating expense and growth 
+ 
+ $ 
+ 364,993 
+ 
+ 
+ $ 
+ 328,508 
+ 
+ 
+ 
+ 11 
+ % 
+ 
+ $ 
+ 1,065,939 
+ 
+ 
+ $ 
+ 965,639 
+ 
+ 
+ 
+ 10 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating profit and growth (as reported) 
+ 
+ $ 
+ 402,348 
+ 
+ 
+ $ 
+ 354,846 
+ 
+ 
+ 
+ 13 
+ % 
+ 
+ $ 
+ 1,190,500 
+ 
+ 
+ $ 
+ 1,044,426 
+ 
+ 
+ 
+ 14 
+ % 
+ 
+ Operating margin and margin gain 
+ 
+ 
+ 33.1 
+ % 
+ 
+ 
+ 32.1 
+ % 
+ 
+ 
+ 100 
+ bps 
+ 
+ 
+ 33.3 
+ % 
+ 
+ 
+ 32.5 
+ % 
+ 
+ 
+ 80 
+ bps 
+ 
+ Less: comparability adjustments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Change from currency 
+ 
+ 
+ 4,134 
+ 
+ 
+ 
+ &mdash; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24,388 
+ 
+ 
+ 
+ &mdash; 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loss on equity investment 
+ 
+ 
+ &mdash; 
+ 
+ 
+ 
+ &mdash; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (5,000 
+ ) 
+ 
+ 
+ &mdash; 
+ 
+ 
+ 
+ 
+ 
+ 
+ Now-concluded litigation matter 
+ 
+ 
+ &mdash; 
+ 
+ 
+ 
+ &mdash; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &mdash; 
+ 
+ 
+ 
+ 8,600 
+ 
+ 
+ 
+ 
+ 
+ 
+ Comparable operating profit and growth 
+ 
+ $ 
+ 398,214 
+ 
+ 
+ $ 
+ 354,846 
+ 
+ 
+ 
+ 12 
+ % 
+ 
+ $ 
+ 1,171,112 
+ 
+ 
+ $ 
+ 1,035,826 
+ 
+ 
+ 
+ 13 
+ % 
+ 
+ Comparable operating margin and margin gain 
+ 
+ 
+ 32.7 
+ % 
+ 
+ 
+ 32.1 
+ % 
+ 
+ 
+ 60 
+ bps 
+ 
+ 
+ 33.1 
+ % 
+ 
+ 
+ 32.2 
+ % 
+ 
+ 
+ 90 
+ bps 
+ 
+
+ 
+
+ Amounts presented may not recalculate
+due to rounding. 
+
+ 
+
+ Projected 2026 comparable operating margin expansion outlined in the
+2026 Growth and Financial Performance Outlook section of this earnings release reflects the following adjustments: (i) full year
+2026 reported operating margin adjusted for a $5 million unfavorable impact of loss on an equity investment; (ii) adjustment to projected
+2026 operating margin for a positive impact from year-over-year foreign currency exchange rate changes at noted exchange rates; and (iii) adjustment
+to 2025 operating margin for the positive impact of the approximately $9 million discrete litigation expense accrual adjustment in the
+first quarter of 2025. 
+
+ 
+
+ These impacts described above reconcile reported gross profit growth,
+gross margin gain, operating expense growth, operating profit growth and operating margin gain (including projected 2026) to comparable
+gross profit growth, comparable gross margin gain, comparable operating expense growth, comparable operating profit growth and comparable
+operating margin gain for the Company. 
+
+ 
+
+ 
+
+ 
+ 
+ IDEXX Announces Third Quarter Results November 2, 2026 Page 9 of 17 
+ 
+
+ 
+
+ Comparable EPS growth - Comparable EPS growth is a non-GAAP
+financial measure that represents the percentage change in earnings per share (diluted) (&quot;EPS&quot;) for a measurement period, as
+compared to the prior base period, net of the impact of changes in foreign currency exchange rates from the prior base period and excluding
+the tax benefits of share-based compensation activity under ASU 2016-09, &quot;Compensation-Stock Compensation (Topic 718): Improvements
+to Employee Share-Based Payment Accounting ,&quot; and non-recurring or unusual items (if any). Management believes comparable EPS
+growth is a more useful way to measure the Company&rsquo;s business performance than EPS growth because it enables better period-over-period
+comparisons of the fundamental financial results by excluding items that vary independent of performance and provides greater transparency
+to investors regarding a key metric used by management. Comparable EPS growth should be considered in addition to, and not as a replacement
+of or a superior measure to, EPS growth reported in accordance with GAAP. Please refer to the constant currency note above for a summary
+of foreign currency exchange rate impacts. 
+
+ 
+
+ The reconciliation of this non-GAAP financial measure is as follows: 
+
+ 
+
+ 
+ 
+ 
+ Three
+ Months Ended 
+ Year-over-Year 
+ Nine
+ Months Ended 
+ Year-over-Year 
+ 
+ 
+ September 30, 
+ September 30, 
+ 
+ September 30, 
+ September 30, 
+ 
+ 
+ 
+ 2026 
+ 2025 
+ Growth 
+ 2026 
+ 2025 
+ Growth 
+ 
+ Earnings per share (diluted) and growth 
+ $ 4.01 
+ $ 3.40 
+ 18 % 
+ $ 11.75 
+ $ 9.99 
+ 18 % 
+ 
+ Less: comparability adjustments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share-based compensation activity 
+ 0.01 
+ 0.17 
+ 
+ 0.24 
+ 0.28 
+ 
+ 
+ Loss on equity investment 
+ &mdash; 
+ &mdash; 
+ 
+ (0.05 ) 
+ &mdash; 
+ 
+ 
+ Now-concluded litigation matter 
+ &mdash; 
+ &mdash; 
+ 
+ &mdash; 
+ 0.08 
+ 
+ 
+ Change from currency 
+ 0.04 
+ &mdash; 
+ 
+ 0.24 
+ &mdash; 
+ 
+ 
+ Comparable EPS and growth 
+ $ 3.96 
+ $ 3.24 
+ 22 % 
+ $ 11.32 
+ $ 9.63 
+ 18 % 
+ 
+
+ 
+
+ Amounts presented may not recalculate due to rounding. 
+
+ 
+
+ Projected 2026 comparable EPS growth outlined in the 2026 Growth and
+Financial Performance Outlook section of this earnings release reflects the following adjustments: (i) adjustment to projected full
+year 2026 reported EPS for estimated positive year-over-year foreign currency exchange rate change impact of $0.25 at noted exchange rates;
+(ii) adjustment to projected full year 2026 reported EPS for estimated positive impact of share-based compensation activity of $0.24;
+(iii) adjustment to projected full year 2026 EPS of $0.05 for unfavorable impact of a loss on an equity investment; (iv) adjustment
+to full year 2025 reported EPS for a positive $0.08 impact from the discrete litigation expense accrual adjustment in the first quarter
+of 2025; and (v) adjustment to full year 2025 reported EPS for positive impact of share-based compensation activity of $0.35. 
+
+ 
+
+ These impacts and those described in the constant currency note above
+reconcile reported EPS growth (including projected 2026 reported EPS growth) to comparable EPS growth for the Company. 
+
+ 
+
+ Segment and Other Income from Operations - We report segment
+income from operations in our Segment Information table below. Segment income from operations is a non-GAAP financial measure that adjusts
+for the impact of foreign currency transaction gains and losses and should be considered in addition to, and not as a replacement for,
+or superior measure to, income from operations. We exclude foreign currency transaction gains and losses for each reportable segment (CAG,
+Water, and LPD) from segment income from operations and report the full amount of foreign currency transaction gains and losses in Other.
+We believe that reporting segment income from operations provides supplemental analysis to help investors further evaluate each reportable
+segment&rsquo;s business performance by excluding foreign currency transaction gains and losses, which are centrally managed by our corporate
+treasury function and which we do not consider relevant for assessing the results of each reportable segment&rsquo;s operations. 
+
+ 
+
+ The reconciliation of this non-GAAP financial measure is as follows
+for the three and nine months ended September 30, 2026 and 2025: 
+
+ 
+
+ 
+ 
+ 
+ Three Months Ended September 30, 
+ 
+ 
+ 2026 
+ 2025 
+ 
+ Amounts in thousands 
+ Income from 
+ Operations 
+ Impact from 
+Foreign 
+Currency 
+ Segment and 
+Other Income 
+from 
+Operations 
+ Income from 
+Operations 
+ Impact from 
+Foreign 
+Currency 
+ Segment and 
+Other Income 
+from 
+Operations 
+ 
+ CAG 
+ $ 370,216 
+ $ (713 ) 
+ $ 369,503 
+ $ 327,095 
+ $ 1,376 
+ $ 328,471 
+ 
+ Water 
+ 29,624 
+ (50 ) 
+ 29,574 
+ 26,311 
+ 104 
+ 26,415 
+ 
+ LPD 
+ 1,948 
+ (49 ) 
+ 1,899 
+ 364 
+ 107 
+ 471 
+ 
+ Other 
+ 560 
+ 812 
+ 1,372 
+ 1,076 
+ (1,587 ) 
+ (511 ) 
+ 
+ Total 
+ $ 402,348 
+ $ &mdash; 
+ $ 402,348 
+ $ 354,846 
+ $ &mdash; 
+ $ 354,846 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ IDEXX Announces Third Quarter Results November 2, 2026 Page 10 of 17 
+ 
+
+ 
+
+ 
+ 
+ 
+ Nine Months Ended September 30, 
+ 
+ 
+ 2026 
+ 2025 
+ 
+ Amounts in thousands 
+ Income from 
+ Operations 
+ Impact from 
+Foreign 
+Currency 
+ Segment and 
+Other Income 
+from 
+Operations 
+ Income from 
+Operations 
+ Impact from 
+Foreign 
+Currency 
+ Segment and 
+Other Income 
+from 
+Operations 
+ 
+ CAG 
+ $ 1,100,450 
+ $ (109 ) 
+ $ 1,100,341 
+ $ 969,649 
+ $ 2,454 
+ $ 972,103 
+ 
+ Water 
+ 83,525 
+ (8 ) 
+ 83,517 
+ 71,691 
+ 183 
+ 71,874 
+ 
+ LPD 
+ 5,605 
+ (5 ) 
+ 5,600 
+ (98 ) 
+ 189 
+ 91 
+ 
+ Other 
+ 920 
+ 122 
+ 1,042 
+ 3,184 
+ (2,826 ) 
+ 358 
+ 
+ Total 
+ $ 1,190,500 
+ $ &mdash; 
+ $ 1,190,500 
+ $ 1,044,426 
+ $ &mdash; 
+ $ 1,044,426 
+ 
+
+ 
+
+ Free cash flow - Free cash flow is a non-GAAP financial measure
+and means, with respect to a measurement period, the cash generated from operations during that period, reduced by the Company&rsquo;s
+investments in property and equipment. Management believes free cash flow is a useful measure because it indicates the cash the operations
+of the business are generating after appropriate reinvestment for recurring investments in property and equipment that are required to
+operate the business. Free cash flow should be considered in addition to, and not as a replacement of or a superior measure to, net cash
+provided by operating activities. See the supplementary analysis of results below for our calculation of free cash flow for the three
+and nine months ended September 30, 2026 and 2025. To estimate projected 2026 free cash flow, we have deducted projected purchases
+of property and equipment (also referred to as capital expenditures) of approximately $160 million. Free cash flow conversion, or the
+net income to free cash flow ratio, is a non-GAAP financial measure that is defined as free cash flow, with respect to a measurement period,
+divided by net income for the same period. To calculate trailing twelve-month net income to free cash flow ratio for the twelve months
+ended September 30, 2026, we have deducted purchases of property and equipment of approximately $115 million from net cash provided
+from operating activities of approximately $1,419 million, divided by net income of approximately $1,182 million. 
+
+ 
+
+ Notes and Definitions 
+
+ 
+
+ Discrete litigation expense accrual - During the first quarter
+of 2025, the Company reduced its previously established $89.0 million accrual related to a concluded litigation matter by approximately
+$9 million, which represented our best estimate at that time of the amount of the loss. 
+
+ 
+
+ Concluded litigation matter - The Company was a defendant in
+a litigation matter involving an alleged breach of contract for underpayment of royalty payments made from 2004 through 2017 under an
+expired patent license agreement, and the trial court ruled in favor of the plaintiff in 2020. Following appeals and in light of the appellate
+court's April 3, 2025 decision, on April 17, 2025, the Company paid the judgment of approximately $80 million, and the plaintiff
+executed a satisfaction and release of judgment, which was filed with the trial court on the same date, concluding this matter. 
+
+ 
+
+ 
+
+ 
+ 
+ IDEXX Announces Third Quarter Results November 2, 2026 Page 11 of 17 
+ 
+
+ 
+
+ IDEXX Laboratories, Inc. and Subsidiaries 
+
+ Condensed Consolidated Statement of Operations 
+
+ Amounts in thousands except per share data (Unaudited) 
+
+ 
+
+ 
+ 
+ 
+ 
+ Three Months Ended 
+ Nine Months Ended 
+ 
+ 
+ 
+ September 30, 
+ September 30, 
+ September 30, 
+ September 30, 
+ 
+ 
+ 
+ 2026 
+ 2025 
+ 2026 
+ 2025 
+ 
+ Revenue: 
+ Revenue 
+ $ 1,214,237 
+ $ 1,105,239 
+ $ 3,571,642 
+ $ 3,213,123 
+ 
+ Expenses and Income: 
+ Cost of revenue 
+ 449,939 
+ 421,885 
+ 1,305,518 
+ 1,211,658 
+ 
+ 
+ Gross profit 
+ 764,298 
+ 683,354 
+ 2,266,124 
+ 2,001,465 
+ 
+ 
+ Sales and marketing 
+ 169,850 
+ 159,157 
+ 516,377 
+ 476,487 
+ 
+ 
+ General and administrative 
+ 123,283 
+ 105,936 
+ 359,213 
+ 296,178 
+ 
+ 
+ Research and development 
+ 68,817 
+ 63,415 
+ 200,034 
+ 184,374 
+ 
+ 
+ Total operating expense 
+ 361,950 
+ 328,508 
+ 1,075,624 
+ 957,039 
+ 
+ 
+ Income from operations 
+ 402,348 
+ 354,846 
+ 1,190,500 
+ 1,044,426 
+ 
+ 
+ Non-operating income (expense), net 
+ (3,023 ) 
+ (10,075 ) 
+ (18,509 ) 
+ (27,219 ) 
+ 
+ 
+ Income before provision for income taxes 
+ 399,325 
+ 344,771 
+ 1,171,991 
+ 1,017,207 
+ 
+ 
+ Provision for income taxes 
+ 82,180 
+ 70,161 
+ 237,988 
+ 205,931 
+ 
+ Net Income: 
+ Net income attributable to stockholders 
+ $ 317,145 
+ $ 274,610 
+ $ 934,003 
+ $ 811,276 
+ 
+ 
+ Earnings per share: Basic 
+ $ 4.02 
+ $ 3.43 
+ $ 11.80 
+ $ 10.06 
+ 
+ 
+ Earnings per share: Diluted 
+ $ 4.01 
+ $ 3.40 
+ $ 11.75 
+ $ 9.99 
+ 
+ 
+ Shares outstanding: Basic 
+ 78,825 
+ 80,096 
+ 79,139 
+ 80,605 
+ 
+ 
+ Shares outstanding: Diluted 
+ 79,049 
+ 80,675 
+ 79,512 
+ 81,207 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ IDEXX Laboratories, Inc. and Subsidiaries 
+ 
+ 
+ 
+ 
+ 
+ Selected Operating Information (Unaudited) 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Three Months Ended 
+ Nine Months Ended 
+ 
+ 
+ 
+ September 30, 
+ September 30, 
+ September 30, 
+ September 30, 
+ 
+ 
+ 
+ 2026 
+ 2025 
+ 2026 
+ 2025 
+ 
+ Operating Ratios 
+ Gross profit 
+ 62.9 % 
+ 61.8 % 
+ 63.4 % 
+ 62.3 % 
+ 
+ (as a percentage of revenue): 
+ Sales, marketing, general and administrative expense 
+ 24.1 % 
+ 24.0 % 
+ 24.5 % 
+ 24.0 % 
+ 
+ 
+ Research and development expense 
+ 5.7 % 
+ 5.7 % 
+ 5.6 % 
+ 5.7 % 
+ 
+ 
+ Income from operations 1 
+ 33.1 % 
+ 32.1 % 
+ 33.3 % 
+ 32.5 % 
+ 
+
+ 
+
+ 1 Amounts presented
+may not recalculate due to rounding. 
+
+ 
+
+ 
+
+ 
+ 
+ IDEXX Announces Third Quarter Results November 2, 2026 Page 12 of 17 
+ 
+
+ 
+
+ IDEXX Laboratories, Inc. and Subsidiaries 
+
+ Segment and Other Information 
+
+ Amounts in thousands (Unaudited) 
+
+ 
+
+ 
+ 
+ 
+ 
+ Three Months Ended 
+ 
+ 
+ 
+ September 30, 
+ 2026 
+ Percent of 
+ Revenue 
+ September 30, 
+ 2025 
+ Percent of 
+ Revenue 
+ 
+ Revenue: 
+ CAG 
+ $ 1,115,968 
+ 
+ $ 1,012,534 
+ 
+ 
+ 
+ Water 
+ 58,836 
+ 
+ 54,297 
+ 
+ 
+ 
+ LPD 
+ 34,828 
+ 
+ 33,944 
+ 
+ 
+ 
+ Other 
+ 4,605 
+ 
+ 4,464 
+ 
+ 
+ 
+ Total 
+ $ 1,214,237 
+ 
+ $ 1,105,239 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gross Profit: 
+ CAG 
+ $ 701,345 
+ 62.8 % 
+ $ 627,456 
+ 62.0 % 
+ 
+ 
+ Water 
+ 42,714 
+ 72.6 % 
+ 38,057 
+ 70.1 % 
+ 
+ 
+ LPD 
+ 18,310 
+ 52.6 % 
+ 15,945 
+ 47.0 % 
+ 
+ 
+ Other 
+ 1,929 
+ 41.9 % 
+ 1,896 
+ 42.5 % 
+ 
+ 
+ Total 
+ $ 764,298 
+ 62.9 % 
+ $ 683,354 
+ 61.8 % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income from Operations: 
+ CAG 
+ $ 369,503 
+ 33.1 % 
+ $ 328,471 
+ 32.4 % 
+ 
+ 
+ Water 
+ 29,574 
+ 50.3 % 
+ 26,415 
+ 48.6 % 
+ 
+ 
+ LPD 
+ 1,899 
+ 5.5 % 
+ 471 
+ 1.4 % 
+ 
+ 
+ Other 
+ 1,372 
+ 29.8 % 
+ (511 ) 
+ (11.4 )% 
+ 
+ 
+ Total 
+ $ 402,348 
+ 33.1 % 
+ $ 354,846 
+ 32.1 % 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Nine Months Ended 
+ 
+ 
+ 
+ September 30, 
+ 2026 
+ Percent of 
+ Revenue 
+ September 30, 
+ 2025 
+ Percent of 
+ Revenue 
+ 
+ Revenue: 
+ CAG 
+ $ 3,288,256 
+ 
+ $ 2,954,813 
+ 
+ 
+ 
+ Water 
+ 167,665 
+ 
+ 150,619 
+ 
+ 
+ 
+ LPD 
+ 102,492 
+ 
+ 94,302 
+ 
+ 
+ 
+ Other 
+ 13,229 
+ 
+ 13,389 
+ 
+ 
+ 
+ Total 
+ $ 3,571,642 
+ 
+ $ 3,213,123 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gross Profit: 
+ CAG 
+ $ 2,084,641 
+ 63.4 % 
+ $ 1,844,381 
+ 62.4 % 
+ 
+ 
+ Water 
+ 122,849 
+ 73.3 % 
+ 105,641 
+ 70.1 % 
+ 
+ 
+ LPD 
+ 53,871 
+ 52.6 % 
+ 45,239 
+ 48.0 % 
+ 
+ 
+ Other 
+ 4,763 
+ 36.0 % 
+ 6,204 
+ 46.3 % 
+ 
+ 
+ Total 
+ $ 2,266,124 
+ 63.4 % 
+ $ 2,001,465 
+ 62.3 % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income from Operations: 
+ CAG 
+ $ 1,100,341 
+ 33.5 % 
+ $ 972,103 
+ 32.9 % 
+ 
+ 
+ Water 
+ 83,517 
+ 49.8 % 
+ 71,874 
+ 47.7 % 
+ 
+ 
+ LPD 
+ 5,600 
+ 5.5 % 
+ 91 
+ 0.1 % 
+ 
+ 
+ Other 
+ 1,042 
+ 7.9 % 
+ 358 
+ 2.7 % 
+ 
+ 
+ Total 
+ $ 1,190,500 
+ 33.3 % 
+ $ 1,044,426 
+ 32.5 % 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ IDEXX Announces Third Quarter Results November 2, 2026 Page 13 of 17 
+ 
+
+ 
+
+ IDEXX Laboratories, Inc. and Subsidiaries 
+
+ Revenues and Revenue Growth Analysis by Product and Service
+Categories and by Domestic and International Markets 
+
+ Amounts in thousands (Unaudited) 
+
+ 
+
+ 
+ 
+ 
+ Three
+ Months Ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net
+ Revenue 
+ September 30, 
+ 2026 
+ September 30,
+ 
+ 2025 
+ Dollar 
+ Change 
+ Reported 
+ Revenue 
+ Growth 1 
+ Percentage 
+ Change from Currency 
+ Percentage 
+ Change from 
+ Acquisitions 
+ Organic 
+ Revenue 
+ Growth 1 
+ 
+ CAG 
+ $ 1,115,968 
+ $ 1,012,534 
+ $ 103,434 
+ 10.2 % 
+ (0.2 )% 
+ 0.1 % 
+ 10.4 % 
+ 
+ United
+ States 
+ 725,876 
+ 668,418 
+ 57,458 
+ 8.6 % 
+ &mdash; 
+ 0.1 % 
+ 8.5 % 
+ 
+ International 
+ 390,092 
+ 344,116 
+ 45,976 
+ 13.4 % 
+ (0.7 )% 
+ &mdash; 
+ 14.0 % 
+ 
+ Water 
+ $ 58,836 
+ $ 54,297 
+ $ 4,539 
+ 8.4 % 
+ 0.6 % 
+ &mdash; 
+ 7.8 % 
+ 
+ United
+ States 
+ 31,297 
+ 28,070 
+ 3,227 
+ 11.5 % 
+ &mdash; 
+ &mdash; 
+ 11.5 % 
+ 
+ International 
+ 27,539 
+ 26,227 
+ 1,312 
+ 5.0 % 
+ 1.1 % 
+ &mdash; 
+ 3.9 % 
+ 
+ LPD 
+ $ 34,828 
+ $ 33,944 
+ $ 884 
+ 2.6 % 
+ (0.4 )% 
+ &mdash; 
+ 3.0 % 
+ 
+ United
+ States 
+ 7,651 
+ 6,861 
+ 790 
+ 11.5 % 
+ &mdash; 
+ &mdash; 
+ 11.5 % 
+ 
+ International 
+ 27,177 
+ 27,083 
+ 94 
+ 0.3 % 
+ (0.5 )% 
+ &mdash; 
+ 0.8 % 
+ 
+ Other 
+ $ 4,605 
+ $ 4,464 
+ $ 141 
+ 3.2 % 
+ &mdash; 
+ &mdash; 
+ 3.2 % 
+ 
+ Total Company 
+ $ 1,214,237 
+ $ 1,105,239 
+ $ 108,998 
+ 9.9 % 
+ (0.2 )% 
+ 0.1 % 
+ 10.0 % 
+ 
+ United
+ States 
+ 766,582 
+ 705,040 
+ 61,542 
+ 8.7 % 
+ &mdash; 
+ 0.1 % 
+ 8.6 % 
+ 
+ International 
+ 447,655 
+ 400,199 
+ 47,456 
+ 11.9 % 
+ (0.5 )% 
+ &mdash; 
+ 12.4 % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Three
+ Months Ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net
+ CAG Revenue 
+ September 30, 
+ 2026 
+ September 30,
+ 
+ 2025 
+ Dollar 
+ Change 
+ Reported 
+ Revenue 
+ Growth 1 
+ Percentage 
+ Change from Currency 
+ Percentage 
+ Change from 
+ Acquisitions 
+ Organic 
+ Revenue 
+ Growth 1 
+ 
+ CAG Diagnostics
+ recurring revenue: 
+ $ 967,351 
+ $ 873,273 
+ $ 94,078 
+ 10.8 % 
+ (0.2 )% 
+ &mdash; 
+ 11.0 % 
+ 
+ IDEXX
+ VetLab consumables 
+ 443,245 
+ 387,813 
+ 55,432 
+ 14.3 % 
+ (0.3 )% 
+ &mdash; 
+ 14.6 % 
+ 
+ Rapid
+ assay products 
+ 89,135 
+ 88,638 
+ 497 
+ 0.6 % 
+ (0.2 )% 
+ &mdash; 
+ 0.7 % 
+ 
+ Reference
+ laboratory diagnostic and consulting services 
+ 399,079 
+ 362,725 
+ 36,354 
+ 10.0 % 
+ (0.2 )% 
+ &mdash; 
+ 10.2 % 
+ 
+ CAG
+ Diagnostics services and accessories 
+ 35,892 
+ 34,097 
+ 1,795 
+ 5.3 % 
+ (0.1 )% 
+ &mdash; 
+ 5.4 % 
+ 
+ CAG Diagnostics capital
+ &ndash; instruments 
+ $ 51,492 
+ $ 51,479 
+ $ 13 
+ &mdash; 
+ (0.3 )% 
+ &mdash; 
+ 0.4 % 
+ 
+ Veterinary software, services
+ and diagnostic imaging systems: 
+ $ 97,125 
+ $ 87,782 
+ $ 9,343 
+ 10.6 % 
+ 0.1 % 
+ 0.7 % 
+ 9.9 % 
+ 
+ Recurring
+ revenue 
+ 77,472 
+ 70,988 
+ 6,484 
+ 9.1 % 
+ 0.2 % 
+ 0.8 % 
+ 8.2 % 
+ 
+ Systems
+ and hardware 
+ 19,653 
+ 16,794 
+ 2,859 
+ 17.0 % 
+ &mdash; 
+ &mdash; 
+ 17.0 % 
+ 
+ Net CAG revenue 
+ $ 1,115,968 
+ $ 1,012,534 
+ $ 103,434 
+ 10.2 % 
+ (0.2 )% 
+ 0.1 % 
+ 10.4 % 
+
+ 
+ 
+ 
+ 
+ 
+ Three
+ Months Ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ September 30, 
+ 2026 
+ September 30,
+ 
+ 2025 
+ Dollar 
+ Change 
+ Reported 
+ Revenue 
+ Growth 1 
+ Percentage 
+ Change from Currency 
+ Percentage 
+ Change from 
+ Acquisitions 
+ Organic 
+ Revenue 
+ Growth 1 
+ 
+ CAG Diagnostics
+ recurring revenue: 
+ $ 967,351 
+ $ 873,273 
+ $ 94,078 
+ 10.8 % 
+ (0.2 )% 
+ &mdash; 
+ 11.0 % 
+ 
+ United
+ States 
+ 620,322 
+ 565,951 
+ 54,371 
+ 9.6 % 
+ &mdash; 
+ &mdash; 
+ 9.6 % 
+ 
+ International 
+ 347,029 
+ 307,322 
+ 39,707 
+ 12.9 % 
+ (0.7 )% 
+ &mdash; 
+ 13.6 % 
+ 
+
+ 
+
+ 1 See Statements Regarding Non-GAAP Financial Measures, above. Amounts presented may not recalculate due to rounding. 
+
+ 
+
+ 
+
+ 
+ 
+ IDEXX Announces Third Quarter Results November 2, 2026 Page 14 of 17 
+ 
+
+ 
+
+ IDEXX Laboratories, Inc. and Subsidiaries 
+
+ Revenues and Revenue Growth Analysis by Product and Service
+Categories and by Domestic and International Markets 
+
+ Amounts in thousands (Unaudited) 
+
+ 
+
+ 
+ 
+ 
+ Nine
+ Months Ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net
+ Revenue 
+ September 30, 
+ 2026 
+ September 30,
+ 
+ 2025 
+ Dollar 
+ Change 
+ Reported 
+ Revenue 
+ Growth 1 
+ Percentage 
+ Change from Currency 
+ Percentage 
+ Change from 
+ Acquisitions 
+ Organic 
+ Revenue 
+ Growth 1 
+ 
+ CAG 
+ $ 3,288,256 
+ $ 2,954,813 
+ $ 333,443 
+ 11.3 % 
+ 1.1 % 
+ &mdash; 
+ 10.2 % 
+ 
+ United
+ States 
+ 2,151,668 
+ 1,976,804 
+ 174,864 
+ 8.8 % 
+ &mdash; 
+ &mdash; 
+ 8.8 % 
+ 
+ International 
+ 1,136,588 
+ 978,009 
+ 158,579 
+ 16.2 % 
+ 3.3 % 
+ &mdash; 
+ 13.0 % 
+ 
+ Water 
+ $ 167,665 
+ $ 150,619 
+ $ 17,046 
+ 11.3 % 
+ 2.0 % 
+ &mdash; 
+ 9.3 % 
+ 
+ United
+ States 
+ 87,311 
+ 77,663 
+ 9,648 
+ 12.4 % 
+ &mdash; 
+ &mdash; 
+ 12.4 % 
+ 
+ International 
+ 80,354 
+ 72,956 
+ 7,398 
+ 10.1 % 
+ 4.0 % 
+ &mdash; 
+ 6.2 % 
+ 
+ LPD 
+ $ 102,492 
+ $ 94,302 
+ $ 8,190 
+ 8.7 % 
+ 2.3 % 
+ &mdash; 
+ 6.3 % 
+ 
+ United
+ States 
+ 20,643 
+ 18,416 
+ 2,227 
+ 12.1 % 
+ &mdash; 
+ &mdash; 
+ 12.1 % 
+ 
+ International 
+ 81,849 
+ 75,886 
+ 5,963 
+ 7.9 % 
+ 2.9 % 
+ &mdash; 
+ 5.0 % 
+ 
+ Other 
+ $ 13,229 
+ $ 13,389 
+ $ (160 ) 
+ (1.2 )% 
+ &mdash; 
+ &mdash; 
+ (1.2 )% 
+ 
+ Total Company 
+ $ 3,571,642 
+ $ 3,213,123 
+ $ 358,519 
+ 11.2 % 
+ 1.1 % 
+ &mdash; 
+ 10.0 % 
+ 
+ United
+ States 
+ 2,264,782 
+ 2,077,770 
+ 187,012 
+ 9.0 % 
+ &mdash; 
+ &mdash; 
+ 9.0 % 
+ 
+ International 
+ 1,306,860 
+ 1,135,353 
+ 171,507 
+ 15.1 % 
+ 3.3 % 
+ &mdash; 
+ 11.9 % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Nine
+ Months Ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net
+ CAG Revenue 
+ September 30, 
+ 2026 
+ September 30,
+ 
+ 2025 
+ Dollar 
+ Change 
+ Reported 
+ Revenue 
+ Growth 1 
+ Percentage 
+ Change from Currency 
+ Percentage 
+ Change from 
+ Acquisitions 
+ Organic 
+ Revenue 
+ Growth 1 
+ 
+ CAG Diagnostics
+ recurring revenue: 
+ $ 2,862,377 
+ $ 2,557,535 
+ $ 304,842 
+ 11.9 % 
+ 1.1 % 
+ &mdash; 
+ 10.8 % 
+ 
+ IDEXX
+ VetLab consumables 
+ 1,286,164 
+ 1,107,704 
+ 178,460 
+ 16.1 % 
+ 1.6 % 
+ &mdash; 
+ 14.5 % 
+ 
+ Rapid
+ assay products 
+ 275,648 
+ 272,912 
+ 2,736 
+ 1.0 % 
+ 0.4 % 
+ &mdash; 
+ 0.6 % 
+ 
+ Reference
+ laboratory diagnostic and consulting services 
+ 1,191,987 
+ 1,074,825 
+ 117,162 
+ 10.9 % 
+ 0.8 % 
+ &mdash; 
+ 10.1 % 
+ 
+ CAG
+ Diagnostics services and accessories 
+ 108,578 
+ 102,094 
+ 6,484 
+ 6.4 % 
+ 1.5 % 
+ &mdash; 
+ 4.9 % 
+ 
+ CAG Diagnostics capital
+ &ndash; instruments 
+ $ 141,115 
+ $ 142,073 
+ $ (958 ) 
+ (0.7 )% 
+ 0.8 % 
+ &mdash; 
+ (1.4 )% 
+ 
+ Veterinary software, services
+ and diagnostic imaging systems: 
+ $ 284,764 
+ $ 255,205 
+ $ 29,559 
+ 11.6 % 
+ 0.5 % 
+ 0.2 % 
+ 10.9 % 
+ 
+ Recurring
+ revenue 
+ 227,351 
+ 205,735 
+ 21,616 
+ 10.5 % 
+ 0.6 % 
+ 0.3 % 
+ 9.7 % 
+ 
+ Systems
+ and hardware 
+ 57,413 
+ 49,470 
+ 7,943 
+ 16.1 % 
+ 0.2 % 
+ &mdash; 
+ 15.8 % 
+ 
+ Net CAG revenue 
+ $ 3,288,256 
+ $ 2,954,813 
+ $ 333,443 
+ 11.3 % 
+ 1.1 % 
+ &mdash; 
+ 10.2 % 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Nine
+ Months Ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ September 30, 
+ 2026 
+ September 30,
+ 
+ 2025 
+ Dollar 
+ Change 
+ Reported 
+ Revenue 
+ Growth 1 
+ Percentage 
+ Change from Currency 
+ Percentage 
+ Change from 
+ Acquisitions 
+ Organic 
+ Revenue 
+ Growth 1 
+ 
+ CAG Diagnostics
+ recurring revenue: 
+ $ 2,862,377 
+ $ 2,557,535 
+ $ 304,842 
+ 11.9 % 
+ 1.1 % 
+ &mdash; 
+ 10.8 % 
+ 
+ United
+ States 
+ 1,845,309 
+ 1,677,937 
+ 167,372 
+ 10.0 % 
+ &mdash; 
+ &mdash; 
+ 10.0 % 
+ 
+ International 
+ 1,017,068 
+ 879,598 
+ 137,470 
+ 15.6 % 
+ 3.3 % 
+ &mdash; 
+ 12.3 % 
+ 
+
+ 
+
+ 1 See
+Statements Regarding Non-GAAP Financial Measures, above. Amounts presented may not recalculate due to rounding. 
+
+ 
+
+ 
+
+ 
+ 
+ IDEXX Announces Third Quarter Results November 2, 2026 Page 15 of 17 
+ 
+
+ 
+
+ IDEXX Laboratories, Inc. and Subsidiaries 
+
+ Condensed Consolidated Balance Sheet 
+
+ Amounts in thousands (Unaudited) 
+
+ 
+
+ 
+ 
+ 
+ 
+ September 30, 
+
+ 2026 
+ December 31, 
+ 2025 
+ 
+ Assets: 
+ Current Assets: 
+ 
+ 
+ 
+ 
+ Cash and cash equivalents 
+ $ 197,536 
+ $ 180,070 
+ 
+ 
+ Accounts receivable, net 
+ 615,799 
+ 552,378 
+ 
+ 
+ Inventories 
+ 390,874 
+ 377,756 
+ 
+ 
+ Other current assets 
+ 295,795 
+ 303,623 
+ 
+ 
+ Total current assets 
+ 1,500,004 
+ 1,413,827 
+ 
+ 
+ Property and equipment, net 
+ 732,131 
+ 747,380 
+ 
+ 
+ Other long-term assets, net 
+ 1,474,974 
+ 1,189,552 
+ 
+ 
+ Total assets 
+ $ 3,707,109 
+ $ 3,350,759 
+ 
+ Liabilities and Stockholders' 
+ 
+ 
+ 
+ 
+ Equity: 
+ Current Liabilities: 
+ 
+ 
+ 
+ 
+ Accounts payable 
+ $ 154,086 
+ $ 110,408 
+ 
+ 
+ Accrued liabilities 
+ 520,957 
+ 530,147 
+ 
+ 
+ Line of credit 
+ 474,000 
+ 398,000 
+ 
+ 
+ Current portion of long-term debt 
+ 74,998 
+ 74,995 
+ 
+ 
+ Deferred revenue 
+ 40,181 
+ 35,264 
+ 
+ 
+ Total current liabilities 
+ 1,264,222 
+ 1,148,814 
+ 
+ 
+ Long-term debt, net of current portion 
+ 299,879 
+ 374,842 
+ 
+ 
+ Other long-term liabilities, net 
+ 273,831 
+ 221,720 
+ 
+ 
+ Total long-term liabilities 
+ 573,710 
+ 596,562 
+ 
+ 
+ Total stockholders' equity 
+ 1,869,177 
+ 1,605,383 
+ 
+ 
+ Total liabilities and stockholders' equity 
+ $ 3,707,109 
+ $ 3,350,759 
+ 
+
+ 
+
+ IDEXX Laboratories, Inc. and Subsidiaries 
+
+ Selected Balance Sheet Information (Unaudited) 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ September 30, 2026 
+ June 30, 2026 
+ March 31, 2026 
+ December 31, 2025 
+ September 30, 2025 
+ 
+ Selected Balance Sheet Information: 
+ Days sales outstanding 1 
+ 46.7 
+ 46.2 
+ 46.2 
+ 46.8 
+ 46.5 
+ 
+ 
+ Inventory turns 2 
+ 1.5 
+ 1.4 
+ 1.4 
+ 1.6 
+ 1.5 
+ 
+
+ 
+
+ 1 Days sales outstanding represents the average of the accounts receivable balances at the beginning and end of each quarter divided by revenue for that quarter, the result of which is then multiplied by 91.25 days. 
+
+ 2 Inventory turns are calculated as the ratio of our inventory-related cost of revenue for the quarter multiplied by four, divided by the average inventory balances at the beginning and end of each quarter. 
+
+ 
+
+ 
+
+ 
+ 
+ IDEXX Announces Third Quarter Results November 2, 2026 Page 16 of 17 
+ 
+
+ 
+
+ IDEXX Laboratories, Inc. and Subsidiaries 
+
+ Condensed Consolidated Statement of Cash Flows 
+
+ Amounts in thousands (Unaudited) 
+
+ 
+
+ 
+ 
+ 
+ 
+ Nine Months Ended 
+ 
+ 
+ 
+ September 30, 
+ 2026 
+ September 30, 
+ 2025 
+ 
+ Operating: 
+ Cash Flows from Operating Activities: 
+ 
+ 
+ 
+ 
+ Net income 
+ $ 934,003 
+ $ 811,276 
+ 
+ 
+ Non-cash adjustments to net income 
+ 198,224 
+ 259,262 
+ 
+ 
+ Changes in assets and liabilities 
+ (69,100 ) 
+ (244,493 ) 
+ 
+ 
+ Net cash provided by operating activities 
+ 1,063,127 
+ 826,045 
+ 
+ Investing: 
+ Cash Flows from Investing Activities: 
+ 
+ 
+ 
+ 
+ Purchases of property and equipment 
+ (85,560 ) 
+ (95,242 ) 
+ 
+ 
+ Purchases of equity investments 
+ (1,695 ) 
+ (756 ) 
+ 
+ 
+ Proceeds from equity investments 
+ 4,111 
+ &mdash; 
+ 
+ 
+ Acquisitions 
+ (227,122 ) 
+ (13,350 ) 
+ 
+ 
+ Proceeds from net investment hedges 
+ 3,126 
+ 1,239 
+ 
+ 
+ Net cash used by investing activities 
+ (307,140 ) 
+ (108,109 ) 
+ 
+ Financing: 
+ Cash Flows from Financing Activities: 
+ 
+ 
+ 
+ 
+ Borrowings under credit facility, net 
+ 76,000 
+ 205,000 
+ 
+ 
+ Payments of senior notes 
+ (75,000 ) 
+ (103,386 ) 
+ 
+ 
+ Repurchases of common stock 
+ (810,014 ) 
+ (979,190 ) 
+ 
+ 
+ Proceeds from exercises of stock options and employee stock purchase plans 
+ 82,551 
+ 75,493 
+ 
+ 
+ Shares withheld for statutory tax withholding payments on restricted stock 
+ (11,003 ) 
+ (7,179 ) 
+ 
+ 
+ Net cash used by financing activities 
+ (737,466 ) 
+ (809,262 ) 
+ 
+ 
+ Net effect of changes in exchange rates on cash 
+ (1,055 ) 
+ 11,226 
+ 
+ 
+ Net increase (decrease) in cash and cash equivalents 
+ 17,466 
+ (80,100 ) 
+ 
+ 
+ Cash and cash equivalents, beginning of period 
+ 180,070 
+ 288,266 
+ 
+ 
+ Cash and cash equivalents, end of period 
+ $ 197,536 
+ $ 208,166 
+ 
+
+ 
+
+ IDEXX Laboratories, Inc. and Subsidiaries 
+
+ Free Cash Flow 
+
+ Amounts in thousands (Unaudited) 
+
+ 
+
+ 
+ 
+ 
+ 
+ Three Months Ended 
+ Nine Months Ended 
+ 
+ 
+ 
+ September 30, 
+ 2026 
+ September 30, 
+ 2025 
+ September 30, 
+ 2026 
+ September 30, 
+ 2025 
+ 
+ Free Cash Flow: 
+ Net cash provided by operating activities 
+ $ 449,717 
+ $ 402,340 
+ $ 1,063,127 
+ $ 826,045 
+ 
+ 
+ Investing cash flows attributable to purchases of property and equipment 
+ (28,930 ) 
+ (31,114 ) 
+ (85,560 ) 
+ (95,242 ) 
+ 
+ 
+ Free cash flow 1 
+ $ 420,787 
+ $ 371,226 
+ $ 977,567 
+ $ 730,803 
+ 
+
+ 
+
+ 1 See Statement Regarding Non-GAAP Financial Measures, above. 
+
+ 
+
+ 
+
+ 
+ 
+ IDEXX Announces Third Quarter Results November 2, 2026 Page 17 of 17 
+ 
+
+ 
+
+ IDEXX Laboratories, Inc. and Subsidiaries 
+
+ Common Stock Repurchases 
+
+ Amounts in thousands except per share data (Unaudited) 
+
+ 
+
+ 
+ 
+ 
+ Three Months Ended 
+ Nine Months Ended 
+ 
+ 
+ September 30, 
+ 2026 
+ September 30, 
+ 2025 
+ September 30, 
+ 2026 
+ September 30, 
+ 2025 
+ 
+ Shares repurchased in the open market 
+ 199 
+ 411 
+ 1,369 
+ 2,055 
+ 
+ Shares acquired through employee surrender for statutory tax withholding 
+ &mdash; 
+ &mdash; 
+ 17 
+ 16 
+ 
+ Total shares repurchased 
+ 199 
+ 411 
+ 1,386 
+ 2,071 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of shares repurchased in the open market 
+ $ 111,819 
+ $ 241,568 
+ $ 804,698 
+ $ 978,313 
+ 
+ Cost of shares for employee surrenders 
+ 150 
+ 85 
+ 11,003 
+ 7,179 
+ 
+ Total cost of shares 
+ $ 111,969 
+ $ 241,653 
+ $ 815,701 
+ $ 985,492 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Average cost per share &ndash; open market repurchases 
+ $ 563.04 
+ $ 587.50 
+ $ 588.14 
+ $ 475.92 
+ 
+ Average cost per share &ndash; employee surrenders 
+ $ 545.16 
+ $ 647.08 
+ $ 626.05 
+ $ 454.46 
+ 
+ Average cost per share &ndash; total 
+ $ 563.01 
+ $ 587.52 
+ $ 588.62 
+ $ 475.76
