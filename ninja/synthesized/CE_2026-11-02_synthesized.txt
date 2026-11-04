@@ -1,0 +1,22 @@
+Ticker: CE
+Source: CE_2026-11-02.txt
+Generated: 2026-11-04 20:42 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Celanese Corp (CE)**
+
+**Demand & Activity:**
+Demand is mixed and showing signs of softening. The Acetyl Chain experienced "modest demand softness" ("modest demand softness was more than offset by pricing favorability"), while Engineered Materials saw "sequential automotive declines" ("mainly driven by sequential automotive declines"). However, growth remains robust in specific high-tech sectors, with "strength in medical and electronics" ("Growth in medical and electronics applications continued to support favorable mix enrichment"). Management expects "year-end seasonal moderation across both businesses" ("we expect year-end seasonal moderation across both businesses").
+
+**Labor & Wages:**
+Not explicitly discussed. The company noted the "closure of the acetate tow facility in Lanaken, Belgium" to "optimize the Company's manufacturing footprint and cost structure" ("Completed the previously announced closure... to further optimize the Company's manufacturing footprint").
+
+**Pricing Power & Inflation:**
+The company maintains moderate pricing power, particularly in the Acetyl Chain, where "pricing favorability and incremental spot opportunities" offset weak demand ("modest demand softness was more than offset by pricing favorability"). However, input cost pressures persist in Engineered Materials, where gains were required to "more than offset raw material inflation and higher logistics costs" ("more than offset raw material inflation and higher logistics costs").
+
+**Supply Chain & Inventory:**
+Supply chains are stabilizing, though this has led to a sequential dip in sales as excess inventories are cleared ("net sales declined 9 percent, reflecting anticipated moderation from normalizing supply chains").
+
+**Capital Spending (Capex):**
+Capex is focused on targeted capacity expansions in specialty materials. The company is advancing "planned expansions of specialty compounding operations in Europe" and a "liquid crystal polymer production facility in Asia" ("beginning commissioning activities for the liquid crystal polymer production facility in Asia"). These projects are expected to commercialize in the first half of 2027. Overall spending remains "disciplined" ("supported by... continued discipline in capital expenditures").

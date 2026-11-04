@@ -1,0 +1,22 @@
+Ticker: IDXX
+Source: IDXX_2026-11-02.txt
+Generated: 2026-11-04 20:46 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: IDEXX Laboratories (Q3 2026)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by double-digit organic revenue growth (10%) and strong volume expansion ("led by strong volume expansion"). Growth is particularly strong in the Companion Animal Group (CAG) Diagnostics recurring revenue (11% organic), with international regions showing more robust gains (14% organic) compared to the U.S. (10% organic). While most segments are growing, demand for rapid assay products is softening in terms of volume ("offsetting lower testing volumes").
+
+**2. Labor & Wages**
+The report does not provide specific details on wage inflation or hiring difficulties, though it notes a general increase in operating expenses (10%) to support the "expansion of IDEXX's commercial capabilities."
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate to strong pricing power, citing "net price gains" and "price realization" as key drivers for growth in VetLab consumables and reference laboratory services. These price increases, combined with "operational productivity initiatives," contributed to a 110 basis point increase in gross margin.
+
+**4. Supply Chain & Inventory**
+There are no specific mentions of supply chain disruptions or inventory imbalances. However, the rapid placement of over 1,900 inVue Dx analyzers suggests a stable supply of capital equipment.
+
+**5. Capital Spending (Capex)**
+Capital investment appears to be moderating slightly. The company lowered its full-year 2026 Capex guidance to approximately $160 million, down from the prior estimate of $180 million. Despite this, the company continues to invest in technology, specifically through the acquisition of CoVet, an AI clinical assistant ("acquisition of CoVet, an AI clinical assistant that supports veterinary team productivity").
