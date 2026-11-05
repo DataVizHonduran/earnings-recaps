@@ -1,0 +1,17 @@
+Ticker: TEL
+Source: TEL_2026-10-28.txt
+Generated: 2026-11-05 21:02 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: TE Connectivity (TEL)**
+
+**1. Demand & Activity:** Robust. Demand is growing strongly across both Industrial and Transportation segments, with a particular surge in Industrial Solutions (up 26% in 2026) driven by AI infrastructure ("benefit from our customers AI investments, which create opportunities extending from inside the rack in the data center to the networking edge all the way to the energy grid"). Forward-looking demand remains strong, with orders increasing 27% year-over-year ("Orders of $22.2 billion, up 27%, supporting expected double-digit sales growth in fiscal 2027").
+
+**2. Labor & Wages:** Not addressed. The provided text contains no specific mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation:** Stable to Positive. While specific pricing actions are not detailed, the company is achieving significant margin expansion and record earnings, suggesting strong pricing power or operational efficiency ("Adjusted operating margin was 22%, driven by strong operational performance"). There is no mention of persistent input cost pressure.
+
+**4. Supply Chain & Inventory:** Not addressed. The text does not provide specific data on lead times or inventory levels.
+
+**5. Capital Spending (Capex):** Moderate to Robust. The company is actively investing in capacity and technology through strategic acquisitions to expand its technical capabilities ("committed $1.6 billion for bolt-on acquisitions in the Industrial segment to broaden the optics and power filtering portfolios").

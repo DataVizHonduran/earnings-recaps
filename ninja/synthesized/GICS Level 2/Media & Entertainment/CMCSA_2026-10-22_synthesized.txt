@@ -1,0 +1,22 @@
+Ticker: CMCSA
+Source: CMCSA_2026-10-22.txt
+Generated: 2026-11-05 20:58 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Comcast Corp (CMCSA)**
+
+**1. Demand & Activity**
+Demand is mixed across segments. Residential connectivity is softening, with domestic broadband customer net losses of 144,000 ("Total domestic broadband residential customer net losses were 144,000") and continued declines in video subscribers ("total domestic video customer net losses were 274,000"). Conversely, wireless demand is robust, with 368,000 net additions this quarter ("Domestic Wireless Customer Line Net Additions Were 368,000"). Business Services show moderate growth, specifically within the Enterprise sector ("healthy growth in Business Services, led by Enterprise"). Content demand is strong for cinema ("Universal surpassed $5 billion at the global box office") and streaming ("Paid Subscribers Increased 17% Year-over-Year to 48 Million"), though Theme Parks are facing "near-term cyclical headwinds."
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+Pricing power is bifurcated. The company is seeing success in migrating customers to higher-value tiers ("Nearly 45% of Our Broadband Customers Are Now on Gig-Plus Speed Tiers"), but overall domestic broadband revenue is declining due to "lower average rates." Input costs for the wireless business are increasing, noted as an "increase in direct product costs, mainly due to growth in our domestic wireless business."
+
+**4. Supply Chain & Inventory**
+No specific commentary provided regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Overall capital expenditures remain stable at $3.1 billion ("Capital Expenditures were consistent at $3.1 billion"). However, there is a modest increase in spending for Connectivity Platforms, rising 3.6% to $2.4 billion, which is "primarily reflecting higher spending on customer premise equipment." Conversely, spending in Content Experiences decreased by 10.6% to $639 million.

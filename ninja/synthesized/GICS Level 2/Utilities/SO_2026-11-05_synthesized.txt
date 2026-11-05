@@ -1,0 +1,22 @@
+Ticker: SO
+Source: SO_2026-11-05.txt
+Generated: 2026-11-05 21:02 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Southern Company (SO)**
+
+**1. Demand & Activity**
+Demand is growing robustly, driven by regional expansion and high-load industrial users. Management describes the growth in the Southeast as "unprecedented and transformational" ("The Southeast is growing at a pace that is both unprecedented and transformational"). Specific drivers include "increased usage and customer growth" and "growing revenue from large commercial and industrial customers," with a particular outlook for "significant growth in electricity demand driven primarily by data centers and other large load customers."
+
+**2. Labor & Wages**
+The company notes potential headwinds regarding labor availability and costs. While no current headcount reductions were reported, management identifies "changes in labor costs, availability, and productivity" as ongoing challenges that could lead to "cost and schedule overruns" during the development and operation of facilities.
+
+**3. Pricing Power & Inflation**
+The company is experiencing moderate inflationary pressure on the expense side. While operating revenues increased 13.0% year-over-year, this was "partially offset by higher non-fuel Page operating expenses." Management continues to monitor the "impacts of inflation and trade policies (including tariffs and other trade measures)" as risk factors for project costs.
+
+**4. Supply Chain & Inventory**
+Supply chain conditions remain a point of vulnerability. The company cites risks related to "shortages, delays, increased costs, or inconsistent quality of equipment, materials, and labor," as well as potential "contractor or supplier delay."
+
+**5. Capital Spending (Capex)**
+Capex activity is robust and focused on capacity expansion to meet surging demand. The company highlights a "requirement for substantial new generation and transmission investments" to support data centers and large load customers. Future investment is focused on "low- to no-carbon energy and battery energy storage technologies."

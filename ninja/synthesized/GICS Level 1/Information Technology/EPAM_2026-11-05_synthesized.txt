@@ -1,0 +1,17 @@
+Ticker: EPAM
+Source: EPAM_2026-11-05.txt
+Generated: 2026-11-05 20:59 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: EPAM Systems (Q3 2026)**
+
+**1. Demand & Activity:** Demand is growing at a modest pace. Third quarter revenues increased 2.3% year-over-year ("revenues increased to $1.426 billion, a year-over-year increase of... 2.3%"). There is robust momentum in AI-specific services ("AI-native momentum and traction in our transformation strategy," "launched our new Frontier AI Services"). However, the near-term outlook suggests softening activity, with Q4 revenue growth projected to be nearly flat ("year-over-year change of (0.2)% to 0.9%").
+
+**2. Labor & Wages:** Headcount is stable with a slight upward trend in technical staff. Total headcount stood at approximately 63,650, with delivery professionals seeing a modest increase ("approximately 57,350 delivery professionals, an increase of 1.2% from June 30, 2026"). There were no specific mentions of wage inflation or hiring difficulties.
+
+**3. Pricing Power & Inflation:** The company is experiencing moderate margin expansion, suggesting effective cost management or pricing stability ("continued margin expansion," "GAAP income from operations increased to 12.3% of revenues from 10.4%"). There were no mentions of input cost pressures or specific price hikes.
+
+**4. Supply Chain & Inventory:** Not applicable. As a professional services firm, the company does not maintain physical inventories or experience traditional supply chain lead times.
+
+**5. Capital Spending (Capex):** Investment is focused on technology and strategic network expansion rather than physical facilities. The company is actively investing in its "forward-deployed engineering network" and the launch of "Frontier AI Services." Significant cash outflows are currently directed toward shareholder returns rather than capacity expansion ("committed to returning at least 50% of its free cash flows to shareholders annually from 2027 through 2029").

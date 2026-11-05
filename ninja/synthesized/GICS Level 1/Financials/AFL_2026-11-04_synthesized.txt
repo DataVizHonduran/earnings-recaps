@@ -1,0 +1,22 @@
+Ticker: AFL
+Source: AFL_2026-11-04.txt
+Generated: 2026-11-05 20:58 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Aflac Inc. (3Q26)**
+
+**1. Demand & Activity**
+Demand is mixed by geography. In the U.S., activity is showing moderate growth, with net earned premiums increasing 3.3% ("reflecting improved sales and strong persistency"). In Japan, demand is softening; net earned premiums in yen declined 2.0% for the quarter and 3.2% for the first nine months ("mainly due to the combined impact of an external reinsurance transaction... as well as limited pay products reaching paid-up status"). New annualized premium sales in Japan decreased 4.0% for the quarter, though the company noted "solid growth" in specific savings-type and medical insurance products.
+
+**2. Labor & Wages**
+Not addressed. The transcript contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is not explicitly discussing price hikes, but is focused on "more profitable growth" in the U.S. market. There is evidence of persistent currency pressure; a weaker yen had a "negative $0.03 impact on adjusted earnings per share." In Japan, adjusted net investment income saw a modest increase of 3.7%, driven by "higher fixed-rate income" and gains from U.S. dollar-denominated assets.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a financial services provider, the company does not report on physical supply chains or inventories.
+
+**5. Capital Spending (Capex)**
+The company is maintaining a "balanced approach of investing in growth" and remains focused on the "tactical, opportunistic deployment of capital." No specific dollar amounts or new facility projects were disclosed.

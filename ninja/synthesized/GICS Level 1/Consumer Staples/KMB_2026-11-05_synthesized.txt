@@ -1,0 +1,22 @@
+Ticker: KMB
+Source: KMB_2026-11-05.txt
+Generated: 2026-11-05 21:01 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Kimberly-Clark (KMB)**
+
+**1. Demand & Activity**
+Demand is softening. Organic sales declined 1.3% in Q3, driven by a "China social media disruption" (approx. 270 bps headwind) and "retailer year-over-year inventory movements in North America" ("organic sales declined 1.3 percent"). Year-to-date organic growth remains modest at 0.3%, supported by a slight increase in volume-plus-mix of 1.0% ("Organic sales growth was driven by volume-plus-mix growth of 1.0 percent").
+
+**2. Labor & Wages**
+Not addressed. The transcript contains no specific mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+Pricing power is softening as the company faces persistent cost pressures. Year-to-date organic sales were dragged down by "lower pricing of 0.7 percent." Adjusted gross margins in Q3 decreased by 130 basis points, attributed to "unfavorable pricing net of cost inflation and supply chain related investments" ("driven by unfavorable pricing net of cost inflation").
+
+**4. Supply Chain & Inventory**
+Inventory levels in North America appear to be in a state of adjustment, creating headwinds for sales ("additional headwinds from retailer year-over-year inventory movements in North America"). The company continues to make "supply chain related investments" that have impacted short-term margins.
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for new facilities are not listed, the company is engaged in a "2024 Transformation Initiative" involving significant charges (e.g., $55 million in Q3) and is focusing on "industry-leading productivity gains" ("continued industry-leading productivity gains, will enable us to build on the momentum").

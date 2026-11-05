@@ -1,0 +1,22 @@
+Ticker: FOXA
+Source: FOXA_2026-11-02.txt
+Generated: 2026-11-05 21:00 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Fox Corp (FOXA)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by record quarterly revenue and Adjusted EBITDA ("first-quarter records for revenue and Adjusted EBITDA"). Growth is primarily driven by a surge in advertising, particularly for high-profile sporting events and political cycles ("Advertising revenue increased 47%, primarily due to the current year broadcast of the FIFA Men's World Cup... higher political advertising revenue"). Distribution demand remains stable to modest, with growth noted in both Cable Network Programming ("10% growth") and Television ("4% growth").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate pricing power within its distribution channels. Revenue growth in the Cable segment was supported by "contractual price increases," while the Television segment saw "higher average rates at the Company's owned and operated television stations." On the expense side, the company is facing moderate inflationary pressure regarding content acquisition and production, specifically "higher sports programming rights amortization and production costs" and "higher digital content costs."
+
+**4. Supply Chain & Inventory**
+Not applicable in a traditional industrial sense; however, inventory levels on the balance sheet showed a moderate increase from $487 million to $689 million over the last quarter. No mentions of lead times or supply constraints were provided.
+
+**5. Capital Spending (Capex)**
+The report does not detail specific future facility or technology investment plans, though it notes a slight increase in net property and equipment from $1,842 million to $1,850 million. Management emphasizes a "thoughtful and disciplined manner" regarding the delivery of shareholder value.

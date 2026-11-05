@@ -1,0 +1,22 @@
+Ticker: EFX
+Source: EFX_2026-10-20.txt
+Generated: 2026-11-05 20:59 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Equifax (EFX)**
+
+**1. Demand & Activity**
+Demand is mixed, characterized by robust growth in diversified sectors but softening in the housing market. Diversified Markets showed broad-based strength, particularly in Talent Solutions ("growth over 20%") and Consumer Lending ("high double digits"). Conversely, the U.S. mortgage market is softening significantly due to rising interest rates ("much weaker U.S. mortgage market... as mortgage interest rates increased substantially"), leading to a reduction in full-year revenue guidance. Internationally, activity remains moderate to robust, with "low double-digit revenue growth in Australia" and "high single-digit growth in Latin America."
+
+**2. Labor & Wages**
+The report does not explicitly detail hiring difficulties or wage inflation. However, there is a clear focus on headcount productivity through technology, specifically targeting a "$150 million AI productivity goal" to drive "AI-driven operating cost efficiencies and optimizations."
+
+**3. Pricing Power & Inflation**
+While specific price hikes are not detailed, the company is leveraging "new product innovation" to drive revenue, noting a "record over 17% new product Vitality Index." This suggests an ability to monetize new capabilities despite macroeconomic headwinds.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a data and analytics provider, EFX does not report on physical supply chains or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment is focused on digital transformation and inorganic growth. The company is continuing to invest in "EFX Cloud, EFX.AI, and proprietary data" to maintain its "AI data moat." Additionally, capital is being deployed for "bolt-on M&A," specifically the "Círculo de Crédito acquisition" expected to close in Q4.

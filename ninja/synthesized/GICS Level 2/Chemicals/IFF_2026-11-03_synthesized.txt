@@ -1,0 +1,22 @@
+Ticker: IFF
+Source: IFF_2026-11-03.txt
+Generated: 2026-11-05 21:00 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: IFF (Q3 2026)**
+
+**Demand & Activity:**
+Demand is growing moderately across most segments. Comparable currency-neutral sales increased 5% ("comparable basis, currency neutral sales increased 5% versus the prior-year period"). Growth is broad-based, with robust performance in Scent and Taste, and modest growth in Health Biosciences ("mid-single digit performances in Scent and Taste and low-single digit growth in Health Biosciences"). Geographically, demand is robust in Greater Asia, which saw a double-digit increase in the Taste segment ("led by a double-digit increase in Greater Asia").
+
+**Labor & Wages:**
+The provided text contains no specific data on current wage increases, hiring difficulties, or headcount reductions, though it lists "attraction, retention and turnover of key employees" as a general risk factor.
+
+**Pricing Power & Inflation:**
+The company is experiencing modest relief in input costs, particularly within Health Biosciences, where profitability was supported by a "favorable net price to input costs" contribution. However, the outlook for the fourth quarter suggests softening profitability due to "higher costs" and strategic "reinvestments to strengthen the business."
+
+**Supply Chain & Inventory:**
+The report does not provide specific updates on current lead times or inventory levels, though it lists "working capital and inventory management" and "supply chain disruptions" as standard risk factors.
+
+**Capital Spending (Capex):**
+While specific project dollar amounts are not disclosed, the company is actively investing in "reinvestments to strengthen the business" and continues to prioritize "R&D and innovation" to maintain volume growth. Free cash flow increased significantly to $371 million ("free cash flow... totaled $371 million, increasing $245 million year-over-year"), indicating a strong liquidity position to support these investments.

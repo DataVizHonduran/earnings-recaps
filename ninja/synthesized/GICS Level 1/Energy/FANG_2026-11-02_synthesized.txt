@@ -1,0 +1,22 @@
+Ticker: FANG
+Source: FANG_2026-11-02.txt
+Generated: 2026-11-05 21:00 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Diamondback Energy (FANG)**
+
+**1. Demand & Activity**
+Activity is robust, with a modest upward revision to production targets. The company increased its 2026 annual oil production guidance to 524 MBO d ("from 522+ MBO d") and total BOE production to 1,015 MBOE d ("from 1,000+ MBOE d").
+
+**2. Labor & Wages**
+The provided transcript contains no specific mentions of hiring difficulty, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is a price-taker in commodity markets. Realized oil prices showed moderate softening sequentially, dropping from $96.82 in June to $87.30 in September. Input costs remain stable to slightly elevated; total cash operating expenses were $10.91 per BOE in Q3, compared to $10.05 in the same period last year ("Total operating expense - cash"). However, some relief is noted in guidance for gathering, processing, and transportation costs, which were revised downward to $1.30 - $1.50 ("from $1.40 - $1.60").
+
+**4. Supply Chain & Inventory**
+No specific commentary on lead times or inventory levels was provided. Operational activity remains steady, with 105 wells drilled and 135 completed in the third quarter.
+
+**5. Capital Spending (Capex)**
+Capex plans are expanding moderately to support capacity. Full-year cash capital expenditures guidance was increased to $3.95 - $4.00 billion ("from $3.9 billion"). This includes a slight increase in operated drilling and completion guidance to $3.35 - $3.40 billion ("from $3.310"). Additionally, the company is investing in midstream infrastructure, evidenced by the acquisition of a "7.5% equity interest in the Solitude Pipeline System."

@@ -1,0 +1,29 @@
+Ticker: IT
+Source: IT_2026-11-03.txt
+Generated: 2026-11-05 21:01 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Gartner Inc. (IT)**
+
+**1. Demand & Activity**
+Demand is showing modest growth, characterized by an acceleration in contract value. Global Business Sales (GBS) is seeing more robust activity than Global Technology Sales (GTS).
+*   **Overall:** Modest growth ("Contract Value growth accelerated again").
+*   **GTS:** Slight growth ("Global Technology Sales Contract Value FX Neutral... +2.1% YoY").
+*   **GBS:** Moderate growth ("Global Business Sales Contract Value FX Neutral... +3.7% YoY").
+
+**2. Labor & Wages**
+The company identifies persistent challenges in talent acquisition and retention, specifically citing competitive pressures for specialized roles.
+*   **Labor Market:** Tight/Competitive ("Our ability to attract and retain a professional staff of analysts and consultants... especially in light of labor competition").
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail recent price hikes, but it identifies inflation and associated monetary policy as ongoing systemic risks to the business environment.
+*   **Inflation:** Persistent pressure ("impact of global economic and geopolitical conditions, including inflation (and related monetary policy by governments in response to inflation)").
+
+**4. Supply Chain & Inventory**
+Not applicable. As a professional services and insights firm, the company does not report on physical inventories or commodity lead times.
+
+**5. Capital Spending (Capex)**
+Investment focus is directed toward technological adaptation and inorganic growth rather than physical capacity.
+*   **Technology:** Ongoing investment to keep pace with AI ("ability to keep pace with technological and industry developments in artificial intelligence (AI)").
+*   **Expansion:** Active pursuit of acquisitions ("ability to effectively manage growth, including... consummate and integrate future acquisitions").

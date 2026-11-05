@@ -1,0 +1,17 @@
+Ticker: NCLH
+Source: NCLH_2026-10-29.txt
+Generated: 2026-11-05 21:02 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**NCLH Economic Signal Summary**
+
+**Demand & Activity:** Demand is showing signs of modest improvement, though the booking curve remains below optimal levels. The company reported "stronger-than-expected close-in demand and onboard spend" for Q3. While the 12-month booked position has "improved modestly," it remains "below its optimal range." Looking toward 2027, the company expects "Net Yield growth of 1% to 2%," with a "meaningful acceleration in the back half of the year."
+
+**Labor & Wages:** Not explicitly detailed; however, the company is pursuing "run-rate savings of ~$100 million related to guest and crew air optimization" to improve operating efficiency.
+
+**Pricing Power & Inflation:** Pricing power is moderate and improving. For the first half of 2027, "pricing is ahead of levels at the same time last year." Input costs show mixed signals: the company noted "continued cost discipline" and "lower-than-expected unit costs," with Adjusted Net Cruise Cost (excluding fuel) expected to be "down approximately 0.4%" for the full year. However, energy costs remain a pressure point, as fuel price per metric ton "increased to $819 from $744 in 2025."
+
+**Supply Chain & Inventory:** Not explicitly discussed in terms of lead times or physical inventory. The company is managing capacity through vessel divestitures, having "completed the sale of Oceania Sirena" and entered an agreement to "sell Oceania Insignia."
+
+**Capital Spending (Capex):** Investment is focused on enhancing existing destination assets and technology. The company recently "opened Great Tides Waterpark" at its private island and is implementing a "new marketing platform" and "improvements to revenue management capabilities" to support future demand.
