@@ -1,0 +1,22 @@
+Ticker: LH
+Source: LH_2026-10-28.txt
+Generated: 2026-11-05 21:01 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Labcorp Holdings Inc. (LH)**
+
+**1. Demand & Activity**
+Demand is **robust**, characterized by strong organic growth across primary business lines. Total revenue grew 6.9% year-over-year ("Revenue $3.81 billion vs. $3.56 billion, up 6.9%"). Activity is particularly strong in Biopharma Laboratory Services, driven by a **moderate** increase in Central Labs revenue ("Central Labs revenue growth of 11.5%"), while Early Development remains **stable** ("Early Development revenue growth of 0.4%"). The Biopharma backlog grew by a **slight** margin ("Backlog increased 3.9% compared to this period last year").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company demonstrates **moderate** pricing power, contributing to overall revenue gains. In the Diagnostics Laboratories segment, price/mix increases were a primary driver of growth ("Price Mix... Delta 1.7%"). Additionally, the company is realizing **modest** gains from "operating efficiencies" to expand margins ("increase in adjusted operating income and margin was due to organic growth and operating efficiencies").
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capital investment is **increasing** as the company expands capacity and technology. Quarterly capital expenditures rose to $151.6 million from $106.7 million in the prior year ("Capital Expenditures 151.6 106.7"). The company is also aggressively pursuing an M&A strategy to expand its specialty testing and women's health capabilities, investing $255.5 million in acquisitions during the quarter ("the company invested $255.5 million in acquisitions").
