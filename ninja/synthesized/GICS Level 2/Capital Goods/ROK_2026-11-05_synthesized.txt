@@ -1,0 +1,22 @@
+Ticker: ROK
+Source: ROK_2026-11-05.txt
+Generated: 2026-11-06 20:21 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Rockwell Automation (ROK)**
+
+**1. Demand & Activity**
+Demand is moderate to robust, characterized by broad-based topline growth and expansion in high-growth verticals. Organic sales grew 8% for the full year, with specific strength in "semiconductor and data centers" ("expand our position in high-growth areas including semiconductor and data centers"). Software demand is particularly strong, with organic ARR growing 5% and software ARR increasing in the "high single digits." Management reports entering the next fiscal year with "healthy customer demand" ("We enter fiscal 2027 from a position of strength, with healthy customer demand").
+
+**2. Labor & Wages**
+Labor costs are exerting modest upward pressure on margins. Across all three business segments (Intelligent Devices, Software Control, and Lifecycle Services), margin gains were "partially offset by higher compensation" ("partially offset by higher compensation"). There were no specific mentions of headcount reductions or hiring difficulties.
+
+**3. Pricing Power & Inflation**
+The company demonstrates stable pricing power, citing "price realization" as a driver for full-year pre-tax margin expansion ("The increase was primarily due to... price realization"). However, there is a notable correction regarding past tariff-driven pricing; the company implemented a "customer tariff refund program" to return price increases previously paid by customers due to IEEPA tariffs ("paid price increases on purchases of products that were impacted by IEEPA tariffs").
+
+**4. Supply Chain & Inventory**
+The provided text does not contain specific data regarding current lead times or inventory levels (lean vs. bloated).
+
+**5. Capital Spending (Capex)**
+Specific dollar amounts for future facility or technology investments were not disclosed; however, the company is focusing strategic investment on "AI-enabled and autonomous" industrial operations to "orchestrate plant-wide workflows" ("As industrial operations become increasingly AI-enabled and autonomous, Rockwell is uniquely positioned").

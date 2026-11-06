@@ -1,0 +1,22 @@
+Ticker: NOC
+Source: NOC_2026-10-20.txt
+Generated: 2026-11-06 20:21 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Northrop Grumman (NOC)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by a record backlog of $109.6 billion and a book-to-bill ratio of 1.5x. Growth is uneven across sectors: Aeronautics (+14%) and Defense (+12%) show strong momentum, while Mission Systems (+2%) and Space Systems (+2%) remain relatively stable. Key drivers include "continued strong demand for our global capabilities" and specific ramp-ups in the Sentinel program and restricted space/airborne portfolios.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is demonstrating modest pricing power and margin improvement in specific areas, notably in Aeronautics, where margins rose due to "higher net contract margin adjustments, including on certain mature production and sustainment programs." However, overall segment margins were slightly impacted by a shift in "contract mix toward more cost-type content" in Defense Systems. There is no explicit mention of commodity or freight inflation.
+
+**4. Supply Chain & Inventory**
+While specific lead times are not disclosed, the company reports "improved trade working capital," which contributed to a 12% increase in net cash provided by operating activities. The company is actively "delivering with urgency" to meet the needs of customers in a "complex world."
+
+**5. Capital Spending (Capex)**
+Capex remains stable, with quarterly spending of $306 million (a slight 2% increase year-over-year). Management indicates a strategic focus on expanding capacity to support long-term growth, stating, "Our investments provide the capacity necessary to deliver durable growth as we expand our product offerings and scale our operations."
