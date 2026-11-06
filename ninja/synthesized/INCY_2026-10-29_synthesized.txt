@@ -1,0 +1,22 @@
+Ticker: INCY
+Source: INCY_2026-10-29.txt
+Generated: 2026-11-06 20:19 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Incyte Corp (INCY)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by strong growth across the product portfolio. Total net sales increased 14% year-over-year, driven by "increased demand across marketed products" ("driven by increased demand across marketed products"). Growth is particularly strong in non-core segments, with Opzelura and Hematology/Oncology sales increasing 36% and 38%, respectively ("an increase of 36% and 38%, respectively"). Activity is expanding both "in the U.S. and internationally" ("Net sales growth was strong in both the U.S. and internationally").
+
+**2. Labor & Wages**
+No specific mentions of hiring difficulties, turnover, or wage pressures were provided in the report.
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate pricing power or volume growth, as evidenced by raising full-year 2026 net sales guidance to "reflect continued strong performance across the portfolio" ("Raising 2026 full year financial guidance... to reflect continued strong performance"). There were no mentions of input cost inflation or commodity relief.
+
+**4. Supply Chain & Inventory**
+No data provided regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment is focused heavily on R&D and strategic acquisitions to expand capacity for future growth. The company engaged in a significant capital outlay for the "acquisition of Vega Therapeutics," resulting in a one-time $1.23 billion IPR&D expense ("primarily driven by a one-time $1.23 billion IPR D expense related to the acquisition of Vega Therapeutics"). Additionally, the company is funding "late-stage development efforts" and multiple planned registrational studies for 2027 ("primarily driven by late-stage development efforts").

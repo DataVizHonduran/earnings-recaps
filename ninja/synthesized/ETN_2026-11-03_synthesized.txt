@@ -1,0 +1,30 @@
+Ticker: ETN
+Source: ETN_2026-11-03.txt
+Generated: 2026-11-06 20:18 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Eaton Corp plc (ETN)**
+
+**1. Demand & Activity**
+Demand is **robust** and accelerating across all primary segments, driven by broad end-market strength in electrification and digitalization. Organic sales grew 19% overall.
+*   **Electrical Americas:** Strong growth with a 39% increase in rolling average orders ("twelve-month rolling average of orders... up 39% organically").
+*   **Electrical Global:** Robust expansion, particularly in data center and utility markets ("twelve-month rolling average of orders... up 51% organically").
+*   **Aerospace:** Moderate growth ("twelve-month rolling average of orders... up 20% organically").
+
+**2. Labor & Wages**
+The report does not specify current wage levels or headcount changes, but identifies the ability to "attract, develop, engage and retain qualified employees" as a continuing risk factor for operations.
+
+**3. Pricing Power & Inflation**
+The company is experiencing significant margin expansion, suggesting strong pricing power or operational efficiencies. Segment margins reached a record 25.3% ("record segment margins of 25.3%... driven by higher sales and improved performance"). While the company lists "significant inflation or shortages of raw materials" as a general risk, there is no mention of current input cost pressure impacting the current quarter's record results.
+
+**4. Supply Chain & Inventory**
+Lead times are not explicitly detailed, but the backlog is expanding rapidly, indicating that demand is significantly outpacing immediate supply capacity.
+*   **Electrical:** Backlog grew 46% year-over-year ("Strong year-over-year total backlog growth of 46% in Electrical").
+*   **Aerospace:** Backlog grew 33% ("33% in Aerospace").
+*   **Book-to-Bill:** Remains strong at 1.2 for both Electrical and Aerospace segments.
+
+**5. Capital Spending (Capex)**
+Investment in capacity is **robust** to keep pace with accelerating demand.
+*   **Internal Investment:** Management is actively expanding capacity to support growth ("expand capacity, strengthen execution and position the business to meet accelerating customer demand").
+*   **M&A:** The company is expanding its European manufacturing footprint through the acquisition of COL Group ("expanding manufacturing capacity and power distribution capabilities for data center and utility markets in Europe").

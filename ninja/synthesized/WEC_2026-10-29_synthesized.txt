@@ -1,0 +1,32 @@
+Ticker: WEC
+Source: WEC_2026-10-29.txt
+Generated: 2026-11-06 20:21 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: WEC Energy Group (Q3 2026)**
+
+**1. Demand & Activity**
+Demand for electricity showed modest growth on a weather-normal basis, though nominal figures were bolstered by warmer-than-normal weather. Residential demand saw the most robust increase, while commercial and industrial sectors grew more moderately.
+*   **Residential:** Robust growth ("Residential electricity use rose by 5.1 percent").
+*   **Small Commercial/Industrial:** Moderate growth ("Electricity consumption by small commercial and industrial customers was 3.5 percent higher").
+*   **Large Commercial/Industrial:** Slight growth ("increased by 1.0 percent").
+*   **Overall (Weather-Normal):** Slight growth ("retail deliveries... increased by 0.4 percent").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company does not explicitly detail price hikes, but reports a moderate increase in operating expenses. Management identifies inflation and geopolitical tensions as ongoing risk factors for fuel and supply costs.
+*   **Input Costs:** Moderate pressure ("Total operating expenses" rose from $1,654.4M to $1,726.9M YoY).
+*   **Risk Outlook:** Persistent concerns regarding "inflation" and "geopolitical developments impacting... fuel prices generally."
+
+**4. Supply Chain & Inventory**
+Inventory levels have increased slightly, though the company continues to list supply chain disruptions as a potential risk to operations.
+*   **Inventory:** Modest increase ("Materials, supplies, and inventories" rose from $803.4M at year-end 2025 to $865.2M).
+*   **Supply Chain:** Identified as a continuing risk factor ("supply chain disruptions").
+
+**5. Capital Spending (Capex)**
+Investment activity remains robust, with a specific focus on expanding capacity for high-load users and renewable energy.
+*   **Infrastructure:** Robust investment ("execution of our capital plan," including "projects related to serving data centers and other large-scale customers").
+*   **Asset Growth:** Moderate increase in fixed assets ("Property, plant, and equipment, net" increased from $38,278.1M to $40,791.3M).

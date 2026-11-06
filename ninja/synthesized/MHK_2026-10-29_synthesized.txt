@@ -1,0 +1,22 @@
+Ticker: MHK
+Source: MHK_2026-10-29.txt
+Generated: 2026-11-06 20:20 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Mohawk Industries (MHK)**
+
+**1. Demand & Activity: Softening**
+Demand is generally weak and declining in volume across all segments. Adjusted volumes fell approximately 4% overall ("Volumes declined approximately 4% on an adjusted basis, primarily due to soft market demand"). The decline was most robust in the "Rest of the World" segment, where volumes dropped 10% ("volumes down approximately 10%, primarily due to soft market demand across categories"). Management expects conditions to remain "challenging" and "softer relative to the third quarter" moving into Q4.
+
+**2. Labor & Wages: Not Addressed**
+The provided text contains no specific mentions of hiring, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation: Moderate Pressure / Stable Pricing**
+The company is experiencing persistent inflationary pressure on input costs ("higher underlying inflation of approximately $117 million"). However, MHK demonstrates moderate pricing power, successfully implementing price increases to offset these costs ("executed price increases in response to rising inflation"). Price and mix improvements contributed approximately 4% to sales growth, and management expects to "fully offset" similar inflation headwinds in Q4 and Q1 2027 through pricing and productivity.
+
+**4. Supply Chain & Inventory: Not Addressed**
+The provided text contains no specific data regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex): Slight Reduction**
+Capex plans have been modestly revised downward. The company now anticipates full-year capital expenditures of approximately $445 million, compared to a previous estimate of $460 million ("anticipates full-year capital expenditures of approximately $445 million versus its previous expectation of $460 million").
