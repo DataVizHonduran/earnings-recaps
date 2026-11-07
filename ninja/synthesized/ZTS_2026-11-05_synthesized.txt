@@ -1,0 +1,22 @@
+Ticker: ZTS
+Source: ZTS_2026-11-05.txt
+Generated: 2026-11-07 18:37 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Zoetis Inc. (ZTS)**
+
+**1. Demand & Activity**
+Demand is mixed and diverging by segment and geography. U.S. activity is softening, particularly in the companion animal sector, where revenue decreased 8% due to "macro-driven price sensitivity and competitive pressure" ("Companion animal revenue decreased 8%, reflecting macro-driven price sensitivity"). Conversely, demand for livestock products remains robust globally, with U.S. livestock revenue increasing 5% ("supported by strength across cattle, swine and poultry") and international livestock revenue increasing 9% ("driven by growth in cattle and fish"). International companion animal demand is stable ("remained flat on an organic operational basis").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, wage pressures, or headcount adjustments.
+
+**3. Pricing Power & Inflation**
+Pricing power is softening in the U.S. consumer market, as the company explicitly notes "macro-driven price sensitivity" ("reflecting macro-driven price sensitivity and competitive pressure in dermatology"). There is no specific commentary regarding input cost relief or persistent inflationary pressures on commodities, freight, or energy.
+
+**4. Supply Chain & Inventory**
+The report does not provide current data on lead times or inventory levels, though it lists "disruptions in our global supply chain" as a general risk factor in its forward-looking statements.
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for Capex are not disclosed, the company is maintaining moderate investment in its innovation pipeline and regulatory approvals ("remains on track for expected 2026 product approvals"). This includes the expansion of its portfolio with new FDA-approved therapies and the launch of the "Zoetis Medical Hub" to integrate medical expertise and research.
