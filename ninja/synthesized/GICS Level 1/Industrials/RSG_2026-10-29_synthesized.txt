@@ -1,0 +1,29 @@
+Ticker: RSG
+Source: RSG_2026-10-29.txt
+Generated: 2026-11-07 18:37 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Republic Services (RSG)**
+
+**1. Demand & Activity**
+Demand is showing a mixed but generally stable trend. While overall revenue growth is robust, there is a slight softening in physical volumes.
+* **Organic Growth:** Moderate growth in recycling and waste (4.8%) and modest growth in environmental solutions (2.1%) ("Positive growth trends across the business").
+* **Volume:** Slight decline in activity ("volume decreased revenue by 0.6 percent").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments. The company notes a "Great Place to Work Certification for the 10th Consecutive Year," suggesting stable employee relations.
+
+**3. Pricing Power & Inflation**
+The company demonstrates robust pricing power, which is the primary driver of revenue growth, offsetting the slight decline in volume.
+* **Pricing:** Strong upward price adjustments ("Core price on total revenue increased revenue by 5.3 percent").
+* **Commodities:** Modest relief/gain in recycled commodity values, which increased by $16 per ton over the prior year ("average recycled commodity price... was $142").
+* **Cost Management:** Management remains focused on "effective cost management" to maintain margins.
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment in capacity and expansion remains robust, focused on both organic infrastructure and inorganic growth.
+* **Facilities/Equipment:** Moderate increase in capital expenditures ("Purchases of property and equipment" totaled $1.363 billion year-to-date).
+* **Acquisitions:** Robust investment in strategic expansion ("Invested Approximately $1.1 Billion in Value-Creating Acquisitions Year-to-Date").

@@ -1,0 +1,28 @@
+Ticker: CAH
+Source: CAH_2026-11-05.txt
+Generated: 2026-11-07 18:35 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Cardinal Health (CAH)**
+
+**1. Demand & Activity**
+Demand is **moderate to robust** overall, with total revenue increasing 5% ("revenue increased 5% to $67.5 billion"). Growth is bifurcated by product line:
+* **Pharmaceuticals:** Robust growth driven by "brand and specialty pharmaceutical sales growth from existing customers."
+* **Medical Products:** Stable to softening; revenue was "approximately flat" as growth in house brands was "offset by lower distribution revenue."
+* **Other Segments:** Robust growth across Nuclear, at-Home Solutions, and OptiFreight Logistics ("revenue increased 7% to $1.8 billion").
+
+**2. Labor & Wages**
+No specific mentions of hiring difficulties, turnover, or wage inflation. The report notes modest "restructuring and employee severance" costs of $23 million.
+
+**3. Pricing Power & Inflation**
+The company demonstrates **moderate** pricing power and operational efficiency, evidenced by operating earnings growing faster than revenue (13% vs 5%). However, management flags persistent risks regarding "the amount or rate of generic deflation" and potential "increased costs" stemming from tariffs and geopolitical conflict with Iran.
+
+**4. Supply Chain & Inventory**
+Current state is not explicitly detailed regarding lead times or inventory levels, though the company notes potential "supply disruptions or delays" as a risk factor related to international conflict.
+
+**5. Capital Spending (Capex)**
+Investment is focused on strategic expansion and technology:
+* **Acquisitions:** Anticipates completing the acquisition of AdaptHealth’s Diabetes Health business in Q3 FY27.
+* **R&D/Tech:** Launched a "real-world evidence study INSIGHT-IBD in partnership with Eli Lilly."
+* **Liquidity:** Secured "additional $1.0 billion in uncommitted revolving credit facilities" to support operations.

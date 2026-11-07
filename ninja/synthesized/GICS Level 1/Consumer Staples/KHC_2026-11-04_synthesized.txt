@@ -1,0 +1,22 @@
+Ticker: KHC
+Source: KHC_2026-11-04.txt
+Generated: 2026-11-07 18:36 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Kraft Heinz (KHC)**
+
+**1. Demand & Activity**
+Demand is **softening** overall, though showing regional divergence. North American and Europe/Pacific Developed Markets experienced volume declines, specifically across "meats, sauces, and refreshment beverages" ("unfavorable volume mix impact was primarily driven by declines in North America"). Conversely, demand in Emerging Markets remains **robust**, with significant growth in both price and volume ("Emerging Markets 13.8% [Net Sales increase]"). Management notes that overall trends are "improving in every region" and has slightly raised the low end of the organic sales outlook.
+
+**2. Labor & Wages**
+The report indicates **moderate** upward pressure on labor costs, specifically citing "higher variable compensation expense" as a primary driver for the decrease in Adjusted Operating Income.
+
+**3. Pricing Power & Inflation**
+Pricing power is **stable to softening** in developed markets but remains **robust** in emerging markets. Overall price was "flat," as positive pricing in Emerging Markets was offset by "negative price in both the North America and Europe and Pacific Developed Markets segments." The company is facing **persistent** inflationary pressure, specifically citing "increased inflationary pressures in procurement and logistics costs."
+
+**4. Supply Chain & Inventory**
+Inventory levels are currently being **increased**, with management noting "higher cash outflows for inventory related to stock rebuilding." Activity was also impacted by a "headwind from inventory pull forward into the second quarter," suggesting some volatility in timing of shipments.
+
+**5. Capital Spending (Capex)**
+Investment activity is **moderate** and focused on brand and operational growth. The company intends to continue "investing in our brands and our people," with a specific outlook for "incremental investments of approximately $700 million compared to 2025."

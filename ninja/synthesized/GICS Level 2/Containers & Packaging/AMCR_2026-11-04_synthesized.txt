@@ -1,0 +1,22 @@
+Ticker: AMCR
+Source: AMCR_2026-11-04.txt
+Generated: 2026-11-07 18:34 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Amcor plc (AMCR)**
+
+**1. Demand & Activity**
+Demand is showing modest growth. Organic volumes increased by approximately 1% overall ("broad-based organic volume growth of 1%"), with stronger performance in focus categories ("3% volume growth in the focus categories"). Growth was broad-based across end markets, specifically in pet food, foodservice, and beauty and wellness, and was led geographically by emerging markets ("volumes increased in all geographies, led by emerging markets"). This was partially offset by softening in North American unconverted film volumes.
+
+**2. Labor & Wages**
+Not addressed in the provided text.
+
+**3. Pricing Power & Inflation**
+The company demonstrates stable pricing power via raw material pass-throughs, which contributed a favorable 8% impact on net sales ("pass through of movements in raw material costs had a favorable impact of approximately $435 million"). However, the company is facing moderate inflationary pressure from energy and logistics ("Energy and distribution costs accelerated late in the quarter"). These costs have created a headwind, leading to a lowered Adjusted EPS outlook for the transition period ("lowering its outlook for Adjusted EPS... due to the timing of pass-through of higher energy and distribution costs").
+
+**4. Supply Chain & Inventory**
+Inventory levels have been impacted by commodity volatility. The company reported significant free cash outflow driven by working capital fluctuations ("working capital impacts driven by resin price volatility related to the Middle East conflict"). Lead times were not specified.
+
+**5. Capital Spending (Capex)**
+The company is focused on integration and synergy realization following the Berry acquisition, targeting $650 million in synergies over three years ("on track to achieve our three-year $650 million target"). Specific new capacity or facility investments were not detailed.

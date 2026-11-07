@@ -1,0 +1,22 @@
+Ticker: PPL
+Source: PPL_2026-11-06.txt
+Generated: 2026-11-07 18:36 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: PPL Corp**
+
+**Demand & Activity:**
+Demand is growing robustly, driven primarily by large-load industrial development. There is significant momentum in data center expansion across Pennsylvania and Kentucky. In Pennsylvania, the data center pipeline has grown for the 11th consecutive quarter to 35.3 GW ("data center pipeline grew for the 11th consecutive quarter to approximately 35.3 GW"). Kentucky is seeing similar strength, with an economic development pipeline of 14.7 GW, dominated by data center opportunities ("12.8 GW associated with data center opportunities").
+
+**Labor & Wages:**
+Not addressed.
+
+**Pricing Power & Inflation:**
+The company is utilizing a "growth pays for growth" strategy to mitigate inflationary pressures on existing customers. PPL is leveraging specific tariffs to ensure that new, large-scale users internalize the cost of the required infrastructure ("approved large-load tariffs are designed to ensure that large-load customers driving incremental infrastructure needs bear the associated costs"). The company emphasizes "maintaining strong cost discipline" ("maintaining strong cost discipline") to protect affordability.
+
+**Supply Chain & Inventory:**
+Not addressed.
+
+**Capital Spending (Capex):**
+Capex plans are expanding moderately to support capacity growth. PPL announced a $25 billion capital plan for 2027–2030, which is $2 billion higher than previous projections ("$25 billion capital plan for 2027 to 2030 is $2 billion higher than its prior 2026-2029 plan"). This investment focuses on modernizing networks and adding natural gas combined-cycle units to meet load growth. Additionally, there is a potential for $12 billion to $16 billion in further generation investments through 2032 ("$12 billion to $16 billion of potential additional generation investment through 2032") to support the expanding Kentucky and Pennsylvania pipelines.

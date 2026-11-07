@@ -1,0 +1,24 @@
+Ticker: SLB
+Source: SLB_2026-10-23.txt
+Generated: 2026-11-07 18:37 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: SLB (Q3 2026)**
+
+**1. Demand & Activity**
+Demand is showing robust sequential growth across all regions, characterized by a "distinct upcycle" ("as the upcycle gains momentum"). 
+*   **Geographic Variances:** Growth is led by a "gradual recovery in the Middle East" (up 13% sequentially) and "higher activity in U.S. land" (North America revenue increased 13% year-on-year, excluding acquisitions). International deepwater offshore basins in Latin America, Europe, Sub-Saharan Africa, and Asia are also seeing "broadening international activity."
+*   **Product-Line Variances:** Production Systems saw strong growth driven by "production optimization" and "artificial lift." Data Center Solutions is accelerating rapidly, with revenue increasing "23% sequentially" due to "unprecedented investment" in AI infrastructure.
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring difficulty, turnover, wage increases, or headcount reductions.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price hikes or specific input cost relief. However, the company reports "solid third-quarter results" with sequential revenue growth across all Core divisions, suggesting stable to positive pricing environments as operators "ramp up development efforts to restore production."
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory levels. It does note a "steady flow of new contract awards" for OneSubsea, which has "increased backlog and enhanced revenue visibility into 2027."
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for internal capex are not listed, the company is investing in capacity and technology through strategic acquisitions. The "previously announced acquisition of Kelvion" is intended to "strengthen our technology portfolio" and enhance the ability to deliver integrated solutions for the data center market.

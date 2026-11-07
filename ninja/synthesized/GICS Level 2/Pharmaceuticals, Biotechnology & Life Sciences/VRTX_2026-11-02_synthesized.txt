@@ -1,0 +1,22 @@
+Ticker: VRTX
+Source: VRTX_2026-11-02.txt
+Generated: 2026-11-07 18:37 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Vertex Pharmaceuticals (VRTX)**
+
+**1. Demand & Activity**
+Demand is robust and growing, characterized by strong performance in core and diversifying product lines. In the U.S., revenue grew 10% driven by "continued strong CF patient demand" and new initiations of ALYFTREK. International demand is even more robust, with revenue increasing 16% due to "strong CF performance across multiple geographies." New product uptake is moderate to robust, with JOURNAVX prescriptions growing over 40% quarter-over-quarter and becoming the "most prescribed branded oral pain medicine in the U.S."
+
+**2. Labor & Wages**
+The company is experiencing moderate increases in operating expenses related to headcount and integration. Combined R&D and SG&A expenses rose to $2.2 billion, partially driven by "commercial investment to support build-out of the renal franchise" and "approximately $500 million of compensation and transaction-related expenses" associated with the Crinetics Pharmaceuticals acquisition.
+
+**3. Pricing Power & Inflation**
+Vertex demonstrates robust pricing power within its primary franchise, reporting "higher realized net prices in CF versus the prior year." There are no mentions of input cost inflation or commodity pressures impacting the bottom line.
+
+**4. Supply Chain & Inventory**
+Not addressed. The report contains no specific data regarding lead times, raw material availability, or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment is focused on strategic expansion and capacity for new franchises. The company is aggressively investing in "commercial investment to support build-out of the renal franchise" and the "operations and integration of Crinetics Pharmaceuticals." Additionally, the company is funding a diversified R&D pipeline with "multiple additional near-term milestones."

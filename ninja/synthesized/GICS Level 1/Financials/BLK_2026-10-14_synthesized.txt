@@ -1,0 +1,22 @@
+Ticker: BLK
+Source: BLK_2026-10-14.txt
+Generated: 2026-11-07 18:35 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: BlackRock (BLK)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by broad-based strength across multiple product lines. The firm reported "11% annualized organic base fee growth in the quarter" ("reflect broad-based strength across iShares® ETFs, systematic active equities, private markets, and cash"). Additionally, there is continued momentum in technology services, with a "14% growth in technology services and subscription revenue year-over-year" ("driven by continued momentum in Aladdin® and multi-product solutions").
+
+**2. Labor & Wages**
+Not addressed in the provided text.
+
+**3. Pricing Power & Inflation**
+The company is experiencing moderate positive revenue momentum, though not explicitly linked to price hikes. Revenue increased 19% year-over-year, which "reflects the positive impact of markets, organic base fee growth, higher performance fees, and higher technology services and subscription revenue."
+
+**4. Supply Chain & Inventory**
+Not applicable to this business model.
+
+**5. Capital Spending (Capex)**
+Not addressed in the provided text.

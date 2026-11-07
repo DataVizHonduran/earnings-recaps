@@ -1,0 +1,22 @@
+Ticker: UHS
+Source: UHS_2026-10-27.txt
+Generated: 2026-11-07 18:37 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided press release, the economic signals are as follows:
+
+**1. Demand & Activity**
+Demand appears to be growing moderately, as evidenced by a 5.3% year-over-year increase in net revenues ("Net revenues increased by 5.3% to $4.733 billion during the third quarter of 2026").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is seeing modest positive impacts from government reimbursement adjustments, specifically through Medicaid supplemental payment programs in California and Washington, D.C. ("favorable net pre-tax impact of $47 million... recorded in connection with increases in amounts received from Medicaid supplemental payment programs"). There is no specific commentary on general input cost inflation or private pricing power.
+
+**4. Supply Chain & Inventory**
+The provided text contains no mentions of supply chain lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+The provided text contains no mentions of future capital investment, capacity expansion, or technology spending.
