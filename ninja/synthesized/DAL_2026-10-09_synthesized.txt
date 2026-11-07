@@ -1,0 +1,22 @@
+Ticker: DAL
+Source: DAL_2026-10-09.txt
+Generated: 2026-11-07 18:35 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Delta Air Lines (DAL)**
+
+**1. Demand & Activity:**
+Demand is **robust** and broad-based, driven by a consumer preference for experiences ("broad demand strength and healthy yield growth"). Growth is evident across all geographies, with notable strength in Latin America, where unit revenue improved 22% ("performance led by Latin"). Corporate travel is also showing **moderate** growth, particularly in the Banking, Technology, and Energy sectors ("Corporate sales grew double-digits in all sectors"), with 90% of surveyed clients expecting travel to increase or remain stable into 2027.
+
+**2. Labor & Wages:**
+Labor costs are exerting **moderate** upward pressure. Non-fuel unit costs increased 7.3% year-over-year, attributed in part to "higher crew and revenue-related costs." The company continues to invest in its workforce, having accrued "nearly $900 million in profit sharing year-to-date."
+
+**3. Pricing Power & Inflation:**
+Delta demonstrates **robust** pricing power, achieving "healthy yield growth" and a 15% increase in adjusted total unit revenue (TRASM). However, the company is facing **significant** inflationary pressure from energy costs, absorbing a "$6 billion increase in fuel costs" for the full year. The current environment is described as "one of the most elevated fuel environments in recent times."
+
+**4. Supply Chain & Inventory:**
+Supply chain signals are **stable**, with the company continuing to take delivery of new aircraft (13 aircraft delivered in the September quarter). Capacity is being managed tightly to support yields, with a "reduction in Main Cabin seats" and overall seats growing less than 2% in the December quarter.
+
+**5. Capital Spending (Capex):**
+Capex remains **moderate** and consistent with growth strategies, with gross capital expenditures of $1.4 billion for the September quarter. Investment is focused on fleet expansion (A350-900, A321neo, A220-300) and technological advancement, including the establishment of a "Chief Data Officer position... to advance Delta’s data and AI capabilities."

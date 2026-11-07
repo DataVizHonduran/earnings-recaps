@@ -1,0 +1,22 @@
+Ticker: MTCH
+Source: MTCH_2026-11-02.txt
+Generated: 2026-11-07 18:36 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Match Group (MTCH)**
+
+**1. Demand & Activity**
+Demand is showing signs of a modest recovery and divergence by product line. Tinder is experiencing a softening of its long-term decline, with daily active users returning to year-over-year growth in September for the first time in over three years ("Daily Active Users returned to Y Y growth in September for the first time in three and a half years"). Engagement metrics for Tinder are described as robust ("strongest quarterly Y Y performance since we began tracking them"). Meanwhile, Hinge continues to see robust growth across key metrics ("Hinge delivered Double-Digit User, Revenue, and Payer Growth Y Y").
+
+**2. Labor & Wages**
+Not addressed. The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+Not addressed. The provided text contains no specific mentions of price increases or input cost pressures.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a digital services provider, the company reports no physical supply chain or inventory constraints.
+
+**5. Capital Spending (Capex)**
+The company is moderately increasing investment in product technology and feature development to drive user reconsideration, specifically focusing on social and group-based functionality ("doubling down on our Better with Friends Roadmap to drive reconsideration"). Management is focused on translating these product improvements into "sustainable revenue growth in 2027."

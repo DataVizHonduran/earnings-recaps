@@ -1,0 +1,22 @@
+Ticker: AMT
+Source: AMT_2026-10-27.txt
+Generated: 2026-11-07 18:34 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: American Tower Corp (AMT)**
+
+**1. Demand & Activity**
+Demand for digital infrastructure is robust, driven by cloud adoption and AI applications ("demand for digital infrastructure continues to expand as wireless connectivity, cloud adoption, and AI applications become increasingly critical"). Activity is mixed by product line: Data Centers are seeing robust growth ("16.3% cash revenue growth in Data Centers"), while the global tower portfolio shows stable, consistent leasing demand ("consistent leasing demand across our global tower portfolio").
+
+**2. Labor & Wages**
+Not addressed. The transcript contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is experiencing modest organic growth in tenant billings ("1.1% Organic Tenant Billings Growth"), suggesting stable pricing power. There are no specific mentions of input cost inflation or commodity relief.
+
+**4. Supply Chain & Inventory**
+Not addressed. As a real estate/infrastructure provider, the report does not disclose lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capital expenditures have softened moderately year-over-year ("total cash capital expenditures... $407 million (14.6%)" decrease). Spending remains focused on maintenance and corporate needs, with $48 million dedicated to "non-discretionary capital improvements and corporate capital expenditures." The company is also simplifying its footprint via divestitures, specifically exiting the Canadian market ("expects to sell 100% of the ownership interests in its subsidiaries in Canada").

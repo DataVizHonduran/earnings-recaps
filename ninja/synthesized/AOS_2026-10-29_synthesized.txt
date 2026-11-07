@@ -1,0 +1,22 @@
+Ticker: AOS
+Source: AOS_2026-10-29.txt
+Generated: 2026-11-07 18:34 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: A.O. Smith (AOS)**
+
+**Demand & Activity**
+Demand is mixed and diverging by product and region. North American activity is stable to modest, characterized by "13% boiler sales growth" and a "sales contribution from Leonard Valve," though this is partially offset by "softer residential water heater demand in North America." Demand in China is softening significantly, with sales decreasing "17% in local currency, reflecting continued weak consumer demand."
+
+**Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage trends.
+
+**Pricing Power & Inflation**
+The company is utilizing pricing power to offset "persistent inflationary pressures." Management noted that North American sales were supported by the "benefits of pricing actions." However, these gains are being pressured by "higher input costs, including steel and freight."
+
+**Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory volume levels.
+
+**Capital Spending (Capex)**
+Recent capital expenditures have been modest and are trending lower, with YTD capex of "$33.2 million compared with $53.2 million in the prior year period." The company is shifting its strategic focus to "focus our capital and resources on our highest-return opportunities," specifically targeting "water treatment, water management and India."
