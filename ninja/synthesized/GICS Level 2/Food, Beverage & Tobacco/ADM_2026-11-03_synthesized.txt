@@ -1,0 +1,22 @@
+Ticker: ADM
+Source: ADM_2026-11-03.txt
+Generated: 2026-11-08 18:43 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: ADM (Q3 2026)**
+
+**Demand & Activity**
+Demand is mixed but generally robust in energy-related segments. Biofuels activity is strong, driven by "higher domestic demand resulting from the Renewable Volume Obligation (RVO) policy" and "strong industry-wide exports" for ethanol. Soybean meal demand "remained strong throughout the quarter." Conversely, there is "continued softness in liquid sweetener margins and volumes" and "market softness in Biotics." Global wheat milling volumes are described as "stable."
+
+**Labor & Wages**
+No specific mentions of hiring, turnover, or wage trends were provided in the report.
+
+**Pricing Power & Inflation**
+The company is benefiting from a "constructive North American biofuels margin environment" and "robust North American ethanol margins." However, pricing remains "competitive" for wheat milling. In the Nutrition segment, the company is facing "inflation pressures impacting certain input costs."
+
+**Supply Chain & Inventory**
+The report does not provide specific lead-time data, but notes that "higher corn and soybean exports from North America" helped offset declines in other global agriculture supply chain markets.
+
+**Capital Spending (Capex)**
+Capex projections have been revised downward to a "range of $1.2 to $1.3 billion" from a previous $1.3 to $1.5 billion, a move the company attributes to a "continued prioritization of high-return investments."

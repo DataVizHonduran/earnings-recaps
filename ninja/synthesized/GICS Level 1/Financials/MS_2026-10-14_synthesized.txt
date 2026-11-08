@@ -1,0 +1,22 @@
+Ticker: MS
+Source: MS_2026-10-14.txt
+Generated: 2026-11-08 18:47 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Morgan Stanley (3Q 2026)**
+
+**1. Demand & Activity**
+Demand is robust across several key segments, though mixed by product line. Wealth Management saw strong growth, reporting "record net new assets" of $232 billion ("record net new assets were $232 billion"). Institutional activity showed global strength, particularly in Equities ("driven by client engagement and strength in Asia") and Advisory, which benefited from "higher completed M&A activity in the Americas." Conversely, demand for IPOs and blocks was softening ("Equity underwriting revenues decreased from a year ago on lower IPOs and blocks").
+
+**2. Labor & Wages**
+The firm reports moderate increases in labor costs, primarily linked to performance. Compensation expenses rose across Wealth Management and Institutional Securities, though these increases were "primarily driven by higher revenues" and "higher compensable revenues." In Investment Management, compensation expense actually decreased, attributed to "lower compensation associated with carried interest."
+
+**3. Pricing Power & Inflation**
+The firm is experiencing stable to positive pricing power through fee-based growth and interest income. Net interest income increased, driven by "lending growth and higher average sweep deposits." However, the firm is facing persistent pressure from "higher funding costs," which contributed to a decrease in "Other" net revenues.
+
+**4. Supply Chain & Inventory**
+Not applicable. (Financial services context; no physical inventory or traditional supply chain reported).
+
+**5. Capital Spending (Capex)**
+Investment in technology is robust and consistent across all business segments. The firm noted that non-compensation expenses increased across the board, "primarily driven by... increased technology spend" in Institutional Securities, Wealth Management, and Investment Management. Management explicitly stated they "continue to invest for growth."

@@ -1,0 +1,22 @@
+Ticker: USB
+Source: USB_2026-10-15.txt
+Generated: 2026-11-08 18:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: U.S. Bancorp (3Q26)**
+
+**1. Demand & Activity:**
+Demand for credit and deposits is growing moderately. Average total loans increased 8.0% year-over-year ("Average total loans increase of 8.0% on a year-over-year basis"), and consumer deposits reached record levels ("another quarter of record consumer deposits"). There is a robust push into the small business segment via new product launches and expansion market banker teams ("expand our reach in the small business segment... established new banker teams in expansion markets"). Capital markets activity saw a robust increase, largely driven by acquisition ("increase of 69.3% year-over-year in capital markets revenue").
+
+**2. Labor & Wages:**
+Labor costs are increasing moderately. Noninterest expenses rose 7.1% year-over-year, partially attributed to higher payroll costs ("higher compensation and employee benefits expense"). This was further influenced by the integration of new personnel from the BTIG acquisition ("full quarter of BTIG expenses").
+
+**3. Pricing Power & Inflation:**
+The company is maintaining stable to positive pricing power. Net interest margin increased to 2.84% from 2.75% year-over-year ("Net interest margin of 2.84%, an increase of 9 basis points on a year-over-year basis"). Revenue growth was supported by the ability to benefit from "fixed asset repricing" and "the impact of higher interest rates."
+
+**4. Supply Chain & Inventory:**
+Not applicable. (Financial services provider; no physical inventory or traditional supply chain reported).
+
+**5. Capital Spending (Capex):**
+Investment in technology and digital infrastructure is moderate and ongoing. The company is actively investing in blockchain and digital assets to improve "efficiency, transparency and settlement speed" ("validated U.S. Bank’s internally developed Digital Asset Platform"). Additionally, there is a noted increase in spending on "technology and communications expense" as part of its broader strategic priorities.

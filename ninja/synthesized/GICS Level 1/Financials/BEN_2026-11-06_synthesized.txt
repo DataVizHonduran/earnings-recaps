@@ -1,0 +1,22 @@
+Ticker: BEN
+Source: BEN_2026-11-06.txt
+Generated: 2026-11-08 18:44 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Franklin Templeton (BEN)**
+
+**1. Demand & Activity: Robust**
+Demand for investment services is growing broadly across all channels and regions. The company reported "positive net flows in every quarter this fiscal year across all regions and in both retail and institutional channels." Specific growth is noted in alternatives, ETFs, and retail SMAs, with AUM increasing 8% year-over-year to $1.8 trillion ("AUM increased 8% year-over-year to $1.8 trillion"). Management anticipates continued "growing demand for private markets, customized solutions and innovative investment vehicles."
+
+**2. Labor & Wages: Stable**
+Labor costs remain stable with modest annual growth. Compensation and benefits expenses for the fiscal year increased slightly by 4% ("Compensation and benefits... $3,963.4 [vs] $3,818.2"). There were no mentions of hiring difficulties or headcount reductions.
+
+**3. Pricing Power & Inflation: Moderate**
+The company is experiencing moderate growth in revenue from its primary fee structures. Investment management fees grew 7% year-over-year ("Investment management fees... $7,478.9 [vs] $6,981.8"), and sales/distribution fees rose 8%. The company reports it is "disciplined in managing expenses" while increasing its adjusted operating margin.
+
+**4. Supply Chain & Inventory: Not Applicable**
+As a financial services provider, the company does not maintain physical inventories or traditional supply chains.
+
+**5. Capital Spending (Capex): Moderate**
+Investment is focused on technology, capacity expansion via acquisitions, and strategic growth areas. The company is "continuing to invest in the future, including strategic acquisitions to enhance our capabilities." Spending on information systems and technology remained stable year-over-year ("Information systems and technology... $644.7 [vs] $643.6").

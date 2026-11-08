@@ -1,0 +1,22 @@
+Ticker: AXP
+Source: AXP_2026-10-23.txt
+Generated: 2026-11-08 18:44 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: American Express (Q3 2026)**
+
+**Demand & Activity:**
+Demand remains robust, characterized by strong momentum in consumer and business spending. Billed business grew by 8% year-over-year ("strength in billings"), and total revenues increased by 9% ("primarily driven by higher Card Member spending"). Global expansion is moderate to robust, with merchant acceptance outside the U.S. more than doubling over the last four years ("acceptance outside the U.S. more than doubling").
+
+**Labor & Wages:**
+The report does not provide specific data on wage inflation or hiring difficulties. However, the company is pursuing "efficiency initiatives" and "restructuring costs" associated with the sale of its equity interest in GBTG, suggesting a focus on operational streamlining.
+
+**Pricing Power & Inflation:**
+The company demonstrates moderate pricing power, citing "strong card fee growth" as a primary driver of revenue increases. While specific input cost inflation is not detailed, the company noted higher "variable customer engagement costs" linked to spending levels and the "U.S. Platinum Card refresh."
+
+**Supply Chain & Inventory:**
+Not applicable. As a financial services provider, AXP does not report on physical supply chains or inventory levels.
+
+**Capital Spending (Capex):**
+Investment in technology and physical infrastructure remains robust. The company is prioritizing "ongoing innovations to enhance our Membership Model" and expanding its physical footprint, specifically through the opening of new Centurion Lounges, including a "new 30,000-sq.ft. lounge at Newark Liberty International Airport." Additionally, the company is investing in "integrated Expense Management software" and "agentic commerce" frameworks.

@@ -1,0 +1,22 @@
+Ticker: WMB
+Source: WMB_2026-11-02.txt
+Generated: 2026-11-08 18:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Williams Companies (WMB)**
+
+**1. Demand & Activity**
+Demand is robust, particularly for natural gas and power. The company reports "rapidly growing power demand" ("customers facing rapidly growing power demand") and strong activity in the Haynesville basin, described as "America’s fastest-growing natural gas basin" ("enhancing our premier footprint in the Haynesville — America s fastest-growing natural gas basin"). Growth is specifically driven by "growing LNG, power and industrial demand" ("serve growing LNG, industrial and power demand").
+
+**2. Labor & Wages**
+Not mentioned.
+
+**3. Pricing Power & Inflation**
+The company is experiencing modest growth in revenues, though specific pricing power is not detailed. Service revenues increased by $512 million year-to-date, reflecting "new power generation revenues" and "higher storage revenues" ("reflecting new power generation revenues... and higher storage revenues"). However, there is slight upward pressure from "higher operating and administrative expenses" ("partially offset by... an increase in operating and administrative expenses").
+
+**4. Supply Chain & Inventory**
+The company is managing long-lead equipment for power projects, indicating a proactive approach to potential supply constraints ("cash purchases of certain reimbursable long-lead Power equipment"). Execution remains strong, with some projects delivered "ahead of schedule" ("bring Socrates fully online ahead of schedule").
+
+**5. Capital Spending (Capex)**
+Capital investment is robust and expanding. Year-to-date capital investments (excluding acquisitions) reached $6.011 billion, a significant increase over the $2.762 billion in the prior year ("Capital Investments (Excluding acquisitions)... $6,011 $2,762"). Future spending is focused on capacity expansion, including a "9.4 Bcf storage expansion at Clay Basin" and "new Transco projects and expansions" ("announced new Transco projects and expansions, advanced a storage expansion at Clay Basin").

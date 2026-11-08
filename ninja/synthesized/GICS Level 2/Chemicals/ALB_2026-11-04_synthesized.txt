@@ -1,0 +1,22 @@
+Ticker: ALB
+Source: ALB_2026-11-04.txt
+Generated: 2026-11-08 18:44 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Albemarle Corp (ALB)**
+
+**Demand & Activity**
+Demand is robust in the energy storage sector, with global lithium demand increasing 48% year-to-date through August ("Global lithium demand is up 48% year-to-date though August, driven by both electric vehicles and energy storage"). In the Specialties segment, activity is characterized by modest growth in semiconductors, oil and gas, flame retardants, and pharmaceuticals, while demand in automotive and petrochemical markets remains stable ("modest volume growth in key end markets... and steady year-to-date demand in automotive and petrochemical markets").
+
+**Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage adjustments.
+
+**Pricing Power & Inflation**
+The company is exercising significant pricing power, particularly in Energy Storage, where realized prices rose nearly 95% year-over-year ("Avg. Realized Price... $20.02 [vs] $10.28"). Specialties also saw a moderate price increase of 10% ("higher pricing (+10%)"). However, the company is managing persistent inflationary pressures and cost escalations linked to geopolitical instability ("proactive management of cost escalations driven by the conflict in the Middle East").
+
+**Supply Chain & Inventory**
+Inventory levels in the Energy Storage segment appear to be normalizing following a period of destocking ("Sales volume declined year-over-year primarily due to timing events... including inventory destocking"). However, the company is currently processing higher-cost spodumene inventory purchased in prior periods, which is expected to moderate fourth-quarter margins ("margins are expected to decrease sequentially due to consumption of higher-cost spodumene inventory").
+
+**Capital Spending (Capex)**
+Capex is being moderately reduced as the company prioritizes capital efficiency and project resequencing. The full-year 2026 forecast was lowered to $300–$350 million from an initial estimate of approximately $500 million ("Reducing full-year capital expenditure forecast to $300-$350 million... reflecting continued benefits from our focused capital efficiency improvements, as well as resequencing of some early-stage projects").

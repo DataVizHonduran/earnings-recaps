@@ -1,0 +1,22 @@
+Ticker: LVS
+Source: LVS_2026-10-21.txt
+Generated: 2026-11-08 18:46 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Las Vegas Sands (LVS)**
+
+**1. Demand & Activity**
+Demand for premium travel and entertainment remains robust overall, though geographic performance varies. Macao is seeing moderate growth in gaming volumes ("growth in volumes across all gaming segments as compared to the prior year"), while Singapore continues to deliver "solid financial performance." Management notes a general "growing demand for premium travel and world-class entertainment experiences in the region."
+
+**2. Labor & Wages**
+No specific mentions of hiring difficulties, turnover, or wage adjustments were provided in the report.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price increases or input cost relief. However, there is evidence of slight upward pressure on financing costs, with the weighted average borrowing cost increasing to 4.7% from 4.5% in the prior year quarter ("Our weighted average borrowing cost was 4.7% during the third quarter of 2026, compared to 4.5% during the third quarter of 2025").
+
+**4. Supply Chain & Inventory**
+Not applicable/No mentions of supply chain lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capex activity is robust, totaling $281 million for the quarter. Investment is focused on capacity expansion and facility upgrades, specifically in Macao ($154 million) and Singapore ($121 million). A significant ongoing expansion project in Singapore is expected to "meaningfully increase our suite capacity and entertainment offerings," including the construction of a new arena. Management indicated they will "continue to invest in future growth."
