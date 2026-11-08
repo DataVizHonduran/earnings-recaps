@@ -1,0 +1,17 @@
+Ticker: ODFL
+Source: ODFL_2026-10-28.txt
+Generated: 2026-11-08 18:47 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided press release for Old Dominion Freight Line (ODFL), the document contains only high-level financial headers and contact information. There is no narrative text, management commentary, or detailed operational data provided in the snippet.
+
+As a result, there are no "Ground Truth" economic signals available for the requested categories:
+
+*   **Demand & Activity:** Not mentioned.
+*   **Labor & Wages:** Not mentioned.
+*   **Pricing Power & Inflation:** Not mentioned.
+*   **Supply Chain & Inventory:** Not mentioned.
+*   **Capital Spending (Capex):** Not mentioned.
+
+The provided text is limited to the introductory portion of the earnings release and does not include the financial tables or the management discussion necessary to extract these signals.
