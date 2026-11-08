@@ -1,0 +1,26 @@
+Ticker: MSFT
+Source: MSFT_2026-10-28.txt
+Generated: 2026-11-08 18:46 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Microsoft (MSFT)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by accelerating growth in cloud services and broad adoption of AI capabilities across various sectors.
+* **Cloud:** Activity is growing robustly, with Microsoft Cloud revenue increasing 30% year-over-year ("growth accelerating to 30%... year-over-year").
+* **General:** Demand is expanding across all industry verticals due to AI integration ("translating our innovation into growing adoption and real-world impact across every industry").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, wage adjustments, or headcount changes.
+
+**3. Pricing Power & Inflation**
+The company reports improving cost efficiencies for its client base, though specific internal pricing actions or input cost pressures (commodities/energy) were not detailed.
+* **Efficiency:** Focus is on providing "cost efficiency for customers across our entire stack."
+
+**4. Supply Chain & Inventory**
+The provided text contains no mentions of lead times, inventory levels, or supply chain constraints.
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for facilities are not listed in this release, the company is actively investing in AI technology and partnerships to expand capacity.
+* **Technology Investment:** Ongoing strategic investment in AI infrastructure is evident through "investments in OpenAI."

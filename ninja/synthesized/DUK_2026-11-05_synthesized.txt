@@ -1,0 +1,22 @@
+Ticker: DUK
+Source: DUK_2026-11-05.txt
+Generated: 2026-11-08 18:45 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Duke Energy (DUK)**
+
+**1. Demand & Activity**
+Demand is showing robust growth, particularly within the company's service territories. Management explicitly links financial performance to "growing jurisdictions" ("recovery of infrastructure investments to reliably serve customers in our growing jurisdictions") and notes that regional expansion creates a "significant opportunity" ("The growth across our states creates a significant opportunity").
+
+**2. Labor & Wages**
+No specific mentions of hiring difficulties, turnover, or wage pressures were provided in the text.
+
+**3. Pricing Power & Inflation**
+The company is successfully utilizing regulatory recovery mechanisms to offset costs, though it faces moderate pressure from financing and depreciation. Results were bolstered by the "recovery of infrastructure investments" ("driven by recovery of infrastructure investments"), but were partially offset by "higher interest expense" and "higher depreciation on a growing asset base." In the Gas segment, there was a modest improvement in margins due to "lower O M expense."
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific data regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capex is robust and focused on long-term capacity expansion and modernization. The company is executing a "record generation build" to add "16 gigawatts of capacity by 2031" to support "economic growth and reliable service." Additionally, the company continues to invest in "electric grid upgrades and efficient generation resources" to meet "growing energy needs."

@@ -1,0 +1,25 @@
+Ticker: EL
+Source: EL_2026-11-02.txt
+Generated: 2026-11-08 18:45 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Estée Lauder (EL)**
+
+**1. Demand & Activity**
+Demand is growing moderately and accelerating across nearly all product categories and geographic regions ("Growth is accelerating," "Net Sales Growth Across Nearly All Product Categories and Every Geographic Region"). 
+*   **Asia-Pacific:** Robust activity in Korea ("Double-digit retail sales growth") and Japan ("double-digit retail sales growth from Le Labo, M A C and TOM FORD"). Mainland China is seeing value share gains in makeup, skincare, and fragrance.
+*   **U.S.:** Modest volume share gains driven by The Ordinary and M A C, with value gains in fragrance and haircare.
+*   **Western Europe:** Modest value share gains in skincare and fragrance.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is exercising moderate pricing power to offset persistent inflationary pressures ("net benefit of strategic pricing actions, which collectively offset inflation"). Gross margins expanded by 230 basis points, supported by "procurement savings, expense optimization and manufacturing efficiencies" via the Profit Recovery and Growth Plan.
+
+**4. Supply Chain & Inventory**
+Inventory levels were not explicitly detailed, but the company is focusing on "global value chain agility and efficiency," highlighted by the opening of the Hainan Fulfillment Center in July 2026.
+
+**5. Capital Spending (Capex)**
+Capex spending has softened slightly due to a shift in prioritization ("Capital expenditures decreased to $69 million from $96 million... reflecting the timing of projects and the Company’s continued focus on optimizing overall spend"). Current investment is being redirected toward "consumer-facing investments to fuel growth" and digital infrastructure, including the deployment of Shopify and AI marketing platforms. Specific facility investments include "advanced water infrastructure at its Oevel manufacturing campus in Belgium."

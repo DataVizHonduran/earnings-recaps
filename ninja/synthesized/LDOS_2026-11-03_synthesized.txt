@@ -1,0 +1,22 @@
+Ticker: LDOS
+Source: LDOS_2026-11-03.txt
+Generated: 2026-11-08 18:46 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Leidos Holdings, Inc. (Q3 2026)**
+
+**1. Demand & Activity**
+Demand is **robust**, characterized by strong momentum in defense technology, air traffic management, and intelligence support ("increased customer demand for defense tech products, air traffic management solutions, and intelligence mission support"). Activity is particularly strong in national security and space sensing ("expands Leidos' position in space sensing and onboard digital processing"). However, demand is **softening** in specific sectors, specifically managed health and federal civilian IT ("offset declines in some managed health and federal civilian IT programs"). Overall pipeline health is strong, with a book-to-bill ratio of 1.2 and a significant increase in funded backlog ("funded backlog of 4% and 22%, respectively").
+
+**2. Labor & Wages**
+The report does not provide specific data on wage inflation, hiring difficulties, or headcount reductions. Management attributes profitability gains to "disciplined cost management across the portfolio," but does not explicitly link this to labor cost reductions.
+
+**3. Pricing Power & Inflation**
+The company is demonstrating **stable** to improving margins, with Adjusted EBITDA margins increasing slightly to 13.9% ("Adjusted EBITDA margin of 13.9% increased from 13.8%"). Profitability is being driven by "improved program performance" rather than explicit mentions of price hikes or relief from commodity/input cost inflation.
+
+**4. Supply Chain & Inventory**
+There are no mentions of lead times, supply chain disruptions, or inventory levels in the provided text.
+
+**5. Capital Spending (Capex)**
+Investment in technology and capacity remains **moderate** and strategic. The company reported $47 million in property, equipment, and software payments for the quarter ("$47 million in property, equipment and software payments"). Management indicated a continued commitment to "invest in differentiated capabilities" to accelerate growth.
