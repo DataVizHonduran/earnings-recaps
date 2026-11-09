@@ -1,0 +1,22 @@
+Ticker: GWW
+Source: GWW_2026-11-04.txt
+Generated: 2026-11-09 23:20 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: W.W. Grainger (GWW)**
+
+**Demand & Activity**
+Demand is robust and improving. The company reported strong growth across all primary segments, specifically noting "double-digit volume growth" in High-Touch Solutions - N.A. ("driven by double-digit volume growth") and "impressive growth" in the Endless Assortment segment via MonotaRO and Zoro ("delivered impressive growth"). Overall, management cites an "improving demand environment" ("reflects our consistent execution and an improving demand environment").
+
+**Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage adjustments.
+
+**Pricing Power & Inflation**
+The company demonstrates moderate pricing power, successfully passing through input costs to customers. Growth in the North American segment was supported by "continued price inflation as cost increases were passed" ("driven by double-digit volume growth and continued price inflation as cost increases were passed"). However, some margin pressure persists due to "unfavorable freight expense" ("down 30 basis points... due to unfavorable freight expense and mix").
+
+**Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory levels.
+
+**Capital Spending (Capex)**
+Investment in capacity and technology remains stable. The company invested $115 million in capital expenditures during the quarter ("invested $115 million in capital expenditures"). Full-year 2026 Capex guidance has been slightly revised downward to a range of $0.575 - $0.625 billion from the previous upper limit of $0.65 billion ("CapEx (cash basis) $0.575 - $0.625 billion").

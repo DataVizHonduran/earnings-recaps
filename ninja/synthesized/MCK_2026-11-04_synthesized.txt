@@ -1,0 +1,22 @@
+Ticker: MCK
+Source: MCK_2026-11-04.txt
+Generated: 2026-11-09 23:21 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: McKesson Corp (MCK)**
+
+**1. Demand & Activity:**
+Demand is robust, characterized by strong growth in specialty pharmaceuticals and provider solutions. Consolidated revenues increased 8% ("Consolidated revenues of $111.0 billion increased 8%"). Growth was driven by "increased prescription volumes and distribution of specialty products," particularly within the North American Pharmaceutical and Oncology Multispecialty segments. However, demand for branded pharmaceuticals was slightly softening ("partially offset by lower contributions from branded pharmaceuticals").
+
+**2. Labor & Wages:**
+The provided text contains no mentions of hiring, turnover, wage pressures, or headcount adjustments.
+
+**3. Pricing Power & Inflation:**
+The report does not explicitly detail price hikes or input cost inflation. Profitability gains were attributed to volume and operational growth rather than pricing adjustments, specifically citing "growth in the distribution of specialty products to health systems and strategic accounts" as a driver for increased adjusted operating profit.
+
+**4. Supply Chain & Inventory:**
+The report does not provide specific data on lead times or inventory levels. It notes that the company cannot reasonably forecast "LIFO inventory-related adjustments," indicating these remain a variable factor in GAAP reporting.
+
+**5. Capital Spending (Capex):**
+Capex is modest relative to cash flow, with $123 million invested in the second quarter ("invested $123 million in capital expenditures"). However, the company is pursuing robust strategic expansion through disciplined capital deployment, including a $1.4 billion investment for a minority interest in Option Care Health, Inc. ("invest approximately $1.4 billion for a minority interest of approximately 49% in Option Care Health, Inc.") and the acquisition of Precision Medicine Group, LLC.

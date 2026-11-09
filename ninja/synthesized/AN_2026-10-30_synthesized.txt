@@ -1,0 +1,22 @@
+Ticker: AN
+Source: AN_2026-10-30.txt
+Generated: 2026-11-09 23:19 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: AutoNation (AN)**
+
+**1. Demand & Activity:**
+Vehicle demand is softening. Same-store retail unit sales declined for both new vehicles (-5%) and used vehicles (-6%) in Q3 2026 ("Same-store New Vehicle Retail Unit Sales 62,356... -5%"). Conversely, demand for maintenance and repair services is robust, with record After-Sales performance and a 6% increase in Customer Pay growth ("Record After-Sales performance... Customer Pay growth 6%"). Financing activity is expanding rapidly, with the AN Finance portfolio growing by over 40% year-over-year ("AN Finance portfolio growth of more than 40% YoY").
+
+**2. Labor & Wages:**
+The provided text contains no specific mentions of hiring, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation:**
+Pricing power appears moderate to weak in vehicle sales, as same-store gross profit declined by 5% in Q3 ("Same-store Gross Profit $ 1,169.8... -5%"). The company is facing headwinds from "economic conditions, including changes in tariffs, unemployment, interest and or inflation rates" (Forward-Looking Statements).
+
+**4. Supply Chain & Inventory:**
+The report does not provide specific data on lead times or inventory bloat; however, the decline in unit sales suggests a potential mismatch between inventory levels and current consumer demand.
+
+**5. Capital Spending (Capex):**
+Capital investment remains stable, with $201.7 million in capital expenditures for the first nine months of 2026 ("capital expenditures were $201.7 million"). The company is currently prioritizing liquidity and debt management, having increased its revolving borrowing capacity to $2.0 billion ("increasing the revolving borrowing capacity to $2.0 billion").

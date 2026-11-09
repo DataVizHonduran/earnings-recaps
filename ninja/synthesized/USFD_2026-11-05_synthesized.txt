@@ -1,0 +1,22 @@
+Ticker: USFD
+Source: USFD_2026-11-05.txt
+Generated: 2026-11-09 23:22 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: US Foods (USFD)**
+
+**Demand & Activity:**
+Demand is showing modest growth overall, though it is bifurcated by customer segment. Independent restaurant volume grew robustly ("independent restaurant case volume increased 5.0%"), with similar moderate gains in healthcare ("3.3% increase") and hospitality ("3.7% increase"). Conversely, demand from chain customers is softening ("partially offset by a 1.5% decrease in chain volume"). Management noted a "sustained slower macroeconomic environment" as a driver for tightening full-year outlooks.
+
+**Labor & Wages:**
+The report does not specify current wage trends or hiring difficulties, though it acknowledges a workforce of "30,000 associates" and lists "increased labor costs and continued access to qualified labor" as general risk factors.
+
+**Pricing Power & Inflation:**
+Input cost pressures are mixed. The company is seeing modest food cost inflation ("food cost inflation of 0.4%"), but is facing headwinds from "elevated fuel costs." Pricing and operational efficiency are supporting margins, with gross profit increasing 8.6% due to "improved cost of goods sold" and a "favorable year-over-year LIFO adjustment."
+
+**Supply Chain & Inventory:**
+Specific lead times were not disclosed. However, the company is expanding its specialty supply capabilities through the acquisition of Prime Line Distributors to broaden its "specialty and imported assortment."
+
+**Capital Spending (Capex):**
+Capex remains stable to slightly lower, totaling $266 million for the first nine months (a "decrease of $10 million from the prior year"). Investments are focused on "information technology, property and equipment and construction of and improvements to distribution facilities," alongside ongoing "AI initiatives" to drive productivity.

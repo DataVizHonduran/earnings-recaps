@@ -1,0 +1,22 @@
+Ticker: IEX
+Source: IEX_2026-10-28.txt
+Generated: 2026-11-09 23:21 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: IDEX Corp (IEX)**
+
+**1. Demand & Activity:**
+Demand is robust, characterized by record sales and a significant increase in organic orders ("Orders of $991 million increased 13% on both a reported and organic basis"). Growth is uneven across sectors: Health Science Technologies saw strong expansion driven by "AI-driven demand for data center power and semiconductor markets, as well as strength in space and defense." Conversely, Fluid Metering Technologies experienced mixed activity, with growth in municipal water and semiconductors "partially offset by lower volumes in our businesses serving chemical, agriculture and energy markets."
+
+**2. Labor & Wages:**
+Labor costs are trending higher, with modest upward pressure on expenses. The company noted that margin expansions were "partially offset by higher employee-related costs, including variable compensation" within the Health Science and Fluid Metering segments, as well as at the corporate level.
+
+**3. Pricing Power & Inflation:**
+The company maintains moderate pricing power, utilizing "positive price across the segments" to drive organic sales growth. However, inflationary pressures remain persistent, as management highlighted the challenge of driving margin expansion "during a period of continued inflation" and noted that gains were "partially offset by price cost headwinds."
+
+**4. Supply Chain & Inventory:**
+The provided text contains no specific mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex):**
+Capital investment is increasing to support capacity and growth. The company reported that free cash flow was "partly offset by higher capital expenditures during the current year period to support continued growth."
