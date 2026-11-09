@@ -1,0 +1,22 @@
+Ticker: VTR
+Source: VTR_2026-10-27.txt
+Generated: 2026-11-09 23:22 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Ventas, Inc. (VTR)**
+
+**1. Demand & Activity:**
+Demand for senior housing is robust, driven by secular demographic trends. The company reports strong organic growth, specifically within the U.S. market where average occupancy grew 320 basis points to exceed 90% ("U.S. SHOP Same-Store Cash NOI increased 17%, and average occupancy grew 320 basis points to exceed 90%"). Management anticipates sustained demand from "a wave of Baby Boomers turning 80 over the coming decade."
+
+**2. Labor & Wages:**
+Not addressed. The provided text contains no specific mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation:**
+The company demonstrates moderate pricing power, evidenced by a 5% increase in same-store revenue per occupied room ("Same-Store revenue per occupied room (RevPOR) grew 5%"). Profitability is improving via "favorable operating leverage" combined with these revenue gains ("Same-Store Cash NOI margin* grew 190 basis points year-over-year"). However, the outlook is partially tempered by the "impacts of interest rates and foreign exchange."
+
+**4. Supply Chain & Inventory:**
+Not applicable. As a real estate investment trust, the company does not report traditional commodity supply chain or inventory levels.
+
+**5. Capital Spending (Capex):**
+Investment activity is aggressive and expanding, with a focus on acquiring senior housing assets to drive multiyear growth. The company has closed $5.2 billion in investments year-to-date ("closed over $5 billion of investments focused on U.S. senior housing year to date") and maintains a "robust pipeline of actionable SHOP investment opportunities."

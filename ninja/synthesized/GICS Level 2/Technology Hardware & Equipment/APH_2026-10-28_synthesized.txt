@@ -1,0 +1,22 @@
+Ticker: APH
+Source: APH_2026-10-28.txt
+Generated: 2026-11-09 23:19 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Amphenol Corp (APH)**
+
+**1. Demand & Activity:**
+Demand is robust and accelerating across most end markets. The company reported record sales and orders, with a book-to-bill ratio of 1.19:1, indicating strong forward-looking demand. Growth is particularly exceptional in the IT datacom sector ("continued exceptional organic growth in the IT datacom market") and the CommScope business, which is performing better than previously anticipated ("continued better-than-expected performance of the CommScope business").
+
+**2. Labor & Wages:**
+Not addressed. The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation:**
+The company is demonstrating strong pricing power or favorable product mix, as evidenced by record profitability and an Adjusted Operating Margin of 29.7% ("realized strong profitability during the quarter"). There are no specific mentions of input cost relief or persistent inflationary pressures.
+
+**4. Supply Chain & Inventory:**
+Not addressed. The provided text contains no specific data regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex):**
+Capex is primarily directed toward aggressive inorganic expansion and capacity growth through acquisitions. The company is deploying significant capital to acquire firms in the automotive, defense, industrial, and communications sectors, with a combined recent purchase price of approximately $1.6 billion ("combined purchase price for AdvancedPCB, Dexgreen, Empire Electronics and Humanetics Sensors is approximately $1.6 billion"). Management remains focused on "developing enabling technologies" and "geographic diversification."

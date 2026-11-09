@@ -1,0 +1,22 @@
+Ticker: EOG
+Source: EOG_2026-11-05.txt
+Generated: 2026-11-09 23:20 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: EOG Resources (Q3 2026)**
+
+**1. Demand & Activity**
+Production activity remains robust, with moderate growth in total crude oil equivalent volumes. Total volumes rose from 1,383.8 MBoed in Q1 to 1,433.1 MBoed in Q3 ("Total [MBoed]... 1,383.8... 1,433.1"). This growth is driven primarily by stable to increasing output in the United States across crude oil, NGLs, and natural gas.
+
+**2. Labor & Wages**
+The provided financial data contains no specific commentary regarding hiring difficulties, turnover, or wage adjustments. Stock-based compensation expenses remained stable, ranging from $55M to $60M per quarter ("Stock-Based Compensation Expenses... 58 60 55").
+
+**3. Pricing Power & Inflation**
+The company experienced robust pricing gains for crude oil in 2026 compared to 2025. The U.S. composite crude price rose from a 2025 average of $65.65/bbl to a Q2 2026 peak of $98.18/bbl ("Average Crude Oil and Condensate Prices... $65.65... $98.18"). Natural gas pricing has remained volatile, fluctuating between $2.77 and $3.75 per Mcf throughout 2026 ("Average Natural Gas Prices... $3.75 $2.77 $3.73").
+
+**4. Supply Chain & Inventory**
+Inventory levels appear stable with a slight downward trend in the most recent quarter. Inventories moved from $930M in Q2 to $938M in Q3, remaining lean relative to total assets ("Inventories... 930 938"). There is no mention of lead-time disruptions.
+
+**5. Capital Spending (Capex)**
+Investment in capacity remains moderate and consistent. Additions to oil and gas properties have been stable, averaging approximately $1.4B to $1.6B per quarter ("Additions to Oil and Gas Properties... (1,491) (1,638) (1,476)"). Spending on other property, plant, and equipment has seen a slight decrease in the most recent quarter ("Additions to Other Property, Plant and Equipment... (153) (144) (121)").

@@ -1,0 +1,31 @@
+Ticker: MRK
+Source: MRK_2026-10-29.txt
+Generated: 2026-11-09 23:21 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Merck & Co. (MRK)**
+
+**1. Demand & Activity**
+Demand is generally **robust**, with total worldwide sales growing 5% ("Total Worldwide Sales Were $18.1 Billion (5% Growth)"). 
+*   **Oncology:** Strong growth driven by "strong global uptake in earlier-stage indications" for Keytruda.
+*   **Specialty/New Launches:** Robust demand for Winrevair ("93% Growth") and Enflonsia, the latter driven by "seasonal demand."
+*   **Animal Health:** Modest growth of 4%, specifically supported by "higher demand for poultry products."
+*   **Softening:** Demand is declining for legacy products due to "generic competition following loss of market exclusivity" (Januvia/Janumet, Bridion).
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate pricing power in specific segments, though it faces headwinds in others.
+*   **Positive:** Gardasil saw increases reflecting "higher net pricing."
+*   **Negative:** Lynparza and Capvaxive experienced "lower net pricing" in the U.S. and China.
+*   **Input Costs:** No specific commentary provided on commodities, freight, or energy inflation.
+
+**4. Supply Chain & Inventory**
+Inventory levels appear to be actively managed to meet demand and seasonal shifts.
+*   **Channel Inventory:** Keytruda sales were "largely offset by a benefit from increased inventory in the channel."
+*   **Seasonal Build:** Enflonsia growth was driven by "associated inventory build in the U.S. and certain international markets."
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for facilities are not listed, the company is investing heavily in its "robust Oncology Pipeline" and "late-phase pipeline" to "de-risk the substantial long-term opportunity." Research and development spending remains a primary investment focus, totaling $4.5 billion for the quarter ("Research and development... $4,537 [million]").

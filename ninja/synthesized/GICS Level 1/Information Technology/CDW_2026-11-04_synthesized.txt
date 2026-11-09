@@ -1,0 +1,22 @@
+Ticker: CDW
+Source: CDW_2026-11-04.txt
+Generated: 2026-11-09 23:20 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: CDW Corp (Q3 2026)**
+
+**1. Demand & Activity:**
+Demand is robust, characterized by broad-based strength across diverse end-markets ("delivered robust third quarter results, powered by broad-based strength across our diverse customer end-markets"). Growth is particularly strong in enterprise AI adoption ("strong momentum in enterprise AI adoption") and specific hardware categories including data storage, servers, notebooks, mobile devices, and software ("Customer demand drove Net sales growth primarily in data storage and servers, notebooks mobile devices, and software"). Geographically, activity is strong in the UK and Canada ("UK and Canadian operations... 26.0 percent higher than 2025"), while US Commercial segments saw significant growth, led by Financial Services ("Financial Services... 73.2 percent [higher]").
+
+**2. Labor & Wages:**
+The report indicates moderate increases in labor-related expenses, specifically tied to performance incentives ("increase was primarily due to higher performance-based incentives"). While no specific headcount reductions were noted, the company lists "significant increases in labor costs" as a general risk factor in its forward-looking statements.
+
+**3. Pricing Power & Inflation:**
+Pricing power appears stable to softening in terms of margins. While net sales grew, gross profit margins declined slightly ("Gross profit margin was 20.5 percent... compared to 21.9 percent in the third quarter of 2025"), which the company attributes to a shift in product mix ("primarily driven by mix into and lower margin in certain product categories").
+
+**4. Supply Chain & Inventory:**
+The provided text does not contain specific updates on current lead times or inventory levels, though it notes general "exposure to accounts receivable and inventory risks" as a standard risk factor.
+
+**5. Capital Spending (Capex):**
+The company is maintaining a strategy of moderate, disciplined investment in technology and growth ("balance investments that support our customers and long-term growth with disciplined expense management"). Management highlighted "continued strategic investments" to maintain a competitive edge over the broader US IT addressable market.
