@@ -1,0 +1,22 @@
+Ticker: ALL
+Source: ALL_2026-11-04.txt
+Generated: 2026-11-10 20:45 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Allstate Corp (Q3 2026)**
+
+**1. Demand & Activity**
+Demand for insurance products is growing moderately. Property-Liability policies in force increased by 3.3% ("3.3% increase in Property-Liability policies"), with specific strength in auto (up 3.4%) and homeowners (up 3.3%) segments. New business growth was robust, particularly in homeowners insurance, which increased 10.2% ("New business was strong, increasing 10.2%"). Additionally, international demand for Protection Plans is "growing rapidly."
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, wage pressures, or headcount adjustments.
+
+**3. Pricing Power & Inflation**
+Pricing power is mixed across product lines. The company is successfully raising homeowners premiums, driven by both rate hikes and inflationary pressures on assets ("average gross written premium increased 4.9%... reflecting rate increases and higher home replacement costs"). Conversely, auto insurance saw "lower average premiums," which the company attributes to a strategic shift toward "Affordable, Simple, Connected" product mixes rather than a lack of pricing power.
+
+**4. Supply Chain & Inventory**
+Not applicable to this service-based business model.
+
+**5. Capital Spending (Capex)**
+Investment is focused on digital transformation and AI capacity. The company is scaling its "Large Language Intelligent Ecosystem (ALLIE)," which has already been expanded to handle "millions of service calls," with further capabilities planned for "early 2027."

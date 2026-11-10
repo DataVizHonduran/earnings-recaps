@@ -1,0 +1,22 @@
+Ticker: CHTR
+Source: CHTR_2026-11-06.txt
+Generated: 2026-11-10 20:47 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Charter Communications (CHTR)**
+
+**1. Demand & Activity**
+Demand is **softening** for core connectivity but **robust** for mobile services. Pro forma Internet customers declined by 233,000 ("Spectrum Internet customers declined by 233,000 on a pro forma basis"), with losses accelerating at legacy Charter. Conversely, mobile growth remains strong, adding 508,000 lines pro forma ("third quarter Spectrum Mobile lines increased by 508,000"). Activity in newly acquired Cox markets is described as **robust** following the launch of Spectrum pricing ("Charter has seen strong demand from consumers and an improvement in customer trends across the legacy Cox footprint").
+
+**2. Labor & Wages**
+The company is pursuing **moderate** headcount and structural reductions to drive efficiency. Charter is implementing a "fundamental redesign" to reduce complexity and is targeting $2 billion in annualized expense savings ("eliminating nonessential activities, simplifying organizational structures"). Additionally, the company is reshoring customer service operations ("fully returning legacy Cox’s customer service function to the U.S. over the next 18 months").
+
+**3. Pricing Power & Inflation**
+Pricing power appears **stable to softening** for residential services, while small business pricing remains **modestly** positive. Pro forma monthly residential revenue per customer declined 1.6% ("Monthly Residential Revenue per Residential Customer... $117.85 [vs] $119.71"), whereas small business revenue per customer grew 1.1% ("Monthly Small Business Revenue per Small Business Customer... $163.74 [vs] $161.97").
+
+**4. Supply Chain & Inventory**
+No specific mentions of lead times, commodity costs, or inventory levels were provided in the text.
+
+**5. Capital Spending (Capex)**
+Capex is trending **lower**. Pro forma third quarter capital expenditures declined to $3.2 billion from $3.6 billion in the prior-year period ("pro forma basis, third quarter capital expenditures declined to $3.2 billion"). Future investment is focused on technology upgrades, specifically the rollout of symmetrical and multi-gigabit speeds ("Spectrum increasingly offers symmetrical and multi-gigabit Internet speeds across its entire footprint").

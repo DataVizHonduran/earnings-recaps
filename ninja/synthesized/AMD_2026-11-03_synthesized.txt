@@ -1,0 +1,22 @@
+Ticker: AMD
+Source: AMD_2026-11-03.txt
+Generated: 2026-11-10 20:46 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: AMD (Q3 2026)**
+
+**1. Demand & Activity**
+Demand is **robust** and accelerating in the Data Center segment, which saw record revenue growth of 97% year-over-year ("Data Center segment revenue was a record $8.5 billion, up 97% year-over-year"). This was driven by strong appetite for Instinct GPUs and EPYC CPUs ("Demand for our Instinct and EPYC products continued to strengthen"). Conversely, demand in the Gaming sector is **softening** significantly ("Gaming business revenue was $773 million, down 40% year-over-year"). The Embedded segment shows **moderate** growth, particularly in aerospace, defense, and automotive ("Embedded segment revenue was $1.1 billion, up 29% year-over-year").
+
+**2. Labor & Wages**
+The report does not provide specific data on wage inflation or hiring difficulties, though it notes "workforce rebalancing charges" within its non-GAAP operating expenses ("Acquisition-related and other costs primarily included... workforce rebalancing charges").
+
+**3. Pricing Power & Inflation**
+The company is experiencing **expanding** profitability and margin growth, suggesting strong pricing power or favorable product mix in high-end AI silicon ("non-GAAP gross margin was 56%," up from 54% year-over-year). There are no mentions of persistent input cost pressures or commodity inflation.
+
+**4. Supply Chain & Inventory**
+Supply chain conditions appear **stable**, with a focus on scaling production for new architectures to meet demand ("we expect growth to accelerate further in the fourth quarter as we scale Helios and Venice production"). No mentions of bloated inventory or critical lead-time delays were noted.
+
+**5. Capital Spending (Capex)**
+AMD is aggressively investing in technology and capacity through strategic acquisitions to expand its "superintelligence stack" ("AMD announced an agreement to acquire World Labs... [and] an agreement to acquire Taalas"). These investments are aimed at strengthening inference silicon technology and model research expertise.

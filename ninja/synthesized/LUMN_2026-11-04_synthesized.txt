@@ -1,0 +1,22 @@
+Ticker: LUMN
+Source: LUMN_2026-11-04.txt
+Generated: 2026-11-10 20:50 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Lumen Technologies (LUMN)**
+
+**1. Demand & Activity**
+Demand is bifurcated. There is robust growth in "Strategic" product lines, specifically driven by AI-related connectivity and digital platform adoption ("AI-driven demand for connectivity is fueling momentum in our Strategic revenue base"). Strategic revenue grew 10% year-over-year, and NaaS active customers rose 24% sequentially. Conversely, demand for "Legacy" services is softening significantly, with legacy business revenue declining 17% year-over-year ("Legacy 1,067... 1,167 [YoY]... (17)%").
+
+**2. Labor & Wages**
+Not mentioned. The transcript contains no specific data regarding hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is seeing moderate improvements in margins through "operating leverage" and the shift toward high-margin digital services ("20% of NaaS Internet on Demand ports are carrying multiple services at nearly 100% direct margin"). There is no mention of general inflationary input cost pressures or broad price hikes.
+
+**4. Supply Chain & Inventory**
+Not mentioned. The transcript does not provide data on lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capex remains substantial as the company invests in technology transformation and AI infrastructure. Full-year 2026 capital expenditures (excluding special items) are projected to be between $3.2 and $3.4 billion ("Capital Expenditures excluding Special Items $3.2 to $3.4 billion"). The company is also actively decommissioning legacy copper assets in Florida, Iowa, Nevada, and Utah to shift investment toward "Strategic growth" ("Plans to accelerate copper decommissioning... target lower legacy costs and investment in Strategic growth").
