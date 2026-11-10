@@ -1,0 +1,22 @@
+Ticker: PM
+Source: PM_2026-10-21.txt
+Generated: 2026-11-10 20:51 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Philip Morris International (PM)**
+
+**1. Demand & Activity**
+Demand is growing modestly overall, with a robust shift toward smoke-free products (SFP). Total shipments increased slightly by 0.6% ("Shipments increased by 0.6% in the quarter"). SFP demand is robust, particularly in e-vapor ("quarterly shipments up by 61.6%") and heat-not-burn, where adjusted in-market sales (IMS) grew by 8.0% ("acceleration to 8.0% growth"). Combustible demand remains stable/resilient ("cigarette volume continuing to show strong resilience with broadly flat shipments"), supported by growth in Turkey, Indonesia, and Egypt. In the U.S., ZYN shipments grew modestly by 4.2%.
+
+**2. Labor & Wages**
+Not mentioned.
+
+**3. Pricing Power & Inflation**
+The company demonstrates robust pricing power, particularly in the combustibles segment, which saw "impressive" pricing growth of 8.9% ("driven by another impressive quarter of 8.9% pricing"). Gross margins expanded through "strong combustible pricing" and "SFP mix benefits." In Japan, the company is monitoring consumer reactions to excise-driven price increases ("consumers adjust following the first excise-driven price increase").
+
+**4. Supply Chain & Inventory**
+The report notes a specific instance of "pantry-loading" in Japan, where consumers increased inventories ahead of a scheduled price hike ("estimated consumer pantry-loading impact ahead of the October 1 excise-driven price increase"). No broader systemic supply chain disruptions or lead-time issues were reported.
+
+**5. Capital Spending (Capex)**
+While specific facility expenditures are not detailed, the company is significantly increasing commercial investment in the U.S. to expand the ZYN portfolio ("significant increase in commercial investments to support the expansion of our ZYN portfolio"). Management plans to "further increase investments" in the fourth quarter to support brand campaigns and a transition in product packaging ("ramp-up in consumer communications... and the transition of the majority of the ZYN flagship portfolio to 20-pouch cans").

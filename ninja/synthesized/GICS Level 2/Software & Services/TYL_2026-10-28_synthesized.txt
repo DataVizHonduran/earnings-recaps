@@ -1,0 +1,30 @@
+Ticker: TYL
+Source: TYL_2026-10-28.txt
+Generated: 2026-11-10 20:53 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Tyler Technologies (TYL)**
+
+**1. Demand & Activity**
+Demand remains robust, particularly within the public sector. Growth is driven by a strong appetite for digital modernization and the adoption of AI.
+*   **Public Sector:** Robust demand ("Strong SaaS bookings reinforce healthy public sector demand").
+*   **Product Lines:** Strong growth in SaaS revenues, up 21.2% ("SaaS revenues grew 21.2% to $242.2 million").
+*   **AI Adoption:** Moderate early-stage traction ("approximately 300 deals containing AI sold across our client base to date").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is experiencing robust margin expansion, though specific pricing actions or input cost relief were not detailed.
+*   **Margins:** Robust expansion ("robust margin expansion").
+*   **Revenue Growth:** Stable growth in recurring streams ("Recurring revenues were $568.8 million, up 11.0%").
+
+**4. Supply Chain & Inventory**
+Not applicable. As a software-as-a-service (SaaS) provider, the company does not report physical inventory or traditional supply chain lead times.
+
+**5. Capital Spending (Capex)**
+Capex remains modest and focused on technology and strategic acquisitions.
+*   **Planned Spend:** Modest projected expenditure ("Capital expenditures $20 million to $22 million").
+*   **Software Investment:** Continued investment in internal development ("Capitalized software development costs included in capex $5 million").
+*   **Strategic Growth:** Active pursuit of capacity through acquisition ("completed the acquisition of CODY Systems... for approximately $27.7 million in cash").

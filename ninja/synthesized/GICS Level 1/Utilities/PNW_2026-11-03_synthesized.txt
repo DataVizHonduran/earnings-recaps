@@ -1,0 +1,17 @@
+Ticker: PNW
+Source: PNW_2026-11-03.txt
+Generated: 2026-11-10 20:53 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Pinnacle West Capital Corp (PNW)**
+
+**Demand & Activity:** Robust growth. Weather-normalized sales grew 9.5%, driven by a significant surge in commercial and industrial sales (+14.5%) and modest residential growth (+4.5%) ("commercial and industrial sales increased 14.5%, while residential sales grew 4.5%"). The region is experiencing record-setting summer demand, with an all-time peak of 9,166 MW ("APS customers set an all-time peak demand record of 9,166 megawatts (MW) on Aug. 2"). Long-term demand projections are aggressive, with annual needs expected to more than double by 2041 ("Customers annual electricity needs are projected to more than double by 2041").
+
+**Labor & Wages:** Not explicitly detailed. The company noted the "dedication of our employees" in meeting demand, but provided no specific data on hiring, turnover, or wage pressures.
+
+**Pricing Power & Inflation:** Stable to cautious. While the company is managing growth, it is emphasizing "customer affordability" and "protecting customer rates" ("protecting existing customers... protecting customer rates"). The company is utilizing a "growth pays for growth" model for extra-large users to avoid shifting infrastructure costs to existing residential and business customers ("When a data center or manufacturer comes to Arizona, they pay the cost of the infrastructure needed to serve them").
+
+**Supply Chain & Inventory:** Not explicitly detailed. The report focuses on long-term resource planning rather than short-term inventory or lead-time constraints.
+
+**Capital Spending (Capex):** Robust and expanding. The company is investing heavily in infrastructure and transmission to support rapid regional expansion ("investing in the infrastructure needed to support Arizona’s future"). A new Integrated Resource Plan has been filed to outline the necessary resources and transmission investments required over the next 15 years to maintain reliability amid projected peak demand increases of over 5,000 MW ("The plan identifies a diverse portfolio of resources and transmission investments designed to maintain reliability").

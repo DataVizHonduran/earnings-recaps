@@ -1,0 +1,22 @@
+Ticker: ALGN
+Source: ALGN_2026-10-28.txt
+Generated: 2026-11-10 20:44 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Align Technology (ALGN)**
+
+**Demand & Activity:**
+Clear Aligner demand showed moderate growth, with volumes increasing 6.6% year-over-year ("Clear Aligner volume increased 6.6% year-over-year"). Activity was supported by "broad-based international growth" and a return to growth for North American orthodontist shipments. However, overall demand remains constrained by a "softer environment for discretionary healthcare spending and capital equipment investment," which contributed to a 7.6% year-over-year decline in Imaging Systems and CAD CAM Services revenues.
+
+**Labor & Wages:**
+Not addressed.
+
+**Pricing Power & Inflation:**
+Pricing power is softening, evidenced by a decline in Average Selling Prices (ASPs). The company noted that non-GAAP gross margins were "modestly below our expectation," partly reflecting "lower Clear Aligner ASPs." Looking ahead, the company expects 2026 ASPs to be "slightly down from 2025." Inflationary pressure is evident in logistics, specifically citing "higher fuel-related transportation costs."
+
+**Supply Chain & Inventory:**
+Not addressed.
+
+**Capital Spending (Capex):**
+Investment in technology remains robust, with a focus on "next-gen direct fabrication 3D printing materials" (NXT Technology) and the launch of a U.S. pilot for 3D-printed sports mouth guards. Planned capital expenditures for fiscal 2026 are projected to be between "$125M to $150M."

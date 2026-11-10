@@ -1,0 +1,22 @@
+Ticker: PFE
+Source: PFE_2026-11-03.txt
+Generated: 2026-11-10 20:50 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Pfizer Inc. (PFE)**
+
+**1. Demand & Activity**
+Demand is mixed but showing robust growth in non-COVID segments. Overall operational revenue was relatively flat ("relatively flat year-over-year operationally"), but "non-COVID products delivered strong 7% operational revenue growth." Activity is particularly robust for "launched and acquired products," which grew 32% operationally. Specific growth was noted in oncology (Padcev up 55%) and specialty medicines (Lorbrena up 43%). Conversely, demand for COVID-19 products is softening significantly, with Paxlovid down 63% ("driven primarily by lower COVID-19 infections") and Comirnaty down 29%.
+
+**2. Labor & Wages**
+The company is experiencing moderate upward pressure on labor costs. Both Selling, Informational, and Administrative (SI&A) and R&D expenses were impacted by "an increase in compensation-related expenses in the quarter."
+
+**3. Pricing Power & Inflation**
+Pfizer demonstrates moderate pricing power in the U.S. market for key products. For example, Eliquis growth was "driven primarily by higher net price in the U.S. primarily due to pricing dynamics, including lower rebates." However, this is partially offset by "price erosion in certain international markets."
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific mentions of lead times, freight, or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment in future capacity and technology remains robust, focused heavily on R&D and business development. The company has "reinvested capital into initiatives intended to enhance the future growth prospects," including "$8.3 billion invested in internal research and development projects" and "$850 million invested in business development transactions" during the first nine months of 2026. R&D spending increased 18% operationally, driven by "spending in certain oncology and obesity product candidates."

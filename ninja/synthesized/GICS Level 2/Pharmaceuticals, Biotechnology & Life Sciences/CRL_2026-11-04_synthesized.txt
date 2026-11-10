@@ -1,0 +1,22 @@
+Ticker: CRL
+Source: CRL_2026-11-04.txt
+Generated: 2026-11-10 20:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Charles River Laboratories (CRL)**
+
+**1. Demand & Activity**
+Demand is showing a moderate recovery, characterized by a "return to organic revenue growth for the second consecutive quarter" (Organic revenue growth of 4.7%). Activity is robust in the Discovery and Safety Assessment (DSA) segment, where "net bookings and proposals continued to show robust, year-over-year increases." Growth is further supported by "strong demand in both the Biologics Testing Solutions and Microbial Solutions businesses." However, activity is softening in the Research Models and Services (RMS) segment, specifically due to "lower revenue for small research models in North America and for large research models," though this was partially offset by "higher revenue for small research models in China."
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage inflation.
+
+**3. Pricing Power & Inflation**
+The company is experiencing modest input cost relief. Non-GAAP operating margin expansion in the DSA segment was partially driven by "lower sourcing costs for large research models." There are no explicit mentions of price hikes, though the company notes "operating leverage from higher sales volume" as a driver of margin growth.
+
+**4. Supply Chain & Inventory**
+Lead times are improving in specific product lines; the company introduced a "rapid cell banking program designed to significantly accelerate product release timelines." Additionally, the company noted a reduction in previous inventory charges following the "resolution of the U.S. government investigations" regarding non-human primate (NHP) supply.
+
+**5. Capital Spending (Capex)**
+Investment is focused on automation and digital transformation to increase capacity. The company implemented an "Automated Manufacturing Suite... to increase production capacity and strengthen manufacturing controls." Furthermore, it launched "Apollo Orchestrate™... to digitize and transform laboratory workflows" and "increase efficiency."

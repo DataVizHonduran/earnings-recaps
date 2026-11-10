@@ -1,0 +1,22 @@
+Ticker: BALL
+Source: BALL_2026-11-03.txt
+Generated: 2026-11-10 20:46 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Ball Corp (Q3 2026)**
+
+**Demand & Activity**
+Global demand is growing moderately, with total aluminum packaging shipments increasing 4.7% ("Global aluminum packaging shipments increased 4.7% in the third quarter"). Activity varies by region: South America saw robust growth ("volume increased by a low-double digit percentage"), EMEA experienced moderate growth ("volume increased mid-single digit percent"), and North/Central America saw slight growth ("volume increased low-single digit percent").
+
+**Labor & Wages**
+The report does not provide specific data on wage inflation or headcount reductions, though it emphasizes a focus on maintaining an "engaged and empowered workforce" and the ability to "attract and retain skilled" labor.
+
+**Pricing Power & Inflation**
+The company maintains stable pricing power through contractual mechanisms ("stability provided by our contractual passthrough mechanisms"). Revenue growth was supported by favorable price/mix, specifically driven by higher aluminum costs being passed to customers ("primarily attributable to higher aluminum prices"). However, these gains were partially offset by moderate inflationary pressure on the expense side ("higher costs, primarily due to higher operating costs").
+
+**Supply Chain & Inventory**
+No specific mentions of lead times or inventory bloating were provided; however, the company noted that the "external environment remains volatile."
+
+**Capital Spending (Capex)**
+Capex is robust and focused on expanding global capacity to support long-term growth. Specific investments include a new beverage can manufacturing facility in Baruth, Germany ("to support long-term customer growth in EMEA") and a new facility in India ("to support long-term customer growth and further strengthen Ball’s manufacturing network in the region").

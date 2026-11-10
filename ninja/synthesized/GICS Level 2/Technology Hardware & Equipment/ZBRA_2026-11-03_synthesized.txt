@@ -1,0 +1,17 @@
+Ticker: ZBRA
+Source: ZBRA_2026-11-03.txt
+Generated: 2026-11-10 20:55 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Zebra Technologies (ZBRA)**
+
+**Demand & Activity:** Demand is robust and broad-based, driven by customer investments in automation and "Physical AI" ("strong growth across segments and regions reflects customer investment in automation and productivity"). Growth is particularly strong in the Connected Frontline segment, which saw a 15.0% organic increase ("consolidated organic net sales increased 11.3% year-over-year, with a 15.0% increase in the CF segment"). Management expresses confidence in the "durability of demand."
+
+**Labor & Wages:** Not explicitly discussed. The report notes a general drive toward "operating productivity" as the company scales ("driving operating productivity as we scale to meet the strong demand").
+
+**Pricing Power & Inflation:** The company is actively utilizing pricing power to offset input cost pressures ("implement pricing actions... enabled us to support our growth"). However, there is persistent inflationary pressure from specific components, specifically "increased memory component costs," which contributed to a modest decline in gross margins.
+
+**Supply Chain & Inventory:** The company is focused on securing critical components to maintain throughput, specifically noting efforts to "strengthen memory supply." There are no mentions of bloated inventory or extended lead times; rather, the focus is on scaling to meet "strong demand."
+
+**Capital Spending (Capex):** Capital investment remains modest relative to cash flow, with $50 million invested in capital expenditures during the first nine months of 2026 ("invested $50 million in capital expenditures"). The company indicates it is "investing in growth" while maintaining a disciplined capital allocation strategy.
