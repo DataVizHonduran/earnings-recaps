@@ -1,0 +1,22 @@
+Ticker: VZ
+Source: VZ_2026-10-26.txt
+Generated: 2026-11-11 21:17 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Verizon (VZ) 3Q 2026**
+
+**1. Demand & Activity**
+Demand for wireless and broadband services is robust. Postpaid phone net additions saw a significant increase, marking the "strongest third-quarter performance in five years" (406,000 additions). Broadband demand remains moderate, with 314,000 net additions, including a balanced split between fixed wireless and fiber. However, demand for hardware is softening, evidenced by a 9.0% decline in equipment revenue due to "significantly lower upgrade volumes" as consumers keep devices longer.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is demonstrating moderate pricing power and improved margin discipline. Management is shifting away from "heavy subsidies" toward "customer-first offerings" to expand margins. This strategic pivot has led to a notable reduction in acquisition and retention costs, with the promotional cost of acquisition decreasing 41% year-over-year.
+
+**4. Supply Chain & Inventory**
+There are no specific mentions of lead times or inventory levels; however, the decline in equipment revenue suggests a slowdown in the hardware replacement cycle.
+
+**5. Capital Spending (Capex)**
+Capex remains stable and disciplined, with $11.9 billion spent in the first nine months of the year. Future investment is focused on high-return technology and infrastructure, with full-year capex projected at $16.0 billion to $16.5 billion. This includes "success-based investments for AI Connect" and a landmark $2B+ deal with AWS to scale "distributed compute" for generative AI workloads. The company also maintains a medium-term target of 40 to 50 million fiber passings.

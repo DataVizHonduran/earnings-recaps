@@ -1,0 +1,22 @@
+Ticker: RCL
+Source: RCL_2026-10-27.txt
+Generated: 2026-11-11 21:15 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Royal Caribbean Group (RCL)**
+
+**1. Demand & Activity**
+Demand is robust and accelerating. The company reports "continued strong consumer demand" ("continued strong consumer demand for our vacation experiences"), specifically noting "better-than-expected close-in demand in Europe and the Caribbean" ("driven by better-than-expected close-in demand in Europe and the Caribbean"). Forward-looking indicators are similarly strong, with 2027 bookings "pacing ahead of historical levels" ("2027 bookings are pacing ahead of historical levels at higher rates").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is exercising moderate pricing power, as evidenced by Net Yields increasing 0.9% in Q3 ("Net Yields increased 0.9% as-reported") and a full-year expectation of a 2.7% increase ("Net Yields are expected to increase approximately 2.7%"). However, the company is facing persistent inflationary pressure from energy costs, noting "higher than anticipated fuel costs" ("partially offset by higher than anticipated fuel costs").
+
+**4. Supply Chain & Inventory**
+Not applicable. The report does not detail physical inventory or supply chain lead times.
+
+**5. Capital Spending (Capex)**
+Investment is focused on strategic capacity expansion and diversification. The company is expanding its "vacation ecosystem" through a 50% interest acquisition of Sandals and Beaches Resorts ("expanding the company s vacation platform into the all-inclusive resort category"), which includes "three resorts under development" and "over 1,000 acres of undeveloped land in the Caribbean" ("creating a meaningful runway for continued growth"). Capacity for the third quarter was up 8% year over year ("Capacity for the third quarter was up 8% year over year").

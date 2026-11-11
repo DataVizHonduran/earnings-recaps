@@ -1,0 +1,22 @@
+Ticker: ECL
+Source: ECL_2026-10-27.txt
+Generated: 2026-11-11 21:11 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Ecolab Inc. (ECL)**
+
+**1. Demand & Activity**
+Demand is showing broad-based acceleration, though variances exist by sector. Growth is robust in Global High-Tech ("growing 63% organically"), specifically within microelectronics and AI data centers. Core segments like Food Beverage and Light Water are seeing accelerating growth, while Heavy Water and Paper have "returned to solid growth." Conversely, the Institutional segment faces softening headwinds, specifically a "mid-single-digit decline in restaurant foot traffic in North America."
+
+**2. Labor & Wages**
+The report does not explicitly detail wage inflation or hiring difficulties; however, it notes that customers are seeking solutions to "optimize labor" and "reduce total costs," suggesting persistent labor pressures at the client level.
+
+**3. Pricing Power & Inflation**
+Ecolab is exercising moderate pricing power to offset persistent input cost pressures. Pricing "strengthened to 5%" as the company leveraged value to "mitigate higher commodity costs." While pricing and productivity are offsetting these headwinds, the company explicitly notes "rising commodity costs" as a factor impacting gross margins.
+
+**4. Supply Chain & Inventory**
+Supply chain conditions appear to be improving, particularly in specialized segments. The company reported "supply chain efficiencies" contributing to a significant increase in Life Sciences organic operating income. No specific mentions of bloated inventories or extended lead times were noted.
+
+**5. Capital Spending (Capex)**
+Investment is focused on capacity expansion and technology. The company is making "growth-oriented investments" across most segments, including "pest intelligence" and "breakthrough innovation." Specifically, Ecolab is investing in "capacity to fuel" the high-growth Life Sciences business and expanding "next-gen liquid cooling technologies for AI data centers."

@@ -1,0 +1,22 @@
+Ticker: OTIS
+Source: OTIS_2026-10-28.txt
+Generated: 2026-11-11 21:13 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Otis Worldwide Corp (Q3 2026)**
+
+**1. Demand & Activity**
+Demand is moderate to robust in Service, while New Equipment remains mixed. Service organic sales grew 7%, bolstered by "double digit modernization growth" and "high single digit repair growth." New Equipment saw modest organic growth of 3%, with robust "low teens growth in the Americas" and moderate growth in EMEA and Asia Pacific, though this was "partially offset by a greater than 20% decline in China."
+
+**2. Labor & Wages**
+Labor costs remain a persistent pressure. The company reported that Service operating profit was "partially offset by higher labor cost including the impact of ongoing strategic initiatives and productivity." Conversely, the company noted some "employment related cost reductions" helped offset these pressures.
+
+**3. Pricing Power & Inflation**
+Otis is actively exercising pricing power, particularly through technology. The company is utilizing "AI-enabled pricing" to support growth. In the Service segment, profit was supported by "favorable pricing," although the New Equipment segment suffered from "unfavorable price and mix."
+
+**4. Supply Chain & Inventory**
+The report does not provide specific commentary on lead times or inventory levels. However, New Equipment backlog increased by a modest 4% ("New Equipment backlog increased 4% at actual currency and constant currency").
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for facilities are not disclosed, the company is prioritizing investment in digital capabilities and human capital, specifically citing "investments in field capability and AI-enabled pricing" and "ongoing investment in key Service growth initiatives."

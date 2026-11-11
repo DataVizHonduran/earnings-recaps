@@ -1,0 +1,22 @@
+Ticker: MCHP
+Source: MCHP_2026-11-05.txt
+Generated: 2026-11-11 21:13 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Microchip Technology (MCHP)**
+
+**1. Demand & Activity**
+Demand is robust and growing, characterized by "broad-based growth across our end markets" ("broad-based growth across our end markets, driven by industrial and data center applications"). Activity is particularly strong in the data center segment, where design wins for PCIe Gen6 switches and retimers doubled from 12 to 24 in one quarter ("design wins have grown to 24 to date, up from 12 at the end of the June quarter"). While the company expects a slight sequential dip in the December quarter, this is attributed to "normal seasonal factors" ("Normal seasonality is for our revenue to be down sequentially 3% to 5%").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price increases or commodity inflation; however, the company reports "higher profitability" driven by operational improvements where expenses grew "well below net sales" ("non-GAAP operating expenses growing well below net sales and supporting higher profitability").
+
+**4. Supply Chain & Inventory**
+Supply chain conditions are tightening, with lead times currently lengthening ("Lead times are lengthening across our supply chain"). In response, the company is actively seeking to "secure additional wafer allocation" and expand capacity to meet demand.
+
+**5. Capital Spending (Capex)**
+Capex remains modest as the company continues to exercise caution following a "slow macroeconomic environment in fiscal 2025" ("paused most of our factory expansion actions and reduced our planned capital investments through fiscal 2027"). Total fiscal 2027 Capex is projected at approximately $100 million, with investments focused on "selectively" expanding production and adding R&D equipment ("adding capital equipment to selectively expand our production capacity").

@@ -1,0 +1,22 @@
+Ticker: PEG
+Source: PEG_2026-11-02.txt
+Generated: 2026-11-11 21:14 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: PSEG (Q3 2026)**
+
+**1. Demand & Activity**
+Demand is experiencing modest growth, characterized by a "continued gradual increase in the number of electric and gas customers." Activity in the regulated segment is further supported by "ongoing investments in Energy Efficiency and Transmission."
+
+**2. Labor & Wages**
+The company does not report current headcount changes but identifies "labor shortages" and the "failure to attract and retain a qualified workforce" as ongoing risk factors that could disrupt operations.
+
+**3. Pricing Power & Inflation**
+PSEG is seeing moderate pricing strength in its power segment, noting "higher realized prices" for nuclear generation. However, the company faces persistent inflationary pressure from "higher depreciation and interest costs related to incremental investments not reflected in current rates," as well as general risks from "increases in the costs of equipment, materials, fuel, services and labor."
+
+**4. Supply Chain & Inventory**
+The company reports no specific current inventory levels but lists "disruptions or cost increases in our supply chain" as a continuing risk to its operational stability.
+
+**5. Capital Spending (Capex)**
+Capex plans are robust. The company is executing a significant "five-year capital investment plan totaling $24 billion to $28 billion," focusing on energy infrastructure, resilience, and "carbon free, base-load generation."
