@@ -1,0 +1,28 @@
+Ticker: MAS
+Source: MAS_2026-10-28.txt
+Generated: 2026-11-11 21:12 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Masco Corp (MAS)**
+
+**1. Demand & Activity**
+Demand is mixed with a modest increase in overall net sales (3%), though the outlook remains cautious. North American activity showed moderate growth, while international demand is softening.
+*   **North America:** Modest growth ("North American net sales increased 5 percent").
+*   **International:** Softening ("International net sales decreased 5 percent").
+*   **Product Lines:** Plumbing products saw moderate growth ("net sales increased 4 percent"), while Decorative Architectural Products remained stable ("net sales were flat").
+*   **Outlook:** Near-term demand is expected to remain "challenged" despite strong long-term fundamentals in the "repair and remodel market."
+
+**2. Labor & Wages**
+The provided text contains no specific data regarding current hiring levels, wage inflation, or headcount reductions, though the company lists the "ability to attract, develop and retain a talented workforce" as a general risk factor.
+
+**3. Pricing Power & Inflation**
+The company is experiencing robust margin expansion, suggesting either successful pricing actions or significant relief in input costs.
+*   **Margins:** Gross margins increased moderately ("Gross margin increased 240 basis points to 36.6 percent").
+*   **Cost Pressures:** While specific commodity prices were not detailed, the company continues to monitor the "cost and availability of materials" and the "impact on demand, pricing and product costs resulting from tariffs."
+
+**4. Supply Chain & Inventory**
+The transcript does not provide specific updates on current lead times or inventory volume levels.
+
+**5. Capital Spending (Capex)**
+Specific future facility or technology spend was not disclosed; however, the company emphasizes a commitment to "disciplined capital allocation" and the expansion of "commercial capabilities."

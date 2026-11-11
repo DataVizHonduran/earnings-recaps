@@ -1,0 +1,22 @@
+Ticker: CDNS
+Source: CDNS_2026-10-26.txt
+Generated: 2026-11-11 21:11 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Cadence Design Systems (CDNS)**
+
+**1. Demand & Activity**
+Demand is robust and expanding, characterized by "broad-based business momentum" ("broad-based business momentum"). Growth is particularly strong in AI-driven designs, with "strong double-digit growth across all product categories" ("strong double-digit growth across all product categories"). Specific product-line strength is noted in System Design and Analysis (+30% YoY), IP revenue (+24% YoY), and Core EDA (+20% YoY), with significant adoption among "memory and hyperscaler customers" ("growing adoption among memory and hyperscaler customers"). The company reports a "record backlog of $8.2 billion" ("record backlog of $8.2 billion").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price increases or input cost relief. However, the company notes general risks regarding "inflation rates" and "increased energy costs" ("increased energy costs and supply chain constraints") within its forward-looking risk disclosures.
+
+**4. Supply Chain & Inventory**
+Current conditions appear stable, though the company maintains a cautionary stance regarding potential "supply constraints that could result in delays in purchases, development, installations or deliveries" ("changes in customer demands or supply constraints"). No specific data on lead times or inventory levels was provided.
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for facilities are not disclosed, the company is investing heavily in technology and AI capacity, specifically the launch of "Maestro, a portfolio of domain-specialized AI models" ("Launched Maestro, a portfolio of domain-specialized AI models") and the deployment of "AI Super Agents" ("accelerating deployment of our AI Super Agents").

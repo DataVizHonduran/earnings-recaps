@@ -1,0 +1,22 @@
+Ticker: BX
+Source: BX_2026-10-22.txt
+Generated: 2026-11-11 21:10 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Blackstone Inc. (3Q 2026)**
+
+**1. Demand & Activity**
+Demand for alternative asset management remains robust, characterized by strong capital inflows and strategic expansion into high-growth sectors. Inflows reached $63.3 billion for the quarter ("inflows reached $63 billion"), with positive momentum across major fundraising channels. Activity is specifically concentrated in AI and energy infrastructure, which the firm identifies as "key investment themes powering the global economy" ("including AI and energy infrastructure").
+
+**2. Labor & Wages**
+The firm is experiencing moderate increases in labor costs. Fee-related compensation rose 13% year-over-year to $745 million ("Fee Related Compensation... (745,083) [13% change vs 3Q 25]"). There are no specific mentions of hiring difficulties or headcount reductions.
+
+**3. Pricing Power & Inflation**
+Blackstone demonstrates stable pricing power through its fee structures. Management and advisory fees grew by 6% year-over-year ("Management and Advisory Fees, Net... 6% [change vs 3Q 25]"). The report does not explicitly detail input cost relief or inflationary pressures on operations, though it notes a "volatile external environment" ("delivered strong third-quarter results amid a volatile external environment").
+
+**4. Supply Chain & Inventory**
+Not applicable. As an asset manager, the firm does not maintain physical inventories or traditional supply chains.
+
+**5. Capital Spending (Capex)**
+While specific facility Capex is not disclosed, the firm is aggressively deploying capital into technology and infrastructure capacity. Deployment totaled $30.1 billion for the quarter ("Deployment of $30.1 billion in the quarter"), with a strategic focus on establishing "leading platforms" to capture opportunities in AI and energy ("established leading platforms to address the key investment themes... including AI and energy infrastructure").

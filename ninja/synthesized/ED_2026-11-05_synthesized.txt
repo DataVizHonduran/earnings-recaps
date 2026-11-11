@@ -1,0 +1,22 @@
+Ticker: ED
+Source: ED_2026-11-05.txt
+Generated: 2026-11-11 21:12 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Consolidated Edison (ED)**
+
+**1. Demand & Activity**
+Demand is characterized by robust growth in electrification and infrastructure needs within the New York region. The company is actively expanding its earnings base to support "customers changing energy needs" ("Our robust capital investments modernize our system for customers changing energy needs").
+
+**2. Labor & Wages**
+No specific data on current wage levels or headcount changes was provided. However, the company identifies the "failure to retain and attract employees and contractors" as a persistent operational risk ("the failure to retain and attract employees and contractors... could adversely affect it").
+
+**3. Pricing Power & Inflation**
+The company faces ongoing exposure to inflationary pressures and commodity volatility. Management explicitly lists "inflation and the imposition of tariffs" as risks to its financial performance ("faces risks related to supply chain disruptions, inflation and the imposition of tariffs").
+
+**4. Supply Chain & Inventory**
+Supply chain conditions remain a noted risk factor, though no specific current lead-time data was provided in the release ("faces risks related to supply chain disruptions").
+
+**5. Capital Spending (Capex)**
+Capex is robust, with a heavy focus on climate resilience and system modernization. The company plans to invest approximately $797 million in climate resilience through 2030 ("plan to invest approximately $797 million in climate resilience from 2026 through 2030"). Additionally, a new investment plan for the Steam business has been agreed upon and is currently awaiting regulatory approval ("reached agreement with our regulator... on a new investment plan for our Steam business").

@@ -1,0 +1,32 @@
+Ticker: CBRE
+Source: CBRE_2026-10-22.txt
+Generated: 2026-11-11 21:10 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: CBRE Group, Inc. (Q3 2026)**
+
+**1. Demand & Activity**
+Demand is **robust** overall, though divergent by sector. There is **strong** growth in critical infrastructure and industrial assets, while corporate office demand is **softening**.
+*   **Infrastructure/Data Centers:** Demand is surging, with critical infrastructure services revenue up 80% ("driven by continued strong growth in data center services solutions").
+*   **Industrial/Retail:** Activity is accelerating, particularly in U.S. property sales ("driven by accelerated growth in industrial and retail").
+*   **Office:** Demand is declining ("U.S. revenue... office was down 2%").
+*   **Geographic Variance:** EMEA activity is **robust**, specifically in the U.K. ("EMEA revenue grew 21%... driven by the U.K.").
+*   **Corporate Spending:** There is a **modest** slowdown in corporate real estate investment ("tempered by a slowdown in corporate capital spending on real estate").
+
+**2. Labor & Wages**
+The report does not explicitly detail hiring difficulties or turnover; however, it notes an increase in labor-related costs via compensation.
+*   **Wages:** There is evidence of upward pressure on compensation linked to performance ("Core corporate operating loss increased... primarily driven by higher incentive compensation").
+
+**3. Pricing Power & Inflation**
+The company demonstrates **moderate** pricing power through revenue growth across most segments, though specific mentions of price hikes are absent.
+*   **Revenue Trends:** Most segments show double-digit growth in local currency, suggesting an ability to maintain or increase fees.
+*   **Input Costs:** Pass-through costs rose 11.4% in Advisory and 16.8% in BOE, though these are generally passed to clients.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a services-based firm, CBRE does not report traditional inventory or lead times.
+
+**5. Capital Spending (Capex)**
+Capital investment is increasing **moderately**.
+*   **Spending Levels:** Capex rose 50% year-over-year to $126 million ("Less Capital expenditures 126 [vs] 84").
+*   **Investment Focus:** Strategic focus is directed toward expanding critical infrastructure capabilities ("continued to advance both our Critical Infrastructure Services business line").
