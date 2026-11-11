@@ -1,0 +1,22 @@
+Ticker: TXT
+Source: TXT_2026-10-29.txt
+Generated: 2026-11-11 21:15 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Textron Inc. (TXT)**
+
+**1. Demand & Activity**
+Demand is mixed across segments. Textron Aviation saw robust growth driven by higher Citation jet volume ("higher aircraft revenues... primarily due to higher volume and mix"), though commercial turboprop demand softened ("lower commercial turboprop volume"). Textron Systems experienced moderate growth in armored land vehicles and military training ("higher volume on armored land vehicles"). Conversely, Bell saw a moderate decline in both military and commercial helicopter volume ("lower military revenues... largely due to lower volume on the MV-75 program"). Industrial demand was stable, with growth in specialized vehicles offsetting a slight decline in Kautex volume.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company demonstrates modest pricing power in specific niches. Aftermarket aviation services and specialized vehicles saw positive impacts from pricing ("increase in aftermarket parts and services revenues was due to higher volume and pricing"; "favorable impact from pricing" in Specialized Vehicles). Kautex also utilized pricing to partially offset volume declines ("partially offset by higher pricing"). No specific mentions of commodity or freight cost relief were noted, though "manufacturing inefficiencies" slightly impacted aviation profits.
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory levels. However, the company notes general risk regarding "performance issues with key suppliers or subcontractors."
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for new facilities were not disclosed, the company is actively investing in program execution and new product development, specifically citing "operational progress on the MV-75 Cheyenne program" and the ongoing "efficacy of research and development investments to develop new products."
