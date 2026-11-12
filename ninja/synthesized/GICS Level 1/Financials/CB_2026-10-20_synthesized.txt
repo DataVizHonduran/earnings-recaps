@@ -1,0 +1,22 @@
+Ticker: CB
+Source: CB_2026-10-20.txt
+Generated: 2026-11-12 21:23 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Chubb Ltd (Q3 2026)**
+
+**1. Demand & Activity**
+Demand is generally robust, though divergent by segment and geography. Overseas General activity is strong, with moderate to robust growth in Latin America ("up 11.7%"), Asia ("up 7.5%"), and Europe ("up about 7%"). In North America, demand for Personal lines ("up 5.3%") and Agriculture ("up 5.1%") remains stable. Conversely, North America Commercial activity softened ("down 2.7%"), driven by strategic reductions in property and financial lines exposure.
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company maintains disciplined pricing power, though it notes a more competitive environment in the U.S. and London commercial P&C markets ("market continues to grow more competitive"). Management is actively avoiding business with "inadequate pricing or terms," suggesting a willingness to sacrifice volume to maintain margins. Investment income is benefiting from a "fixed-income investment environment" supported by "rising interest rates."
+
+**4. Supply Chain & Inventory**
+Not applicable to this business model.
+
+**5. Capital Spending (Capex)**
+No specific facility or technology capex plans were detailed; however, the company is active in the "capital investment cycle" via its investment portfolio and strategic partnerships (e.g., KKR).

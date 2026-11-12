@@ -1,0 +1,29 @@
+Ticker: AMGN
+Source: AMGN_2026-11-03.txt
+Generated: 2026-11-12 21:22 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Amgen Inc. (Q3 2026)**
+
+**1. Demand & Activity**
+Demand is **robust** overall, with total product sales increasing 8% ("driven by volume growth"). Growth is highly bifurcated by product line:
+*   **Strong Growth:** High demand for Repatha (+37%), EVENITY (+39%), and IMDELLTRA (+128%), all primarily "driven by volume growth."
+*   **Softening:** Demand is declining for legacy products facing biosimilar competition, most notably Prolia (-45%) and XGEVA (-47%), both seeing "lower volume."
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+Pricing power is **mixed** and varies by segment:
+*   **Positive:** "Established Products" saw a "19% higher net selling price," and KRYSTEXXA growth was "primarily driven by higher net selling price."
+*   **Negative:** Pricing is softening for products under regulatory or competitive pressure. Enbrel saw "14% lower net selling price, reflecting the ongoing impact of U.S. Medicare Part D price setting... under the Inflation Reduction Act."
+*   **Input Costs:** There is evidence of **modest** relief in production costs, as GAAP cost of sales decreased, "driven by... lower manufacturing costs."
+
+**4. Supply Chain & Inventory**
+Inventory levels appear **stable but fluctuating** by product:
+*   Some products are seeing "higher inventory levels" (Enbrel, Otezla, TAVNEOS).
+*   Others are experiencing "lower inventory levels" (TEPEZZA, LUMYKRAS), which in the case of TEPEZZA, contributed to a 6% sales decrease.
+
+**5. Capital Spending (Capex)**
+Investment in innovation remains **robust**. Research & Development (R&D) expenses increased 11%, "driven by higher spend in Research and Early Pipeline, including business development activity."

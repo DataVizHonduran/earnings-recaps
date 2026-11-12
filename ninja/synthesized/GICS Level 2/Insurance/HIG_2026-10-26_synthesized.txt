@@ -1,0 +1,22 @@
+Ticker: HIG
+Source: HIG_2026-10-26.txt
+Generated: 2026-11-12 21:24 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: The Hartford (HIG)**
+
+**1. Demand & Activity**
+Demand is showing modest growth across primary segments, though it is facing headwinds in consumer-facing lines. Business Insurance saw robust activity with written premium growth of 6% ("Business Insurance premium growth of 6%"). Employee Benefits also saw modest growth in fully insured ongoing premiums of 4% ("Employee Benefits fully insured ongoing premium growth of 4%"). Conversely, Personal Insurance activity is softening due to a "competitive market" ("growth was impacted by a competitive market").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is operating in an "increasingly competitive market" ("strong results in an increasingly competitive market"). While specific rate hike percentages are not detailed, there is evidence of persistent pressure on loss ratios. Business Insurance underlying loss ratios increased by 2.0 points ("Underlying loss and loss adjustment expense ratio of 59.9 increased from 57.9"), and Employee Benefits loss ratios rose from 70.1% to 74.9% ("driven by an increase in both the group disability and group life loss ratios").
+
+**4. Supply Chain & Inventory**
+Not applicable to this business model.
+
+**5. Capital Spending (Capex)**
+The company is maintaining a steady investment in digital transformation and operational efficiency ("investments in technology, data, artificial intelligence and customer-focused risk insights").
