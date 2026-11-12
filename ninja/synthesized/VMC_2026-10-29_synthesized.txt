@@ -1,0 +1,24 @@
+Ticker: VMC
+Source: VMC_2026-10-29.txt
+Generated: 2026-11-12 21:25 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Vulcan Materials (VMC)**
+
+**1. Demand & Activity**
+Demand is currently **softening** to **stable**. Aggregates shipments decreased 3% year-over-year ("aggregates shipments decreased 3 percent"), though management attributes this partly to favorable weather in the prior year's comparison. Looking ahead, the company anticipates a **stable** environment ("anticipate a continuation of the current demand environment next year").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+Pricing power remains **robust**. The company achieved widespread price growth, with freight-adjusted selling prices increasing 5% on a mix-adjusted basis ("Price growth in the third quarter remained widespread... increased 5 percent"). Management expects this trend to continue with "mid- to high single digit pricing gains" in 2027. 
+
+However, the company is facing **moderate** to **persistent** inflationary pressure, specifically regarding energy. Management noted "ongoing energy headwinds" and "elevated energy inflation that has continued into the fourth quarter," which contributed to a 7% increase in freight-adjusted unit cash cost of sales.
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory levels. It does note "inflationary pressures on some parts and supplies," but does not characterize the state of the supply chain.
+
+**5. Capital Spending (Capex)**
+Investment activity is **moderate** and focused on strategic expansion. Quarterly capex for maintenance and growth was $174 million ("Capital expenditures for maintenance and growth projects were $174 million"). The company is actively pursuing a "bolt-on" acquisition strategy to expand its footprint, recently completing two acquisitions to enhance its position in Tennessee and southern Ohio ("completed two bolt-on acquisitions... enhance our position in Tennessee and expand our reach into southern Ohio").
