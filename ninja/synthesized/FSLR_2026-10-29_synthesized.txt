@@ -1,0 +1,22 @@
+Ticker: FSLR
+Source: FSLR_2026-10-29.txt
+Generated: 2026-11-12 21:23 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: First Solar (FSLR)**
+
+**1. Demand & Activity**
+Short-term activity is softening, though long-term demand remains robust. Quarterly net sales decreased 23% year-over-year ("driven primarily by a decrease in the volume of modules sold to third parties"). However, the company maintains a robust contracted sales backlog of 44.0 GW and has modestly raised its full-year 2026 volume guidance to 17.0GW–18.2GW (from 16.0GW–17.0GW).
+
+**2. Labor & Wages**
+No specific mentions of hiring, turnover, or wage pressures were provided in the text.
+
+**3. Pricing Power & Inflation**
+The company is leveraging structural trade advantages to maintain its position, noting it is "structurally positioned to benefit" from a "structural change in how the United States approaches solar manufacturing" via Section 232. While specific pricing increases were not detailed, the company is managing "freight-related costs" and utilizing "Section 45X cash receipts" to offset operational expenses.
+
+**4. Supply Chain & Inventory**
+Supply chain stability is a key competitive advantage, as the company is the "only fully-integrated utility-scale solar manufacturer without dependency on the Chinese crystalline silicon supply chain." No specific data on lead times or inventory bloating was provided.
+
+**5. Capital Spending (Capex)**
+Capex is increasing moderately to support domestic expansion. Full-year 2026 capital expenditure guidance was revised upward to $0.8B–$1.0B (from $0.6B–$0.8B), with spending focused "primarily for our U.S. facilities."

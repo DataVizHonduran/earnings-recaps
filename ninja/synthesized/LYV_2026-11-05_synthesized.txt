@@ -1,0 +1,22 @@
+Ticker: LYV
+Source: LYV_2026-11-05.txt
+Generated: 2026-11-12 21:24 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Live Nation Entertainment (LYV)**
+
+**Demand & Activity:**
+Demand is robust and growing globally, with fan attendance increasing 19% in Q3 ("Fan attendance of 61 million, up 19%"). Growth is particularly strong in international markets, which now surpass the U.S. in both attendance and sponsorship revenue ("international markets surpassed the U.S. in both concert attendance and sponsorship revenue"). Demand is broad-based across venue types, though stadium and amphitheater growth is most pronounced ("stadium, arena, and amphitheater fan count each up mid-teens or higher"). Forward-looking indicators remain strong, with 2027 primary ticket volumes showing double-digit growth ("ticketing GTV for primary tickets sold for 2027 shows up double-digits").
+
+**Labor & Wages:**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**Pricing Power & Inflation:**
+The company demonstrates moderate to robust pricing power, particularly through premium offerings. VIP revenue and upgrade purchases per ticket are increasing by double digits ("upgrade purchases and VIP revenue per ticket up double-digits"). Interestingly, there is simultaneous demand for lower-priced options, as "value menu unit sales more than doubled," suggesting a bifurcated consumer spending pattern.
+
+**Supply Chain & Inventory:**
+Not applicable. The company reports stable operational flow with "cancellation rates pace below year-to-date" and "sell-through rates are ahead of last year."
+
+**Capital Spending (Capex):**
+Capex is robust and focused on capacity expansion. The company is on track for a full-year spend of nearly $1.1 billion ("on track for full-year spend of nearly $1.1 billion"). The vast majority of this investment is directed toward physical infrastructure to increase the number of available stages ("$800 million directed toward expanding and improving venues"). The company is actively expanding its footprint, with plans to open or acquire 10 large-capacity venues by year-end ("On track to open or acquire 10 large... venues through the end of the year").

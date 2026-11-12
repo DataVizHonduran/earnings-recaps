@@ -1,0 +1,22 @@
+Ticker: INTC
+Source: INTC_2026-10-29.txt
+Generated: 2026-11-12 21:24 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Intel Corp (Q3 2026)**
+
+**1. Demand & Activity**
+Demand is bifurcated. Data center demand is robust, characterized by the "strongest data center revenue growth in 15 years" ("Data Center and AI (DCAI) 7.3 up 78%"). Conversely, the PC market is softening; management expects the "PC slowdown continuing at least through the first half of next year" ("we see the PC slowdown continuing"). Despite this, CPU demand remains "robust" ("demand for our CPUs remains robust").
+
+**2. Labor & Wages**
+Not addressed. The transcript contains no specific mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+Not explicitly detailed. While gross margins improved to 43.0% (up 4.8 ppts YoY), the text does not attribute this to specific price hikes or relief in input costs.
+
+**4. Supply Chain & Inventory**
+Supply remains a constraint for high-demand lines. The company is prioritizing the need to "unlock additional supply to meet extraordinary demand for our Xeon family" ("Our immediate priority is to unlock additional supply").
+
+**5. Capital Spending (Capex)**
+Investment remains moderate to robust as the company expands capacity. Intel is making "disciplined investments in capacity and working capital to increase supply" ("continue making disciplined investments in capacity"). Additionally, the company completed a "$23 billion public equity offering to support future growth opportunities" ("Completed a $23 billion public equity offering").

@@ -1,0 +1,22 @@
+Ticker: QCOM
+Source: QCOM_2026-11-04.txt
+Generated: 2026-11-12 21:24 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Qualcomm (QCOM)**
+
+**1. Demand & Activity**
+Demand is mixed, characterized by a robust expansion in diversified segments and softening in core mobile. Automotive demand is robust, achieving its first $2B quarter with 89% year-over-year growth ("Record QCT Automotive Revenues Achieved First $2B Quarter, Growing 89% Year-Over-Year"). IoT demand is growing modestly at 4% ("IoT... 1,888 [vs] 1,807"). Conversely, handset demand is softening significantly, declining 26% year-over-year ("Handsets $5,137 [vs] $6,961"). Management expects a moderate inflection toward non-handset revenues in FY2027, specifically targeting a $5B ramp in Data Center business ("non-handset revenues are projected to grow by more than 60% year-over-year").
+
+**2. Labor & Wages**
+Not addressed. The transcript contains no specific data on hiring, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation**
+The company is facing persistent inflationary pressure on the supply side, noting a "broad-based increase in input costs across wafer fabrication, assembly, test, advanced packaging, memory and other materials." In response, Qualcomm is exercising pricing power to offset these costs ("we are taking actions to reflect the higher input costs in our product pricing"), with the full margin benefit expected in the second half of fiscal 2027.
+
+**4. Supply Chain & Inventory**
+Not addressed. The provided text does not mention specific lead times or current inventory levels.
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for facilities are not listed, the company is investing in technology and strategic partnerships to expand capacity in AI infrastructure ("Announced Multi-Generational Product Collaboration with Amazon for AI Data Centers").

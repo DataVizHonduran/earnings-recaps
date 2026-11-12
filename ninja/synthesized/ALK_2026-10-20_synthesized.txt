@@ -1,0 +1,22 @@
+Ticker: ALK
+Source: ALK_2026-10-20.txt
+Generated: 2026-11-12 21:22 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Alaska Air Group (ALK)**
+
+**1. Demand & Activity**
+Demand remains robust, characterized by "strong underlying commercial momentum" ("strong underlying commercial momentum"). Growth is particularly pronounced in premium and international segments, with premium revenue increasing approximately 25% ("Premium revenue grew approximately 25%"). While overall demand is healthy, the company noted specific "Hawaii headwinds" ("despite Hawai i headwinds"). Outlook for Q4 remains positive, with demand described as "healthy" ("demand remains healthy").
+
+**2. Labor & Wages**
+The provided text contains no specific data on current hiring, turnover, or wage increases, though it lists "labor costs, relations and availability" as general risk factors in its forward-looking statements.
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate to robust pricing power, with unit revenue increasing nearly 12% year-over-year ("unit revenue growth of nearly 12%") and September yield increasing approximately 17% ("September yield increasing approximately 17% year-over-year"). However, this is offset by persistent and significant inflationary pressure from energy costs. The company is facing a "significant fuel headwind" ("$1.8 billion fuel headwind this year"), with Q4 fuel costs projected to be substantially higher than initial plans ("$650 million higher than our initial plan"). Non-fuel unit costs are expected to see a modest increase in the mid-single digits ("Non-fuel unit costs are expected to increase in the mid-single digits").
+
+**4. Supply Chain & Inventory**
+The report does not provide specific updates on lead times or inventory levels, though "supply chain risks" are noted as a general risk factor.
+
+**5. Capital Spending (Capex)**
+Investment is focused on capacity expansion and product enhancement. The company is investing in "rapid international expansion" ("rapid international expansion") and the introduction of new premium guest experiences, including "lie flat suites" and "Premium Reserve" products debuting in 2028 ("new premium economy product set to debut in 2028"). Future capacity growth is concentrated in international flying ("increase concentrated in international flying").
