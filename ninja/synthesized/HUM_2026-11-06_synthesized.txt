@@ -1,0 +1,22 @@
+Ticker: HUM
+Source: HUM_2026-11-06.txt
+Generated: 2026-11-13 20:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Humana Inc. (3Q26)**
+
+**1. Demand & Activity**
+Demand for healthcare services is showing robust growth in key strategic segments. CenterWell Senior Primary Care saw a moderate increase in patient volume, with YTD growth of 146,800 patients, or 30% ("YTD growth of 146,800 patients, or 30 percent, in CenterWell Senior Primary Care"). Medicaid membership also grew modestly by 7% YTD, specifically driven by regional expansions in Michigan, Illinois, and South Carolina ("YTD Medicaid membership growth of 103,600, or 7 percent, largely driven by the start of integrated Duals programs").
+
+**2. Labor & Wages**
+The company is undergoing a multi-year transformation to re-align its cost structure, which includes moderate headcount reductions. These "value creation initiatives" specifically involve "severance and associate exit costs" ("These costs primarily include severance and associate exit costs, asset impairments, and external consulting expenses").
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price hikes; however, the company is facing a moderate headwind regarding Star Ratings for Bonus Year 2026, which is expected to impact year-over-year adjusted earnings ("FY 2026 Adjusted EPS guidance anticipates a year-over-year decline as a result of the Star Ratings headwind").
+
+**4. Supply Chain & Inventory**
+Not applicable.
+
+**5. Capital Spending (Capex)**
+Humana is pursuing a strategy of moderate expansion in its CenterWell and Medicaid footprints ("Continued strategic expansion of the company's CenterWell and Medicaid footprints"). To fund this growth and improve balance sheet efficiency, the company entered a joint venture with BlackRock to reduce its cost of capital ("joint venture (JV) with BlackRock... enhancing balance sheet efficiency and providing greater financial flexibility at a reduced cost of capital, while also funding future growth").

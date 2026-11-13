@@ -1,0 +1,22 @@
+Ticker: D
+Source: D_2026-10-30.txt
+Generated: 2026-11-13 20:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided press release for Dominion Energy (D), there is a lack of granular operational data. The document is a high-level financial summary rather than a detailed earnings transcript.
+
+**1. Demand & Activity:**
+The company reaffirms its "long-term growth guidance," suggesting a stable to moderate outlook for activity, though specific demand drivers or geographic variances were not disclosed.
+
+**2. Labor & Wages:**
+No mentions of hiring, turnover, or wage pressures were provided in the text.
+
+**3. Pricing Power & Inflation:**
+No specific commentary on price increases or input cost inflation was included.
+
+**4. Supply Chain & Inventory:**
+No mentions of lead times or inventory levels were provided.
+
+**5. Capital Spending (Capex):**
+While specific project spending was not detailed, the company "reaffirms existing... long-term growth guidance," implying a stable commitment to its current investment trajectory.

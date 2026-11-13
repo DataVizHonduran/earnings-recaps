@@ -1,0 +1,22 @@
+Ticker: COR
+Source: COR_2026-11-04.txt
+Generated: 2026-11-13 20:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Cencora, Inc. (COR)**
+
+**1. Demand & Activity**
+Demand is growing moderately across all primary segments. U.S. revenue increased 5.4% and International revenue increased 5.1% ("reflecting a 5.4 percent increase in revenue within the U.S. Healthcare Solutions segment and a 5.1 percent increase in revenue within the International Healthcare Solutions segment"). Growth is primarily driven by unit volume, specifically in specialty products and GLP-1 class medications for diabetes and weight loss ("primarily driven by unit volume growth... and increased sales of products labeled for diabetes and or weight loss in the GLP-1 class"). This was partially offset by softening demand from large mail-order customers ("lower sales to our large mail order customer").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulty, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+Pricing power appears mixed. While overall gross profit increased, the company noted a decline in manufacturer pricing for certain brand pharmaceuticals ("offset in part by a decline in manufacturer prices related to certain brand pharmaceutical products"). Additionally, the high volume of GLP-1 sales acted as a drag on margins ("offset in part by increased sales of GLP-1s, which have lower gross profit margins").
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment is focused on inorganic growth and platform expansion. The company has aggressively expanded its MSO platform via the acquisition of OneOncology ("expanded our MSO platform through the acquisition of OneOncology"). This expansion has led to increased operating expenses and higher interest costs due to the issuance of senior notes and variable-rate loans to finance the deal ("increase in interest expense as a result of our issuance of senior notes and entering into variable-rate term loans to finance a portion of the February 2026 acquisition of OneOncology").
