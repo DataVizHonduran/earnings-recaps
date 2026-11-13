@@ -1,0 +1,22 @@
+Ticker: UBER
+Source: UBER_2026-11-04.txt
+Generated: 2026-11-13 20:51 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Uber Technologies, Inc. (Q3 2026)**
+
+**1. Demand & Activity**
+Demand remains robust across all primary business lines. Total trips grew 16% year-over-year to 4.1 billion, supported by a 14% increase in Monthly Active Platform Consumers ("MAPCs growth of 14% YoY"). Growth was moderate to strong across segments, with Gross Bookings increasing in Mobility (18%), Delivery (22%), and Freight (35%) ("Gross Bookings grew 20% YoY").
+
+**2. Labor & Wages**
+The company is actively seeking to expand its driver pool to support growth, indicating a continued focus on supply-side scaling ("investing from a position of strength to expand Mobility supply"). No specific mentions of wage inflation or headcount reductions were noted in the release.
+
+**3. Pricing Power & Inflation**
+The company is demonstrating strong pricing power and operational efficiency, as evidenced by record margins ("Non-GAAP Operating Income margins reaching a record 3.9% of Gross Bookings"). While the company notes general macroeconomic risks including "rising inflation and interest rates," these have not softened the current growth trajectory of Gross Bookings.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a platform-based service, Uber does not maintain traditional physical inventory or report supply chain lead times.
+
+**5. Capital Spending (Capex)**
+Investment is shifting toward commercial execution of autonomous vehicle (AV) technology. The company is scaling its AV fleet with "approximately 700 fully driverless vehicles expected on Uber by year-end and over 2,000 in 2027." Management maintains a "high bar for investments" to ensure disciplined capital allocation.
