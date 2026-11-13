@@ -1,0 +1,17 @@
+Ticker: LNT
+Source: LNT_2026-10-30.txt
+Generated: 2026-11-13 20:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Alliant Energy (LNT)**
+
+**1. Demand & Activity:** Robust growth. Demand is driven by significant industrial expansion, specifically data centers, with 3.4 gigawatts of contracted demand ("3.4 gigawatts of contracted demand from data centers"). The company anticipates a substantial long-term increase in load, expecting peak demand to rise by "approximately 60% by 2031."
+
+**2. Labor & Wages:** Moderate pressure. The company reported increased operating costs specifically tied to workforce expenses ("higher other operation and maintenance expenses primarily related to labor").
+
+**3. Pricing Power & Inflation:** Stable to Moderate. The company is utilizing regulatory mechanisms to maintain revenue requirements and is extending a "retail electric base rate stability plan through 2030" to provide customer predictability. However, it notes potential risks from "cost increases" regarding the completion of generation projects.
+
+**4. Supply Chain & Inventory:** Not explicitly detailed. The report focuses on "achievement of targeted in-service dates" for capital projects rather than raw material inventory or lead times.
+
+**5. Capital Spending (Capex):** Robust increase. Alliant has significantly expanded its investment plans to accommodate load growth, increasing its four-year capital expenditure forecast by 19% to "$15.9 billion." Spending is heavily weighted toward "Generation Renewables and energy storage projects" and "Thermal generation liquified natural gas."

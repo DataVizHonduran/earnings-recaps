@@ -1,0 +1,22 @@
+Ticker: AEE
+Source: AEE_2026-11-05.txt
+Generated: 2026-11-13 20:48 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Ameren Corp (AEE)**
+
+**1. Demand & Activity:**
+Demand is growing, characterized by robust needs from industrial users and regional expansion. Retail electric sales in Missouri saw a moderate increase, though this was partially attributed to seasonal weather ("higher Ameren Missouri electric retail sales, primarily driven by warmer temperatures"). Management notes a strong outlook for "growing demand from large customers and support economic growth across our region."
+
+**2. Labor & Wages:**
+Not explicitly detailed. The report mentions higher "operations and maintenance expenses," but attributes these to specific activities rather than wage inflation ("primarily driven by increased reliability-focused tree trimming and energy center maintenance").
+
+**3. Pricing Power & Inflation:**
+The company is utilizing regulatory mechanisms to pass through costs, with a modest improvement in the Illinois Natural Gas segment due to new rates ("increased infrastructure investments included in natural gas service rates that became effective December 2, 2025"). There is evidence of persistent financial pressure from the credit markets, noted as "higher interest expense."
+
+**4. Supply Chain & Inventory:**
+No specific mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex):**
+Capex plans are robust and aggressive, focused on grid modernization and capacity expansion. The company has committed to significant long-term investment ("$38.1 billion of planned infrastructure investments") to support a projected rate base growth of approximately 13.3% compounded annually through 2031. These investments are targeted at "system reliability, resiliency and service quality" and "innovative energy technologies."

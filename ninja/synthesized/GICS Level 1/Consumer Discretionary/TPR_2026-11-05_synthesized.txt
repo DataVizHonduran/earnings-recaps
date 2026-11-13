@@ -1,0 +1,25 @@
+Ticker: TPR
+Source: TPR_2026-11-05.txt
+Generated: 2026-11-13 20:51 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Tapestry, Inc. (TPR)**
+
+**1. Demand & Activity**
+Demand is robust overall, with pro forma revenue increasing 12% ("pro forma net sales increased 12%"). Growth is bifurcated by brand and geography:
+*   **Product/Brand:** Strong growth in core leathergoods, specifically Coach ("Led by 16% Growth at Coach Brand"), while Kate Spade saw a moderate decline ("Kate Spade... (10)%").
+*   **Geographic:** Activity is robust in Greater China (+39% constant currency) and Europe (+22%), while North American demand is modest (+4%).
+*   **Customer Base:** Strong new customer acquisition, particularly among Gen Z ("welcoming 2.6 million new consumers... approximately 35% were Gen Z").
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage pressures. The company references a strategic pillar to "Ignite the Power of our People," but provides no quantitative labor data.
+
+**3. Pricing Power & Inflation**
+The company demonstrates robust pricing power, particularly within the Coach brand, where average unit retail (AUR) increased at a "low-double-digit percentage rate." Gross margins expanded by 220 basis points (Non-GAAP), supported by "operational improvements of approximately 130 basis points" and a "70-basis point net benefit from tariffs and duties," suggesting some relief from previous trade-related input pressures.
+
+**4. Supply Chain & Inventory**
+The report does not explicitly detail lead times or inventory levels. However, the company noted "charges related to distribution network optimization initiatives" ($15 million impact to operating income), indicating ongoing structural adjustments to its logistics chain.
+
+**5. Capital Spending (Capex)**
+While specific facility spend is not detailed, the company is investing in growth through a "140-basis point increase in marketing investment" and a broader "Amplify growth strategy" focused on "Fashion Innovation and Product Excellence." (Note: Capital return to shareholders is high, but this is distinct from operational Capex).

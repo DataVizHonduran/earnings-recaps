@@ -1,0 +1,22 @@
+Ticker: PODD
+Source: PODD_2026-11-04.txt
+Generated: 2026-11-13 20:50 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Insulet Corp (PODD)**
+
+**1. Demand & Activity**
+Demand is robust and growing globally. Total Omnipod revenue increased 19.7% ("Total Omnipod revenue of $836.6 million, rose 19.7%"). Growth is particularly strong in international markets, which saw a moderate-to-robust increase of 31.7% ("International Omnipod revenue of $266.2 million, increased 31.7%"), while U.S. demand remains stable to moderate at 14.7% ("U.S. Omnipod revenue of $570.4 million, increased 14.7%"). The company is actively expanding its user base via a "Type 2 action plan" and the release of Omnipod Discover ("driving adoption by more than 35,000 users").
+
+**2. Labor & Wages**
+The company has recently completed a modest expansion of its domestic workforce to support growth ("completing U.S. sales force expansion"). There are no mentions of wage inflation, turnover, or headcount reductions.
+
+**3. Pricing Power & Inflation**
+While specific price hikes are not detailed, the company is experiencing significant margin expansion, suggesting strong pricing power or operational efficiencies ("Operating income... up 590 basis points over prior year"). The company notes general "macroeconomic and geopolitical uncertainty" as a risk factor, but reports no current persistent pressure from input costs.
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory levels. However, the company identifies "supply chain disruptions" as a general forward-looking risk.
+
+**5. Capital Spending (Capex)**
+The company is continuing to invest in capacity and technology to support its growth trajectory ("increasing manufacturing scale and advancing innovation"). Specific dollar amounts for facility expansion were not disclosed in this release.

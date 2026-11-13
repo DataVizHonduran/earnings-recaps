@@ -1,0 +1,22 @@
+Ticker: KIM
+Source: KIM_2026-10-29.txt
+Generated: 2026-11-13 20:49 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Kimco Realty Corp (KIM)**
+
+**1. Demand & Activity:**
+Demand for retail space is robust, characterized by record-level utilization. Portfolio occupancy reached an all-time high of 96.6% ("Reached record portfolio occupancy of 96.6%"), with small-shop occupancy also matching historical peaks ("small-shop occupancy matched its all-time high of 92.9%"). There is significant forward-looking demand, with $76 million in annual base rent already committed from signed leases that have not yet commenced ("$76 million of annual base rent from leases signed but yet to commence").
+
+**2. Labor & Wages:**
+Not addressed in the provided text.
+
+**3. Pricing Power & Inflation:**
+The company is exercising significant pricing power, evidenced by substantial rent increases on new contracts. Pro-rata cash rent spreads on comparable new leases reached 31.5% ("Achieved pro-rata cash rent spreads of 31.5% on comparable new leases"). This pricing strength has contributed to an acceleration in same property net operating income (NOI), which grew 4.9% year-over-year ("Grew same property net operating income* ('NOI') 4.9% year-over-year").
+
+**4. Supply Chain & Inventory:**
+Not addressed in the provided text.
+
+**5. Capital Spending (Capex):**
+The company is actively recycling capital to shift toward higher-growth assets. Management is transitioning away from lower-growth ground leases in favor of grocery-anchored centers ("continuing to recycle lower-growth ground leases into higher-growth grocery-anchored centers"). Additionally, the company is liquidating specific multifamily assets to redeploy capital ("sold a multifamily property... and redeployed the capital").

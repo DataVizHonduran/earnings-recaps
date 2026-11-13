@@ -1,0 +1,22 @@
+Ticker: SWKS
+Source: SWKS_2026-11-03.txt
+Generated: 2026-11-13 20:50 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Skyworks Solutions (SWKS)**
+
+**1. Demand & Activity**
+Demand is mixed and bifurcated by segment. Smartphone demand is softening, characterized by "well-known softness in the Android market" and expected sequential declines in the "low teens percent," though the company remains focused on the premium tier. Conversely, demand in Diversified Growth Markets is robust, with expected sequential growth in the "low single digits" and year-over-year growth in the "high single to low double digits," specifically led by "data center and defense."
+
+**2. Labor & Wages**
+The report does not explicitly detail wage inflation or hiring difficulties, but indicates a moderate reduction in organizational overlap following the Qorvo combination, noting the "initial consolidation of our management team and HR systems integration."
+
+**3. Pricing Power & Inflation**
+There are no specific mentions of price increases or input cost relief. The company is focused on internal cost reduction rather than pricing levers, targeting "$500 million or more of annual cost synergies" to drive profitability.
+
+**4. Supply Chain & Inventory**
+The provided text contains no specific data regarding current lead times or inventory levels (lean vs. bloated).
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for facility expansion are not listed, the company is investing in technology breadth to capture "Physical AI, Defense, Infrastructure, and Automotive" markets. Strategic investment is focused on integrating "RF GaN, Low-Voltage Power and Wired Broadband" to lead the "next era of wireless."
