@@ -1,0 +1,22 @@
+Ticker: APD
+Source: APD_2026-11-05.txt
+Generated: 2026-11-14 19:00 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Air Products & Chemicals (APD)**
+
+**1. Demand & Activity**
+Demand is growing moderately on a consolidated basis, with full-year volumes increasing 4% ("four percent higher volumes"). Activity is robust in the Americas, driven by significant on-site volume growth ("Americas sales... increased 27 percent... on 26 percent higher volumes"). Asia shows modest growth driven by on-sites and helium ("three percent higher volumes"), while Europe remains stable with slight volume gains ("one percent higher volumes"). The company reports an expanding project backlog, specifically noting strong momentum in the semiconductor space ("over $2.0 billion of new electronics wins").
+
+**2. Labor & Wages**
+The report indicates persistent upward pressure on labor costs. Operating income was partially offset by increases in employee-related expenses, specifically citing "higher incentive compensation" as a driver of higher costs in both the consolidated results and the Americas segment.
+
+**3. Pricing Power & Inflation**
+The company maintains moderate pricing power, successfully implementing "higher pricing" to drive adjusted operating income. However, this is being countered by persistent "fixed-cost inflation" across multiple regions, including Europe and the Americas. Energy costs remain a volatile factor; while the company utilizes "energy cost pass-through" mechanisms (up 2% full-year), these were offset by "higher power costs" in Europe.
+
+**4. Supply Chain & Inventory**
+Not explicitly detailed; however, the company is actively streamlining its global footprint through "project exit decisions," specifically regarding "two China coal gasification plants."
+
+**5. Capital Spending (Capex)**
+Capex is trending lower following a significant reduction in fiscal 2026 ("reduced capital expenditures by $1.8 billion"). Future investment remains stable and disciplined, with fiscal 2027 capital expenditures projected in the range of "$3.0 billion to $3.5 billion."

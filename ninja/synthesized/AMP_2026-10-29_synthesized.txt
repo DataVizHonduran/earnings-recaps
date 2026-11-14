@@ -1,0 +1,22 @@
+Ticker: AMP
+Source: AMP_2026-10-29.txt
+Generated: 2026-11-14 19:00 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Ameriprise Financial (AMP)**
+
+**1. Demand & Activity**
+Demand for wealth management services is robust, characterized by "strong client activity and solid underlying flows" ("strong client activity and solid underlying flows"). Total client assets grew 8% to $1.2 trillion, with "strong wrap net inflows" and a 6% increase in transactional activity ("Transactional activity continued to grow, up 6%"). Conversely, the Asset Management segment is experiencing softening demand, reporting total net outflows of $9.3 billion, which the company attributes to "industry pressure on active managers" ("Remaining flows reflect industry pressure on active managers").
+
+**2. Labor & Wages**
+The company is actively expanding its advisor headcount, adding 79 experienced advisors in the quarter ("The company added 79 experienced advisors in the quarter"). There is a significant pipeline of growth via transitions, with approximately $32 billion in assets expected to transition to the platform through mid-2027 ("We anticipate approximately $32 billion of Huntington assets transitioning to our platform through mid-2027"). Compensation expenses increased in the Asset Management segment, driven by "higher compensation expense for Seligman from AUM growth and performance" ("driven by higher compensation expense for Seligman").
+
+**3. Pricing Power & Inflation**
+Pricing appears stable, with the company noting that the "underlying fee rate remained stable" ("The underlying fee rate remained stable"). There are no specific mentions of input cost inflation or commodity pressures; however, general and administrative expenses rose modestly due to "volume-related expenses and investments for growth" ("primarily driven by volume-related expenses and investments for growth").
+
+**4. Supply Chain & Inventory**
+Not applicable.
+
+**5. Capital Spending (Capex)**
+The company is maintaining a moderate investment pace focused on technology and client experience. Management highlighted "ongoing investments in the client and advisor experience, including thoughtfully integrating AI" ("Our ongoing investments... including thoughtfully integrating AI, are driving high engagement"). The company indicates it will "consistently invest in the business" while maintaining expense discipline ("This enables us to consistently invest in the business").
