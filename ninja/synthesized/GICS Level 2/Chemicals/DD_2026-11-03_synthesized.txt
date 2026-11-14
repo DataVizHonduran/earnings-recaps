@@ -1,0 +1,25 @@
+Ticker: DD
+Source: DD_2026-11-03.txt
+Generated: 2026-11-14 19:00 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: DuPont (DD)**
+
+**1. Demand & Activity**
+Demand is showing moderate growth, with organic sales increasing 5% year-over-year ("organic sales increased 5% versus year-ago period"). 
+*   **Healthcare:** Robust growth in personal protection and medical packaging ("Healthcare Technologies sales up mid-single digits").
+*   **Water Technologies:** Modest growth driven by semiconductor and industrial water markets, though tempered by regional instability ("low-single digits... partially offset by continued disruptions in the Middle East").
+*   **Diversified Industrials:** Moderate growth, specifically in North America and Asia for building technologies, and aerospace and EV battery applications for industrial technologies ("Industrial Technologies sales up mid-single digits").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company reports improved margins attributed to "productivity" and "organic growth" ("Operating EBITDA and margin increased on organic growth and productivity"), suggesting an ability to maintain or expand margins. There are no specific mentions of raw material inflation or pricing hikes.
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capital investment remains stable and disciplined. The company reported quarterly capital expenditures of $71 million ("capital expenditures of $71 million") and emphasized a focus on "effective capital deployment" to drive long-term value.

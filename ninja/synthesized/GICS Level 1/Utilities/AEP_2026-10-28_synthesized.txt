@@ -1,0 +1,25 @@
+Ticker: AEP
+Source: AEP_2026-10-28.txt
+Generated: 2026-11-14 18:59 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: American Electric Power (AEP)**
+
+**Demand & Activity:**
+Demand is growing robustly, driven by large-scale industrial and technology users. The company reports "accelerating electricity demand" ("accelerating electricity demand creates significant investment opportunities") specifically attributed to "new manufacturers, hyperscalers and other large customers" ("New manufacturers, hyperscalers and other large customers help spread fixed system costs"). This is evidenced by 15 GW of new load commitments signed in Q3 alone, with incremental contracted load projected to reach 84 GW by 2031 ("incremental contracted load is expected to grow to 84 GW by 2031").
+
+**Labor & Wages:**
+Not addressed. The transcript provides no specific data on hiring, turnover, or wage pressures.
+
+**Pricing Power & Inflation:**
+AEP is leveraging its pricing structure to shift incremental costs to new large-scale users while seeking to lower costs for residential consumers. The company is "committed to having new large-load customers bear the incremental system costs they create" ("AEP is committed to having new large-load customers bear the incremental system costs they create"). This strategy has enabled a "proposed rate reduction in Indiana" ("The second proposed rate reduction in Indiana is a clear example of this").
+
+**Supply Chain & Inventory:**
+Not addressed. The transcript contains no mentions of lead times or inventory levels.
+
+**Capital Spending (Capex):**
+Capex plans are expanding significantly to support grid modernization and load growth. AEP announced a "robust" $100 billion five-year capital plan through 2031 ("Announcing $100 billion five-year capital plan"). Investment is diversified across three primary areas:
+* **Transmission:** ~$37 billion to modernize the grid ("plans to invest approximately $37 billion in transmission assets").
+* **Generation:** ~$36 billion to meet increased demand ("plans to invest $36 billion in generation resources").
+* **Distribution:** ~$22 billion focused on reliability and resiliency ("Approximately $22 billion of capital is planned for distribution").

@@ -1,0 +1,24 @@
+Ticker: PH
+Source: PH_2026-11-05.txt
+Generated: 2026-11-14 19:01 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Parker-Hannifin (PH)**
+
+**1. Demand & Activity**
+Demand is robust and growing across all market verticals, characterized by double-digit organic sales growth and record backlog levels ("increased demand across all market verticals," "backlog reaches a record $13.7 billion"). 
+*   **Geographic Variance:** Growth is strongest in APAC (23% organic growth), followed by modest growth in EMEA (4%), while Latin America is softening (-1%) ("APAC, 4% EMEA, (1%) LA").
+*   **Product Line:** Aerospace shows robust activity with double-digit growth in both OEM and Aftermarket segments ("double-digit OEM and Aftermarket growth").
+
+**2. Labor & Wages**
+The report does not provide specific data on wage increases or headcount changes, though it notes the addition of new personnel via the Filtration Group acquisition ("welcome these talented team members to Parker"). General risk disclosures mention potential "labor shortages" and "supply chain and labor disruptions" as ongoing systemic risks.
+
+**3. Pricing Power & Inflation**
+The company demonstrates strong pricing power, evidenced by record adjusted segment operating margins (28.6%) and an upward revision of full-year margin guidance ("record adjusted segment operating margin of 28.6%"). While the company monitors "cost increases of or other limitations on our access to raw materials," there is no indication of current input cost pressure offsetting gains.
+
+**4. Supply Chain & Inventory**
+Lead times are not explicitly detailed, but the record backlog of $13.7 billion suggests strong forward-looking demand that exceeds current fulfillment. The company continues to monitor "supply chain and labor disruptions, including as a result of tariffs."
+
+**5. Capital Spending (Capex)**
+Investment is focused on inorganic capacity expansion. The company recently completed the acquisition of Filtration Group Corporation to expand its "filtration offering and aftermarket business" and is pursuing the "pending acquisition of CIRCOR International Inc.'s Commercial and Defense Aerospace business."

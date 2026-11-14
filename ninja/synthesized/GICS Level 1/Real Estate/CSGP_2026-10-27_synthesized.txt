@@ -1,0 +1,22 @@
+Ticker: CSGP
+Source: CSGP_2026-10-27.txt
+Generated: 2026-11-14 19:00 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: CoStar Group (CSGP)**
+
+**1. Demand & Activity**
+Demand for high-resolution geospatial data and aerial imagery appears robust. The target acquisition, Vexcel, reported strong growth in its specific sector, with revenue increasing "over 30% the previous twelve months" ("Vexcel generated revenue of more than $140 million... up over 30%"). This growth is underpinned by "recurring multi-year data contracts" ("on recurring multi-year data contracts").
+
+**2. Labor & Wages**
+The company is focused on expanding its sales capacity to drive growth. There is a strategic intent to "accelerate Vexcel’s revenue growth by growing its sales force" ("growing its sales force and leveraging CoStar Group’s 2,000 salespeople"). Management identifies the "ability to hire qualified persons for, or retain and continue to develop our sales force" as a key operational risk.
+
+**3. Pricing Power & Inflation**
+Not explicitly addressed. The provided text focuses on acquisition financials and revenue growth rather than input cost pressures or general price adjustments.
+
+**4. Supply Chain & Inventory**
+Not applicable. The business model is focused on digital data and proprietary imagery capture rather than physical goods.
+
+**5. Capital Spending (Capex)**
+CoStar is engaging in significant strategic investment to enhance its data capabilities. The company is spending approximately $730 million in cash to acquire Vexcel ("acquire Vexcel Group, Inc... for approximately $730 million in cash"). This investment is aimed at creating an "ultra-low-cost proprietary data source" ("creating a transformative, new, ultra-low-cost proprietary data source") by integrating AI with aerial imagery to automate the extraction of hundreds of data fields per property.

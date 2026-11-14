@@ -1,0 +1,25 @@
+Ticker: AIG
+Source: AIG_2026-11-03.txt
+Generated: 2026-11-14 18:59 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: AIG (Q3 2026)**
+
+**1. Demand & Activity**
+Demand is growing moderately across the portfolio. Net premiums written (NPW) increased 8% on a constant dollar basis ("net premiums written growing 8% year-over-year"). Growth is broad-based, though variances exist by region and product:
+* **International Commercial:** Robust growth of 13% ("supported by broad-based geographic growth").
+* **Global Personal:** Moderate growth of 9% on a constant dollar basis.
+* **North America Commercial:** Slight growth of 2%, with strength in Retail Casualty and Financial Lines offset by "lower production in certain Property lines."
+
+**2. Labor & Wages**
+The report does not specify wage inflation or hiring difficulties, but management characterizes the current workforce as a primary competitive advantage ("AIG’s depth of talent across every region and line of business is one of our greatest strengths").
+
+**3. Pricing Power & Inflation**
+The company is maintaining profitability despite a "more challenging market environment." While specific rate hike percentages are not detailed, the "strong accident year underwriting results" and an accident year combined ratio of 88.4% suggest stable pricing power. There is evidence of modest operational efficiency gains, as noted by a "lower expense ratio" in General Insurance.
+
+**4. Supply Chain & Inventory**
+Not applicable. (No mentions of physical supply chains or inventory levels).
+
+**5. Capital Spending (Capex)**
+No specific mentions of new facility construction or technology capacity investments. Capital activity is currently focused on debt issuance for liquidity ("issued 625 million aggregate principal amount of 4.250% Notes... and 500 million aggregate principal amount of 4.750% Notes") and returning capital to shareholders.

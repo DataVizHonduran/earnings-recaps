@@ -1,0 +1,22 @@
+Ticker: TDY
+Source: TDY_2026-10-21.txt
+Generated: 2026-11-14 19:02 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Teledyne Technologies (TDY)**
+
+**1. Demand & Activity:**
+Demand is robust, with the company reporting all-time record quarterly sales ("Our third quarter sales and operating earnings were the strongest in Teledyne s history"). Growth is particularly strong in the Digital Imaging segment, driven by infrared detectors for space and unmanned applications ("Organic growth accelerated in our Digital Imaging segment"). Demand is broad-based across commercial imaging, including industrial vision and healthcare ("each of our major commercial imaging businesses... increased year-over-year"). Forward-looking demand remains strong, with a funded backlog of nearly $5.3 billion ("orders exceeded sales every quarter over the last three years").
+
+**2. Labor & Wages:**
+The company is experiencing moderate upward pressure on labor costs, specifically regarding professional services and incentives ("increase primarily related to higher professional services as well as higher compensation costs, including incentive compensation").
+
+**3. Pricing Power & Inflation:**
+The company demonstrates strong pricing power and favorable operational leverage, as evidenced by expanding margins ("Operating margin was 20.6% for the third quarter of 2026 compared with 18.4% for the third quarter of 2025"). Profitability gains were further supported by "favorable product mix."
+
+**4. Supply Chain & Inventory:**
+Inventory levels are increasing to support growth, which has slightly offset operating cash flow ("increase driven by favorable operating results... partially offset by higher inventory purchases"). No specific mentions of lead-time constraints or supply chain disruptions were noted.
+
+**5. Capital Spending (Capex):**
+Capex is seeing a modest increase, rising to $33.0 million from $29.2 million year-over-year ("Capital expenditures for the third quarter of 2026 were $33.0 million"). The company is also aggressively pursuing inorganic capacity expansion via a pending $1.1 billion acquisition of Varex Imaging Corporation ("announced pending acquisition of Varex Imaging Corporation for approximately $1.1 billion").

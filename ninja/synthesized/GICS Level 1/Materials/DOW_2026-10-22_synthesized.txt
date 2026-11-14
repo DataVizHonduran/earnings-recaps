@@ -1,0 +1,25 @@
+Ticker: DOW
+Source: DOW_2026-10-22.txt
+Generated: 2026-11-14 19:01 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Dow Inc. (3Q26)**
+
+**1. Demand & Activity**
+Overall demand is **softening** slightly, with total volumes decreasing 1% year-over-year ("Volume decreased 1% year-over-year"). Activity is bifurcated by region and sector:
+*   **Asia Pacific:** Experiencing a decline due to geopolitical instability ("impacts from the Middle East conflict are most pronounced").
+*   **High-Growth Sectors:** Demand is **robust** for AI infrastructure, energy applications, and downstream silicones ("increased demand for AI infrastructure and energy applications," "growth in consumer, electronics and home care applications").
+*   **Industrial/Construction:** Demand is **softening**, particularly in Polyurethanes and Construction Chemicals ("lower volumes... primarily reflect impacts from the Middle East conflict").
+
+**2. Labor & Wages**
+The report does not provide specific data on wage inflation or hiring difficulties, but indicates a trend toward **headcount and facility reductions** as part of efficiency drives ("European asset actions," "closure of the Barry, U.K. siloxanes plant").
+
+**3. Pricing Power & Inflation**
+The company exhibits **robust** pricing power, with local prices increasing 14% overall ("Local price increased 14% versus the year-ago period"). This was most pronounced in Packaging Specialty Plastics ("Local price increased 17% year-over-year"). However, this pricing power is partially offsetting **moderate** inflationary pressures in inputs ("more than offset higher raw materials and logistics costs," "partially offset by higher energy costs in EMEAI").
+
+**4. Supply Chain & Inventory**
+Inventory management is currently a priority, with a **moderate** effort to lean out working capital ("releasing more than $400 million of working capital during the quarter"). Supply chains remain sensitive to geopolitical volatility, specifically regarding Middle East disruptions ("excluding supply constraints associated with the Middle East conflict").
+
+**5. Capital Spending (Capex)**
+Capex strategy is shifting toward a **disciplined** approach that favors high-value, low-cost capacity over legacy assets. The company is actively "shutting down higher-cost upstream capacity" while "investing in differentiated low-cost positions." Future growth is targeted toward "applications for AI infrastructure, home and personal care, electronics, flexible packaging and mobility."

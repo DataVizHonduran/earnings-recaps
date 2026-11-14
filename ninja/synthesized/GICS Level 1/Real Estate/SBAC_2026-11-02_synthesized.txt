@@ -1,0 +1,22 @@
+Ticker: SBAC
+Source: SBAC_2026-11-02.txt
+Generated: 2026-11-14 19:02 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: SBA Communications (SBAC)**
+
+**1. Demand & Activity**
+Demand for tower assets is described as **robust**, driven by wireless carrier network upgrades and growing mobile data traffic ("Demand for our tower assets remains strong"). Management anticipates a "next wave of network investment" linked to C-band auctions, 6G transitions, and new interest from satellite and edge compute providers. Geographically, activity is mixed: domestic site leasing revenue saw a **slight** decline (down 3.4%), while international leasing revenue grew **moderately** (up 13.3%). The company is strategically exiting South American markets (Chile, Ecuador, and Peru) to focus on regions where it has greater scale.
+
+**2. Labor & Wages**
+No specific mentions of hiring difficulties, turnover, or wage pressures were provided in the report.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price hikes or specific input cost inflation. However, the company maintains a high Tower Cash Flow Margin of 79.7%, suggesting **stable** operational efficiency despite a slight year-over-year dip from 80.4%.
+
+**4. Supply Chain & Inventory**
+Not applicable. The company does not report traditional physical inventory or lead-time constraints.
+
+**5. Capital Spending (Capex)**
+Investment in capacity remains **robust**. Total cash capital expenditures for Q3 were $105.2 million, with the vast majority ($91.1 million) being discretionary, focused on "new tower builds, tower augmentations, acquisitions, and purchasing land and easements." The company built 213 towers during the quarter and continues to expand its portfolio, having recently acquired 7 sites and entered contracts for an additional 69 sites.
