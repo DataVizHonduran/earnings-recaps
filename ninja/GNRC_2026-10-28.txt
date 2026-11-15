@@ -1,0 +1,4915 @@
+Ticker: GNRC
+Company: GENERAC HOLDINGS INC.
+Filed: 2026-10-28
+Type: PRESS_RELEASE
+Source: https://www.sec.gov/Archives/edgar/data/1474735/000143774926033685/ex_1032565.htm
+
+EX-99.1
+ 2
+ ex_1032565.htm
+ EXHIBIT 99.1
+ 
+ 
+ ex_1032565.htm 
+ 
+ 
+ 
+ 
+
+ Exhibit 99.1 
+
+ 
+
+ Generac Reports Third Quarter 2026 Results 
+
+ 
+
+ Further momentum in the C&I segment drives significant backlog increase; Residential segment returns to strong growth in the quarter supported by lower power quality mega-trends 
+
+ 
+
+ 
+
+ WAUKESHA, WISCONSIN (October 28, 2026) Generac Holdings Inc. (NYSE: GNRC) ( Generac or the Company ), a leading global designer and manufacturer of energy technology solutions and other power products, today reported financial results for its third quarter ended September 30, 2026, and provided an update on its outlook for the full year 2026. 
+
+ 
+
+ 
+
+ Third Quarter 2026 Highlights 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Net sales increased 16% to a record $1.29 billion during the third quarter of 2026 as compared to $1.11 billion in the prior year third quarter. Acquisitions, divestitures and foreign currency had a net favorable impact of 1% to sales growth during the quarter. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ - 
+ 
+ 
+ Commercial & Industrial ( C&I ) segment external net sales increased approximately 28% to $552 million as compared to $432 million in the prior year. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ - 
+ 
+ 
+ Residential segment external net sales increased approximately 9% to $743 million as compared to $682 million in the prior year. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Net income attributable to the Company during the third quarter was $109 million, or $1.83 per share, as compared to $66 million, or $1.12 per share, for the same period of 2025. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Adjusted net income attributable to the Company, as defined in the accompanying reconciliation schedules, was $151 million, or $2.54 per share, as compared to $108 million, or $1.83 per share, in the third quarter of 2025. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Adjusted EBITDA before deducting for noncontrolling interests, as defined in the accompanying reconciliation schedules, was $256 million, or 19.8% of net sales, as compared to $193 million, or 17.3% of net sales, in the prior year. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Cash flow from operations was $171 million as compared to $118 million in the prior year. Free cash flow, as defined in the accompanying reconciliation schedules, was $132 million as compared to $96 million in the third quarter of 2025. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ As previously disclosed during the quarter, the Company entered into an agreement with Amazon.com, Inc. that included the execution of a long-term supply agreement for backup power generators for Amazon data centers. Initial deliveries are expected to total a combined $2.4 billion in 2027 and 2028. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ The Company is maintaining its full-year 2026 net sales growth guidance in the mid-to-high teens percent range as compared to the prior year. Full-year 2026 adjusted EBITDA margin, before deducting for non-controlling interests, is now expected to be approximately 20.5 to 21.0% as compared to the previous guidance range of 20.0 to 21.0%. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ I m incredibly proud of our team s efforts as our third quarter results reflect an all-time record for net sales as we continued to see tremendous momentum in our C&I segment during the third quarter with significant additional commitments from data center customers providing further confidence in our position as a leading provider to this large and rapidly growing market, said Aaron Jagdfeld, President and Chief Executive Officer. Following the recently announced agreement with Amazon, along with other wins from both new and existing customers, our backlog for products to be sold to the data center market has now grown to approximately $4.5 billion, and we continue to execute on our previously announced capacity expansion plans that will allow us to capture this generational growth opportunity. 
+
+ 
+
+ Jagdfeld continued, Additionally, our Residential segment returned to strong year-over-year growth during the quarter as the mega-trends around lower power quality supported an impressive increase in shipments of home standby and portable generators relative to the prior year period. 
+
+ 
+
+ 
+ 
+ 
+ 1 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ Additional Third Quarter 2026 Consolidated Highlights 
+
+ 
+
+ Gross profit margin was 39.9% as compared to 38.3% in the prior year third quarter. The increase was primarily driven by favorable price/cost impacts in the current year quarter, including lower tariff costs, partially offset by unfavorable sales mix. 
+
+ 
+
+ Operating expenses increased by $31.6 million, or 10%, as compared to the third quarter of 2025. The increase was primarily driven by increased operating expense investments to support future C&I growth, as well as higher marketing spend to drive awareness for our products and additional incentive compensation and intangible amortization expense, partially offset by lower operating expense investment in energy technology solutions. 
+
+ 
+
+ Provision for income taxes for the current year quarter was $34.2 million, or an effective tax rate of 23.9%, as compared to $11.8 million, or a 15.0% effective tax rate, for the prior year quarter. The increase in the effective tax rate was primarily driven by certain favorable discrete tax items in the prior year quarter that did not repeat in the current year. 
+
+ 
+
+ Cash flow from operations was $171.0 million during the third quarter, as compared to $118.4 million in the prior year. Free cash flow, as defined in the accompanying reconciliation schedules, was $131.7 million as compared to $96.5 million in the third quarter of 2025. This strong increase was primarily driven by higher operating earnings, partially offset by increased capital expenditures. 
+
+ 
+
+ Third Quarter Business Segment Results 
+
+ 
+
+ Commercial & Industrial Segment 
+
+ 
+
+ Commercial & Industrial segment total sales increased approximately 28% to $553.0 million from $432.4 million in the prior year quarter, including an approximate 4% net favorable impact to sales growth from the combination of acquisitions, divestitures, and foreign currency. The core total sales growth for the segment was primarily driven by ramping revenue from products sold into the global data center market. In addition, broad-based regional growth internationally was offset by lower shipments to the domestic industrial distributor and telecom channels. 
+
+ 
+
+ Adjusted EBITDA for the segment, before deducting for noncontrolling interests, was $69.3 million, or 12.5% of C&I total sales, as compared to $43.8 million, or 10.1% of total sales, in the prior year. This margin increase was primarily driven by operating leverage on higher shipments and the net favorable impact of acquisitions/divestitures. 
+
+ 
+
+ Residential Segment 
+
+ 
+
+ Residential segment total sales increased approximately 9% to $744.1 million as compared to $685.0 million in the prior year quarter. This increase was primarily driven by strong sales growth for home standby and portable generators compared to the prior year, partially offset by lower shipments of energy storage systems. 
+
+ 
+
+ Adjusted EBITDA for the segment was $200.8 million, or 27.0% of Residential segment total sales, as compared to $160.2 million, or 23.4% of Residential sales, in the prior year. This margin increase was primarily driven by favorable price/cost impacts, operating leverage given higher shipment volumes, and lower operating expense investment in energy technology solutions. 
+
+ 
+
+ 2026 Outlook 
+
+ 
+
+ The Company is maintaining its full-year 2026 net sales growth guidance in the mid-to-high teens percent range as compared to the prior year, including an approximate 2% favorable impact from the net effect of foreign currency, acquisitions, and divestitures. 
+
+ 
+
+ Additionally, the Company is maintaining its guidance for net income margin, before deducting for non-controlling interests, of approximately 9.0 to 10.0% for the full-year 2026. The corresponding adjusted EBITDA margin guidance is now expected to be approximately 20.5 to 21.0% as compared to the previous guidance range of approximately 20.0 to 21.0%. 
+
+ 
+
+ 
+ 
+ 
+ 2 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ Conference Call and Webcast 
+
+ 
+
+ Generac management will hold a conference call at 10:00 a.m. EDT on Wednesday, October 28, 2026 to discuss third quarter 2026 operating results. A webcast of the conference call can be accessed at the following link: https://edge.media-server.com/mmc/p/oci8r36p 
+
+ 
+
+ The webcast of the conference call is also available on Generac's website ( http://www.generac.com ), accessed under the Investor Relations link. The webcast link will be made available on the Company s website prior to the start of the call within the Events section of the Investor Relations website. 
+ 
+Following the live webcast, a replay will be available on the Company s website for 12 months. 
+
+ 
+
+ About Generac 
+
+ 
+
+ Generac is a total energy solutions company that empowers people to use energy on their own terms. Founded in 1959, Generac is a leading global designer, manufacturer, and provider of a wide range of energy technology solutions. The Company provides power generation equipment, energy storage systems, energy management devices & solutions, and other power products and services serving the residential, commercial, data center, telecom, rental, and industrial markets. The Company s broad portfolio of energy technology offerings for homes and businesses enables its mission to Power a Smarter World and lead the evolution to more resilient, efficient, and innovative energy solutions. 
+
+ 
+
+ Forward-looking Information 
+
+ 
+
+ Certain statements contained in this news release, as well as other information provided from time to time by Generac Holdings Inc. or its employees, may contain forward-looking statements that involve risks and uncertainties that could cause actual results to differ materially from those in the forward-looking statements. Forward-looking statements give Generac's current expectations and projections relating to the Company's financial condition, results of operations, plans, objectives, future performance and business. You can identify forward-looking statements by the fact that they do not relate strictly to historical or current facts. These statements may include words such as "anticipate," "estimate," "expect," "forecast," "project," "plan," "intend," "believe," "confident," "may," "should," "can have," "likely," "future," "optimistic" and other words and terms of similar meaning in connection with any discussion of the timing or nature of future operating or financial performance or other events. 
+
+ 
+
+ Any such forward-looking statements are not guarantees of performance or results, and involve risks, uncertainties (some of which are beyond the Company's control) and assumptions. Although Generac believes any forward-looking statements are based on reasonable assumptions, you should be aware that many factors could affect Generac's actual financial results and cause them to differ materially from those anticipated in any forward- looking statements, including: 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ frequency and duration of power outages impacting demand for our products; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ fluctuations in cost, availability, and quality of raw materials, key components and labor required to manufacture our products; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ our dependence on a small number of contract manufacturers and component suppliers, including single-source suppliers; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ changes and volatility with respect to the trade policies of various countries, which may result in new or increased tariffs, trade restrictions, or other unfavorable trade actions; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ our ability to protect our intellectual property rights or successfully defend against third party infringement claims; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ changes in durable goods spending by consumers and businesses or other global macroeconomic conditions, impacting demand for our products; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ changes in governmental policies, particularly with respect to tax incentives, tax credits, or grant programs, which could: (i) affect the demand for certain of our products; or (ii) result in a withdrawal or reduction of grants previously awarded to the Company; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 3 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ increase in product and other liability claims, warranty costs, recalls, or other claims; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ significant legal proceedings, claims, fines, penalties, tax assessments, lawsuits or government investigations; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ our ability to consummate our share repurchase programs; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ our failure or inability to adapt to, or comply with, current or future changes in applicable laws, regulations, and product standards; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ our ability to develop and enhance products and gain customer acceptance including our offerings that serve the data center and energy technology markets; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ uncertainty regarding the growth of the data center market; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ increase in contract risk related to terms with certain data center customers, including cancellation rights, delivery requirements, and potential liability exposure tied to our performance obligations or other claimed damages; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ our ability to accurately forecast demand for our products and effectively manage inventory levels relative to such forecast; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ our ability to remain competitive; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ our dependence on our dealer and distribution network; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ market reaction to changes in selling prices or mix of products; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ loss of our key management and employees; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ disruptions from labor disputes or organized labor activities; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ our ability to attract and retain employees; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ disruptions in our manufacturing operations; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ the possibility that the expected synergies, efficiencies and cost savings of our acquisitions, divestitures, restructurings, or realignments will not be realized, or will not be realized within the expected time period; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ risks related to sourcing components in foreign countries; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ compliance with environmental, health and safety laws and regulations; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ scrutiny regarding our sustainability practices; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ government regulation of our products; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ failures or security breaches of our networks, information technology systems, or connected products; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ risks due to instability caused by geopolitical conflicts; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ our ability to make payments on our indebtedness; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ terms of our credit facilities that may restrict our operations; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ our potential need for additional capital to finance our growth or refinancing our existing credit facilities; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ risks of impairment of the value of our goodwill and other indefinite-lived assets; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ volatility of our stock price; and 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ potential tax liabilities. 
+ 
+ 
+
+ 
+
+ 
+
+ Should one or more of these risks or uncertainties materialize, Generac's actual results may vary in material respects from those projected in any forward-looking statements. A detailed discussion of these and other factors that may affect future results is contained in Generac's filings with the U.S. Securities and Exchange Commission ("SEC"), particularly in the Risk Factors section of the Annual Report on Form 10-K and in its periodic reports on Form 10-Q. Stockholders, potential investors and other readers should consider these factors carefully in evaluating the forward-looking statements. 
+
+ 
+
+ Any forward-looking statement made by Generac in this press release speaks only as of the date on which it is made. Generac undertakes no obligation to update any forward-looking statement, whether as a result of new information, future developments or otherwise, except as may be required by law. 
+
+ 
+
+ 
+ 
+ 
+ 4 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ Non-GAAP Financial Metrics 
+
+ 
+
+ Core Sales 
+
+ 
+
+ The Company references core sales to further supplement Generac's consolidated financial statements presented in accordance with U.S. GAAP. Core sales excludes the impact of acquisitions, divestitures, and fluctuations in foreign currency translation. Management believes that core sales facilitates easier and more meaningful comparison of net sales performance with prior and future periods. 
+
+ 
+
+ Adjusted EBITDA 
+
+ 
+
+ To supplement Generac s consolidated financial statements presented in accordance with U.S. GAAP, the Company provides the computation of Adjusted EBITDA attributable to the Company, which is defined as net income (loss) before noncontrolling interests adjusted for the following items: interest expense, depreciation expense, amortization of intangible assets, income tax expense (benefit), certain non-cash gains and losses including certain purchase accounting adjustments and contingent consideration adjustments, share-based compensation expense, certain transaction costs and credit facility fees, business optimization expenses, provision for certain legal and regulatory charges, certain specific provisions, mark-to-market gains and losses on a minority investment, and Adjusted EBITDA attributable to noncontrolling interests. The provision for legal and regulatory charges adjusts for matters that are significant and not part of the ordinary routine litigation or regulatory matters incidental to the Company s business, such as large suits and settlements, class action lawsuits, government inquiries and certain intellectual property litigation. The adjustments to net income (loss) in computing Adjusted EBITDA are set forth in the reconciliation table below. The computation of Adjusted EBITDA is based primarily on the definition included in our Credit Agreement. 
+
+ 
+
+ Adjusted Net Income 
+
+ 
+
+ To further supplement Generac's consolidated financial statements presented in accordance with U.S. GAAP, the Company provides a summary to show the computation of adjusted net income attributable to the Company. Adjusted net income attributable to the Company is defined as net income (loss) before noncontrolling interests adjusted for the following items: amortization of intangible assets, amortization of deferred financing costs and original issue discount related to the Company's debt, intangible impairment charges, certain transaction costs and other purchase accounting adjustments, business optimization expenses, provision for certain legal and regulatory charges, certain specific provisions, mark-to-market gains and losses on a minority investment, other non-cash gains and losses, and adjusted net income attributable to non-controlling interests. 
+
+ 
+
+ Free Cash Flow 
+
+ 
+
+ In addition, the Company references free cash flow to further supplement Generac's consolidated financial statements presented in accordance with U.S. GAAP. Free cash flow is defined as net cash provided by operating activities, less expenditures for property and equipment, and is intended to be a measure of operational cash flow taking into account additional capital expenditure investment into the business. 
+
+ 
+
+ The presentation of this additional information is not meant to be considered in isolation of, or as a substitute for, results prepared in accordance with U.S. GAAP. Please see the accompanying Reconciliation Schedules and our SEC filings for additional discussion of the basis for Generac's reporting of Non-GAAP financial measures, which includes why the Company believes these measures provide useful information to investors and the additional purposes for which management uses the non-GAAP financial information. 
+
+ 
+
+ SOURCE: Generac Holdings Inc. 
+
+ 
+
+ CONTACT: 
+
+ Kris Rosemann 
+
+ Senior Director Corporate Finance & Investor Relations 
+(262) 506-6064 
+ InvestorRelations@generac.com 
+
+ 
+
+ 
+ 
+ 
+ 5 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ Generac Holdings Inc. 
+
+ Condensed Consolidated Balance Sheets 
+
+ (U.S. Dollars in Thousands, Except Share and Per Share Data) 
+
+ (Unaudited) 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ September 30, 
+ 
+ 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ Assets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Current assets: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash and cash equivalents 
+ 
+ 
+ $ 
+ 393,671 
+ 
+ 
+ $ 
+ 341,413 
+ 
+ 
+ 
+ 
+ Accounts receivable, less allowance for credit losses of $33,847 and $34,504 at September 30, 2026 and December 31, 2025, respectively 
+ 
+ 
+ 
+ 846,036 
+ 
+ 
+ 
+ 602,739 
+ 
+ 
+ 
+ 
+ Inventories 
+ 
+ 
+ 
+ 1,292,713 
+ 
+ 
+ 
+ 1,248,867 
+ 
+ 
+ 
+ 
+ Prepaid expenses and other current assets 
+ 
+ 
+ 
+ 263,674 
+ 
+ 
+ 
+ 269,459 
+ 
+ 
+ 
+ 
+ Total current assets 
+ 
+ 
+ 
+ 2,796,094 
+ 
+ 
+ 
+ 2,462,478 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Property and equipment, net 
+ 
+ 
+ 
+ 874,156 
+ 
+ 
+ 
+ 813,605 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Customer lists, net 
+ 
+ 
+ 
+ 146,147 
+ 
+ 
+ 
+ 127,517 
+ 
+ 
+ 
+ 
+ Patents and technology, net 
+ 
+ 
+ 
+ 304,465 
+ 
+ 
+ 
+ 338,308 
+ 
+ 
+ 
+ 
+ Other intangible assets, net 
+ 
+ 
+ 
+ 3,923 
+ 
+ 
+ 
+ 10,011 
+ 
+ 
+ 
+ 
+ Tradenames, net 
+ 
+ 
+ 
+ 218,747 
+ 
+ 
+ 
+ 199,430 
+ 
+ 
+ 
+ 
+ Goodwill 
+ 
+ 
+ 
+ 1,648,970 
+ 
+ 
+ 
+ 1,467,094 
+ 
+ 
+ 
+ 
+ Deferred income taxes 
+ 
+ 
+ 
+ 6,231 
+ 
+ 
+ 
+ 41,949 
+ 
+ 
+ 
+ 
+ Operating lease and other assets 
+ 
+ 
+ 
+ 139,368 
+ 
+ 
+ 
+ 113,287 
+ 
+ 
+ 
+ 
+ Total assets 
+ 
+ 
+ $ 
+ 6,138,101 
+ 
+ 
+ $ 
+ 5,573,679 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Liabilities and stockholders equity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Current liabilities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Short-term borrowings 
+ 
+ 
+ $ 
+ 53,134 
+ 
+ 
+ $ 
+ 50,618 
+ 
+ 
+ 
+ 
+ Accounts payable 
+ 
+ 
+ 
+ 629,432 
+ 
+ 
+ 
+ 436,583 
+ 
+ 
+ 
+ 
+ Accrued wages and employee benefits 
+ 
+ 
+ 
+ 82,068 
+ 
+ 
+ 
+ 69,850 
+ 
+ 
+ 
+ 
+ Accrued product warranty 
+ 
+ 
+ 
+ 58,822 
+ 
+ 
+ 
+ 44,716 
+ 
+ 
+ 
+ 
+ Other accrued liabilities 
+ 
+ 
+ 
+ 556,801 
+ 
+ 
+ 
+ 591,387 
+ 
+ 
+ 
+ 
+ Current portion of long-term borrowings and finance lease obligations 
+ 
+ 
+ 
+ 36,744 
+ 
+ 
+ 
+ 22,192 
+ 
+ 
+ 
+ 
+ Total current liabilities 
+ 
+ 
+ 
+ 1,417,001 
+ 
+ 
+ 
+ 1,215,346 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Long-term borrowings and finance lease obligations 
+ 
+ 
+ 
+ 1,243,734 
+ 
+ 
+ 
+ 1,260,256 
+ 
+ 
+ 
+ 
+ Deferred income taxes 
+ 
+ 
+ 
+ 50,426 
+ 
+ 
+ 
+ 60,913 
+ 
+ 
+ 
+ 
+ Deferred revenue 
+ 
+ 
+ 
+ 238,359 
+ 
+ 
+ 
+ 232,921 
+ 
+ 
+ 
+ 
+ Operating lease and other long-term liabilities 
+ 
+ 
+ 
+ 176,360 
+ 
+ 
+ 
+ 165,197 
+ 
+ 
+ 
+ 
+ Total liabilities 
+ 
+ 
+ 
+ 3,125,880 
+ 
+ 
+ 
+ 2,934,633 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Redeemable non-controlling interest 
+ 
+ 
+ 
+ 93 
+ 
+ 
+ 
+ 742 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stockholders equity: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Common stock, par value $0.01, 500,000,000 shares authorized, 74,231,735 and 74,050,753 shares issued at September 30, 2026 and December 31, 2025, respectively 
+ 
+ 
+ 
+ 742 
+ 
+ 
+ 
+ 741 
+ 
+ 
+ 
+ 
+ Additional paid-in capital 
+ 
+ 
+ 
+ 1,245,109 
+ 
+ 
+ 
+ 1,187,419 
+ 
+ 
+ 
+ 
+ Treasury stock, at cost, 15,243,377 and 15,373,990 shares at September 30, 2026 and December 31, 2025, respectively 
+ 
+ 
+ 
+ (1,337,451 
+ ) 
+ 
+ 
+ (1,358,053 
+ ) 
+ 
+ 
+ 
+ Excess purchase price over predecessor basis 
+ 
+ 
+ 
+ (202,116 
+ ) 
+ 
+ 
+ (202,116 
+ ) 
+ 
+ 
+ 
+ Retained earnings 
+ 
+ 
+ 
+ 3,329,278 
+ 
+ 
+ 
+ 3,003,557 
+ 
+ 
+ 
+ 
+ Accumulated other comprehensive (loss) income 
+ 
+ 
+ 
+ (23,441 
+ ) 
+ 
+ 
+ 874 
+ 
+ 
+ 
+ 
+ Stockholders equity attributable to Generac Holdings Inc. 
+ 
+ 
+ 
+ 3,012,121 
+ 
+ 
+ 
+ 2,632,422 
+ 
+ 
+ 
+ 
+ Noncontrolling interests 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 5,882 
+ 
+ 
+ 
+ 
+ Total stockholders' equity 
+ 
+ 
+ 
+ 3,012,128 
+ 
+ 
+ 
+ 2,638,304 
+ 
+ 
+ 
+ 
+ Total liabilities and stockholders equity 
+ 
+ 
+ $ 
+ 6,138,101 
+ 
+ 
+ $ 
+ 5,573,679 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 6 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ Generac Holdings Inc. 
+
+ Condensed Consolidated Statements of Comprehensive Income 
+
+ (U.S. Dollars in Thousands, Except Share and Per Share Data) 
+
+ (Unaudited) 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Three Months Ended September 30, 
+ 
+ 
+ 
+ 
+ Nine Months Ended September 30, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net sales 
+ 
+ 
+ $ 
+ 1,294,779 
+ 
+ 
+ $ 
+ 1,114,353 
+ 
+ 
+ $ 
+ 3,527,654 
+ 
+ 
+ $ 
+ 3,117,643 
+ 
+ 
+ 
+ 
+ Costs of goods sold 
+ 
+ 
+ 
+ 778,738 
+ 
+ 
+ 
+ 687,431 
+ 
+ 
+ 
+ 2,079,566 
+ 
+ 
+ 
+ 1,901,986 
+ 
+ 
+ 
+ 
+ Gross profit 
+ 
+ 
+ 
+ 516,041 
+ 
+ 
+ 
+ 426,922 
+ 
+ 
+ 
+ 1,448,088 
+ 
+ 
+ 
+ 1,215,657 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selling and service 
+ 
+ 
+ 
+ 174,874 
+ 
+ 
+ 
+ 145,104 
+ 
+ 
+ 
+ 440,125 
+ 
+ 
+ 
+ 410,664 
+ 
+ 
+ 
+ 
+ Research and development 
+ 
+ 
+ 
+ 63,832 
+ 
+ 
+ 
+ 60,059 
+ 
+ 
+ 
+ 192,269 
+ 
+ 
+ 
+ 182,461 
+ 
+ 
+ 
+ 
+ General and administrative 
+ 
+ 
+ 
+ 88,134 
+ 
+ 
+ 
+ 93,748 
+ 
+ 
+ 
+ 237,574 
+ 
+ 
+ 
+ 247,924 
+ 
+ 
+ 
+ 
+ Amortization of intangibles 
+ 
+ 
+ 
+ 28,618 
+ 
+ 
+ 
+ 24,932 
+ 
+ 
+ 
+ 89,813 
+ 
+ 
+ 
+ 76,102 
+ 
+ 
+ 
+ 
+ Total operating expenses 
+ 
+ 
+ 
+ 355,458 
+ 
+ 
+ 
+ 323,843 
+ 
+ 
+ 
+ 959,781 
+ 
+ 
+ 
+ 917,151 
+ 
+ 
+ 
+ 
+ Income from operations 
+ 
+ 
+ 
+ 160,583 
+ 
+ 
+ 
+ 103,079 
+ 
+ 
+ 
+ 488,307 
+ 
+ 
+ 
+ 298,506 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other (expense) income: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest expense 
+ 
+ 
+ 
+ (16,378 
+ ) 
+ 
+ 
+ (18,461 
+ ) 
+ 
+ 
+ (48,541 
+ ) 
+ 
+ 
+ (53,813 
+ ) 
+ 
+ 
+ 
+ Investment income 
+ 
+ 
+ 
+ 3,472 
+ 
+ 
+ 
+ 1,646 
+ 
+ 
+ 
+ 8,716 
+ 
+ 
+ 
+ 5,618 
+ 
+ 
+ 
+ 
+ Change in fair value of investments 
+ 
+ 
+ 
+ (3,021 
+ ) 
+ 
+ 
+ (5,667 
+ ) 
+ 
+ 
+ 1,521 
+ 
+ 
+ 
+ (17,138 
+ ) 
+ 
+ 
+ 
+ Loss on refinancing of debt 
+ 
+ 
+ 
+ - 
+ 
+ 
+ 
+ (1,225 
+ ) 
+ 
+ 
+ - 
+ 
+ 
+ 
+ (1,225 
+ ) 
+ 
+ 
+ 
+ Loss attributable to business dispositions 
+ 
+ 
+ 
+ (485 
+ ) 
+ 
+ 
+ - 
+ 
+ 
+ 
+ (18,723 
+ ) 
+ 
+ 
+ (3,905 
+ ) 
+ 
+ 
+ 
+ Other, net 
+ 
+ 
+ 
+ (1,024 
+ ) 
+ 
+ 
+ (1,034 
+ ) 
+ 
+ 
+ (1,668 
+ ) 
+ 
+ 
+ (1,339 
+ ) 
+ 
+ 
+ 
+ Total other expense, net 
+ 
+ 
+ 
+ (17,436 
+ ) 
+ 
+ 
+ (24,741 
+ ) 
+ 
+ 
+ (58,695 
+ ) 
+ 
+ 
+ (71,802 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income before provision for income taxes 
+ 
+ 
+ 
+ 143,147 
+ 
+ 
+ 
+ 78,338 
+ 
+ 
+ 
+ 429,612 
+ 
+ 
+ 
+ 226,704 
+ 
+ 
+ 
+ 
+ Provision for income taxes 
+ 
+ 
+ 
+ 34,198 
+ 
+ 
+ 
+ 11,758 
+ 
+ 
+ 
+ 104,541 
+ 
+ 
+ 
+ 41,416 
+ 
+ 
+ 
+ 
+ Net income 
+ 
+ 
+ 
+ 108,949 
+ 
+ 
+ 
+ 66,580 
+ 
+ 
+ 
+ 325,071 
+ 
+ 
+ 
+ 185,288 
+ 
+ 
+ 
+ 
+ Net (loss) income attributable to noncontrolling interests 
+ 
+ 
+ 
+ (275 
+ ) 
+ 
+ 
+ 419 
+ 
+ 
+ 
+ (650 
+ ) 
+ 
+ 
+ 1,271 
+ 
+ 
+ 
+ 
+ Net income attributable to Generac Holdings Inc. 
+ 
+ 
+ $ 
+ 109,224 
+ 
+ 
+ $ 
+ 66,161 
+ 
+ 
+ $ 
+ 325,721 
+ 
+ 
+ $ 
+ 184,017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income attributable to common shareholders per common share - basic: 
+ 
+ 
+ $ 
+ 1.86 
+ 
+ 
+ $ 
+ 1.14 
+ 
+ 
+ $ 
+ 5.55 
+ 
+ 
+ $ 
+ 3.14 
+ 
+ 
+ 
+ 
+ Weighted average common shares outstanding - basic: 
+ 
+ 
+ 
+ 58,845,536 
+ 
+ 
+ 
+ 58,263,218 
+ 
+ 
+ 
+ 58,695,971 
+ 
+ 
+ 
+ 58,604,097 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income attributable to common shareholders per common share - diluted: 
+ 
+ 
+ $ 
+ 1.83 
+ 
+ 
+ $ 
+ 1.12 
+ 
+ 
+ $ 
+ 5.48 
+ 
+ 
+ $ 
+ 3.10 
+ 
+ 
+ 
+ 
+ Weighted average common shares outstanding - diluted: 
+ 
+ 
+ 
+ 59,562,737 
+ 
+ 
+ 
+ 59,122,849 
+ 
+ 
+ 
+ 59,487,353 
+ 
+ 
+ 
+ 59,314,618 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 7 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ Generac Holdings Inc. 
+
+ Condensed Consolidated Statements of Cash Flows 
+
+ (U.S. Dollars in Thousands) 
+
+ (Unaudited) 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Nine Months Ended September 30, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ Operating activities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income 
+ 
+ 
+ $ 
+ 325,071 
+ 
+ 
+ $ 
+ 185,288 
+ 
+ 
+ 
+ 
+ Adjustments to reconcile net income to net cash provided by operating activities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Depreciation and finance lease amortization 
+ 
+ 
+ 
+ 81,858 
+ 
+ 
+ 
+ 67,571 
+ 
+ 
+ 
+ 
+ Amortization of intangible assets 
+ 
+ 
+ 
+ 89,813 
+ 
+ 
+ 
+ 76,102 
+ 
+ 
+ 
+ 
+ Amortization of deferred financing costs and original issue discount 
+ 
+ 
+ 
+ 1,636 
+ 
+ 
+ 
+ 1,835 
+ 
+ 
+ 
+ 
+ Change in fair value of investments 
+ 
+ 
+ 
+ (1,521 
+ ) 
+ 
+ 
+ 17,138 
+ 
+ 
+ 
+ 
+ Loss on refinancing of debt 
+ 
+ 
+ 
+ - 
+ 
+ 
+ 
+ 1,225 
+ 
+ 
+ 
+ 
+ Deferred income tax expense 
+ 
+ 
+ 
+ 25,012 
+ 
+ 
+ 
+ 32,416 
+ 
+ 
+ 
+ 
+ Share-based compensation expense 
+ 
+ 
+ 
+ 40,489 
+ 
+ 
+ 
+ 39,111 
+ 
+ 
+ 
+ 
+ Loss on disposal of assets 
+ 
+ 
+ 
+ 351 
+ 
+ 
+ 
+ 553 
+ 
+ 
+ 
+ 
+ Loss attributable to business dispositions 
+ 
+ 
+ 
+ 18,723 
+ 
+ 
+ 
+ 3,905 
+ 
+ 
+ 
+ 
+ Other noncash charges 
+ 
+ 
+ 
+ 3,394 
+ 
+ 
+ 
+ 2,445 
+ 
+ 
+ 
+ 
+ Excess tax benefits from equity awards 
+ 
+ 
+ 
+ (3,139 
+ ) 
+ 
+ 
+ (476 
+ ) 
+ 
+ 
+ 
+ Net changes in operating assets and liabilities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Accounts receivable 
+ 
+ 
+ 
+ (241,681 
+ ) 
+ 
+ 
+ (31,989 
+ ) 
+ 
+ 
+ 
+ Inventories 
+ 
+ 
+ 
+ (40,249 
+ ) 
+ 
+ 
+ (273,053 
+ ) 
+ 
+ 
+ 
+ Other assets 
+ 
+ 
+ 
+ (114,953 
+ ) 
+ 
+ 
+ (53,138 
+ ) 
+ 
+ 
+ 
+ Accounts payable 
+ 
+ 
+ 
+ 192,138 
+ 
+ 
+ 
+ 143,645 
+ 
+ 
+ 
+ 
+ Accrued wages and employee benefits 
+ 
+ 
+ 
+ 11,695 
+ 
+ 
+ 
+ (15,064 
+ ) 
+ 
+ 
+ 
+ Other accrued liabilities 
+ 
+ 
+ 
+ 22,848 
+ 
+ 
+ 
+ 51,205 
+ 
+ 
+ 
+ 
+ Net cash provided by operating activities 
+ 
+ 
+ 
+ 411,485 
+ 
+ 
+ 
+ 248,719 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Investing activities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Proceeds from sale of property and equipment 
+ 
+ 
+ 
+ 31 
+ 
+ 
+ 
+ 35 
+ 
+ 
+ 
+ 
+ Purchase of long-term investments 
+ 
+ 
+ 
+ (425 
+ ) 
+ 
+ 
+ (3,035 
+ ) 
+ 
+ 
+ 
+ Proceeds from sale of long-term investment 
+ 
+ 
+ 
+ 2,598 
+ 
+ 
+ 
+ - 
+ 
+ 
+ 
+ 
+ Expenditures for property and equipment 
+ 
+ 
+ 
+ (126,937 
+ ) 
+ 
+ 
+ (110,534 
+ ) 
+ 
+ 
+ 
+ Acquisition of businesses, net of cash acquired 
+ 
+ 
+ 
+ (211,723 
+ ) 
+ 
+ 
+ - 
+ 
+ 
+ 
+ 
+ Proceeds (payments) from sale of businesses, net of cash disposed 
+ 
+ 
+ 
+ 23,654 
+ 
+ 
+ 
+ (1,999 
+ ) 
+ 
+ 
+ 
+ Net cash used in investing activities 
+ 
+ 
+ 
+ (312,802 
+ ) 
+ 
+ 
+ (115,533 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Financing activities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Proceeds from short-term borrowings 
+ 
+ 
+ 
+ 33,913 
+ 
+ 
+ 
+ 30,860 
+ 
+ 
+ 
+ 
+ Proceeds from long-term borrowings 
+ 
+ 
+ 
+ 84,387 
+ 
+ 
+ 
+ 134,715 
+ 
+ 
+ 
+ 
+ Repayments of short-term borrowings 
+ 
+ 
+ 
+ (31,998 
+ ) 
+ 
+ 
+ (47,290 
+ ) 
+ 
+ 
+ 
+ Repayments of long-term borrowings and finance lease obligations 
+ 
+ 
+ 
+ (99,243 
+ ) 
+ 
+ 
+ (75,742 
+ ) 
+ 
+ 
+ 
+ Stock repurchases 
+ 
+ 
+ 
+ - 
+ 
+ 
+ 
+ (147,917 
+ ) 
+ 
+ 
+ 
+ Payment of debt issuance costs 
+ 
+ 
+ 
+ - 
+ 
+ 
+ 
+ (5,275 
+ ) 
+ 
+ 
+ 
+ Payment of contingent acquisition consideration 
+ 
+ 
+ 
+ (2,700 
+ ) 
+ 
+ 
+ (2,700 
+ ) 
+ 
+ 
+ 
+ Payment of deferred acquisition consideration 
+ 
+ 
+ 
+ (958 
+ ) 
+ 
+ 
+ - 
+ 
+ 
+ 
+ 
+ Contributions received from noncontrolling interest in subsidiary 
+ 
+ 
+ 
+ - 
+ 
+ 
+ 
+ 979 
+ 
+ 
+ 
+ 
+ Cash dividends paid to noncontrolling interest of subsidiary 
+ 
+ 
+ 
+ - 
+ 
+ 
+ 
+ (293 
+ ) 
+ 
+ 
+ 
+ Taxes paid related to equity awards 
+ 
+ 
+ 
+ (39,395 
+ ) 
+ 
+ 
+ (12,864 
+ ) 
+ 
+ 
+ 
+ Proceeds from the exercise of stock options 
+ 
+ 
+ 
+ 10,544 
+ 
+ 
+ 
+ 4,233 
+ 
+ 
+ 
+ 
+ Net cash used in financing activities 
+ 
+ 
+ 
+ (45,450 
+ ) 
+ 
+ 
+ (121,294 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Effect of foreign exchange rate changes on cash and cash equivalents 
+ 
+ 
+ 
+ (975 
+ ) 
+ 
+ 
+ 6,840 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net increase in cash and cash equivalents 
+ 
+ 
+ 
+ 52,258 
+ 
+ 
+ 
+ 18,732 
+ 
+ 
+ 
+ 
+ Cash and cash equivalents at beginning of period 
+ 
+ 
+ 
+ 341,413 
+ 
+ 
+ 
+ 281,277 
+ 
+ 
+ 
+ 
+ Cash and cash equivalents at end of period 
+ 
+ 
+ $ 
+ 393,671 
+ 
+ 
+ $ 
+ 300,009 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 8 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ Generac Holdings Inc. 
+
+ Segment Reporting and Product Class Information 
+
+ (U.S. Dollars in Thousands) 
+
+ (Unaudited) 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Total Sales by Reportable Segment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended September 30, 2026 
+ 
+ 
+ 
+ 
+ Three Months Ended September 30, 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ External Net 
+
+ Sales 
+ 
+ 
+ 
+ 
+ Intersegment 
+
+ Sales 
+ 
+ 
+ 
+ 
+ Total Sales 
+ 
+ 
+ 
+ 
+ External Net 
+
+ Sales 
+ 
+ 
+ 
+ 
+ Intersegment 
+
+ Sales 
+ 
+ 
+ 
+ 
+ Total Sales 
+ 
+ 
+ 
+ 
+ 
+ Residential 
+ 
+ 
+ $ 
+ 742,655 
+ 
+ 
+ $ 
+ 1,443 
+ 
+ 
+ $ 
+ 744,098 
+ 
+ 
+ $ 
+ 681,972 
+ 
+ 
+ $ 
+ 2,985 
+ 
+ 
+ $ 
+ 684,957 
+ 
+ 
+ 
+ 
+ Commercial & Industrial 
+ 
+ 
+ 
+ 552,124 
+ 
+ 
+ 
+ 865 
+ 
+ 
+ 
+ 552,989 
+ 
+ 
+ 
+ 432,381 
+ 
+ 
+ 
+ 51 
+ 
+ 
+ 
+ 432,432 
+ 
+ 
+ 
+ 
+ Corporate and eliminations 
+ 
+ 
+ 
+ - 
+ 
+ 
+ 
+ (2,308 
+ ) 
+ 
+ 
+ (2,308 
+ ) 
+ 
+ 
+ - 
+ 
+ 
+ 
+ (3,036 
+ ) 
+ 
+ 
+ (3,036 
+ ) 
+ 
+ 
+ 
+ Total net sales 
+ 
+ 
+ $ 
+ 1,294,779 
+ 
+ 
+ $ 
+ - 
+ 
+ 
+ $ 
+ 1,294,779 
+ 
+ 
+ $ 
+ 1,114,353 
+ 
+ 
+ $ 
+ - 
+ 
+ 
+ $ 
+ 1,114,353 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Total Sales by Reportable Segment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Nine Months Ended September 30, 2026 
+ 
+ 
+ 
+ 
+ Nine Months Ended September 30, 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ External Net 
+
+ Sales 
+ 
+ 
+ 
+ 
+ Intersegment 
+
+ Sales 
+ 
+ 
+ 
+ 
+ Total Sales 
+ 
+ 
+ 
+ 
+ External Net 
+
+ Sales 
+ 
+ 
+ 
+ 
+ Intersegment 
+
+ Sales 
+ 
+ 
+ 
+ 
+ Total Sales 
+ 
+ 
+ 
+ 
+ 
+ Residential 
+ 
+ 
+ $ 
+ 1,908,993 
+ 
+ 
+ $ 
+ 8,551 
+ 
+ 
+ $ 
+ 1,917,544 
+ 
+ 
+ $ 
+ 1,855,681 
+ 
+ 
+ $ 
+ 12,657 
+ 
+ 
+ $ 
+ 1,868,338 
+ 
+ 
+ 
+ 
+ Commercial & Industrial 
+ 
+ 
+ 
+ 1,618,661 
+ 
+ 
+ 
+ 916 
+ 
+ 
+ 
+ 1,619,577 
+ 
+ 
+ 
+ 1,261,962 
+ 
+ 
+ 
+ 51 
+ 
+ 
+ 
+ 1,262,013 
+ 
+ 
+ 
+ 
+ Corporate and eliminations 
+ 
+ 
+ 
+ - 
+ 
+ 
+ 
+ (9,467 
+ ) 
+ 
+ 
+ (9,467 
+ ) 
+ 
+ 
+ - 
+ 
+ 
+ 
+ (12,708 
+ ) 
+ 
+ 
+ (12,708 
+ ) 
+ 
+ 
+ 
+ Total net sales 
+ 
+ 
+ $ 
+ 3,527,654 
+ 
+ 
+ $ 
+ - 
+ 
+ 
+ $ 
+ 3,527,654 
+ 
+ 
+ $ 
+ 3,117,643 
+ 
+ 
+ $ 
+ - 
+ 
+ 
+ $ 
+ 3,117,643 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Adjusted EBITDA by Reportable 
+
+ Segment 
+ 
+ 
+ 
+ 
+ Adjusted EBITDA by Reportable 
+
+ Segment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended September 30, 
+ 
+ 
+ 
+ 
+ Nine Months Ended September 30, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ Residential 
+ 
+ 
+ $ 
+ 200,792 
+ 
+ 
+ $ 
+ 160,176 
+ 
+ 
+ $ 
+ 554,766 
+ 
+ 
+ $ 
+ 418,189 
+ 
+ 
+ 
+ 
+ Commercial & Industrial 
+ 
+ 
+ 
+ 69,292 
+ 
+ 
+ 
+ 43,767 
+ 
+ 
+ 
+ 217,308 
+ 
+ 
+ 
+ 142,455 
+ 
+ 
+ 
+ 
+ Corporate and eliminations 
+ 
+ 
+ 
+ (13,867 
+ ) 
+ 
+ 
+ (10,728 
+ ) 
+ 
+ 
+ (31,652 
+ ) 
+ 
+ 
+ (30,254 
+ ) 
+ 
+ 
+ 
+ Total adjusted EBITDA (1) 
+ 
+ 
+ $ 
+ 256,217 
+ 
+ 
+ $ 
+ 193,215 
+ 
+ 
+ $ 
+ 740,422 
+ 
+ 
+ $ 
+ 530,390 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ (1) 
+ 
+ See reconciliation of Adjusted EBITDA to Net income attributable to Generac Holdings Inc. on the following reconciliation schedule. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 9 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ Generac Holdings Inc. 
+
+ Reconciliation Schedules 
+
+ (U.S. Dollars in Thousands, Except Share and Per Share Data) 
+
+ (Unaudited) 
+
+ 
+
+ 
+
+ 
+ 
+ Net income to Adjusted EBITDA reconciliation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended September 30, 
+ 
+ 
+ 
+ 
+ Nine Months Ended September 30, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income attributable to Generac Holdings Inc. 
+ 
+ 
+ $ 
+ 109,224 
+ 
+ 
+ $ 
+ 66,161 
+ 
+ 
+ $ 
+ 325,721 
+ 
+ 
+ $ 
+ 184,017 
+ 
+ 
+ 
+ 
+ Net (loss) income attributable to noncontrolling interests 
+ 
+ 
+ 
+ (275 
+ ) 
+ 
+ 
+ 419 
+ 
+ 
+ 
+ (650 
+ ) 
+ 
+ 
+ 1,271 
+ 
+ 
+ 
+ 
+ Net income 
+ 
+ 
+ 
+ 108,949 
+ 
+ 
+ 
+ 66,580 
+ 
+ 
+ 
+ 325,071 
+ 
+ 
+ 
+ 185,288 
+ 
+ 
+ 
+ 
+ Interest expense 
+ 
+ 
+ 
+ 16,378 
+ 
+ 
+ 
+ 18,461 
+ 
+ 
+ 
+ 48,541 
+ 
+ 
+ 
+ 53,813 
+ 
+ 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 57,287 
+ 
+ 
+ 
+ 49,211 
+ 
+ 
+ 
+ 171,671 
+ 
+ 
+ 
+ 143,673 
+ 
+ 
+ 
+ 
+ Provision for income taxes 
+ 
+ 
+ 
+ 34,198 
+ 
+ 
+ 
+ 11,758 
+ 
+ 
+ 
+ 104,541 
+ 
+ 
+ 
+ 41,416 
+ 
+ 
+ 
+ 
+ Non-cash write-down and other adjustments (1) 
+ 
+ 
+ 
+ (761 
+ ) 
+ 
+ 
+ 2,831 
+ 
+ 
+ 
+ 311 
+ 
+ 
+ 
+ 4,973 
+ 
+ 
+ 
+ 
+ Non-cash share-based compensation expense (2) 
+ 
+ 
+ 
+ 13,042 
+ 
+ 
+ 
+ 12,751 
+ 
+ 
+ 
+ 40,489 
+ 
+ 
+ 
+ 39,111 
+ 
+ 
+ 
+ 
+ Transaction costs and credit facility fees (3) 
+ 
+ 
+ 
+ 2,649 
+ 
+ 
+ 
+ 827 
+ 
+ 
+ 
+ 6,474 
+ 
+ 
+ 
+ 2,591 
+ 
+ 
+ 
+ 
+ Business optimization and other charges (4) 
+ 
+ 
+ 
+ 599 
+ 
+ 
+ 
+ 368 
+ 
+ 
+ 
+ 4,103 
+ 
+ 
+ 
+ 5,385 
+ 
+ 
+ 
+ 
+ Provision for legal, regulatory, and other costs (5) 
+ 
+ 
+ 
+ 20,169 
+ 
+ 
+ 
+ 23,208 
+ 
+ 
+ 
+ 22,424 
+ 
+ 
+ 
+ 31,870 
+ 
+ 
+ 
+ 
+ Change in fair value of investments (6) 
+ 
+ 
+ 
+ 3,021 
+ 
+ 
+ 
+ 5,667 
+ 
+ 
+ 
+ (1,521 
+ ) 
+ 
+ 
+ 17,138 
+ 
+ 
+ 
+ 
+ Loss on refinancing of debt (7) 
+ 
+ 
+ 
+ - 
+ 
+ 
+ 
+ 1,225 
+ 
+ 
+ 
+ - 
+ 
+ 
+ 
+ 1,225 
+ 
+ 
+ 
+ 
+ Other (8) 
+ 
+ 
+ 
+ 686 
+ 
+ 
+ 
+ 328 
+ 
+ 
+ 
+ 18,318 
+ 
+ 
+ 
+ 3,907 
+ 
+ 
+ 
+ 
+ Adjusted EBITDA 
+ 
+ 
+ 
+ 256,217 
+ 
+ 
+ 
+ 193,215 
+ 
+ 
+ 
+ 740,422 
+ 
+ 
+ 
+ 530,390 
+ 
+ 
+ 
+ 
+ Adjusted EBITDA attributable to noncontrolling interests 
+ 
+ 
+ 
+ (267 
+ ) 
+ 
+ 
+ 655 
+ 
+ 
+ 
+ (650 
+ ) 
+ 
+ 
+ 1,899 
+ 
+ 
+ 
+ 
+ Adjusted EBITDA attributable to Generac Holdings Inc. 
+ 
+ 
+ $ 
+ 256,484 
+ 
+ 
+ $ 
+ 192,560 
+ 
+ 
+ $ 
+ 741,072 
+ 
+ 
+ $ 
+ 528,491 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ Net income to Adjusted net income reconciliation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended September 30, 
+ 
+ 
+ 
+ 
+ Nine Months Ended September 30, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income attributable to Generac Holdings Inc. 
+ 
+ 
+ $ 
+ 109,224 
+ 
+ 
+ $ 
+ 66,161 
+ 
+ 
+ $ 
+ 325,721 
+ 
+ 
+ $ 
+ 184,017 
+ 
+ 
+ 
+ 
+ Net (loss) income attributable to noncontrolling interests 
+ 
+ 
+ 
+ (275 
+ ) 
+ 
+ 
+ 419 
+ 
+ 
+ 
+ (650 
+ ) 
+ 
+ 
+ 1,271 
+ 
+ 
+ 
+ 
+ Net income 
+ 
+ 
+ 
+ 108,949 
+ 
+ 
+ 
+ 66,580 
+ 
+ 
+ 
+ 325,071 
+ 
+ 
+ 
+ 185,288 
+ 
+ 
+ 
+ 
+ Amortization of intangible assets 
+ 
+ 
+ 
+ 28,618 
+ 
+ 
+ 
+ 24,932 
+ 
+ 
+ 
+ 89,813 
+ 
+ 
+ 
+ 76,102 
+ 
+ 
+ 
+ 
+ Amortization of deferred financing costs and original issue discount 
+ 
+ 
+ 
+ 555 
+ 
+ 
+ 
+ 557 
+ 
+ 
+ 
+ 1,636 
+ 
+ 
+ 
+ 1,835 
+ 
+ 
+ 
+ 
+ Transaction costs and other purchase accounting adjustments (9) 
+ 
+ 
+ 
+ 2,172 
+ 
+ 
+ 
+ 204 
+ 
+ 
+ 
+ 5,432 
+ 
+ 
+ 
+ 656 
+ 
+ 
+ 
+ 
+ Loss attributable to business or asset dispositions (8) 
+ 
+ 
+ 
+ 485 
+ 
+ 
+ 
+ - 
+ 
+ 
+ 
+ 18,723 
+ 
+ 
+ 
+ 4,295 
+ 
+ 
+ 
+ 
+ Business optimization and other charges (4) 
+ 
+ 
+ 
+ 599 
+ 
+ 
+ 
+ 368 
+ 
+ 
+ 
+ 4,103 
+ 
+ 
+ 
+ 5,385 
+ 
+ 
+ 
+ 
+ Provision for legal, regulatory and other costs (5) 
+ 
+ 
+ 
+ 20,169 
+ 
+ 
+ 
+ 23,208 
+ 
+ 
+ 
+ 22,424 
+ 
+ 
+ 
+ 31,870 
+ 
+ 
+ 
+ 
+ Change in fair value of investments (6) 
+ 
+ 
+ 
+ 3,021 
+ 
+ 
+ 
+ 5,667 
+ 
+ 
+ 
+ (1,521 
+ ) 
+ 
+ 
+ 17,138 
+ 
+ 
+ 
+ 
+ Loss on refinancing of debt (7) 
+ 
+ 
+ 
+ - 
+ 
+ 
+ 
+ 1,225 
+ 
+ 
+ 
+ - 
+ 
+ 
+ 
+ 1,225 
+ 
+ 
+ 
+ 
+ Tax effect of add backs 
+ 
+ 
+ 
+ (13,766 
+ ) 
+ 
+ 
+ (13,900 
+ ) 
+ 
+ 
+ (34,801 
+ ) 
+ 
+ 
+ (41,407 
+ ) 
+ 
+ 
+ 
+ Adjusted net income 
+ 
+ 
+ 
+ 150,802 
+ 
+ 
+ 
+ 108,841 
+ 
+ 
+ 
+ 430,880 
+ 
+ 
+ 
+ 282,387 
+ 
+ 
+ 
+ 
+ Adjusted net income (loss) attributable to noncontrolling interests 
+ 
+ 
+ 
+ (275 
+ ) 
+ 
+ 
+ 419 
+ 
+ 
+ 
+ (650 
+ ) 
+ 
+ 
+ 1,271 
+ 
+ 
+ 
+ 
+ Adjusted net income attributable to Generac Holdings Inc. 
+ 
+ 
+ $ 
+ 151,077 
+ 
+ 
+ $ 
+ 108,422 
+ 
+ 
+ $ 
+ 431,530 
+ 
+ 
+ $ 
+ 281,116 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjusted net income attributable to Generac Holdings Inc. per common share - diluted: 
+ 
+ 
+ $ 
+ 2.54 
+ 
+ 
+ $ 
+ 1.83 
+ 
+ 
+ $ 
+ 7.25 
+ 
+ 
+ $ 
+ 4.74 
+ 
+ 
+ 
+ 
+ Weighted average common shares outstanding - diluted: 
+ 
+ 
+ 
+ 59,562,737 
+ 
+ 
+ 
+ 59,122,849 
+ 
+ 
+ 
+ 59,487,353 
+ 
+ 
+ 
+ 59,314,618 
+ 
+ 
+
+ 
+
+ 
+
+ (1) Includes (gains)/losses on the disposition of assets other than in the ordinary course of business, (gains)/losses on sales of certain investments, unrealized mark-to-market adjustments on commodity contracts, certain foreign currency related adjustments, and certain purchase accounting and contingent consideration adjustments. A full description of these and the other reconciliation adjustments contained in these schedules is included in Generac's SEC filings. 
+
+ 
+
+ 
+
+ (2) Represents share-based compensation expense to account for stock options, restricted stock, and other stock awards over their respective vesting periods. 
+
+ 
+
+ 
+ 
+ 
+ 10 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ (3) Represents transaction costs incurred directly in connection with any investment, as defined in our credit agreement, equity issuance or debt issuance or refinancing, together with certain fees relating to our senior secured credit facilities, such as administrative agent fees and credit facility commitment fees under our Credit Agreements. 
+
+ 
+
+ 
+
+ (4) Represents severance and other restructuring charges related to the consolidation of certain operating facilities and organizational functions. 
+
+ 
+
+ 
+
+ (5) Represents the following significant litigation, regulatory, and other matters that are not indicative of our ongoing operations: 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Three Months Ended September 30, 
+ 
+ 
+ 
+ 
+ Nine Months Ended September 30, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ Legal expenses, judgements and settlements related to certain patent lawsuits 
+ 
+ 
+ $ 
+ 2,313 
+ 
+ 
+ $ 
+ 2,736 
+ 
+ 
+ $ 
+ 1,275 
+ 
+ 
+ $ 
+ 5,923 
+ 
+ 
+ 
+ 
+ Legal expenses, judgements and settlements related to certain class action lawsuits 
+ 
+ 
+ 
+ 1,665 
+ 
+ 
+ 
+ 17,759 
+ 
+ 
+ 
+ 3,953 
+ 
+ 
+ 
+ 21,643 
+ 
+ 
+ 
+ 
+ Legal expenses related to certain government inquiries and other significant matters 
+ 
+ 
+ 
+ 1,898 
+ 
+ 
+ 
+ 2,713 
+ 
+ 
+ 
+ 4,032 
+ 
+ 
+ 
+ 4,304 
+ 
+ 
+ 
+ 
+ Clean energy warranty related matters 
+ 
+ 
+ 
+ 14,293 
+ 
+ 
+ 
+ - 
+ 
+ 
+ 
+ 13,164 
+ 
+ 
+ 
+ - 
+ 
+ 
+ 
+ 
+ Total provision for legal, regulatory and other matters 
+ 
+ 
+ $ 
+ 20,169 
+ 
+ 
+ $ 
+ 23,208 
+ 
+ 
+ $ 
+ 22,424 
+ 
+ 
+ $ 
+ 31,870 
+ 
+ 
+
+ 
+
+ 
+
+ (6) Represents non-cash (gains) losses primarily from changes in the fair value of the Company's investment in Wallbox N.V. warrants and equity securities. 
+
+ 
+
+ 
+
+ (7) Represents third party costs and the write-off of certain deferred financing costs in connection with the refinancing of the Tranche A Term Loan Facility and Revolving Debt Facility. 
+
+ 
+
+ 
+
+ (8) The current year loss relates primarily to four immaterial business dispositions with two closing in the first quarter and two closing in the second quarter of 2026. The prior year loss relates primarily to one immaterial business disposition that closed in the second quarter of 2025. 
+
+ 
+
+ 
+
+ (9) Represents transaction costs incurred directly in connection with any investment, as defined in our credit agreement, equity issuance or debt issuance or refinancing, and certain purchase accounting and contingent consideration adjustments. 
+
+ 
+
+ 
+
+ 
+ 
+ Free Cash Flow Reconciliation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended September 30, 
+ 
+ 
+ 
+ 
+ Nine Months Ended September 30, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net cash provided by operating activities 
+ 
+ 
+ $ 
+ 170,989 
+ 
+ 
+ $ 
+ 118,378 
+ 
+ 
+ $ 
+ 411,485 
+ 
+ 
+ $ 
+ 248,719 
+ 
+ 
+ 
+ 
+ Expenditures for property and equipment 
+ 
+ 
+ 
+ (39,250 
+ ) 
+ 
+ 
+ (21,881 
+ ) 
+ 
+ 
+ (126,937 
+ ) 
+ 
+ 
+ (110,534 
+ ) 
+ 
+ 
+ 
+ Free cash flow 
+ 
+ 
+ $ 
+ 131,739 
+ 
+ 
+ $ 
+ 96,497 
+ 
+ 
+ $ 
+ 284,548 
+ 
+ 
+ $ 
+ 138,185 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 11
