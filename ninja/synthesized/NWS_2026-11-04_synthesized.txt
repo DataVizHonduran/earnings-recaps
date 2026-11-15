@@ -1,0 +1,22 @@
+Ticker: NWS
+Source: NWS_2026-11-04.txt
+Generated: 2026-11-15 19:40 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: News Corp (NWS)**
+
+**1. Demand & Activity**
+Demand is **robust** across core digital and publishing segments, though softening in specific real estate markers. Dow Jones saw robust growth in circulation and licensing ("Dow Jones revenues... rose a robust 8%"), and Book Publishing reported strength in General and Children’s titles ("delivered 9% revenue growth"). However, real estate activity is **softening**; Australian residential buy listing volumes declined 2% ("Sydney and Melbourne down 16%"), and Realtor.com saw a decrease in unique users and lead volumes ("lead volumes decreasing 11%") attributed to "broader macroeconomic trends."
+
+**2. Labor & Wages**
+Labor costs are exerting **moderate** pressure on margins within the Dow Jones segment, where revenue gains were "partially offset by an increase in employee costs." No specific mentions of hiring difficulty or headcount reductions were noted.
+
+**3. Pricing Power & Inflation**
+The company demonstrates **robust** pricing power across multiple lines. REA Group growth was driven "primarily due to price increases," and News Media saw gains from "increased cover and subscription pricing." Dow Jones also reported "higher digital direct subscription ARPU." There were no specific mentions of commodity or freight inflation, though the company emphasizes "diligent cost discipline."
+
+**4. Supply Chain & Inventory**
+Not applicable. The business model is primarily digital and service-based; no significant mentions of physical supply chain constraints or inventory bloating were provided.
+
+**5. Capital Spending (Capex)**
+Future investment is focused on the "AI age," with a strategic emphasis on protecting and monetizing intellectual property through partnerships ("partners in OpenAI and Meta"). The company maintains a stance of "prudent capital stewardship" regarding overall spending.

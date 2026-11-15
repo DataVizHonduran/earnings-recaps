@@ -1,0 +1,22 @@
+Ticker: CNC
+Source: CNC_2026-10-27.txt
+Generated: 2026-11-15 19:39 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Centene Corp (CNC)**
+
+**1. Demand & Activity: Mixed/Softening**
+Demand is bifurcated by product line. Medicare activity is robust, specifically within the Prescription Drug Plan (PDP) segment, which saw membership growth from 7.9M to 8.9M. Conversely, demand in other core segments is softening, with "lower Marketplace and Medicaid membership" contributing to a decline in total at-risk membership from 27.9M to 25.7M.
+
+**2. Labor & Wages: Softening/Restructuring**
+The company is undergoing "enterprise optimization," which has led to increased SG&A expenses driven by "severance and vendor costs." This suggests a moderate reduction in headcount or organizational restructuring to improve efficiency.
+
+**3. Pricing Power & Inflation: Moderate**
+Centene is actively exercising pricing power to offset medical inflation. The company implemented "rate increases in Marketplace and in the Medicaid business to address medical trend." Additionally, the Marketplace segment saw "improved pricing and risk transfer reflecting the acuity of the Marketplace membership."
+
+**4. Supply Chain & Inventory: Stable**
+Not applicable in a traditional sense; however, medical claims liabilities are stable at $21.5 billion, with days in claims payable (DCP) remaining stable, increasing by only "one day as compared to the second quarter of 2026."
+
+**5. Capital Spending (Capex): Stable/Contracting**
+There are no mentions of new facility or capacity investments. Current financial activity is focused on balance sheet optimization and debt reduction, having "reduced [debt] by $1.1 billion since June 30, 2026."
