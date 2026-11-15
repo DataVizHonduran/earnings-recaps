@@ -1,0 +1,22 @@
+Ticker: GNRC
+Source: GNRC_2026-10-28.txt
+Generated: 2026-11-15 19:40 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Generac Holdings Inc. (GNRC)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by significant growth in the Commercial & Industrial (C&I) segment and a recovery in residential markets. C&I activity is being driven by a "generational growth opportunity" in the global data center market, with a backlog reaching approximately $4.5 billion ("backlog for products to be sold to the data center market has now grown to approximately $4.5 billion"). Residential demand has returned to "strong year-over-year growth," specifically for home standby and portable generators, attributed to "mega-trends around lower power quality." However, there is softening in "domestic industrial distributor and telecom channels" and "lower shipments of energy storage systems."
+
+**2. Labor & Wages**
+The report does not provide specific data on hiring, turnover, or wage rates. It notes a general increase in "incentive compensation" as a driver for higher operating expenses.
+
+**3. Pricing Power & Inflation**
+The company is experiencing favorable price/cost dynamics, leading to expanded gross margins. This is attributed to "favorable price/cost impacts in the current year quarter," which specifically include "lower tariff costs."
+
+**4. Supply Chain & Inventory**
+The report does not explicitly detail current lead times or inventory levels; however, the company is actively managing a massive surge in committed orders via a "long-term supply agreement" with Amazon for data center backup power.
+
+**5. Capital Spending (Capex)**
+Capex is increasing to support capacity expansion. The company is executing "previously announced capacity expansion plans" to capture data center growth, which has resulted in "increased capital expenditures" impacting free cash flow. Additionally, the company is making "increased operating expense investments to support future C&I growth."
