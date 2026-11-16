@@ -1,0 +1,22 @@
+Ticker: AAP
+Source: AAP_2026-11-05.txt
+Generated: 2026-11-16 23:16 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Advance Auto Parts (AAP)**
+
+**1. Demand & Activity:**
+Demand is softening but showing signs of a modest sequential recovery. Comparable store sales decreased 1.2% for the quarter ("Comparable store sales for the third quarter 2026 decreased 1.2%"). However, activity improved toward the end of the period, with sales turning positive in the final four weeks ("Sales declined in the low-single-digit range during the first eight weeks before turning positive in the final four weeks"). There is a divergence by channel: the Professional (Pro) segment showed modest growth ("The Pro channel led performance in Q3, with low-single-digit sales growth"), while the DIY segment remained soft, though it recovered from deeper declines seen in the summer ("The DIY channel declined in the low-single-digit range for the quarter, with trends recovering from negative mid-single-digit levels").
+
+**2. Labor & Wages:**
+Not explicitly detailed; however, the company reports a reduction in overall operating expenses attributed to "disciplined expense management" ("decrease in SG&A... primarily driven by a reduction in expenses compared to last year, supported by disciplined expense management").
+
+**3. Pricing Power & Inflation:**
+The company is facing persistent "industry cost pressures" ("Despite the volatile demand environment and industry cost pressures"). There is no specific mention of price increases, but gross profit margins were slightly pressured by a shift in the product mix and supply chain costs ("decrease in gross profit as a percentage of net sales... primarily driven by changes in product and channel sales mix... and supply chain expense deleverage").
+
+**4. Supply Chain & Inventory:**
+The company noted "supply chain expense deleverage" as a primary driver for the decrease in gross profit as a percentage of net sales ("primarily driven by... supply chain expense deleverage"). No specific data on lead times or inventory levels was provided.
+
+**5. Capital Spending (Capex):**
+Specific project details were not provided, though the company reported a significant increase in projected free cash flow for the year ("FY 2026 Free Cash Flow Guidance Raised To Approx. $150 Million").

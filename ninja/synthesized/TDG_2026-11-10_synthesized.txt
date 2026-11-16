@@ -1,0 +1,22 @@
+Ticker: TDG
+Source: TDG_2026-11-10.txt
+Generated: 2026-11-16 23:18 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: TransDigm Group (TDG)**
+
+**1. Demand & Activity: Robust**
+Demand is growing strongly across all primary segments. Organic sales growth was 11% for the fiscal year ("Organic sales growth as a percentage of net sales for fiscal 2026 was 11%"). The company expects continued robust growth in 2027, specifically forecasting high single-digit to low double-digit growth for Commercial OEM, and high single-digit growth for both Commercial Aftermarket and Defense ("Commercial OEM revenue growth in the high single-digit to low double-digit percentage range").
+
+**2. Labor & Wages: Not Addressed**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation: Stable/Positive**
+While specific pricing actions are not detailed, the company continues to apply a "value-driven operating strategy" ("The increase in net income primarily reflects the increase in net sales... and the application of our value-driven operating strategy"). There is no mention of input cost relief or persistent inflationary pressure impacting margins, though net income was slightly offset by "higher selling and administrative expenses."
+
+**4. Supply Chain & Inventory: Not Addressed**
+The report does not provide data regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex): Robust (M&A Focused)**
+Capital deployment is heavily skewed toward inorganic capacity expansion. The company demonstrated a robust appetite for acquisitions, deploying approximately $4.4 billion in FY2026 ("We invested approximately $4.4 billion in acquisitions including Simmonds Precision Products... and twelve bolt-on acquisitions"). Management indicates a continued intent to invest, noting "significant liquidity and the financial flexibility to pursue additional M&A" heading into fiscal 2027.

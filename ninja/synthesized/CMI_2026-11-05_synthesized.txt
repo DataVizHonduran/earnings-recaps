@@ -1,0 +1,22 @@
+Ticker: CMI
+Source: CMI_2026-11-05.txt
+Generated: 2026-11-16 23:16 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Cummins Inc. (CMI)**
+
+**1. Demand & Activity**
+Demand is mixed but generally robust. Power generation is experiencing exceptionally strong growth, specifically driven by data center buildouts in the U.S., China, and Asia Pacific ("Global demand for power generation equipment remains exceptionally strong, driven by data center buildout"). North American medium- and heavy-duty truck markets have strengthened ("stronger North American truck demand"), and there is modest growth in Chinese construction demand. Conversely, demand in the North American pickup truck market is softening ("customer orders in the pickup truck market have weakened" and "continued weaker than expected pickup truck demand in North America").
+
+**2. Labor & Wages**
+The company identifies a challenging environment for talent acquisition and retention ("challenging markets for talent and ability to attract, develop and retain key personnel"). No specific mentions of headcount reductions or current wage inflation levels were provided.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail recent price hikes; however, the company notes ongoing exposure to volatility in input costs, including raw materials, transportation, and labor ("raw material, transportation and labor price fluctuations and supply shortages").
+
+**4. Supply Chain & Inventory**
+Current status of lead times and inventory levels was not explicitly detailed in the provided text. The company noted a general operational goal of "aligning our capacity and production with our demand."
+
+**5. Capital Spending (Capex)**
+Investment is focused on technology and the energy transition. The company is pacing investments in zero-emissions technology ("pacing and focusing its zero-emissions investments on the most promising paths") and is preparing for the launch of new engine platforms ("preparing for the launch of its upcoming HELM engine platforms").

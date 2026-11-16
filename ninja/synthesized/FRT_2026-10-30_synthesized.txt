@@ -1,0 +1,22 @@
+Ticker: FRT
+Source: FRT_2026-10-30.txt
+Generated: 2026-11-16 23:17 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Federal Realty Investment Trust (FRT)**
+
+**1. Demand & Activity: Robust**
+Demand for high-end retail space remains strong, characterized by increasing occupancy and high leasing velocity. The leased rate grew 110 basis points year-over-year to 96.5% ("leased rate up 110 basis points year-over-year"). Small-shop demand is specifically noted as strong, with the leased rate rising to 94.1% ("Continued strong small shop leased rate").
+
+**2. Labor & Wages: Not Addressed**
+The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation: Robust**
+The company is exercising significant pricing power, achieving substantial rent growth on new leases. Cash-basis rent growth for comparable retail space was 14%, while straight-line growth reached 25% ("signed 117 leases... with rent growth of 14% on a cash basis and 25% on a straight-line basis"). This is reflected in the average rent increasing from $35.07 to $40.01 per square foot.
+
+**4. Supply Chain & Inventory: Not Addressed**
+There are no mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex): Moderate to Robust**
+Investment activity is focused on strategic acquisitions and organic growth. The company continues to invest in "incremental development on our existing land" and recently executed a significant capital outlay for a dominant retail center in Alabama ("acquired The Summit... for $508.0 million").

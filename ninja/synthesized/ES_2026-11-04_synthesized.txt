@@ -1,0 +1,22 @@
+Ticker: ES
+Source: ES_2026-11-04.txt
+Generated: 2026-11-16 23:17 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Eversource Energy (ES)**
+
+**1. Demand & Activity:**
+Activity appears stable to modest. While the company continues to "advance the investments necessary to support our customers and communities," specific revenue growth is tied to regulatory rate adjustments rather than organic demand surges. Natural gas revenues in Massachusetts saw a seasonal shift ("driven by a change in the seasonal rate design that shifted the recovery of quarterly revenues").
+
+**2. Labor & Wages:**
+No specific mentions of hiring difficulties, turnover, or wage inflation were provided in the report.
+
+**3. Pricing Power & Inflation:**
+The company is utilizing regulatory mechanisms to raise prices to offset costs. There were "higher revenues from base distribution rate increases at Eversource’s Massachusetts and New Hampshire electric businesses" and "base distribution rate increases at Eversource’s Massachusetts and Connecticut natural gas businesses... to recover continued investment." However, these are partially offset by persistent "higher interest expense" and "higher depreciation, interest expense and property taxes."
+
+**4. Supply Chain & Inventory:**
+No data provided regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex):**
+Investment in infrastructure remains robust. The company reports "continued investment in Eversource’s electric transmission system" and "continued investments in the Company’s distribution system," as well as ongoing efforts to "maintain and strengthen the energy infrastructure for our customers."
