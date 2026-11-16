@@ -1,0 +1,22 @@
+Ticker: IVZ
+Source: IVZ_2026-10-27.txt
+Generated: 2026-11-16 23:17 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Invesco Ltd. (IVZ)**
+
+**1. Demand & Activity: Robust**
+Demand for investment products remains strong, characterized by 13 consecutive quarters of net long-term inflows. Growth is primarily driven by ETFs, Index funds, and the China JV, with robust inflows across all geographic regions: EMEA ($15.9B), Americas ($10.3B), and Asia Pacific ($8.9B) ("net long-term inflows of $15.9 billion, $10.3 billion, and $8.9 billion, respectively"). However, there is softening demand in Fundamental Fixed Income and Equities, which saw moderate outflows ("net long-term outflows from Fundamental Fixed Income of $2.6 billion, Fundamental Equities of $1.9 billion").
+
+**2. Labor & Wages: Stable to Softening**
+Headcount has remained stable sequentially but is significantly lower on a year-over-year basis, reflecting a moderate reduction in the workforce ("Headcount 7,416... [vs] 8,368 (-11.4%)" in Q3-25). Employee compensation expenses have decreased, partly due to lower salaries following previous divestitures ("lower salaries of $13.1 million primarily due to the divestitures in the fourth quarter of 2025").
+
+**3. Pricing Power & Inflation: Moderate**
+The company is experiencing growth in revenue driven by higher average Assets Under Management (AUM) and the conversion of QQQ to an open-end fund ("Investment management fees increased $327.5 million, primarily driven by management fees for QQQ... and higher average AUM"). There is no specific mention of input cost inflation or commodity pressure, as the cost structure is primarily driven by personnel and third-party distribution.
+
+**4. Supply Chain & Inventory: N/A**
+Not applicable for this financial services entity.
+
+**5. Capital Spending (Capex): Stable**
+There are no mentions of new facility expansions or major technology investments. Capital activity is currently focused on balance sheet optimization and debt reduction, specifically the repurchase of preferred stock to increase financial flexibility ("repurchased an additional $1.5 billion of the preferred stock... bringing total repurchases to $3 billion over the past 18 months").

@@ -1,0 +1,22 @@
+Ticker: BKNG
+Source: BKNG_2026-11-03.txt
+Generated: 2026-11-16 23:16 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Booking Holdings (BKNG)**
+
+**1. Demand & Activity**
+Demand remains **robust** overall, with room nights increasing 7% and gross bookings growing 10% year-over-year ("resilient travel demand... drove double-digit gross bookings growth"). However, momentum is **softening** toward the end of the period. Global travel demand "moderated somewhat toward the end of the third quarter," characterized by "softer international travel trends," while domestic travel remains "resilient." Near-term headwinds include "disruptions to travel to and from the Middle East" and "localized unrest in certain European cities."
+
+**2. Labor & Wages**
+Labor costs are **stable**, with the company reporting a "slight reduction in personnel costs" as part of "disciplined cost management."
+
+**3. Pricing Power & Inflation**
+The company demonstrates **moderate** pricing power, as constant currency average daily rates (ADRs) for alternative accommodations "increased by about 3%."
+
+**4. Supply Chain & Inventory**
+Not applicable. (The company operates a digital marketplace; no physical inventory or traditional supply chain lead times reported).
+
+**5. Capital Spending (Capex)**
+Investment is focused on technology and AI integration. The company is "investing in our business for the long term" by "integrating AI across our brands" and "developing AI-native experiences."

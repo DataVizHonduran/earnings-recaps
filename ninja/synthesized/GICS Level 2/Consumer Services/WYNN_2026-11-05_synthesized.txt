@@ -1,0 +1,20 @@
+Ticker: WYNN
+Source: WYNN_2026-11-05.txt
+Generated: 2026-11-16 23:18 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**1. Demand & Activity**
+Demand is softening across all geographic segments, with operating revenues decreasing globally compared to the prior year ("Operating revenues were $1.69 billion... a decrease of $144.7 million from $1.83 billion"). Management describes demand as "healthy" but notes it is occurring "amid slower market conditions" ("Wynn Las Vegas and our Macau properties both saw healthy demand amid slower market conditions"). Specific headwinds include a negative hold rate in Las Vegas ("Wynn Las Vegas was also negatively impacted by a hold rate outside of our expected range") and labor disruptions in Boston ("managing through the strike that began in early September").
+
+**2. Labor & Wages**
+The report does not provide specific data on wage inflation or hiring difficulty, though it notes operational disruptions due to labor unrest in the Boston market ("managing through the strike that began in early September").
+
+**3. Pricing Power & Inflation**
+There are no specific mentions of price increases or input cost relief. The company lists "inflation" and "reductions in discretionary consumer spending" as general risk factors in its forward-looking statements.
+
+**4. Supply Chain & Inventory**
+Not addressed.
+
+**5. Capital Spending (Capex)**
+Investment in capacity remains robust, specifically regarding the expansion into the UAE. The company is actively funding the Wynn Al Marjan Island development, contributing $62.2 million this quarter ("contributed $62.2 million of cash to the 40%-owned joint venture"), bringing total life-to-date contributions to $1.12 billion. The project is in the final stages of construction, including "interior fit-out of all guest rooms," with a planned opening in September 2027.

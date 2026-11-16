@@ -1,0 +1,22 @@
+Ticker: ETR
+Source: ETR_2026-11-02.txt
+Generated: 2026-11-16 23:17 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Entergy Corp (ETR)**
+
+**1. Demand & Activity:**
+Demand appears robust, characterized by growth in retail consumption and industrial expansion. The company reported "higher retail sales volume, including the effects of weather" and noted "additional opportunities driven by customer needs." Specific growth signals include an "expansion of its service agreement with Google" in Arkansas and the commencement of power delivery from the "Orange County Advanced Power Station" to Texas customers.
+
+**2. Labor & Wages:**
+No specific mentions of hiring difficulties, turnover, or wage inflation were provided in the report.
+
+**3. Pricing Power & Inflation:**
+The company is utilizing regulatory mechanisms to manage costs and pricing. Earnings were positively impacted by the "net effect of regulatory actions across several operating companies." However, there is evidence of persistent financial pressure from the cost of capital, as "higher interest expense" was a primary driver for losses in the Parent Other segment and a partial offset to utility earnings.
+
+**4. Supply Chain & Inventory:**
+The provided text contains no specific data regarding lead times or inventory levels.
+
+**5. Capital Spending (Capex):**
+Investment in capacity and grid resilience remains robust. Key projects include the "$1.2 billion Babel to Webre transmission project" in Louisiana and an application for "additional Future Ready resilience plan investment." The company is also investing in a "more resilient, cleaner energy system" incorporating nuclear, renewable, and modern natural gas generation.
