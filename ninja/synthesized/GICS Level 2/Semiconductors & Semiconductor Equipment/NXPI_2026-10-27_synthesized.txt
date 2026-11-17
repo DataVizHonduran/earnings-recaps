@@ -1,0 +1,27 @@
+Ticker: NXPI
+Source: NXPI_2026-10-27.txt
+Generated: 2026-11-17 22:07 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: NXP Semiconductors (Q3 2026)**
+
+**1. Demand & Activity**
+Demand is showing robust growth, with total revenue up 19% year-on-year ("revenue of $3.8 billion, up 19 percent year-on-year"). Growth is diversified across several sectors:
+*   **Automotive & Industrial:** Accelerating contributions ("driven by accelerating contributions from our company-specific growth drivers in automotive and industrial").
+*   **Infrastructure:** Continued momentum in data centers ("continued momentum in data center infrastructure").
+*   **Specific Drivers:** Robust outlook for software-defined vehicles and "Trusted Physical AI applications" creating "new vectors for long-term growth."
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is experiencing moderate margin expansion, suggesting stable to positive pricing power or cost efficiencies. Non-GAAP gross margin increased to 58.6% from 57.0% year-on-year ("Non-GAAP Gross Margin 58.6%... Q3 2025 57.0%"). There are no mentions of specific input cost pressures or commodity inflation.
+
+**4. Supply Chain & Inventory**
+Inventory levels appear stable to slightly lean. Channel inventory has remained flat at 11 weeks over the last two quarters ("Channel Inventory (weeks) 11 [Q3 2026], 11 [Q2 2026]"). Days Inventory Outstanding (DIO) has seen a modest decline from 161 to 148 days year-on-year ("DIO 148 [Q3 2026]... 161 [Q3 2025]").
+
+**5. Capital Spending (Capex)**
+NXP is pursuing a moderate expansion of manufacturing capacity to support long-term growth ("expand manufacturing capabilities that support our long-term growth objectives"). Specific activity includes:
+*   **Malaysia:** Expansion of an assembly and test site ("broke ground on its assembly and test site expansion in Malaysia").
+*   **Singapore:** Opening of a new 300mm fab via a joint venture ("marked the grand opening of its first 300mm fab in Singapore").

@@ -1,0 +1,31 @@
+Ticker: NWSA
+Source: NWSA_2026-11-04.txt
+Generated: 2026-11-17 22:07 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: News Corp (NWSA)**
+
+**1. Demand & Activity**
+Demand is **robust** across core digital and publishing segments, though **softening** in specific real estate metrics.
+*   **Digital Content/Information:** Strong growth in professional information, specifically Dow Jones Risk Compliance (+11%) and Energy (+8%) ("driven by higher circulation and licensing revenues").
+*   **Book Publishing:** Robust demand for physical and digital titles, particularly General Books and Children’s Publishing ("delivered 9% revenue growth").
+*   **Real Estate:** Mixed signals. While revenues rose, there is a **moderate** decline in activity; Australian residential buy listing volumes fell 2% (Sydney and Melbourne down 16%), and Realtor.com unique users decreased 8% ("driven primarily by broader macroeconomic trends").
+
+**2. Labor & Wages**
+Labor costs are exerting **slight** upward pressure on margins.
+*   The company noted that EBITDA growth in the Dow Jones segment was "partially offset by an increase in employee costs" ("increase in employee costs and the timing of marketing spend").
+
+**3. Pricing Power & Inflation**
+The company demonstrates **robust** pricing power across multiple business lines to offset costs.
+*   **Digital Real Estate:** Revenue growth at REA Group was "primarily due to price increases" ("higher Australian residential revenues primarily due to price increases").
+*   **News Media:** Revenue was supported by "increased cover and subscription pricing" ("increased cover and subscription pricing and higher content licensing revenues").
+*   **Dow Jones:** Higher digital direct subscription ARPU contributed to circulation growth ("driven by higher digital direct subscription ARPU").
+
+**4. Supply Chain & Inventory**
+Not explicitly detailed; however, Book Publishing noted "higher costs due to higher sales volume and mix of titles," suggesting a direct correlation between activity levels and operational expenses.
+
+**5. Capital Spending (Capex)**
+Management is maintaining a **stable** and disciplined approach to investment, focusing on digital transformation and AI integration.
+*   The company intends to continue "prudent capital stewardship" ("pursue growth and increased profitability with diligent cost discipline and prudent capital stewardship").
+*   Strategic focus is shifting toward AI-readiness, emphasizing the value of high-quality content as the "essence of AI" ("primed for further growth in the AI age").

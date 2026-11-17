@@ -1,0 +1,22 @@
+Ticker: GOOGL
+Source: GOOGL_2026-10-28.txt
+Generated: 2026-11-17 22:07 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Alphabet Inc. (Q3 2026)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by strong growth across core and emerging segments. Search activity is accelerating, with query growth reaching a five-year high ("year-over-year Search query growth rate the highest it has been in the last five years"). Demand for AI infrastructure is particularly strong, driving record growth in Google Cloud ("powered by huge demand for our AI infrastructure and AI solutions") and significant sales of TPU systems ("strong demand for our TPU systems across a wide range of customers").
+
+**2. Labor & Wages**
+Headcount has increased moderately, growing from 190,167 to 204,757 employees year-over-year. There are no specific mentions of wage inflation or hiring difficulties, though the company continues to scale its workforce to support AI initiatives.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price hikes; however, the company demonstrates strong revenue growth (25% increase) and expanding operating margins (31.8%), suggesting effective monetization of AI services. There is no mention of input cost relief or persistent inflationary pressure on operations.
+
+**4. Supply Chain & Inventory**
+Inventory levels have increased significantly, rising from $2.4 billion to $13.3 billion year-over-year. This suggests a substantial build-up of hardware (likely TPU systems and devices) to meet the aforementioned "huge demand."
+
+**5. Capital Spending (Capex)**
+Investment in technology and capacity remains aggressive. Property and equipment, net, increased from $246.6 billion to $372.8 billion, reflecting heavy investment in AI infrastructure. Additionally, the company is allocating significant resources toward shared AI research and development ("Alphabet-level activities primarily reflect expenses related to our shared AI research and development").

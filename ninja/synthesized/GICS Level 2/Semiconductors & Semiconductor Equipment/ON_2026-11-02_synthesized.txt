@@ -1,0 +1,22 @@
+Ticker: ON
+Source: ON_2026-11-02.txt
+Generated: 2026-11-17 22:07 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: onsemi (ON)**
+
+**1. Demand & Activity: Robust / Growing**
+Demand is growing, driven primarily by AI infrastructure and industrial electrification. AI data center revenue showed robust growth, increasing 39% sequentially and 175% year-over-year ("AI data center revenue grew 39% sequentially and 175% year-over-year"). Overall revenue increased 11% year-over-year, with the Power Solutions Group (PSG) showing the strongest growth at 21% year-over-year. The CEO noted that "increasing power requirements are driving accelerated demand in our AI data center and industrial end markets."
+
+**2. Labor & Wages: Not Addressed**
+The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation: Stable / Improving**
+The company is demonstrating moderate pricing power and efficiency gains, as evidenced by gross margin expansion for five consecutive quarters ("Gross margin expanded for the fifth consecutive quarter, increasing 190 basis points sequentially"). Management attributes this to the "ramp [of] new differentiated products" and "ongoing fab right initiatives."
+
+**4. Supply Chain & Inventory: Not Addressed**
+The report does not provide specific commentary on lead times or inventory levels.
+
+**5. Capital Spending (Capex): Moderate / Expanding**
+Investment is focused on capacity expansion and technology acquisition to capture AI market share. The company is aggressively investing in M&A, including the acquisition of Ferric to lead in "next generation AI processor power delivery" and the planned $5.7 billion acquisition of Synaptics. These moves are intended to position the company for "durable, profitable growth."
