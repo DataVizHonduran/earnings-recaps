@@ -1,0 +1,22 @@
+Ticker: INVH
+Source: INVH_2026-10-28.txt
+Generated: 2026-11-18 21:45 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Invitation Homes (INVH) – Q3 2026**
+
+**1. Demand & Activity**
+Demand is **stable to softening**. While occupancy remains high, there is a slight downward trend, with Same Store Average Occupancy decreasing by 10 basis points year-over-year to 96.4% ("a reduction of 10 basis points year over year"). Demand for ownership remains present, as home sales were primarily "to families purchasing for their own use."
+
+**2. Labor & Wages**
+No specific mentions of hiring difficulty, turnover, or wage pressures were provided in the transcript.
+
+**3. Pricing Power & Inflation**
+Pricing power is **moderate but bifurcated**. The company is seeing robust growth in lease renewals (4.3%), but new lease pricing is softening ("Same Store new lease rent growth of (0.2)%"). Inflationary pressure persists in operating costs, with Same Store Core Operating Expenses increasing by 2.5% year-over-year, driven largely by a "4.9% increase in controllable expenses."
+
+**4. Supply Chain & Inventory**
+Inventory levels are being actively managed through a strategy of net dispositions. The company is reducing its footprint, reporting "net dispositions of 442 homes" for the quarter. There were no mentions of supply chain disruptions or lead-time issues.
+
+**5. Capital Spending (Capex)**
+Capex focus has shifted toward liquidity and balance sheet optimization rather than capacity expansion. The company is prioritizing the "closing the gap between public and private market values" through home sales and share repurchases rather than aggressive new acquisitions. Future investment is highlighted by the "dissolution of the Pathway joint ventures" to consolidate controlling financial interests.
