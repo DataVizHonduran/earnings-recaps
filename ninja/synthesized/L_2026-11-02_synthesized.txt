@@ -1,0 +1,30 @@
+Ticker: L
+Source: L_2026-11-02.txt
+Generated: 2026-11-18 21:45 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Loews Corp (Q3 2026)**
+
+**1. Demand & Activity: Moderate Growth**
+Demand is generally growing across the hospitality and energy sectors, though insurance volumes show modest gains.
+*   **Hospitality:** Robust growth in occupancy and pricing, particularly at the Miami Beach and Arlington properties ("increase in occupied room nights across most of the portfolio").
+*   **Energy:** Moderate growth in gas transportation activity ("higher revenues from gas transportation due to higher contracting rates and utilization").
+*   **Insurance:** Modest growth in premiums ("Net earned premiums grew by 2% and net written premiums grew by 3%").
+
+**2. Labor & Wages: Not Disclosed**
+The transcript contains no specific mentions of hiring difficulty, turnover, or wage trends.
+
+**3. Pricing Power & Inflation: Mixed/Softening**
+The company is successfully raising prices in hospitality and energy, but facing inflationary pressure in insurance loss costs.
+*   **Hospitality:** Strong pricing power ("higher overall average daily rate").
+*   **Energy:** Positive pricing trends ("higher contracting rates").
+*   **Insurance:** Softening pricing relative to inflation, as rate increases failed to keep pace with costs ("lower-than-expected rate in certain lines" and "higher loss cost trends").
+
+**4. Supply Chain & Inventory: Not Disclosed**
+There are no mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex): Stable/Growth-Oriented**
+Investment is focused on infrastructure and capacity expansion.
+*   **Energy:** Ongoing investment in expansion ("costs associated with growth projects").
+*   **Hospitality:** Recent completion of capacity improvements ("conclusion of its renovation at the end of 2025").

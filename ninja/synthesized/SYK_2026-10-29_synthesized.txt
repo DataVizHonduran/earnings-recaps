@@ -1,0 +1,22 @@
+Ticker: SYK
+Source: SYK_2026-10-29.txt
+Generated: 2026-11-18 21:45 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Stryker Corp (SYK)**
+
+**1. Demand & Activity**
+Demand remains robust, characterized by organic net sales growth of 7.7% ("Organic net sales increased 7.7% in the quarter primarily driven by increased unit volume"). Growth is broad-based across segments, with MedSurg and Neurotechnology showing stronger momentum at 9.1% organic growth compared to Orthopaedics at 5.9% ("Organic net sales increased 9.1%... [MedSurg] Organic net sales increased 5.9%... [Orthopaedics]"). Management expects "good momentum heading into 2027."
+
+**2. Labor & Wages**
+The provided text contains no specific data on current headcount changes or wage levels, though management lists "changes in labor markets" as a general risk factor in its cautionary statements.
+
+**3. Pricing Power & Inflation**
+The company maintains modest pricing power, with future guidance incorporating a "modestly positive pricing impact." While the company identifies "inflationary pressures" and "pricing pressures generally" as potential risks, the reported gross profit margin improved to 65.2% from 63.6% year-over-year, suggesting a stable or improving ability to manage input costs.
+
+**4. Supply Chain & Inventory**
+Inventory levels have increased moderately, rising from $5.31 billion at year-end 2025 to $5.75 billion as of September 30, 2026. "Supply chain disruptions" are noted as a persistent risk factor, though no specific current bottlenecks were detailed in the results.
+
+**5. Capital Spending (Capex)**
+Specific upcoming project expenditures were not detailed; however, the company continues to invest in "acquisition and integration-related activities" and "structural optimization," reflecting a strategy of growth through inorganic expansion and operational efficiency.

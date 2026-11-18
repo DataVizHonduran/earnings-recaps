@@ -1,0 +1,22 @@
+Ticker: NOW
+Source: NOW_2026-10-28.txt
+Generated: 2026-11-18 21:45 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signals Report: ServiceNow (NOW)**
+
+**1. Demand & Activity: Robust**
+Demand is growing strongly, driven by an "inflection point" in AI adoption. There is significant momentum in high-value contracts, with a robust increase in large-scale deals ("19 transactions over $5 million in net new annual contract value (ACV) in Q3 2026, representing over 135% year-over-year growth"). AI-specific demand is accelerating rapidly, evidenced by a surge in production usage ("year-to-date consumption in production up more than 13x year-over-year").
+
+**2. Labor & Wages: Stable/Expanding**
+While there are no mentions of wage inflation or labor shortages, the company is actively expanding its global footprint to secure human capital, specifically in emerging markets ("opened its first dedicated office in Brazil... to bolster regional AI talent").
+
+**3. Pricing Power & Inflation: Robust**
+The company demonstrates strong pricing power and the ability to monetize new technology rapidly. This is reflected in the repeated upward revision of AI revenue targets ("raise our year-end target for the second time this year, from $1 billion at the start of the year to $1.7 billion now"). There are no mentions of input cost pressures or inflationary headwinds.
+
+**4. Supply Chain & Inventory: Not Applicable**
+As a software-as-a-service (SaaS) provider, there are no physical inventory or traditional supply chain lead-time constraints. The company explicitly notes a lack of infrastructure bottlenecks ("What other company at the forefront of the agentic enterprise has no capital or compute constraints").
+
+**5. Capital Spending (Capex): Moderate/Declining**
+The company is shifting toward a more capital-efficient operational model, resulting in a reduction of planned expenditures ("capturing this significant opportunity with a capital-efficient model, reducing capex"). This efficiency is contributing to an improved outlook for cash flow margins ("raising our full-year free cash flow margin target by 100 basis points to 36 percent").
