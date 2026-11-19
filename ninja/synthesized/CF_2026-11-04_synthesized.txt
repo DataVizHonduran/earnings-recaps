@@ -1,0 +1,22 @@
+Ticker: CF
+Source: CF_2026-11-04.txt
+Generated: 2026-11-19 22:01 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: CF Industries (Q3 2026)**
+
+**1. Demand & Activity**
+Demand is characterized by "constructive nitrogen fundamentals" ("constructive nitrogen fundamentals drive robust financial results"). Activity remains robust, with available ammonia capacity utilization reaching 97% for the first nine months of 2026 ("9M 2026 Available Ammonia Capacity Utilization 97%"), which is noted as being "Greater Capacity Utilization than North America Peers" (Slide 5).
+
+**2. Labor & Wages**
+No specific mentions of wage inflation, hiring difficulties, or headcount reductions were provided in the text. The report focuses on safety metrics, noting a "Recordable Incident Rate" of 0.10 per 200,000 work hours ("0.10 12-month Rolling Average Recordable Incident Rate").
+
+**3. Pricing Power & Inflation**
+The company notes that its results are subject to the "cyclical nature of the Company's business and the impact of global supply and demand on the Company's selling prices" (Safe Harbor). While specific price hikes are not detailed, the company identifies "volatility of natural gas prices in North America and globally" as a persistent risk factor (Safe Harbor).
+
+**4. Supply Chain & Inventory**
+The report does not provide specific lead-time data or inventory levels. However, it highlights risks regarding "difficulties in securing the supply and delivery of raw materials or utilities, increases in their costs or delays" (Safe Harbor).
+
+**5. Capital Spending (Capex)**
+Capex is focused on energy transition and capacity expansion. Key investments include the "construction of a low-carbon ammonia production facility" and "carbon capture and sequestration projects" at the Blue Point Complex (Safe Harbor). The company notes that funding needs for these joint venture projects "may exceed its current estimates" (Safe Harbor). Additionally, the Yazoo City Complex is expected to "resume operations in 1H 2027" (Note 6).

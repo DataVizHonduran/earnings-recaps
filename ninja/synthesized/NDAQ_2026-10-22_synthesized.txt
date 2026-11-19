@@ -1,0 +1,30 @@
+Ticker: NDAQ
+Source: NDAQ_2026-10-22.txt
+Generated: 2026-11-19 22:01 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Nasdaq, Inc. (3Q26)**
+
+**1. Demand & Activity: Robust**
+Demand for financial technology and market infrastructure is robust, characterized by record-breaking inflows and strong adoption of AI-driven tools. 
+* **FinTech/SaaS:** Strong momentum in cloud-based solutions and AI, with "record FinTech ARR growth" and "record 18% organic ARR growth" in Financial Technology.
+* **Indices:** Robust activity with "record Index net inflows" ($49B in 3Q26).
+* **Capital Markets:** Strong demand for IPOs, with a "79% win rate of new operating company listings" in the quarter.
+* **Market Services:** Activity is supported by "higher industry volumes across U.S. options and European equities."
+
+**2. Labor & Wages: Moderate Pressure**
+The company is experiencing upward pressure on operating expenses tied to personnel costs.
+* **Wages:** Operating expenses increased, "primarily driven by higher compensation and benefits costs from our strong revenue execution" (Non-GAAP expenses up 9% YoY).
+
+**3. Pricing Power & Inflation: Stable**
+While specific price-hike percentages are not disclosed, the company demonstrates strong pricing power through successful "upsells" across all major divisions.
+* **Upsell Activity:** High volume of expansion revenue, including "135 upsells" in FinTech and "86 upsells" in Regulatory Technology.
+
+**4. Supply Chain & Inventory: N/A**
+As a financial technology and exchange operator, there are no mentions of physical supply chain constraints or inventory levels.
+
+**5. Capital Spending (Capex): Moderate/Increasing**
+Investment is focused on technological modernization and strategic inorganic growth.
+* **Technology:** Increased spending on "investments in technology to drive long-term growth."
+* **Strategic Expansion:** Active investment in "digital assets and market modernization," including the "acquisition of LeveL Markets" to expand liquidity pools.
