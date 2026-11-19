@@ -1,0 +1,22 @@
+Ticker: MRNA
+Source: MRNA_2026-11-06.txt
+Generated: 2026-11-19 22:01 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Moderna, Inc. (Q3 2026)**
+
+**1. Demand & Activity: Robust Growth**
+Demand is expanding, characterized by robust revenue growth of 29% in Q3 ("delivered 29% revenue growth in the third quarter"). This is primarily driven by strong international performance ("primarily driven by higher COVID vaccine sales in international markets") and the expansion of the respiratory portfolio, including the U.S. launch of mFLUSIVA. The company has upgraded its full-year growth outlook to 15%–25% ("exceeding the previous expectation of up to 10% growth").
+
+**2. Labor & Wages: Stable / Cost-Focused**
+There are no specific mentions of wage inflation or hiring difficulties. However, the company is focused on operational efficiency and "continued cost efficiencies across the organization" to reduce R&D spending.
+
+**3. Pricing Power & Inflation: Moderate Pressure**
+While specific pricing data is absent, cost of sales increased by 54% year-over-year ("primarily driven by higher product sales volume and other manufacturing-related costs"). This suggests that while volume is driving growth, the company is experiencing moderate upward pressure on manufacturing-related expenses.
+
+**4. Supply Chain & Inventory: Stable**
+No reports of lead-time delays or bloated inventories. The company is actively expanding its global footprint through strategic partnerships, including a new five-year agreement with a local manufacturer in Mexico ("supporting recurring revenue and international market expansion").
+
+**5. Capital Spending (Capex): Modest / Improving**
+Capex guidance for 2026 has been revised downward, signaling a more lean investment approach ("expected to be approximately $0.2 billion, improved from the previous expectation of $0.2 billion to $0.3 billion"). Future investment is being supported by a $2.6 billion convertible notes offering to "support continued investment in oncology."

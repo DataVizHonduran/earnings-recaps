@@ -1,0 +1,22 @@
+Ticker: WM
+Source: WM_2026-10-27.txt
+Generated: 2026-11-19 22:02 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Waste Management (WM)**
+
+**1. Demand & Activity:**
+Demand is softening slightly in core segments, with Collection and Disposal volumes declining 0.4% ("Collection and Disposal volume declined 0.4%"). This is attributed to a strategic shift away from low-margin residential business and losses in national account brokers. Conversely, demand in recycling and renewable energy is growing ("higher volumes in the recycling and renewable energy businesses as a result of completed growth projects").
+
+**2. Labor & Wages:**
+Not mentioned.
+
+**3. Pricing Power & Inflation:**
+The company demonstrates robust pricing power, with total revenue growth of 6.3% driven by "core price of 5.8%" and a "strong price-to-cost spread in Collection and Disposal." However, these gains are being partially offset by persistent inflationary pressures in energy and insurance, specifically "higher fuel costs and increased risk management costs."
+
+**4. Supply Chain & Inventory:**
+Not mentioned.
+
+**5. Capital Spending (Capex):**
+Investment in capacity remains moderate and focused on sustainability and technology. The company continues to expand its renewable energy footprint, recently opening its "eighteenth new facility since 2022" (a new renewable natural gas facility in New York). Management notes that "strong returns on investments" are continuing to improve productivity and support long-term growth.
