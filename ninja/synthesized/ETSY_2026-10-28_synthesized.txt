@@ -1,0 +1,17 @@
+Ticker: ETSY
+Source: ETSY_2026-10-28.txt
+Generated: 2026-11-20 21:43 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Analysis Note:** The provided text is a press release regarding a leadership transition (CFO departure) rather than an earnings transcript. Consequently, it contains no quantitative data or operational commentary regarding economic signals.
+
+**1. Demand & Activity:** Not addressed. The document focuses on executive transition and mentions a general goal of ("reigniting growth"), but provides no specific data on current demand levels.
+
+**2. Labor & Wages:** Stable/Neutral. No mentions of broad workforce trends, though the company has ("retained an executive recruiting firm") to fill a specific leadership vacancy.
+
+**3. Pricing Power & Inflation:** Not addressed.
+
+**4. Supply Chain & Inventory:** Not addressed.
+
+**5. Capital Spending (Capex):** Not addressed.
