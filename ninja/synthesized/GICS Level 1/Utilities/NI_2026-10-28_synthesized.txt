@@ -1,0 +1,22 @@
+Ticker: NI
+Source: NI_2026-10-28.txt
+Generated: 2026-11-20 21:44 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: NiSource Inc. (NI)**
+
+**1. Demand & Activity**
+Demand is showing robust growth, specifically driven by industrial expansion. There is a significant surge in activity related to large-load customers, with a specific focus on the data center sector ("opportunities such as Microsoft and our GenCo pipeline further strengthen the outlook").
+
+**2. Labor & Wages**
+The report does not provide specific data on wage inflation or hiring difficulties, though it acknowledges the operational role of its "approximately 7,700 employees" in maintaining service during "severe weather events."
+
+**3. Pricing Power & Inflation**
+The company is leveraging strategic agreements to offset costs for the end-user, noting that "signed GenCo agreements are expected to deliver approximately $1.75 billion in customer savings." There is no specific mention of input cost inflation or commodity price relief.
+
+**4. Supply Chain & Inventory**
+Not addressed. The transcript does not mention lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capex plans are robust and expanding. The company has extended its long-term capital plan through 2033 with a total commitment of "$40.0 billion." This investment is bifurcated into "$32.0 billion in base plan capital expenditures" for infrastructure safety and reliability, and "$8.0 billion for data center investments." These expenditures are intended to support "9%-10% consolidated investment base growth from 2027-2033."

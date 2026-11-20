@@ -1,0 +1,22 @@
+Ticker: LUV
+Source: LUV_2026-10-21.txt
+Generated: 2026-11-20 21:43 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Southwest Airlines (LUV)**
+
+**1. Demand & Activity: Robust**
+Demand remains strong across both consumer and corporate segments. The company reports "robust demand has continued in the fourth quarter" and notes that "managed business revenue reached a third quarter record," indicating a strong recovery or expansion in corporate travel.
+
+**2. Labor & Wages: Stable/Not Disclosed**
+The provided text contains no specific mentions of hiring difficulties, turnover, or wage adjustments.
+
+**3. Pricing Power & Inflation: Robust / Persistent Pressure**
+The company is demonstrating significant pricing power, achieving "the highest passenger yield in the Company's history" and "all-time record unit revenues." However, it faces persistent inflationary pressure from energy costs, noting a "significant fuel headwind" and an "$821 million increase in nominal fuel costs" compared to the prior year.
+
+**4. Supply Chain & Inventory: Stable**
+Fleet modernization is proceeding according to plan. The company "received 20 Boeing 737-8 aircraft" in Q3 and expects a total of "67 Boeing 737-8 and 737-7 aircraft deliveries" for the full year 2026.
+
+**5. Capital Spending (Capex): Moderate/Targeted**
+Investment is focused on fleet modernization and customer experience. Net capital spending for 2026 is projected "between $2.5 billion and $2.75 billion," driven by "aircraft-related capital spending, as well as technology, facilities, and operational investments." Specific future projects include the "Southwest Icon Lounge network" (expected 2027) and the completion of "fleet-wide installation" of Starlink WiFi by fall 2027.
