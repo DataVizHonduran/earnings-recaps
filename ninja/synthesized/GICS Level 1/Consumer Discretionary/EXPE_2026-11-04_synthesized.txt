@@ -1,0 +1,22 @@
+Ticker: EXPE
+Source: EXPE_2026-11-04.txt
+Generated: 2026-11-21 20:25 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Expedia Group (Q3 2026)**
+
+**1. Demand & Activity: Robust**
+Travel demand remains resilient, characterized by moderate to robust growth across key segments. Total Gross Bookings grew 11% year-over-year, with a notable surge in B2B activity (+19%) compared to B2C (+7%). Lodging demand remains strong, with Booked Room Nights increasing 7% ("reflecting resilient travel demand"). However, air travel demand is softening, with Booked Air Tickets declining 6% year-over-year.
+
+**2. Labor & Wages: Stable**
+The report contains no specific mentions of hiring difficulties, turnover, or wage inflation. The company is focusing on "enhancing internal productivity" through the application of AI.
+
+**3. Pricing Power & Inflation: Moderate**
+The company maintains moderate pricing power, evidenced by a 2% increase in the Average Daily Rate (ADR) Booked ("Average Daily Rate (ADR) Booked... 2%"). There are no mentions of persistent input cost pressures or commodity inflation impacting the operating model.
+
+**4. Supply Chain & Inventory: N/A**
+As a digital marketplace, the company does not maintain physical inventory or traditional supply chain lead times. Management noted a focus on continuing to "improve supply across our marketplace."
+
+**5. Capital Spending (Capex): Moderate**
+Investment is currently directed toward technology and platform scalability. Management is prioritizing the "strategy to build the one-stop travel platform for B2B partners" and the integration of AI to create "new sources of growth."

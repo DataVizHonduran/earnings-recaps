@@ -1,0 +1,28 @@
+Ticker: BDX
+Source: BDX_2026-11-05.txt
+Generated: 2026-11-21 20:25 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Becton Dickinson & Co (BDX)**
+
+**1. Demand & Activity**
+Demand is currently **moderate to robust**, with broad-based growth across all segments. International demand is growing more quickly than domestic demand.
+*   **Geographic:** International revenue grew 7.6% FXN, compared to 4.3% in the U.S. ("International $2,070... 7.6% [FXN Change]").
+*   **Product Line:** Growth is strongest in the Interventional segment (7.6% FXN) and Medical Essentials (5.9% FXN), while Connected Care is relatively flat (2.1% FXN).
+*   **Outlook:** Future demand is expected to remain **stable**, with guidance for "low single-digit" revenue growth in FY27.
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is seeing **moderate** relief from trade-related cost pressures via government intervention.
+*   **Input Costs:** BD secured an agreement providing "relief from future tariffs imposed under Section 232 on covered BD products and inputs" ("The agreement also provides relief from future tariffs...").
+
+**4. Supply Chain & Inventory**
+The company is focused on **robust** supply chain resilience and domesticating production.
+*   **Status:** BD is actively working to "strengthen the resilience of supply chains for America's essential medical consumables" ("expand domestic manufacturing and strengthen the resilience of supply chains").
+
+**5. Capital Spending (Capex)**
+Capex plans are **robust**, characterized by a massive multi-year investment in U.S. domestic capacity.
+*   **Investment:** BD intends to invest $19 billion in the U.S. over several years, with a specific allocation of "$3 billion directed toward manufacturing expansion" ("BD intends to invest $19 billion in the U.S... including capital, operational and supply chain investments").

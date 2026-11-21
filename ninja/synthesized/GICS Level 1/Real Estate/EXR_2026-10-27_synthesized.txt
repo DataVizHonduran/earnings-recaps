@@ -1,0 +1,22 @@
+Ticker: EXR
+Source: EXR_2026-10-27.txt
+Generated: 2026-11-21 20:25 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Extra Space Storage (EXR)**
+
+**1. Demand & Activity**
+Demand is showing modest growth. Same-store revenue increased by 2.7% for the quarter ("Same-store revenue increased by 2.7%"), and ending same-store occupancy rose slightly to 94.0% from 93.7% ("Reported ending same-store occupancy of 94.0%... compared to 93.7%"). Management characterizes current performance as "accelerating same-store performance."
+
+**2. Labor & Wages**
+Labor costs are softening. Same-store payroll and benefits expenses decreased by 4.6% for the quarter ("Payroll and benefits... (4.6)%"), suggesting a reduction in wage pressure or headcount optimization.
+
+**3. Pricing Power & Inflation**
+The company maintains moderate pricing power, evidenced by a 2.9% increase in net rental income ("Net rental income... 2.9%"). Input cost pressures are mixed; while property taxes rose ("Property taxes... 4.9%"), other operating costs saw relief, specifically in repairs and maintenance, which declined significantly ("Repairs and maintenance... (20.0)%").
+
+**4. Supply Chain & Inventory**
+Not applicable. As a real estate operator, the company does not report traditional supply chain lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment activity remains robust. The company is actively expanding its footprint through both acquisitions and new developments, investing $181.9 million in the first nine months of 2026 ("Total EXR Investment $181,981" [thousands]). This includes the purchase of 22 operating stores and the development of two stores via joint ventures ("completed the development of two stores for a total cost of approximately $31.7 million").

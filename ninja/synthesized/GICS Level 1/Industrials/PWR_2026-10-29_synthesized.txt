@@ -1,0 +1,22 @@
+Ticker: PWR
+Source: PWR_2026-10-29.txt
+Generated: 2026-11-21 20:25 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Quanta Services (PWR)**
+
+**1. Demand & Activity: Robust**
+Demand is growing strongly and broadening across multiple sectors, including utility, power generation, industrial, and technology customers ("demand for our services broadening across utility, power generation, industrial and technology customers"). Activity is characterized by record-level forward visibility, with total backlog reaching a record $63.7 billion ("total backlog reached a record $63.7 billion").
+
+**2. Labor & Wages: Stable/Positive**
+The company emphasizes the strategic value of its "craft-skilled workforce" and continues to invest in training and leadership development to meet increasing demand ("investment in training, safety and leadership development... position the company to meet growing demand"). No specific mentions of wage inflation or hiring headwinds were noted.
+
+**3. Pricing Power & Inflation: Moderate Pressure**
+While the company is achieving "strong double-digit growth" in revenue and EBITDA, management continues to monitor macroeconomic headwinds. Inflation and interest rates are explicitly cited as ongoing uncertainties ("future uncertainty associated with overall challenges to the domestic and global economy, including inflation, interest rates").
+
+**4. Supply Chain & Inventory: Stable/Improving**
+The company is actively integrating supply chain capabilities through vertical integration. Recent acquisitions were specifically targeted to strengthen "front-end, fabrication and supply chain capabilities" ("completed two acquisitions that strengthen its front-end, fabrication and supply chain capabilities"). However, supply chain challenges are still noted as a potential risk to project timing ("supply chain challenges and other factors affecting project timing and execution have impacted... results").
+
+**5. Capital Spending (Capex): Moderate/Expansionary**
+Investment is focused on inorganic growth and capacity expansion. The company completed five acquisitions in the first nine months of 2026, including a vertically integrated manufacturer of steel monopoles and an energy services provider ("completed five acquisitions in the first nine months of 2026"). Financial flexibility for future investment was bolstered by a $2.0 billion senior notes issuance in August 2026 ("issued $2.00 billion aggregate principal amount of senior notes").
