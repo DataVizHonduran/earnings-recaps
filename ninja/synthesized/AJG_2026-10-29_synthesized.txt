@@ -1,0 +1,22 @@
+Ticker: AJG
+Source: AJG_2026-10-29.txt
+Generated: 2026-11-21 20:24 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Arthur J. Gallagher & Co. (AJG)**
+
+**1. Demand & Activity: Moderate Growth**
+Demand remains resilient with moderate growth across core segments. The company reported organic revenue growth of 5% ("combined Brokerage and Risk Management segments delivered revenue growth of 18%, including organic growth of 5%"). Management attributes this to "strong client retention, excellent new business and continued growth in our clients businesses."
+
+**2. Labor & Wages: Stable to Softening**
+While specific wage inflation data is absent, the company is realizing efficiency gains from workforce integration. Adjusted compensation expense ratios have declined, partly due to "compensation savings related to synergies" following the roll-in of AssuredPartners. There are ongoing "workforce and lease termination" charges, though these are tied to acquisition integration.
+
+**3. Pricing Power & Inflation: Robust**
+The company demonstrates strong pricing power and the ability to monetize increasing risk complexity. Management notes that "as risk becomes more complex, our clients continue to value our advice, advocacy, analytics and market access," which has supported a "quarter of margin expansion."
+
+**4. Supply Chain & Inventory: Not Applicable**
+As a professional services and insurance brokerage firm, there are no material signals regarding physical supply chains, lead times, or inventory levels.
+
+**5. Capital Spending (Capex): Robust (M&A Focused)**
+Investment is heavily skewed toward inorganic growth and capacity expansion through acquisitions. The company continues its "success growing through acquisitions," closing 19 deals in the first nine months of 2026 ("Number of acquisitions closed... 19"). This represents a primary vehicle for technology and market share investment.
