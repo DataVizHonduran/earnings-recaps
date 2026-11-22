@@ -1,0 +1,22 @@
+Ticker: NEE
+Source: NEE_2026-10-21.txt
+Generated: 2026-11-22 20:38 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: NextEra Energy (Q3 2026)**
+
+**1. Demand & Activity: Robust**
+Demand for renewables and storage remains strong, evidenced by a "strong quarter of new renewables and storage origination, adding 3.7 gigawatts (GW) to its backlog" ("strong quarter of new renewables and storage origination"). Activity in the large-load sector is expanding rapidly, with a development pipeline of "30 potential hubs" that is expected to grow to 40 by year-end ("expect that number to rise to 40 by year-end"). FPL continues to serve "one of the fastest-growing states in the nation" ("serving one of the fastest-growing states").
+
+**2. Labor & Wages: Stable/Expanding**
+While specific wage data was not disclosed, the company is committing to headcount growth in connection with the Dominion Energy merger, including "creating 600 new NextEra Energy jobs in Virginia" and "maintaining Virginia employee headcount for the next five years" ("maintaining Virginia employee headcount for the next five years").
+
+**3. Pricing Power & Inflation: Stable**
+The company maintains a competitive pricing position, noting that FPL's residential bills are "approximately 37% below the national average" ("37% below the national average"). Future pricing is projected to remain stable, with bills "projected to increase only 2% annually, on average, through the end of the decade" ("projected to increase only 2% annually").
+
+**4. Supply Chain & Inventory: Stable**
+The company reports no significant disruptions, asserting it possesses the "supply chain, technology, customer relationships, and development and operating expertise to build what our customers need" ("scale, balance sheet, supply chain... to build what our customers need").
+
+**5. Capital Spending (Capex): Robust**
+Investment in infrastructure is aggressive. FPL’s full-year capital investments are "expected to be approximately $12 billion" ("full-year capital investments are expected to be approximately $12 billion"). Additionally, regulated and invested capital in electric and gas transmission has increased "roughly 25% to approximately $12.7 billion since December 2025" ("increased roughly 25% to approximately $12.7 billion"). Significant investment is also flowing into nuclear restarts, including a "loan with the U.S. Department of Energy of up to $1.9 billion to support the restart" of the Duane Arnold plant ("loan... of up to $1.9 billion to support the restart").

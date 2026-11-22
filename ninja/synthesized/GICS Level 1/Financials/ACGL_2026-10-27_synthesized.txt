@@ -1,0 +1,25 @@
+Ticker: ACGL
+Source: ACGL_2026-10-27.txt
+Generated: 2026-11-22 20:37 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Arch Capital Group Ltd. (ACGL)**
+
+**1. Demand & Activity: Mixed/Uneven**
+Overall demand is transitioning and "increasingly uneven" ("operating in a transitioning market where conditions are increasingly uneven"). 
+*   **Insurance:** Robust growth in international business, with gross premiums written up 7.8% ("reflected strong growth in international business").
+*   **Reinsurance:** Softening activity, with net premiums written declining 9.3% due to "non-renewals and share reductions."
+*   **Mortgage:** Modest decline in U.S. activity, specifically "lower U.S. primary mortgage insurance monthly premiums and U.S. credit risk transfer premiums," though partially offset by international growth.
+
+**2. Labor & Wages: Stable**
+The report contains no specific mentions of hiring difficulties, wage inflation, or headcount adjustments, focusing instead on the "culture anchored in our Values" and thanking employees for building a "global franchise."
+
+**3. Pricing Power & Inflation: Moderate Pressure**
+While the company maintains "solid underwriting performance," there are signs of pricing and mix pressure. The reinsurance loss ratio was negatively "impacted by changes in rate and mix of business." Additionally, the company is managing geopolitical inflationary shocks, specifically noting losses "related to the Iran conflict."
+
+**4. Supply Chain & Inventory: N/A**
+As a financial services/insurance provider, there are no applicable signals regarding physical supply chains or inventory levels.
+
+**5. Capital Spending (Capex): Stable**
+There are no new announcements regarding capacity expansion or facility investments. The company remains focused on "producing superior risk-adjusted returns over the long term" and integrating the previous "acquisition of the U.S. MidCorp and Entertainment insurance businesses from Allianz."
