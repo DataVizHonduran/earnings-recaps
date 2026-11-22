@@ -1,0 +1,27 @@
+Ticker: KEYS
+Source: KEYS_2026-11-19.txt
+Generated: 2026-11-22 20:38 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Keysight Technologies (KEYS)**
+
+**1. Demand & Activity**
+Demand is **robust**, characterized by strong growth across all end markets. The Communications Solutions Group (CSG) saw a significant surge, particularly in commercial communications, while the Electronic Industrial Solutions Group (EISG) experienced moderate growth across semiconductor, automotive, and energy sectors.
+*   **Quotes:** "robust order and revenue growth" ("robust order and revenue growth"); "CSG reported revenue... up 51 percent over last year, reflecting 73 percent growth in commercial communications" ("reflecting 73 percent growth in commercial communications").
+
+**2. Labor & Wages**
+The provided data does not explicitly detail hiring difficulties or wage inflation; however, there is a moderate increase in liabilities related to employee compensation.
+*   **Quote:** Employee compensation and benefits liabilities rose from $399 million to $481 million ("Employee compensation and benefits 481 399").
+
+**3. Pricing Power & Inflation**
+The company is demonstrating strong pricing power or volume growth, as evidenced by significant revenue and earnings expansion. While the company lists "inflation" as a general risk factor, current financial results show a robust increase in net income.
+*   **Quote:** "significant earnings per share expansion" ("significant earnings per share expansion").
+
+**4. Supply Chain & Inventory**
+Inventory levels appear **stable to slightly increasing**, though the company continues to manage modest excess and obsolete charges.
+*   **Quotes:** Inventory rose from $1,050 million to $1,130 million ("Inventory 1,130 1,050"); "Excess and obsolete inventory-related charges 41" ("Excess and obsolete inventory-related charges 41").
+
+**5. Capital Spending (Capex)**
+The company is focused on technology-driven growth, though specific new facility expenditures are not detailed. Net property, plant, and equipment saw a slight decrease.
+*   **Quote:** "investments we have made to differentiate our portfolio position us to deliver growth" ("investments we have made to differentiate our portfolio position us to deliver growth").

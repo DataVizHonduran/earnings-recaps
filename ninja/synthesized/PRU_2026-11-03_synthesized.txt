@@ -1,0 +1,29 @@
+Ticker: PRU
+Source: PRU_2026-11-03.txt
+Generated: 2026-11-22 20:38 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Prudential Financial (PRU)**
+
+**1. Demand & Activity**
+Demand is **robust** in U.S. retail and institutional sectors, though **softening** in Japan. 
+* **U.S. Retail:** Strong momentum in retirement products, with retail annuity sales reaching their "highest quarterly level since 2013" ("retail annuity sales reaching their highest quarterly level since 2013").
+* **Institutional:** Strong demand for private assets; third-party net flows reached their "highest level in 10 quarters" ("Third-party net flows reached their highest level in 10 quarters").
+* **Japan:** Activity is declining significantly due to a sales suspension, with constant dollar sales down 36% ("sales... decreased 36% from the year-ago quarter, primarily driven by the Prudential of Japan sales suspension").
+* **Group Insurance:** Moderate growth in supplemental health and the "Premier segment" ("Year-to-date sales of $682 million increased 23% from the prior year period").
+
+**2. Labor & Wages**
+The report indicates **moderate** upward pressure on operating costs linked to business expansion.
+* **Expenses:** Higher variable expenses are being incurred to support growth across U.S. Businesses and Group Insurance ("higher variable expenses to support continued business growth").
+
+**3. Pricing Power & Inflation**
+The company is seeing **stable** fee-based income growth, though impacted by macroeconomic headwinds.
+* **Fees:** Higher asset management fees were reported at PGIM, though partially offset by "lower other related revenues... driven by higher interest rates" ("higher asset management fees, partially offset by lower other related revenues... due to higher interest rates").
+
+**4. Supply Chain & Inventory**
+Not applicable. (No mentions of physical supply chains or inventory levels).
+
+**5. Capital Spending (Capex)**
+The company is focused on **strategic reallocation** of capital through a narrowing of its geographic footprint.
+* **Divestitures:** Prudential is reducing its international exposure by selling businesses in Brazil, Mexico, South Africa, Indonesia, and Kenya ("announcing the sales of Prudential of Brazil, Prudential of Mexico, and our South Africa insurance business").
