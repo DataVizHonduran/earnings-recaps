@@ -1,0 +1,22 @@
+Ticker: NVDA
+Source: NVDA_2026-11-17.txt
+Generated: 2026-11-24 01:33 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: NVIDIA (Q3 FY27)**
+
+**1. Demand & Activity**
+Demand remains **robust**, characterized by an "explosive start" for the Vera Rubin platform ("Vera Rubin is off to an explosive start"). Growth is most pronounced in the Data Center segment, with revenue up 110% year-over-year ("Data Center revenue of $107.6 billion, up 110% from a year ago"). Edge Computing activity also shows **moderate** growth, increasing 42% year-over-year ("Edge Computing revenue was $8.2 billion... up 42% from a year ago"). Geographic demand is noted as being excluded from China in future outlooks ("NVIDIA is not assuming any Data Center compute revenue from China in its outlook").
+
+**2. Labor & Wages**
+No specific mentions of hiring difficulties, wage inflation, or headcount reductions were provided in the text.
+
+**3. Pricing Power & Inflation**
+The company maintains **stable** to **robust** pricing power, evidenced by gross margins remaining high at approximately 74.8% ("GAAP and NON-GAAP gross margins were 74.8% and 74.9%"). There is no mention of input cost relief or persistent inflationary pressures on commodities or freight.
+
+**4. Supply Chain & Inventory**
+Supply chain activity is focused on scaling capacity to meet high demand. The company is actively coordinating with global partners to expand manufacturing ("plans with global supply chain partners... to scale critical manufacturing capabilities to meet demand for NVIDIA infrastructure"). Lead times were not explicitly quantified, but the "fastest product ramp in the company’s history" suggests aggressive inventory movement for the Vera Rubin line.
+
+**5. Capital Spending (Capex)**
+Investment is focused on expanding infrastructure and strategic acquisitions. Notable activity includes the acquisition of Hugging Face ("agreement to acquire Hugging Face to scale its platform") and the development of "AI factories" in collaboration with international ecosystems, including a planned buildout of up to 2 gigawatts in Australia by 2027 ("planned buildout of up to 2 gigawatts by 2027 for NVIDIA DSX AI factories").

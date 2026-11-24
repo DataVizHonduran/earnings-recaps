@@ -1,0 +1,22 @@
+Ticker: SRE
+Source: SRE_2026-11-05.txt
+Generated: 2026-11-24 01:34 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Sempra (SRE)**
+
+**1. Demand & Activity: Robust**
+Demand for electric power is growing robustly, particularly in Texas and California. Texas is seeing "strong economic growth" with Oncor hitting a "new all-time system peak demand record of 33.3 gigawatts (GW), a 6% increase from the prior-year’s record." In California, SDGE also reached a "new all-time peak net system energy demand of 5.2 GW." There is significant industrial appetite in Texas, with "approximately 24 GW of large load" classified as base load.
+
+**2. Labor & Wages: Not Addressed**
+The provided text contains no specific mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation: Stable/Mixed**
+The company is navigating regulatory environments to maintain revenue requirements. While it is pursuing "regulatory avenues" to correct capital attrition mechanisms in California, it faces some headwinds, noting that a negative regulatory decision could push 2027 earnings to the "low end of its segment guidance range." There are mentions of "foreign currency and inflation on monetary positions in Mexico," though these are listed as specific accounting impacts rather than broad pricing trends.
+
+**4. Supply Chain & Inventory: Not Addressed**
+The transcript does not provide specific data on lead times or inventory levels.
+
+**5. Capital Spending (Capex): Robust**
+Investment in infrastructure is accelerating. Sempra invested "approximately $10 billion in capital" in the first nine months of 2026. Future spending is projected to increase significantly, with Oncor expecting its "2027-2031 base capital plan to increase by approximately 20% relative to its 2026-2030 base capital plan" to support "continued load growth across the Electric Reliability Council of Texas (ERCOT) market." The company is also utilizing a "capital recycling program" via equity sales to fund this utility growth.
