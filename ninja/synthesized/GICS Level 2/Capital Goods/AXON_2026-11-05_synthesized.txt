@@ -1,0 +1,22 @@
+Ticker: AXON
+Source: AXON_2026-11-05.txt
+Generated: 2026-11-24 01:33 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: AXON Enterprise, Inc. (Q3 2026)**
+
+**1. Demand & Activity**
+Demand is **robust** and broad-based, characterized by accelerating growth in software and AI. Software Services revenue grew 43% YoY, while AI bookings are up over 50% year-to-date ("Demand is broad, Software Services is accelerating"). There is strong momentum in "newer businesses" and "superintelligence products," with new five-year bookings increasing 25% YTD. However, there is a specific **softening** in Federal Dedrone deployments, resulting in a $130 million revenue reduction for 2026 ("concentrated in three large Federal Dedrone deployments... we no longer expect in 2026").
+
+**2. Labor & Wages**
+The provided text contains no mentions of hiring difficulties, turnover, wage increases, or headcount reductions.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price hikes or input cost pressures. However, the company is successfully shifting toward high-margin, recurring revenue streams, with AI ARR surpassing $100 million ("AI annual recurring revenue surpassed $100 million") and the introduction of the "AI Era Plan" as a primary growth driver.
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory levels. The company indicates it is "meeting that demand with an accelerating pace of innovation," suggesting that production and distribution are currently keeping pace with order volume.
+
+**5. Capital Spending (Capex)**
+Axon is engaging in **robust** strategic investment in technology and capacity. The company announced the "largest single investment in Axon’s history," a $1.2 billion investment in Skydio to secure a 37% ownership stake and exclusive distribution rights in the U.S. and Canada ("Today, we announce an additional $1.2 billion investment in Skydio"). This reflects a significant capital commitment to dominate the "Drone as First Responder" market.

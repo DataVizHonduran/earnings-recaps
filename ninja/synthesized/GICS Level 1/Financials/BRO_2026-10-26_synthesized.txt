@@ -1,0 +1,22 @@
+Ticker: BRO
+Source: BRO_2026-10-26.txt
+Generated: 2026-11-24 01:33 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Brown & Brown, Inc. (BRO)**
+
+**1. Demand & Activity**
+Demand appears stable to modestly growing. Total revenues increased by 7.4% year-over-year for the third quarter, though organic growth remains slight ("growth of Organic Revenue of 1.2%"). Year-to-date organic growth is even more muted ("growth of Organic Revenue of 0.3%").
+
+**2. Labor & Wages**
+Not addressed. The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation**
+The company is experiencing moderate pressure on margins, suggesting that input costs or operating expenses may be outpacing pricing adjustments. The Income Before Income Taxes Margin declined from 19.4% to 18.6% ("Income Before Income Taxes Margin of 18.6%, compared to 19.4% in the third quarter of the prior year"). Similarly, the Adjusted EBITDAC margin softened from 36.6% to 34.6% ("EBITDAC Margin - Adjusted of 34.6%, compared to 36.6%").
+
+**4. Supply Chain & Inventory**
+Not addressed. As a professional services/insurance brokerage firm, the company does not report on physical supply chains or inventory levels.
+
+**5. Capital Spending (Capex)**
+Not addressed. The provided text does not outline specific future investments in capacity, technology, or facilities.

@@ -1,0 +1,26 @@
+Ticker: MET
+Source: MET_2026-11-04.txt
+Generated: 2026-11-24 01:33 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: MetLife Inc. (3Q 2026)**
+
+**1. Demand & Activity: Robust**
+Demand is growing across all business segments. Top-line growth is broad-based, with adjusted premiums, fees, and other revenues (excluding PRT) increasing 8% ("growth in all six business segments"). Specific strengths include:
+*   **EMEA:** Robust momentum with sales up 16% on a constant currency basis ("strong sales momentum and solid renewal activity").
+*   **Group Benefits:** Strong performance in National Accounts and Regional Business, with YTD sales up 12% ("growth in core and voluntary products").
+*   **RIS:** Significant volume growth in post-retirement benefits and U.K. longevity reinsurance ("Adjusted PFOs, excluding PRT... up 33 percent").
+*   **Asia:** Moderate growth, though quarterly sales dipped 6% against a strong prior-year period, YTD sales remain up 10% ("led by Japan and Korea").
+
+**2. Labor & Wages: Not Disclosed**
+The transcript contains no specific mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation: Stable to Positive**
+The company is benefiting from a "higher-rate environment," which has boosted adjusted net investment income by 10% ("reflecting higher VII, asset growth, and investing in a higher-rate environment"). There is no mention of input cost inflation; however, the company reports "favorable underwriting" in Group Benefits, suggesting stable to improving pricing discipline.
+
+**4. Supply Chain & Inventory: Not Applicable**
+As a financial services provider, MetLife does not report physical supply chain or inventory metrics.
+
+**5. Capital Spending (Capex): Moderate**
+The company is focused on "reinvesting for responsible growth" as part of its "New Frontier strategy" ("reinvesting for responsible growth and returning capital to shareholders"). Specific facility or technology spend figures were not provided, but the company maintains a liquid position with $3.4 billion in holding company cash.

@@ -1,0 +1,22 @@
+Ticker: MCD
+Source: MCD_2026-11-04.txt
+Generated: 2026-11-24 01:33 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: McDonald's Corp (Q3 2026)**
+
+**1. Demand & Activity**
+Demand is softening in the U.S. but remains moderate to robust internationally. U.S. comparable sales declined slightly ("U.S. decreased 0.2%"), driven by "negative comparable guest counts." However, management noted a late-quarter recovery following "intervention on value." International demand is stronger, with "International Developmental Licensed Markets increased 4.2%," led by Japan, though China showed "negative comparable sales."
+
+**2. Labor & Wages**
+The report does not provide specific data on hourly wage rates or hiring difficulties. However, there is evidence of organizational restructuring to improve efficiency, noting "restructuring charges associated with the Company's internal effort to modernize ways of working ('Accelerating the Organization')."
+
+**3. Pricing Power & Inflation**
+The company maintains modest pricing power in the U.S., as the slight decline in guest traffic was "largely offset by positive check growth." This indicates that higher average checks (driven by pricing and mix) are sustaining revenue despite lower volume. There is no specific mention of commodity or freight cost relief, though "higher sales-driven Franchised margins" contributed to operating income.
+
+**4. Supply Chain & Inventory**
+No specific mentions of lead times, inventory levels, or supply chain disruptions were provided in the text.
+
+**5. Capital Spending (Capex)**
+While specific dollar amounts for the quarter are not detailed in the provided text, the company is focused on "investing in the next chapter of growth" and continues to utilize "free cash flow" to "reinvest in the core business."
