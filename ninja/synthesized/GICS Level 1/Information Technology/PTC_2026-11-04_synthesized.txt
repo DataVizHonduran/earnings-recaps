@@ -1,0 +1,22 @@
+Ticker: PTC
+Source: PTC_2026-11-04.txt
+Generated: 2026-11-24 23:26 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided press release for PTC, the economic signals are as follows:
+
+**1. Demand & Activity**
+Demand appears to be growing at a moderate pace. Annual Recurring Revenue (ARR), excluding divested businesses, increased by 8% year-over-year ("As reported ARR excluding divested businesses... $2,508 [vs] $2,320... 8%"). On a constant currency basis, this growth was slightly more robust at 9.7% ("Constant currency ARR... 9.7%").
+
+**2. Labor & Wages**
+No mentions of hiring, turnover, or wage pressures were provided in the text.
+
+**3. Pricing Power & Inflation**
+The provided text does not contain specific mentions of price increases or input cost pressures.
+
+**4. Supply Chain & Inventory**
+No data regarding lead times or inventory levels was provided.
+
+**5. Capital Spending (Capex)**
+The provided text does not detail specific future capital expenditure plans or facility investments.

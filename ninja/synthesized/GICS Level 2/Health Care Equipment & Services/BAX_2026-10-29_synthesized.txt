@@ -1,0 +1,24 @@
+Ticker: BAX
+Source: BAX_2026-10-29.txt
+Generated: 2026-11-24 23:25 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Baxter International Inc. (BAX)**
+
+**1. Demand & Activity**
+Demand is **moderate to robust**, with organic sales increasing 5% globally. Growth is broad-based across all segments and divisions ("growth in all segments and divisions"). 
+* **Geographic Variance:** International demand is slightly stronger than domestic, with international sales increasing 6% organically compared to 5% in the U.S. ("International sales... increasing 7% on a reported basis and 6% on an organic basis").
+* **Product Variance:** Strong demand was noted for Infusion Systems, Drug Compounding, IV Solutions, Advanced Surgery, and Care Connectivity Solutions ("strong global demand for Advanced Surgery products"). This was partially offset by **softening** demand in Injectables ("partially offset by reduced sales within Injectables").
+
+**2. Labor & Wages**
+No specific mentions of hiring difficulties, wage inflation, or headcount reductions were provided in the report.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail pricing actions or specific input cost trends (commodities/freight). However, the company's ability to raise its full-year organic sales outlook from 2-3% to 3-4% ("Organic sales growth... 3% to 4% (previously 2% to 3%)") suggests a stable to improving revenue environment.
+
+**4. Supply Chain & Inventory**
+There are no specific mentions of lead times or inventory levels. The company reports "steady progress stabilizing the business" ("continue to make steady progress stabilizing the business"), but provides no granular supply chain data.
+
+**5. Capital Spending (Capex)**
+Specific future capacity or technology investment plans were not detailed. The company is currently focused on "strengthening the balance sheet" ("strengthening the balance sheet") and deleveraging, having completed a $600 million cash tender offer to retire debt ("retiring $864 million of debt").

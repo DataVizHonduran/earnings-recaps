@@ -1,0 +1,22 @@
+Ticker: FTV
+Source: FTV_2026-10-28.txt
+Generated: 2026-11-24 23:25 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Fortive Corp (FTV)**
+
+**1. Demand & Activity**
+Demand is showing **robust** and accelerating growth. Core revenue increased 7.2% year-over-year, driven by a significant variance between business segments. Activity is particularly strong in "Intelligent Operating Solutions," which saw core revenue growth of 9.1% ("Q3 revenue growth accelerated to 7.8% year-over-year on a reported basis"), while "Advanced Healthcare Solutions" experienced more **modest** growth of 3.1% ("Advanced Healthcare Solutions... Revenue... 3.1% (reported core)").
+
+**2. Labor & Wages**
+The provided text contains no specific data regarding current wage increases, turnover rates, or headcount reductions. The company lists the "ability to recruit and retain key employees" as a general risk factor ("Factors that could cause actual results to differ materially... our ability to recruit and retain key employees"), but provides no current-period signal.
+
+**3. Pricing Power & Inflation**
+There is evidence of **robust** pricing power and margin expansion. The company reported a 420 bps increase in GAAP net earnings margin ("GAAP net earnings margin of 15.6%... up 420 bps"). While the company monitors "commodity costs and surcharges" as a risk, the acceleration in adjusted EBITDA growth suggests a period of relative stability or successful pass-through of costs ("delivered... approximately 10% adjusted EBITDA growth").
+
+**4. Supply Chain & Inventory**
+Current state is not explicitly detailed in the financial highlights; however, the company identifies "supply chain constraints" and the "reliance on sole sources of supply" as ongoing systemic risks ("Factors that could cause actual results to differ materially... supply chain constraints"). No specific mentions of bloated or lean inventory levels were provided in this release.
+
+**5. Capital Spending (Capex)**
+The company is maintaining a disciplined approach to investment, focusing on "innovation acceleration" and "commercial acceleration" to drive growth ("investments in innovation acceleration, commercial acceleration, and recurring customer value are contributing to faster revenue growth"). Management indicated a commitment to "deploy capital with discipline" ("continue to see meaningful opportunities to... deploy capital with discipline").

@@ -1,0 +1,22 @@
+Ticker: CPT
+Source: CPT_2026-11-05.txt
+Generated: 2026-11-24 23:25 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Camden Property Trust (CPT)**
+
+**1. Demand & Activity**
+Demand is softening. Same-property revenues declined slightly year-over-year ("Revenues (0.1)%"), and the company has lowered its full-year revenue growth guidance to a range of ("(0.25)% - 0.25%"). While occupancy remains stable ("Occupancy 95.6%"), there is significant weakness in new lease demand, with effective new lease rates declining moderately ("Effective New Lease Rates (2.0)%").
+
+**2. Labor & Wages**
+No specific mentions of hiring difficulty, turnover, or wage pressures were provided in the operating results.
+
+**3. Pricing Power & Inflation**
+Pricing power is weakening, particularly for new residents, though renewal pricing remains modesty positive ("Effective Renewal Rates 3.6%"). The company is experiencing persistent pressure on the bottom line, as evidenced by a downward revision of Same Property Net Operating Income (NOI) guidance to a range of ("(1.50)% - (0.50)%").
+
+**4. Supply Chain & Inventory**
+Inventory levels for new units are increasing as several projects enter the lease-up phase. For example, Camden Village District is "88% leased," while newer projects like Camden Blakeney are just beginning to absorb ("leasing began at Camden Blakeney in Charlotte, NC").
+
+**5. Capital Spending (Capex)**
+Investment in capacity is robust. The company is actively expanding its footprint through both development and acquisitions. Current development includes five major projects ("Total 1,560 [homes] $618.0 [million]"), and the company recently acquired three communities in Florida, North Carolina, and Tennessee for ("a combined $305.2 million"). Additionally, the company is pivoting its geographic focus, evidenced by the sale of its "California portfolio" for approximately $1.6 billion.
