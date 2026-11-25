@@ -1,0 +1,22 @@
+Ticker: FICO
+Source: FICO_2026-11-04.txt
+Generated: 2026-11-25 22:59 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Fair Isaac Corp (FICO)**
+
+**1. Demand & Activity**
+Demand is mixed, characterized by robust growth in software but softening in mortgage-related volumes. Software revenues grew 19% year-over-year, driven by a "72% increase in platform ARR." However, the mortgage market remains depressed, with "elevated interest rates and ongoing affordability challenges" keeping "loan originations below historical norms," resulting in a "decline in mortgage originations volume."
+
+**2. Labor & Wages**
+The company is undergoing a moderate reduction in force. Management reported a "$27 million restructuring charge related to a committed plan for workforce reduction."
+
+**3. Pricing Power & Inflation**
+FICO demonstrates robust pricing power, particularly in its B2B segment. B2B revenue increased 39%, "primarily attributable to a higher mortgage origination scores unit price." The company is further leveraging this power by "transitioning to bespoke mortgage originations pricing, tailored to the individual needs of our customers."
+
+**4. Supply Chain & Inventory**
+Not applicable. (No mentions of physical supply chain or inventory levels).
+
+**5. Capital Spending (Capex)**
+Investment in technology remains stable. The company reported "Capitalized internal-use software costs" of $35.5 million for the year, a slight increase from $30.5 million in the prior year.

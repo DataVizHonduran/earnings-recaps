@@ -1,0 +1,22 @@
+Ticker: MOS
+Source: MOS_2026-11-03.txt
+Generated: 2026-11-25 23:00 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Mosaic Co. (Q3 2026)**
+
+**1. Demand & Activity: Softening**
+Demand and sales volumes are declining across all primary segments. Potash volumes fell to 2.1 million tonnes from 2.3 million year-over-year ("lower sales volumes across all segments"). Phosphate volumes decreased to 1.4 million tonnes from 1.6 million ("reflecting production curtailments"). In Brazil, Mosaic Fertilizantes saw a robust decline in volumes to 1.9 million tonnes from 2.8 million, driven by "curtailed domestic production and limited customer credit availability."
+
+**2. Labor & Wages: Stable/Not Specified**
+The report does not explicitly detail hiring or turnover; however, it notes that "cost saving actions" were "largely offset by inflationary pressures" within SG&A expenses.
+
+**3. Pricing Power & Inflation: Mixed**
+The company is experiencing moderate pricing power in certain products, with "higher phosphate prices" and "higher distribution margins" in Brazil. However, these gains are being offset by persistent input cost pressures. Phosphate results were negatively impacted by "higher raw material costs," specifically sulfur and ammonia. A recent sulfur contract settlement at $615 per long ton is expected to provide "earnings benefits... primarily in the first quarter of 2027."
+
+**4. Supply Chain & Inventory: Lean/Improving**
+Inventory levels are being managed downward to support liquidity, with a "sequential improvement in operating cash flow" primarily driven by "lower finished goods inventories." Production has been intentionally curtailed in the Phosphate segment due to "limited affordable sulfur availability."
+
+**5. Capital Spending (Capex): Moderate/Declining**
+Capex is trending downward. 2026 expenditures are projected at $1.2 billion, with a target to move "below $1 billion" for 2027. The company is also executing a strategic review of its portfolio, including "land sales totaling $67 million" and the "sale process for the Arax facility in Brazil."

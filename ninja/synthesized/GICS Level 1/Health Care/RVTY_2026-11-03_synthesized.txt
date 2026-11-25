@@ -1,0 +1,22 @@
+Ticker: RVTY
+Source: RVTY_2026-11-03.txt
+Generated: 2026-11-25 23:00 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Revvity, Inc. (Q3 2026)**
+
+**1. Demand & Activity: Moderate Growth**
+Demand is expanding across core segments, with management noting that "end market conditions continuing to improve" ("end market conditions continuing to improve"). Growth is broad-based, though skewed toward Life Sciences, which saw a "pro forma organic revenue increase [of] 9%" ("pro forma organic revenue increased 9%"), compared to a more modest "pro forma organic revenue increase [of] 5%" in Diagnostics ("pro forma organic revenue increased 5%").
+
+**2. Labor & Wages: Stable/Neutral**
+The report does not detail specific wage inflation or headcount changes, though it lists the "ability to retain key personnel" as a general risk factor ("our ability to retain key personnel").
+
+**3. Pricing Power & Inflation: Stable**
+There is no explicit mention of recent price hikes; however, the company is seeing margin expansion, with adjusted operating profit margins increasing to 28.7% from 26.1% year-over-year ("Adjusted operating profit margin was 28.7%... as compared to 26.1%").
+
+**4. Supply Chain & Inventory: Stable/Monitoring**
+Current lead times and inventory levels are not quantified. However, the company continues to monitor external logistics risks, specifically "significant disruption in third-party package delivery and import export services or significant increases in prices for those services" ("significant disruption in third-party package delivery... or significant increases in prices").
+
+**5. Capital Spending (Capex): Stable**
+Specific dollar amounts for future Capex were not disclosed, but the company is focused on a "strong pipeline of innovation" ("a strong pipeline of innovation") and the ongoing "benefits of our transformation" ("benefits of our transformation increasingly evident").
