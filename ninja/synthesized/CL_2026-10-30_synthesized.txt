@@ -1,0 +1,22 @@
+Ticker: CL
+Source: CL_2026-10-30.txt
+Generated: 2026-11-26 22:54 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Colgate-Palmolive (CL)**
+
+**1. Demand & Activity**
+Demand is showing modest growth, characterized by a "fourth quarter of sequential improvement in worldwide volume growth" (+1.7% organic volume). Activity is geographically divergent: robust growth in Latin America (+6.0% organic sales, +3.9% volume) and moderate growth in Asia Pacific (+4.6% organic sales), while North American demand is softening (-1.7% organic sales, -3.7% volume). The company notes "consumer uncertainty and ongoing macroeconomic volatility" as headwinds.
+
+**2. Labor & Wages**
+No specific mentions of hiring, turnover, or wage pressures were provided in the release.
+
+**3. Pricing Power & Inflation**
+The company maintains moderate pricing power, delivering "strong pricing growth in the third quarter" (+2.0% total company pricing). This is particularly evident in Latin America (+6.5% pricing). There are signs of input cost relief or improved efficiency, as the company "raised its gross profit margin" guidance for the full year and reported a GAAP gross profit margin increase of 80 basis points to 60.2%.
+
+**4. Supply Chain & Inventory**
+No specific data on lead times or inventory levels was provided.
+
+**5. Capital Spending (Capex)**
+While specific facility spend was not detailed, the company is increasing investment in brand equity and technology, noting "another double-digit increase in advertising this quarter" and a strategic "emphasis on driving premium, science-based innovation."

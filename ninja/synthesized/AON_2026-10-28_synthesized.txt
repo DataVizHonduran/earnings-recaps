@@ -1,0 +1,26 @@
+Ticker: AON
+Source: AON_2026-10-28.txt
+Generated: 2026-11-26 22:53 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Analysis: Aon plc (Q3 2026)**
+
+**1. Demand & Activity**
+Demand is robust and broad-based, characterized by 6% organic revenue growth ("reflecting 6% organic revenue growth, driven by net new business and ongoing strong retention"). 
+*   **Commercial Risk:** Strong growth in North America and EMEA, specifically in M&A services, U.S. core P&C, and construction ("strong growth in M A services and U.S. core P C, and growth in construction").
+*   **Reinsurance:** Robust growth in treaty placements ("strong growth in treaty placements, driven by net new business").
+*   **Health:** Strong international demand for core health and benefits ("particular strength internationally").
+*   **Wealth:** Modest growth in retirement advisory within the UK and EMEA due to regulatory shifts ("continued demand for advisory work in the UK and EMEA related to the ongoing impact of regulatory change").
+
+**2. Labor & Wages**
+Labor costs are stable to slightly increasing, though the company is actively pursuing efficiency gains. Compensation and benefits rose 1% ("Compensation and benefits expense increased $16 million, or 1%"), primarily to support organic growth. However, there is evidence of headcount rationalization via the "Accelerating Aon United" initiative, with a significant spike in restructuring costs ("Accelerating Aon United Restructuring Program expense increased... due primarily to costs related to workforce optimization").
+
+**3. Pricing Power & Inflation**
+The company demonstrates moderate pricing power and the ability to pass through value, evidenced by organic growth across all lines and a 70-basis point expansion in adjusted operating margin ("70 basis points of adjusted margin expansion"). There are no specific mentions of input cost pressures or commodity inflation.
+
+**4. Supply Chain & Inventory**
+Not applicable. As a professional services firm, Aon does not report traditional supply chain lead times or physical inventory levels.
+
+**5. Capital Spending (Capex)**
+Investment in technology is increasing and robust. Capex for the first nine months rose by $45 million ("partially offset by a $45 million increase in capital expenditures"). Spending is focused on AI-enabled analytics and digital transformation ("investments in AI-enabled analytics, innovative capabilities... Aon Business Services investments in ongoing technology initiatives").

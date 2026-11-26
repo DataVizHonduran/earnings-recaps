@@ -1,0 +1,22 @@
+Ticker: TJX
+Source: TJX_2026-11-18.txt
+Generated: 2026-11-26 22:54 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: TJX Companies (Q3 FY27)**
+
+**1. Demand & Activity**
+Demand is **moderate to robust**, with consolidated comparable sales increasing 4% ("consolidated comparable sales increased 4%"). Growth is diversified, with strength noted in HomeGoods, Canada, and International divisions ("continued strength at HomeGoods, TJX Canada, and TJX International"). However, demand in certain U.S. and Canadian categories has been **softening** due to weather ("unseasonably warm weather... has been holding back consumer demand in some categories"), though management expects momentum to accelerate during the holiday season.
+
+**2. Labor & Wages**
+No specific mentions of hiring difficulties or headcount reductions. The company noted an increase in personnel-related costs specifically tied to bonus accruals following tariff refunds ("accrued incremental expenses... for year-end incentive compensation and non-executive discretionary bonuses").
+
+**3. Pricing Power & Inflation**
+The company is experiencing **persistent pressure** from logistics costs, which negatively impacted margins ("adjusted gross profit margin was 32.1%, down 0.5 percentage points... driven by higher freight and fuel costs"). This was partially offset by a one-time benefit from government tariff refunds ("benefit from International Emergency Economic Powers Act (IEEPA) tariff refunds").
+
+**4. Supply Chain & Inventory**
+Inventory levels are **stable** on a per-store basis ("Consolidated inventories on a per-store basis... were flat"). Supply availability is described as **robust**, providing a competitive advantage for the upcoming quarter ("availability of quality merchandise continues to be outstanding").
+
+**5. Capital Spending (Capex)**
+Management indicates a commitment to continued investment in capacity and physical expansion ("remain energized by the opportunities we see to... grow our retail footprint").

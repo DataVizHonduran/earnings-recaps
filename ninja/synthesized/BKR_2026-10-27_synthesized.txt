@@ -1,0 +1,25 @@
+Ticker: BKR
+Source: BKR_2026-10-27.txt
+Generated: 2026-11-26 22:53 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Baker Hughes (BKR)**
+
+**1. Demand & Activity**
+Demand is **robust** and broad-based, characterized by "broad-based commercial momentum" across multiple sectors. 
+*   **Industrial Energy Technology (IET):** Strong growth driven by "data centers, space, LNG and gas infrastructure" ("broad-based demand across data centers, space, LNG and gas infrastructure"). Specifically, AI is driving significant power generation orders for "advanced computing infrastructure supporting AI model training" ("reliable, scalable power for advanced computing infrastructure supporting AI model training").
+*   **Oilfield Services Equipment (OFSE):** Moderate to strong momentum, particularly in international markets with a "meaningful improvement in the Middle East" ("growing momentum across international markets led by a meaningful improvement in the Middle East"). There is a noted shift toward "maximizing recovery and extending asset life" in mature fields.
+*   **Chart:** Solid initial performance with activity in "commercial space customers" and "marine emissions-reduction technology."
+
+**2. Labor & Wages**
+The provided text contains no specific mentions of hiring difficulties, turnover, wage inflation, or headcount adjustments.
+
+**3. Pricing Power & Inflation**
+The report does not explicitly detail price increases or specific input cost pressures. However, the company is successfully capturing value through "integrated solutions" and "complementary capabilities," suggesting a shift toward value-added pricing rather than commodity-based competition ("growing value of our complementary capabilities").
+
+**4. Supply Chain & Inventory**
+The report does not provide specific data on lead times or inventory levels. However, the "record RPO" (Remaining Performance Obligations) of $46.4 billion indicates a significant backlog of committed work, providing "greater revenue visibility" ("The resulting backlog growth provides greater revenue visibility").
+
+**5. Capital Spending (Capex)**
+Investment focus is centered on inorganic growth and capacity expansion. The company recently "completed the previously announced all-cash acquisition of Chart Industries, Inc." to expand its "installed base and recurring aftermarket opportunities." Additionally, the company is investing in localized innovation, such as establishing an "in-country research and technology development center" in Kuwait to "accelerate innovation."
