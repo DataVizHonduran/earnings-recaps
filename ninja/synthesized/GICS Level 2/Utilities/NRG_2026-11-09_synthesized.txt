@@ -1,0 +1,22 @@
+Ticker: NRG
+Source: NRG_2026-11-09.txt
+Generated: 2026-11-26 22:54 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**NRG Economic Signal Summary**
+
+**Demand & Activity:**
+Demand appears stable to modest, though influenced by weather volatility. The company reports "steady earnings and cash flows" from its eight million customers ("our eight million customers and a substantial generation business that produce steady earnings and cash flows"). There is specific growth activity in the data center sector, with a 1.2 GW "Bring Your Own Power" (BYOP) project remaining "on track" to support "load growth" ("Previously announced 1.2 GW Bring Your Own Power (BYOP) data center project remains on track").
+
+**Labor & Wages:**
+No specific mentions of hiring difficulties, turnover, or wage inflation. The company references a workforce of "17,000 employees" who delivered the quarter's results ("Our 17,000 employees delivered strong third quarter results").
+
+**Pricing Power & Inflation:**
+NRG is seeing moderate pricing strength in specific markets and segments. The company noted "higher realized capacity prices in the East" and "increased retail margins" in Texas ("higher realized capacity prices in the East," "driven by increased retail margins"). Regarding input costs, there is evidence of softening commodity prices, specifically a "decrease in natural gas prices" which led to unrealized losses on economic hedges ("primarily driven by a decrease in natural gas prices").
+
+**Supply Chain & Inventory:**
+No mentions of lead times, supply chain disruptions, or inventory levels.
+
+**Capital Spending (Capex):**
+Capex is focused on strategic capacity shifts and technology. The company is executing a significant divestiture of 4.9 GW of natural-gas assets for $4 billion ("agreement to sell select generation assets"). A portion of these proceeds is earmarked for "contracted growth investments" ("The remaining $1 billion of expected proceeds will provide flexibility for either contracted growth investments or additional debt reduction"). The BYOP data center strategy represents a continued investment in "dispatchable generation" to ensure reliability ("BYOP strategy brings new, dispatchable generation alongside load growth").

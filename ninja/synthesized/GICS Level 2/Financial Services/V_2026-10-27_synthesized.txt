@@ -1,0 +1,22 @@
+Ticker: V
+Source: V_2026-10-27.txt
+Generated: 2026-11-26 22:54 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Visa Inc. (FY2026)**
+
+**1. Demand & Activity: Robust**
+Consumer spending and transaction activity remain strong. Payments volume grew 9% on a constant-dollar basis for the full year ("Payments volume for the twelve months ended September 30, 2026 increased 9%"). Cross-border activity showed robust growth, particularly excluding intra-Europe transactions, which rose 12% for the year ("Cross-border volume excluding transactions within Europe... increased 12% on a constant-dollar basis"). Processed transactions also grew by 9% ("Total processed transactions... were 281.3 billion, a 9% increase").
+
+**2. Labor & Wages: Moderate Pressure**
+The company is experiencing upward pressure on personnel costs. Non-GAAP operating expenses increased 16% for the full year, with a primary driver being staffing costs ("non-GAAP operating expenses increased 16%... primarily driven by increases in personnel and marketing expenses"). Additionally, the company recognized significant severance costs during the year ("special items of... $563 million for severance costs").
+
+**3. Pricing Power & Inflation: Stable/Positive**
+Visa continues to grow revenue through volume and service fees. Net revenue increased 15% for the full year ("Net revenue of $45.9 billion, an increase of 15%"). There is no mention of input cost relief or inflationary pressure on commodities, as the business model is primarily service-based.
+
+**4. Supply Chain & Inventory: N/A**
+As a digital payments network, the company does not report physical supply chain constraints or inventory levels.
+
+**5. Capital Spending (Capex): Moderate**
+Investment is focused on technology and strategic acquisitions to enhance fraud intelligence and network capabilities. The company entered a definitive agreement to acquire BioCatch for $2.4 billion ("agreement to acquire BioCatch... for $2.4 billion in cash"). Management views technology as a primary growth vector ("whenever technology changes commerce, we move with it").

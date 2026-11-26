@@ -1,0 +1,24 @@
+Ticker: BSX
+Source: BSX_2026-10-28.txt
+Generated: 2026-11-26 22:54 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Boston Scientific (BSX)**
+
+**1. Demand & Activity**
+Demand is currently **stable to softening**. While the company saw modest organic growth of 1.5% in Q3 ("growing 1.5 percent on a reported, operational and organic basis"), the outlook is softening, with a projected decline for the next period ("estimates net sales to decline in the fourth quarter of 2026... by approximately (3.0) to (1.0) percent"). 
+*   **Geographic Variance:** Demand is robust in LACA ("10.5 percent operational") and moderate in EMEA ("6.1 percent operational"), while it is softening in APAC ("(1.1) percent operational").
+*   **Product Variance:** Neuromodulation showed robust growth ("13.0 %"), while Urology saw a moderate decline ("(3.1) %").
+
+**2. Labor & Wages**
+No specific data on current wage levels or headcount changes was provided in the results; however, the company identifies "labor shortages and increases in labor costs" as ongoing risk factors.
+
+**3. Pricing Power & Inflation**
+The report does not specify recent price increases or input cost relief. The company continues to monitor the "expected pricing environment" and "cost increases" as potential risks to financial performance.
+
+**4. Supply Chain & Inventory**
+The company does not report specific lead times or inventory levels. However, it notes that "manufacturing, distribution and supply chain disruptions" remain a risk. Operations were recently impacted by a "cybersecurity incident," requiring the company to work with "urgency and resilience to restore operations."
+
+**5. Capital Spending (Capex)**
+Specific capital expenditure figures were not disclosed, but the company is investing in technology and innovation, evidenced by the "strategic collaboration with Heartflow, Inc." to advance AI-powered planning and the commencement of the "Elite AF clinical trial."
