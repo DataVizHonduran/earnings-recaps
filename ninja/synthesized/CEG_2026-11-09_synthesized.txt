@@ -1,0 +1,25 @@
+Ticker: CEG
+Source: CEG_2026-11-09.txt
+Generated: 2026-11-27 22:34 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signals Summary: Constellation Energy (CEG)**
+
+**1. Demand & Activity: Robust**
+Demand is growing rapidly, driven specifically by the "growing digital economy" (digital/AI infrastructure). The company is seeing strong appetite for large-scale, emissions-free power, evidenced by new long-term PPAs with hyperscalers Google and Amazon to support new capacity and grid stability ("powering a growing economy while protecting existing customers").
+
+**2. Labor & Wages: Not Addressed**
+The provided text contains no mentions of hiring, turnover, or wage pressures.
+
+**3. Pricing Power & Inflation: Moderate to Strong**
+The company is leveraging high demand to secure long-term, high-value contracts. It is utilizing "integrated customer solutions" (Peak+) to combine new capacity with tailored energy products to meet "evolving needs" of large customers. Financials reflect "favorable market and portfolio conditions," though they are facing "unfavorable interest" pressures.
+
+**4. Supply Chain & Inventory: Not Addressed**
+There are no specific mentions of lead times or material inventory levels.
+
+**5. Capital Spending (Capex): Robust**
+Investment in capacity and technology is accelerating significantly through private and government funding:
+* **Nuclear Expansion:** Over $7.3 billion in planned investments across Calvert Cliffs and 11 other nuclear units to add incremental generation ("more than $3 billion in infrastructure investment" at Calvert Cliffs; "more than $4.3 billion in investment" for Google collaboration).
+* **Acquisitions:** $715 million agreement to acquire the Rhode Island State Energy Center.
+* **Financing:** Secured a conditional DOE loan commitment for up to $5 billion to support nuclear uprates ("conditional loan commitment with the DOE... for up to $5.0 billion").

@@ -1,0 +1,22 @@
+Ticker: CNP
+Source: CNP_2026-10-27.txt
+Generated: 2026-11-27 22:35 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: CenterPoint Energy (CNP)**
+
+**1. Demand & Activity**
+Demand is robust, characterized by accelerated growth in the Greater Houston area. Management notes a "compelling pipeline of additional customer-driven investment opportunities" ("accelerated growth opportunities across Greater Houston") and expects a continued "next wave of customer demand."
+
+**2. Labor & Wages**
+Not addressed. The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation**
+The company is experiencing positive impacts from rate recovery, which contributed to strong quarterly results ("driven by growth and rate recovery"). However, there is modest pressure from financing costs, noting "unfavorable variance from higher financing expenses, reflecting new debt issuances."
+
+**4. Supply Chain & Inventory**
+Not addressed. The provided text contains no mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex)**
+Capital investment is expanding significantly. The company increased its 10-year capital plan by $4.0 billion to a total of $70.7 billion ("Increases 10-year capital plan by $4.0 billion to $70.7 billion"). Additionally, $1.5 billion of investment has been accelerated into the 2026-2030 window to accommodate regional growth, with at least another $10 billion in potential opportunities identified to "enable system reliability, enhance safety and drive economic development."
