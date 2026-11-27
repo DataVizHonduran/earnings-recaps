@@ -1,0 +1,22 @@
+Ticker: EXPD
+Source: EXPD_2026-11-18.txt
+Generated: 2026-11-27 22:35 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided document, the economic signals for EXPD are as follows:
+
+**1. Demand & Activity**
+Demand signals are not explicitly detailed in this presentation, which focuses on structural capabilities rather than quarterly volume. However, the company is positioning for "diversified growth" across geographies and products ("Our strategy is growth diversification across geographies, products, and customers"). There is a noted increase in activity within customs processing, with declaration line counts increasing by 140% from 2025 to 2026 ("DECLARATION LINE COUNT +140% 2025-2026").
+
+**2. Labor & Wages**
+Labor conditions appear stable with a strong emphasis on retention and internal promotion. The company reports high employee tenure, with 37% of staff having 10+ years of service ("Employees with tenure of 10+ years 37%"). There are no mentions of wage inflation or hiring difficulties; instead, the focus is on increasing productivity per employee through technology ("support more shipment volume without equivalent growth in headcount").
+
+**3. Pricing Power & Inflation**
+The provided text contains no specific mentions of price increases, input cost relief, or inflationary pressures on commodities, energy, or freight.
+
+**4. Supply Chain & Inventory**
+There is no mention of current lead times or inventory levels (lean vs. bloated) within the provided text.
+
+**5. Capital Spending (Capex)**
+Investment is currently focused on "Engineering Modernization" and technology infrastructure. The company has significantly expanded its technical workforce, increasing its engineer count from 30% in June 2026 to 70% in September 2026 ("ENGINEERS IN JUNE 2026 30% ENGINEERS IN SEPTEMBER 2026 70%"). Spending is directed toward AI-to-AI connectivity and automation tools to drive productivity ("We are implementing AI-to-AI connectivity with customers and service providers").

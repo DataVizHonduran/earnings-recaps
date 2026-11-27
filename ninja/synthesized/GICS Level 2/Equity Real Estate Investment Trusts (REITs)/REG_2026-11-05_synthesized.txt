@@ -1,0 +1,22 @@
+Ticker: REG
+Source: REG_2026-11-05.txt
+Generated: 2026-11-27 22:35 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Regency Centers (REG)**
+
+**1. Demand & Activity: Robust**
+Demand for retail space is growing, characterized by increasing occupancy and strong leasing velocity. Same Property percent leased rose to 97.0%, an increase of 60 basis points year-over-year ("Same Property percent leased ended the quarter at 97.0%, up 60 basis points year-over-year"). The company executed 1.7 million square feet of new and renewal leases during the quarter.
+
+**2. Labor & Wages: Not Addressed**
+The provided text contains no mentions of hiring, turnover, or wage trends.
+
+**3. Pricing Power & Inflation: Robust**
+The company is demonstrating significant pricing power through substantial rent increases. Blended rent spreads on new and renewal leases were 11.9% on a cash basis and 21.8% on a straight-lined basis ("blended rent spreads of 11.9% on a cash basis and 21.8% on a straight-lined basis"). Additionally, Same Property Net Operating Income (NOI) grew by 5.1% year-over-year.
+
+**4. Supply Chain & Inventory: Not Addressed**
+The provided text contains no mentions of lead times or inventory levels.
+
+**5. Capital Spending (Capex): Not Addressed**
+The provided text does not specify future capital expenditure plans for capacity or technology.

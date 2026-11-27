@@ -1,0 +1,22 @@
+Ticker: HCA
+Source: HCA_2026-10-27.txt
+Generated: 2026-11-27 22:35 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+Based on the provided press release for the third quarter of 2026, the economic signals are as follows:
+
+**1. Demand & Activity**
+Demand appears to be growing at a modest pace, as evidenced by a 3.6% year-over-year increase in revenues ("Revenues increased 3.6 percent to $19.849 billion").
+
+**2. Labor & Wages**
+The provided text does not contain specific mentions of hiring difficulty, turnover, wage increases, or headcount reductions.
+
+**3. Pricing Power & Inflation**
+The document does not explicitly detail pricing actions or specific input cost pressures; however, the modest increase in revenues suggests some ability to maintain or grow top-line activity.
+
+**4. Supply Chain & Inventory**
+There is no mention of lead times or inventory levels in the provided text.
+
+**5. Capital Spending (Capex)**
+The provided text does not list specific future investment plans for capacity, technology, or facilities.

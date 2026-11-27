@@ -1,0 +1,22 @@
+Ticker: ANET
+Source: ANET_2026-11-03.txt
+Generated: 2026-11-27 22:34 UTC
+Model: google/gemma-4-31B-it
+============================================================
+
+**Economic Signal Summary: Arista Networks (ANET)**
+
+**1. Demand & Activity: Robust**
+Demand is experiencing robust growth, primarily driven by the generative and agentic AI sectors. The company reported its highest year-over-year revenue growth since its IPO, with Q3 2026 revenues increasing 58.5% over the prior year ("highest year-over-year revenue growth since our IPO"). Momentum is specifically strong in AI networking, with the launch of rack-scale architectures for "scale-up and scale-out AI networks."
+
+**2. Labor & Wages: Stable**
+The report does not explicitly mention hiring difficulties, turnover, or wage inflation. However, there is a moderate increase in stock-based compensation expenses, which rose from $306.1 million to $379.4 million over the first nine months of the year ("Total [Stock-based compensation expense] $379.4").
+
+**3. Pricing Power & Inflation: Stable**
+The company maintains stable pricing power, evidenced by a non-GAAP operating margin of 49.1%, a slight increase from 48.6% in the prior year ("non-GAAP operating margin of 44.9% and 49.1%, respectively, compared to... 42.4% and 48.6%"). There are no mentions of input cost pressures or commodity inflation.
+
+**4. Supply Chain & Inventory: Increasing**
+Inventory levels have increased moderately to support growth. Inventories rose from $2,247.1 million at the end of 2025 to $3,209.8 million as of September 30, 2026 ("Inventories 3,209.8"). Cash flow statements show a significant increase in cash used for inventories ($962.8 million vs $321.1 million in the prior year period).
+
+**5. Capital Spending (Capex): Moderate Increase**
+Investment in physical capacity is increasing moderately. Purchases of property and equipment rose to $184.9 million for the first nine months of 2026, compared to $82.5 million in the same period last year ("Purchases of property and equipment (184.9)").
